@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lazy13source.github.io</id>
-    <title>星球共享计划</title>
-    <updated>2019-08-16T06:26:42.822Z</updated>
+    <title>生财精华预览</title>
+    <updated>2019-08-16T08:05:22.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lazy13source.github.io"/>
     <link rel="self" href="https://lazy13source.github.io/atom.xml"/>
-    <subtitle>生财有术精华前30在线查看</subtitle>
+    <subtitle>共享星球计划</subtitle>
     <logo>https://lazy13source.github.io/images/avatar.png</logo>
     <icon>https://lazy13source.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 星球共享计划</rights>
+    <rights>All rights reserved 2019, 生财精华预览</rights>
     <entry>
         <title type="html"><![CDATA[每周三，带你认识一]]></title>
         <id>https://lazy13source.github.io/post/1</id>
