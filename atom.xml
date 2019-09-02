@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lazy13source.github.io</id>
     <title>共享星球免费版</title>
-    <updated>2019-09-02T11:00:32.771Z</updated>
+    <updated>2019-09-02T11:03:46.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lazy13source.github.io"/>
     <link rel="self" href="https://lazy13source.github.io/atom.xml"/>
@@ -19,6 +19,7 @@
         <content type="html"><![CDATA[<p>通知：<br>
 免费版星球共享已关停<br>
 如需查看请联系小懒人加入知识星球体验计划<br>
+正文，图片，评论，点赞数，超链接。<br>
 媲美原生星球app的体验，等你来撩~</p>
 <p>文章详情 <a href="https://mp.weixin.qq.com/s/JLwzyFhIln3oHp2DuCmjcQ">共享星球在线体验</a></p>
 <p>小懒人等你来撩<br>
