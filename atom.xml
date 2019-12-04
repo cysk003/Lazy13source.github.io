@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lazy13source.github.io</id>
-    <title>懒人搬愚公</title>
-    <updated>2019-12-04T10:05:48.820Z</updated>
+    <title>懒人没有资源啦</title>
+    <updated>2019-12-04T10:07:54.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lazy13source.github.io"/>
     <link rel="self" href="https://lazy13source.github.io/atom.xml"/>
-    <subtitle>仅供体验群内部学习，过段时间销毁</subtitle>
+    <subtitle>无</subtitle>
     <logo>https://lazy13source.github.io/images/avatar.png</logo>
     <icon>https://lazy13source.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 懒人搬愚公</rights>
+    <rights>All rights reserved 2019, 懒人没有资源啦</rights>
     <entry>
         <title type="html"><![CDATA[免责说明]]></title>
         <id>https://lazy13source.github.io/post/firstpage</id>
