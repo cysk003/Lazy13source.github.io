@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lazy13source.github.io</id>
     <title>懒人搬愚公</title>
-    <updated>2019-12-04T02:03:02.549Z</updated>
+    <updated>2019-12-04T02:05:53.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lazy13source.github.io"/>
     <link rel="self" href="https://lazy13source.github.io/atom.xml"/>
@@ -11,19 +11,16 @@
     <icon>https://lazy13source.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 懒人搬愚公</rights>
     <entry>
-        <title type="html"><![CDATA[公众号懒人找资源]]></title>
+        <title type="html"><![CDATA[免责说明]]></title>
         <id>https://lazy13source.github.io/post/firstpage</id>
         <link href="https://lazy13source.github.io/post/firstpage">
         </link>
         <updated>2019-12-04T02:10:54.000Z</updated>
-        <content type="html"><![CDATA[<p>通知：<br>
-免费版星球共享已关停<br>
-如需查看请联系小懒人加入知识星球体验计划<br>
-正文，图片，评论，点赞数，超链接。<br>
-媲美原生星球app的体验，等你来撩~</p>
-<p>文章详情 <a href="https://mp.weixin.qq.com/s/JLwzyFhIln3oHp2DuCmjcQ">共享星球在线体验</a></p>
-<p>小懒人等你来撩<br>
-<img src="http://ww1.sinaimg.cn/large/006WyPJQgy1g65xcb6m52j30m8078gmj.jpg" alt="小懒人微信"></p>
+        <content type="html"><![CDATA[<p>仅供体验群成员学习。<br>
+博客内容来源于体验群群友共享，小懒人和公众号经星主或者星球成员授权整理。<br>
+仅供体验群成员查看学习，如有侵权，请联系小懒人删除。<br>
+大家看的差不多了就销毁该博客。</p>
+<figure data-type="image" tabindex="1"><img src="http://ww1.sinaimg.cn/large/006WyPJQgy1g65xcb6m52j30m8078gmj.jpg" alt="小懒人微信"></figure>
 ]]></content>
     </entry>
     <entry>
