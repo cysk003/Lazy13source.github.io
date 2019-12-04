@@ -1,622 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lazy13source.github.io</id>
-    <title>懒人找资源福利图</title>
-    <updated>2019-10-31T13:49:32.797Z</updated>
+    <title>懒人搬愚公</title>
+    <updated>2019-12-04T01:56:55.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lazy13source.github.io"/>
     <link rel="self" href="https://lazy13source.github.io/atom.xml"/>
-    <subtitle>公众号懒人找资源，自动爬取福利站点</subtitle>
+    <subtitle>仅供体验群内部学习，过段时间销毁</subtitle>
     <logo>https://lazy13source.github.io/images/avatar.png</logo>
     <icon>https://lazy13source.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 懒人找资源福利图</rights>
+    <rights>All rights reserved 2019, 懒人搬愚公</rights>
     <entry>
-        <title type="html"><![CDATA[懒人福利第14期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第14期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第14期">
+        <title type="html"><![CDATA[职场新人的看法]]></title>
+        <id>https://lazy13source.github.io/post/1</id>
+        <link href="https://lazy13source.github.io/post/1">
         </link>
-        <updated>2019-10-29T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8pkuwg5j30wh0od0um.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8qq9dkjg307i0aq4r0.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8q7qipag307408wx6r.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8qhbtwsg308w0f64r1.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8qu5jfvg30dw07su1f.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8q3q63tg30bu08wb2a.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8quymygg30ak0ak1lf.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8ql7sdog306o0bw1l7.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8qd0x77g307i0dcb2d.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8qggfcwg30bo0enqvb.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8tei5a4g30b90fm1l6.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8tfia5wg308w0b3kjs.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8th17vjg308w0d3b2r.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8ps4dktg30cc06ye84.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8pr6v2wj30gs0ebgm0.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8pr59vdj30hs0udwh7.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8pcy15lj30lr0foqds.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8p307wpj30n013x7wh.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h89et3y8j30n00ianag.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8preidlj30fc0j4t9h.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8t5vergj30mj142q4v.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8t5u1vfj30mj0u2jtk.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g8h8t5ucmcj30mj0s5qa5.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hc23mzyeg308c05att3.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hc24olalg30a407lnpd.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hc2613ecg30a407lhdt.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hc27583hg308c05a4qp.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcnw821vj30xc0r2nb4.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcnwzw9hj30xc0p07jp.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0198b44b6a92d27fe3.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcnyilivj30m80rstgn.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01f3c3d2e372257740.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t018b12713b22ee5a2d.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hco1ha8wj30m80rpdr1.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hco2rv16j30m80rpgyt.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hco3yqusj30m80rs497.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hco6gz3oj30xc0m7ao3.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hco79wabj30m80xb7it.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hco7yf7rj30m80xbdse.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hco8qfbyj30m80xbgwu.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t018a2710ecf2380803.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t019cac8537178da65a.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcoazt4dj30m80xc12x.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01a988d6ebb750e898.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b2b3f4d2f5637975.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcocmd2ej30tm18gq7q.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcocyts0j30tm18gjw2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcodh9r7j30tm18gwip.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcodyqmzj30tm18gwji.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t018e6ad281dd33b327.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01daf1fe3fe07a9373.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01c06ba2867e0c2a08.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01da613cd61c5d9520.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcog72u7j30tm18gafa.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0144f10bb26fe08df1.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcoh6009j30tm18gjw9.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0123c7e362a9a20877.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t015220ed9f1b269314.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0189f211fd1ce248fa.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g8hcoj7xrpj30tm18gjwn.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0134488e641fcdc7ce.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0181c6161ac22965bb.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0162a4ae3978576b74.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d9fa8c5e105d802e.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t010c1676e7ab09aed1.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0162a4ae3978576b74.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d9fa8c5e105d802e.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01167e3834254bd016.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t016329cf5c901f6fa3.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01e1cba1db5a00bccc.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0149c51c0512025216.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01cee4bb114332185e.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b820371895c13d3a.jpg" alt=""></p>
+        <updated>2019-11-25T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>远方有诗吗 : 职场新人的看法<br>2019-11-26<img src="https://images.zsxq.com/Fm1VEdjrgo3nF8VQjEjDKQfi6Ggb?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VgjQ763ba3RsOTy3kVyxXRTd3PM=" alt=""><br>点赞数:2<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第13期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第13期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第13期">
+        <title type="html"><![CDATA[有个做新媒体运营的]]></title>
+        <id>https://lazy13source.github.io/post/2</id>
+        <link href="https://lazy13source.github.io/post/2">
         </link>
-        <updated>2019-10-23T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83huw4ljeg30a505a4ah.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t012f9beb60a90e5cf2.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01135442be1e5bc8fd.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01361e42bd3899a6f0.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hv414lyg30a506r1ky.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01e8c45be4f0b14aee.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hv9fhfig30840a5b2c.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01855f3ab3f6620929.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0131158fafd2ca573c.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hvjw9pjg30a506f1l2.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hvlx6pyg30a00a4u0x.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0112dbcb906c648d2d.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01483f519321bc35e4.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t019b4d111d0a3589a1.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01324f91593d8f1ae9.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01f7ea4edf768f1c2c.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hvvudfng30a506r1ky.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01277fece03463bafc.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t017eca831665f508ef.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0107674db754720937.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hw3nedcg30a606sb29.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hw4h4k8g30a6048awi.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t011a423d55f7b55ed7.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hw6vmpgg30a307jx64.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hw8d626g308h0a2e81.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d0113513b25dc9f7.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t017ee26827a05af362.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01e7b553003c18c0e4.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01bef4baf96fccbffe.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01485735a86bba7926.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hwk5mrxg30a204okjm.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hwnyrbog30a4075x6p.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hwotr27g30a40751cy.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hwpttlhg30a505oqtm.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t011e068519866e0fe2.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01a824756eee1e84b6.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t015e79ed38094ababd.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01fce18d031d876dcf.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01131f3a6ed06a2de0.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t011d60985351b82d78.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t010b1c1efaca589e18.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20191019/15150556.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hxkpbgxg30a507a1j2.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hxm3g4ag30a505s7wh.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t016950725b614b67f2.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hxt57urg30a506z7wi.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83hxv6528g309q0a54qq.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83i2hzw6vj30p00xcgrn.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83i2igmcuj30p00jd77k.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g83i2izturj30p00xcte4.jpg" alt=""></p>
+        <updated>2019-11-25T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>花爷梦呓换酒钱 : 有个做新媒体运营的花友在考虑跳槽，花友里如果团队缺人，可以考虑带走。<br><br>1.求职意向：新媒体运营<br><br>2.自己擅长领域和工作经历以及成果：<br><br>擅长基于用户洞察和喜好，做内容和活动营销策划，数据分析优化内容，从0-1搭建企业新媒体矩阵账号！除新媒体外也有其他运营理论方法和互联网思维<br><br>3.工作经历：近3年新媒体运营经验，目前主要做过微信和头条内容平台，从0-1搭建企业新媒体矩阵，创造过30W+，搭建客户反馈机制，策划活动直播客户转化率提高65%，海外仓加盟线上推广项目从0-1，一级页面转化率达22.85%，2个月成功获得130+意向客户；多次热点营销霸屏跨境圈！<br><br>4.联系方式: 详细简历和作品加微信（2496498057）详聊，都是一个圈的人，不合适也没关系就当交个朋友<br><br>5.倾向的公司:能力岗位匹配以及团队价值观匹配,互联网思维驱动的强运营公司，个人方向偏运营.<br>2019-11-26<br>点赞数:2<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第12期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第12期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第12期">
+        <title type="html"><![CDATA[感觉现在个人价值差]]></title>
+        <id>https://lazy13source.github.io/post/3</id>
+        <link href="https://lazy13source.github.io/post/3">
         </link>
-        <updated>2019-10-22T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://p.ssl.qhimg.com/t018b2b7c9fd5fc3894.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01ec879dcb16c4ed69.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01de9c16850558248c.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t014eb1115d8a5a476b.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t015cc8b0631da898b9.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t013bf2629f3c7efefb.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01636060b6e3a55d7c.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b942ca01a199f98d.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816lz7o8jj30m80rsalu.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01bd70e8c18a24967f.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816m0jyq6j30m80vcwsp.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816m1eoltj30m80rsdr9.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816m31dnjj30m810pamb.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816m4icj4j30xc0ov49j.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816m62migj30m80rs4bx.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816m77q42j30m80vf7fh.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816m99jznj30xc0oytrr.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mawb6dj30m80rswry.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mcbu77j30m80rs7fc.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816me13euj30m80vfdta.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01ba468cd4b2f3a9f6.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mhfgr4j30m80vfapr.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mit25xj30m80vfn9w.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01846d5dd7f4518bf5.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mmgjkbj30m80yp1dj.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mnc8eoj30vf18g0z3.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816molwk3j30m80vfn96.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mq69aqj30m80vf7i8.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mrrwukj30m813inc8.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mst2ocj30m80y9wt3.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mtc8cwj30xc0p0ti2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g816mu89uwj30xc0p0wsx.jpg" alt=""></p>
+        <updated>2019-11-24T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>(提问)旁观者 : 感觉现在个人价值差距越来越大了,比如秦小明公众号仅一条广告就10万以上的价格了都赶上普通白领一年的工资了。本人大学毕业之后工作两年转向了互联网发现并不像当初自己期待的那般光鲜,本质上都是打工就是收入多与少的区别罢了。在这里主要想问为什么那些成功人士的成就比普通人高不止一个数量级,除了其在行业内持续的深耕之外有没有其他的秘诀呢?比如很多创业成功的人士往往没有很光鲜的背景,若想实现阶层跃迁都需要有哪些准备?期待花爷解惑<br>2019-11-25<br>回答：人的能力跃迁，主要是不断提升把自己的一份时间销售出多份的能力。</p>
+<p>传统的能力跃迁，主要靠的是搭团队、管理团队。</p>
+<p>比如你在搬砖，哪怕是大力士，一天搬的转量也是有限的。但如果你管理了一个搬砖队，一天能承接的工作量理论上是无限的。同样的时间，效果被成倍扩大了。</p>
+<p>互联网时代，价值流动更快，影响力成了个人完成跃迁的关键。</p>
+<p>比如你在上课，1对100已经非常困难了，但如果你做一门在线课程，理论上可以做到1对无限多学员，边际成本为0。</p>
+<p>但这都不是重点，重点是啥呢？</p>
+<p>道理总是简单的，10万一条广告的自媒体大有人在，你看到人家赚钱好像挺轻松，却看不到人家积攒粉丝、一步步完成影响力跃迁有多难。</p>
+<p>首先，他得不停写文章，开始阶段可能是边上班边写的，大部分公众号可能要写几十篇文章才能完成第一波原始粉丝积累。</p>
+<p>不要觉得很简单，你可以试试利用空余时间，保质保量的连续更新50篇文章。我们星球的平均能力应该高于整个社会圈层的平均能力了，我打赌，90%坚持不下来。</p>
+<p>其次，秦小明出过一门课，然后他去各种渠道投广告，整个模式类似于“用课程赚的钱去投广告，循环往复，大批量的涨粉”。</p>
+<p>这个过程有两个难点，第一，要保证课程赚的钱和投广告费用基本持平，才能保证低成本涨粉。这是个绝对复杂的技术活。</p>
+<p>第二，如果最后整个循环没跑通，很可能把初期积攒的本钱全部亏掉，一夜回到解放前，这是巨大的风险。</p>
+<p>最后，秦小明的自媒体终于做大了，但业务其实也非常多。互联网行业不进则退，自媒体更是有很多突如其来的封号风险，如果是你，真的能把这一切管理的井井有条吗？</p>
+<p>以上每一条，过五关斩六将，要淘汰掉全国99%的人。</p>
+<p>大佬们在做事之前，真的有准备好了这种说法么？</p>
+<p>没有，都是摸着石头过河，如果真的什么都要准备，也就不存在草根崛起的故事了，草根这辈子都准备不完。</p>
+<p>你问除了深耕行业之外，有什么其他秘诀。真的没有。</p>
+<p>方向错了，可以换，方法错了，可以改，成本亏没了，可以从头再来。你唯一要准备的，就是准备好失败100次。</p>
+<p>花爷刚进社会的时候，一帮同批毕业的同学，个个都是踌躇满志，试要闯出一片天。现在大部分都回老家或者退居二线城市了。</p>
+<p>当然，人各有志，我不是说回老家不好，但从生活质量来看，我们的差距确实越拉越大。</p>
+<p>我和这拨同学有什么本质区别吗？</p>
+<p>如果有，那就是，我不管吃了多少屎都没停下，他们闻着臭就捏鼻子走了。</p>
+<p>没啥准备的。第一，干，第二，没成接着干。<br>点赞数:24<br>评论区：<br>花爷梦呓换酒钱 : 补充下，第二点用课程投放涨粉的策略是另一家，我记岔了，秦小明本人还发朋友圈打脸了哈哈哈。写的时候确实是凭印象写的，错了我就认，勘误一下，没啥面子不面子的。这个回答的核心观点还是不变。<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第十一期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第十一期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第十一期">
+        <title type="html"><![CDATA[花爷我想问mb]]></title>
+        <id>https://lazy13source.github.io/post/4</id>
+        <link href="https://lazy13source.github.io/post/4">
         </link>
-        <updated>2019-10-20T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywnu2s95g30a505qqv5.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywnvlyv0g30a505qqv5.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywnxiwdsg30a505qhdt.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywo8knh8g30a405p4qr.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20191015/15495311.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20191015/15500184.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01cd9f462c3b4a8fbf.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywogklx6g307w08qb2b.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywohvtn5g30630a34qp.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0121c2316d27507672.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywoub22dg30820a7u10.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywp0atsdg305r0a5kjn.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01bb74d5823188026b.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d6ee2fc01e80e89b.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01325bb7604c5d9e5d.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b04bb48e12741d46.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b217f17cfd81bfe3.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t012696c2c78fba1b32.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01abd9ccad23f92c86.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d4b682c9d6319352.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b45b968bbc5bb37a.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01c284fd26d12292f8.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0111ff6db6d06fe077.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywpuip9og30820a8x6p.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywpwl1b8g30820a84qq.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t019b5f979430119393.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywux4wcbj30m80rsdtp.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t016c57c8a80bf3133f.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywuxsvzej30m80xc7g8.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01fdc6d9b15751bcd5.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywuykrfxj30m80rstm9.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywuyx35aj30xc0ozalu.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywuzcyzzj30m80xcn8u.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0104e76d42917e2ada.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b1ab967a1498f72d.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01741cfced53a60a6e.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv0mtbbj30m80xck4h.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv1mzihj30m80m845c.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0158d44a7bf3c75c4c.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv2gtiyj30xc0m6qer.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv30v7kj30xc0m8wr1.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01cbe7dd5ec10ee5dd.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv456zoj30m80rs7hh.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t015bdd7469a80493a4.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t013b81d39f6ae3d10e.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv5mjy1j30m80m8k0i.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv6bcyrj30m80rsdv2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv6r6c9j30u011htdc.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv7cy22j30m80rsh07.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv7xdh4j30m80m8dpm.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01fbf489abc1c2b1b9.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t016ce8cb081a6094d1.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b5b56fe27aa4caa5.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv9bs9rj30u00u0aer.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7ywv9z4x2j30m80rsk5k.jpg" alt=""></p>
+        <updated>2019-11-24T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>(提问)匿名用户 : 花爷  我想问mbti测试可信吗？你测过吗<br>2019-11-25<br>回答：这些职场、人格测试，只能说可以测着看看，不要过分当真。</p>
+<p>我自己没测过。</p>
+<p>我不在乎我是什么样的人，我只在乎未来我想成为什么样的人。<br>点赞数:6<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第十期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第十期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第十期">
+        <title type="html"><![CDATA[花爷好请教关于工]]></title>
+        <id>https://lazy13source.github.io/post/5</id>
+        <link href="https://lazy13source.github.io/post/5">
         </link>
-        <updated>2019-10-20T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmpajs0ig30a70544lx.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmpb6rmjg30a505pnpd.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t016f525e00bed0bf3e.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmpdnnnfg30a307q7wl.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmpez3mag309o0a3hdu.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0103b56898a57aec9e.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmpg8ljag307f0a41kx.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t010f642a839f0a667f.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0113e19fc9e664b97f.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t017b770d7c96cc62e7.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t011d17958f40993ff4.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01355a9528df5d9acd.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01449357e35b20588c.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmpkdww5g30a7082npd.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmplgeqcg307d0a4hdu.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmpmk7zng30a705jhdv.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01226092b879766b43.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20191013/16132598.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmpqw99yg307m0a5npd.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmptdxhkg30850a57wk.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t017e994a9e1775fbee.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t016aed4f85739d717d.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0176b434decacded9e.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01729da22d8b44b2bb.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmq5p8b8g30a308eu0z.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmq8bcuzg30a307rx6r.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmqbxpudg30a308ahdw.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmqdmg9cg309l0a71kz.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmqg7fg4g30a309thdw.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t013c6da9064ba044e6.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr3odoij30xc1e1qqt.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr418ctj30xc1e17l7.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr49ujpj30xc0m748z.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t011d9c79af95243fb3.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01c20482f6d44917d2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr502zwj30xc0m7k1s.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr5cokrj30xc1e1qjr.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01c54e8ddbb2104fc9.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr64c38j30xc1e1qnh.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01ad6e039e27fa95a9.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b9e2f247cfacb845.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr8g1upj30xc1e119f.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01a3cb4002035f072c.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr9nkdyj30xc1e17qt.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmr9xvuvj30xc0m7gw6.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmradinxj30xc1e11iv.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmrapkjoj30xc0m7gwv.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmrazdb2j30xc0xcdtc.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmrbjmixj30xc0xc7wh.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmrcalxjj30xc0xc4qp.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7wmrczv4kj30xc0xcnab.jpg" alt=""></p>
+        <updated>2019-11-24T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>(提问)匿名用户 : 花爷好，请教关于工作的问题，谢谢.<br>我本科就读于国内前15的院校，研究生就读于美国前10的院校，在腾讯和字节跳动工作后入职了一个初创的留学公司。目前在留学公司工作了一年，公司规模不大，年收入在2000万左右，老板能力很优秀，我也学到了很多东西，现在对于留学的业务基本都了解。目前到了学生申请高峰季，渐渐发现了公司的一些弊端，包括1.公司的人手严重不足，导致我承担了过多不属于我的工作量，感觉强度过大2.跟老板谈过升职加薪，老板没有明确同意，提出了可以购买股权，但是有4年成熟期，感觉在画大饼。我现在的问题是不知道留下继续做是否合适，也想去大一些的留学公司找级别高一些的职务，或自己创业做。希望花爷点拨<br>2019-11-25<br>回答：你前面描述的不是很清楚，我大概还原一下，名校毕业—腾讯和头条家工作了几年—跳到创业公司做管理层，是这个职业路径吗？</p>
+<p>如果是的话，现在创业还不合适，因为适合创业的人提问时，一定会问到很多具体的创业指标，不会像你这么问问题，显然你的能力和时机还没到。</p>
+<p>你学历和工作履历这么好，应该年薪不会低于30-50万吧，如果还想再进一步，年营收2000万的公司是承载不了你的梦想的，特别是留学创业公司的天花板有限的情况下。</p>
+<p>去更大的公司做管理层吧，我倒是建议别执拗于留学行业，除非你打定主意以后要在这个行业里创业了，否则可以多看几个行业，往上提升的空间会更大。<br>点赞数:7<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第九期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第九期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第九期">
+        <title type="html"><![CDATA[花爷你好我是二]]></title>
+        <id>https://lazy13source.github.io/post/6</id>
+        <link href="https://lazy13source.github.io/post/6">
         </link>
-        <updated>2019-10-19T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u3du5mgpg30a309bqv7.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20191011/11294770.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u3e3frrqg30a405pb2a.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20191011/11310081.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u3el9esmg30a505o7wi.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u3ep7m58g30a505oqv6.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u3es128gg30a505ou0y.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u359lhv1j30ku0dyn3j.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35am4h9j30ku0v84dq.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35bt24mj30ku0vah1w.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35cyu8lj30ku0v94eo.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35dncjkj30ku0uowqu.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35dwrwrj30p018gjtl.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35e7n3jj30zk0ksadu.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t016c54d69a18e19726.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d7840a171c523220.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35fkzd1j30t818gju0.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0110b60d342bb71d84.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35gb80wj30zk0k0djq.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0110b60d342bb71d84.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b112b2befa2db7ff.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t013a2edbee093414fb.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35henzoj30pj18gmzh.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35hx5qaj30zk0nmtgr.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35ikkd3j30ku0dywou.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35jvxipj30ku0dw11l.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35ks9ktj30ku0v2wok.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35losjij30ku0v8tq5.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35mcdsmj30ku0v8qfu.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35mr3d4j30ku0dw131.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35n2lrfj30zk0nmtee.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35nc71kj30nm0zktem.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35np07rj30nm0zk459.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35ohf19j30nm0zkjwr.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35p293cj30nm0zk446.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01ae9e1927d156f739.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01ec8fecc8d2eeb298.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01a44fc3d92a93cd32.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35rk1pgj30nm0zkjyp.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35sn93nj30zk0nm46y.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35td829j30zk0nmguw.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35u007hj30nm0zk112.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35ut1xuj30nm0zkwms.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35vgnkyj30nm0zktg8.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01c29ca0a45d9f049c.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35wiolyj30nm0zk7b0.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35x3tl6j30zk0nmdmz.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35xsd8lj30zk0nm0zx.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01954a238b59660dfc.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35yjy0hj30u00lz76g.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35yvb45j30u00lzgoa.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35z8lz1j30u00m00vf.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u35zpb1fj30m80xc426.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t013090acb928f2c61f.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7u360l0q8j30m80xd0wj.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t011a0022c6fd59d97f.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0119e8e7b029dadcbb.jpg" alt=""></p>
+        <updated>2019-11-24T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>(提问)珈伊 : 花爷，你好，我是二娃妈妈，年龄已经38岁了，10年以上汽车后市场行业工作，上一份工作是在国企互联网（电商）的企业。因为国企比较清闲，所以考了三级心理咨询师证和上了系统的幸福家庭指导老师的课程。嗯，现在从国企出来之后，一直没有合适的工作，现在有想去家庭教育心理咨询这方面去发展。但是又舍不得以前的高工资和高福利的这样的状态（年薪20W），我想问一下花爷心理咨询这一块的发展方向和前景怎么样？是否值得放弃之前的一切，然后从事新的领域。谢谢！<br>2019-11-25<br>回答：那不得不说，你辞职的太急了……年薪20w高福利的国企，你完全可以一边上班，一边摸索心理咨询的业务，等完全成熟了再辞职单干。</p>
+<p>花爷说过一万遍了，副业是主业收入三倍的时候再全职投入，至少至少是两倍。</p>
+<p>心理咨询这个行业，正规医师的发展路径门槛还是挺高的，比较快的发展方式是做相关的课程、咨询和培训，像壹心理、KnowYourself这些号都有不少粉丝。</p>
+<p>还是建议你先看看有没有可能回到原来单位上班，实在不行再尝试自己做粉丝池、做课程变现吧。<br>点赞数:5<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第七期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第七期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第七期">
+        <title type="html"><![CDATA[群里有木有在用友]]></title>
+        <id>https://lazy13source.github.io/post/7</id>
+        <link href="https://lazy13source.github.io/post/7">
         </link>
-        <updated>2019-10-18T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g7c2jvirumj30cs0b20t7.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g7c2jva0nlj30cx0li75n.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/006OBeunly1g7c2llg04mj30g57n6b2b.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01762051e7c4a34d36.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sdrdrag30a6090npd.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2seln9lg30a00651ky.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sezaoyg30630a6qog.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sfsevkg30a00a5qv5.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sgwcm0g308j0a2qv6.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sig0wog308h0a2e84.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01df1afa14ea8b63c7.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2slfdngg307w0a2e84.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2smz0zbg307j0a2b2c.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2snwmtrg305n0a41kx.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sp97owg30730a8e82.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sq8e02g30730a8e82.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sqsdjlg306h0a37wh.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sr7j0xg306p0a6tqp.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2ss295jg307r0a3b2a.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2ssgxr5g305y0a716z.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2ssud0ng305y0a7wz7.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2stpkyog305y0a7u0x.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sv4r27g30a509ax6q.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0111b2c3f47df5c50a.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2sw83cxg305q0a57wh.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tjag2dj30m80rs7b9.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tjl0djj30m80rlgur.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tjw7ldj30m80rl48w.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tk717dj30m80rswow.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tkfbdpj30m80rtahd.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tmuectj30m80rs47s.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tn4l8aj30m80gp7ex.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tng5dqj30m80rsgzm.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tnq4xoj30m80rsdr0.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2to2bjxj30m80rstkp.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2toipo1j30m80rsgwm.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2toxg9sj30m80rstk9.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tp821qj30m80ro7e5.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tpm312j30m80rotkt.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tpyiw4j30m80rlqde.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tqcudgj30m80rlwpj.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tqrsq1j30m80rbqf1.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tr1wrvj30m80p0dpk.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2trex1bj30m80p0qcr.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2trowdjj30m80niwns.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tskns2j30m80msdnt.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tsv2qbj30m80m8jze.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tt3rdhj30m80m8qat.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2ttcwprj30m80g5q8w.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tto1pcj30m80m4ak2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7c2tu4dytj30m80rsk3m.jpg" alt=""></p>
+        <updated>2019-11-24T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>luxury : 群里有木有在用友、Oracle、SAP、Workday企业做销售/产品/研发的朋友？想咨询一下eHR（人力资源系统）方面的情况，是付费咨询，费用为500-2000/小时，会提前提供访谈提纲，有合适的朋友推荐也会提供感谢费~<br>2019-11-25<br>点赞数:1<br>评论区：<br>花爷梦呓换酒钱 : 做咨询公司的吧[奸笑]<br> luxury : 对的[呲牙]<br> 花爷梦呓换酒钱 : 我下次写个咨询公司的商业模式介绍，顺便帮你推一下有没有从业者愿意接单<br> luxury : 谢谢老板<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第六期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第六期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第六期">
+        <title type="html"><![CDATA[GooglePl]]></title>
+        <id>https://lazy13source.github.io/post/8</id>
+        <link href="https://lazy13source.github.io/post/8">
         </link>
-        <updated>2019-10-17T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/mw690/0066CcwRly1g73x4o8hcvj30k407o0t6.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/0066CcwRly1g73x4wt7idj30u01ag7a2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/mw690/6dd57921ly1g782wltbuvj20f00jq402.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic53k1xg30a605tkjl.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic5kh0zg30a405r4qq.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01a99af9c3ef595656.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic6dwgxg30a405ob29.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t015e1ebc34d96463f3.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic6y5kig30a405o7wh.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic756nkg30a405oavg.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0103abaceb8b33febd.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01c78e3c4205dcf1b0.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01652c748af39578d0.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0117c2cdf0395ef323.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ibub3stg30a407akfw.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ibujdfbg30a407a7wh.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0109e9bd5d75bff8dc.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ibv7g2wg305p0a5hdu.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ibvs9kpg30a60a6e84.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01e9fbcf35c3a1e830.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20190923/16185266.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20190923/1619218.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic175kqg30a508u7wk.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic2qh9fg30a00a0b2f.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic30ozng306r0a47iw.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic38ck4g306r0a4tv1.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic3k63dg306r0a47wh.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ic4mi87g30830a4hdx.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01a373565aefaeab8c.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iiwqab4j30nc0t7whh.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iiwxo3yj30q10wjwka.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iix2xcsj30k00cjq4i.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0164bf7e45205cca50.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iixkekqj30nc0wxq7p.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iixq16ej30q10wjwk9.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b46f9e9f48452db4.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iiy0ovdj30k00dcwgi.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01111786f77e97bf63.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t015a6c559f5a1db193.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iiylifrj30k00shwhh.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0138d26b20eaab8b93.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01aab6b3fea1b0463f.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01e2892c12d756f8e8.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iizaepvj30u00u0dhm.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01201786a69541e078.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0159b8091689b19eef.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01e0418c70aa668b7e.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79iizwlwxj30m80gogmq.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t012eaf06a502c5a64d.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ij08krvj30nq0xcwj3.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01c421b63e362b85dc.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g79ij8cxlhj30go1830w7.jpg" alt=""></p>
+        <updated>2019-11-23T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>吾儿滨滨 : <br>Google Play 有很多编程语言或框架的 App，几乎大同小异，把官方文档下载下来，做成应用，通过广告赚钱。<br><br>几乎没有技术门槛，甚至不需要编程，封装一个浏览器（体验差是后话）也能实现。<br><br>稍稍有体验意识，把目录用原生写出来，然后批量复制应用。<br><br>单个应用下载量不高，但想想市面有多少语言和框架。<br><br>换个图标和主题，代码逻辑几乎不变。<br><br>python、Java、JS...<br>django、vue、react...<br><br>后续几乎不需要维护，或者为了排名简单维护（看到几个排名较前的应用，最近一次更新几乎都在年初）<br><br>还有其他玩法，同一个应用，出个付费版（无广告），再赚一波。<br><br>门槛低，竞争激烈，python、js 是重灾区。<br>2019-11-24<img src="https://images.zsxq.com/FpqxvES4MgB80BR7OJUb5oh63_W0?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TM_5vtE22hXzLfbRY8lUK87EvGQ=" alt=""><br>点赞数:11<br>评论区：<br>watson : Gp不会认为你是在搞spam么？上次我在appstore搞类似的事情，第二个APP根本上架不了<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第五期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第五期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第五期">
+        <title type="html"><![CDATA[想了解下花友对于搬]]></title>
+        <id>https://lazy13source.github.io/post/9</id>
+        <link href="https://lazy13source.github.io/post/9">
         </link>
-        <updated>2019-10-14T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7775m9b0gg30a70557wh.gif" alt=""><br>
-<img src="http://www.xoimg.club/u/20190921/16074242.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7774aqaqtg30a805r4oj.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7774ax6mng30a505ptkr.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7774bc1uug30830a7hdt.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0142a09ff38bfa6dfb.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773nhmfej30m80p9wli.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t017db71e8fb155162e.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773nv9fnj30go0faq3s.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t016b170d32b0a6754f.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t012098e2feead6ba94.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773oilcij30m80rrdo6.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773oqzbxj30m80lxqfw.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01f1202ceace6c5469.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01ed0b3ab552ee1532.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773pb4lpj30m80tmwo9.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773pni4pj30m80xc4cq.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0105fb13b844b462f2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773pyq48j30m80lyk2j.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t018ece6a3d70d6798b.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01e962cc13180026c1.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01c7428fd6168484e5.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773qmyx6j30m80mk7j0.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0185ce64f5f7b0d2bf.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773r3pffj30m80m8wmx.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t013bb068600d00d920.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773rfo50j30jv0juabr.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t0126c4a96ed974256b.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773rsx3fj30ku0kjgn7.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01ee7fade8ba4058d0.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773s4s26j30m80t547m.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01152b0ea53bf8611b.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773shx2kj30m80luqb2.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d3e9944e837be3df.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773sw9z3j30m80m8460.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773t46iij30m80r8dm9.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773taxefj30m80matfq.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773tfzlgj30m80phah8.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773tlyj2j30m80o6dnn.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773trmm7j30m80sigs3.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773tyu7vj30m80m8n3y.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773u4uu2j30m80matgi.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773uc6lsj30m80m8tfz.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773uhql7j30g90g8dh6.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01dc32712f1246ceed.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773uym5vj30m80rnn4m.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773v88gqj30m80qodq4.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773vjp00j30m80qqwl2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g7773vrnxtj30m80m60ye.jpg" alt=""></p>
+        <updated>2019-11-23T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>书情 : <br>想了解下花友对于搬运这个问题如何看待？<br>我早在之前就有问过花爷搬运的问题了。<br>可以明确的是，如果是搬运，那我公众号文章更新会很快，粉丝也会快速增长。<br><br>目前已经在做的，看书，整合书的知识作为一个读后感与书本身的内容相结合后形成公众号文章再输出。<br>2019-11-24<img src="https://images.zsxq.com/FuYIgq9NAYLriEO2dQanqFdWfEHB?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eO9a35T1jcdNgr4RCNLJ3ZJYLnw=" alt=""><br>点赞数:7<br>评论区：<br>yy : 长短期问题吧。不论怎样，原创能力必须得提高<br> 花爷梦呓换酒钱 : 做公众号纯搬运做不大的<br></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[懒人福利第四期]]></title>
-        <id>https://lazy13source.github.io/post/懒人福利第四期</id>
-        <link href="https://lazy13source.github.io/post/懒人福利第四期">
+        <title type="html"><![CDATA[还记得之前赵忠祥收]]></title>
+        <id>https://lazy13source.github.io/post/10</id>
+        <link href="https://lazy13source.github.io/post/10">
         </link>
-        <updated>2019-10-13T07:10:55.000Z</updated>
-        <content type="html"><![CDATA[<p>此贴图片为爬虫自动爬取，小懒人及公众号对内容不承担任何责任<br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74umnymygg30a506rnpd.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74umq8enyg305p0a5b29.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01351e6c25d15ff055.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74umvyja2g30a506r4qq.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d875ae4e355b7bb7.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01180c0fcd88269cad.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01fa6b5d449ba88276.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01365bf021937d876a.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01a273ba5722dac24f.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74un97vjqg306b0a51kg.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01bfee02921d94e9b7.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01589d1a3563f9c0e8.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74unit7zfg30a508o1l1.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74unlpidog30670a7hdu.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74unmzwoig305r0a84qp.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74unowsf9g305r0a8e81.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74unqcpopg305r0a87wh.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74unrdds8g30a30867v3.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01601906730e05da11.gif" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74ununk2og308t0a4hdt.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t019475f2332c9ec8a5.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t017ef13b62d388ccf1.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01a2208b77679bc398.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b1de5058ec9077d0.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01d9d2e84b03a721a5.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01b35174575169b14a.gif" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01bb20fb462888c764.jpg" alt=""><br>
-<img src="https://p.ssl.qhimg.com/t01e21319fc01b284c4.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uony761j30m80xbgyc.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uooife1j30m80xbdt2.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uop02inj30m80xbgwc.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uopftlqj30m80xb4az.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uopxgtaj30m80xbtln.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uoqi63dj30m80xbgvv.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uor5296j30m80xbk1w.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uorln9vj30m80xbn7u.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uos3s5vj30m80xbk14.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uosqwpdj30m80xb7ey.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uotkic2j30m80xb49a.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uoucusnj30m80xbwon.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uovc6kxj30xc0m8wmq.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uow5rd3j30m80xbk5e.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uowthq1j30m80xbk1c.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uoxe1tpj30m80xbgvs.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uoy2oeqj30m80xbakb.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uoyp4u0j30m80xbqgq.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uoz92vcj30m80xbdr7.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74uozvzlej30xc0m8qfq.jpg" alt=""><br>
-<img src="https://tva1.sinaimg.cn/large/007qbgWbgy1g74v5yuaaaj30ff237n6f.jpg" alt=""></p>
+        <updated>2019-11-22T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>花爷梦呓换酒钱 : 还记得之前赵忠祥收费录祝福视频的新闻吗？有人专门做了个app，叫wishR，卖全球各种祝福视频。<br><br>花爷看了下，不光有国内名人，连港台、欧美的明星都被摆上课货架。这就有点奇怪，管理这么多全球名人渠道是件非常复杂的工作。<br><br>结果去查了下，国外有个叫cameo的平台，也在做这事儿。国内很可能是接了单再去国外平台下单，还是信息差套利……<br>2019-11-23<img src="https://images.zsxq.com/FoH0W9-U2xNGqo3WeZw389OQGb5R?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R31qDLywmlQvnX0EKdMYKksEftg=" alt=""><br>点赞数:18<br>评论区：<br>(<sup>～</sup>) : 这篇文章有提到<a href=https://mp.weixin.qq.com/s/mVGf9_WcFDonzIk-cfjBIA>谁能靠过气明星的祝福大发横财？ </a><br> 旁观者 : 到底是什么人群为此买单呢?<br> 花爷梦呓换酒钱 : 企业、微商居多，撑场面用的<br></p>
 ]]></content>
     </entry>
 </feed>
