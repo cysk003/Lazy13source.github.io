@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4001</id>
+    <id>https://lazy13source.github.io</id>
     <title>懒人搬愚公</title>
-    <updated>2019-12-04T02:00:32.009Z</updated>
+    <updated>2019-12-04T02:01:45.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4001"/>
-    <link rel="self" href="http://localhost:4001/atom.xml"/>
+    <link rel="alternate" href="https://lazy13source.github.io"/>
+    <link rel="self" href="https://lazy13source.github.io/atom.xml"/>
     <subtitle>仅供体验群内部学习，过段时间销毁</subtitle>
-    <logo>http://localhost:4001/images/avatar.png</logo>
-    <icon>http://localhost:4001/favicon.ico</icon>
+    <logo>https://lazy13source.github.io/images/avatar.png</logo>
+    <icon>https://lazy13source.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 懒人搬愚公</rights>
     <entry>
+        <title type="html"><![CDATA[公众号懒人找资源]]></title>
+        <id>https://lazy13source.github.io/post/firstpage</id>
+        <link href="https://lazy13source.github.io/post/firstpage">
+        </link>
+        <updated>2019-12-04T02:10:54.000Z</updated>
+        <content type="html"><![CDATA[<p>通知：<br>
+免费版星球共享已关停<br>
+如需查看请联系小懒人加入知识星球体验计划<br>
+正文，图片，评论，点赞数，超链接。<br>
+媲美原生星球app的体验，等你来撩~</p>
+<p>文章详情 <a href="https://mp.weixin.qq.com/s/JLwzyFhIln3oHp2DuCmjcQ">共享星球在线体验</a></p>
+<p>小懒人等你来撩<br>
+<img src="http://ww1.sinaimg.cn/large/006WyPJQgy1g65xcb6m52j30m8078gmj.jpg" alt="小懒人微信"></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[职场新人的看法]]></title>
-        <id>http://localhost:4001/post/1</id>
-        <link href="http://localhost:4001/post/1">
+        <id>https://lazy13source.github.io/post/1</id>
+        <link href="https://lazy13source.github.io/post/1">
         </link>
         <updated>2019-11-25T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>远方有诗吗 : 职场新人的看法<br>2019-11-26<img src="https://images.zsxq.com/Fm1VEdjrgo3nF8VQjEjDKQfi6Ggb?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VgjQ763ba3RsOTy3kVyxXRTd3PM=" alt=""><br>点赞数:2<br></p>
@@ -21,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[有个做新媒体运营的]]></title>
-        <id>http://localhost:4001/post/2</id>
-        <link href="http://localhost:4001/post/2">
+        <id>https://lazy13source.github.io/post/2</id>
+        <link href="https://lazy13source.github.io/post/2">
         </link>
         <updated>2019-11-25T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>花爷梦呓换酒钱 : 有个做新媒体运营的花友在考虑跳槽，花友里如果团队缺人，可以考虑带走。<br><br>1.求职意向：新媒体运营<br><br>2.自己擅长领域和工作经历以及成果：<br><br>擅长基于用户洞察和喜好，做内容和活动营销策划，数据分析优化内容，从0-1搭建企业新媒体矩阵账号！除新媒体外也有其他运营理论方法和互联网思维<br><br>3.工作经历：近3年新媒体运营经验，目前主要做过微信和头条内容平台，从0-1搭建企业新媒体矩阵，创造过30W+，搭建客户反馈机制，策划活动直播客户转化率提高65%，海外仓加盟线上推广项目从0-1，一级页面转化率达22.85%，2个月成功获得130+意向客户；多次热点营销霸屏跨境圈！<br><br>4.联系方式: 详细简历和作品加微信（2496498057）详聊，都是一个圈的人，不合适也没关系就当交个朋友<br><br>5.倾向的公司:能力岗位匹配以及团队价值观匹配,互联网思维驱动的强运营公司，个人方向偏运营.<br>2019-11-26<br>点赞数:2<br></p>
@@ -30,8 +46,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[感觉现在个人价值差]]></title>
-        <id>http://localhost:4001/post/3</id>
-        <link href="http://localhost:4001/post/3">
+        <id>https://lazy13source.github.io/post/3</id>
+        <link href="https://lazy13source.github.io/post/3">
         </link>
         <updated>2019-11-24T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>(提问)旁观者 : 感觉现在个人价值差距越来越大了,比如秦小明公众号仅一条广告就10万以上的价格了都赶上普通白领一年的工资了。本人大学毕业之后工作两年转向了互联网发现并不像当初自己期待的那般光鲜,本质上都是打工就是收入多与少的区别罢了。在这里主要想问为什么那些成功人士的成就比普通人高不止一个数量级,除了其在行业内持续的深耕之外有没有其他的秘诀呢?比如很多创业成功的人士往往没有很光鲜的背景,若想实现阶层跃迁都需要有哪些准备?期待花爷解惑<br>2019-11-25<br>回答：人的能力跃迁，主要是不断提升把自己的一份时间销售出多份的能力。</p>
@@ -61,8 +77,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[花爷我想问mb]]></title>
-        <id>http://localhost:4001/post/4</id>
-        <link href="http://localhost:4001/post/4">
+        <id>https://lazy13source.github.io/post/4</id>
+        <link href="https://lazy13source.github.io/post/4">
         </link>
         <updated>2019-11-24T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>(提问)匿名用户 : 花爷  我想问mbti测试可信吗？你测过吗<br>2019-11-25<br>回答：这些职场、人格测试，只能说可以测着看看，不要过分当真。</p>
@@ -72,8 +88,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[花爷好请教关于工]]></title>
-        <id>http://localhost:4001/post/5</id>
-        <link href="http://localhost:4001/post/5">
+        <id>https://lazy13source.github.io/post/5</id>
+        <link href="https://lazy13source.github.io/post/5">
         </link>
         <updated>2019-11-24T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>(提问)匿名用户 : 花爷好，请教关于工作的问题，谢谢.<br>我本科就读于国内前15的院校，研究生就读于美国前10的院校，在腾讯和字节跳动工作后入职了一个初创的留学公司。目前在留学公司工作了一年，公司规模不大，年收入在2000万左右，老板能力很优秀，我也学到了很多东西，现在对于留学的业务基本都了解。目前到了学生申请高峰季，渐渐发现了公司的一些弊端，包括1.公司的人手严重不足，导致我承担了过多不属于我的工作量，感觉强度过大2.跟老板谈过升职加薪，老板没有明确同意，提出了可以购买股权，但是有4年成熟期，感觉在画大饼。我现在的问题是不知道留下继续做是否合适，也想去大一些的留学公司找级别高一些的职务，或自己创业做。希望花爷点拨<br>2019-11-25<br>回答：你前面描述的不是很清楚，我大概还原一下，名校毕业—腾讯和头条家工作了几年—跳到创业公司做管理层，是这个职业路径吗？</p>
@@ -84,8 +100,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[花爷你好我是二]]></title>
-        <id>http://localhost:4001/post/6</id>
-        <link href="http://localhost:4001/post/6">
+        <id>https://lazy13source.github.io/post/6</id>
+        <link href="https://lazy13source.github.io/post/6">
         </link>
         <updated>2019-11-24T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>(提问)珈伊 : 花爷，你好，我是二娃妈妈，年龄已经38岁了，10年以上汽车后市场行业工作，上一份工作是在国企互联网（电商）的企业。因为国企比较清闲，所以考了三级心理咨询师证和上了系统的幸福家庭指导老师的课程。嗯，现在从国企出来之后，一直没有合适的工作，现在有想去家庭教育心理咨询这方面去发展。但是又舍不得以前的高工资和高福利的这样的状态（年薪20W），我想问一下花爷心理咨询这一块的发展方向和前景怎么样？是否值得放弃之前的一切，然后从事新的领域。谢谢！<br>2019-11-25<br>回答：那不得不说，你辞职的太急了……年薪20w高福利的国企，你完全可以一边上班，一边摸索心理咨询的业务，等完全成熟了再辞职单干。</p>
@@ -96,8 +112,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[群里有木有在用友]]></title>
-        <id>http://localhost:4001/post/7</id>
-        <link href="http://localhost:4001/post/7">
+        <id>https://lazy13source.github.io/post/7</id>
+        <link href="https://lazy13source.github.io/post/7">
         </link>
         <updated>2019-11-24T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>luxury : 群里有木有在用友、Oracle、SAP、Workday企业做销售/产品/研发的朋友？想咨询一下eHR（人力资源系统）方面的情况，是付费咨询，费用为500-2000/小时，会提前提供访谈提纲，有合适的朋友推荐也会提供感谢费~<br>2019-11-25<br>点赞数:1<br>评论区：<br>花爷梦呓换酒钱 : 做咨询公司的吧[奸笑]<br> luxury : 对的[呲牙]<br> 花爷梦呓换酒钱 : 我下次写个咨询公司的商业模式介绍，顺便帮你推一下有没有从业者愿意接单<br> luxury : 谢谢老板<br></p>
@@ -105,8 +121,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[GooglePl]]></title>
-        <id>http://localhost:4001/post/8</id>
-        <link href="http://localhost:4001/post/8">
+        <id>https://lazy13source.github.io/post/8</id>
+        <link href="https://lazy13source.github.io/post/8">
         </link>
         <updated>2019-11-23T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>吾儿滨滨 : <br>Google Play 有很多编程语言或框架的 App，几乎大同小异，把官方文档下载下来，做成应用，通过广告赚钱。<br><br>几乎没有技术门槛，甚至不需要编程，封装一个浏览器（体验差是后话）也能实现。<br><br>稍稍有体验意识，把目录用原生写出来，然后批量复制应用。<br><br>单个应用下载量不高，但想想市面有多少语言和框架。<br><br>换个图标和主题，代码逻辑几乎不变。<br><br>python、Java、JS...<br>django、vue、react...<br><br>后续几乎不需要维护，或者为了排名简单维护（看到几个排名较前的应用，最近一次更新几乎都在年初）<br><br>还有其他玩法，同一个应用，出个付费版（无广告），再赚一波。<br><br>门槛低，竞争激烈，python、js 是重灾区。<br>2019-11-24<img src="https://images.zsxq.com/FpqxvES4MgB80BR7OJUb5oh63_W0?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TM_5vtE22hXzLfbRY8lUK87EvGQ=" alt=""><br>点赞数:11<br>评论区：<br>watson : Gp不会认为你是在搞spam么？上次我在appstore搞类似的事情，第二个APP根本上架不了<br></p>
@@ -114,20 +130,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[想了解下花友对于搬]]></title>
-        <id>http://localhost:4001/post/9</id>
-        <link href="http://localhost:4001/post/9">
+        <id>https://lazy13source.github.io/post/9</id>
+        <link href="https://lazy13source.github.io/post/9">
         </link>
         <updated>2019-11-23T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>书情 : <br>想了解下花友对于搬运这个问题如何看待？<br>我早在之前就有问过花爷搬运的问题了。<br>可以明确的是，如果是搬运，那我公众号文章更新会很快，粉丝也会快速增长。<br><br>目前已经在做的，看书，整合书的知识作为一个读后感与书本身的内容相结合后形成公众号文章再输出。<br>2019-11-24<img src="https://images.zsxq.com/FuYIgq9NAYLriEO2dQanqFdWfEHB?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eO9a35T1jcdNgr4RCNLJ3ZJYLnw=" alt=""><br>点赞数:7<br>评论区：<br>yy : 长短期问题吧。不论怎样，原创能力必须得提高<br> 花爷梦呓换酒钱 : 做公众号纯搬运做不大的<br></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还记得之前赵忠祥收]]></title>
-        <id>http://localhost:4001/post/10</id>
-        <link href="http://localhost:4001/post/10">
-        </link>
-        <updated>2019-11-22T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>花爷梦呓换酒钱 : 还记得之前赵忠祥收费录祝福视频的新闻吗？有人专门做了个app，叫wishR，卖全球各种祝福视频。<br><br>花爷看了下，不光有国内名人，连港台、欧美的明星都被摆上课货架。这就有点奇怪，管理这么多全球名人渠道是件非常复杂的工作。<br><br>结果去查了下，国外有个叫cameo的平台，也在做这事儿。国内很可能是接了单再去国外平台下单，还是信息差套利……<br>2019-11-23<img src="https://images.zsxq.com/FoH0W9-U2xNGqo3WeZw389OQGb5R?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R31qDLywmlQvnX0EKdMYKksEftg=" alt=""><br>点赞数:18<br>评论区：<br>(<sup>～</sup>) : 这篇文章有提到<a href=https://mp.weixin.qq.com/s/mVGf9_WcFDonzIk-cfjBIA>谁能靠过气明星的祝福大发横财？ </a><br> 旁观者 : 到底是什么人群为此买单呢?<br> 花爷梦呓换酒钱 : 企业、微商居多，撑场面用的<br></p>
 ]]></content>
     </entry>
 </feed>
