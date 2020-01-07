@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lazy13source.github.io</id>
-    <title>懒人找资源</title>
-    <updated>2020-01-07T12:13:17.143Z</updated>
+    <title>精英投资圈</title>
+    <updated>2020-01-07T12:14:49.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lazy13source.github.io"/>
     <link rel="self" href="https://lazy13source.github.io/atom.xml"/>
-    <subtitle>无</subtitle>
+    <subtitle>因星球闭圈，文章备份于此。仅供个人学习。</subtitle>
     <logo>https://lazy13source.github.io/images/avatar.png</logo>
     <icon>https://lazy13source.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 懒人找资源</rights>
+    <rights>All rights reserved 2020, 精英投资圈</rights>
     <entry>
         <title type="html"><![CDATA[关于2020年安排]]></title>
         <id>https://lazy13source.github.io/post/1</id>
