@@ -2,14 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lazy13source.github.io</id>
     <title>精英投资圈</title>
-    <updated>2020-01-07T12:15:59.523Z</updated>
+    <updated>2020-01-07T12:31:02.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lazy13source.github.io"/>
     <link rel="self" href="https://lazy13source.github.io/atom.xml"/>
-    <subtitle>因星球闭圈，文章备份于此。仅供个人学习。</subtitle>
+    <subtitle>因星球闭圈，文章备份于此。仅供个人学习。
+小懒人微信 I_will_be13</subtitle>
     <logo>https://lazy13source.github.io/images/avatar.png</logo>
     <icon>https://lazy13source.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 精英投资圈</rights>
+    <entry>
+        <title type="html"><![CDATA[免责说明]]></title>
+        <id>https://lazy13source.github.io/post/firstpage</id>
+        <link href="https://lazy13source.github.io/post/firstpage">
+        </link>
+        <updated>2021-01-07T02:10:54.000Z</updated>
+        <content type="html"><![CDATA[<p>所有连接 来源于网络，如有侵权，联系删除<br>
+学习平台来之不易，请勿外传，谢谢~<br>
+<img src="https://upload-images.jianshu.io/upload_images/1858585-0f313f243fdb451b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于2020年安排]]></title>
         <id>https://lazy13source.github.io/post/1</id>
@@ -90,15 +102,6 @@
         </link>
         <updated>2019-12-22T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>禺 : 先说个题外话，知识星球有个机制，离到期还有两个月的时候就会收到续费提醒，因为咱们这个星球是今年2月底开始创建的，所以加入较早的朋友过几天就会收到提醒信息了。一定要注意所有人都不要再进行续费了，现在圈子人太多，维护不过来，要瘦身，过几天我会和大家说明年具体安排。<br><br>长安汽车我多说两句：<br><br>1:我看了中金调研文章，其中有一个信息，cs75plus扣除完全成本后的单车利润在1万左右，如果准确，对于长安来说已经很高了，会很大改变大家对长安自主一直以来形成的赔本赚吆喝的印象。明年长安自主新车不但有逸动plus，这款车也肯定是爆款。还有一款传说中万众期待的新序列车型，因此长安自主明年销量和盈利弹性还是值得期待的。销量明年增长15%-20%，利润暂不作预判。如何验证长安自主盈利能力？很简单等待四季度业绩就可以估算个大概。如果四季度长安自主盈利确实起来了，达到8-10亿左右，那明年长安汽车确定性会提高很多。<br><br>2:关于锐际，有人连实车都没看就指指点点，纸上谈兵，让我觉得很不理解。很多人的印象觉得福特的品牌不如大众，丰田，本田等，认知方面确实不如，但是在20-30万这个价位的车，品牌并不是买车考虑的核心因素，车的颜值，性价比，动力和空间等等都是考量的指标。谁要是觉得开着20-30万的途观就比开锐际有面子，那绝对是脑子不正常的表现。豪车的最低门槛在中国是30-40万起步，价格越高需要品牌认知度越高，不能说是选车唯一指标，但也差不多了。我买辆70-80万的车我就看中两个因素，第一品牌，第二颜值，其他都不重要。但是20-30万这个档次显然合资品牌的差距并没有那么大。性价比，颜值，可靠性，空间等都是考量的标准。而且大家要记住福特有极为庞大的客户群基础，2012-2015年正是福特销售的黄金期，而目前这一批客户逐步都进入换车周期。<br><br>3:之前没有买长安的就不要再考虑了，毕竟已经反弹这么多了，比他性价比好的机会未来有的是。我希望大家通过这个案例主要是学习方法，学习汽车行业怎么投资，学习拐点型企业的分析思路。<br>2019-12-23<br>点赞数:290<br></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梁老师忠实粉丝一]]></title>
-        <id>https://lazy13source.github.io/post/9</id>
-        <link href="https://lazy13source.github.io/post/9">
-        </link>
-        <updated>2019-12-22T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Mr.王 : 梁老师忠实粉丝，一直跟随学习，希望一直跟随。<br>2019-12-23<br>点赞数:0<br></p>
 ]]></content>
     </entry>
 </feed>
