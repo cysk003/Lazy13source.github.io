@@ -10,5 +10,4 @@
 
 ## 小懒微信防走丢
 
-![小懒人微信](https://s4.ax1x.com/2022/02/17/H45Yxf.md.jpg)
-
+![小懒人微信](https://s4.ax1x.com/2022/02/17/H45JRP.md.jpg)
