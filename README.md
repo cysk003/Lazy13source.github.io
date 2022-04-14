@@ -8,7 +8,7 @@
 
 ## 介绍
 
-以下为公众号两年来分享的软件资源（蓝奏盘），截至22年2月22号，最新的分享见公众号发文：
+以下为公众号两年来分享的软件资源（蓝奏盘），截至22年4月13号，最新的分享见公众号发文：
 
 [公众号：懒人找资源](about.md)
 
@@ -18,39 +18,94 @@
 
 [懒人专属群更新记录](blog/专属群更新记录.md)
 
-
-
 | 软件名称                                                     | 下载地址                                                     | 大小    | 日期       |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | :------ | :--------- |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---------- |
+| 扫描君（公众号懒人找资源）.apk                               | https://lazyman.lanzoul.com/ikF73034dx1a                     | 87.3 M  | 2022/4/13  |
 | Adobe系列软件 （ps等破解版）                                 | [下载地址](https://www.yuque.com/docs/share/de69c277-da06-419a-87b7-8feffff2c551?#) |         | 220220     |
-| 思维导图（ XMind亿图图示等破解版）                           | [下载地址](https://www.yuque.com/docs/share/786ab0d2-2374-4fe9-8642-ba5261602c06?#) |         | 220220     |
-| WPS 11.4.1央企定制版（公众号懒人找资源）.apk                 | https://lazyman.lanzoul.com/igxHZ009rzgd                     | 38M     | 220219     |
-| 墨墨背单词3.8.81【解锁单词上限_本软件有封禁风险_请谨慎使用】(公众号懒人找资源) | https://pan.bilnn.com/s/a66mTL                               | 127 M   | 220218     |
-| 懒设计  爆破会员版(公众号懒人找资源).apk                     | https://lazyman.lanzoul.com/iPOpb0041r2f                     | 76.9 M  |            |
-| Cloudbox（公众号懒人找资源）.rar                             | https://lazyman.lanzoul.com/i8rkG002syvg                     | 3.7 M   |            |
-| 阿里云盘TV-v1.0.9 （公众号懒人找资源）.apk                   | https://lazyman.lanzoul.com/it7vv002h1ub                     | 21.6 M  |            |
-| Youku.apk                                                    | https://lazyman.lanzoul.com/i3gtV002gisf                     | 15.7 M  |            |
-| TxVideo.apk                                                  | https://lazyman.lanzoul.com/i5qKB002gili                     | 4.6 M   |            |
-| 哔哩哔哩小爱音箱提取版.apk                                   | https://lazyman.lanzoul.com/icaff002giif                     | 10.4 M  |            |
-| IObitUninstaller便携版.exe                                   | https://lazyman.lanzoul.com/inDuszt8nfa                      | 34.0 M  |            |
-| 磁盘文件分析WizTree3.3.3绿色版.zip                           | https://lazyman.lanzoul.com/iDv1Kzt7zqh                      | 5.4 M   |            |
-| 傲梅分区助手 v9.6.0（公众号懒人找资源）.zip                  | https://lazyman.lanzoul.com/iyuyUzt7wra                      | 34.1 M  |            |
-| 文件夹移动器FolderMove1.2绿色汉化版.rar                      | https://lazyman.lanzoul.com/icHd2zt7s0j                      | 31.9 K  |            |
-| EnhanceFox(公众号懒人找资源).apk                             | https://lazyman.lanzoul.com/iwcnwzj8r9i                      | 58.9 M  |            |
-| Everything-1.4.1.1015.x64.zip                                | https://lazyman.lanzoul.com/i5eeVzcm89g                      | 1.7 M   |            |
-| 好压批量文件改名提取版（公众号懒人找资源）.zip               | https://lazyman.lanzoul.com/izs6Pzcm5ze                      | 7.9 M   |            |
-| 重复文件查找AllDup（公众号懒人找资源）.zip                   | https://lazyman.lanzoul.com/iYSf1zcm5cb                      | 20.2 M  | 2022-01-22 |
-| 懒人文件夹自动整理.rar                                       | https://lazyman.lanzoul.com/iegJ8zcm2ub                      | 8.3 M   | 2022-01-22 |
-| DeskGo_3_2_1445_127_lite.exe                                 | https://lazyman.lanzoul.com/iupjrzclwsd                      | 17.6 M  | 2022-01-12 |
-| 跳一跳辅助（公众号懒人找资源）.apk                           | https://lazyman.lanzoul.com/ihz5Dz8y81g                      | 6.3 M   | 2022-01-21 |
-| 大师兄影视（公众号懒人找资源）.apk                           | https://lazyman.lanzoul.com/iJKvaz783cf                      | 52.6 M  | 2022-01-20 |
-| 数据恢复王（公众号懒人找资源）.zip                           | https://lazyman.lanzoul.com/iafOQz6obde                      | 7.8 M   | 2022-01-20 |
-| 抖音去广告.apk                                               | https://lazyman.lanzoul.com/ii0ZNz62ofc                      | 73.4 M  | 2022-01-19 |
-| douyin-v1.0.2-win32-ia32.exe                                 | https://lazyman.lanzoul.com/ivWS3z60bre                      | 61.0 M  | 2022-01-19 |
-| 吐司单词【公众号懒人找资源】.apk                             | https://lazyman.lanzoul.com/ixJY9z4xb0d                      | 8.1 M   | 2022-01-18 |
-| 白嫖影视.apk                                                 | https://lazyman.lanzoul.com/i8dpDyz0scj                      | 24.4 M  | 2022-01-18 |
-| com.douban.frodo_douban_7.20.0.beta2_231.apk                 | https://lazyman.lanzoul.com/igYu4yy6h0b                      | 74.5 M  | 2022-01-17 |
-| B23Dld-v0.9.5.2-win_64.exe                                   | https://lazyman.lanzoul.com/ifNdryxre6j                      | 13.3 M  | 2022-01-17 |
+| 思维导图（ XMind亿图图示等破解版）                           | [下载地址](https://www.yuque.com/docs/share/786ab0d2-2374-4fe9-8642-ba5261602c06?#) |         |            |
+| 爱剪辑 VIP版(公众号懒人找资源).apk                           | https://lazyman.lanzoul.com/iz7dh032xuze                     | 80.4 M  |            |
+| 阿里小白羊版v2.12.05.7z                                      | https://lazyman.lanzoul.com/i0QFX0326h4d                     | 77.4 M  |            |
+| 2022颠峰特训云题库（公众号懒人找资源）.zip                   | https://lazyman.lanzoul.com/icwTh0300ytc                     | 67.4 M  |            |
+| 小鲸电视_1.2.4 TV版（公众号懒人找资源）.apk                  | https://lazyman.lanzoul.com/if8wp02ygija                     | 14.7 M  |            |
+| JustLive直播_0.2.7 绿版（公众号懒找资源）.apk                | https://lazyman.lanzoul.com/iRdqF02ygcej                     | 17.3 M  |            |
+| BiuBiu播放器_v3.1（公众号懒找资源）.apk                      | https://lazyman.lanzoul.com/ijo5j02vrari                     | 6.5 M   |            |
+| 浮动时间（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/iNv0b02o5wji                     | 17.1 M  |            |
+| ZK助手（公众号懒人找资源）.apk                               | https://lazyman.lanzoul.com/iRsSf02nvtab                     | 17.2 M  |            |
+| lanzou-gui_win64_v0.4.0.7z                                   | https://lazyman.lanzoul.com/iNRyZ02maq6h                     | 27.0 M  |            |
+| 大师兄影视修改版-纯净无广告.apk                              | https://lazyman.lanzoul.com/iaOAq02jnoba                     | 48.2 M  |            |
+| 萤光V1.4.11_免费纯净版（公众号懒人找资源）.apk               | https://lazyman.lanzoul.com/ijJOc02gz2lc                     | 13.0 M  |            |
+| 短信伪造app（公众号懒人找资源）.apk                          | https://lazyman.lanzoul.com/iIKgU0292cqh                     | 9.7 M   |            |
+| 绿去广告（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/iZhpt028rabe                     | 11.0 M  |            |
+| 阿里云盘2.4最后免费版本（公众号懒人找资源）.zip              | https://lazyman.lanzoul.com/i7o9f02772ed                     | 71.1 M  |            |
+| 磁力云 v2.6.5 会员版（公众号懒人找资源）.apk                 | https://lazyman.lanzoul.com/iCg01026v7pc                     | 24.9 M  |            |
+| 快鸟下载V17（公众号懒人找资源）.apk                          | https://lazyman.lanzoul.com/iADwD026tnof                     | 19.1 M  |            |
+| Hydrogen_tunas  无视频／圈子／圆桌等功能／评论只能看不能发表（公众号懒找资源）.apk | https://lazyman.lanzoul.com/iPnOU026px1i                     | 4.4 M   |            |
+| 知乎小米定制版（简洁）（公众号懒人找资源）.apk               | https://lazyman.lanzoul.com/ihI0t021m4ch                     | 29.1 M  |            |
+| VisiPics重复照清理（公众号懒找资源）.7z                      | https://lazyman.lanzoul.com/ijGO701yyyaj                     | 1.8 M   |            |
+| WPS2016单文件极简版（公众号懒人找资源）.rar                  | https://lazyman.lanzoul.com/iW8FV01w99da                     | 30.9 M  |            |
+| 简助手-1.1.1（公众号懒人找资源）.apk                         | https://lazyman.lanzoul.com/i41ED01uogbi                     | 6.9 M   |            |
+| 微软文字转语音V1.0（公众号懒人找资源）.zip                   | https://lazyman.lanzoul.com/ibnZ301tgkuh                     | 35.2 M  |            |
+| 爱我下载器（公众号懒人找资源）.zip                           | https://lazyman.lanzoul.com/i2Zps01rlfej                     | 22.4 M  |            |
+| RunningCheeseChrome.7z                                       | https://lazyman.lanzoul.com/ivPUs01lypzc                     | 93.6 M  |            |
+| RunningCheeseChrome_32bit.7z                                 | https://lazyman.lanzoul.com/i5QFV01lymod                     | 91.4 M  |            |
+| 论文助手三件套（公众号懒人找资源）.zip                       | https://lazyman.lanzoul.com/iNfhG01k809e                     | 17.9 M  |            |
+| 配音神器（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/i5W4L01gsnze                     | 32.4 M  | 2022-03-14 |
+| 几何小说V1.0.3_免费无广告.apk                                | https://lazyman.lanzoul.com/iRX8W01b369g                     | 11.4 M  | 2022-03-11 |
+| IDM6.40.8（最新俄版破姐）（公众号懒人找资源）.zip            | https://lazyman.lanzoul.com/iMqDa018yuaj                     | 15.5 M  | 2022-03-10 |
+| M3U8批量下载器 V1.4.7  1114（11月15日更新）（公众号懒人找资源）.zip | https://lazyman.lanzoul.com/iZp8o018y8sf                     | 25.1 M  | 2022-03-10 |
+| 哔哩商店提取版V1.3.10（公众号懒人找资源）.zip                | https://lazyman.lanzoul.com/iD2rT017xxpa                     | 57.4 M  | 2022-03-09 |
+| 李跳跳_真实好友3.0.apk                                       | https://lazyman.lanzoul.com/i0kEs015uokb                     | 2.5 M   | 2022-03-08 |
+| 李跳跳_波吉1.0_beta3（自动跳过）.apk                         | https://lazyman.lanzoul.com/i5ap7015uoja                     | 2.4 M   | 2022-03-08 |
+| 数码小站v0.1.6.exe                                           | https://lazyman.lanzoul.com/iOYi101416mf                     | 7.6 M   | 2022-03-07 |
+| 格式工厂（高级版）（公众号懒人找资源）.apk                   | https://lazyman.lanzoul.com/iRFQB0105umj                     | 28.9 M  | 2022-03-04 |
+| 29个中文漫画源.zip                                           | https://lazyman.lanzoul.com/iTclj00ttwxe                     | 2.5 M   | 2022-03-01 |
+| tachiyomi-v0.13.1.apk                                        | https://lazyman.lanzoul.com/ii2AR00ttwvc                     | 47.8 M  | 2022-03-01 |
+| Zlibrary(公众号懒人找资源).apk                               | https://lazyman.lanzoul.com/itC6d00ost5c                     | 9.9 M   | 2022-02-26 |
+| VSCO 全滤镜V209 解锁版（公众号懒人找资源）.apk               | https://lazyman.lanzoul.com/imtNs00m09cj                     | 82.3 M  | 2022-02-25 |
+| facetune.apk                                                 | https://lazyman.lanzoul.com/i7zeF00lzvtc                     | 44.9 M  | 2022-02-25 |
+| snapseed.apk                                                 | https://lazyman.lanzoul.com/iV0e200lzr4d                     | 27.5 M  | 2022-02-25 |
+| 一甜相机.apk                                                 | https://lazyman.lanzoul.com/iKHiC00lzkjg                     | 76.2 M  | 2022-02-25 |
+| 泼辣修图v6.0.10会员版.apk                                    | https://lazyman.lanzoul.com/itOxW00lzj1c                     | 54.5 M  | 2022-02-25 |
+| Lightroom v6.3.0高级版.apk                                   | https://lazyman.lanzoul.com/i1D9q00lz7aj                     | 89.3 M  | 2022-02-25 |
+| MIX 滤镜大师v4.9.18会员版.apk                                | https://lazyman.lanzoul.com/i5w8300lya5g                     | 80.8 M  | 2022-02-25 |
+| PicsArt 美易国际版v19.0.0高级版.apk                          | https://lazyman.lanzoul.com/iRPCZ00lxuwh                     | 66.8 M  | 2022-02-25 |
+| Touch Retouch4.3.0破解版.apk                                 | https://lazyman.lanzoul.com/ic56W00lxagb                     | 18.7 M  | 2022-02-25 |
+| 醒图_v3.2.0_会员版.apk                                       | https://lazyman.lanzoul.com/iRwwd00lx9ze                     | 57.8 M  | 2022-02-25 |
+| 无他相机v3.1.8去广告／解锁滤镜会员版.apk                     | https://lazyman.lanzoul.com/iBL6r00lx9fe                     | 46.9 M  | 2022-02-25 |
+| 天天P图_v6.2.2会员版.apk                                     | https://lazyman.lanzoul.com/ipsBU00lx91a                     | 96.6 M  | 2022-02-25 |
+| 马卡龙玩图 v4.4.0 去广告／去更新会员版.apk                   | https://lazyman.lanzoul.com/iGvMM00lx82f                     | 64.5 M  | 2022-02-25 |
+| 轻颜相机v3.5.2高级解锁版.apk                                 | https://lazyman.lanzoul.com/i6nL400lx7da                     | 99.5 M  | 2022-02-25 |
+| 美图秀秀 v8.8.9.1 去广告-解锁全部素材.apk                    | https://lazyman.lanzoul.com/iQRV100lx5za                     | 83.8 M  | 2022-02-25 |
+| HitPawWatermarkRemover绿色便携版（公众号懒人找资源）.rar     | https://lazyman.lanzoul.com/iMNHo00k41hi                     | 87.7 M  | 2022-02-24 |
+| Files Inspector 3.10（公众号懒人找资源）.7z                  | https://lazyman.lanzoul.com/i1k3K00i1paf                     | 16.2 M  | 2022-02-23 |
+| 卡音(公众号懒人找资源).apk                                   | https://lazyman.lanzoul.com/iM0rU00hu19i                     | 3.2 M   | 2022-02-23 |
+| 懒人去水印工具.zip                                           | https://lazyman.lanzoul.com/i44QB00fwo5c                     | 23.7 M  | 2022-02-22 |
+| 疯狂题（公众号懒人找资源）.apk                               | https://lazyman.lanzoul.com/i0IFW00f9yaj                     | 17.1 M  | 2022-02-21 |
+| 爱听书_永久去更新（公众号懒人找资源）.apk                    | https://lazyman.lanzoul.com/iJqt900drs7g                     | 14.6 M  | 2022-02-20 |
+| WPS 11.4.1央企定制版（公众号懒人找资源）.apk                 | https://lazyman.lanzoul.com/igxHZ009rzgd                     | 38.3 M  | 2022-02-18 |
+| 可可英语v4.5.4会员版(公众号懒人找资源).apk                   | https://lazyman.lanzoul.com/iYVRu009okla                     | 42.7 M  | 2022-02-18 |
+| 懒设计 爆破会员版(公众号懒人找资源).apk                      | https://lazyman.lanzoul.com/iPOpb0041r2f                     | 76.9 M  | 2022-02-15 |
+| Cloudbox（公众号懒人找资源）.rar                             | https://lazyman.lanzoul.com/i8rkG002syvg                     | 3.7 M   | 2022-02-14 |
+| 阿里云盘TV-v1.0.9 （公众号懒人找资源）.apk                   | https://lazyman.lanzoul.com/it7vv002h1ub                     | 21.6 M  | 2022-02-14 |
+| Youku.apk                                                    | https://lazyman.lanzoul.com/i3gtV002gisf                     | 15.7 M  | 2022-02-14 |
+| TxVideo.apk                                                  | https://lazyman.lanzoul.com/i5qKB002gili                     | 4.6 M   | 2022-02-14 |
+| 哔哩哔哩小爱音箱提取版.apk                                   | https://lazyman.lanzoul.com/icaff002giif                     | 10.4 M  | 2022-02-14 |
+| IObitUninstaller便携版.exe                                   | https://lazyman.lanzoul.com/inDuszt8nfa                      | 34.0 M  | 2022-02-09 |
+| 磁盘文件分析WizTree3.3.3绿色版.zip                           | https://lazyman.lanzoul.com/iDv1Kzt7zqh                      | 5.4 M   | 2022-02-09 |
+| 傲梅分区助手 v9.6.0（公众号懒人找资源）.zip                  | https://lazyman.lanzoul.com/iyuyUzt7wra                      | 34.1 M  | 2022-02-09 |
+| 文件夹移动器FolderMove1.2绿色汉化版.rar                      | https://lazyman.lanzoul.com/icHd2zt7s0j                      | 31.9 K  | 2022-02-09 |
+| EnhanceFox(公众号懒人找资源).apk                             | https://lazyman.lanzoul.com/iwcnwzj8r9i                      | 58.9 M  | 2022-02-03 |
+| Everything-1.4.1.1015.x64.zip                                | https://lazyman.lanzoul.com/i5eeVzcm89g                      | 1.7 M   | 2022-01-28 |
+| 好压批量文件改名提取版（公众号懒人找资源）.zip               | https://lazyman.lanzoul.com/izs6Pzcm5ze                      | 7.9 M   | 2022-01-28 |
+| 重复文件查找AllDup（公众号懒人找资源）.zip                   | https://lazyman.lanzoul.com/iYSf1zcm5cb                      | 20.2 M  | 2022-01-28 |
+| 懒人文件夹自动整理.rar                                       | https://lazyman.lanzoul.com/iegJ8zcm2ub                      | 8.3 M   | 2022-01-28 |
+| DeskGo_3_2_1445_127_lite.exe                                 | https://lazyman.lanzoul.com/iupjrzclwsd                      | 17.6 M  | 2022-01-28 |
+| 跳一跳辅助（公众号懒人找资源）.apk                           | https://lazyman.lanzoul.com/ihz5Dz8y81g                      | 6.3 M   | 2022-01-25 |
+| 大师兄影视（公众号懒人找资源）.apk                           | https://lazyman.lanzoul.com/iJKvaz783cf                      | 52.6 M  | 2022-01-24 |
+| 数据恢复王（公众号懒人找资源）.zip                           | https://lazyman.lanzoul.com/iafOQz6obde                      | 7.8 M   | 2022-01-24 |
+| 抖音去广告.apk                                               | https://lazyman.lanzoul.com/ii0ZNz62ofc                      | 73.4 M  | 2022-01-23 |
+| douyin-v1.0.2-win32-ia32.exe                                 | https://lazyman.lanzoul.com/ivWS3z60bre                      | 61.0 M  | 2022-01-23 |
+| 吐司单词【公众号懒人找资源】.apk                             | https://lazyman.lanzoul.com/ixJY9z4xb0d                      | 8.1 M   | 2022-01-22 |
 | 迅雷（公众号懒人找资源）.zip                                 | https://lazyman.lanzoul.com/ilqrAyv5llc                      | 71.7 M  | 2022-01-16 |
 | 冰冰bt磁力下载器（公众号懒人找资源）.apk                     | https://lazyman.lanzoul.com/i7dksyv105g                      | 35.8 M  | 2022-01-16 |
 | 彩云天气v6.1.12纯净版.apk                                    | https://lazyman.lanzoul.com/iGKOHyucsrg                      | 45.5 M  | 2022-01-16 |
@@ -102,7 +157,7 @@
 | Windows超级管理器9.41.exe                                    | https://lazyman.lanzoul.com/iMR0zw0p3ch                      | 9.6 M   | 2021-11-01 |
 | 【安卓盒子】风云直播.apk                                     | https://lazyman.lanzoul.com/i6dyww0c9ng                      | 7.3 M   | 2021-11-01 |
 | 闪豆多平台视频批量下载器2.1.8.252安装版.exe                  | https://lazyman.lanzoul.com/iixhPvxxvtc                      | 35.2 M  | 2021-10-30 |
-| 豆瓣*6.40.0_Lite*启动为首页.apk                              | https://lazyman.lanzoul.com/iTeUpvxjeda                      | 53.0 M  | 2021-10-30 |
+| 豆瓣_6.40.0_Lite_启动为首页.apk                              | https://lazyman.lanzoul.com/iTeUpvxjeda                      | 53.0 M  | 2021-10-30 |
 | 七猫免费小说 6.6 会员版（兼容华为）.zip                      | https://lazyman.lanzoul.com/iz9Wevu2xzg                      | 18.2 M  | 2021-10-27 |
 | Cola.apk                                                     | https://lazyman.lanzoul.com/iPPbuvsmo4j                      | 5.4 M   | 2021-10-26 |
 | WiFi钥匙.apk                                                 | https://lazyman.lanzoul.com/iJ1Wrvqtkde                      | 73.2 M  | 2021-10-25 |
@@ -160,7 +215,7 @@
 | 阿里云盘变本地硬盘-1.1.34.exe                                | https://lazyman.lanzoul.com/ilKlysp2lgh                      | 22.9 M  | 2021-08-16 |
 | 【安卓盒子】派TV_免版.apk                                    | https://lazyman.lanzoul.com/iG9yFsnhuwf                      | 19.8 M  | 2021-08-15 |
 | bilimiao_sign.apk                                            | https://lazyman.lanzoul.com/iP5KGskx3gf                      | 13.9 M  | 2021-08-13 |
-| 阿哥美剧*v1.1.6.1*去广告VIP版（公众号懒人找资源）.apk        | https://lazyman.lanzoul.com/ieSBasjatij                      | 21.2 M  | 2021-08-12 |
+| 阿哥美剧_v1.1.6.1_去广告VIP版（公众号懒人找资源）.apk        | https://lazyman.lanzoul.com/ieSBasjatij                      | 21.2 M  | 2021-08-12 |
 | PrettyUp视频像化（公众号懒找资源）.apk                       | https://lazyman.lanzoul.com/iqHINshbnaj                      | 48.8 M  | 2021-08-11 |
 | 联想软件商店.zip                                             | https://lazyman.lanzoul.com/iSD9hseoo8d                      | 47.4 M  | 2021-08-09 |
 | 录音转文字助手【公众号：懒人找资源】.apk                     | https://lazyman.lanzoul.com/idvvAs9ln4f                      | 43.9 M  | 2021-08-05 |
@@ -196,7 +251,7 @@
 | 聚多影视1.0.6（公众号懒人找资源）.apk                        | https://lazyman.lanzoul.com/iZNnaqj2a5c                      | 20.3 M  | 2021-06-20 |
 | symbolab8.10.0（公众号懒人找资源）.apk                       | https://lazyman.lanzoul.com/iTgnpqbhuva                      | 15.3 M  | 2021-06-18 |
 | verycapture1.3.1.zip                                         | https://lazyman.lanzoul.com/iDJSgqb34aj                      | 48.4 M  | 2021-06-18 |
-| 沟通的方法*脱不花 著*202106_扫描版（公众号懒人找资源）.pdf   | https://lazyman.lanzoul.com/ihbSQq9m5ob                      | 93.2 M  | 2021-06-17 |
+| 沟通的方法_脱不花 著_202106_扫描版（公众号懒人找资源）.pdf   | https://lazyman.lanzoul.com/ihbSQq9m5ob                      | 93.2 M  | 2021-06-17 |
 | 证书打印20210601.rar                                         | https://lazyman.lanzoul.com/id0Eeq7v8tg                      | 9.0 M   | 2021-06-15 |
 | Motrix-Setup.rar                                             | https://lazyman.lanzoul.com/igI7Oq70ugj                      | 91.2 M  | 2021-06-14 |
 | Auto Dark Mode.zip                                           | https://lazyman.lanzoul.com/iu1U9q6kn9e                      | 1.5 M   | 2021-06-14 |
@@ -214,7 +269,7 @@
 | 李跳跳（公众号懒人找资源）.apk                               | https://lazyman.lanzoul.com/iig1cpsadne                      | 1.9 M   | 2021-06-04 |
 | 饭团TV(会员版).apk                                           | https://lazyman.lanzoul.com/imlTYpqvhed                      | 12.6 M  | 2021-06-03 |
 | 饭团影视.apk                                                 | https://lazyman.lanzoul.com/isDqjpqvh4d                      | 28.6 M  | 2021-06-03 |
-| ao软*图*解锁会员.apk                                         | https://lazyman.lanzoul.com/i1WFyppre1c                      | 19.5 M  | 2021-06-02 |
+| ao软_图_解锁会员.apk                                         | https://lazyman.lanzoul.com/i1WFyppre1c                      | 19.5 M  | 2021-06-02 |
 | LX Music.apk                                                 | https://lazyman.lanzoul.com/iYgM7ppatkj                      | 9.8 M   | 2021-06-02 |
 | 某图绣绣_解锁会员.apk                                        | https://lazyman.lanzoul.com/inLP7po8zhe                      | 87.7 M  | 2021-06-01 |
 | kkb.apk                                                      | https://lazyman.lanzoul.com/iBBiwpnqqch                      | 15.9 M  | 2021-05-31 |
@@ -255,7 +310,7 @@
 | 看吧_最新版（公众号懒人找资源）.apk                          | https://lazyman.lanzoul.com/iNTrjousvjc                      | 17.6 M  | 2021-05-06 |
 | BiLiBox（公众号懒人找资源）.apk                              | https://lazyman.lanzoul.com/in9Wmosb99g                      | 10.7 M  | 2021-05-04 |
 | Duolingo-Premium-v5.3.4_build_1126-Mod_yxssp.com.apk         | https://lazyman.lanzoul.com/iV0Ugos780h                      | 21.1 M  | 2021-05-04 |
-| 【安卓盒子】*影视*无限使用（公众号懒找资源）.apk             | https://lazyman.lanzoul.com/i1saBoqlk6h                      | 18.2 M  | 2021-05-02 |
+| 【安卓盒子】_影视_无限使用（公众号懒找资源）.apk             | https://lazyman.lanzoul.com/i1saBoqlk6h                      | 18.2 M  | 2021-05-02 |
 | Audio_mack_5.9.1（公众号懒人找资源）.apk                     | https://lazyman.lanzoul.com/iscM8op1cwj                      | 24.7 M  | 2021-05-01 |
 | 网络重置(重置DNS、LSP、ip).bat                               | https://lazyman.lanzoul.com/iElN5onrs5c                      | 96.0 B  | 2021-04-30 |
 | 追剧鸟_解锁会员去广告（公众号懒人找资源）.apk                | https://lazyman.lanzoul.com/icIFIonlx7i                      | 29.4 M  | 2021-04-30 |
@@ -270,7 +325,7 @@
 | 命题库包过版.zip                                             | https://lazyman.lanzoul.com/ivdD8o8k8xi                      | 7.3 M   | 2021-04-18 |
 | CAD迷你画图2020R11最新绿色版.7z                              | https://lazyman.lanzoul.com/ippXEo62bmf                      | 35.3 M  | 2021-04-16 |
 | TikTok可换区精简版【部分机型不兼容】.apk                     | https://lazyman.lanzoul.com/iTvb7o5n9kb                      | 22.1 M  | 2021-04-16 |
-| 太阳直播*v3.0.3*会员*免授权*特权版（暗号：2021）.apk         | https://lazyman.lanzoul.com/iWwUho2mdqh                      | 16.0 M  | 2021-04-15 |
+| 太阳直播_v3.0.3_会员_免授权_特权版（暗号：2021）.apk         | https://lazyman.lanzoul.com/iWwUho2mdqh                      | 16.0 M  | 2021-04-15 |
 | aDrive-2.1.1【公众号懒人找资源】.exe                         | https://lazyman.lanzoul.com/iJtm7o1ivdc                      | 82.6 M  | 2021-04-14 |
 | 去水印全能王（公众号懒人找资源）.apk                         | https://lazyman.lanzoul.com/in5tYo1hogh                      | 74.0 M  | 2021-04-14 |
 | 视频下载器（公众号懒找资源）.apk                             | https://lazyman.lanzoul.com/iPJeHo056af                      | 17.9 M  | 2021-04-13 |
@@ -289,7 +344,7 @@
 | 蓝奏搜.apk                                                   | https://lazyman.lanzoul.com/iMwIfnfvkdc                      | 4.8 M   | 2021-03-29 |
 | 直链提取_1.0_df24816c_enc_sign.apk                           | https://lazyman.lanzoul.com/iZ6ZBnfvkaj                      | 4.8 M   | 2021-03-29 |
 | 文库下载器 (1).zip                                           | https://lazyman.lanzoul.com/iCcQvnfldgd?webpage=AzJTMg5nA2JUMgBgUzYGNQFrAjBefQI0UWcANl05ATYEN1I0DWMDKwdg | 28.0 M  | 2021-03-29 |
-| 来看（视频）*v1.0.0*会员版【公众号懒找资源】.apk             | https://lazyman.lanzoul.com/ido8xnd4y6f                      | 3.6 M   | 2021-03-27 |
+| 来看（视频）_v1.0.0_会员版【公众号懒找资源】.apk             | https://lazyman.lanzoul.com/ido8xnd4y6f                      | 3.6 M   | 2021-03-27 |
 | 爱练字_3.3.02（公众号懒人找资源）.apk                        | https://lazyman.lanzoul.com/ih0fxnacd7a                      | 89.8 M  | 2021-03-25 |
 | MyRadio全球收音机_解锁会员.apk                               | https://lazyman.lanzoul.com/ifqTSn9i1gh                      | 11.7 M  | 2021-03-24 |
 | 宝宝巴士 v7.6.4（无需登录即vip，公众号懒人找资源）.apk       | https://lazyman.lanzoul.com/ihPUnn2yzxc                      | 70.5 M  | 2021-03-19 |
@@ -314,21 +369,21 @@
 | 文字转语音（公众号懒人找资源）.zip                           | https://lazyman.lanzoul.com/itieGm1uvla                      | 15.3 M  | 2021-02-23 |
 | 云听最终版_99.99.99（公众号懒人找资源）.apk                  | https://lazyman.lanzoul.com/ihd84lzzh7a                      | 64.9 M  | 2021-02-22 |
 | 网盘搜索助手 (公众号懒人找资源).zip                          | https://lazyman.lanzoul.com/ipJEnlyl6vi                      | 6.2 M   | 2021-02-21 |
-| 臭云搜搜*V1.0.0*会员版（公众号懒人找资源）.apk               | https://lazyman.lanzoul.com/iUPwtlyhruj                      | 8.7 M   | 2021-02-21 |
-| 追番猫*v5.5.5*无限积分版（可兑换会员）（公众号懒人找资源）.apk | https://lazyman.lanzoul.com/idvYzlwpcvg                      | 19.5 M  | 2021-02-20 |
+| 臭云搜搜_V1.0.0_会员版（公众号懒人找资源）.apk               | https://lazyman.lanzoul.com/iUPwtlyhruj                      | 8.7 M   | 2021-02-21 |
+| 追番猫_v5.5.5_无限积分版（可兑换会员）（公众号懒人找资源）.apk | https://lazyman.lanzoul.com/idvYzlwpcvg                      | 19.5 M  | 2021-02-20 |
 | 卧龙影视v2.1.2(VIP版)（公众号懒人找资源）.apk                | https://lazyman.lanzoul.com/iv4uAlwpcmh                      | 19.1 M  | 2021-02-20 |
 | 搜图神器（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/io3lIltey1e                      | 10.0 M  | 2021-02-18 |
 | 黑鸟播放器（公众号懒找资源）.zip                             | https://lazyman.lanzoul.com/iWV10lpgryd                      | 43.3 M  | 2021-02-15 |
 | 快启动Pro（公众号懒人找资源）.apk                            | https://lazyman.lanzoul.com/iqf4Dlnqhzc                      | 1.7 M   | 2021-02-14 |
 | 经济学人_v2.8.6（2021-1-27更新）（公众号懒人找资源）.apk     | https://lazyman.lanzoul.com/idO9bllzwsh                      | 9.3 M   | 2021-02-12 |
-| 火箭*v1.3.1*会员版【公众号懒人找资源】.apk                   | https://lazyman.lanzoul.com/iqdmDlic45a                      | 23.6 M  | 2021-02-09 |
+| 火箭_v1.3.1_会员版【公众号懒人找资源】.apk                   | https://lazyman.lanzoul.com/iqdmDlic45a                      | 23.6 M  | 2021-02-09 |
 | 暴风直播TV.apk                                               | https://lazyman.lanzoul.com/ifiGJlhewwb                      | 15.1 M  | 2021-02-08 |
 | 中华历史_v5.2.0.apk                                          | https://lazyman.lanzoul.com/is2sIlhbpuj                      | 20.3 M  | 2021-02-08 |
 | FOLL.apk                                                     | https://lazyman.lanzoul.com/iGLOhlfjrxa                      | 13.4 M  | 2021-02-07 |
 | HEU KMS Activator.zip                                        | https://lazyman.lanzoul.com/ik0v5lc0c4j                      | 6.2 M   | 2021-02-05 |
 | 天天听书_精简去广告（公众号懒人找资源）.apk                  | https://lazyman.lanzoul.com/itwgfla3hkb                      | 13.8 M  | 2021-02-03 |
 | 图扫一扫(公众号懒人找资源).apk                               | https://lazyman.lanzoul.com/iDklZl9jlni                      | 28.3 M  | 2021-02-03 |
-| 迪迪影院*v1.6.1*会员版_蓝光版.apk                            | https://lazyman.lanzoul.com/igyhml6m85c                      | 27.2 M  | 2021-02-01 |
+| 迪迪影院_v1.6.1_会员版_蓝光版.apk                            | https://lazyman.lanzoul.com/igyhml6m85c                      | 27.2 M  | 2021-02-01 |
 | 全民自动炸年兽1.5.zip                                        | https://lazyman.lanzoul.com/iByGtl6e9hc                      | 9.5 M   | 2021-02-01 |
 | 视频一键去水印（公众号懒找资源）.apk                         | https://lazyman.lanzoul.com/i67DLl6e1gd                      | 24.9 M  | 2021-02-01 |
 | 年轮单词(公众号懒人找资源).apk                               | https://lazyman.lanzoul.com/i5OYrl4k43c                      | 29.0 M  | 2021-01-31 |
@@ -367,10 +422,10 @@
 | 太阳直播-3.0.3-会员-元旦版（l码：1818）【公众号懒找资源】.apk | https://lazyman.lanzoul.com/ibBjdjx26je                      | 16.0 M  | 2021-01-01 |
 | 龙卷风浏览器（公众号懒人找资源）.rar                         | https://lazyman.lanzoul.com/irumYjv9b4j                      | 81.8 M  | 2020-12-30 |
 | TV543（公众号：懒人找资源）.apk                              | https://lazyman.lanzoul.com/iO4tZjsrl0f                      | 30.5 M  | 2020-12-28 |
-| 悦读免费小说*v5.0.300003_vip*零本【公众号懒人找资源】.apk    | https://lazyman.lanzoul.com/iV9cjjsfleh                      | 7.2 M   | 2020-12-28 |
+| 悦读免费小说_v5.0.300003_vip_零本【公众号懒人找资源】.apk    | https://lazyman.lanzoul.com/iV9cjjsfleh                      | 7.2 M   | 2020-12-28 |
 | 萌趣知音漫客（公众号懒人找资源）.apk                         | https://lazyman.lanzoul.com/inMAdjs2msj                      | 27.2 M  | 2020-12-27 |
 | 音乐编辑器(公众号懒人找资源).apk                             | https://lazyman.lanzoul.com/iAk18jp2ohc                      | 26.4 M  | 2020-12-25 |
-| 海星模拟器会员版*1.1.35*公众号懒人找资源.apk                 | https://lazyman.lanzoul.com/icWyejnubad                      | 4.3 M   | 2020-12-24 |
+| 海星模拟器会员版_1.1.35_公众号懒人找资源.apk                 | https://lazyman.lanzoul.com/icWyejnubad                      | 4.3 M   | 2020-12-24 |
 | 下载神器（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/ivxrnjle31i                      | 21.6 M  | 2020-12-22 |
 | 微商截图大师_v5.4.3_vip【公众号懒人找资源】.apk              | https://lazyman.lanzoul.com/ivfiVjkdiuf                      | 29.8 M  | 2020-12-21 |
 | 美颜相机 v9.6.60 会员版【公众号懒人找资源】.apk              | https://lazyman.lanzoul.com/iOk2ujjmr5c                      | 71.4 M  | 2020-12-20 |
@@ -379,7 +434,7 @@
 | 飞熊影视[公众号：懒人找资源].zip                             | https://lazyman.lanzoul.com/iZeWojg55ch                      | 35.5 M  | 2020-12-17 |
 | Busuu-Premium-v19.12.01.504_build_10503-Mod【公众号懒人找资源】.apk | https://lazyman.lanzoul.com/iARhzjfhu2d                      | 35.0 M  | 2020-12-16 |
 | 应用搜_V1.0.6_vip_Mack【公众号懒人找资源】.apk               | https://lazyman.lanzoul.com/iausFjf4r0f                      | 4.3 M   | 2020-12-16 |
-| Silence影视*v3.1.6_vip*会员版.apk                            | https://lazyman.lanzoul.com/i3CMdjf4qze                      | 13.8 M  | 2020-12-16 |
+| Silence影视_v3.1.6_vip_会员版.apk                            | https://lazyman.lanzoul.com/i3CMdjf4qze                      | 13.8 M  | 2020-12-16 |
 | 最美证件照_v1.0.7(公众号懒人找资源).apk                      | https://lazyman.lanzoul.com/iKh4Eje8pyf                      | 19.8 M  | 2020-12-15 |
 | 生财有术20201214精华更新.pdf                                 | https://lazyman.lanzoul.com/ibkBwjd4dze                      | 46.9 M  | 2020-12-14 |
 | 元气壁纸(公众号懒人找资源).apk                               | https://lazyman.lanzoul.com/iJEOkjbtgwh                      | 6.4 M   | 2020-12-13 |
@@ -388,7 +443,7 @@
 | 讯飞语记5.6.1297VIP版_押尾猫修改【公众号懒人找资源】.apk     | https://lazyman.lanzoul.com/iKlgdjastmd                      | 34.3 M  | 2020-12-12 |
 | 每日英语听力 v9.4.2 会员版【公众号懒人找资源】.apk           | https://lazyman.lanzoul.com/i6KUGjarmdg                      | 64.7 M  | 2020-12-12 |
 | 浮动时间（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/igMD3j8tyte                      | 8.0 M   | 2020-12-10 |
-| 太阳直播*v3.0.2*会员版_码：8080.apk                          | https://lazyman.lanzoul.com/iNUc6j8h0od                      | 16.2 M  | 2020-12-10 |
+| 太阳直播_v3.0.2_会员版_码：8080.apk                          | https://lazyman.lanzoul.com/iNUc6j8h0od                      | 16.2 M  | 2020-12-10 |
 | jre-6u29-windows-i586打印机条码专用.exe                      | https://lazyman.lanzoul.com/io2GFj5ka8h                      | 16.1 M  | 2020-12-08 |
 | 欧路词典_v7.8.7_3(公众号懒人找资源).apk                      | https://lazyman.lanzoul.com/iSYnZj4u6yd                      | 64.0 M  | 2020-12-07 |
 | 欧路词典PC版_v12.4.7（公众号懒人找资源）.exe                 | https://lazyman.lanzoul.com/iz1zoj4kugj                      | 87.6 M  | 2020-12-07 |
@@ -398,7 +453,7 @@
 | 搜云音乐最新版.apk                                           | https://lazyman.lanzoul.com/igKx7izs0of                      | 3.9 M   | 2020-12-02 |
 | Hydrogen.apk                                                 | https://lazyman.lanzoul.com/ibKmMiykjij                      | 3.4 M   | 2020-12-01 |
 | DownKyi 1.2.6(公众号懒人找资源).zip                          | https://lazyman.lanzoul.com/iTdBYix7f2f                      | 21.7 M  | 2020-11-30 |
-| So磁力*v1.1.4*会员版【公众号懒人找资源】.apk                 | https://lazyman.lanzoul.com/iLf7uivccxg                      | 10.1 M  | 2020-11-28 |
+| So磁力_v1.1.4_会员版【公众号懒人找资源】.apk                 | https://lazyman.lanzoul.com/iLf7uivccxg                      | 10.1 M  | 2020-11-28 |
 | 解析工具（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/iZKkHitqvfe                      | 4.8 M   | 2020-11-27 |
 | 照无损修复-点支付，返回就行了（公众号懒人找资源）.apk        | https://lazyman.lanzoul.com/iW2fjissd0h                      | 12.4 M  | 2020-11-26 |
 | USBCopyer.Release.Net3.5.0.exe                               | https://lazyman.lanzoul.com/i0N8Wiq6ygf                      | 155.0 K | 2020-11-24 |
@@ -544,7 +599,7 @@
 | [手机]星火2010_Mod【公众号懒人找资源】.apk                   | https://lazyman.lanzoul.com/ijhrSdkapxg                      | 16.6 M  | 2020-06-11 |
 | 多开分身12.6VIP版押尾猫修改【公众号懒人找资源】.apk          | https://lazyman.lanzoul.com/iVUcCdkaksb                      | 7.6 M   | 2020-06-11 |
 | 变声器v1.9会员版_sign【公众号懒人找资源】.apk                | https://lazyman.lanzoul.com/iM3Qmdk9zeb                      | 11.5 M  | 2020-06-11 |
-| 艺术家*v2.94_20320*高级版(209420320)【公众号懒人找资源】.apk | https://lazyman.lanzoul.com/iliiXdk9z6d                      | 19.3 M  | 2020-06-11 |
+| 艺术家_v2.94_20320_高级版(209420320)【公众号懒人找资源】.apk | https://lazyman.lanzoul.com/iliiXdk9z6d                      | 19.3 M  | 2020-06-11 |
 | 艺术家-v2.94_20685_build_209420685-Mod【公众号懒人找资源】.apk | https://lazyman.lanzoul.com/iOGtVdk9yyf                      | 20.5 M  | 2020-06-11 |
 | 悟空多开分身1.2.1_BeautyMod完美版.apk                        | https://lazyman.lanzoul.com/ibBL2dk9yri                      | 16.0 M  | 2020-06-11 |
 | 悟空多开分身 v1.2.0 会员直装版【公众号懒人找资源】.apk       | https://lazyman.lanzoul.com/ihAKcdk9yja                      | 13.8 M  | 2020-06-11 |
@@ -574,7 +629,7 @@
 | WeChatDownload v20200520.7z                                  | https://lazyman.lanzoul.com/icz1rsd                          | 21.0 M  | 2020-05-25 |
 | (公众号懒找资源)AE特效视频大师.apk                           | https://lazyman.lanzoul.com/icyghnc                          | 44.5 M  | 2020-05-24 |
 | Fit v6.3.6 (公众号懒人找资源)会员直装版.apk                  | https://lazyman.lanzoul.com/icupn4j                          | 51.3 M  | 2020-05-21 |
-| [公众号懒人找资源]*每日瑜伽  v7.15.1.1*解锁vip会员【登录生效】完美版.apk | https://lazyman.lanzoul.com/icuowmf                          | 24.0 M  | 2020-05-21 |
+| [公众号懒人找资源]_每日瑜伽  v7.15.1.1_解锁vip会员【登录生效】完美版.apk | https://lazyman.lanzoul.com/icuowmf                          | 24.0 M  | 2020-05-21 |
 | ApowerMirror.apk                                             | https://lazyman.lanzoul.com/icu6kve                          | 36.0 M  | 2020-05-20 |
 | ApowerMirror.zip                                             | https://lazyman.lanzoul.com/icu6iof                          | 92.5 M  | 2020-05-20 |
 | (公众号懒人找资源)傻瓜英语.apk                               | https://lazyman.lanzoul.com/icorx5g                          | 29.6 M  | 2020-05-16 |
@@ -603,7 +658,7 @@
 | 万能资源搜索助手特别版（含在线播放功能）（乱码版）.exe       | https://lazyman.lanzoul.com/ibhsvre                          | 1.2 M   | 2020-04-16 |
 | FlashDownloadSetup-1.3.3.exe                                 | https://lazyman.lanzoul.com/ibhsvob                          | 18.7 M  | 2020-04-16 |
 | 一键导出微信读书的书籍和笔记.zip                             | https://lazyman.lanzoul.com/ibg286d                          | 97.6 M  | 2020-04-15 |
-| [[www.lazymovie.me](www.lazymovie.me)]蓝瘦_v1.0.0.apk        | https://lazyman.lanzoul.com/ibdmvmj                          | 22.1 M  | 2020-04-14 |
+| [www.lazymovie.me]蓝瘦_v1.0.0.apk                            | https://lazyman.lanzoul.com/ibdmvmj                          | 22.1 M  | 2020-04-14 |
 | WeChatDownload v3.265-Beta7 临时修复版.rar                   | https://lazyman.lanzoul.com/ibcen6b                          | 21.8 M  | 2020-04-13 |
 | 懒人去水印工具.zip                                           | https://lazyman.lanzoul.com/iazvusj                          | 23.7 M  | 2020-04-04 |
 | 3.6短信烘榨机最新永久黄金会员版.apk                          | https://lazyman.lanzoul.com/iavngxi                          | 2.9 M   | 2020-04-01 |
