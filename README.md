@@ -32,7 +32,7 @@
 | 浮动时间（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/iNv0b02o5wji                     | 17.1 M  |            |
 | ZK助手（公众号懒人找资源）.apk                               | https://lazyman.lanzoul.com/iRsSf02nvtab                     | 17.2 M  |            |
 | lanzou-gui_win64_v0.4.0.7z                                   | https://lazyman.lanzoul.com/iNRyZ02maq6h                     | 27.0 M  |            |
-| 大师兄影视修改版-纯净无广告.apk                              | https://lazyman.lanzoul.com/iaOAq02jnoba                     | 48.2 M  |            |
+| 大师兄影视修改版-纯净无广告.apk                              |                                                              | 48.2 M  |            |
 | 萤光V1.4.11_免费纯净版（公众号懒人找资源）.apk               | https://lazyman.lanzoul.com/ijJOc02gz2lc                     | 13.0 M  |            |
 | 短信伪造app（公众号懒人找资源）.apk                          | https://lazyman.lanzoul.com/iIKgU0292cqh                     | 9.7 M   |            |
 | 绿去广告（公众号懒人找资源）.apk                             | https://lazyman.lanzoul.com/iZhpt028rabe                     | 11.0 M  |            |
