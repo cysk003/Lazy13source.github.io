@@ -6,6 +6,8 @@
 
 左上角支持检索关键词~
 
+![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbittersweet-shake-f18.notion.site%2F4478b24e96664514b96798c5e0be722f&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=访问量&edge_flat=false](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbittersweet-shake-f18.notion.site%2F4478b24e96664514b96798c5e0be722f&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=%E8%AE%BF%E9%97%AE%E9%87%8F&edge_flat=false)
+
 ## 介绍
 
 以下为公众号两年来分享的软件资源（蓝奏盘），截至22年4月13号，最新的分享见公众号发文：
