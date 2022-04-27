@@ -1,10 +1,14 @@
-# [懒人找资源](http://lazymovie.me/)
+# [懒人找资源](/README.md)
+
+
 
 ## 介绍
 
 本站点为*公众号懒人找资源*为方便粉丝找资源而制作。
 
 电脑浏览器访问体验更佳！左上角支持搜索关键词~
+
+##### [**更多介绍**](/about.md)
 
 ![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbittersweet-shake-f18.notion.site%2F4478b24e96664514b96798c5e0be722f&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=访问量&edge_flat=false](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbittersweet-shake-f18.notion.site%2F4478b24e96664514b96798c5e0be722f&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=%E8%AE%BF%E9%97%AE%E9%87%8F&edge_flat=false)
 
