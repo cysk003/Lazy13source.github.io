@@ -8,7 +8,12 @@
 
 电脑浏览器访问体验更佳！左上角支持搜索关键词~
 
-##### [**更多介绍**](/about.md)
+<details>
+  <summary>点击查看【免责声明】</summary>
+  <p> -本站为个人博客，博客所发布的一切破解软件、补丁、注册机和注册信息及软件的文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站所有内容均来自网络，版权争议与本站无关，您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容，如有需要，请去软件官网下载正版。访问和下载本站内容，说明您已同意上述条款。本站为非盈利性站点，不贩卖软件，不会收取任何费用，所有内容不作为商业行为。 </p></details>
+
+
+##### [**关注站长**](/about.md)
 
 ![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbittersweet-shake-f18.notion.site%2F4478b24e96664514b96798c5e0be722f&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=访问量&edge_flat=false](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbittersweet-shake-f18.notion.site%2F4478b24e96664514b96798c5e0be722f&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=%E8%AE%BF%E9%97%AE%E9%87%8F&edge_flat=false)
 
