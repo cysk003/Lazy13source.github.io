@@ -14,6 +14,14 @@
 
 ![小懒人微信](https://mpt.135editor.com/mmbiz_jpg/Rmd3GnW8BRuUqcogwqzIzCXDO71IziagWB5xOTNfasZyMq4mOnuOHcDlZzUibCe5WicK7d0ia16RDU72xBr8vEMsKQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
+## 懒人找资源-手册
+
+[懒人找资源 (lazytest.vercel.app)](https://lazytest.vercel.app/#/)
+
+## 懒人找资源 -资源分享站点
+
+[懒人找资源 (lazyso.vercel.app)](https://lazyso.vercel.app/#/)
+
 ## 懒人资源网
 
 [懒人资源网](http://lazymovie.me/)
