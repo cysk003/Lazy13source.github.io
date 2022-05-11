@@ -4,9 +4,9 @@
 
 ## 介绍
 
-本站点为*公众号懒人找资源*为方便粉丝找资源而制作。
+本站点为[公众号懒人找资源](https://mpt.135editor.com/mmbiz_jpg/Rmd3GnW8BRv7LWhSUT7XJOvwgpmFUia2n6w7fWVKwAY0ib7kpZiaHonYqQiaVJHxcXBByu5Cy6siaBlKVKONu2PahoQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)为方便粉丝找资源而制作。
 
-电脑浏览器访问体验更佳！左上角支持搜索关键词~
+电脑浏览器访问体验更佳！**左上角支持搜索关键词~**
 
 <details>
   <summary>点击查看【免责声明】</summary>
