@@ -1,6 +1,24 @@
 # [懒人找资源](/README.md)
 
+<div class="notion-pet-view-container" style="border-radius: 0px;">
+      <div id="app"><svg viewBox="0 0 1625 300">
+  <!-- Symbol -->
+  <symbol id="s-text">
+    <text text-anchor="middle" x="50%" y="50%" dy=".35em">
+      懒人找资源
+    </text>
+  </symbol>
+  <!-- Duplicate symbols -->
+  <use xlink:href="#s-text" class="text"></use>
+  <use xlink:href="#s-text" class="text"></use>
+  <use xlink:href="#s-text" class="text"></use>
+  <use xlink:href="#s-text" class="text"></use>
+  <use xlink:href="#s-text" class="text"></use>
+</svg></div>
 
+</div>
+
+ 
 
 ## 介绍
 
