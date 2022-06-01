@@ -1,14 +1,10 @@
-# [懒人找资源](/README.md)
-
-
+# [懒人找资源-手册](/README.md)
 
 <div data-block-id="9f609260-07be-4663-9d0f-e05e40d92509" class="notion-selectable notion-embed-block" style="width: 480px; max-width: 520px; align-self: center; margin-top: 4px; margin-bottom: 4px;"><div contenteditable="false" data-content-editable-void="true" embed-ghost=""><div style="display: flex;"><div class="notion-cursor-default" style="position: relative; overflow: hidden; flex-grow: 1;"><div style="position: relative;"><div style="position: relative;"><div style="display: block; pointer-events: auto; width: 100%;"><div style="position: relative; display: flex; justify-content: center; width: 100%; min-height: 100px; height: 96px;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px;"><div style="height: 100%; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px; pointer-events: auto;"><iframe src="https://notion.pet/view/index.html?q=54ad1eea622a8ba5156f79fc6eaf5abd.ca780ad5628afa0f0415ac1778491836" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div></div></div></div></div></div></div></div></div></div></div>
 
- 
-
 ## 介绍
 
-本站点为[公众号懒人找资源](https://mpt.135editor.com/mmbiz_jpg/Rmd3GnW8BRv7LWhSUT7XJOvwgpmFUia2n6w7fWVKwAY0ib7kpZiaHonYqQiaVJHxcXBByu5Cy6siaBlKVKONu2PahoQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)为方便粉丝找资源而制作。
+本手册为[公众号懒人找资源](https://mpt.135editor.com/mmbiz_jpg/Rmd3GnW8BRv7LWhSUT7XJOvwgpmFUia2n6w7fWVKwAY0ib7kpZiaHonYqQiaVJHxcXBByu5Cy6siaBlKVKONu2PahoQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)为方便粉丝找资源而制作。
 
 电脑浏览器访问体验更佳！**左上角支持搜索关键词~**
 
