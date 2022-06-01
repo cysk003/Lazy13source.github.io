@@ -1,19 +1,15 @@
-- 本文档作为[懒人专属群](https://mp.weixin.qq.com/s/EcvQKxWqOe91C8XkH7T76Q)内容平时的记录和更新内容
+## 懒人专属群更新记录
 
-  - 年费299 ，付费进群~![](https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg)
+<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费299 ，付费进群~</summary><p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
+
+***
 
 - 2022-5-31
 
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 更新司令付费内容：
-
-  - 《保就业和保企业！.pdf》
-
-  - 《2022.05.29帮与不帮.pdf》
-
-  - 《C29：体系、边界和原则！.pdf》
+  - 更新司令付费内容：《保就业和保企业！.pdf》,《2022.05.29帮与不帮.pdf》,《C29：体系、边界和原则！.pdf》
 
   - 感谢群友自费分享的文章《（付费文）2022年中国房地产政策、房价及个人选择.pdf》
 
@@ -595,8 +591,10 @@
 
   - 分享文档整理课程：https://mp.weixin.qq.com/s/hAI_YXFqmjhHZ7pPAjqUwA
 
-- ### 2021_3月——2022年3月更新记录见文章：[懒人专属群更新记录（备份）](https://mp.weixin.qq.com/s/vkFqyDEV_RF9_0oy-hHRAQ)
+- #### 2021_3月——2022年3月更新记录见文章：[懒人专属群更新记录（备份）](https://mp.weixin.qq.com/s/vkFqyDEV_RF9_0oy-hHRAQ)
 
-- ### 2021_3月——2022年3月更新记录见文章：[懒人专属群更新记录（备份）](https://mp.weixin.qq.com/s/vkFqyDEV_RF9_0oy-hHRAQ)
+- #### 2021_3月——2022年3月更新记录见文章：[懒人专属群更新记录（备份）](https://mp.weixin.qq.com/s/vkFqyDEV_RF9_0oy-hHRAQ)
 
-- ### 2021_3月——2022年3月更新记录见文章：[懒人专属群更新记录（备份）](https://mp.weixin.qq.com/s/vkFqyDEV_RF9_0oy-hHRAQ)
+- #### 2021_3月——2022年3月更新记录见文章：[懒人专属群更新记录（备份）](https://mp.weixin.qq.com/s/vkFqyDEV_RF9_0oy-hHRAQ)
+
+- #### 2021_3月——2022年3月更新记录见文章：[懒人专属群更新记录（备份）](https://mp.weixin.qq.com/s/vkFqyDEV_RF9_0oy-hHRAQ)
