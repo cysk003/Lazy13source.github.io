@@ -26,7 +26,7 @@
 
 [懒人资源网](http://lazymovie.me/)
 
-[website](http://lazymovie.me/ ':include :type=iframe width=100% height=400px')
+[website](http://lazyman.ysepan.com/ ':include :type=iframe width=100% height=400px')
 
 
 
