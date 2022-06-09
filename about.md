@@ -26,6 +26,10 @@
 
 [懒人资源网](http://lazymovie.me/)
 
+[website](http://lazymovie.me/ ':include :type=iframe width=100% height=400px')
+
+
+
 
 
 ## 懒人盘
