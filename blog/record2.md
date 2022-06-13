@@ -1,12 +1,19 @@
 ## 懒人专属群更新记录
 
+建议先 <a href="javascript:location.reload();">点击刷新页面</a> 
+
 ***
 
 <details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费299 ，付费进群~</summary><p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
 
 ***
 
-- **2022-6-4**至**2022-6-14**
+- **2022-6-13**
+
+  - 更新司令付费文章<A669：这一代人为何难以幸福！><A671：最危险的时刻！>
+  - 整理生财1-5期全部内容,已做成不夸克网盘。地址和后续更新见q群公告
+  
+- **2022-6-4**至**2022-6-12**
 
   - 小懒外出度假，专属群管理和分享依旧，但更新记录懒得记。
   
