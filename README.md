@@ -8,7 +8,7 @@
 
 电脑浏览器访问体验更佳！**左上角支持搜索关键词~**
 
-
+<i class="fa fa-weixin"></i> [手册使用介绍点这里查看](https://mp.weixin.qq.com/s/CMMWv86b0m8BnjC7CmM3HA)
 
 ##### [**关于各个资源分布**](/about.md)
 
