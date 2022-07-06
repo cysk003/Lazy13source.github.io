@@ -8,7 +8,9 @@
 
 如未更新， <a href="javascript:location.reload();">点击此处刷新后查看~</a> 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://api.vvhan.com/api/60s" width="600" height="3032">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://api.vvhan.com/api/60s">
+
+***
 
 
 
