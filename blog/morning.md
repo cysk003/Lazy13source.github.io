@@ -10,7 +10,7 @@
 
 
 
- <div style="text-align: center;">    <img class="aligncenter" src="https://api.vvhan.com/api/60s" alt="懒人早报" /></p> </div>
+ <div style="text-align: center;">    <img src="https://v2.alapi.cn/api/zaobao?token=3AmsJAaohHd4Oywf&format=image" alt="每日早报" width="100%"> </div>
 
 ***
 
