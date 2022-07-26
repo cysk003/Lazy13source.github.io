@@ -17,7 +17,7 @@
       <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h4kc2ewzcdj30nc0i7456.jpg" alt="Snipaste_2022-07-26_14-54-14" width="840" data-width="840" data-height="655"></p>
     </details>
   
-  - 群友自费分享付费文章《》
+  - 群友自费分享付费文章《[江宁织造] - 2022-07-24 决策的主线 2.0》
   
 - **220720**
 
