@@ -10,6 +10,15 @@
 
 ***
 
+- 220726
+
+  - <details>
+      <summary>更新生财精华周报，点击展开目录：</summary>
+      <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h4kc2ewzcdj30nc0i7456.jpg" alt="Snipaste_2022-07-26_14-54-14" width="840" data-width="840" data-height="655"></p>
+    </details>
+  
+  - 群友自费分享付费文章《》
+  
 - **220720**
 
   - 群友分享付费文章《A685：听碎裂的声音！.pdf》
