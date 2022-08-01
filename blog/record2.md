@@ -10,6 +10,19 @@
 
 ***
 
+- **220801**
+
+  - 懒人自费五元付费文章《富人在炫富，穷人无路可走？》
+  
+  - <details>
+    <summary>更新生财精华周报，点击展开目录：</summary>
+    <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h4r2489qgbj30nz0imah5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+-  220729
+
+  - 懒人付费文章《[小鹅通视频下载](https://mp.weixin.qq.com/s/lH8Gn6LfzVBndR-ckF0MPQ)》已免费分享
+
 - **220728**
 
   - 更新觉悟社文章<一曲生命的赞歌.pdf><（220728）眼镜【提问】><A8：统治结构的关键支点！.pdf>
