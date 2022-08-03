@@ -8,9 +8,9 @@
 
 ***
 
-<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费365 ，付费进群~</summary>
+<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费339 ，付费进群~</summary>
    <p></p> 
-<a href="https://mp.weixin.qq.com/s/W3vp5gbZmfnBf4JL3GkKCQ">专属群介绍查看这里</a> 
+<a href="https://mp.weixin.qq.com/s/SkYHz6-jkAOlTNsYvyboaQ">专属群介绍查看这里</a> 
 <P>
     扫码添加懒人咨询
 </P>
