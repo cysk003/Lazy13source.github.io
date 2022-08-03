@@ -2,16 +2,28 @@
 
 [**返回网站首页**](/README.md)
 
-建议先 <a href="javascript:location.reload();">点击刷新页面</a> 
+- 建议先 <a href="javascript:location.reload();">点击刷新页面</a> 
 
-[专属群历史文档备份目录](/blog/record3)
-
-***
-
-<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费365 ，付费进群~</summary><p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
+- [专属群历史文档备份目录](/blog/record3)
 
 ***
 
+<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费365 ，付费进群~</summary>
+   <p></p> 
+<a href="https://mp.weixin.qq.com/s/W3vp5gbZmfnBf4JL3GkKCQ">专属群介绍查看这里</a> 
+<P>
+    扫码添加懒人咨询
+</P>
+<p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
+
+
+
+***
+
+- **220803**
+
+  - 《C8：生存结构中的角色！（草稿）.pdf》《C10 愚昧与落后的丑类.pdf》
+  
 - **220802**
 
   - 群友自费付费文章《中国与欧洲的惊奇11月》，《八月必看：抓住个股的机会》
@@ -25,9 +37,10 @@
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h4r2489qgbj30nz0imah5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
   
--  220729
+- **220729**
 
   - 懒人付费文章《[小鹅通视频下载](https://mp.weixin.qq.com/s/lH8Gn6LfzVBndR-ckF0MPQ)》已免费分享
+  - 分享付费文章《（220729）解读七月政治局会议.pdf》
 
 - **220728**
 
