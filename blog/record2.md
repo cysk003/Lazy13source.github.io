@@ -20,6 +20,15 @@
 
 ***
 
+- **220823**：
+
+  - 群友分享自购并费心整理的《王马丁- 折叠时间流》
+  
+  - <details>
+    <summary>更新生财精华周报220823，点击展开目录：</summary>
+    <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h5ghtpkp82j30n70n7ah8.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - **220822**:
 
   - 群友分享付费文《X8:搞钱》，《司马南为啥被封》
