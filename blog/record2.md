@@ -20,6 +20,15 @@
 
 ***
 
+- **220829**：
+
+  - 群友分享付费文章
+  
+  - <details>
+    <summary>更新生财精华周报220829，点击展开目录：</summary>
+    <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h5nmanz58vj30nb0nxaj5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - **220826**：
 
   - 更新司令付费文章《S1：野战防空！.pdf》
