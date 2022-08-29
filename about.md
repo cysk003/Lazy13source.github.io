@@ -16,7 +16,7 @@
 
 ## 懒人找资源-手册
 
-[懒人找资源 (lazytest.vercel.app)](https://lazytest.vercel.app/#/)
+[懒人找资源 (lazybook.netlify.app)](https://lazybook.netlify.app/#/)
 
 ## 懒人找资源 -资源分享站点
 
