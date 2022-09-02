@@ -21,13 +21,19 @@
 - **220902**：
 
   - 群友分享付费文章《九月必看：要有信心，秋季是有行情的》
+  
   - 群友分享付费文章《X9：不负责任的父母！》
-  - 懒人分享《懒人专属群周报（001）》目录见下
+  
+  - <details>
+    <summary>懒人分享《懒人专属群周报（001）》目录见下</summary>
+    <p> <img src="https://tva3.sinaimg.cn/large/0065ZrXsgy1h5sb1r734zj30kj0iz47g.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
   
 - **220901**：
 
   - 群友自费分享《2022-08-09 台湾的三条“技术路径”》
   - 群友分享358元付费文《2022.08.23 房地产双年观：黄金交叉与避险逆化》
+  - 懒人付费文章《[压箱底的工具，快速搞定文档！](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647894005&idx=1&sn=39880ad45586196cfa48b50489c8a274&chksm=f20a19b4c57d90a2a4b75874eaec77810b0b990fdfebcf483b08a093b2053bcc59ccf7c6935f&payreadticket=HCYBXQtilQe5za91AgrG69n5t0IIgRWo-UT3NsikgCoXwQjlwLeJcMzNGaQY-tpgYUFTZkg#rd)》已在专属群免费分享
   
 - **220830**：
 
