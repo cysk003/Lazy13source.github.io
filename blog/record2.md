@@ -18,6 +18,13 @@
 
 ***
 
+- 220905
+
+  - <details>
+    <summary>更新生财精华周报220905，点击展开目录：</summary>
+    <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h5vpogzn02j30ll1ea781.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - **220903**:
 
   - 群友分享288付费文《这次不跟牌，财产变财残.pdf》
