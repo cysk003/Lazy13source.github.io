@@ -18,6 +18,17 @@
 
 ***
 
+- 220909：
+
+  - <details>
+    <summary>懒人分享《懒人专属群周报（002）》目录见下</summary>
+    <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h602qbp00yj30jh0g4jyg.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 220906—220908：
+
+  - 日常的共享见专属群信息，这里懒得记录
+  
 - 220905
 
   - <details>
