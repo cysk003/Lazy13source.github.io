@@ -18,6 +18,20 @@
 
 ***
 
+- 220910—200918：
+
+  - 小懒外出旅行，专属群分享依旧。本文档不做更新。
+  
+  - <details>
+    <summary>更新生财精华周报220913，点击展开目录：</summary>
+    <p> <img src="https://tva3.sinaimg.cn/large/0065ZrXsgy1h6bn3lft0rj30q50zkgnr.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>懒人分享《220916懒人专属群周报》目录见下</summary>
+    <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h6bn3lnuenj30pg0n8dgy.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 220909：
 
   - 分享付费文章《（猫哥的视界）特拉斯执政对英国意味着什么？》
