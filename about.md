@@ -20,15 +20,11 @@
 
 ## 懒人找资源 -资源分享站点
 
-[懒人找资源 (lazyso.vercel.app)](https://lazyso.vercel.app/#/)
+[懒人找资源 (lazyso.netlify.app)](https://lazyso.netlify.app/#/)
 
 ## 懒人资源网
 
 [懒人资源网](http://lazymovie.me/)
-
-
-
-
 
 ## 懒人盘
 
