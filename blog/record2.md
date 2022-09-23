@@ -18,6 +18,13 @@
 
 ***
 
+- 220923：
+
+  - <details>
+    <summary>懒人分享《220923懒人专属群周报》（004）目录见下</summary>
+    <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h6gard6i5tj30kf0gm10w.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 220921：
 
   - 群友分享付费文章《X14：为什么留不住人才！.pdf》
