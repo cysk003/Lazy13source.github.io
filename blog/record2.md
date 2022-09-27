@@ -18,6 +18,13 @@
 
 ***
 
+- 220927：
+
+  - <details>
+    <summary>更新《220927生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h6l1ej7earj30or11g792.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 220926：
 
   - 分享两篇付费文章《大衰退开始的时候，大家都以为是暂时的》，《迷雾中的国运（2）》
