@@ -18,9 +18,17 @@
 
 ***
 
+- 221011：
+
+  - <details>
+    <summary>更新《221011生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h71c8pycduj31h60p11kx.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221009：
 
   - 群友分享付费文章《有些事儿，水太深，不说四两重，说出来，一千斤都打不住》
+  - 分享付费文章《反制的手段！！》
   
 - 221008：
 
