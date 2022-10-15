@@ -18,6 +18,17 @@
 
 ***
 
+- 221015：
+
+  - <details>
+    <summary>懒人分享《221015懒人专属群周报》（007）目录见下</summary>
+    <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h75vlkpitsj30ni0j3wmv.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 221013：
+
+  - 群友分享《老A单位生存教科书pdf》
+  
 - 221011：
 
   - <details>
