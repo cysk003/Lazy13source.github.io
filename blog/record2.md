@@ -18,6 +18,13 @@
 
 ***
 
+- 221018：
+
+  - <details>
+    <summary>更新《221018生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h79ept42avj30kw0ww1ch.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221015：
 
   - <details>
