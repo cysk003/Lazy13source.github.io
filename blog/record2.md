@@ -18,6 +18,10 @@
 
 ***
 
+- 221019：
+
+  - 爬了千篇知乎赚钱案例整理成pdf和epub文档分享，[介绍见文章](https://mp.weixin.qq.com/s/B90-nClLuZuWouyFD-hU8Q)。
+  
 - 221018：
 
   - <details>
