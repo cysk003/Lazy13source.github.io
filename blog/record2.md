@@ -18,6 +18,15 @@
 
 ***
 
+- 221021：
+
+  - 群友分享付费文章《 港股与A股是不同的赌场模式》，觉悟社文章《C15：先行者》
+  
+  - <details>
+    <summary>懒人分享《221021懒人专属群周报》（008）目录见下</summary>
+    <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h7d06yjt3hj30nr0jh47k.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221020：
 
   - 群友分享付费文章《决定性的十年：2020～2030》
