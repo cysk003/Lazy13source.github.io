@@ -15,236 +15,244 @@
     扫码添加懒人咨询
 </P>
 <p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
-
 ***
+
+- 221025：
+
+  - <details>
+    <summary>更新《221025生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h7hhrblsxij30l619e7sg.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+  - 群友分享灏泽付费文章，需要的朋友自取。它的文档不做备份。
 
 - 221021：
 
   - 群友分享付费文章《 港股与A股是不同的赌场模式》，觉悟社文章《C15：先行者》
-  
+
   - <details>
     <summary>懒人分享《221021懒人专属群周报》（008）目录见下</summary>
     <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h7d06yjt3hj30nr0jh47k.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221020：
 
   - 群友分享付费文章《决定性的十年：2020～2030》
-  
+
 - 221019：
 
   - 爬了千篇知乎赚钱案例整理成pdf和epub文档分享，[介绍见文章](https://mp.weixin.qq.com/s/B90-nClLuZuWouyFD-hU8Q)。
-  
+
 - 221018：
 
   - <details>
     <summary>更新《221018生财周报》，点击展开目录：</summary>
     <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h79ept42avj30kw0ww1ch.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221015：
 
   - <details>
     <summary>懒人分享《221015懒人专属群周报》（007）目录见下</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h75vlkpitsj30ni0j3wmv.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221013：
 
   - 群友分享《老A单位生存教科书pdf》
-  
+
 - 221011：
 
   - <details>
     <summary>更新《221011生财周报》，点击展开目录：</summary>
     <p> <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h71c8pycduj31h60p11kx.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221009：
 
   - 群友分享付费文章《有些事儿，水太深，不说四两重，说出来，一千斤都打不住》
   - 分享付费文章《反制的手段！！》
-  
+
 - 221008：
 
   - 付费文分享：《（尹香武付费文）逼投倒计年：房事色诱，钱包绑架已付费》《（灏泽付费文）修炼与复盘：让咱俩认真聊聊，人这辈子到底是怎么一步步爬上去的？》《（局外人的视界-付费文）十月必看：积极的囤积股票》《X15：只能苦一苦子民了！！》《（记忆承载-付费文）女读者问，如果像奶茶一样思考，拆迁户和阿里P8之间选谁？》
-  
+
   - 群友分享 L先生 电子书《打开心智epub格式》
-  
+
   - 分享两本电子书《香帅—钱从哪里来》《鹤老师—财富从哪来》
-  
+
   - <details>
     <summary>懒人分享《221008懒人专属群周报》（006）目录见下</summary>
     <p> <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h6xuq4ii3cj30n50ixwmj.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221001-221007：
 
   - 国庆假期，小懒外出。分享依旧，但此更新记录不做更新。
-  
+
 - 220930：
 
   - <details>
     <summary>懒人分享《220930懒人专属群周报》（005）目录见下</summary>
     <p> <img src="https://tva3.sinaimg.cn/large/0065ZrXsgy1h6onduhdr4j30na0gbjyx.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 220929：
 
   - 整理《张潇雨微博精选日历版》
   - 群友分享《220929觉悟社文章》
-  
+
 - 220927：
 
   - <details>
     <summary>更新《220927生财周报》，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h6l1ej7earj30or11g792.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 220926：
 
   - 分享两篇付费文章《大衰退开始的时候，大家都以为是暂时的》，《迷雾中的国运（2）》
-  
+
 - 220923：
 
   - <details>
     <summary>懒人分享《220923懒人专属群周报》（004）目录见下</summary>
     <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h6gard6i5tj30kf0gm10w.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 220921：
 
   - 群友分享付费文章《X14：为什么留不住人才！.pdf》
   - 付费文《李易峰是小瓜，提前还贷是中瓜，那什么是大瓜？》已整理备份到q群文件
-  
+
 - 220920：
 
   - 群友自费共享付费文章《[咩咩说] - 2022-09-18 当前市场的三重博弈V2.pdf》《[江宁知府] - 2022-09-20 历史的预期：2037.pdf》
-  
+
 - 220919：
 
   - <details>
     <summary>更新《220919懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h6bnlf9z7kj30kx0g77dt.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 220910—200918：
 
   - 小懒外出旅行，专属群分享依旧。本文档不做更新。
-  
+
   - <details>
     <summary>更新生财精华周报220913，点击展开目录：</summary>
     <p> <img src="https://tva3.sinaimg.cn/large/0065ZrXsgy1h6bn3lft0rj30q50zkgnr.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>懒人分享《220916懒人专属群周报》目录见下</summary>
     <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h6bn3lnuenj30pg0n8dgy.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 220909：
 
   - 分享付费文章《（猫哥的视界）特拉斯执政对英国意味着什么？》
-  
+
   - <details>
     <summary>懒人分享《懒人专属群周报（002）》目录见下</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h602qbp00yj30jh0g4jyg.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 220906—220908：
 
   - 日常的共享见专属群信息，这里懒得记录
-  
+
 - 220905
 
   - <details>
     <summary>更新生财精华周报220905，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h5vpogzn02j30ll1ea781.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - **220903**:
 
   - 群友分享288付费文《这次不跟牌，财产变财残.pdf》
-  
+
 - **220902**：
 
   - 群友分享付费文章《九月必看：要有信心，秋季是有行情的》
-  
+
   - 群友分享付费文章《X9：不负责任的父母！》
-  
+
   - <details>
     <summary>懒人分享《懒人专属群周报（001）》目录见下</summary>
     <p> <img src="https://tva3.sinaimg.cn/large/0065ZrXsgy1h5sb1r734zj30kj0iz47g.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - **220901**：
 
   - 群友自费分享《2022-08-09 台湾的三条“技术路径”》
   - 群友分享358元付费文《2022.08.23 房地产双年观：黄金交叉与避险逆化》
   - 懒人付费文章《[压箱底的工具，快速搞定文档！](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647894005&idx=1&sn=39880ad45586196cfa48b50489c8a274&chksm=f20a19b4c57d90a2a4b75874eaec77810b0b990fdfebcf483b08a093b2053bcc59ccf7c6935f&payreadticket=HCYBXQtilQe5za91AgrG69n5t0IIgRWo-UT3NsikgCoXwQjlwLeJcMzNGaQY-tpgYUFTZkg#rd)》已在专属群免费分享
-  
+
 - **220830**：
 
   - 群友分享《财新周刊33-34》
-  
+
 - **220829**：
 
   - 群友分享付费文章
-  
+
   - <details>
     <summary>更新生财精华周报220829，点击展开目录：</summary>
     <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h5nmanz58vj30nb0nxaj5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - **220826**：
 
   - 更新司令付费文章《S1：野战防空！.pdf》
-  
+
 - **220823**：
 
   - 群友分享自购并费心整理的《王马丁- 折叠时间流》
-  
+
   - <details>
     <summary>更新生财精华周报220823，点击展开目录：</summary>
     <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h5ghtpkp82j30n70n7ah8.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - **220822**:
 
   - 群友分享付费文《X8:搞钱》，《司马南为啥被封》
-  
+
 - **220820**：
 
   - 群友分享付费文章《C11：岛屿的宿命！.pdf》《220807结构学文章》
-  
+
 - **220818**：
 
   - 群友分享的财新周刊（2022年25期到32）
-  
+
 - **220817**：
 
   - 群友分享付费文字《C12：源自更底层的约束力！》
   - 群友分享《（西风付费文）问某地大学城的，实际上就是在问，回报怎么才能对得起自己的付出》
-  
+
 - **220815**：
 
   - 群友自费分享付费文章《 2022-08-14 当前市场的三重博弈》
-  
+
   - 备份司令备份公众号《守夜人总司令》文章，导入羽雀。
-  
+
   - <details>
     <summary>更新生财精华周报220815，点击展开目录：</summary>
     <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h57f9ms1j6j30ki0kxgsd.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - **220814**:
 
   - 备份司令备份公众号《结构学》文章，导入羽雀。
-  
+
 - **220812**：
 
   - 分享《（西风被删文章）澎湃点的火，似乎犯不着把三亚与上海一起搭进去》
-  
+
 - **220811：**
 
   - <details>
@@ -263,49 +271,49 @@
     2022年7月第26期密圈互动#当自己受挫时，如何进行调整？20220724.pdf
     2022年7月第27期密圈互动#曾经花了时间，却发现是「无效努力」的事有哪些？20220731.pdf</p>
     </details>
-  
+
 - **220809**：
 
   - 群友分享付费文章《[江宁知府(付费文)] - 2022-08-09 台湾的三条“技术路径”》
-  
+
 - **220808**：
 
   - 群友分享付费文章《[江宁织造（付费文）] - 2022-05-22 **普京的身后事**》《A678 ：不能说的太细！.pdf》《X3：啥也别说了，都是泪！.pdf》
-  
+
   - <details>
     <summary>更新生财精华周报220808，点击展开目录：</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h4zcrcb5vyj30mx0j8tfc.jpg" alt="Snipaste_2022-08-08_14-42-01" width="825" data-width="825" data-height="692"></p>
     </details>
-  
+
 - **220807**：
 
   - 专属群分享《营销笔记》电子书
-  
+
 - **220805**：
 
   - 群友自费分享付费文章《[咩咩说] - 2022-07-31 为什么：企业人思考笔记》
-  
+
 - **220804**
 
   - 群友自费分享付费文章《我们想要的不是佩洛西是台湾，那么你想要的又是什么呢？》
-  
+
 - **220803**
 
   - 《C8：生存结构中的角色！（草稿）.pdf》《C10 愚昧与落后的丑类.pdf》
-  
+
 - **220802**
 
   - 群友自费付费文章《中国与欧洲的惊奇11月》，《八月必看：抓住个股的机会》
-  
+
 - **220801**
 
   - 懒人自费五元付费文章《富人在炫富，穷人无路可走？》
-  
+
   - <details>
     <summary>更新生财精华周报，点击展开目录：</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h4r2489qgbj30nz0imah5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - **220729**
 
   - 懒人付费文章《[小鹅通视频下载](https://mp.weixin.qq.com/s/lH8Gn6LfzVBndR-ckF0MPQ)》已免费分享
@@ -315,16 +323,16 @@
 
   - 更新觉悟社文章<一曲生命的赞歌.pdf><（220728）眼镜【提问】><A8：统治结构的关键支点！.pdf>
   - 群友自费文章付费文章<[江宁知府] - 2022-07-27 台湾的方略.pdf>
-  
+
 - **220726**
 
   - <details>
       <summary>更新生财精华周报，点击展开目录：</summary>
       <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h4kc2ewzcdj30nc0i7456.jpg" alt="Snipaste_2022-07-26_14-54-14" width="840" data-width="840" data-height="655"></p>
     </details>
-  
+
   - 群友自费分享付费文章《[江宁织造] - 2022-07-24 决策的主线 2.0》
-  
+
 - **220724**：
 
   - 分享三份汤本质付费课程抵用券，见q群文件
@@ -332,7 +340,7 @@
 - **220720**
 
   - 群友分享付费文章《A685：听碎裂的声音！.pdf》
-  
+
 - **220719**
 
   - 群友分享付费文章《A686：万家灯火的错觉！》
@@ -390,46 +398,46 @@
 
   - 群友自费分享付费文章《全球凛冬将至，我们个人该如何做好应对？》
   - 分享司令付费文章：《潜射巨浪3：应对真正的危机！》《E4：时代需要更多的炮灰！》《C1：真正的力量（最新）》
-  
+
 - **220628**
 
   - 考虑到群里很多司令粉丝,小懒把他公众号付费文列表爬完了。今天先更新3篇：
   - 《F1：底层逻辑（框架）》《C14：自私是一种美德！（书稿）》《结构学概论（最新）》
-  
+
 - **220627**
 
   - 更新生财精华文档《IP号联动品牌号小众垂直职业教育赛道爆款内容打造变现200W.pdf》；《新加坡游泳培训通过谷歌本地SEO变现百万的案例解析聊聊如何通过谷歌本地SEO和国际SEO获取海外目标客户.pdf》
-  
+
 - **2022-6-25**：
 
   - 更新生财精华文章:《知乎副业话题精华排名第一的回答是怎么写出来的.pdf》；《个人IP我用一年时间做了30万粉从偶然到必然.pdf》
-  
+
 - **2022-6-22**：
 
   - 更新生财精华：《抖音报白名单抖音体验分业务模式详解》《懒人手动整理：生财周报》
   - 懒人制作专属群在线课程网站，体验满分
-  
+
 - **2022-6-21**：小懒生病了，专属群分享继续，更新懒得记。
 
 - **2022-6-15**
 
   - 更新司令付费文章《A676 ：不安！》，《A675：怎么办？！.pdf》，顺手一起发《A10：吵架一定要赢！》
   - 更新生财精华《无人售货机赚不赚钱通过点位布局和运营实现单台机器月入2W》，《如何获得好运气？》，同时附上[《纳瓦尔宝典》（豆瓣8.6分）电子书（含mobi，epub，pdf，azw3版本）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647891529&idx=1&sn=8f1e49c6278d5ea7edbcfe6ef80b6ed8&chksm=f20a2008c57da91e5d8e6c7efa545b1f32a75b87f61c368f360c429456f368845c7ee92160da&token=1572056742&lang=zh_CN#rd)
-  
+
 - **2022-6-13**
 
   - 更新司令付费文章<A669：这一代人为何难以幸福！><A671：最危险的时刻！>
   - 群友共享付费文章《付费文章[江宁知府]*汉宫往事 番外篇*》《胜天半子是做不到的，胜人半子是有套路可循的 》已做成文档
   - 整理生财1-5期全部内容,已做成不夸克网盘。地址和后续更新见q群公告
-  
+
 - **2022-6-4**至**2022-6-12**
 
   - 小懒外出度假，专属群管理和分享依旧，但更新记录懒得记。
-  
+
 - **2022-6-3**
 
   - 分享懒人自制的精品付费课程：《如何成为有效学习的高手》，《吴军·阅读与写作50讲》，《有效训练你的结构化思维》，《怎样快速搞懂一家公司》，《怎样写出吸引人的好文章》，《怎样成为人脉管理的高手》，《怎样成为演讲高手》，已做成精美电子书，每一份都包含pdf和epub版本。群友见q群公告自取~
-  
+
 - **2022-6-1**
 
   - 群友自费分享付费文章《到底还能不能买房？》，已备份
