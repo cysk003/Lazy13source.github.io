@@ -19,11 +19,13 @@
 
 - 221028：
 
-  - 群友分享付费文章《金融规则的全面改写》《高薪行业的爆破条件》《大环境已经变了》（Q群会备份），还有《权谋通汇》《权谋通览》已备份到夸克网盘，链接群友自取。
+  - 群友分享付费文章《金融规则的全面改写》《高薪行业的爆破条件》《大环境已经变了》（Q群会备份），
   
-  - <details>
+  - 群友《权谋通汇》《权谋通览》已备份到夸克网盘，链接群友自取。
+  
+- <details>
     <summary>懒人分享《221028懒人专属群周报》（009），点击展开目录</summary>
-  <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h7d06yjt3hj30nr0jh47k.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+  <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h7kzq0xu0xj30jm0kc7ci.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
 - 221025：
