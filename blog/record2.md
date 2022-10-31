@@ -17,14 +17,16 @@
 <p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
 ***
 
+
+
 - 221028：
 
   - 群友分享付费文章《金融规则的全面改写》《高薪行业的爆破条件》《大环境已经变了》（Q群会备份），
-  
+
   - 群友《权谋通汇》《权谋通览》已备份到夸克网盘，链接群友自取。
-  
+
 - <details>
-    <summary>懒人分享《221028懒人专属群周报》（009），点击展开目录</summary>
+  <summary>懒人分享《221028懒人专属群周报》（009），点击展开目录</summary>
   <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h7kzq0xu0xj30jm0kc7ci.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
