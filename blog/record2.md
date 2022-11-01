@@ -19,6 +19,15 @@
 
 
 
+- 221101：
+
+  - 群友分享付费文章《X17：新的趋势在浮现》《又一轮造富机会，即将到来》
+
+  - <details>
+    <summary>更新《221101懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h7plmebvlpj30pv16mhah.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+
 - 221028：
 
   - 群友分享付费文章《金融规则的全面改写》《高薪行业的爆破条件》《大环境已经变了》（Q群会备份），
