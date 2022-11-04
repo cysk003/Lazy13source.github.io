@@ -21,15 +21,18 @@
 
 - 221104:
   
-  - 群友分享付费文章《11月必看：是反转，市场要变了》
+  - 群友分享付费文章《11月必看：是反转，市场要变了》《《富爸爸穷爸爸》：你用多长时间可以财务自由？》
 
   - 群友分享司令文章《X19：密不透风！》
   
-  - 群友分享自己整理的李笑来2k家庭教育课程6W余字文稿
+  - <details>
+    <summary>群友分享自己整理的《售价2000的李笑来家庭教育课程》6W余字文稿，点击展开目录</summary>
+    <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h7swuh34fuj30ny0oeqd7.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+      </details>
   
   - <details>
     <summary>懒人分享《221104懒人专属群周报》（010），点击展开目录</summary>
-    <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h7kzq0xu0xj30jm0kc7ci.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h7swoplfpqj30pw0lhdp1.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
       </details>
   
   - 已备份微博（群友自取备份）：
