@@ -4,7 +4,7 @@
 
 汇总整理了一些查看知乎盐会员文章的站点。
 
-介绍见公众号推文
+[介绍见公众号推文](https://mp.weixin.qq.com/s/X5tNAmwMPeP8e-uH-WP_ew)
 
 点击下发网址可以直达，建议用浏览器访问，避免微信屏蔽。
 
@@ -18,9 +18,13 @@
 
 全部免费查看
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/ociaaribHd5ofSkslQFib66stYt1XxJtYRPZAnejz1mLPWNz2qvUJMuA9yMlpNgVG1h00fgzFsGXIqHssozaEMYibQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1)
 
+值得一提的是，网站支持链接解析。
 
+也就是你在X乎上看到会员文章，可以粘贴链接过来搜索看看
 
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/ociaaribHd5ofSkslQFib66stYt1XxJtYRPzpUDDbEibhXtpGquxH8RHqAPSBKEDmqaDcNOYHutROSaIdpMiaGh67EA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 2.我不是盐神
 
