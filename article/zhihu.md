@@ -34,6 +34,12 @@
 
 支持检索，也有目录。目前有8百多篇，还在更新中~
 
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/ociaaribHd5ofSkslQFib66stYt1XxJtYRPMeb1pleBvGM9OvzotVQ78lyrFUZHJ3kialwW069WYWeh1ia2Q9P28rFg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1)
+
+还可以**求文章**，链接发给站长，说不定有空就帮你更新了。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvAXTrpbVCv8aeicBGibZ5kB67KV0icZXBoLdOmOKswr7K75TJO8fhqiarUtiazrm4XkmDekIs8ibtMbZ7A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 
 ## 3.知乎搬运工
@@ -43,6 +49,12 @@
 以前小懒分享的过一个搬运网站，不过站长停更了
 
 上面的文章还可以继续看的~
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/ociaaribHd5ofSkslQFib66stYt1XxJtYRPOv0ZxGoG2KbYPvg3wuWump94y7zTuKKwlUB41DEyNOSx6r4Ce7gNeQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1)
+
+支持检索，虽然准确度一般。界面也是体验很不错~
+
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/ociaaribHd5ofSkslQFib66stYt1XxJtYRPgkKicSTALtibaQqLAnA444Fy65aic3Nic4bFMiaLANu0NNQVUMzwH0eT9Ag/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -55,6 +67,8 @@
 这是一个羽雀库，网友自行搭建的搬运盐会员文章的站点。
 
 目前601篇文档，支持索要文章~
+
+![](https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvAXTrpbVCv8aeicBGibZ5kB6TjwYKYLyX7JjlluJ5xh4e8Hs75tQ1WBHtTXoibjbh8Eg9MnlNFN1cJQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -71,6 +85,8 @@
 当你看到到一半发现需要会员的时候，可以到这个网站搜看看。
 
 资源还是很多的。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvAXTrpbVCv8aeicBGibZ5kB6Gom1z9j6MyrSe6XMxqE4qZMtCWvjy5pTThyNdTQ1ia2FgUurxLu9XUQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -100,3 +116,4 @@
 
 以上，希望对大家有用~
 
+![](https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRvQ4lyFfHJRKdCT38dOFpVQaIyoeXpYOxYsboIlPS7sKSPA4ibNAXCteYOP3KW5Pz4RPaxYOBsibfNg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
