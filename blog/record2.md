@@ -19,10 +19,19 @@
 
 ***
 
+- 221108：
+  
+  - 群友分享司令付费文章《调整的速度在加快》
+  
+  - <details>
+    <summary>更新《221108懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h7xs8uyznhj30nj1jdhd5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221107：
   
   - 群友分享司令付费文章《挖掘隐性边界的思路》
-  - 群友分享付费文《阶层游戏元规则》
+  - 群友分享付费文《阶层游戏元规则》《轻松赚钱的5个逻辑》
   - 群友分享**石勇九本系列书**
   
 - 221104:
