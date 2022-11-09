@@ -19,6 +19,13 @@
 
 ***
 
+- 221109：
+  
+  - <details>
+    <summary>整理记忆承载付费文合集，合计26篇，17W字，点击展开目录：</summary>
+    <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h7yvxzsncpj30fs0ql124.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221108：
   
   - 群友分享司令付费文章《调整的速度在加快》
