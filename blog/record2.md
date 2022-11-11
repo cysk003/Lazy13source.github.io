@@ -19,6 +19,15 @@
 
 ***
 
+- 221111：
+  
+  - 群友分享觉悟社文章更新
+  
+  - <details>
+    <summary>更新《221111懒人专属群周报》，点击展开目录：</summary>
+    <p> <img src="https://tva3.sinaimg.cn/large/0065ZrXsgy1h819e6daq7j30cl0m9wla.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221109：
   
   - <details>
