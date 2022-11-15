@@ -19,6 +19,15 @@
 
 ***
 
+- 221115：
+  
+  - 群友分享司令付费文《X21：当下的处境！》
+  
+  - <details>
+    <summary>更新《221115懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h85uslp9cmj30o41ciqt3.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221111：
   
   - 群友分享觉悟社文章更新
