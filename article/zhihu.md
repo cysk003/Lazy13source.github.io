@@ -64,7 +64,7 @@
 
 网址：[https://www.yuque.com/books/share/1976a821-6902-455c-9ae0-7a4f435bdd5c](https://www.yuque.com/books/share/1976a821-6902-455c-9ae0-7a4f435bdd5c ) 
 
-（作者已修改访问密码）
+（访问密码：rydw）
 
 这是一个羽雀库，网友自行搭建的搬运盐会员文章的站点。
 
