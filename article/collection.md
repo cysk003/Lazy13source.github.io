@@ -6,7 +6,7 @@
 
 - **2022-11-21**
   
-  - 早上九点开始，整理到下午2点半，终于把生财周报整理完了。至于为啥不用自动化脚本，因为小懒想着自己也可以小过一遍，筛选一下，也算是强迫自己筛选了哈哈。
+  - 早上九点开始，整理到下午2点半，终于把生财周报整理完了。至于为啥不用自动化脚本，因为小懒想着自己也可以小过一遍，筛选一下，也算是强迫自己阅读了哈哈。
   - **没有信息过载，只有过滤失败**
   
 - **2022-11-21**
@@ -17,17 +17,15 @@
   
 - **2021-10-3**
 
-  - 刘擎与梁文道对话
-
-    **梁文道**：从幼儿园开始到老去，生活的逻辑是一致的。所以今天的青年进入职场后的压力，是在延续大学，他没有一个break。我很难想象，**这就像一辈子都在跑一个没跑完的马拉松。**
-
-    **刘擎**：从分数到财富，这都是完全单一的目标。这对年轻人的压力很大。他们本可以工作后，领一份还行的薪水，然后就开始玩，探索生活了，但现在的环境让他们必须要有房有车。社会设定的目标很明确，而且路径给钉死了。
-
-    像80年代的时候，好像我们的方向也很明确，但路径是不清楚的。因为当时的社会还不够成熟，没有提供如今这么现成的赛道。
-
-    **梁文道**：由于路径不清楚，也充满着各种机会。
-
-    **刘擎**：现在的赛道都很清楚，你要么考公务员，要么创业，要么进大公司。但是意义感的缺乏很普遍。
+  - <details>
+      <summary>刘擎与梁文道对话</summary>
+      <p> <section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com" style="font-size: 16px; padding: 0 10px; word-spacing: 0px; word-break: break-word; word-wrap: break-word; text-align: left; line-height: 1.5; color: #2b2b2b; letter-spacing: 2px; background-image: linear-gradient(90deg, rgba(50, 0, 0, 0.04) 3%, rgba(0, 0, 0, 0) 3%), linear-gradient(360deg, rgba(50, 0, 0, 0.04) 3%, rgba(0, 0, 0, 0) 3%); background-size: 20px 20px; background-position: center center; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"><p data-tool="mdnice编辑器" style="padding-top: 8px; padding-bottom: 8px; color: #2b2b2b; margin: 10px 0px; letter-spacing: 2px; line-height: 28px; font-size: 17px; word-spacing: 2px;"><strong style="color: #773098; font-weight: bold;"><span>「</span>梁文道<span>」</span></strong>：从幼儿园开始到老去，生活的逻辑是一致的。所以今天的青年进入职场后的压力，是在延续大学，他没有一个break。我很难想象，<strong style="color: #773098; font-weight: bold;"><span>「</span>这就像一辈子都在跑一个没跑完的马拉松。<span>」</span></strong></p>
+    <p data-tool="mdnice编辑器" style="padding-top: 8px; padding-bottom: 8px; color: #2b2b2b; margin: 10px 0px; letter-spacing: 2px; line-height: 28px; font-size: 17px; word-spacing: 2px;"><strong style="color: #773098; font-weight: bold;"><span>「</span>刘擎<span>」</span></strong>：从分数到财富，这都是完全单一的目标。这对年轻人的压力很大。他们本可以工作后，领一份还行的薪水，然后就开始玩，探索生活了，但现在的环境让他们必须要有房有车。社会设定的目标很明确，而且路径给钉死了。</p>
+    <p data-tool="mdnice编辑器" style="padding-top: 8px; padding-bottom: 8px; color: #2b2b2b; margin: 10px 0px; letter-spacing: 2px; line-height: 28px; font-size: 17px; word-spacing: 2px;">像80年代的时候，好像我们的方向也很明确，但路径是不清楚的。因为当时的社会还不够成熟，没有提供如今这么现成的赛道。</p>
+    <p data-tool="mdnice编辑器" style="padding-top: 8px; padding-bottom: 8px; color: #2b2b2b; margin: 10px 0px; letter-spacing: 2px; line-height: 28px; font-size: 17px; word-spacing: 2px;"><strong style="color: #773098; font-weight: bold;"><span>「</span>梁文道<span>」</span></strong>：由于路径不清楚，也充满着各种机会。</p>
+    <p data-tool="mdnice编辑器" style="padding-top: 8px; padding-bottom: 8px; color: #2b2b2b; margin: 10px 0px; letter-spacing: 2px; line-height: 28px; font-size: 17px; word-spacing: 2px;"><strong style="color: #773098; font-weight: bold;"><span>「</span>刘擎<span>」</span></strong>：现在的赛道都很清楚，你要么考公务员，要么创业，要么进大公司。但是意义感的缺乏很普遍。</p>
+    </section></p>
+    </details>
 
 - **2021-9-30**
 
