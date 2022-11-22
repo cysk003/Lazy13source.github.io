@@ -4,6 +4,8 @@
 
 单独整理分享一些不错的工具软件吧，看到啥更新啥~
 
+建议使用电脑端浏览器查看，左侧菜单栏可以快速查看目录！
+
 ## TTS-Vue
 
 官网：[https://loker-page.lgwawork.com/home.html](https://loker-page.lgwawork.com/home.html)
