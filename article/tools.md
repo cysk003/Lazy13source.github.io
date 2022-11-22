@@ -2,7 +2,9 @@
 
 [**返回首页**](/README.md)
 
-单独整理分享一些不错的工具软件吧，看到啥更新啥~
+转发搬运整理分享一些不错的工具软件吧，看到啥更新啥~
+
+因为内容很多，所以图片加载会久一点！
 
 建议使用电脑端浏览器查看，左侧菜单栏可以快速查看目录！
 
@@ -37,7 +39,7 @@ TTS-Vue 是一个完全免费的文字转语音电脑软件，也是一个颜值
 
 官网：[https://www.allenxiang.com/](https://www.allenxiang.com/)
 
-下载地址：
+下载地址：[https://lazyman.lanzoul.com/ieiJH0gllrmd](https://lazyman.lanzoul.com/ieiJH0gllrmd)
 
 Allen Explorer 是一个完全免费并且功能特别强大的多功能电脑文件管理器软件；软件支持 Windows 。
 
@@ -74,3 +76,189 @@ Allen Explorer 是一个完全免费并且功能特别强大的多功能电脑�
 总体而言，它着实让人惊艳，很多实用的功能都可以通过这个软件实现，包括：多标签页、快速启动、收藏夹、双窗口模式、文件和文件夹颜色进度标注、文件夹文件数量展示、空格键预览图片视频和文件夹内容、窗口置顶、重复文件清等。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsReu4rZLBMywEMBGibBGbovFK3vB9bPJXRb6UPpTCX8ymmR2b3jyJfRA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+
+
+## Umi-OCR文字识别
+
+github地址：[https://github.com/hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+
+百度云链接：[https://pan.baidu.com/s/1jZvTuis6knpe3RBaoQRN-w](https://pan.baidu.com/s/1jZvTuis6knpe3RBaoQRN-w?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjkwOTczNTQsImZpbGVHVUlEIjoiUjEzajhuMDh5VlRvYlprNSIsImlhdCI6MTY2OTA5NzA1NCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM4MTQxNzk5NH0.KJMblwql1B8uG1zipPWl507o4H95297EuWzk59jgJxw)  提取码：6sac 
+
+Umi-OCR文字识别是一个完全免费的电脑离线 OCR 文字识别软件，也是一个极简好用的电脑批量 OCR 识别文字软件，实际体验非常出色；软件支持 Windows 。
+
+之前安利过这个宝藏软件，现在它更加好用，功能更加丰富，还支持识别多种语言，所以再安利一次。
+
+**它不需要网络，支持批量识别，不仅支持识别中文，还支持识别英文、日文、韩文、俄文、法文，导入语言扩展包，然后在设置板块选择切换识别语言即可。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsKiaFTIkecILhFcqR4vAa5R8zjvfO6iaq16wGnQkCiaqK8TPAyjS0gib6Xg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它的设置板块支持丰富的设置选项，包括：输出面板字体和字号、粘贴图片和截图识别的快捷键。
+
+**它支持对识别的文本内容排版优化，包括：优化单行、合并多行左对齐、合并多行自然段、合并多行模糊匹配、竖排从左至右单行、竖排从右至左单行。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcshpib423cG7ESrgIkIkU7SJtWK21N7B5pr8RPnuKL7gqlaFHvEgUtK8w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**它的识别速度极快，识别转确率非常高，支持批量识别，支持拖拽多张图片识别。**
+
+它支持多种识别输出结果，包括：纯文本 txt 文件、带链接 Markdown 文件，还有 jsonl 文件。
+
+**它支持设置忽略某些区域的文字，这个功能可以帮助你有效提取带水印图片的文字内容。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsd08BGQq0Z6DibhfTuglOnbRHEjkrhNR6MrNj0ic79WrIDGqQCMPZPeKg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+
+
+## Eyes Guard
+
+- [https://apps.microsoft.com/store/detail/eyes-guard/9PHW0XFKZD7J](https://apps.microsoft.com/store/detail/eyes-guard/9PHW0XFKZD7J?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjkwOTczNTQsImZpbGVHVUlEIjoiUjEzajhuMDh5VlRvYlprNSIsImlhdCI6MTY2OTA5NzA1NCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM4MTQxNzk5NH0.KJMblwql1B8uG1zipPWl507o4H95297EuWzk59jgJxw)
+
+- Win 10 自带应用商店直接搜索
+
+Eyes Guard 是一个完全免费的定时提醒休息软件和护眼软件；软件支持 Windows 。
+
+它完全免费，极简舒适，小清新风格，颜值非常高，双击打开软件不会立马展示软件主界面，需要在任务栏找到软件图标，右键找到显示主菜单按钮，点击它就可以打开软件主界面。
+
+它支持丰富的设置选项，包括：小型休息之间的间隔、大型休息之间的间隔、大型休息的休息时间、小型休息的休息时间、在两次大型休息之间只要一次小型休息、在大型休息一分钟前提醒我、你不动电脑的时候自动帮你暂停、鼠标右键关闭让你去小型休息的提醒、储存统计数据、使用默认休息提示。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsNJB3ibf7rrZnIRTQGiclVIkuZak6k7GQiaiatLc88FB8XSwibTvsOfwQHfA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**它支持暂停功能，包括：5 分钟、10 分钟、30 分钟、1 小时、2 小时、自定义。**
+
+它支持开始一个小型休息、开始一个大型休息，支持强大的统计功能，包括：大型休息次数、大型休息次数、暂停次数等。
+
+总体而言，它就是如此的简单好用，非常轻量级，第一次打开软件默认英文界面，可以在设置板块切换为中文界面。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcs6iccAAQibiaEnEgxFISH0Kuhh800fokEKKhVL8D3EeXo54m5ib4CybCJ9g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+
+
+## 识典古籍
+
+官网：[https://shidianguji.com/](https://shidianguji.com/)
+
+识典古籍是一个非常惊艳的古籍在线阅读工具和古籍图书馆在线工具。
+
+它完全免费，由北京大学和字节跳动数字人文开放实验室共建，界面唯美，极简设计，动画交互赏心悦目。
+
+它不需要注册登录，电脑打开就可以直接体验，支持强大的高阶搜索功能，支持书库板块。
+
+**书库板块分类包括：经部、史部、子部、集部等，每个分类包括了多个分类，目前已经上线了几百部经典古籍，后续会持续整理上线更多古籍。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsbzZa3rUeV8luh4JpTx7ThYtAxUTQT2lFiaCs0tB9rJ4TBj4rslMlT6w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**点击任意一本古籍，它支持直接阅读，支持展示繁体原文，支持切换为简体，支持展示注释，支持展示原本影像，支持自动标点，支持识别古籍中的人名、地名、官名、时间、书籍。**
+
+鼠标选中古籍内容，可以看到的功能包括：查看引用、定位原图。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsYIJyMibhemwPEy8JObexpjMc1Via9L5micwDTF9k8q5X5Aib3bIpxN68Dw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+
+
+## ARC技术体验中心
+
+网址：[https://arc.tencent.com/zh/ai-demos/humansegmentation](https://arc.tencent.com/zh/ai-demos/humansegmentation)
+
+ARC技术体验中心是腾讯 ARC 实验室出品的宝藏在线工具。
+
+它完全免费，简单好用，一目了然，支持三大功能，包括：人像修复、人像抠图、动漫增强，每个功能都是实用并且好用，效果出色。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcstv8umQRjFNc72NwA4LEOkYvoXDkD1uZhicVd8vExxY2bmuf3YljJgOg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+其中人像修复支持 2 个模型任意切换，可以让模糊照片变得更加清晰；人像抠图支持 2 个模型任意切换，可以实现一键人像抠图；动漫增强支持 3 个模型任意切换。
+
+**处理完成，它支持处理前后图片对比，支持下载高清原图。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcszWibXWjqrcMM4sbYqEibVtkLXibC4bIhb5S6CLguO6Bzm18FveFc3B1SA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+## Quick Reference
+
+网址：[http://ref.ecdata.cn/](http://ref.ecdata.cn/)
+
+Quick Reference 是一个完全免费的编程学习在线工具，是一个唯美好看的编程语言基本语法和快速参考备忘清单在线工具。
+
+它主要的功能是速查表和备忘清单，分类全面，目前还在持续更新中，分类包括：编程、前端、Nodejs 、工具、命令等。
+
+每个分类包括多个具体选项，例如编程包括：C 、C# 、C++ 、Java 、PHP 、Python 、JSON 、MySQL 、Markdown 、Rudy 、Rust 、Swift 、Golang 。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsTRwl5KfeOYJIuibV3kLricJmCAjm4uYDnpCtee81Ey5hOhxFQxibbAZvQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**点击 C 语言选项，可以看到 C 语言的基本语法和方法和 C 快速参考备忘单，包括：入门、运算符、数据类型、预处理器、函数、文件处理。**
+
+点击 Java 选项，可以看到 Java 语言的基本语法，包括：Java 入门、字符串、数组、条件语句、循环、框架搜集。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsxmQHtiaXB6De56lrCPo8Djn5d0W9rkGF0CZ6cLgNCrjM6sQ1nYJRoJg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**不管你是正在学习编程，还是从事编程工作，这个在线工具都对你有很大帮助，可以帮助你学习，也可以帮助你快速查看参考备忘清单。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcstQYcAt0CKZFwf4iaiaekdy8OmEg49F1o9StDfUP8GjDosjFxp3hzoHfA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+
+
+## Peeps
+
+官网：[https://peeps.ui8.net/](https://peeps.ui8.net/)
+
+Peeps 是一个可爱有趣的 3D 头像制作在线工具。
+
+它使用简单，可以帮助你制作出可爱个性的 3D 头像，支持丰富的设置选项。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsU7yXqES6yfxPqkXqdEyianPNX0QeiavPKhPKrGuVgGatjIVuqorTFU7g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它支持的设置选项包括：面部表情、头部装饰和样式、眉毛、太阳镜、衣服、项链、耳环，每个种类包括多个具体选项，支持任意组合。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsLaB1KyyzMUTAeBFKzOKtsUbdqfJqLsQlxXjHicoVNzOHBuGaibaJWzXA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**它还支持设置背景颜色，点击下载按钮，支持下载 PNG 格式透明背景图片，也支持下载 PNG 格式带背景图片**。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsqQofQSPgIia6k0WUbV9ia4hSvXuia5BtjAb1dY7jibtRkCMliaRvgMsIRMg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+
+
+## SnapEdit
+
+官网：[https://snapedit.app/](https://snapedit.app/)
+
+SnapEdit 是一个免费好用的一键去除图片多余物体的在线修图工具。
+
+它免费使用，上手容易，使用简单，上传需要处理的图片，支持 AI 自动识别图片上的物体，例如图片有 4 个人像主体，就可以自动识别。
+
+你只需要选择勾选需要去除的物体，然后点击 Remove 按钮，就可以一键去除。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsyO2ZxibOxiccqmTNIgguBD7dpwScXIkGdhSp1wH92X1esuXcGKcmkHZQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**除了自动识别，它也支持手动擦除，支持调整画笔大小，支持橡皮擦功能，画笔涂抹到需要去除的物体上，点击 Remove 按钮就可以开始处理。**
+
+最后，处理完成，点击 Download 按钮就可以将处理好的图片下载保存。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcs1CDW0PZvWl5fyiavIASbzNjmCb5qIAdusOkolXcAXpzX2Q4OX1dvagA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+
+
+##　Tylify
+
+官网：[https://tylify.app/pattern/](https://tylify.app/pattern/)
+
+Tylify 是一个完全免费的无缝平铺背景图片在线生成工具。
+
+它完全免费，主要功能是帮助你一键创建制作无缝平铺图案，上手容易，操作简单，支持丰富的设置选项。
+
+它的使用场景非常丰富，可以用于 PPT 制作，也可以用于平面设计和网页设计。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsHhiaXbY0lF8FhgEasibPs4bAdf1rM8rdMN9vjD9RVV1w5rZ8dWTicv99g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**它提供了丰富的表情图标，可以搜索添加多个可爱的表情图标，也可以导入电脑本地图片。**
+
+**每个图标和图片就是一个图层，支持设置图层的宽度、高度、旋转角度、水平移动、竖直移动、不透明度，支持设置表情图标的颜色。**
+
+它还支持鼠标移动表情图标和图片的位置，支持设置整个背景图片的颜色。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcs21bS810FMyibcXaTKNO8biaazibWm1KGOrPAJo3ic1edic1gHqI2NnZ3xPA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+最后，设置完成，点击下载按钮，它支持无水印下载 PNG 格式方块、PNG 格式图片壁纸，SVG 格式图片，还支持复制 CSS 代码。
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzd402JYZ2MSjezcJsmElKcsGe1Ly4ynMDSmLriauKUDImtTyicK10icoX0mFqdAibzSr6597EHqB76bOg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+
+
+## 
