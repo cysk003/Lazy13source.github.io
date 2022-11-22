@@ -23,6 +23,11 @@
   
   - 群友分享财新周刊1028和1030期。
   
+  - <details>
+    <summary>更新《221122懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h8dwjfkqzij30gd1gm1kx.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221121：
   
   - 群友分享付费文《股市崩完，轮到债券了》，分享文档《李笑来：我的读书经验》
