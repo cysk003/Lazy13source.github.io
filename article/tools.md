@@ -319,5 +319,276 @@ Oversis 是一个完全免费的电脑文件标签和分类软件；软件支持
 
 
 
+***
 
+![](https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRvQ4lyFfHJRKdCT38dOFpVQaIyoeXpYOxYsboIlPS7sKSPA4ibNAXCteYOP3KW5Pz4RPaxYOBsibfNg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+## Moo0视频转换器
+
+下载地址：[https://lazyman.lanzoul.com/iz1vb0gn8hkf](https://lazyman.lanzoul.com/iz1vb0gn8hkf)
+
+Moo0视频转换器是一个完全免费的电脑视频格式转换软件；软件支持 Windows 。
+
+它完全免费，极简干净，体积小巧，功能非常强大，不仅可以实现视频格式转换，也可以实现视频转音频，也就是视频提取音频。
+
+**它启动迅速，稳定流畅，非常轻量级，支持强大的视频格式转换功能，包括：MP4 、FLV 、MOV 、SWF 、WEBM 、WMV 、MPG 、OGG 、AVI 、M4V 、MKV 格式等，还支持其它视频格式设置选项，包括：视频画质、视频宽高、音频比特率、音频频率、音频声道、音频音量等。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0L5GoiaJebtLdiaFNjgZ6lI4IhTcz8RiawX67IdjskwKom9PQzYlISFyuQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**除了视频格式转视频格式，它也支持视频格式转音频格式，支持几十种音频格式，支持无损音频复制。**
+
+它的视频格式转换速度、视频提取音频速度都是非常快，实际体验非常不错，可以提高你的工作效率，让视频格式转换和视频提取音频变得如此轻松高效。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0RAUlicicnp0XxlKwkQMB9txwsr2azic7dbpJ2ibQ3SfoDyOCKQQRFpgtew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## 离线OCR
+
+下载地址：[https://lazyman.lanzoul.com/i3m6d0gn8nij](https://lazyman.lanzoul.com/i3m6d0gn8nij)
+
+离线OCR 是一个极简免费的电脑 OCR 文字识别软件；软件支持 Windows 。
+
+它体积小巧，不到 600KB ；它完全免费，不需要安装，只有一个简单的界面，极简设计，非常干净，支持离线使用，没有网络也可以正常使用，并且识别准确率很高，识别速度非常快。
+
+它简洁好用，打开软件就知道怎么使用，Ctrl + O 可以打开选择图片对话框选择识别图片，Ctrl + V 可以读取剪切板图片，然后识别图片。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0wLmFNZoSv92QRJLDyvYPNUejlzcf92nB4n4toQPOtCWPrxoO93DmTA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+## 轻闪PDF
+
+官网：[https://lightpdf.cn/](https://lightpdf.cn/)
+
+轻闪PDF 是一个免费好用的 PDF 转换在线工具和 PDF 编辑在线工具。
+
+首先，这款在线工具之前是需要付费的，有文件大小和文件页数的限制，现在除了批量处理功能，其它功能都是完全免费，虽然网站界面仍然会显示升级服务，但是点击一个功能就可以免费使用；我也咨询过开发者，会一直持续免费使用。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0ZNuCvE17GLc0D8uUvaUwpWOSdM97ApVVytaZ7iarLksTQlC3ZsJziboQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它的功能特别强大，包括：PDF 转 Word 、PDF 转 PPT 、PDF 转 Excel 、PDF 转 TXT 、PDF 转 PNG 、PDF 转 JPG 、Word 转 PDF 、PPT 转 PDF 、Excel 转 PDF 、PNG 转 PDF 、JPG 转 PDF 、CAD 转 PDF 。
+
+还支持 PDF 添加水印、拆分 PDF 、合并 PDF 、旋转 PDF 、批注 PDF 、压缩 PDF 、PDF 加密、PDF 解密、PDF 签名。
+
+**还支持 OCR 识别，不仅支持识别 PDF 文件，还支持识别 Word 文件、Excel 文件、PPT 文件、TXT 文件、图片文件，支持导出格式包括：docx 、xlsx 、pptx 、pdf 、txt 。**
+
+**还支持 PDF 在线编辑功能，可以直接修改 PDF 文档中的文字内容、表格内容、图片内容，可以对文字内容高亮、添加下划线等。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0qwVp25FQphMvkibsG7W0a6Skq0J8ZpMnqjhJfUHLib1PWESqJwMz249A/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**它的每个功能都是特别好用，支持多个设置选项，例如 PDF 转 Word 支持直接转换，也支持使用 OCR 进行识别，也就是说扫描的页面将被转换成可以编辑的文本。**
+
+总体而言，作为一款之前的付费工具，它的处理速度和处理效果肯定是非常出色，全面并且完善；目前免费使用，基本可以满足你对 PDF 转换编辑处理的绝大部分需求，可以提高你的学习和工作效率。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0tgdWAic8YiaujWSxCgzW03f7wvEiaUChFgrwnehHPicq1N5FwEicPGe6Ticw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+## 好录
+
+官网地址：[https://www.haolu.com/](https://www.haolu.com/)
+
+更多录屏软件，可以查看手册里的：[录屏软件合集](/data/09_电脑常用?id=录屏软件)
+
+好录是一个完全免费的电脑录屏工具。
+
+它完全免费，功能特别强大，这款工具上线几个月了，作者暂时没有收费计划，致力于功能完善和用户体验。
+
+**它主要的功能包括：浏览器插件录屏、4K 超清无水印录屏、不占内存、多模式录制、标记画笔、录屏云端保存、团队空间等。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzfa4syJe2PwkLkAQq9IAypmz5TjicNPtX5sIwfyAj1erXskD7DUVZlWzGWicXVNYY0UzahtN7gMLrDw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**它简单易用，首先需要安装浏览器插件，网站提供了详细的安装使用方法，然后在浏览器右上角找到这个录屏插件，点击它就可以开始录制。**
+
+它支持多模式录制，支持录制整个屏幕、整个窗口、当前标签页、其它窗口，还可以自由调整录制区域。
+
+**它支持打开摄像头，打开麦克风，支持定时录制，只录制人像，还支持快捷键、控制栏和标注工具。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0IHB32EqibejrIIM98E8IJxnGciaOMkJUibCcU2jVPsJWHm4oEwJ5WOsaQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+点击开始录制按钮，在录制的时候可以进行标注，包括：画笔、箭头、直线、矩形，还可以设置画笔颜色粗细、录屏时的鼠标样式、鼠标大小。支持暂停录制，支持结束录制。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0XnMVSNPYNYUUKySj7BKFI7RD4Rxibs4t00dnahG1nJls7ibNjIXSKS8w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+可以看到，所有录屏都在云端自动保存，支持新建文件夹，支持对录制视频重命名、移动文件夹、删除、下载，还支持分享录制视频。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0UMiaRibQmrRz2D5fUQlmZichCJIiaTnxvD4icdybnEB8GE37hu7iatictFG4g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## dazidazi在线打字练习
+
+官网：[https://dazidazi.com/](https://dazidazi.com/)
+
+dazidazi在线打字练习是一个完全免费的在线打字练习工具。
+
+它完全免费，界面极简好看，简约风格，功能完善并且强大，不仅支持键位练习，还支持中文打字练习、英文打字练习、双拼打字练习，可以提高你的打字速度。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0GC3AnxiccrQUTQTnWpG64hspNgLclKx4sVHtyWVd7eHPpzricrAcVqeQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**它支持打字统计功能，包括：累计敲击键盘次数、今日敲击键盘次数、今日练习时间、累计练习天数、连续练习天数、累计练习时间、训练方案。**
+
+它支持丰富全面的设置选项，包括：英文目标速度、目标速度光标是否开启、最大输错率、中文目标速度、键位练习内容生成配置、界面定制设置。
+
+**其中英文目标速度支持通过一个基础测试，根据测试结果选择目标速度，超出最大输错率则通关失败。**
+
+界面定制设置包括：空格样式、字符间距、输错提示、换行断词、字体大小、黑夜模式。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzfa4syJe2PwkLkAQq9IAypmr8jOostoMoIe9YtX2yHTicbeSA99eICure9icbtj4cbVejjA4DK3cibBw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**它支持多种训练方案，包括：中文、英文、英文翻译、中文注音、双拼、键位练习。**
+
+每种训练方案又包括了多个具体训练方案，例如键位练习包括：标准指法基础、标准指法进阶、左右六七八键对称、数字键、标点与符号。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0apzc2Ng1icxgfcmgyXib6AcXJDGP8ic1v0YlxZJU8MNzeaEL8r5Z8Dw8g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**你可以添加多个训练方案，支持自由切换训练方案，每个训练方案支持多个关卡，部分训练方案会提供详细的标准指法教程。**
+
+它还支持自定义训练方案。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0uKU1eJX8icCj0d2wNnBeTeY7j0ZumN3ia6CRoFpfGBbMVqI3ymbO8rgQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+总体而言，它的功能确实非常强大，支持多种训练方案，支持闯关式训练，是一个不可多得的高质量打字练习在线工具。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0cZarpXmKuuSBwXGQ47DWOUrkkEBmhKB1XW8FHUVPw9q8ibah5CoXAkA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## Photograph to Pattern
+
+网站：[https://online.rapidresizer.com/photograph-to-pattern.php](https://online.rapidresizer.com/photograph-to-pattern.php)
+
+Photograph to Pattern 是一个完全免费的图片转线稿、图片转图案、图片转草图在线工具。
+
+它完全免费，一目了然，功能特别强大；它上手容易，使用简单，打开网站就知道怎么使用；它适用于绘画、木工、彩色玻璃等艺术设计，使用场景特别丰富。
+
+**之前安利过一个手机 App 秒变线稿 ，只能在苹果手机上使用，现在这个在线工具不仅支持在电脑上使用，还支持在安卓手机和苹果手机上使用，并且功能更加丰富。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0bpNpa7c0nLBRV5Bpb4Tn6akyQPnGl0hjbdgOiaiaDHX0Q4eJLeKEj4lQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+点击上传按钮上传图片，然后网站右侧立马呈现一个处理效果，你可以切换效果，滑动调节黑白程度、柔和和锐利程度，每一次点击，每一次滑动调节都会呈现一个不同的处理效果。
+
+它让人非常惊艳，不仅因为操作如此简单，而且每一个效果都是唯美好看，可以让你的图片转换为线稿、草图、水墨风等。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0ln6sda5TfqG5G9vic5w2ZQmaic91ePib1SrvoxR2f2ceTMxqPXLWBW5NQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## Online AudioConvert
+
+官网：[https://www.online-audioconvert.com/](https://www.online-audioconvert.com/)
+
+Online AudioConvert 是一个完全免费的在线音频格式转换工具。
+
+前面安利的 Moo0 视频转换器 支持视频格式转换和视频提取音频，这款在线工具支持音频格式转换和视频提取音频。
+
+**它完全免费，不需要注册登录，没有文件大小和数量的限制，上传和处理的速度非常快，便捷好用。**
+
+它使用简单，打开网站就知道怎么操作，整体界面简单明了，极简干净。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0hAPRAVmUkvjVzibFbNxOykRnYuUnSJ03DQhdnwibYHTa1qpZCkzUbK4Q/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它支持多达 60 多种文件格式，支持批量音频转换和视频提取音频，不仅支持在电脑上使用，也可以在手机上使用；它保证你的文件安全，处理之后文件会被自动删除。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0axiaK5FtWRibRvpoCLJkibvKVat77TiaL7AmCMxe2RofpJOa25icPibjic8HA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## Print Free Graph Paper
+
+官网：[https://www.printfreegraphpaper.com/](https://www.printfreegraphpaper.com/)
+
+Print Free Graph Paper 是一个完全免费的纸张模板工具。
+
+它支持多种方格纸类型，包括：笛卡尔坐标纸、工程方格纸、极坐标纸、等距方格纸、对数坐标纸、六角方格纸、概率坐标纸等。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0eRIk6NEWC6JnxFPYpib8Xna439SuQAeWHaAHuqxa1yfJ7XEv9Qk7f9w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**选择一种方格纸类型，然后可以选择纸张尺寸、计量单位等，最后可以保存生成的纸张 PDF 文件。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0ialmQhH30QEYrASNdKfEgsjxfTy0O1V0Ig7oIwbQ2Eicuia568Yia7bA8Q/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它极简干净，没有任何多余的东西，整体简单好用，使用场景丰富，对你的学习和工作有很大帮助。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0MM3tduWAZqTvAoVuVpghiaCV9Kj86ON8Z3uTJzaTtCGRoe51E0jZNxw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## Bon Design
+
+官网：[https://bon.design/](https://bon.design/)
+
+Bon Design 是一个完全免费的线条插画素材在线工具。
+
+它完全免费，非常直观，主要特点是提供线条插图素材，每一个插图素材都是唯美好看，线条风格，可以用于商业用途。
+
+它支持强大的搜索功能和分类功能，包括：健康、运动、商业、车辆、动物、校园、生活、表情、食物。
+
+**它的使用场景非常丰富，可以用于平面设计、海报设计、网页设计，还可以用于 PPT 制作。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0Zgt95Ao14afu1Kb3svusejJSOyQkPFCDicvOHG1EqT5PCO1JZHDjKdA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**最后，点击选择一个插图素材，点击下载按钮就可以将这个插图素材以 PNG 透明格式下载到电脑。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0Jklh5d83oYu7zxJQTBXQCjjGY1cKHSg1OZE9zFwa4Eu2sHib1ermtibw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## 入梦音频变声器
+
+- 下载地址：[https://lazyman.lanzoul.com/iXCFm0gn9wpg](https://lazyman.lanzoul.com/iXCFm0gn9wpg)
+
+- 账户：123456  密码：123456
+- 详细介绍[可以见这篇文章](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647894952&idx=1&sn=7553a17543980a0b4d4efd97296afbab&chksm=f20a15e9c57d9cff8e5f0f00721d00b67c7dc252529245eac56196507bb7fc02cefe14310732&token=1842386621&lang=zh_CN#rd)
+
+入梦音频变声器是一个完全免费的电脑变声器软件；软件支持 Windows 。
+
+它之前是需要付费的，最近开发者将它完全免费，也就是所有功能和效果都可以免费使用。
+
+**它体积小巧，提供了多达 100 多种声音效果，可以任意切换，如果只是简单使用和体验，只需要点击设置音频通道按钮，设置输入通道和输出通道即可。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hD2EDFypOMHz0Jh65A16tibbESOB0Tib3M23rlkXQLUREsMjF4vs0UOdA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**如果需要在其它场景使用，需要点击虚拟音频按钮安装驱动，点击设置音频通道按钮，将输入通道设置为 MME 开头的录音设备，将输出通道设置为 MME 入梦扬声器。**
+
+然后点击系统音频按钮，播放板块选择系统扬声器或者耳机，录制板块选择入梦麦克风，设为默认值即可。
+
+最后软件也提供了详细的使用教程，帮助你更好的使用这个软件。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hHZr07LxdicQzWTRiaRQoyBPkpbwFSLibYMAQQfAWGCGYkyB2Y6WiaXjG4g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## Right PDF Reader
+
+- 下载地址：[https://lazyman.lanzoul.com/i4EQH0gnab7i](https://lazyman.lanzoul.com/i4EQH0gnab7i)
+- https://store.rightpdf.cn/download/reader.aspx
+- https://store.rightpdf.cn/download/central.aspx
+
+更多pdf工具，查看懒人手册： [pdf工具合集](/data/09_电脑常用?id=pdf工具)
+
+Right PDF Reader 是一个完全免费的电脑 PDF 阅读和编辑软件；软件支持 Windows 、macOS 。
+
+它完全免费，如一股清流，极简干净，整个软件界面非常简洁，小清新风格，颜值很高；它不需要注册登录，启动迅速，使用流畅不卡顿。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hQ5DAnXY3BkAStK2vRe39gYlewiaAU2yEoo5EgR3xSMHMsTBTpDNBlcw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它的功能非常强大，每个功能板块直观清晰，包括：文件板块、主页板块、基本板块、注释板块、表单板块、视图板块。
+
+**它支持的功能包括：打字机添加文本注释、添加文本框并输入文本、高亮、删除线、下划线、手写签名、管理手写签名、朗读当前页、朗读到文档末尾、设置 PDF 朗读的速度、拼写检查、指示标注、图章、插入文本、替换文本、搜索并标记。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hT9icNEeoU1baErdibDJTbUHIK4o1uXEPFt8Ou6U6UBAXX8jJpoMxWGyA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它还支持添加多种形状、画图工具、附加文件、附加录音、距离工具、周长工具、面积工具、测量工具、注释面板、搜索注释、导入导出迁移注释。
+
+**它的视图板块支持的功能包括：动态缩放、放大镜、适合页面、适合宽度、自动滚动、旋转视图、页面布局、阅读模式、全屏模式、水平拆分、垂直拆分、电子表格拆分、网格、显示参考线、显示标尺。**
+
+它的界面左侧也有很多实用功能，分别是：抓取选择工具、书签、页面缩略图、附件、注释、图章。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hjxzWJWTZMUm1jC42AF9AwoRunrLLJeKeVySEzfTElQXzicJ368Xx1BA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+总体而言，它完全免费，实用并且好用，非常轻量级，是一个功能强大并且颜值很高的 PDF 阅读软件、PDF 注释软件、PDF 编辑软件。
+
+![](https://lazy-1254325532.cos.ap-shenzhen-fsi.myqcloud.com/20221123091039.webp)
+
+***
 
