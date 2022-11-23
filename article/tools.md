@@ -592,3 +592,177 @@ Right PDF Reader 是一个完全免费的电脑 PDF 阅读和编辑软件；软�
 
 ***
 
+## eSearch
+
+- 开源地址：[https://github.com/xushengfeng/eSearch](https://github.com/xushengfeng/eSearch)
+- 百度云链接：[https://pan.baidu.com/s/1SXNUNr1rCQ0OHLb0ApaSHg](https://pan.baidu.com/s/1SXNUNr1rCQ0OHLb0ApaSHg?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjkxNjU2MTEsImZpbGVHVUlEIjoiMndBbFhnSjQ1WVNlTmpBUCIsImlhdCI6MTY2OTE2NTMxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM4NDg5MTMyNH0.In_io8nHtwu-LcaV4PLsFNT6BGhqxZHBvw8J4Nl3ziI)  提取码：vsvk 
+
+eSearch 是一个完全免费的多功能合集软件；软件支持 Windows 、macOS 。
+
+它完全免费，功能非常强大，支持的功能包括：离线 OCR 、电脑截图、电脑长截图、电脑录屏、将截图钉在电脑屏幕上、二维码识别、以图搜图、强大的图片编辑功能、取色器、放大镜、画笔和几何形状、划句搜索、翻译等功能。
+
+它提供了详细的介绍和使用教程，可以帮助你更好的使用这个软件。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hmDJNicHU5mHW8o4cF7VcY2HGYnUNvLANtYL0lKd97cobr059oNwJUww/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**按下快捷键 ALT+C 就可以开始截屏，也可以看到功能按钮，选择一个屏幕区域，支持的功能包括：离线 OCR 、录屏、长截图、以图搜图、屏幕涂抹编辑、保存屏幕截图、保存涂抹编辑后的图片、二维码识别。**
+
+每个功能一目了然，将鼠标移动到每个功能按钮上就会展示这个功能按钮对应的功能名称。
+
+当然快捷键是可以更改的，在软件的设置板块可以更改快捷键，它支持丰富的设置选项，还可以更改每个功能的设置选项。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hwiccakeSaFZMbpbU0d02U37Zmlr7NHeo7JkOl9VdRUmOnPr8r4PIcVA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**它的每个功能都是实用并且好用，其中离线 OCR 功能不需要网络就可以识别电脑屏幕上的文字。**
+
+电脑录屏功能支持录制摄像头，支持录制全屏，支持自定义录制区域大小，支持按键提示和光标位置提示，支持多种录制文件保存格式。
+
+**将截图钉在电脑屏幕上可以将电脑截图钉在电脑屏幕上，可以拖动位置、改变大小，还可以鼠标滑动调整截图透明度。**
+
+图片编辑功能支持直接涂抹电脑屏幕，支持丰富的图片编辑处理功能。
+
+**划句搜索功能支持鼠标划动文本内容，对这个文本内容进行搜索。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6h1C3HjpWJA1eKKYfibL2rpK0eiccHQQSxXfcviaTfTXguZPVNjUMW55Kiag/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+总体而言，它一个软件相当于多个软件，可以提高你的日常办公效率，对你的学习和工作都有很大帮助。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6h87oR5ljqnmVT5sGgxj4UTOu2N3ryVibGibjIh4zQb4sdgecciaStf3pAA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## AudioRelay
+
+- 官网：https://audiorelay.net/
+
+- win端：https://lazyman.lanzoul.com/igWZk0gnw59g
+- 安卓手机端：https://lazyman.lanzoul.com/i37Ou0gnw5jg
+
+AudioRelay 是一个免费好用的手机播放电脑声音软件，也可以用于电脑播放手机声音；软件支持 Windows 、macOS 、Linux 、安卓版本。
+
+首先，电脑和手机分别下载对应的版本，电脑和手机处于同一局域网下，然后打开电脑和手机版本。
+
+如果需要让手机播放电脑的声音，手机端配置为播放器，电脑端配置为服务器，手机端输入电脑端的 IP 地址就可以连接，实现的效果是电脑不播放声音，手机端播放电脑的声音。
+
+**它将电脑音频流传输到手机，将手机变成无线扬声器，几乎没有延迟，声音洪亮清晰，实际效果非常出色。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/REkEgTqnKzcwVUicScdsRz7U0V7xh9AaMibbEO1CjibSwysF6yTuZvMib1qUhoR09vdDO8t7KuuBMQHxRwBiafN0Ntg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+如果需要让电脑播放手机的声音，操作类似，将手机端配置为服务器，电脑端配置为播放器即可。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/REkEgTqnKzcwVUicScdsRz7U0V7xh9AaML9zzicWdYTwl6X6scY7XQrKXTKlPdDmiaialbXPP4h2Dn9iaI4vfB1iavrA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+***
+
+##　量子速写
+
+- 网址：https://xiezuocat.com/#/quantum
+
+- 小程序直接搜索名字
+
+量子速写是一个完全免费的一键文章生成器在线工具。
+
+它不仅支持在线网页版，也支持微信小程序；它目前完全免费，打开小程序就可以使用，不需要注册登录，没有任何多余的东西和界面，极简干净。
+
+**它的使用方法特别简单，输入标题，选择文章长度，然后稍微等待就可以一键生成文章，并且每次生成，都可以得到一篇完全不同的文章。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/REkEgTqnKzcwVUicScdsRz7U0V7xh9AaM4mPl5jBn6OkcDjTlgyPUVVkicwRuYXMBr2p0BIOM1sj1OoGMddLZqYg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+***
+
+## Qwerty Learner
+
+网址：https://qwerty.kaiyi.cool/
+
+Qwerty Learner 是一个完全免费的英语单词学习工具和英文打字练习工具。
+
+它完全免费，小清新风格，颜值非常高，支持大学英语四级、大学英语六级、考研、专四、专八、商务英语、GRE 、GMAT 、BEC 、小学、初中、高中英语词库，还支持代码练习词库，包括：程序员常见单词词库 1700 词、SQL 常用语句、JavaScript API 词典、Python 词典、Java 词典、Linux 词典、C# 词典。
+
+**除了英语词库，它还支持日语词库，包括：日语常见词、N1 词库、N2 词库、N3 词库、N4 词库、N5 词库。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6h0ePSHqCYrYqz3ahwfvomdUZozjfoQYQ7YfEXosdYTc47zcBNx2eZdQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+每个词库有多个章节，选择任意一个章节，选择美音、英音、日语，还支持的设置选项包括：开关键盘声音、开关英语显示和音标显示、开关单个单词循环、开关循环播放单词发音、开关单词乱序、开关深色模式。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hPciaicSYo9Ew4JKoj9lJHBx1uYqIA7sOgupCBg2eWic8jYlUFXAqdyDnA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**按任意键可以开始练习，练习完每一章节可以复习测试，界面底部会展示你的练习正确数和练习正确率，还会展示练习时间和速度。**
+
+总体而言，它极简好看，词库丰富，不仅可以帮助你学习英语单词，复习英语单词，还支持帮助你练习英语打字。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6huQHtdHMtFbfNJYnVomd60icwbDcVW1kLBRUT734Cv20E8pXntIJnibPQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+## Palette
+
+网址：https://palette.fm/
+
+**Palette 是一个完全免费的老照片修复上色在线工具和 AI 图片上色在线工具。**
+
+它完全免费，界面极简唯美，没有任何乱七八糟多余的东西，使用非常简单，只需要点击上传按钮上传图片即可。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6h3PBYchscx6kUw5EFADSrsAtQTPGUxRM46P1Vhib4ibEjzbb0yZcapq5Q/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它支持将近 25 种上色效果，点击箭头按钮可以左右滑动切换效果，点击任意一种效果就可以加载效果。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6h5DbNfkiaB2Yrrd9TRr6IGHicaD8FrhsfWib1ghZnftERJUFibC8waoxABQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+它的每种图片上色效果都是非常好看，让你的图片焕然一新，变得非常唯美，点击下载按钮就可以将上色处理后的图片一键下载。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6htzlknatrDYGE2rMkfBXItSxcLeIrTLtLmlaT4msYLibUFO6pAvaLx4Q/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+##   CocoMaterial
+
+网址：https://cocomaterial.com/
+
+CocoMaterial 是一个让人惊艳的手绘插画在线工具。
+
+它完全免费，主要特点是提供了将近 2500 张手绘插画素材，并且所有手绘插画素材支持免费可商用。
+
+它的每个手绘插画素材都是非常精美，支持直接搜索你需要的手绘插画，也支持按照标签发现高质量手绘插画。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hICVAciaRjE0BqDXyIlKg5zEM5icE7Qbsc6bylI0oa7r935aHnFLuRM4w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**每个手绘插画支持以 PNG 格式和 SVG 格式保存下载，也支持修改插画的边框颜色、填充颜色和尺寸大小。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hyWibHLVMSAcuREhIic1micv6aaBLuCGJpnA751RFsJYV7HrP08BxiamnUw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+**最后，它的使用场景非常丰富，可以用于平面设计、网页设计，还可以用于 PPT 制作、海报制作等。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hwkcPT5ibLAKtqECFfcPv6vtAUQKKB6h2QWstoAv0GMYlBEsDDiaicfvSg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+##   Free Icons
+
+网址：https://icons.download/
+
+Free Icons 是一个完全免费的在线图标库工具。
+
+它界面极简干净，没有任何多余的东西，支持多达几百个精美图标，支持一键切换图标的风格和粗细，支持图标搜索功能，支持按照不同行业对图标进行分类。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hULwib77Bk5QHuyrUNml6KSgQGsrIzFaYpS5LicUicPiarzRGhBianaNE1PQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+将鼠标放到任意图标上，支持以 SVG 格式下载图标，支持复制图标代码。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hbKHpYGPWXeOv5n3FbvxpKnKJE3m7ibb8YWaAQbbbz8MT1B8cpJb8fyw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
+##   **Knots**
+
+网址：https://knots.netlify.app/
+
+Knots 是一个完全免费的在线游戏工具。
+
+它上手容易，使用简单，可以用于解压放松；它的主要玩法是点击 2 个不同片段的绳结，调换这两个片段绳结的位置，你需要仔细观察调整，让整个绳结复原。
+
+**它支持 70 多个关卡，完成前一关才可以进入到下一关，越到后面的关卡，难度也会增加。**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzeTY6FZ5UAU9QC5Z2mQpj6hyGXaO2Qa1ph6Nfg5OaAggicvGHjMCv7mKnD3ibSL1QiadgxFkjpRSYolQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+***
+
