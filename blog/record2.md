@@ -19,6 +19,13 @@
 
 ***
 
+- 221125：
+  
+  - <details>
+    <summary>更新《221125懒人专属群周报（13）》，点击展开目录：</summary>
+    <p> <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h8hdxofei3j30gd0m8jxo.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221122：
   
   - 群友分享司令付费文章《X20：可以凭吊，无需惋惜！》
