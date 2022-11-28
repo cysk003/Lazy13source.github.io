@@ -355,33 +355,7 @@ Moo0视频转换器是一个完全免费的电脑视频格式转换软件；软�
 
 它简洁好用，打开软件就知道怎么使用，Ctrl + O 可以打开选择图片对话框选择识别图片，Ctrl + V 可以读取剪切板图片，然后识别图片。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0wLmFNZoSv92QRJLDyvYPNUejlzcf92nB4n4toQPOtCWPrxoO93DmTA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
-## 轻闪PDF
-
-官网：[https://lightpdf.cn/](https://lightpdf.cn/)
-
-轻闪PDF 是一个免费好用的 PDF 转换在线工具和 PDF 编辑在线工具。
-
-首先，这款在线工具之前是需要付费的，有文件大小和文件页数的限制，现在除了批量处理功能，其它功能都是完全免费，虽然网站界面仍然会显示升级服务，但是点击一个功能就可以免费使用；我也咨询过开发者，会一直持续免费使用。
-
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0ZNuCvE17GLc0D8uUvaUwpWOSdM97ApVVytaZ7iarLksTQlC3ZsJziboQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
-
-它的功能特别强大，包括：PDF 转 Word 、PDF 转 PPT 、PDF 转 Excel 、PDF 转 TXT 、PDF 转 PNG 、PDF 转 JPG 、Word 转 PDF 、PPT 转 PDF 、Excel 转 PDF 、PNG 转 PDF 、JPG 转 PDF 、CAD 转 PDF 。
-
-还支持 PDF 添加水印、拆分 PDF 、合并 PDF 、旋转 PDF 、批注 PDF 、压缩 PDF 、PDF 加密、PDF 解密、PDF 签名。
-
-**还支持 OCR 识别，不仅支持识别 PDF 文件，还支持识别 Word 文件、Excel 文件、PPT 文件、TXT 文件、图片文件，支持导出格式包括：docx 、xlsx 、pptx 、pdf 、txt 。**
-
-**还支持 PDF 在线编辑功能，可以直接修改 PDF 文档中的文字内容、表格内容、图片内容，可以对文字内容高亮、添加下划线等。**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0qwVp25FQphMvkibsG7W0a6Skq0J8ZpMnqjhJfUHLib1PWESqJwMz249A/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
-**它的每个功能都是特别好用，支持多个设置选项，例如 PDF 转 Word 支持直接转换，也支持使用 OCR 进行识别，也就是说扫描的页面将被转换成可以编辑的文本。**
-
-总体而言，作为一款之前的付费工具，它的处理速度和处理效果肯定是非常出色，全面并且完善；目前免费使用，基本可以满足你对 PDF 转换编辑处理的绝大部分需求，可以提高你的学习和工作效率。
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/REkEgTqnKzcqbX02KIUkrI1l5ot38uv0tgdWAic8YiaujWSxCgzW03f7wvEiaUChFgrwnehHPicq1N5FwEicPGe6Ticw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 好录
 
