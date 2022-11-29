@@ -19,11 +19,18 @@
 
 ***
 
+- 221129：
+  
+  - <details>
+    <summary>更新《221129懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h8lzqt8a06j30gd1j7tz0.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221128:
   
   - 分享欧神水库会员文章《底层资产》，值得一看
   - 分享司令付费文章司令付费文章《T33：天然的悖论》《（觉悟社问答）YI情防控的底层逻辑》
-  - 分享江宁知府付费文《美国如何制定对华政策》
+  - 分享江宁知府付费文《美国如何制定对华政策			》
   
 - 221125：
   
