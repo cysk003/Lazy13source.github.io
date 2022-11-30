@@ -15,7 +15,7 @@
  - [小黄鸟HttpCanary_3.3.6.apk](https://www.lanzoui.com/i7Lrf0h81kkh)
  - [格式工厂FormatFactory 5.13.0.7z](https://www.lanzoui.com/ixVh20h81dwh)
  - [文件格式转换工具 File Converter v1.2.3.rar](https://www.lanzoui.com/imF190h8133i)
- - [卸载工具 HiBitUninstaller_v2.7.70单文件.exe](https://www.lanzoui.com/ittPZ0h80qjg)
+   - [卸载工具 HiBitUninstaller_v2.7.70单文件.exe](https://www.lanzoui.com/ittPZ0h80qjg)			
 
 ## 2022-11-28 更新
  - [小强桌面宠物.zip](https://www.lanzoul.com/iecVN0gywk5i)
