@@ -4,7 +4,11 @@
 
 ## 介绍
 
-本手册为[公众号懒人找资源](https://mpt.135editor.com/mmbiz_jpg/Rmd3GnW8BRv7LWhSUT7XJOvwgpmFUia2n6w7fWVKwAY0ib7kpZiaHonYqQiaVJHxcXBByu5Cy6siaBlKVKONu2PahoQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)为方便粉丝找资源而制作。
+<details>
+  <summary>防失联请关注公众号：懒人找资源</summary>
+ <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRvQ4lyFfHJRKdCT38dOFpVQaIyoeXpYOxYsboIlPS7sKSPA4ibNAXCteYOP3KW5Pz4RPaxYOBsibfNg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+</details>
+
 
 电脑浏览器访问体验更佳！**左上角支持搜索关键词~**
 

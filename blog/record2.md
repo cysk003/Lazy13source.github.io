@@ -2,7 +2,10 @@
 
 [**返回网站首页**](/README.md)
 
-- 建议先 <a href="javascript:location.reload();">点击刷新页面</a> 
+- <details>
+    <summary>防失联请关注公众号：懒人找资源</summary>
+    <p> - 测试 测试测试</p>
+  </details>
 
 - [专属群历史文档备份目录](/blog/record3)
 
