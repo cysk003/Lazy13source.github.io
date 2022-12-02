@@ -22,117 +22,129 @@
 
 ***
 
-- 群友分享司令付费文章《事急从权？！》
-  
+- 221202：
+
+  - 群友分享，司令问答，关于解封。
+
+  - <details>
+    <summary>更新《221125懒人专属群周报（14）》，点击展开目录：</summary>
+    <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h8pjriz52ej30ao10gwmy.jpg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+- 221201：
+
+  - 群友分享司令付费文章《事急从权？！》
+  - 群友粉丝灏泽付费文合集《灏泽异谈知识星球144篇付费文集》，兴趣的朋友自取。
+
 - 221129：
-  
+
   - <details>
     <summary>更新《221129懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h8lzqt8a06j30gd1j7tz0.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221128:
-  
+
   - 分享欧神水库会员文章《底层资产》，值得一看
   - 分享司令付费文章司令付费文章《T33：天然的悖论》《（觉悟社问答）YI情防控的底层逻辑》
   - 分享江宁知府付费文《美国如何制定对华政策			》
-  
+
 - 221125：
-  
+
   - <details>
     <summary>更新《221125懒人专属群周报（13）》，点击展开目录：</summary>
     <p> <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h8hdxofei3j30gd0m8jxo.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221122：
-  
+
   - 群友分享司令付费文章《X20：可以凭吊，无需惋惜！》
-  
+
   - 群友分享财新周刊1028和1030期。
-  
+
   - <details>
     <summary>更新《221122懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h8dwjfkqzij30gd1gm1kx.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221121：
-  
+
   - 群友分享付费文《股市崩完，轮到债券了》，分享文档《李笑来：我的读书经验》
   - 群友分享司令付费文章《S3：认知作战！（草稿）》
-  
+
 - 2211120：
-  
+
   - 群友分享刘润电子书《底层逻辑1》《底层逻辑2》
-  
+
   - 整理分享欧神系列文集
-  
+
 - 221118：
-  
+
   - 群友分享《老A-提拔重用指南》
-  
+
   - <details>
     <summary>更新《221118懒人专属群周报》，点击展开目录：</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h899ws1nw3j30gy0ktdl7.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221115：
-  
+
   - 群友分享司令付费文《X21：当下的处境！》
-  
+
   - <details>
     <summary>更新《221115懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h85uslp9cmj30o41ciqt3.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221111：
-  
+
   - 群友分享觉悟社文章更新
-  
+
   - <details>
     <summary>更新《221111懒人专属群周报》，点击展开目录：</summary>
     <p> <img src="https://tva3.sinaimg.cn/large/0065ZrXsgy1h819e6daq7j30cl0m9wla.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221109：
-  
+
   - <details>
     <summary>整理记忆承载付费文合集，合计26篇，17W字，点击展开目录：</summary>
     <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h7yvxzsncpj30fs0ql124.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221108：
-  
+
   - 群友分享司令付费文章《调整的速度在加快》
-  
+
   - <details>
     <summary>更新《221108懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h7xs8uyznhj30nj1jdhd5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221107：
-  
+
   - 群友分享司令付费文章《挖掘隐性边界的思路》
   - 群友分享付费文《阶层游戏元规则》《轻松赚钱的5个逻辑》
   - 群友分享**石勇九本系列书**
-  
+
 - 221104:
-  
+
   - 群友分享付费文章《11月必看：是反转，市场要变了》《《富爸爸穷爸爸》：你用多长时间可以财务自由？》
 
   - 群友分享司令文章《X19：密不透风！》
-  
+
   - <details>
     <summary>群友分享自己整理的《售价2000的李笑来家庭教育课程》6W余字文稿，点击展开目录</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h7swuh34fuj30ny0oeqd7.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
       </details>
-  
+
   - <details>
     <summary>懒人分享《221104懒人专属群周报》（010），点击展开目录</summary>
     <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h7swoplfpqj30pw0lhdp1.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
       </details>
-  
+
   - 已备份微博（群友自取备份）：
-  
+
     - [x] 恶魔奶爸 - 教育博主 - 152W粉
     - [x] 崔庆龙 - 医疗博主 - 46W粉
     - [x] 升职计 - 职场博主 - 19W粉
@@ -141,12 +153,12 @@
     - [x] Simon_阿文 -设计类博主 - 95.3W粉
     - [x] 百年一人 - 财经博主 - 27W粉
     - [x] ETF拯救世界 - 财经博主 - 88W粉 
-  
+
 - 221102：
-  
+
   - 群友分享付费文《机会在于人事变动》
   - 专属群[开展微博备份共享服务，点击看介绍](https://mp.weixin.qq.com/s/k77BPk-uZNHHfBEsLbrRWQ)
-  
+
 - 221101：
 
   - 群友分享付费文章《X17：新的趋势在浮现》《又一轮造富机会，即将到来》

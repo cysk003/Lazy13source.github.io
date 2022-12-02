@@ -8,14 +8,16 @@
 
 破姐类软件容易失效，失效不补~
 
-
+## 2022-12-01 更新
+ - [启动U盘制作工具Rufus 3.21.1949.exe](https://www.lanzoui.com/i1ihP0hc281g)
+ - [全能扫描王_1.0.apk](https://www.lanzoui.com/iHrGl0hc1ucd)
 
 ## 2022-11-30 更新
  - [MAC地址修改器 支持Win7-11 v22.10绿色版.rar](https://www.lanzoui.com/iVpjw0h82j9g)
  - [小黄鸟HttpCanary_3.3.6.apk](https://www.lanzoui.com/i7Lrf0h81kkh)
  - [格式工厂FormatFactory 5.13.0.7z](https://www.lanzoui.com/ixVh20h81dwh)
  - [文件格式转换工具 File Converter v1.2.3.rar](https://www.lanzoui.com/imF190h8133i)
-   - [卸载工具 HiBitUninstaller_v2.7.70单文件.exe](https://www.lanzoui.com/ittPZ0h80qjg)			
+ - [卸载工具 HiBitUninstaller_v2.7.70单文件.exe](https://www.lanzoui.com/ittPZ0h80qjg)			
 
 ## 2022-11-28 更新
  - [小强桌面宠物.zip](https://www.lanzoul.com/iecVN0gywk5i)
