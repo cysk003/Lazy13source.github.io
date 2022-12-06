@@ -50,7 +50,7 @@
 
 ## 懒人专栏
 
-| [懒人收藏夹](/article/collection)           | [破姐软件分享](/article/software)     |
+| [懒人碎碎念](/article/collection)           | [破姐软件分享](/article/software)     |
 | ------------------------------------------- | ------------------------------------- |
 | [专属群文档备份](/blog/record3)             | [专属群更新记录](/blog/record2)       |
 | [懒人早报](/blog/morning)                   | [专属群通才计划](data/13.通才计划.md) |
