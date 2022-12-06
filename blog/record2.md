@@ -22,9 +22,17 @@
 
 ***
 
+- 221206：
+
+  - <details>
+    <summary>更新《221206懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h8tz00l673j30i717u1e5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221205：
 
   - 群友分享司令付费文《X21：事情另的一面》
+  - 群友分享付费文《12月必看》
   
 - 221204：
 
