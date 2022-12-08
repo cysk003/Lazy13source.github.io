@@ -8,6 +8,12 @@
 
 破姐类软件容易失效，失效不补~
 
+## 2022-12-08 更新
+ - [央视影音5.1.2官方原版.exe](https://www.lanzoui.com/iZM2M0hvio7i)
+ - [腾讯视频 v11.54.9017.zip](https://www.lanzoui.com/ifFPT0hvihba)
+ - [蓝奏云网盘.exe](https://www.lanzoui.com/iSZCJ0hvib7a)
+ - [阿里云盘V2.4无会员无更新版.rar](https://www.lanzoui.com/is6Xr0hviada)
+
 ## 2022-12-05 更新
  - [高德地图车机版AUTO V6.5.0 正式版.apk](https://www.lanzoui.com/iGa1F0hnf7zi)
  - [素材助手.zip](https://www.lanzoui.com/iPBK70hnf2ud)
