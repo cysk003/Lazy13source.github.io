@@ -9,6 +9,8 @@
 
 - [专属群历史文档备份目录](/blog/record3)
 
+- 建议先 [点击刷新页面](javascript:location.reload();) ，查看最新更新记录~
+
 ***
 
 <details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费339 ，付费进群~</summary>
@@ -25,6 +27,7 @@
 - 221208：
 
   - 群友分享《（灏泽付费文）疫情迎来大结局！终于，该聊聊让你明年招财聚富的新战略了！》《（政事堂付费文）解读12月政治局会议》
+  - 群友分享欧神会员文章：《未来已来GPT！》（稍后整理给群友）
   
 - 221206：
 
