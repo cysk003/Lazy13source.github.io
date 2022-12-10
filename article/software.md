@@ -8,6 +8,11 @@
 
 破姐类软件容易失效，失效不补~
 
+## 2022-12-09 更新
+ - [OlSoul_Windows系统调校_2022.11.29_050d0500.exe](https://www.lanzoui.com/iLH8W0i5xk8f)
+ - [vx车载版-1.0.9.apk](https://www.lanzoui.com/iIRrN0i5xfpc)
+ - [罗技摄像头_2.12.8.exe](https://www.lanzoui.com/ihPm10i4tvng)
+
 ## 2022-12-08 更新
  - [央视影音5.1.2官方原版.exe](https://www.lanzoui.com/iZM2M0hvio7i)
  - [腾讯视频 v11.54.9017.zip](https://www.lanzoui.com/ifFPT0hvihba)
