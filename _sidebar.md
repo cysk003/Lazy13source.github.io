@@ -10,7 +10,7 @@
 -  [9.电脑常用](data/09_电脑常用.md)
 -  [10.图片相关](data/10_图片相关.md)
 -  [11.软件备份](data/11_软件备份.md)
--  [12.开源项目](data/12.开源项目.md)
+-  [12.开源项目](https://lazyso.netlify.app/#/source/12.%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 -  [13.通才计划](data/13.通才计划.md)
 -  [14.软件更新](/article/software)
 -  [15.考证考级资源](/data/15.各类资源.md)
