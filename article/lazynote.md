@@ -26,19 +26,33 @@ https://lazybook.netlify.app/#/article/lazynote
 
 全部文档都存在你本地，不存在泄露和丢失风险。
 
-## Markdown语法
+所有页面都可以根据你的兴趣自由定制，欢迎折腾~
+
+## Markdown介绍
 
 小懒之前写自己排版方案：[懒人排版，无保留分享~ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647866026&idx=1&sn=de962608fdc01954fbe04555d14dd50e&chksm=f20a84ebc57d0dfdcc8b83b8cfff1d9ff9e3657da61e69f6b452ff8c02776fcffd5333236958&token=1463877189&lang=zh_CN#rd) 就分享过Markdown语法了。
 
 一图概括：
 
-![](https://tvax2.sinaimg.cn/large/0065ZrXsgy1h913apbrf1j328l1j6u0x.jpg)
+<img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h913apbrf1j328l1j6u0x.jpg" width="500"/>
 
-会用图床的朋友就不用小懒教了，没有图床也没关系，小懒在Ob上帮大家设置了图片都默认放在的**0-附件素材**里的**img文件夹**。
+
+
+会用图床的朋友就不用小懒教了，主题里默认没有开启图床上传功能（需配合Pigo）。
+
+没有图床也没关系，小懒在Ob上帮大家设置了图片都默认放在的**0-附件素材**里的**img文件夹**。你可以直接复制图片到笔记里。
 
 ## 软件使用教程
 
 以下为软件各个功能介绍
+
+
+
+### 双链笔记
+
+让Obisidian出圈的莫过于其双链笔记。
+
+
 
 
 
@@ -58,11 +72,27 @@ https://lazybook.netlify.app/#/article/lazynote
 
 
 
+### 微信读书阅读
+
+这是一个神级插件！！！
+
+小懒已经在主题里内置了微信读书插件：weread plugin，介绍如下：
+
+![](https://tva2.sinaimg.cn/large/0065ZrXsgy1h915msg863j30le0iwtkz.jpg)
+
+在**设置**——**插件**里找到weread plug的设置，这里可以设置你的微信读书笔记位置。
+
+![](https://tva3.sinaimg.cn/large/0065ZrXsgy1h915v42jk7j30uf0l713t.jpg)
+
+点集面板左侧：
+
+
+
+
+
 
 
 ### 闪念笔记使用
-
-
 
 
 
@@ -75,10 +105,6 @@ https://lazybook.netlify.app/#/article/lazynote
 
 
 ### 外部文档阅读
-
-
-
-### 微信读书阅读
 
 
 
