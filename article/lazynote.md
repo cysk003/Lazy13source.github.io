@@ -1,6 +1,6 @@
 # Ob帮助文档
 
-为方便后续更新教程，小懒把帮助文档做成在线形式，点击目录可以直接查看~
+本在线教程将持续更新。点击目录可以直接查看~
 
 软件内不方便测试教程的话，可以复制连接到外部浏览器访问：
 
@@ -9,8 +9,10 @@ https://lazybook.netlify.app/#/article/lazynote
 ## 目录
 
 - [介绍](#介绍)
-
-
+- [Markdown介绍](#Markdown介绍)
+- [软件使用教程](#软件使用教程)
+- [软件使用教程](#软件使用教程)
+- 
 
 ## 介绍
 
@@ -18,7 +20,7 @@ https://lazybook.netlify.app/#/article/lazynote
 
 旨在提供以下功能：
 
-1. 文档阅读
+1. 文档阅读，markdown即写即视，支持自定义字体。pdf或者epub划线标注，一键跳转原文。
 2. 笔记整理
 3. 书影导入
 4. 高效输出
@@ -28,9 +30,13 @@ https://lazybook.netlify.app/#/article/lazynote
 
 所有页面都可以根据你的兴趣自由定制，欢迎折腾~
 
+
+
+## 主页个性化制作
+
 ## Markdown介绍
 
-小懒之前写自己排版方案：[懒人排版，无保留分享~ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647866026&idx=1&sn=de962608fdc01954fbe04555d14dd50e&chksm=f20a84ebc57d0dfdcc8b83b8cfff1d9ff9e3657da61e69f6b452ff8c02776fcffd5333236958&token=1463877189&lang=zh_CN#rd) 就分享过Markdown语法了。
+小懒之前写自己排版方案：[懒人排版，无保留分享~](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647866026&idx=1&sn=de962608fdc01954fbe04555d14dd50e&chksm=f20a84ebc57d0dfdcc8b83b8cfff1d9ff9e3657da61e69f6b452ff8c02776fcffd5333236958&token=1463877189&lang=zh_CN#rd) 就分享过Markdown语法了。
 
 一图概括：
 
@@ -44,9 +50,13 @@ https://lazybook.netlify.app/#/article/lazynote
 
 ## 软件使用教程
 
-以下为软件各个功能介绍
+为方便大家开箱即用，小懒新建了一些模版，还有文件夹分类，以及功能。
+
+大家可以点击右上角自由编辑，自由新建文件，自由改装模版功能。
 
 
+
+以下为软件各个功能介绍。
 
 ### 双链笔记
 
@@ -86,17 +96,11 @@ https://lazybook.netlify.app/#/article/lazynote
 
 点集面板左侧：
 
-
-
-
-
-
-
 ### 闪念笔记使用
 
 
 
-### 软件内搜索
+### 内置搜索
 
 
 
