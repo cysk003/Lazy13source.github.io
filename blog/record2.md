@@ -31,6 +31,10 @@
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h95onpqqkxj30cw0lf44i.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
   
+- 221215：
+
+  - 群友分享付费文《有些秘密，决策者永远都不会告诉你》
+  
 - 221214：
 
   - 群友分享《小红书可复制案例库》
