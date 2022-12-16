@@ -24,6 +24,13 @@
 
 ***
 
+- 221216：
+
+  - <details>
+    <summary>更新《221216懒人专属群周报（16）》，点击展开目录：</summary>
+    <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h95onpqqkxj30cw0lf44i.jpg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221214：
 
   - 群友分享《小红书可复制案例库》
