@@ -11,8 +11,11 @@ https://lazybook.netlify.app/#/article/lazynote
 - [介绍](#介绍)
 - [Markdown介绍](#Markdown介绍)
 - [软件使用教程](#软件使用教程)
-- [软件使用教程](#软件使用教程)
+  - [笔记分类](#笔记分类)
+  - [双链笔记](#双链笔记)
+  - [知识管理面板](#知识管理面板)
 - 
+- [更多相关文章](#更多相关文章)
 
 ## 介绍
 
@@ -29,10 +32,6 @@ https://lazybook.netlify.app/#/article/lazynote
 全部文档都存在你本地，不存在泄露和丢失风险。
 
 所有页面都可以根据你的兴趣自由定制，欢迎折腾~
-
-
-
-## 主页个性化制作
 
 
 
@@ -56,31 +55,63 @@ https://lazybook.netlify.app/#/article/lazynote
 
 大家可以点击右上角自由编辑，自由新建文件，自由改装模版功能。
 
-
-
 以下为软件各个功能介绍。
+
+### 笔记分类
+
+笔记部分分为四部分：
+
+>闪念笔记：储存灵感或者简短笔记，采用flomo
+>
+>知识库：基本是用原文形式分类存储的部分，比如懒人专属群里分享的对你有启发的付费文，或者平时看到好文章。一整套GTD流程。
+>
+>文献笔记：豆瓣电影和豆瓣读书，还有微信读书
+>
+>永久笔记：你的个人写作文档，用你的话组织你的想法，也就是说知识库再丰富，只有提炼出来成为你的才是你的知识~
+
+你可以直接在左侧文件栏新建文档，或者点击*新建知识文档*创建知识库文件（内置懒人模版）
+
+知识管理库部分原理见下下方教程。
 
 ### 双链笔记
 
 让Obisidian出圈的莫过于其双链笔记。
 
+利用笔记里的双链，对文档里的知识进行关联，以实现内化。
 
+双链用法很简单，用两个英文的双括号包住就行：
 
+[[这是一个双链]]，点击该双链会创建一个以它命名的文件，该文件下饭会关联全部包含该双链的文档。
 
+其实小懒个人并不太建议在一份文档构建太多双链，因为这样会“污染”md文件，毕竟类似Typora这样的编辑器不识别双链。
 
-### 主页介绍
+你可以在文档前后用tag标签进行标注：`#标签`
 
-
+当然，你还可以利用双链进行文档预览和跳转，比如`[[另外一篇文章]]` ，当鼠标在上传悬浮，即可小窗展示内容，点击还可以直接跳转。
 
 ### 知识管理面板
 
+你可以展开左侧 **C-知识管理库** 文件夹看到，这就是一套完整的GTD流程：
 
+![img](https://mmbiz.qpic.cn/mmbiz/Rmd3GnW8BRtRftLamByhdZIbKFcVJNYGCgB2Dv7dQx4UBeNBFVQjsqKXdmEI5PJeFHtj60OgAWT0orRb18nNyA/640?wx_fmt=other&wxfrom=5&wx_lazy=1&wx_co=1)
+
+我们要利用*GTD*工作流进行整理，五个文件夹对应步骤：
+
+- 收集箱：所有笔记文档，都丢在这个文件夹里
+- 等待处理：可以放当日的日程安排，清单，甚至备忘录
+- 将来可能：存放你的灵感库，计划还有长期的规划等
+- 归档资料：整理后的文档，依照分类放在这里。可以按照小懒示例的文件夹，分门别类。随取随用。
+- 专题研究：对某个领取专题单独进行归纳总结。
 
 ### 导入豆瓣书影
 
+本主题已配置好一键导入豆瓣书影模块。并统一放置到*文献笔记* 文件夹下。
 
+点击**新建书影笔记**，输入书籍名或者ISBN码，即可搜索。
 
-### 新建个人永久笔记
+点击后即添加本书影到*文献笔记*中，你可以点击右上角编辑模式，在下方写下你的想法，读后感等等。
+
+添加的书影将自动在**管理面板**里展示。
 
 
 
@@ -96,19 +127,43 @@ https://lazybook.netlify.app/#/article/lazynote
 
 ![](https://tva3.sinaimg.cn/large/0065ZrXsgy1h915v42jk7j30uf0l713t.jpg)
 
-点集面板左侧：
+在ob里登陆微信读书后，点击左侧上方同步按钮，可以同步你所有微信读书的笔记！
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRv3ElPMNLE2Wxiba6zuiaeS6KibHwlhNs6ib2xNv9HGAkNkGuP44qT3cyJgTAhnSPThLqh4lOJg2ibxfhQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+小懒用dataview脚本在管理面板里自动同级你的微信读书的笔记数量，还有最近阅读的时间。点进去就可以看到全部划线，还有你的笔记想法等等。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/Rmd3GnW8BRv3ElPMNLE2Wxiba6zuiaeS6KqjvyYVQWFMVUiaaArGb2mhRubmL9eNyu8vD7y7FVXXiauJ5RicyH4w3ibg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+
+微信读书同步这块，建议在**设置**-**第三方插件**-**weread-plugin**里登陆
+
+![](https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRv3ElPMNLE2Wxiba6zuiaeS6KuX5rvUISHKTSVRAXdcjJ0NR33V0vMCuiamduJ41wvV7eJCZRldrKQicQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+在**微信读书归档**里，小懒写了脚本，自动列表你的微信读书笔记，包括笔记的条数信息，支持一键跳转。
 
 ### 闪念笔记使用
 
+虽然Ob也可以添加Memo插件，实现跟Flomo一样的效果。
 
+不过小懒还是建议用Flomo记录，因为它支持多平台，方便手机端及时记录你的想法。
+
+你可以只是把标签贴过来。点击就直接跳转。
+
+参照小懒在Ob主题里的实例。
 
 ### 内置搜索
 
+本Ob主题利用**search on Internet**可以实现一键搜索。
 
+选中关键词后，右键即可搜索。你可以在插件里对搜索引擎进行自定义。
 
 ### 像幕布一般展开
 
+前面加一个小杠再空格，即可生成列表。
 
+回车即可第二条列表，Tab键即可缩进，支持展开和收缩。
+
+要生成思维导图也很简单，ctrl+p调出命令面板，输入mind，选择mindmap即可。
 
 ### 外部文档阅读
 
@@ -122,4 +177,13 @@ https://lazybook.netlify.app/#/article/lazynote
 
 
 
-## 更多网络教程分享
+## 更多相关文章
+
+[回归 Obsidian 的纯与真，写给普通人的入门指南 - 少数派 (sspai.com)](https://sspai.com/post/72697)
+
+[Obsidian 8 个进阶用法 | 全网最细图文详解 (qq.com)](https://mp.weixin.qq.com/s/MEPva7Os_nOyl1vgTBZTwQ)
+
+[玩转 Obsidian 01：打造知识循环利器 - 少数派 (sspai.com)](https://sspai.com/post/62414)
+
+[找笔记方便、写作又给力的知识库，我是这么搭建出来的 - 少数派 (sspai.com)](https://sspai.com/post/77144)
+
