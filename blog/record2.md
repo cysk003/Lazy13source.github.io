@@ -24,6 +24,15 @@
 
 ***
 
+- 221220:
+
+  - 群友分享付费文章《2023，展望》《欧神西塞罗20221219直播总结》《（觉悟社）基本⾯没有变，情绪是暂时的》
+  
+  - <details>
+    <summary>更新《221220懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h9a3lmqfk4j30k21g24og.jpg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221219：
 
   - 群友分享觉悟社内容。

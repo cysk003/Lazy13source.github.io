@@ -21,6 +21,8 @@ https://lazybook.netlify.app/#/article/lazynote
 
 本知识库由小懒参考*卡片笔记写作法*+*懒人知识管理方案*（这个不用搜，小懒自创的），配合现成的Obisidian插件装修而成。
 
+专属群成员可以在q群内自行下载软件和主题。
+
 旨在提供以下功能：
 
 1. 文档阅读，markdown即写即视，支持自定义字体。pdf或者epub划线标注，一键跳转原文。
