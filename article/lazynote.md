@@ -9,11 +9,13 @@ https://lazybook.netlify.app/#/article/lazynote
 ## 目录
 
 - [介绍](#介绍)
+  - [首次使用](#首次使用)
 - [Markdown介绍](#Markdown介绍)
 - [软件使用教程](#软件使用教程)
   - [笔记分类](#笔记分类)
   - [双链笔记](#双链笔记)
   - [知识管理面板](#知识管理面板)
+  - [导入豆瓣书影](#导入豆瓣书影)
 - 
 - [更多相关文章](#更多相关文章)
 
@@ -35,7 +37,19 @@ https://lazybook.netlify.app/#/article/lazynote
 
 所有页面都可以根据你的兴趣自由定制，欢迎折腾~
 
+### 首次使用
 
+群友在专属群q群公告领取软件和仓库包（一个压缩包），安装软件，并解压仓库包。
+
+（注意，仓库包名字不能带中文，否则会影响dataview数据可视化）
+
+软件安装后点击打开本地仓库，选择上面的仓库包即可。
+
+建议在设置-外观这里改成浅色~
+
+进入主题，可以看到主页，点击左上角的文件夹可以展开文件栏，可以新建文件夹或者文件。
+
+支持拖动文件到各个文件夹。这些都很简单，就不啰嗦了。
 
 ## Markdown介绍
 
@@ -169,13 +183,29 @@ https://lazybook.netlify.app/#/article/lazynote
 
 ### 外部文档阅读
 
+小懒很喜欢Ob阅读Markdown文档，特别是自定义字体之后。
 
+当然，Ob也支持阅读pdf和epub，在安装了 *obsidian-annotator* 插件之后。
+
+不过一定要在PC端阅读的话，小懒更建议使用微信读书或者Bookxnote：
+
+[PC端最强阅读软件，不要错过！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647895115&idx=1&sn=3b37f5e412738b121871bef26e0e2734&chksm=f20a120ac57d9b1cff9076cd0f63623ebee2e5a7552e1cad099f91ce4b0337ec5dde9f058b57&token=1768122328&lang=zh_CN#rd)
+
+小懒给大家配置的主题里没有开启annotator，如果需要的话，可以自行配置。
 
 
 
 ## 备份建议
 
+Ob虽然有备份服务，不过很贵。
 
+小懒建议采用*坚果云*进行文档备份和同步。
+
+如果你要多台PC设备直接进行文档同步管理，Ob的主题配置**.obisidian**这个文件夹无法同步，内含插件，配置等。所以第一次需要手动复制过去，其他还好。
+
+坚果云也有手机端，平时需要查看文档啥的也方便。
+
+当然，你也可以用Git进行同步管理等，这里不多介绍。
 
 
 
@@ -189,3 +219,4 @@ https://lazybook.netlify.app/#/article/lazynote
 
 [找笔记方便、写作又给力的知识库，我是这么搭建出来的 - 少数派 (sspai.com)](https://sspai.com/post/77144)
 
+[历经一年，我保留了这些 Obsidian 插件 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/410202700)
