@@ -8,6 +8,21 @@
 
 破姐类软件容易失效，失效不补~
 
+## 2022-12-26 更新
+ - [截图-FastStoneCapture_9.8-v3.exe](https://www.lanzoui.com/izLsm0je009i)
+ - [截图-FastStoneCapture_9.8-v4.exe](https://www.lanzoui.com/inyUt0jdzyyb)
+ - [阿里本地硬盘神器-1.1.72 x64.exe](https://www.lanzoui.com/iLotr0jdzx2d)
+ - [查手机深层硬件信息隐秘参数_v2.7.9.apk](https://www.lanzoui.com/i0esb0jblfna)
+ - [无需电脑通过无线USB自己调适自己的adb应用.apk](https://www.lanzoui.com/i4QyC0jbld4j)
+ - [随行打印机v13.5.4特别版 .apk](https://www.lanzoui.com/izP320jblbkd)
+ - [向日葵远程控制V12.0X86单文件便携版（支持PE）V5.exe](https://www.lanzoui.com/i1KwB0jbl0bi)
+ - [电池强力修复仪.apk](https://www.lanzoui.com/iLdIZ0jbkooj)
+ - [douyin-v1.7.1-win32-ia32-douyinDownload1-wid-8ymoATQSHAF.exe](https://www.lanzoui.com/i01JN0j73q5g)
+ - [一动鼠标就锁屏V0.0.1.exe](https://www.lanzoui.com/ioe1x0j7391a)
+ - [SyncAudio手实时播放电脑音频(步听) 1.0.2.7z](https://www.lanzoui.com/imHXj0j4onxe)
+ - [360安全卫士清理加速独立版_13.0.0.2004_Green.rar](https://www.lanzoui.com/irPM00j4o8pg)
+ - [吾爱破解_1.0.apk](https://www.lanzoui.com/iJg6L0j4o38j)
+
 ## 2022-12-19 更新
  - [虚拟打包-Enigma Virtual Box_10.00.20221214_汉化去广告版.rar](https://www.lanzoui.com/iXFkI0iu4u4h)
  - [软件屏蔽器.exe](https://www.lanzoui.com/ia8VF0iu49xa)

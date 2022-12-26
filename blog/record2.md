@@ -24,6 +24,15 @@
 
 ***
 
+- 221223：
+
+  - <details>
+    <summary>更新《221223懒人专属群周报（17）》，点击展开目录：</summary>
+    <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h9dqdh632pj30dp0mo112.jpg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 懒人Obsidian主题已分享
+  
 - 221222：
 
   - 懒人手动整理de到付费课程《跟熊浩学沟通》，原价99，已整理成pdf和epub。
