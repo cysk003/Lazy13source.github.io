@@ -6,8 +6,15 @@
 
 - **2022-12-27**
   
+  - 在专属群里分享了一本陆铭的书《大国大城》（豆瓣8.7），这里也顺手分享给兴趣的粉丝。以宏观的角度看待当代中国的统一、发展与平衡，兴趣的朋友自取。
+  - 《大国大城》epub下载地址：https://lazyman.lanzoul.com/i0k4I0jhi97g
+  - 豆瓣 8.7 ，介绍链接：https://book.douban.com/subject/26824237/
+  
+- **2022-12-26**
+  
   - 在专属群里分享了一本北岛的书《必有人重写爱情》（豆瓣9.1），这里也顺手分享给兴趣的粉丝。
   - epub格式下载地址：https://lazyman.lanzoul.com/i7Loj0jhhmja
+  - 豆瓣介绍链接：https://book.douban.com/subject/35817787/
   
 - **2022-12-12**
   
