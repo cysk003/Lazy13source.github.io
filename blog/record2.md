@@ -28,6 +28,11 @@
 
   - 群友分享 尹香武208元付费文 《地运更新：最低估之城&三重利豪宅》
   
+  - <details>
+    <summary>更新《221227懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h9if09gio6j30kn11ddtl.jpg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 221223：
 
   - <details>
