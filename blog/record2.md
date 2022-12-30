@@ -24,120 +24,127 @@
 
 ***
 
+- 221230：
+
+  - <details>
+    <summary>更新《221230懒人专属群周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/63ae94ad08b68301632e89a2.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
 - 221227：
 
   - 群友分享《大树乡谈付费文--全球经济危机不可避免，国家、个人又该如何破局？》《（江宁知府付费文）俄罗斯的未来与中国的预案》
-  
+
 - 221227：
 
   - 群友分享 尹香武208元付费文 《地运更新：最低估之城&三重利豪宅》
-  
+
   - <details>
     <summary>更新《221227懒人生财周报》，点击展开目录：</summary>
-    <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h9if09gio6j30kn11ddtl.jpg" alt="" width="863" data-width="863" data-height="670"></p>
+    <p> <img src="https://pic.imgdb.cn/item/63ae93f208b68301632d8b75.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221223：
 
   - <details>
     <summary>更新《221223懒人专属群周报（17）》，点击展开目录：</summary>
     <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h9dqdh632pj30dp0mo112.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 懒人Obsidian主题已分享
-  
+
 - 221222：
 
   - 懒人手动整理de到付费课程《跟熊浩学沟通》，原价99，已整理成pdf和epub。
-  
+
   - 更早之前的课程电子书到q群公告“通才计划”自取
-  
+
     > 《如何成为有效学习的高手》《吴军·阅读与写作50讲》《有效训练你的结构化思维》《怎样成为人脉管理的高手》
     > 《怎样快速搞懂一家公司》《怎样成为演讲高手》《怎样写出吸引人的好文章》以及《财务思维课》《家庭财富管理》《商业通识》《自我的诞生》《心理创伤8讲》《心理学基础30讲》《自我发展心理学》《成年人修炼手册》《法律思维30讲》
-  
+
 - 221220:
 
   - 群友分享付费文章《2023，展望》《欧神西塞罗20221219直播总结》《（觉悟社）基本⾯没有变，情绪是暂时的》
-  
+
   - <details>
     <summary>更新《221220懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h9a3lmqfk4j30k21g24og.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221219：
 
   - 群友分享觉悟社内容。
   - 群友分享付费文《（政事堂付费文）22年中央经济工作会议，历史性的资产重估》
   - 分享生财文档《人生亏钱指南》
-  
+
 - 221217-18：
 
   - 懒人感冒
-  
+
 - 221216：
 
   - <details>
     <summary>更新《221216懒人专属群周报（16）》，点击展开目录：</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h95onpqqkxj30cw0lf44i.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221215：
 
   - 群友分享付费文《有些秘密，决策者永远都不会告诉你》
-  
+
 - 221214：
 
   - 群友分享《小红书可复制案例库》
   - 群友分享司令付费文章《X19：这才是⼤事！》
-  
+
 - 221213：
 
   - 群友分享《妖言水浒》三部曲
-  
+
   - <details>
     <summary>更新《221213懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h926afk670j30i41x97wh.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221212：
 
   - 群友分享的付费文《(咩咩说 付费文)第一个会，开完了》《5大解读！中央zzj2023年经济工作》《（随库会员文）重启格式化》（原格式太差，小懒一一核对重制了）
-  
+
 - 221210：
 
   - 群友分享付费文《（雪球花甲老头 付费文）运势脉门！万贯家财岂由因果定论？总有诀窍以尽人事｜二万字》
-  
+
 - 221209：
 
   - 群友分享觉悟社问答
-  
+
   - <details>
     <summary>更新《221209懒人专属群周报（15）》，点击展开目录：</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h8xiy2xs0nj30j70ov457.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221208：
 
   - 群友分享《（灏泽付费文）疫情迎来大结局！终于，该聊聊让你明年招财聚富的新战略了！》《（政事堂付费文）解读12月政治局会议》
   - 群友分享欧神会员文章：《未来已来GPT！》（稍后整理给群友）
-  
+
 - 221206：
 
   - <details>
     <summary>更新《221206懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h8tz00l673j30i717u1e5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 221205：
 
   - 群友分享司令付费文《X21：事情另的一面》
   - 群友分享付费文《12月必看》
-  
+
 - 221204：
 
   - 群友分享觉悟社更新
   - 群友分享《（水库会员文章）2022房产商崩盘溯源》
-  
+
 - 221202：
 
   - 群友分享，司令问答，关于解封。
