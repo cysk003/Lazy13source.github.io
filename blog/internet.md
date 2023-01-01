@@ -63,6 +63,16 @@
 - 张小龙饭否发帖图文版：
   - pdf：https://lazymans.lanzouw.com/i8SYWyo66lg
 
+小懒的所有资源以及历史分享过的所有文档都对群友开放~
+
+<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">专属群年费339 ，周年制度~</summary>
+   <p></p> 
+<a href="https://mp.weixin.qq.com/s/SSLSQhK_kNT_Fz2wdSKJ4w">专属群介绍查看这里</a> 
+<P>
+    扫码添加懒人咨询
+</P>
+<p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
+
 更新时间：2022-01-01
 
 ***
