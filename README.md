@@ -53,9 +53,9 @@
 | [懒人碎碎念](/article/collection)           | [破姐软件分享](/article/software)     |
 | ------------------------------------------- | ------------------------------------- |
 | [专属群文档备份](/blog/record3)             | [专属群更新记录](/blog/record2)       |
-| [懒人早报](/blog/morning)                   | [专属群通才计划](data/13.通才计划.md) |
-| [知乎盐会员白嫖](/article/zhihu)            | [懒人工具箱](/article/tools)          |
-| [资源分享页](https://lazyso.netlify.app/#/) |                                       |
+| [粉丝文档分享](/blog/internet)              | [专属群通才计划](data/13.通才计划.md) |
+| [知乎盐会员白嫖](/article/zhihu)            | [懒人早报](/blog/morning)             |
+| [资源分享页](https://lazyso.netlify.app/#/) | [懒人工具箱](/article/tools)          |
 
 
 
