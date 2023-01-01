@@ -22,29 +22,46 @@
   - epub：https://lazyman.lanzoul.com/i0k4I0jhi97g
 - 《必有人重写爱情》（豆瓣9.1）
   - epub：https://lazyman.lanzoul.com/i7Loj0jhhmja
+- 2022年4-8月生财精华摘录：
+  - pdf：https://lazyman.lanzoul.com/i9Hie0dm9dkd
+  - epub：https://lazyman.lanzoul.com/inLFA0dm9dib
+- 《妖言水浒》pdf：
+  - 上：https://lazyman.lanzoul.com/iQhae0ikikkh
+  - 中：https://lazyman.lanzoul.com/ifFjl0ikil6j
+  - 下：https://lazyman.lanzoul.com/iQhae0ikikkh
+- 《财富从哪儿来》（鹤老师）：
+  - pdf：https://lazyman.lanzoul.com/iZTur0deu3ab
+  - epub：https://lazyman.lanzoul.com/iH9Fl0deu30b
 - 职场加分400条
   - pdf：https://lazymans.lanzouw.com/iyzU6yz9tuh
   - epub：https://lazymans.lanzouw.com/iwp5Wyz9tna
+- 《China社会各jie层心理分享》：
+  - pdf：https://lazyman.lanzoul.com/ivtkkhaexva
 - 曹德旺自传《心若菩提》：
   - pdf：链接：https://pan.baidu.com/s/1kAnHmLRATBom5cDxYktDwQ 提取码：lazy 
   - epub：https://lazymans.lanzouw.com/iDqHDyrnbni 
   - 曹德旺相关文章《看不透的曹德旺》： 
     - pdf : https://lazymans.lanzouw.com/iP8dByrp9qb
     - epub：https://lazymans.lanzouw.com/iVYW4yrp9ni
-  - 沟通的方法_扫描版：
-    - pdf：https://lazymans.lanzouw.com/iDoeIyowhuh
-  - 蛤蟆先生去看心理医生:
-    - pdf: https://lazymans.lanzouw.com/iSw9eyowdha
-  - 小懒人220112电子书分享:
-    - pdf：https://lazymans.lanzouw.com/igt18yortfe
-    - epub：https://lazymans.lanzouw.com/i0LwByortaj
-  - 有关王兴、张一鸣、黄峥、张小龙、雷军最好文章整理：
-    - pdf：https://lazymans.lanzouw.com/idWtHyoe0vi	
-    - epub：https://lazymans.lanzouw.com/iUNIyyoe0fc
-  - 底层逻辑
-    - pdf：https://lazymans.lanzouw.com/iQnZGyo6p8h
-  - 张小龙饭否发帖图文版：
-    - pdf：https://lazymans.lanzouw.com/i8SYWyo66lg
+- yolfilm的知乎回答集锦（以前的一个知乎大V）
+  - https://lazyman.lanzoul.com/iaeajqj
+  - https://lazyman.lanzoul.com/iae8vha
+- 老喻的人生算法合集：
+  - pdf：https://lazyman.lanzoul.com/ias18jg
+- 沟通的方法_扫描版：
+  - pdf：https://lazymans.lanzouw.com/iDoeIyowhuh
+- 蛤蟆先生去看心理医生:
+  - pdf: https://lazymans.lanzouw.com/iSw9eyowdha
+- 小懒人220112电子书分享:
+  - pdf：https://lazymans.lanzouw.com/igt18yortfe
+  - epub：https://lazymans.lanzouw.com/i0LwByortaj
+- 有关王兴、张一鸣、黄峥、张小龙、雷军最好文章整理：
+  - pdf：https://lazymans.lanzouw.com/idWtHyoe0vi	
+  - epub：https://lazymans.lanzouw.com/iUNIyyoe0fc
+- 底层逻辑
+  - pdf：https://lazymans.lanzouw.com/iQnZGyo6p8h
+- 张小龙饭否发帖图文版：
+  - pdf：https://lazymans.lanzouw.com/i8SYWyo66lg
 
 更新时间：2022-01-01
 
