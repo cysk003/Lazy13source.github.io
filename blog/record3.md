@@ -2,7 +2,7 @@
 
 [**返回网站首页**](/README.md)
 
-[懒人专属群](https://mp.weixin.qq.com/s/OYWQGfo4HDQ7qxBxUSN22w) 部分共享文章列表备份，更多优质分享需加入专属群查看，以下文件均可在q群公告找到下载地址。
+[懒人专属群](https://mp.weixin.qq.com/s/yAgzLnax3KMN1V_bdutB-w) 部分共享文章列表备份，更多优质分享需加入专属群查看，以下文件均可在q群公告找到下载地址。
 
 [懒人专属群介绍点击此处查看](https://mp.weixin.qq.com/s/OYWQGfo4HDQ7qxBxUSN22w)
 
