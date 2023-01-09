@@ -13,7 +13,7 @@
  - [抖音车机版大屏版v9.9.1504_共存版.apk抖音车机版大屏版v9.9.1504_共存版.apk](https://www.lanzoui.com/i1EBO0kdqvwd)
  - [抖音车机版大屏版v9.9.1504.apk抖音车机版大屏版v9.9.1504.apk](https://www.lanzoui.com/itMvX0kdquyj)
  - [Word_Pdf互转.zip](https://www.lanzoui.com/iocwG0kcux9a)
- - [WeTool 6.2.1微信辅助工具.exe](https://www.lanzoui.com/i2EKo0ka6q0d)
+ - [WeTool 6.2.1微xin辅助工具.exe](https://www.lanzoui.com/i2EKo0ka6q0d)
  - [Word一键转Pdf.zip](https://www.lanzoui.com/iZ8PS0jzxisj)
  - [随行打印机v13.5.4特别版 .apk](https://www.lanzoui.com/iauMh0jzxcuf)
  - [全民K歌.apk](https://www.lanzoui.com/ihMeF0jzxb9i)
