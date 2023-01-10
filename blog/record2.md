@@ -24,6 +24,15 @@
 
 ***
 
+- 230110：
+  
+  - 更新《生财风向标》，目录重新排版
+  
+  - <details>
+    <summary>更新《230110懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/63bd1de3be43e0d30e7609c3.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230109：
   
   - 群友分享《[搜索达人是这么练成的](https://mp.weixin.qq.com/s/4nFPH-GfthchnnUShsmmCg)》，已加入[通才计划](/data/13.通才计划)
