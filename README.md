@@ -20,7 +20,7 @@
 
 ## 分类栏目
 
-[请点击【莆田耐克代工鞋厂】顺丰得物发货空军￥65椰子￥75万款货源【点击进入】专柜1.1](https://docs.qq.com/doc/DZEpHYmFYdVJSeVR0)
+[懒人专属群（年费339）](https://mp.weixin.qq.com/s/yAgzLnax3KMN1V_bdutB-w)
 
 ### [0.更新记录](data/00_更新记录.md)   
 
