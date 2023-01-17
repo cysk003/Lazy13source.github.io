@@ -24,6 +24,15 @@
 
 ***
 
+- 230117：
+  
+  - 更新《生财风向标》，目前总300条风向标
+  
+  - <details>
+    <summary>更新《230117懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/63c65fc9be43e0d30edc184d.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230113：
   
   - 更新分享《220106懒人专属群周报》
