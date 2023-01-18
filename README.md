@@ -20,7 +20,7 @@
 
 ## 分类栏目
 
-[懒人专属群（年费339）](https://mp.weixin.qq.com/s/yAgzLnax3KMN1V_bdutB-w)
+[👍**懒人专属群**介绍](/blog/group)
 
 ### [0.更新记录](data/00_更新记录.md)   
 
