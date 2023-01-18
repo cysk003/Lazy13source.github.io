@@ -13,8 +13,8 @@
 -  [12.开源项目](data/12.开源项目.md)
 -  [13.通才计划](data/13_course.md)
 -  [14.软件更新](/article/software)
--  [15.考证考级资源](/data/15.各类资源.md)
--  [16.懒人上传分享](/data/16.懒人上传整理.md)
+-  [15.考证考级资源](/data/15_resoures.md)
+-  [16.懒人上传分享](/data/16_upload.md)
 
 
 

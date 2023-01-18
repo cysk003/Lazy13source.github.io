@@ -8,9 +8,7 @@
 
 希望大家学会用 懒人手册里的 [资源搜索](/data/07_常用资源?id=资源搜索) 去查找各类资源！
 
-一些现成用爬虫整理好的现成资源访问下方的资源站点：
-
- [https://lazyso.netlify.app/#/](https://lazyso.netlify.app/#/)
+懒人专属群（付费）的资源点击此处查看介绍
 
 <details>
   <summary>免责声明</summary>
@@ -20,6 +18,7 @@
 
 ## 目录
 
+- [专题类资源](#专题类资源)
 - [工程师类资源](#工程师类资源)
 - [公务员类资源](#公务员类资源)
 - [会计师/税务师类/经济师资源](#会计师税务师类经济师资源)
@@ -31,6 +30,56 @@
 -  [军队文职类资源](#军队文职类)
 -  [专升本／专接本／高起专／高升专](#专升本专接本高起专高升专)
 -  [其他学习资源](#其他学习资源)
+
+
+
+## 专题类资源
+
+- [法律专区 3.7T](https://www.aliyundrive.com/s/NyfcZTgpv44)
+- [设计 专题(3.5T)](https://www.aliyundrive.com/s/LWon5b36adE)
+- [千熊计划会员 专区](https://www.aliyundrive.com/s/KjwBLwRyF2P)
+- [极客时间2021-专栏课](https://www.aliyundrive.com/s/b6x4Cfk12uJ)
+- [极客时间2021-视频课](https://www.aliyundrive.com/s/SNrrmej7egL)
+- [顶香 专区](https://www.aliyundrive.com/s/GUJZFKKmFzF)
+- [刘媛媛系列 专区](https://www.aliyundrive.com/s/Q3SEvKbkHYM)
+- [十点课堂 专区](https://www.aliyundrive.com/s/PFdim7qhvKq)
+- [荔枝微课 专区](https://www.aliyundrive.com/s/hTBDCdXt7hs)
+- [维库 专区](https://www.aliyundrive.com/s/pd6vxA1heya)
+- [蒋勋系列](https://www.aliyundrive.com/s/wyoNb2NeaoL)
+- [千聊 专区](https://www.aliyundrive.com/s/xzudLAsA29U)
+- [混沌商学院 专区](https://www.aliyundrive.com/s/LvhFKoGYKDM)
+- [36氪 专区](https://www.aliyundrive.com/s/XGAoGxqcTpF)
+- [万门大学 专区](https://www.aliyundrive.com/s/3N8AVt6evtE)
+- [一块听听 专区](https://www.aliyundrive.com/s/KDV62CTh1Y1)
+- [金融类 专区2](https://www.aliyundrive.com/s/CPoHZ5Z1XKP)
+- [华尔街学堂 专区](https://www.aliyundrive.com/s/akbU3bny31x)
+- [抖音 短视频 vlog 专区](https://www.aliyundrive.com/s/4yUbNKWh2ra)
+- [蜻蜓 专区](https://www.aliyundrive.com/s/dv2nfjT2STj)
+- [职问 专区](https://www.aliyundrive.com/s/2Yh2KopGg4g)
+- [吴晓波频道 专区](https://www.aliyundrive.com/s/T3nSKspmUkq)
+- [心理课程 专区](https://www.aliyundrive.com/s/cSyB53yzHXU)
+- [再行一点 专区](https://www.aliyundrive.com/s/ioF7MUTq6z9)
+- [老光的课 专区](https://www.aliyundrive.com/s/qDExNRdTZFm)
+- [看理想 专区](https://www.aliyundrive.com/s/8pycsWjXcwv)
+- [好多课 专区](https://www.aliyundrive.com/s/oTu9Yx3j8uN)
+- [GF财经 专区](https://www.aliyundrive.com/s/xYQVriiSzSu)
+- [三节课 专区](https://www.aliyundrive.com/s/VZZLLyhn8CN)
+- [馒头商学院 专区2](https://www.aliyundrive.com/s/73AV7i7i7CL)
+- [馒头商学院 专区](https://www.aliyundrive.com/s/3pnfoxZVSYt)
+- [金融类 专区](https://www.aliyundrive.com/s/ouJ2rW1dY3c)
+- [有道精品课 专区](https://www.aliyundrive.com/s/hma5F5HFkDd)
+- [考虫英语 专区](https://www.aliyundrive.com/s/76QukmMSZfL)
+- [华尔街见闻 专区](https://www.aliyundrive.com/s/wHQVniZY2ib)
+- [独孤商学院 专区](https://www.aliyundrive.com/s/c6b3HENqdaq)
+- [A视野 专区](https://www.aliyundrive.com/s/nDAnicDDWGW)
+- [豆瓣 专区](https://www.aliyundrive.com/s/7aEw67sK4by)
+- [跟谁学 专区](https://www.aliyundrive.com/s/LiG3NspqiCJ)
+- [一书一课 专区](https://www.aliyundrive.com/s/C6u3ihY1RVP)
+- [哔哩专区](https://www.aliyundrive.com/s/LiG3NspqiCJ)
+- [氢课12堂](https://www.aliyundrive.com/s/sL7PYCPsPgq)
+- [【自媒体、电商运营专栏】（354GB）](https://www.aliyundrive.com/s/Br7e8fpkM7r)
+- [终身研习社 专题](https://www.aliyundrive.com/s/jcLtHe5KUtK)
+- [壹心理 专题](https://www.aliyundrive.com/s/wYAxRCm3ovr)
 
 ## 工程师类资源
 
