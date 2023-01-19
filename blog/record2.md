@@ -2,11 +2,8 @@
 
 [**返回网站首页**](/README.md)
 
-- <details>
-    <summary>防失联请关注公众号：懒人找资源</summary>
-    <p> - 测试 测试测试</p>
-  </details>
-
+- 👍[懒人专属群介绍](/blog/group)
+    
 - [专属群历史文档备份目录](/blog/record3)
 
 - 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
@@ -14,73 +11,76 @@
 ***
 
 <details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费339 ，付费进群~</summary>
-   <p></p> 
-<a href="https://mp.weixin.qq.com/s/SkYHz6-jkAOlTNsYvyboaQ">专属群介绍查看这里</a> 
 <P>
     扫码添加懒人咨询
 </P>
 <p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
 
-
 ***
 
+
+
+- 230119：
+
+  - 懒人专属群分享两本小懒自制电子书《存在主义通识课》《哲学家的10种生活提案（原价198）》，更多[通才计划相关](https://lazybook.netlify.app/#/data/13_course)，点击查看介绍和目录。
+
 - 230118：
-  
+
   - 更新[专题资源](/data/15_resoures)
   - 群有分享《（付费文）中美安全悖论与武装升级的东亚》
-  
+
 - 230117：
-  
+
   - 更新《生财风向标》，目前总300条风向标
-  
+
   - <details>
     <summary>更新《230117懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63c65fc9be43e0d30edc184d.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230113：
-  
+
   - 更新分享《220106懒人专属群周报》
-  
+
 - 230111：
-  
+
   - 群友分享付费文《我想聊隐学，一群人却忙着围观绿帽子》，已加入西风付费文合集。
-  
+
 - 230110：
-  
+
   - 更新《生财风向标》，目录重新排版
-  
+
   - <details>
     <summary>更新《230110懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63bd1de3be43e0d30e7609c3.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230109：
-  
+
   - 群友分享《[搜索达人是这么练成的](https://mp.weixin.qq.com/s/4nFPH-GfthchnnUShsmmCg)》，已加入[通才计划](/data/13.通才计划)
-  
+
 - 230106：
-  
+
   - 分享[通才计划](/data/13.通才计划)之《思辨力35讲：像辩手一样思考》
   - 更新分享《220106懒人专属群周报》
-  
+
 - 230105：
-  
+
   - 写了一下午的爬虫，把生财风向标爬到在线文档了。方便后面更新。
-  
+
 - 230104：
-  
+
   - 群友分享被和谐和付费文《A股新年第一帖：深刻理解A股本质及对策》
-  
+
   - <details>
     <summary>更新《230104懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63b53c1bbe43e0d30ef20870.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230103：
-  
+
   - 整理更新西风付费文全集。离线版（含epub和pdf）和在线版均已更新。
-  
+
 - 230101：
   - 分享西风付费文《**放开后仨话题，出国定居，国内买房，2023内外经济形势展望**》，在线版和离线版合集皆可专属群内自取。
   - 分享 **泪痕春雨全集（古代史13部+近代史16册）**
