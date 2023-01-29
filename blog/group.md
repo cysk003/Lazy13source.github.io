@@ -10,6 +10,8 @@
 
 年费：￥339 [（每月限30人进群）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647890335&idx=1&sn=f419463d8ed6e2cc33c5e3d1539ba7ea&scene=21#wechat_redirect)
 
+👍懒人专属最新的[更新记录点击跳转](/blog/record2)
+
 ### 享有权益：
 
 **懒人群的资源，问题求助和共享。**
@@ -28,9 +30,9 @@
 
 5. 守夜人的觉悟社文章分享。介绍见文章：[《结构学》文章，体验群共享指南](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647879577&idx=1&sn=924eadfaedcc7ead30fc9a6109cf959a&chksm=f20ad1d8c57d58ce2a501b5e173a62023062ea7ba6d208a687e2e1a8911303cc3015db3f8dea&token=1482004573&lang=zh_CN&scene=21#wechat_redirect)
 
+***
 
-
-懒人专属最新的[更新记录点击跳转](/blog/record2)
+👍懒人专属最新的[更新记录点击跳转](/blog/record2)
 
 专属群22年3月-22年7月更新记录见文章：[专属群更新记录（备份2）](https://mp.weixin.qq.com/s?__biz=MzA3NTI5ODM1Mw==&mid=2247497123&idx=2&sn=80209d72464a36bd64198d09b1d164f7&chksm=9f7016fda8079febdb43c671dba8ea1271c59774f4f11b697a6ae913be5a6ece01880a6f2532&token=679169925&lang=zh_CN&scene=21#wechat_redirect)
 
@@ -52,7 +54,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/Rmd3GnW8BRtbPS8sK9obabdT3FtxkJ8Yxfo1eibbVc31BckZFNQF12uMicbNYPSZ3u06icecwIyMbSGtYPQMao00g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
-真正需要的直接添加小懒VX咨询，付费进群~
+真正需要的直接添加小懒（微信号：**lazyhelper**）咨询，付费进群~
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
