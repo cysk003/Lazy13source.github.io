@@ -20,6 +20,17 @@
 
 
 
+- 230203：
+
+  - 分享尹香武付费文《史诗级通胀》
+  
+  - 分享《(大树乡谈付费文)放下对过去的执念，把握未来，趋利避害》
+  
+  - <details>
+    <summary>更新《230203懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/63dc6fac07d5ca7206248997.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230201：
 
   - 更新生财风向标180多条，整理分享[通才计划](/data/13_course)的reading2电子书
