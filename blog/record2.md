@@ -20,6 +20,15 @@
 
 
 
+- 230204：
+
+  - 更新西风付费文合集在线版（离线版见q群文件）
+  
+  - <details>
+    <summary>西风付费文合集点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/63de1ae54757feff330764e0.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230203：
 
   - 分享尹香武付费文《史诗级通胀》
