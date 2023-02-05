@@ -4,13 +4,11 @@
 
 聚合新闻网站汇总 [点此查看](/data/07_常用资源?id=新闻聚合)
 
-该页面**每天自动更新早报** ，建议收藏。长按图片可以保存本地。
-
 如日期未更新， <a href="javascript:location.reload();">点击此处刷新后查看~</a> 
 
+微信识别小程序查看：
 
-
- <div style="text-align: center;">    <img src="https://v2.alapi.cn/api/zaobao?token=3AmsJAaohHd4Oywf&format=image" alt="每日早报" width="100%"> </div>
+![](https://pic.imgdb.cn/item/63df4fc04757feff33f2883d.jpg)
 
 ***
 
