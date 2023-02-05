@@ -8,7 +8,7 @@
 
 内容为：互联网资源分享和共助，懒人群文档查阅。
 
-年费：￥339 [（每月限30人进群）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647890335&idx=1&sn=f419463d8ed6e2cc33c5e3d1539ba7ea&scene=21#wechat_redirect)
+年费：￥365 [（每月限30人进群）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647890335&idx=1&sn=f419463d8ed6e2cc33c5e3d1539ba7ea&scene=21#wechat_redirect)
 
 👍懒人专属最新的[更新记录点击跳转](/blog/record2)
 
