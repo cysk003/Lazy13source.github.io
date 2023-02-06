@@ -23,7 +23,15 @@
 
 - 230206：
 
+  - [懒人通才计划](/data/13_course)新增课程《陈志武的金融通识课》
+  
+    - <details>
+      <summary>点击展开目录</summary>
+      <p> <img src="https://pic.imgdb.cn/item/63e09e9b4757feff33f8af05.png" alt="" width="863" data-width="863" data-height="670"></p>
+      </details>
+  
   - 更新西风付费文《专家的这句居民负债太高了，估计也就我敢聊了》
+  
   - 群友分享欧神文集《道典正义大合集 截止2023年1月》
   
 - 230204：
