@@ -8,6 +8,12 @@
 
 破姐类软件容易失效，失效不补~
 
+## 2023-02-07 更新
+ - [磁力链接获取.rar](https://www.lanzoui.com/i4d870mrlakb)
+ - [自媒体工具箱.apk](https://www.lanzoui.com/iTTDG0moygif)
+ - [微软常用运行库合集 2023.02.02.exe](https://www.lanzoui.com/in9Uw0moy90f)
+ - [微软电脑管家内测版V2.7.exe](https://www.lanzoui.com/i5AoE0miysmf)
+
 ## 2023-02-03 更新
  - [批量无损图压缩工具-Caesium Image Compressor v2.3.0.zip](https://www.lanzoui.com/ix0ZY0mg4lsh)
  - [资源猫_v2.0.2_NoAd@黑鹰.apk](https://www.lanzoul.com/i0JRA0mhp0kf)
