@@ -21,6 +21,13 @@
 
 
 
+- 230208：
+
+  - <details>
+    <summary>更新《230208懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/63e379d84757feff3356e7ea.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230207：
 
   - 更新生财风向标200+，一共700+风向标合集见专属群消息。
