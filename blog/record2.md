@@ -30,7 +30,7 @@
   
 - 230207：
 
-  - 更新生财风向标200+，一共700+风向标合集见专属群消息。
+  - 更新生财风向标200+（[公众号免费分享](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647897997&idx=1&sn=093cd9af8562f6e54dcc365c51bde3b5&chksm=f20a09ccc57d80da4a61201472eb7ba97fc5f94438a53dc2e6d346caef7f749b4ff21cf7663b&token=1338422265&lang=zh_CN#rd)），一共700+风向标合集见专属群消息。
   - 群友分享付费文《生活重启，股市重启》（不备份）
   - 群友分享司令问答（备份）
   - 群友分享电子书《[大脑操作手册](https://lazyman.lanzoul.com/i1E4T0mun9pa)》
