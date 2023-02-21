@@ -21,6 +21,24 @@
 
 
 
+- 230215:
+
+  - <details>
+    <summary>更新《230215懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/63ece73df144a010077f0d31.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 230214:
+
+  - <details>
+    <summary>更新160+条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWgRqiaByMwUxLXbtVzsCraoic6eQ6zfHhPicFichJHGk5G9ztiar6RfyjDRdlVxZtSE6dDaEds7W5glA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 230209-230213:
+
+  - 小懒有事外出，分享依旧，本记录暂停更新。
+  
 - 230208：
 
   - <details>
