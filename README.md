@@ -16,7 +16,7 @@
 
 ##### [**关于各个资源分布**](/about.md)
 
-
+**粉丝反馈通道**：[https://support.qq.com/product/506389](https://support.qq.com/product/506389)
 
 ## 分类栏目
 

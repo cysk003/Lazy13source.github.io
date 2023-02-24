@@ -52,17 +52,11 @@
 
 懒人群为共享社区，分享资料为虚拟产品，小懒不会虚假宣传，请尊重懒人时间，确定要进再进。
 
-对于恶意退款浪费小懒时间的人品有问题的人，踢出群并且不退款，小懒保留解释权益。
+对于恶意退款浪费小懒时间，人品有问题的人，踢出群并且不退款，小懒保留解释权益。
 
 怎样定义恶意，小懒说了算~
 
-### 附加权益：
-
-体验群留存的一切资源分享，小懒以前备份的四十几个付费星球备份。
-
-还有一些价值资源将打包直接发送~
-
-![](https://mmbiz.qpic.cn/mmbiz_gif/Rmd3GnW8BRtbPS8sK9obabdT3FtxkJ8Yxfo1eibbVc31BckZFNQF12uMicbNYPSZ3u06icecwIyMbSGtYPQMao00g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+***
 
 真正需要的直接添加小懒（微信号：**lazyhelper**）咨询，付费进群~
 
