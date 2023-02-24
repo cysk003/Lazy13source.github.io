@@ -138,7 +138,7 @@
 
 ### 近期推荐
 
-[懒人专属群介绍](https://mp.weixin.qq.com/s/yAgzLnax3KMN1V_bdutB-w)
+[懒人专属群介绍](/blog/group)
 
 [懒人优质软件系列（可订阅）](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjAxOTI0Ng==&action=getalbum&album_id=1319580784038133761#wechat_redirect)
 
