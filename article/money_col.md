@@ -8,7 +8,7 @@
 
 文档内容仅供 [懒人专属群](/blog/group) 群友查阅，到专属群q群公告可以查看访问地址。
 
-本页面建议使用*ctrl+f*搜索关键词。专属群文档支持全文检索。
+本页面建议使用*ctrl+f*搜索关键词，快速定位。
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
