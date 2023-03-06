@@ -18,6 +18,10 @@
 
 - 🎈大家要善于利用 [04影视资源](/data/04_影视资源) 里提供的资源下载方法下载资源。
 
+- 最后的生还者
+
+  - [阿里云盘下载地址](https://www.aliyundrive.com/s/zUvftrjvvhZ)
+
 - 《夜行者》
 
   - [阿里云盘下载](https://www.aliyundrive.com/s/b9Qq3A9ThbW)
