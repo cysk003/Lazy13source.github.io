@@ -1,48 +1,54 @@
 # 懒人生财专栏列表
 
+[**返回首页**](/README.md)
+
 本文档只提供标题列表，方便群友查询和定位。
+
+于23年3月6号整理，后面的更新见[懒人专属群](/blog/group)内分享
 
 文档内容仅供 [懒人专属群](/blog/group) 群友查阅，到专属群q群公告可以查看访问地址。
 
+本页面建议使用*ctrl+f*搜索关键词。专属群文档支持全文检索。
+
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
-建议使用*ctrl+f*搜索关键词。
+***
 
 ## 专栏目录
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/%E6%8A%96%E9%9F%B3.png" style="zoom: 40%;" /> [抖音专栏](#抖音专栏)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/%E6%8A%96%E9%9F%B3.png" style="zoom: 40%;" /> [抖音专栏](#抖音专栏) {docsify-ignore}
 
 ***
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/%E5%BE%AE%E4%BF%A1.png" style="zoom:40%;" /> [微信专栏](#微信专栏)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/%E5%BE%AE%E4%BF%A1.png" style="zoom:40%;" /> [微信专栏](#微信专栏){docsify-ignore}
 
 ***
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/TikTok.png" style="zoom:40%;" /> [Tiktok专栏](#Tiktok专栏)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/TikTok.png" style="zoom:40%;" /> [Tiktok专栏](#Tiktok专栏){docsify-ignore}
 
 ***
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/%E5%9B%BD%E5%86%85%E5%B9%B3%E5%8F%B0.png" style="zoom:40%;" /> [国内平台](#国内平台)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/%E5%9B%BD%E5%86%85%E5%B9%B3%E5%8F%B0.png" style="zoom:40%;" /> [国内平台](#国内平台){docsify-ignore}
 
 ***
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/%E5%9B%BD%E5%86%85%E7%94%B5%E5%95%86.png" alt="img" style="zoom:40%;" /> [国内电商](#国内电商)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/%E5%9B%BD%E5%86%85%E7%94%B5%E5%95%86.png" alt="img" style="zoom:40%;" /> [国内电商](#国内电商){docsify-ignore}
 
 ***
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/%E6%B5%B7%E5%A4%96%E5%B9%B3%E5%8F%B0.png" style="zoom:40%;" /> [海外平台](#海外平台)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/%E6%B5%B7%E5%A4%96%E5%B9%B3%E5%8F%B0.png" style="zoom:40%;" /> [海外平台](#海外平台){docsify-ignore}
 
 ***
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86.png" style="zoom:40%;" /> [跨境电商](#跨境电商)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86.png" style="zoom:40%;" /> [跨境电商](#跨境电商){docsify-ignore}
 
 ***
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/%E7%BA%BF%E4%B8%8B%E5%AE%9E%E4%BD%93.png" style="zoom:40%;" /> [线下实体](#线下实体)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/%E7%BA%BF%E4%B8%8B%E5%AE%9E%E4%BD%93.png" style="zoom:40%;" /> [线下实体](#线下实体){docsify-ignore}
 
 ***
 
-### <img src="https://search01.shengcaiyoushu.com/images/menu/%E4%B8%93%E4%B8%9A%E6%9C%8D%E5%8A%A1.png" style="zoom:40%;" /> [专业服务](#专业服务)
+### <img src="https://search01.shengcaiyoushu.com/images/menu/%E4%B8%93%E4%B8%9A%E6%9C%8D%E5%8A%A1.png" style="zoom:40%;" /> [专业服务](#专业服务){docsify-ignore}
 
 ***
 

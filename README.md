@@ -10,11 +10,16 @@
 </details>
 
 
+*** 
+
 电脑浏览器访问体验更佳！**左上角支持搜索关键词~**
 
 <i class="fa fa-weixin"></i> [手册使用介绍点这里查看](https://mp.weixin.qq.com/s/WSCQHkw25bb9Vv_3Lu_Mzw)
 
-##### [**关于各个资源分布**](/about.md)
+<details>
+  <summary>展开添加小懒微信：lazyhelper</summary>
+ <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+</details>
 
 **粉丝反馈通道**：[https://support.qq.com/product/506389](https://support.qq.com/product/506389)
 
@@ -52,12 +57,12 @@
 
 ## 懒人专栏
 
-| [懒人碎碎念](/article/collection)           | [破姐软件分享](/article/software)   |
-| ------------------------------------------- | ----------------------------------- |
-| [专属群文档备份](/blog/record3)             | [专属群更新记录](/blog/record2)     |
-| [粉丝文档分享](/blog/internet)              | [专属群通才计划](data/13_course.md) |
-| [知乎盐会员白嫖](/article/zhihu)            | [懒人早报](/blog/morning)           |
-| [资源分享页](https://lazyso.netlify.app/#/) | [懒人工具箱](/article/tools)        |
+| [懒人碎碎念](/article/collection) | [破姐软件分享](/article/software)   |
+| --------------------------------- | ----------------------------------- |
+| [专属群文档备份](/blog/record3)   | [专属群更新记录](/blog/record2)     |
+| [粉丝文档分享](/blog/internet)    | [专属群通才计划](data/13_course.md) |
+| [知乎盐会员白嫖](/article/zhihu)  | [懒人生财专栏](/article/money_col)  |
+|                                   | [懒人工具箱](/article/tools)        |
 
 
 
