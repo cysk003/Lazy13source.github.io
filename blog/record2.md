@@ -21,7 +21,14 @@
 
 
 
-- 230302：
+- 230307：
+
+  - <details>
+    <summary>更新169条生财风向标（总1300条），点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/6406aeb2f144a01007928b55.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 230305：
 
   - 懒人专属群正在整理懒人生财专栏，[点击查看目录](/article/money_col)
   
