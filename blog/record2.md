@@ -24,8 +24,13 @@
 - 230307：
 
   - <details>
+    <summary>更新《230307懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYN7om4teQg2D9u2lE2GoicsR6nhtYZTMU1VOXCPELX52fa7sy0e7KyiaAGWGMsjf0FJZ0vZw18x7A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
     <summary>更新169条生财风向标（总1300条），点击展开目录：</summary>
-    <p> <img src="https://pic.imgdb.cn/item/6406aeb2f144a01007928b55.png" alt="" width="863" data-width="863" data-height="670"></p>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYN7om4teQg2D9u2lE2GoicTMb1OiaT8n0KmGQjDGu3Hib6L3eXoQ4ol29w645VtpThCnbxWZaKyvoQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
   
 - 230305：
