@@ -24,179 +24,180 @@
 - 230309：
 
   - 群友分享政事堂的《机构改革的红利》《如何抓住机构改革的红利》
-  
+  - 群友分享司令历史付费文（原公众号已被删）《A441：士族的全面复兴！》
+
 - 230308：
 
   - 群友分享司令付费文《未来》
-  
+
 - 230307：
 
   - <details>
     <summary>更新《230307懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYN7om4teQg2D9u2lE2GoicsR6nhtYZTMU1VOXCPELX52fa7sy0e7KyiaAGWGMsjf0FJZ0vZw18x7A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新169条生财风向标（总1300条），点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYN7om4teQg2D9u2lE2GoicTMb1OiaT8n0KmGQjDGu3Hib6L3eXoQ4ol29w645VtpThCnbxWZaKyvoQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230305：
 
   - 懒人专属群正在整理懒人生财专栏，[点击查看目录](/article/money_col)
-  
+
 - 230302：
 
   - 分享《生财有术66个精选项目PDF版》
-  
+
 - 230301：
 
   - 群友分享付费文《已有6亿栋房屋》，西风付费文合集见专属群通才计划
-  
+
 - 230228：
 
   - <details>
     <summary>更新《230228懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63fda094f144a01007a74cff.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新100+条生财风向标，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63fd7fc0f144a0100775e1a2.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230227：
 
   - 群友分享司令付费文《布局》，《经济危机的前夜？！》
-  
+
 - 230224：
 
   - 备份[懒人专属群文档，总目录点击查看](/blog/record3)。群友自行筛选。
-  
+
 - 230223：
 
   - 群友分享《（雪球花甲老头-付费文）祥龙抬头！2023年是关键节点，变数带来新的机遇｜万字》
-  
+
 - 230222：
 
   - <details>
     <summary>更新《230222懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63f5c9e0f144a010070f7050.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230221：
 
   - **群友分享付费文**
-  
+
   - 230212司令付费文《钱》
-  
+
   - 2023.02.16 司令付费文《没办法！》
-  
+
   - 230220政事堂付费文 - 什么是全球保守主义的回光返照
-  
+
   - 20230219水原对话达叔
-  
+
   - 230220司令付费文《转移债务!》
-  
+
   - 樱桃大房子2023楼市预判：新一轮大牛市会来吗？ 
-  
+
   - 2023-02-19 3300点的争夺战 （股市相关）
-  
+
   - 2023-02-12 数据背后的蠢蠢欲动 （股市相关）
-  
+
   - <details>
     <summary>更新《230221生财风向标》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63f4432ff144a01007e38c5a.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230216-230220：
 
   - 小懒外出，本记录暂停更新。
-  
+
 - 230215:
 
   - <details>
     <summary>更新《230215懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63ece73df144a010077f0d31.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230214:
 
   - <details>
     <summary>更新160+条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWgRqiaByMwUxLXbtVzsCraoic6eQ6zfHhPicFichJHGk5G9ztiar6RfyjDRdlVxZtSE6dDaEds7W5glA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230209-230213:
 
   - 小懒有事外出，分享依旧，本记录暂停更新。
-  
+
 - 230208：
 
   - <details>
     <summary>更新《230208懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63e379d84757feff3356e7ea.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230207：
 
   - 更新生财风向标200+（[公众号免费分享](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647897997&idx=1&sn=093cd9af8562f6e54dcc365c51bde3b5&chksm=f20a09ccc57d80da4a61201472eb7ba97fc5f94438a53dc2e6d346caef7f749b4ff21cf7663b&token=1338422265&lang=zh_CN#rd)），一共700+风向标合集见专属群消息。
   - 群友分享付费文《生活重启，股市重启》（不备份）
   - 群友分享司令问答（备份）
   - 群友分享电子书《[大脑操作手册](https://lazyman.lanzoul.com/i1E4T0mun9pa)》
-  
+
 - 230206：
 
   - [懒人通才计划](/data/13_course)新增课程《陈志武的金融通识课》
-  
+
     - <details>
       <summary>点击展开目录</summary>
       <p> <img src="https://pic.imgdb.cn/item/63e09e9b4757feff33f8af05.png" alt="" width="863" data-width="863" data-height="670"></p>
       </details>
-  
+
   - 更新西风付费文《专家的这句居民负债太高了，估计也就我敢聊了》
-  
+
   - 群友分享欧神文集《道典正义大合集 截止2023年1月》
-  
+
 - 230204：
 
   - 更新西风付费文合集在线版（离线版见q群文件）
-  
+
   - <details>
     <summary>西风付费文合集点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63de1ae54757feff330764e0.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230203：
 
   - 分享尹香武付费文《史诗级通胀》
-  
+
   - 分享《(大树乡谈付费文)放下对过去的执念，把握未来，趋利避害》
-  
+
   - <details>
     <summary>更新《230203懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63dc6fac07d5ca7206248997.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230201：
 
   - 更新生财风向标180多条，整理分享[通才计划](/data/13_course)的reading2电子书
-  
+
 - 230131：
 
   - 更新西风付费文《预期管理之最高境界：操控你老板的预期》，西风付费文合集目录见[通才计划](/data/13_course)
-  
+
 - 230129：
 
   - 群友分享：司令付费文《2022 年标的 5 判断逻辑！》
   - 江宁知府付费文《台湾问题解决后的中国与美国》《再探“特别军事行动”》
   - 灏泽付费文《癸卯年生肖详解_ 读完本文，你的2023年肯定会大富大贵！
     - 其中灏泽作为神棍，其文章在专属群内不做备份，后面进群的群友兴趣的话到吹水群问一下。
-  
+
 - 230120-230128：
 
   - 春节小懒回家设备受限，本更新记录暂停更新。
-  
+
 - 230119：
 
   - 懒人专属群分享两本小懒自制电子书《存在主义通识课》《哲学家的10种生活提案（原价198）》，更多[通才计划相关](https://lazybook.netlify.app/#/data/13_course)，点击查看介绍和目录。
