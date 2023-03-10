@@ -21,6 +21,13 @@
 
 
 
+- 230310：
+
+  - <details>
+    <summary>更新《230310懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/640aa1a5f144a01007283d8a.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
 - 230309：
 
   - 群友分享政事堂的《机构改革的红利》《如何抓住机构改革的红利》
@@ -45,6 +52,10 @@
 - 230305：
 
   - 懒人专属群正在整理懒人生财专栏，[点击查看目录](/article/money_col)
+
+- 230303：
+
+  - 分享懒人专属群周报
 
 - 230302：
 
