@@ -28,14 +28,19 @@
   - 群友分享西风付费文《你到底想做教育的消费者？还是教育的受益者？》，西风全部付费文合集见q群公告通才计划。
 
   - <details>
+    <summary>更新《230314懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuiaTmugYbhB7zM1J7hicYZQNY9f5oWuFrichdPFmGamM3FJhtzTtzEmLfVVECHLVDfnUyearYHhByFQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+  - <details>
     <summary>更新155条生财风向标，点击展开目录：</summary>
-    <p> <img src="https://pic.imgdb.cn/item/640fe86ef144a01007ee6f47.png" alt="" width="863" data-width="863" data-height="670"></p>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuiaTmugYbhB7zM1J7hicYZQN5U7fCUL7HeyiaiaaUPsjWhbJfxnHic0NfPAqYgbmEgcbRjFt1yZkuQf4w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
 - 230310：
 
   - <details>
-    <summary>更新《230310懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230310懒人专属群周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/640aa1a5f144a01007283d8a.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
