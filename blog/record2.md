@@ -21,6 +21,15 @@
 
 
 
+- 230314：
+
+  - 群友分享西风付费文《你到底想做教育的消费者？还是教育的受益者？》，西风全部付费文合集见q群公告通才计划。
+
+  - <details>
+    <summary>更新155条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/640fe86ef144a01007ee6f47.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
 - 230310：
 
   - <details>
