@@ -1,5 +1,7 @@
 # AI
 
+[**返回首页**](/README.md)
+
 > 一些AI相关的镜像网站和工具，欢迎通过下方链接提交分享：
 >
 > https://support.qq.com/product/506389
@@ -85,6 +87,8 @@
 
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
 
+[🔙返回目录](#目录)
+
 ## AI绘画
 
 - 👍[Civitai](https://civitai.com/)
@@ -109,7 +113,7 @@
 
 - [TIAMAT大陆](https://tiamat.world/)
 
-
+[🔙返回目录](#目录)
 
 ## 插件和扩展
 
@@ -199,6 +203,8 @@
 
     由 ChatGPT 驱动的代码审查机器人
 
+[🔙返回目录](#目录)
+
 ## 应用
 
 - [ChatPDF](https://www.chatpdf.com/)
@@ -259,6 +265,8 @@
 
   更好的 ChatGPT 界面，具有快速响应、聊天搜索、集成、提示库等增强功能。
 
+[🔙返回目录](#目录)
+
 ## CLI
 
 - [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
@@ -315,6 +323,8 @@
 
   使用ChatGPT翻译字幕，使用 NodeJS 开发的基于 ChatGPT 的字幕翻译 CLI 工具。它同时还有一个使用 Electron 开发的桌面版本 [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
 
+[🔙返回目录](#目录)
+
 ## 聊天机器人
 
 - Telegram
@@ -336,6 +346,8 @@
   - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): 开发语言 **Go**.
 - Teams
   - [formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)
+
+[🔙返回目录](#目录)
 
 ## 开发
 
@@ -384,6 +396,8 @@
 - [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
 
   计算使用 OpenAI GPT-3.5 API 生成特定数量单词的成本。
+
+[🔙返回目录](#目录)
 
 
 
