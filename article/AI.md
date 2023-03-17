@@ -21,6 +21,8 @@
 
 ***
 
+懒人视频科普：[万字科普ChatGPT-4为什么会颠覆人类社会](https://b23.tv/hkZ7qHy)
+
 ## Chatgpt镜像
 
 - **ChatGPT镜像网站**
