@@ -29,11 +29,13 @@
 
   - https://freegpt.one/ （需要全局代理）
 
-  - [chat.theb.ai](https://chat.theb.ai/)
+  - [chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
 
   - [ChatGPT Bot (xeasy.me)](https://chat.xeasy.me/)
 
     > 上面都是基于gtp-3.5，无法访问就换一个
+
+  - https://aigcfun.com/ （需要自己的key
 
   - http://www.openmao.com/
 
@@ -86,7 +88,7 @@
     > 上传PDF文件后，可以对它提问任何关于这份PDF的问题，非常适合快速提取各种paper论文的摘要，也支持中文输出. 速度超快且免费使用，快速回答书籍、论文、手册、合同中的任何内容！
 
   - [chilloutai](https://chilloutai.com/)
-
+  
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
 
 [🔙返回目录](#目录)
