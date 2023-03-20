@@ -6,7 +6,9 @@
 
 建议使用浏览器访问，ctrl+f可以快速搜索。
 
-破姐类软件容易失效，失效不补~
+破姐类软件容易失效，失效不补。
+
+建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 ## 2023-03-20 更新
  - [无水印图下载_小红书1.4.exe](https://lazyman.lanzoul.com/ikFyg0ql8hpi)
