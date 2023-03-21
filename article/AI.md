@@ -90,6 +90,55 @@
   - [chilloutai](https://chilloutai.com/)
   
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
+  
+- 更多镜像站：
+
+  > 说明：
+
+  - 👆[http://chatgpt3.icu](http://chatgpt3.icu/) [ad.]
+
+  1. [⭐⭐] https://theb.ai/
+  2. [🔑⭐] https://poe.com/
+  3. [⭐⭐] https://chatmate.network/
+  4. [⭐⭐] https://chat.yqcloud.top/
+  5. [⭐⭐]https://qa.js.cn/
+  6. [⭐⭐] https://gpt.xeasy.me/
+  7. [⭐⭐] https://chat1.xeasy.me/
+  8. [⭐⭐] https://chat.uue.me/
+  9. [⭐⭐] https://chat.forchange.cn/
+  10. http://gitopenchina.gitee.io/gpt
+  11. http://gitopenchina.gitee.io/freechatgpt
+  12. https://askbot.club/chatgpt/
+  13. https://gpt.getshare.net/
+  14. [http://chatai.fyi](http://chatai.fyi/)
+  15. https://freechatgpt.chat/
+  16. [https://chatplus.app](https://chatplus.app/) (客户端应用)
+  17. https://gpt.tool00.com/
+  18. https://chat.geekr.dev/
+  19. [https://desk.im](https://desk.im/)
+  20. https://xc.com/
+  21. https://chat.51buygpt.com/
+  22. http://chat.apigpt.cn/
+  23. https://94gpt.com/
+  24. https://www.teach-anything.com/
+  25. https://trychatgp.com/
+  26. https://ai117.com/
+  27. http://chat.livepo.top/
+  28. [https://freegpt.cc](https://freegpt.cc/)
+  29. [https://ai.ls](https://ai.ls/)
+  30. [🔑] https://www.typingmind.com/
+  31. [🔑] https://www.bz1y.cn/
+  32. [🔑] https://chat.alpaca-bi.com/
+  33. [🔑] https://chat.paoying.net/
+  34. [🔑] https://chat.eaten.fun/
+  35. [🔑] [https://chat.qingting.work](https://chat.qingting.work/)
+  36. [🔑] https://chat.wxredcover.cn/
+  37. https://www.askopenai.cn/
+  38. https://chatgpt-flutter.h7ml.cn/
+  39. https://www.aitoolgpt.com/
+  40. https://chatapi.qload.cn/
+  41. https://gpt.h7ml.cn/
+  42. https://chat.h7ml.cn/
 
 [🔙返回目录](#目录)
 
