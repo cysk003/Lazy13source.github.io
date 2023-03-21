@@ -389,6 +389,10 @@
 
 ### 工具
 
+-  [Cursor](https://www.cursor.so/)
+
+  是 GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常的编码。介绍见公众号推文。
+
 - [LlamaIndex 🦙 (GPT Index)](https://github.com/jerryjliu/gpt_index)
 
   LlamaIndex (原名 GPT Index) 是一个用于处理 LLM 外部数据的工具库。 它提供一系列数据结构帮助开发者为各种 LLM 任务索引数据，解决 prompt 大小限制的问题。

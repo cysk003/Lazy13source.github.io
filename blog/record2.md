@@ -19,6 +19,13 @@
 
 ***
 
+- 230321：
+
+  - <details>
+    <summary>更新247条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/64192159a682492fccb3c734.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230320：
 
   - 群友分享地产局座230319付费文《3月17央行突然降准，新一轮“货币宽松”来了，财富重新分配的大门即将打开》
