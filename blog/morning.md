@@ -8,7 +8,11 @@
 
 微信识别小程序查看：
 
-![](https://pic.imgdb.cn/item/63df4fc04757feff33f2883d.jpg)
+## 新闻早报
+
+<img src="https://v2.alapi.cn/api/zaobao?token=3AmsJAaohHd4Oywf&format=image">
+
+
 
 ***
 
