@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>OCR Chat GPT-3.5 Turbo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <form id="myForm">
+        <label for="input_text">输入：</label><br>
+        <input type="text" id="input_text" name="input_text"><br>
+        <button type="submit">提交</button>
+    </form>
+
+    <p id="response"></p>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        const form = document.getElementById('myForm');
+        const responseDiv = document.getElementById('response');
+
+        form.addEventListener('submit', (event) => {
+            event.preventDefault();
+
+            const inputText = document.getElementById("input_text").value;
+            const actionId = "fcd5f6b0-adb2-4923-b7f1-508dd7f3c176"; // 将实际动作ID替换为此字符串
+
+            const headers = {
+                'Content-Type': 'application/json',
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'
+            };
+
+            const data = {
+                "in": inputText,
+                "acid": actionId
+            };
+
+            axios.post('http://ocr.fmppt.com/api/chatgpt/gpt-3.5-turbo', JSON.stringify(data), { headers })
+                .then((response) => {
+                    const jsonStr = JSON.stringify(response.data, null, 2);
+                    const rsDict = JSON.parse(jsonStr);
+                    const content = rsDict.choices[0].message.content;
+                    responseDiv.innerHTML = content;
+                })
+                .catch((error) => {
+                    console.error(error);
+                });
+        });
+    </script>
+
+</body>
+</html>
