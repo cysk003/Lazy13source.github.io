@@ -10,7 +10,7 @@
 
 ## 新闻早报
 
-<img src="https://v2.alapi.cn/api/zaobao?token=3AmsJAaohHd4Oywf&format=image">
+<img src="https://v2.alapi.cn/api/zaobao?token=QLo2Cge8kf55kEsB&format=image">
 
 
 
