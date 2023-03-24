@@ -28,13 +28,13 @@
 - 懒人Chatgpt客户端
   - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/iJgyZ0qxhu1i) （推荐，不容易卡死）
   - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/iOdJ10qxhu3a) （图形界面，容易卡）
-  - 不用特殊网络和账号，打开即用，介绍见推文
+  - 不用特殊网络和账号，打开即用，[介绍见推文](https://mp.weixin.qq.com/s/Y_ds2wxkaWtlyu_FrhwV9g)
 
 - **ChatGPT镜像网站**
 
-  - https://freegpt.one/ （需要全局代理）
+  - 👍https://freegpt.one/ （需要全局代理）
 
-  - [chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
+  - 👍[chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
 
   - [ChatGPT Bot (xeasy.me)](https://chat.xeasy.me/)
 
@@ -103,8 +103,6 @@
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
   
 - 更多镜像站：
-
-  > 说明：
 
   - 👆[http://chatgpt3.icu](http://chatgpt3.icu/) [ad.]
 
