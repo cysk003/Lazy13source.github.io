@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>离线HTML示例</title>
+	<meta charset="UTF-8">
+	<script>
+		function sendRequest() {
+			var input = document.getElementById("inputText").value;
+			var actionId = "fcd5f6b0-adb2-4923-b7f1-508dd7f3c176";
+			var url = "http://ocr.fmppt.com/api/chatgpt/gpt-3.5-turbo";
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function() {
+				if (this.readyState == 4 && this.status == 200) {
+					var response = JSON.parse(this.responseText);
+					var content = response.choices[0].message.content;
+					alert(content);
+				}
+			};
+			xhttp.open("POST", url, true);
+			xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			xhttp.setRequestHeader("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36");
+			var params = "$$in=" + encodeURIComponent(input) + "&acid=" + actionId;
+			xhttp.send(params);
+		}
+	</script>
+</head>
+<body>
+	<h1>离线HTML示例</h1>
+	<p>请输入要发送给API的数据：</p>
+	<input type="text" id="inputText" value="">
+	<button onclick="sendRequest()">发送请求</button>
+</body>
+</html>

@@ -25,6 +25,11 @@
 
 ## Chatgpt镜像
 
+- 懒人Chatgpt客户端
+  - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/iJgyZ0qxhu1i) （推荐，不容易卡死）
+  - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/iOdJ10qxhu3a) （图形界面，容易卡）
+  - 不用特殊网络和账号，打开即用，介绍见推文
+
 - **ChatGPT镜像网站**
 
   - https://freegpt.one/ （需要全局代理）
@@ -32,6 +37,8 @@
   - [chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
 
   - [ChatGPT Bot (xeasy.me)](https://chat.xeasy.me/)
+
+  - https://chatgpt.ai/ (需要魔法网络)
 
     > 上面都是基于gtp-3.5，无法访问就换一个
 
@@ -86,7 +93,7 @@
   - https://plaud.ai/transcribe
 
     > 用GPT3.5和Whisper实现语音转文本，并一键概括内容。
-
+  
   - https://www.chatpdf.com/ （需要全局代理）
   
     > 上传PDF文件后，可以对它提问任何关于这份PDF的问题，非常适合快速提取各种paper论文的摘要，也支持中文输出. 速度超快且免费使用，快速回答书籍、论文、手册、合同中的任何内容！
