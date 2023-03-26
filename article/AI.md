@@ -1,17 +1,20 @@
-# AI
+# AI资料库
 
 [**返回首页**](/README.md)
 
-> 一些AI相关的镜像网站和工具，欢迎通过下方链接提交分享：
->
-> https://support.qq.com/product/506389
+> 一些AI相关的镜像网站和工具，更新提醒见公众号*懒人找资源*
+
+<details>
+  <summary>防失联请关注公众号：懒人找资源</summary>
+ <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRvQ4lyFfHJRKdCT38dOFpVQaIyoeXpYOxYsboIlPS7sKSPA4ibNAXCteYOP3KW5Pz4RPaxYOBsibfNg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+</details>
 
 ## 目录
 
 - [Chatgpt镜像](#Chatgpt镜像)
+- [AI聚合工具箱](#AI聚合工具箱)
 - [AI绘画](#AI绘画)
 - [插件和扩展](#插件和扩展)
-
 - [应用](#应用)
 - [CLI](#CLI)
 - [聊天机器人](#聊天机器人)
@@ -19,13 +22,14 @@
   - [开源项目](#开源项目)
   - [工具](#工具)
 
-***
+------
 
 懒人视频科普：[万字科普ChatGPT-4为什么会颠覆人类社会](https://b23.tv/hkZ7qHy)
 
 ## Chatgpt镜像
 
 - 懒人Chatgpt客户端
+
   - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/iJgyZ0qxhu1i) （推荐，不容易卡死）
   - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/iOdJ10qxhu3a) （图形界面，容易卡）
   - 不用特殊网络和账号，打开即用，[介绍见推文](https://mp.weixin.qq.com/s/Y_ds2wxkaWtlyu_FrhwV9g)
@@ -35,6 +39,10 @@
   - 👍https://freegpt.one/ （需要全局代理）
 
   - 👍[chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
+
+  - 👍[QAChat](https://qachat.cc/) （很快，不需要魔法）
+
+  - [Chat For AI](https://chatforai.online/) (很快，免费 10 次，清除 Cookie 可重置)
 
   - [ChatGPT Bot (xeasy.me)](https://chat.xeasy.me/)
 
@@ -55,10 +63,6 @@
   - [风变科技-ChatGPT👍](https://chat.forchange.cn/)
 
     > 免费，速度快。不过没有上面的智能。
-
-  - [AI帮个忙](https://ai-toolbox.codefuture.top/)
-
-    > 各种AI小工具，还不错
 
   - [CHAT.GPT.WF👍](https://chat.gpt.wf/)
 
@@ -93,61 +97,56 @@
   - https://plaud.ai/transcribe
 
     > 用GPT3.5和Whisper实现语音转文本，并一键概括内容。
-  
+
   - https://www.chatpdf.com/ （需要全局代理）
-  
+
     > 上传PDF文件后，可以对它提问任何关于这份PDF的问题，非常适合快速提取各种paper论文的摘要，也支持中文输出. 速度超快且免费使用，快速回答书籍、论文、手册、合同中的任何内容！
-  
+
   - [chilloutai](https://chilloutai.com/)
-  
+
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
-  
+
 - 更多镜像站：
 
   - 👆[http://chatgpt3.icu](http://chatgpt3.icu/) [ad.]
 
   1. [⭐⭐] https://theb.ai/
+
   2. [🔑⭐] https://poe.com/
+
   3. [⭐⭐] https://chatmate.network/
+
   4. [⭐⭐] https://chat.yqcloud.top/
+
   5. [⭐⭐]https://qa.js.cn/
+
   6. [⭐⭐] https://gpt.xeasy.me/
+
   7. [⭐⭐] https://chat1.xeasy.me/
+
   8. [⭐⭐] https://chat.uue.me/
+
   9. [⭐⭐] https://chat.forchange.cn/
-  10. http://gitopenchina.gitee.io/gpt
-  11. http://gitopenchina.gitee.io/freechatgpt
-  12. https://askbot.club/chatgpt/
-  13. https://gpt.getshare.net/
-  14. [http://chatai.fyi](http://chatai.fyi/)
-  15. https://freechatgpt.chat/
-  16. [https://chatplus.app](https://chatplus.app/) (客户端应用)
-  17. https://gpt.tool00.com/
-  18. https://chat.geekr.dev/
-  19. [https://desk.im](https://desk.im/)
-  20. https://xc.com/
-  21. https://chat.51buygpt.com/
-  22. http://chat.apigpt.cn/
-  23. https://94gpt.com/
-  24. https://www.teach-anything.com/
-  25. https://trychatgp.com/
-  26. https://ai117.com/
-  27. http://chat.livepo.top/
-  28. [https://freegpt.cc](https://freegpt.cc/)
-  29. [https://ai.ls](https://ai.ls/)
-  30. [🔑] https://www.typingmind.com/
-  31. [🔑] https://www.bz1y.cn/
-  32. [🔑] https://chat.alpaca-bi.com/
-  33. [🔑] https://chat.paoying.net/
-  34. [🔑] https://chat.eaten.fun/
-  35. [🔑] [https://chat.qingting.work](https://chat.qingting.work/)
-  36. [🔑] https://chat.wxredcover.cn/
-  37. https://www.askopenai.cn/
-  38. https://chatgpt-flutter.h7ml.cn/
-  39. https://www.aitoolgpt.com/
-  40. https://chatapi.qload.cn/
-  41. https://gpt.h7ml.cn/
-  42. https://chat.h7ml.cn/
+
+     
+
+[🔙返回目录](#目录)
+
+## AI聚合工具箱
+
+- https://open-gpt.app/
+
+  > 数千个chatgpt应用小工具
+
+- [AI帮个忙](https://ai-toolbox.codefuture.top/)
+
+  > 各种AI小工具，还不错
+
+- [AiTxt 工具箱](https://aitxt.io/#/)
+
+- [AI工具百宝箱](https://www.explainthis.io/zh-hant/ai-toolkit)
+
+> 以上介绍见推文～
 
 [🔙返回目录](#目录)
 
@@ -180,6 +179,12 @@
 ## 插件和扩展
 
 - Chrome 扩展
+
+  - 👍[LunaBo](https://lunabot.ai/)
+
+    - 浏览器扩展，也集成了 ChatGPT 3.5，可以在任何网页上使用 ChatGPT，免费用户也可以无限制使用。
+
+      地址：[Chrome](https://chrome.google.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)、[Edge](https://microsoftedge.microsoft.com/addons/detail/pcilgakddbmfdpbpfbdjfjgaaiahogab)、[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/lunabot-chatgpt-on-webpages/)、[本地下载](https://www.crxsoso.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)
 
   - [Glarity](https://glarity.app/)
 
@@ -447,7 +452,7 @@
 
 ### 工具
 
--  [Cursor](https://www.cursor.so/)
+- [Cursor](https://www.cursor.so/)
 
   是 GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常的编码。介绍见公众号推文。
 
@@ -467,6 +472,17 @@
 
 
 
-***
+------
 
-<div data-block-id="4cd632dc-ca41-4699-9139-8be606add65a" class="notion-selectable notion-embed-block" style="width: 100%; max-width: 787px; align-self: center; margin-top: 4px; margin-bottom: 4px; position: relative;"><div contenteditable="false" data-content-editable-void="true" embed-ghost=""><div style="display: flex;"><div class="notion-cursor-default" style="position: relative; overflow: hidden; flex-grow: 1;"><div style="position: relative; cursor: pointer;"><div style="position: relative;"><div style="display: block; pointer-events: auto; width: 100%;"><div style="position: relative; display: flex; justify-content: center; width: 100%; min-height: 100px; height: 97px;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px;"><div style="height: 100%; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px; pointer-events: auto;"><iframe src="https://notion.pet/view/index.html?q=5b049cc8622189440f31d6307d40e568.6842667962d8a921098eec7c417f12b0" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div></div></div></div></div></div></div><div class="notion-block-resizer" style="display: block; height: 100%;"><div style="position: absolute; pointer-events: none; display: flex; align-items: center; justify-content: center; left: 0px; top: 0px; z-index: 1; height: 100%; width: 15px; cursor: col-resize;"><div style="opacity: 0; transition: opacity 300ms ease-in 0s; border-radius: 20px; background: rgba(15, 15, 15, 0.6); border: 1px solid rgba(255, 255, 255, 0.9); width: 6px; height: 48px; max-height: 50%;"></div></div></div><div class="notion-block-resizer" style="display: block; height: 100%;"><div style="position: absolute; pointer-events: none; display: flex; align-items: center; justify-content: center; right: 0px; top: 0px; z-index: 1; height: 100%; width: 15px; cursor: col-resize;"><div style="opacity: 0; transition: opacity 300ms ease-in 0s; border-radius: 20px; background: rgba(15, 15, 15, 0.6); border: 1px solid rgba(255, 255, 255, 0.9); width: 6px; height: 48px; max-height: 50%;"></div></div></div><div class="notion-block-resizer" style="display: block; height: 100%;"><div style="position: absolute; pointer-events: none; display: flex; align-items: center; justify-content: center; right: 0px; z-index: 2; bottom: 0px; height: 20px; width: 20px; cursor: nwse-resize;"><svg viewBox="0 0 16 16" class="cornerResize" style="width: 20px; height: 20px; display: block; fill: rgba(0, 0, 0, 0.65); flex-shrink: 0; backface-visibility: hidden; stroke: rgba(255, 255, 255, 0.5); opacity: 0; position: relative; bottom: 3px; left: -3px; transform: none;"><path fill-rule="evenodd" stroke-width="1.5" d="M 14 0C 12.8955 0 12 0.895447 12 2L 12 12L 2 12C 0.895508 12 0 12.8954 0 14C 0 15.1046 0.895508 16 2 16L 14 16C 15.1045 16 16 15.1046 16 14L 16 2C 16 0.895447 15.1045 0 14 0Z"></path></svg></div></div><div class="notion-block-resizer" style="display: block; height: 100%;"><div style="position: absolute; pointer-events: none; display: flex; align-items: center; justify-content: center; left: 0px; z-index: 2; bottom: 0px; height: 20px; width: 20px; cursor: nesw-resize;"><svg viewBox="0 0 16 16" class="cornerResize" style="width: 20px; height: 20px; display: block; fill: rgba(0, 0, 0, 0.65); flex-shrink: 0; backface-visibility: hidden; stroke: rgba(255, 255, 255, 0.5); opacity: 0; position: relative; bottom: 3px; left: 3px; transform: rotate(90deg);"><path fill-rule="evenodd" stroke-width="1.5" d="M 14 0C 12.8955 0 12 0.895447 12 2L 12 12L 2 12C 0.895508 12 0 12.8954 0 14C 0 15.1046 0.895508 16 2 16L 14 16C 15.1045 16 16 15.1046 16 14L 16 2C 16 0.895447 15.1045 0 14 0Z"></path></svg></div></div><div class="notion-block-resizer" style="display: block; height: 100%;"><div style="position: absolute; pointer-events: none; display: flex; align-items: center; justify-content: center; bottom: 0px; z-index: 1; width: 100%; height: 15px; cursor: row-resize;"><div style="opacity: 0; transition: opacity 300ms ease-in 0s; border-radius: 20px; background: rgba(15, 15, 15, 0.6); border: 1px solid rgba(255, 255, 255, 0.9); height: 6px; width: 48px; max-width: 50%;"></div></div></div><div style="position: absolute; top: 4px; right: 4px; border-radius: 3px; color: white; fill: white; font-size: 11.5px; background: rgba(0, 0, 0, 0.6); display: flex; white-space: nowrap; height: 24px; max-width: calc(100% - 16px); overflow: hidden; pointer-events: none; opacity: 0; transition: opacity 300ms ease-in 0s; font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; z-index: 2;"><div class="notion-focusable" role="button" tabindex="0" style="user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; display: flex; align-items: center; padding: 4px 6px; border-right: 1px solid rgba(255, 255, 255, 0.2);"><svg viewBox="0 0 16 16" class="speechBubble" style="width: 12px; height: 12px; display: block; fill: white; flex-shrink: 0; backface-visibility: hidden; margin-right: 0px;"><path d="M4.32 15.424c.39 0 .677-.192 1.149-.609l2.344-2.064h4.116c2.057 0 3.213-1.19 3.213-3.22V4.22c0-2.03-1.156-3.22-3.213-3.22H3.213C1.163 1 0 2.19 0 4.22V9.53c0 2.037 1.196 3.22 3.165 3.22h.28v1.675c0 .608.322.998.875.998zm.342-1.531v-1.949c0-.403-.178-.56-.56-.56H3.26c-1.285 0-1.9-.65-1.9-1.894V4.26c0-1.243.615-1.893 1.9-1.893h8.627c1.278 0 1.893.65 1.893 1.894v5.23c0 1.243-.615 1.893-1.893 1.893h-4.15c-.417 0-.622.068-.909.369l-2.167 2.14z"></path></svg></div><div class="notion-focusable" role="button" tabindex="0" style="user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; display: flex; align-items: center; padding: 4px 6px; border-right: 1px solid rgba(255, 255, 255, 0.2);">Caption</div><div class="notion-focusable" role="button" tabindex="0" style="user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; display: flex; align-items: center; padding: 4px 6px; border-right: 1px solid rgba(255, 255, 255, 0.2);">Original</div><div class="notion-focusable" role="button" tabindex="0" style="user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; display: flex; align-items: center; justify-content: center; flex-shrink: 0; width: 24px; height: 24px; border-radius: 3px; fill: rgba(55, 53, 47, 0.45);"><svg viewBox="0 0 13 3" class="dots" style="width: 14px; height: 14px; display: block; fill: white; flex-shrink: 0; backface-visibility: hidden;"><g><path d="M3,1.5A1.5,1.5,0,1,1,1.5,0,1.5,1.5,0,0,1,3,1.5Z"></path><path d="M8,1.5A1.5,1.5,0,1,1,6.5,0,1.5,1.5,0,0,1,8,1.5Z"></path><path d="M13,1.5A1.5,1.5,0,1,1,11.5,0,1.5,1.5,0,0,1,13,1.5Z"></path></g></svg></div></div></div></div></div><div class="notion-selectable-halo" style="position: absolute; pointer-events: none; inset: 0px; background: rgba(46, 170, 220, 0.2); z-index: 81; border-radius: 3px; opacity: 1;"></div></div>
+
+				HTML
+
+
+​					
+​				
+​				
+​						
+​				
+​			
+
+		CaptionOriginal​
