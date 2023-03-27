@@ -42,6 +42,8 @@
 
   - 👍[chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
 
+  - 👍[ChatGPT123.FYI](https://chatgpt123.fyi/) (gtp-3.5不需要魔法)
+
   - 👍[QAChat](https://qachat.cc/) （很快，不需要魔法）
 
   - [Chat For AI](https://chatforai.online/) (很快，免费 10 次，清除 Cookie 可重置)
