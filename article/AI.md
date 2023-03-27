@@ -68,21 +68,11 @@
 
     > 免费，速度快。不过没有上面的智能。
 
-  - [CHAT.GPT.WF👍](https://chat.gpt.wf/)
+  - [CHAT.GPT.WF](https://chat.gpt.wf/)
 
-  - [AIchatGPT👍](https://aichatgpt.me/)
+  - [AIchatGPT](https://aichatgpt.me/)
 
-  - [ASK AI👍](https://askai.top/)
-
-  - [ChatGPT](https://www.chatgpt3.net/)
-
-  - [CSDN-ChatGPT（每日免费3次）](https://so.csdn.net/so/chat)
-
-  - [ChatGPT演示版](http://chat.h2ai.cn/home)
-
-  - [ChatGPT体验](https://yy.yy.sbs/)
-
-  - [OK GPT](http://119.91.201.57:3000/)
+  - [ASK AI](https://askai.top/)
 
   - [朱鸾AI助手](http://wenzhang.zhuluan.com/zh-cn/)
 
@@ -110,29 +100,7 @@
 
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
 
-- 更多镜像站：
-
-  - 👆[http://chatgpt3.icu](http://chatgpt3.icu/) [ad.]
-
-  1. [⭐⭐] https://theb.ai/
-
-  2. [🔑⭐] https://poe.com/
-
-  3. [⭐⭐] https://chatmate.network/
-
-  4. [⭐⭐] https://chat.yqcloud.top/
-
-  5. [⭐⭐]https://qa.js.cn/
-
-  6. [⭐⭐] https://gpt.xeasy.me/
-
-  7. [⭐⭐] https://chat1.xeasy.me/
-
-  8. [⭐⭐] https://chat.uue.me/
-
-  9. [⭐⭐] https://chat.forchange.cn/
-
-     
+  
 
 [🔙返回目录](#目录)
 
