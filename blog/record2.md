@@ -19,6 +19,24 @@
 
 ***
 
+- 230328：
+
+  - 群友分享司令付费文《小心为上！》，本文主要讨论当前经济形势和房地产市场的变化。兴趣的群友自取~
+  
+  - <details>
+    <summary>更新《230328生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/64225282a682492fccf364e6.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新200条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/64224919a682492fcce5c529.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 230324：
+
+  - 更新《230324懒人专属群周报》
+  
 - 230322：
 
   - 更新专属群[通才计划](/data/13_course)
@@ -29,8 +47,13 @@
 - 230321：
 
   - <details>
+    <summary>更新《230321懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtb1Hwkx8pPG45XSOYvWetG3noHGZ6wSr3uuUQKkOwLS5ZhILADLWm4nkypwAqicPU4M2zFwE3RVyA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
     <summary>更新247条生财风向标，点击展开目录：</summary>
-    <p> <img src="https://pic.imgdb.cn/item/64192159a682492fccb3c734.png" alt="" width="863" data-width="863" data-height="670"></p>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtb1Hwkx8pPG45XSOYvWetGgyklLVqKx0FsWOn8ICGRxsibk9FR3w8B0bQjogj46lCYuiajN5TtiaJ2w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
   
 - 230320：
