@@ -28,6 +28,8 @@
 
 懒人视频科普：[万字科普ChatGPT-4为什么会颠覆人类社会](https://b23.tv/hkZ7qHy)
 
+（转发）：[‬⁣⁣⁤⁢⁣‬﻿⁤‍⁡⁢⁡‍‌⁣⁢⁢⁢﻿⁢‌⁢‌⁣⁣‍⁡⁣‬‍‌⁤⁡ChatGPT学习手册](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)（含注册教程和各种资讯）
+
 ## Chatgpt镜像
 
 - 懒人Chatgpt客户端
