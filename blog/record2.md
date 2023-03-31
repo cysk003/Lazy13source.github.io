@@ -18,6 +18,13 @@
 
 ***
 
+- 230331：
+
+  - <details>
+    <summary>更新《230331懒人专属群周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/6426afb2a682492fccec06f6.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230330：
 
   - 群友分享 屠龙的胭脂井付费文《到底什么样的人才不会被人工智能取代》

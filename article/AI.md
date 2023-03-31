@@ -32,11 +32,7 @@
 
 ## Chatgpt镜像
 
-- 懒人Chatgpt客户端
-
-  - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/iJgyZ0qxhu1i) （推荐，不容易卡死）
-  - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/iOdJ10qxhu3a) （图形界面，容易卡）
-  - 不用特殊网络和账号，打开即用，[介绍见推文](https://mp.weixin.qq.com/s/Y_ds2wxkaWtlyu_FrhwV9g)
+- [Chatgpt小程序（免费，无限制）](https://mp.weixin.qq.com/s/wY9wTrQLVE3HE2chKipr-A)
 
 - **ChatGPT镜像网站**
 
@@ -101,7 +97,13 @@
   - [chilloutai](https://chilloutai.com/)
 
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
-
+    
+  - 懒人Chatgpt客户端（3月31号额度用完了，等待更新）
+  
+    - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/iJgyZ0qxhu1i) （推荐，不容易卡死）
+    - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/iOdJ10qxhu3a) （图形界面，容易卡）
+    - 不用特殊网络和账号，打开即用，[介绍见推文](https://mp.weixin.qq.com/s/Y_ds2wxkaWtlyu_FrhwV9g)
+  
   
 
 [🔙返回目录](#目录)
