@@ -18,6 +18,18 @@
 
 ***
 
+- 230405：
+
+  - <details>
+    <summary>更新《230405懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/642c495da682492fccc9b266.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新200条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/642c4980a682492fccca31e1.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230403：
 
   - 群友分享司令付费文付费文《真实的脉络》。
