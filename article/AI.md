@@ -28,19 +28,19 @@
 
 懒人视频科普：[万字科普ChatGPT-4为什么会颠覆人类社会](https://b23.tv/hkZ7qHy)
 
+（转发）：[‬⁣⁣⁤⁢⁣‬﻿⁤‍⁡⁢⁡‍‌⁣⁢⁢⁢﻿⁢‌⁢‌⁣⁣‍⁡⁣‬‍‌⁤⁡ChatGPT学习手册](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)（含注册教程和各种资讯）
+
 ## Chatgpt镜像
 
-- 懒人Chatgpt客户端
-
-  - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/iJgyZ0qxhu1i) （推荐，不容易卡死）
-  - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/iOdJ10qxhu3a) （图形界面，容易卡）
-  - 不用特殊网络和账号，打开即用，[介绍见推文](https://mp.weixin.qq.com/s/Y_ds2wxkaWtlyu_FrhwV9g)
+- [Chatgpt小程序（免费，无限制）](https://mp.weixin.qq.com/s/wY9wTrQLVE3HE2chKipr-A)
 
 - **ChatGPT镜像网站**
 
   - 👍https://freegpt.one/ （需要全局代理）
 
   - 👍[chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
+
+  - 👍[ChatGPT123.FYI](https://chatgpt123.fyi/) (gtp-3.5不需要魔法)
 
   - 👍[QAChat](https://qachat.cc/) （很快，不需要魔法）
 
@@ -66,21 +66,11 @@
 
     > 免费，速度快。不过没有上面的智能。
 
-  - [CHAT.GPT.WF👍](https://chat.gpt.wf/)
+  - [CHAT.GPT.WF](https://chat.gpt.wf/)
 
-  - [AIchatGPT👍](https://aichatgpt.me/)
+  - [AIchatGPT](https://aichatgpt.me/)
 
-  - [ASK AI👍](https://askai.top/)
-
-  - [ChatGPT](https://www.chatgpt3.net/)
-
-  - [CSDN-ChatGPT（每日免费3次）](https://so.csdn.net/so/chat)
-
-  - [ChatGPT演示版](http://chat.h2ai.cn/home)
-
-  - [ChatGPT体验](https://yy.yy.sbs/)
-
-  - [OK GPT](http://119.91.201.57:3000/)
+  - [ASK AI](https://askai.top/)
 
   - [朱鸾AI助手](http://wenzhang.zhuluan.com/zh-cn/)
 
@@ -107,30 +97,14 @@
   - [chilloutai](https://chilloutai.com/)
 
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
-
-- 更多镜像站：
-
-  - 👆[http://chatgpt3.icu](http://chatgpt3.icu/) [ad.]
-
-  1. [⭐⭐] https://theb.ai/
-
-  2. [🔑⭐] https://poe.com/
-
-  3. [⭐⭐] https://chatmate.network/
-
-  4. [⭐⭐] https://chat.yqcloud.top/
-
-  5. [⭐⭐]https://qa.js.cn/
-
-  6. [⭐⭐] https://gpt.xeasy.me/
-
-  7. [⭐⭐] https://chat1.xeasy.me/
-
-  8. [⭐⭐] https://chat.uue.me/
-
-  9. [⭐⭐] https://chat.forchange.cn/
-
-     
+    
+  - 懒人Chatgpt客户端（3月31号额度用完了，等待更新）
+  
+    - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/iJgyZ0qxhu1i) （推荐，不容易卡死）
+    - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/iOdJ10qxhu3a) （图形界面，容易卡）
+    - 不用特殊网络和账号，打开即用，[介绍见推文](https://mp.weixin.qq.com/s/Y_ds2wxkaWtlyu_FrhwV9g)
+  
+  
 
 [🔙返回目录](#目录)
 
