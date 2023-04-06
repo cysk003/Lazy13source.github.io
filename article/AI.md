@@ -40,9 +40,11 @@
 
   - 👍[chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
 
-  - 👍[ChatGPT123.FYI](https://chatgpt123.fyi/) (gtp-3.5不需要魔法)
+  - https://chat1.binjie.site:7777 （gpt3.5，不需要魔法）
 
-  - 👍[QAChat](https://qachat.cc/) （很快，不需要魔法）
+    > 如果被墙请尝试 [chat2](https://chat2.binjie.site:7777)，[chat3](https://chat3.binjie.site:7777)，[chat4](https://chat4.binjie.site:7777)，[chat11](https://chat11.yqcloud.top)，[chat12](https://chat12.yqcloud.top)
+
+  - [ChatGPT123.FYI](https://chatgpt123.fyi/) (gtp-3.5需要魔法)
 
   - [Chat For AI](https://chatforai.online/) (很快，免费 10 次，清除 Cookie 可重置)
 
@@ -95,7 +97,7 @@
     > 上传PDF文件后，可以对它提问任何关于这份PDF的问题，非常适合快速提取各种paper论文的摘要，也支持中文输出. 速度超快且免费使用，快速回答书籍、论文、手册、合同中的任何内容！
 
   - [chilloutai](https://chilloutai.com/)
-
+  
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
     
   - 懒人Chatgpt客户端（3月31号额度用完了，等待更新）
