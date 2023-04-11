@@ -18,6 +18,18 @@
 
 ***
 
+- 230411：
+
+  - <details>
+    <summary>更新《230411懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/643507730d2dde577743e5bd.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新170+条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/643507710d2dde577743df64.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230410：
 
   - 更新[西风付费文合集](/data/13_course?id=西风付费文合集（后续更新见群消息）)，更新离线版pdf和epub给群友。
