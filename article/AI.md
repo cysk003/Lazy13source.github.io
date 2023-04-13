@@ -4,20 +4,12 @@
 
 > 一些AI相关的镜像网站和工具，更新提醒见公众号*懒人找资源*
 
+***
 
-				HTML
-
-
-​					
-​				
-​				
-​						
-​				
-​			
-​		
-  防失联请关注公众号：懒人找资源
-
-
+<details>
+  <summary>防失联请关注公众号：懒人找资源</summary>
+ <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRvQ4lyFfHJRKdCT38dOFpVQaIyoeXpYOxYsboIlPS7sKSPA4ibNAXCteYOP3KW5Pz4RPaxYOBsibfNg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+</details>
 
 ------
 
@@ -41,6 +33,12 @@
 （转发）：[‬⁣⁣⁤⁢⁣‬﻿⁤‍⁡⁢⁡‍‌⁣⁢⁢⁢﻿⁢‌⁢‌⁣⁣‍⁡⁣‬‍‌⁤⁡ChatGPT学习手册](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)（含注册教程和各种资讯）
 
 ## Chatgpt镜像
+
+- 👍懒人Chatgpt客户端（4月13号更新）
+
+  - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/igV1w0swokvg) （图形界面，建议）
+  - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/i5uH40swol3e)（命令行，稳定）
+  - 如果挂了，就公众号留言跟小懒反馈~
 
 - [Chatgpt小程序（免费，无限制）](https://mp.weixin.qq.com/s/wY9wTrQLVE3HE2chKipr-A)
 
@@ -112,12 +110,6 @@
 
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
 
-  - 懒人Chatgpt客户端（3月31号额度用完了，等待更新）
-  
-    - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/iJgyZ0qxhu1i) （推荐，不容易卡死）
-    - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/iOdJ10qxhu3a) （图形界面，容易卡）
-    - 不用特殊网络和账号，打开即用，[介绍见推文](https://mp.weixin.qq.com/s/Y_ds2wxkaWtlyu_FrhwV9g)
-  
   
 
 [🔙返回目录](#目录)
