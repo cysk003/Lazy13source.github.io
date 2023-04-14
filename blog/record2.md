@@ -18,6 +18,13 @@
 
 ***
 
+- 230414：
+
+  - <details>
+    <summary>更新《230414懒人专属群周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/643908b60d2dde5777bc55a9.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230412：
 
   - 更新[懒人专属群通才计划](/data/13_course)，分享《[正义的实现：法律系统40讲（未完结）](/data/13_course?id=😊正义的实现法律系统40讲-（未完结）)》
