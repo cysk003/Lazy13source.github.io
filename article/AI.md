@@ -34,19 +34,14 @@
 
 ## Chatgpt镜像
 
-- 👍懒人Chatgpt客户端（4月14号更新）
-
-  - [Chatgpt3.5_GUI v2.1.exe](https://lazyman.lanzoul.com/ivoyi0sya1ze) （图形界面，建议）
-  - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/i5uH40swol3e)（命令行，稳定）
-  - 如果挂了，就[公众号留言跟小懒反馈](https://mp.weixin.qq.com/s/QADtBs2FVp24WAQT4RIsuw)~
-
 - [Chatgpt小程序（免费，无限制）](https://mp.weixin.qq.com/s/wY9wTrQLVE3HE2chKipr-A)
 
 - **ChatGPT镜像网站**
 
-  - 👍https://freegpt.one/ （需要全局代理）
+  - [没有特殊网络看这个网站](https://bafangyun.vip/#/register?code=Pv9zFZVQ)（*无利益相关*）
+  - 👍[chat.theb.ai](https://chat.theb.ai/) （需要开全局代理）
 
-  - 👍[chat.theb.ai](https://chat.theb.ai/) （需要全局代理）
+  - 👍https://freegpt.one/ （需要开全局代理）
 
   - https://chat1.binjie.site:7777 （gpt3.5，不需要魔法）
 
@@ -109,6 +104,12 @@
   - [chilloutai](https://chilloutai.com/)
 
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
+    
+  - 👍懒人Chatgpt客户端（4月14号测试挂了）
+
+    - [Chatgpt3.5_GUI v2.1.exe](https://lazyman.lanzoul.com/ivoyi0sya1ze) （图形界面，建议）
+    - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/i5uH40swol3e)（命令行，稳定）
+    - 如果挂了，就[公众号留言跟小懒反馈](https://mp.weixin.qq.com/s/QADtBs2FVp24WAQT4RIsuw)~
 
   
 
