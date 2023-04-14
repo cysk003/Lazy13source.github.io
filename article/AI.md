@@ -38,7 +38,7 @@
 
 - **ChatGPT镜像网站**
 
-  - [没有特殊网络看这个网站](https://bafangyun.vip/#/register?code=Pv9zFZVQ)（*无利益相关*）
+  - [没有特殊网络看这个低价T子网站](https://bafangyun.vip/#/register?code=Pv9zFZVQ)（*无利益相关*）
   - 👍[chat.theb.ai](https://chat.theb.ai/) （需要开全局代理）
 
   - 👍https://freegpt.one/ （需要开全局代理）
