@@ -36,7 +36,7 @@
 
 - 👍懒人Chatgpt客户端（4月13号更新）
 
-  - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/igV1w0swokvg) （图形界面，建议）
+  - [Chatgpt3.5_GUI.exe](https://lazyman.lanzoul.com/ivoyi0sya1ze) （图形界面，建议）
   - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/i5uH40swol3e)（命令行，稳定）
   - 如果挂了，就公众号留言跟小懒反馈~
 
