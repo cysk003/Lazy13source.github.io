@@ -39,78 +39,79 @@
 - **ChatGPT镜像网站**
 
   - [没有特殊网络看这个低价T子网站](https://bafangyun.vip/#/register?code=Pv9zFZVQ)（*无利益相关*）
+  
   - 👍[chat.theb.ai](https://chat.theb.ai/) （需要开全局代理）
-
+  
   - 👍https://freegpt.one/ （需要开全局代理）
-
+  
   - https://chat1.binjie.site:7777 （gpt3.5，不需要魔法）
-
+  
     > 如果被墙请尝试 [chat2](https://chat2.binjie.site:7777)，[chat3](https://chat3.binjie.site:7777)，[chat4](https://chat4.binjie.site:7777)，[chat11](https://chat11.yqcloud.top)，[chat12](https://chat12.yqcloud.top)
-
+  
   - [ChatGPT123.FYI](https://chatgpt123.fyi/) (gtp-3.5需要魔法)
-
+  
   - [chatgpteasy](https://chatgpteasy.net/#/)（3.5，需要魔法）
-
+  
   - [Chat For AI](https://chatforai.online/) (很快，免费 10 次，清除 Cookie 可重置)
-
+  
   - [ChatGPT Bot (xeasy.me)](https://chat.xeasy.me/)
-
+  
   - https://chatgpt.ai/ (需要魔法网络)
-
+  
     > 上面都是基于gtp-3.5，无法访问就换一个
-
+  
   - https://aigcfun.com/ （需要自己的key）
-
+  
   - http://www.openmao.com/
-
+  
     > 聚合了ChatGPT、Bard、LLaMa、文心一言、MOSS等模型应用
-
+  
   - [ChatGPT Proxy](https://chatgptproxy.info/#/)
-
+  
     > GTP3.0的接口
-
+  
   - [风变科技-ChatGPT👍](https://chat.forchange.cn/)
-
+  
     > 免费，速度快。不过没有上面的智能。
-
+  
   - [CHAT.GPT.WF](https://chat.gpt.wf/)
-
+  
   - [AIchatGPT](https://aichatgpt.me/)
-
+  
   - [ASK AI](https://askai.top/)
-
+  
   - [朱鸾AI助手](http://wenzhang.zhuluan.com/zh-cn/)
-
+  
   - [ChatGPT网页版](http://43.143.197.176/)
-
+  
   - [ChatGPT](https://aigcfun.com/)
-
+  
   - [Phind: AI search engine](https://phind.com/)
-
+  
     > 面向开发者的AI搜索，支持显示来源
-
+  
   - [Chatgpt notion课程](https://tested-salto-cab.notion.site/The-Ultimate-Chat-GPT-Course-69ed24a317a942d288e740419b1ad6f6)
-
+  
     > 利用Notion收集总结了一份英文版的Chat GPT课程，该指南课程拥有 1000多种资源
-
+  
   - https://plaud.ai/transcribe
-
+  
     > 用GPT3.5和Whisper实现语音转文本，并一键概括内容。
-
+  
   - https://www.chatpdf.com/ （需要全局代理）
-
+  
     > 上传PDF文件后，可以对它提问任何关于这份PDF的问题，非常适合快速提取各种paper论文的摘要，也支持中文输出. 速度超快且免费使用，快速回答书籍、论文、手册、合同中的任何内容！
-
+  
   - [chilloutai](https://chilloutai.com/)
-
+  
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
     
-  - 👍懒人Chatgpt客户端（4月14号测试挂了）
-
-    - [Chatgpt3.5_GUI v2.1.exe](https://lazyman.lanzoul.com/ivoyi0sya1ze) （图形界面，建议）
-    - [Chatgpt3.5_CMD.exe](https://lazyman.lanzoul.com/i5uH40swol3e)（命令行，稳定）
-    - 如果挂了，就[公众号留言跟小懒反馈](https://mp.weixin.qq.com/s/QADtBs2FVp24WAQT4RIsuw)~
-
+  - [多墨智能](https://duomosmart.com/doc/)
+  
+    > 根据关键词给你画出*文档，流程图，思维导图*
+    
+  - 懒人Chatgpt客户端（4月14号测试挂了）
+  
   
 
 [🔙返回目录](#目录)
