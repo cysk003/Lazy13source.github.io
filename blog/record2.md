@@ -20,114 +20,114 @@
 
 - 230417：
 
-  - 群友自费分享，230415西风付费文《我们正在经历这辈子最大的变局》
-  - 已添加到西风付费文合集
-  
+  - 群友自费分享，230415西风付费文《我们正在经历这辈子最大的变局》。[已添加到西风付费文合集](/data/13_course?id=西风付费文合集（后续更新见群消息）)
+  - 整理分享得到69元付费课程[《海南自贸港机会指南》](/data/13_course?id=海南自贸港机会指南)，已加入[通才计划](/data/13_course)
+
 - 230414：
 
   - <details>
     <summary>更新《230414懒人专属群周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/643908b60d2dde5777bc55a9.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230412：
 
   - 更新[懒人专属群通才计划](/data/13_course)，分享《[正义的实现：法律系统40讲（未完结）](/data/13_course?id=😊正义的实现法律系统40讲-（未完结）)》
-  
+
 - 230411：
 
   - <details>
     <summary>更新《230411懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/643507730d2dde577743e5bd.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新170+条生财风向标，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/643507710d2dde577743df64.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230410：
 
   - 更新[西风付费文合集](/data/13_course?id=西风付费文合集（后续更新见群消息）)，更新离线版pdf和epub给群友。
-  
+
 - 230406-230409：
 
   - 小懒清明外出，更新记录暂停
-  
+
 - 230405：
 
   - <details>
     <summary>更新《230405懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/642c495da682492fccc9b266.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新200条生财风向标，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/642c4980a682492fccca31e1.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230403：
 
   - 群友分享司令付费文付费文《真实的脉络》。
-  
+
 - 230401：
 
   - 整理生财第六期全部精华帖做成pdf，发给群友。
-  
+
 - 230331：
 
   - <details>
     <summary>更新《230331懒人专属群周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/6426afb2a682492fccec06f6.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230330：
 
   - 群友分享 屠龙的胭脂井付费文《到底什么样的人才不会被人工智能取代》
-  
+
 - 230328：
 
   - 群友分享司令付费文《**小心为上！**》，本文主要讨论当前经济形势和房地产市场的变化。兴趣的群友自取~
-  
+
   - 群友分享一本黑电子书《你不知道的赚钱真相》《普通人改变命运的秘密》《普通人应该如何做副业赚钱》《年入百万，自媒体赚钱秘籍2.0》（**标题起的很高大上，但对于网络上的内容，保持开放，保持自己的判断力~**）
-  
+
   - <details>
     <summary>更新《230328生财周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/64225282a682492fccf364e6.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新200条生财风向标，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/64224919a682492fcce5c529.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230324：
 
   - 更新《230324懒人专属群周报》
-  
+
 - 230322：
 
   - 更新专属群[通才计划](/data/13_course)
     - 付费课程电子书《阶层固化和流动》
     - 课程电子书《英语自学手册-少数派119元》
   - 更新生财专栏pdf下载站点（见专属群q群公告）
-  
+
 - 230321：
 
   - <details>
     <summary>更新《230321懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtb1Hwkx8pPG45XSOYvWetG3noHGZ6wSr3uuUQKkOwLS5ZhILADLWm4nkypwAqicPU4M2zFwE3RVyA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新247条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtb1Hwkx8pPG45XSOYvWetGgyklLVqKx0FsWOn8ICGRxsibk9FR3w8B0bQjogj46lCYuiajN5TtiaJ2w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230320：
 
   - 群友分享地产局座230319付费文《3月17央行突然降准，新一轮“货币宽松”来了，财富重新分配的大门即将打开》
-  
+
 - 230319：
 
   - 群友分享付费文：
