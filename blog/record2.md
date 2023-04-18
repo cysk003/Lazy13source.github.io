@@ -18,6 +18,18 @@
 
 ***
 
+- 230418：
+
+  - <details>
+    <summary>更新150+条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/643e01970d2dde57771a98be.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+  - <details>
+    <summary>更新《230418懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://pic.imgdb.cn/item/643e01980d2dde57771a9a27.png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
 - 230417：
 
   - 群友自费分享，230415西风付费文《我们正在经历这辈子最大的变局》。[已添加到西风付费文合集](/data/13_course?id=西风付费文合集（后续更新见群消息）)
