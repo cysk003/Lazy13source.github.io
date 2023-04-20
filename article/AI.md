@@ -44,6 +44,8 @@
   
   - 👍https://freegpt.one/ （需要开全局代理）
   
+  - https://chatgpt.qdymys.cn/ （gtp3.5 不需要魔法）
+  
   - https://chat1.binjie.site:7777 （gpt3.5，不需要魔法）
   
     > 如果被墙请尝试 [chat2](https://chat2.binjie.site:7777)，[chat3](https://chat3.binjie.site:7777)，[chat4](https://chat4.binjie.site:7777)，[chat11](https://chat11.yqcloud.top)，[chat12](https://chat12.yqcloud.top)
@@ -51,6 +53,8 @@
   - [ChatGPT123.FYI](https://chatgpt123.fyi/) (gtp-3.5需要魔法)
   
   - [chatgpteasy](https://chatgpteasy.net/#/)（3.5，需要魔法）
+  
+  - [Slack+cluade教程](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647899353&idx=1&sn=3775ad024e7168186ea944b3e68b68b9&chksm=f20a0298c57d8b8edb78587d0d0b3e4723a0a4c76daa64a861792c96ea8f75563f83dbbec1eb&token=1696375618&lang=zh_CN#rd)（国内可以用，媲美GPT3.5）
   
   - [Chat For AI](https://chatforai.online/) (很快，免费 10 次，清除 Cookie 可重置)
   
