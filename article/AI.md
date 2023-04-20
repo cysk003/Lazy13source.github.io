@@ -122,6 +122,9 @@
 
 ## AI聚合工具箱
 
+- [AI Playground by Vercel Labs](https://play.vercel.ai/)
+  - Vercal家的AI聚合接口，需要魔法网络。
+
 - https://open-gpt.app/
 
   > 数千个chatgpt应用小工具
