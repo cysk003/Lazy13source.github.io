@@ -36,6 +36,8 @@
 
 - [Chatgpt小程序（免费，无限制）](https://mp.weixin.qq.com/s/wY9wTrQLVE3HE2chKipr-A)
 
+- [国内可用Clade+slack，点击查看教程](https://mp.weixin.qq.com/s/imA8kn2h2JSxbh-xkmp3bw)
+
 - **ChatGPT镜像网站**
 
   - [没有特殊网络看这个低价T子网站](https://bafangyun.vip/#/register?code=Pv9zFZVQ)（*无利益相关*）
