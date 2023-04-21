@@ -18,6 +18,13 @@
 
 ***
 
+- 230421：
+
+  - <details>
+    <summary>更新《230421懒人专属群周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtMz1DecoaJGZjV3OPSgtjF4UQfeqiaC0rBpTpSBRU1Nfqd7wicwV8DicEP05VsjoSPZ1Ao77BraknHw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230420：
 
   - 整理分享得到69元付费课程《[给职场人的ai写作课](/data/13_course?id=《给职场人的ai写作课》)》，已加入[通才计划](/data/13_course)
