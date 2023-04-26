@@ -8,6 +8,12 @@
 
 **长按图片可以保存到本地~**
 
+***
+
+👍[各大平台优惠券领取](https://tb.jxyou.top/?H9yM96La)
+
+***
+
 ## 新闻早报
 
 <img src="https://v2.alapi.cn/api/zaobao?token=QLo2Cge8kf55kEsB&format=image">

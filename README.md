@@ -23,6 +23,8 @@
 
 **粉丝反馈通道**：[https://support.qq.com/product/506389](https://support.qq.com/product/506389)
 
+👍[各大平台优惠券领取](https://tb.jxyou.top/?H9yM96La)
+
 ## 分类栏目
 
 [👍**懒人专属群**介绍](/blog/group)
