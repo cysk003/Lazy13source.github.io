@@ -7,8 +7,8 @@
 - **2023-05-06**
   
   - 很久没过来更新碎碎念了，以后就在博客*懒人收藏夹*里更新吧~
-  - 懒人收藏夹：
-  - 碎碎念专栏：
+  - 懒人收藏夹：https://www.lazyblog.fun/
+  - 碎碎念专栏：https://www.lazyblog.fun/article/lazytalk
   
 - **2023-04-23**
   
