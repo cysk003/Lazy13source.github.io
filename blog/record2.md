@@ -18,6 +18,18 @@
 
 ***
 
+- 230510：
+
+  - <details>
+    <summary>更新200+条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvMZkfS4yGz3bUMjLKAJ24Y3qxb0mAKe5QsMrtbfSvx7nVrKzez6OqS5YIvicduXLGp0jRJNaVxsYw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230510懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvMZkfS4yGz3bUMjLKAJ24YN8pAiaibXGs8QoRibRON3Pem9QBR9gic0qaZjCMDYAQJBt5icaQ6XVvlu5g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230508：
 
   - 群友分享付费文档《结构学精读》（123期）
