@@ -61,14 +61,3 @@
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 希望懒人群可以帮到真正需要的朋友，非诚勿扰~
-
-***
-
-<details>
-<summary>点击展开支付码：（使用ZFB扫码支付）：</summary>
-<p> <img src="https://lazy-1254325532.cos.ap-shenzhen-fsi.myqcloud.com/20230314163158.png" alt="" width="863" data-width="863" data-height="670"></p>
-</details>
-
-已支付的朋友可以直接添加下方微信（*lazyhelper2*），发送支付截图，拉你进群。
-
-![](https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuiaTmugYbhB7zM1J7hicYZQN2bicw6fHwVrS3f5q5KibolmqnGXSSSbNRgpibiafU8R1c33oHp2TX60Plw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
