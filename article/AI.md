@@ -40,8 +40,6 @@
 
 - **ChatGPT镜像网站**
 
-  - [没有特殊网络看这个低价T子网站](https://bafangyun.vip/#/register?code=Pv9zFZVQ)（*无利益相关*）
-  
   - 👍[chat.theb.ai](https://chat.theb.ai/) （需要开全局代理）
   
   - 👍https://freegpt.one/ （需要开全局代理）
@@ -111,11 +109,11 @@
   - [chilloutai](https://chilloutai.com/)
   
     > AI聊天，虚拟一个女朋友陪你聊天AI绘画
-    
+  
   - [多墨智能](https://duomosmart.com/doc/)
   
     > 根据关键词给你画出*文档，流程图，思维导图*
-    
+  
   - 懒人Chatgpt客户端（4月14号测试挂了）
   
   
