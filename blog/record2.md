@@ -18,6 +18,18 @@
 
 ***
 
+- 230516：
+
+  - <details>
+    <summary>更新一百多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsibOu8ZTDIobpndgpic1JYlvJZO7Ko3b24PamwpW0PSqu2pVuWa8VjRMR8ZHyQpnSicJibKfYMFpKwRw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230516懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsibOu8ZTDIobpndgpic1JYlvnBTGOjPstH35Q7ic9V0kHJXvC8QvBmZEu83mt3uFBXbftZRmuBw1CiaQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230515：
 
   - 群友自费分享西风付费文：《为啥学校里啥都教，唯独不教你赚钱？》，《你看完之后绝对会骂我，但这就是真管用的办法》
