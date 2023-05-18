@@ -10,6 +10,142 @@
 
 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
+## 2023-05-18 更新
+
+ - [IP地址修改器_5.0.5.5.exe](https://www.lanzoui.com/i4Ajx0wf2nfi)
+
+ - [数学工具 6.5.6.apk](https://www.lanzoui.com/isQqK0wc6luh)
+
+ - [成分喵 v1.0.0.apk](https://www.lanzoui.com/iVMPM0w96igh)
+
+ - [微信Key.zip](https://www.lanzoui.com/i38Fd0w965qj)
+
+ - [太极工具箱_v1.1.4_52pojie_release.apk](https://www.lanzoui.com/i6XDN0w4xhpc)
+
+ - [打印机修复工具.zip](https://www.lanzoui.com/ihkYf0vdyr5g)
+
+ - [知乎 9.3.0-内置知了23.03.25模块.apk](https://www.lanzoul.com/i7ZAu0w8do9c)
+
+ - [优酷_11.0.13@rikkati.zip](https://www.lanzoul.com/iFYZN0w8diah)
+
+ - [影视TV-leanback-python-v1.7.6.apk](https://www.lanzoul.com/iTww40w8d5ti)
+
+ - [影视TV-leanback-jav1.7.6.apk](https://www.lanzoul.com/ivHW40w8d0xc)
+
+ - [影视TV-leanback-4.1-v1.7.6.apk](https://www.lanzoul.com/iUQA90w8czbe)
+
+ - [影视-mobile-python-v1.1.3.apk](https://www.lanzoul.com/inspE0w8cw7c)
+
+ - [影视-mobile-jav1.1.3.apk](https://www.lanzoul.com/iiIsP0w8cuad)
+
+ - [微博猪手2.2.3-(230-20230512)xp模块.apk](https://www.lanzoul.com/iK1F60w8ct8f)
+
+ - [微博 13.4.3-内置微博猪手2.2.3-230模块-下载地址.txt](https://www.lanzoul.com/ixrY80w8ct7e)
+
+ - [网易云音乐_4.3.1养老版@rikkati.apk](https://www.lanzoul.com/iXF8v0w8cfoh)
+
+ - [腾讯视频-v11.69.9236-去广告绿版@zd423.exe](https://www.lanzoul.com/icIUs0w8cdzg)
+
+ - [全剧得v2.5.1@夜雨.apk](https://www.lanzoul.com/iMQHr0w8c6aj)
+
+ - [全剧得 Ver.2.5.1 去广告版@zhou45.apk](https://www.lanzoul.com/id3Vs0w8c4mj)
+
+ - [清浊_v1.9.8_Pro@黑鹰.apk](https://www.lanzoul.com/iWB2i0w8c2af)
+
+ - [七猫小说7.24【本地会员、正版免费小说软件、个别可能不兼容的手机用vmos等模拟器运行】@不再孤独.apk](https://www.lanzoul.com/iXjgW0w8bzgd)
+
+ - [秒看电视-7.2.0-v7a-免费纯净版.apk](https://www.lanzoul.com/iGn4V0w8bv4h)
+
+ - [雷电模拟器9(64)-v9.0.46-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/idOdm0w8bueb)
+
+ - [雷电模拟器5(64)-v5.0.56-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iy0l90w8bucj)
+
+ - [蓝云1.3.1.3.apk](https://www.lanzoul.com/iFzuu0w8brcb)
+
+ - [蓝云1.3.1.2.apk](https://www.lanzoul.com/iV0wk0w8br6f)
+
+ - [酷我音乐-10.3.9.8@帝落-下载地址.txt](https://www.lanzoul.com/iargm0w8bpif)
+
+ - [海阔视界_V7.46_0514_C3968_db53-64位.apk](https://www.lanzoul.com/i5UKt0w8bh4d)
+
+ - [贴吧lite-release-4.0.0-alpha.14 9a9934d(390014).apk](https://www.lanzoul.com/i9bDY0w8bf7e)
+
+ - [安兔兔评测 9.6.2 去广告版（去更新）@耗子.zip](https://www.lanzoul.com/i4HbW0w8bd3i)
+
+ - [Xmind思维导图 23.05@耗子.apk](https://www.lanzoul.com/ik03N0w8b6ud)
+
+ - [XMind Mind Map v23.05 Patched by youarefinished_src.apk](https://www.lanzoul.com/i0bg50w8b2ih)
+
+ - [XBYDriver-3.11.6-portable-x64@guozhangmin.exe](https://www.lanzoul.com/i1NWW0w8as9i)
+
+ - [WPS2019专业增强版_v11.8.6.11825_集美大学版@zd423-下载地址.txt](https://www.lanzoul.com/idrPV0w8al9g)
+
+ - [VisualCppRedist_AIO_x86_x64_73@abbodi1406.zip](https://www.lanzoul.com/iOJxh0w8al1i)
+
+ - [ViperFX RE (4.6)@WST.apk](https://www.lanzoul.com/i06sY0w8ak6h)
+
+ - [SD.Maid.SE-0.7.10-beta0-Pro@Sirenes Team.apk](https://www.lanzoul.com/iMFsX0w8a7yh)
+
+ - [SD Maid 2_SE - System Cleaner v0.7.9-beta1 Patched by youarefinished_src.apk](https://www.lanzoul.com/iYE6I0w8a7ra)
+
+ - [OlSoul_Windows系统调校_2023.5.15_cd1c047a.exe](https://www.lanzoul.com/i0HpZ0w8a6gd)
+
+ - [MX_Player_Pro-v1.63.5_build_2001001955-AC3-DTS-NEON-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iGuWV0w8a48d)
+
+ - [MX 播放器 1.63.x_sign@dio.apk](https://www.lanzoul.com/ikyYG0w8a3dc)
+
+ - [mpv-x86_64-20230514-git-9e716d6.7z](https://www.lanzoul.com/ik2pV0w89zch)
+
+ - [Google-Play-Store-35.7.19-All.apk](https://www.lanzoul.com/ivfLw0w89vqh)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.05.apk](https://www.lanzoul.com/iEzL70w89jnc)
+
+ - [CamScanner 6.40.0 Gold@LoveDoLove.apk](https://www.lanzoul.com/i4m3P0w89hbi)
+
+ - [CamScanner - Scanner to scan PDF v6.40.0.2304260000 Patched by youarefinished_rd-下载地址.txt](https://www.lanzoul.com/iskCe0w89ctg)
+
+ - [CamScanner - Scanner to scan PDF v6.40.0.2304260000 OfflinePatched by youarefinished_rd-下载地址.txt](https://www.lanzoul.com/izyF20w89bij)
+
+ - [BV_414_0.2.0.r414.79b897e.release_lite_universal.apk](https://www.lanzoul.com/iu3gr0w8900f)
+
+ - [Bili-v7.29.0-b11899386-m1315-with-module.zip](https://www.lanzoul.com/iUDGy0w83ymf)
+
+ - [Bili-v7.29.0-b11899386-m1307-with-module.zip](https://www.lanzoul.com/iOxBg0w83txg)
+
+ - [BiliRoamingX-v1.6.10.r1315.apk](https://www.lanzoul.com/iyiol0w83rhi)
+
+ - [BiliRoamingX-v1.6.10.r1307.apk](https://www.lanzoul.com/iR8zR0w83rbc)
+
+ - [BaiduNetdisk-7.28.0.5-Modified@zd423-下载地址.txt](https://www.lanzoul.com/isMM20w83qsd)
+
+ - [AdGuard Ad Blocker v4.0.836 arm7+arm64 Patched by youarefinished.apk](https://www.lanzoul.com/i9Dnc0w83p2b)
+
+ - [AdGuard Ad Blocker v4.0.833 arm7+arm64 Patched by youarefinished_src.apk](https://www.lanzoul.com/iCYFF0w83nyb)
+
+ - [360安全浏览器_14.1.1081.0_mefcl_Setup.exe](https://www.lanzoul.com/iJCqo0w83mcd)
+
+ - [影视仓_4.0.28_jiagu_sign.apk](https://www.lanzoul.com/iRGcv0wc47fg)
+
+ - [DIYP影音魔改版0331_4k测试.apk](https://www.lanzoul.com/iyC5f0vgunwd)
+
+ - [超级iTV.apk](https://www.lanzoul.com/iOQhb0vguj4b)
+
+ - [台标高清.rar](https://www.lanzoul.com/i1g7P0ve9umh)
+
+ - [台标普清.rar](https://www.lanzoul.com/iCKwv0ve9tpe)
+
+ - [DIYP影音0606台标普清集成版.apk](https://www.lanzoul.com/i3R0z0ve9klg)
+
+ - [DIYP电视直播自带基本台标0615.apk](https://www.lanzoul.com/if67p0ve9jih)
+
+ - [DIYP影音0606台标集成正式版.apk](https://www.lanzoul.com/izIp40ve9ing)
+
+ - [DIYP影音0606正式版.apk](https://www.lanzoul.com/imuyC0ve9gja)
+
+ - [DIYP影音魔改版0331 4k测试.apk](https://www.lanzoul.com/iIWS20ve9fuf)
+
+ - [DIYP影音0622正式版.apk](https://www.lanzoul.com/i76dI0ve9f7c)
+
 ## 2023-05-11 更新
 
  - [视频无损合并FFmpegJoiner 3.0.zip](https://www.lanzoui.com/iWlbw0v36asj)
