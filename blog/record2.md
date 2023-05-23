@@ -21,105 +21,115 @@
 - 230523：
 
   - 群友分享司令付费文《X39，错在那里！？》
-  
+
+  - <details>
+    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtz69HxuXUyAEBpiaUvwbjFooiaOa2I9ZovPicezYolbkTricnZejZbJNnrawib8yQ58QIG1BmfM4Xkvvw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+  - <details>
+    <summary>更新《230523懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtz69HxuXUyAEBpiaUvwbjFo5gFWKr00FzgZlIdbqno5sedXMYUfpZYrevGdPgwibJuB6xsETa7urwg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
 - 230522:
 
   - 群友分享付费文《当下的A股像极了北京的房子》
   - 更新**通才计划**电子书《[怎样打造创意生产流水线](/data/13_course?id=《怎样打造创意生产流水线》)》
   - 懒人专属群[文档备份更新](https://www.lazyblog.fun/article/230522)
-  
+
 - 230520：
 
   - 群友分享群友分享"屠龙胭脂井"付费文《空间与时间的人生的规划：城市还是农村与女性的未来通路》
-  
+
 - 230518：
 
   - 更新通才计划电子书《[李笑来谈AI时代的家庭教育](/data/13_course?id=《李笑来谈ai时代的家庭教育》)》
   - 群友分享付费文
-  
+
 - 230517：
 
   - 群友分享司令付费文《波兰为什么受益最大？》
-  
+
 - 230516：
 
   - <details>
     <summary>更新一百多条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsibOu8ZTDIobpndgpic1JYlvJZO7Ko3b24PamwpW0PSqu2pVuWa8VjRMR8ZHyQpnSicJibKfYMFpKwRw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230516懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsibOu8ZTDIobpndgpic1JYlvnBTGOjPstH35Q7ic9V0kHJXvC8QvBmZEu83mt3uFBXbftZRmuBw1CiaQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230515：
 
   - 群友自费分享西风付费文：《为啥学校里啥都教，唯独不教你赚钱？》，《你看完之后绝对会骂我，但这就是真管用的办法》
   - 群友自费30分享付费文：《赚钱的境界》
-  
+
 - 230512：
 
   - 更新第32期《懒人 专属群周报》
   - 更新懒人[通才计划](/data/13_course)的《[老喻人生算法课](/data/13_course?id=《老喻的人生算法课》)》
-  
+
 - 230510：
 
   - <details>
     <summary>更新200+条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvMZkfS4yGz3bUMjLKAJ24Y3qxb0mAKe5QsMrtbfSvx7nVrKzez6OqS5YIvicduXLGp0jRJNaVxsYw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230510懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvMZkfS4yGz3bUMjLKAJ24YN8pAiaibXGs8QoRibRON3Pem9QBR9gic0qaZjCMDYAQJBt5icaQ6XVvlu5g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230508：
 
   - 群友分享付费文档《结构学精读》（123期）
   - 群友分享caoz的30元付费文《流量密码暗黑版》
-  
+
 - 230506：
 
   - 更新《懒人专属群周报》第31期
-  
+
 - 230505：
 
   - 群友分享司令付费文《X38：人为什么会追求悖论！》
   - 群友分享司令付费文《X37：攻守易形！》
-  
+
 - 230427—230504：
 
   - 五一放假，小懒外出，本记录不更新。
-  
+
 - 230426：
 
   - 更新司令付费文章《大学生的薪资比父母还低!》《A311∶ 要理解住房不炒的真正含义! 》
-  
+
 - 230425：
 
   - 懒人手动整理原价149付费课程《余剑峰·行为经济学》，已加入[通才计划](https://lazybook.fun/#/data/13_course)
-  
+
 - 230424：
 
   - 群友分享江宁知府付费文《美国对中俄的预判》
-  
+
 - 230423：
 
   - 群友分享结构学付费文《X36：折磨人的人》
-  
+
 - 230421：
 
   - <details>
     <summary>更新《230421懒人专属群周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtMz1DecoaJGZjV3OPSgtjF4UQfeqiaC0rBpTpSBRU1Nfqd7wicwV8DicEP05VsjoSPZ1Ao77BraknHw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230420：
 
   - 整理分享得到69元付费课程《[给职场人的ai写作课](/data/13_course?id=《给职场人的ai写作课》)》，已加入[通才计划](/data/13_course)
-  
+
 - 230418：
 
   - <details>
