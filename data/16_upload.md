@@ -95,7 +95,7 @@
 
 ## 懒人付费文章
 
-- [懒人专属群（付费群，年费339）](https://mp.weixin.qq.com/s/SkYHz6-jkAOlTNsYvyboaQ)
+- [懒人专属群（付费群，年费365）](https://mp.weixin.qq.com/s/UdgFJovjmLA62o3-ncG6zA)
 
 - [解除某网课平台下载限制！(已失效)](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647892942&idx=1&sn=2e1cb892301a27a3326d26a1d5dcca08&chksm=f20a1d8fc57d9499ca93d0589d5416a6c2d69c61e6f20869b320cd74a54f26e0afb17d181060&payreadticket=HPJDyzMLvu8Fz49g70R_gfhzcfwdUydaET3zvJLHkQVy1IvylfMpieWLv8vdj_BBYHCVgrM#rd)
 
@@ -106,6 +106,40 @@
 ## 懒人沉思录系列
 
 [懒人沉思录系列（可订阅）](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjAxOTI0Ng==&action=getalbum&album_id=2361331895029891074#wechat_redirect)
+
+[懒人沉思录（二十六）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647899893&idx=1&sn=909bfafd1052b599bc7e32f21c280081&chksm=f20a00b4c57d89a2ef08258e2afdb60d0b70e131d2f155bc269e3cfaf66cf59f6d2338395582&scene=178&cur_album_id=2361331895029891074#rd)
+
+[懒人沉思录（二十五）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647899663&idx=1&sn=15b80ece10773e612e321b8c054fc182&chksm=f20a004ec57d8958d1d2204efefcc4c5298cff567b7f3e1563ea5e76ebfc6b12e9825399be67&token=347674882&lang=zh_CN&scene=21#wechat_redirect)
+
+[懒人沉思录（二十四）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647899096&idx=1&sn=45a83117a2b0d2b7808eaba2a5388814&chksm=f20a0599c57d8c8f19dbe579c2f7169a9f4120fd589062190d0dbb9321abcfde8d80301354b9&token=2141046376&lang=zh_CN&scene=21#wechat_redirect)
+
+[懒人沉思录（二十三）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647898997&idx=1&sn=83b46e3d1fe79b66f48de8c9499574a7&chksm=f20a0534c57d8c22b3e7ee7780bc476fa5e8ff2b8ca85ab8179a56f1ed7b3f4f8bfbb3b16488&token=980830877&lang=zh_CN&scene=21#wechat_redirect)
+
+[懒人沉思录（二十二）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647898509&idx=1&sn=cbaf4f54c37d804ab626417b56d676c9&chksm=f20a07ccc57d8edac78b91cb64f09095a1874e07b753c07d526bea50384920f3df94de26ccef&scene=21&cur_album_id=2361331895029891074#wechat_redirect)
+
+[悲的歌](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647898019&idx=1&sn=651dbbbe435b48bd19b378621d53988e&chksm=f20a09e2c57d80f4a7497a3073833b4e5df445bb62ee43bf1ec58f3fa6bf760da45485c9d5d8&scene=21&cur_album_id=2361331895029891074#wechat_redirect)
+
+[丧的文](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647898012&idx=1&sn=013e209493f2e012275aee1b5b51ccaa&chksm=f20a09ddc57d80cb2e67295fdb2784f75d9b38bf5243838a51d8b1eeebb71e31755f53b29366&scene=21&cur_album_id=2361331895029891074#wechat_redirect)
+
+[懒人沉思录（十八）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647897563&idx=1&sn=ce8b3603344b794adb9d7e8a933f3fab&chksm=f20a0b9ac57d828c15186a8dd74b852b4cd4779473b44404e8e557e581bb0f79b3806679de7e&scene=178&cur_album_id=2361331895029891074#rd)
+
+[懒人沉思录（十七）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647897304&idx=1&sn=52c2c32b6a28a6752cf7fea400b86ddc&chksm=f20a0a99c57d838f6efb72375f707f02af07a65d19aae8df9a47008a7d945957e9b5c3cf3893&token=262468822&lang=zh_CN&scene=21#wechat_redirect)
+
+[懒人沉思录（十六）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647897022&idx=1&sn=54c16b863990e69a016f7cbbc0d9d53a&chksm=f20a0dffc57d84e987177bc9a2ebeb9f212cd3c3874f7aa862eb24ad9c0bb7c0c4916356e4a4&scene=21&cur_album_id=2361331895029891074#wechat_redirect)
+
+[懒人沉思录（十五）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647896819&idx=1&sn=335cc810300a5ef8dbd870faa9b2e4c6&chksm=f20a0cb2c57d85a4d9ebf87cf8b001a67d76f7e9b18be7e65bf6395c1e0867f44b3f33daa735&scene=21&cur_album_id=2361331895029891074#wechat_redirect)
+
+[懒人沉思录（十四）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647896508&idx=1&sn=a47339e0e40ce6cb1b46d57a941faf3f&chksm=f20a0ffdc57d86eb69fbde1142a0c0626e48ecc48c0bf7d70b2cf19c4566d1ea0534a8599ace&scene=21&cur_album_id=2361331895029891074#wechat_redirect)
+
+[懒人沉思录（十三）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647896274&idx=1&sn=1c59edc056b67be54be6b8eee23c79f6&chksm=f20a0e93c57d8785cdeb21f05faee108561338ddf824412c3928b66d2c1a7cdc15dc55902c33&token=439854583&lang=zh_CN&scene=21#wechat_redirect)
+
+[懒人沉思录（十二）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647895449&idx=1&sn=f1fdf1e96ce1da1a593657c22ff6089e&chksm=f20a13d8c57d9ace72a38f937dedaa2b75b21a7a902f8e55bdc93aed9ffdb4b4066bdd9be6dd&token=853158203&lang=zh_CN&scene=21#wechat_redirect)
+
+[懒人沉思录（十一）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647895121&idx=1&sn=8d5f64356ee404f57113fd1252afefd7&chksm=f20a1210c57d9b068898a2366c2bb8614928987e3d43579d1281eebd97c25b179366d5091947&token=187448172&lang=zh_CN&scene=21#wechat_redirect)
+
+[懒人沉思录（十）)](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647894379&idx=1&sn=2d01ae8be5b76b68bfe934502553263f&chksm=f20a172ac57d9e3cd7af9d1aeb157c8614e028b38d1ec705ea47766e1315392bd6ce4cd4db10&token=345082072&lang=zh_CN&scene=21#wechat_redirect)
+
+[懒人沉思录（九）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647894165&idx=1&sn=bec5388994f82f0496e70e322146c3cd&chksm=f20a16d4c57d9fc21bf11493f8f3495ecc15783e679fd84dc231a1c54bebd67197e3f068d4b1&token=185511036&lang=zh_CN&scene=21#wechat_redirect)
 
 [懒人沉思录（九）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647894165&idx=1&sn=bec5388994f82f0496e70e322146c3cd&chksm=f20a16d4c57d9fc21bf11493f8f3495ecc15783e679fd84dc231a1c54bebd67197e3f068d4b1&scene=178&cur_album_id=2361331895029891074#rd)
 
