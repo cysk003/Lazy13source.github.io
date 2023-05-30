@@ -18,6 +18,25 @@
 
 ***
 
+- 230530：
+
+  - 群友分享雪球花甲老头付费文《布局人生！决定成败的因素可以改变，十条箴言引以为戒｜万字》
+  
+  - <details>
+    <summary>更新《23年5月小红书电商合集》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRspSePFT27qCvJbdI5JX3oznl2MOJ0xoFOrzIIyO8MYibC9vpicX1T54T1ALSnuibM5bSibmZ7AD8zmrg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230530懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRspSePFT27qCvJbdI5JX3ozZBhQ5ofb0u2EDtdaTwREK4TWWhYaEib4sLj4gK38QmVaTPTmbr2IkyA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRspSePFT27qCvJbdI5JX3ozhEDLnrr3Fr6DaiaEETAD6qjxHoHgg05p1UKVbicBZvuR0nXhff2VG6kQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230529：
 
   - 更新**通才计划**电子书《[《傅骏·美食鉴赏15讲》](/data/13_course?id=《傅骏·美食鉴赏15讲》)》
