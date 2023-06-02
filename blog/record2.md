@@ -20,7 +20,12 @@
 
 - 230602：
 
-  - 群友分享李圆方付费文《秩序，预期与驯服人性》
+  - 群友分享李圆方付费文《秩序，预期与驯服人性》等
+  
+  - <details>
+    <summary>更新第35期《懒人专属群周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvcnpJHWoon45w1Yt815G3rAVQRm7wJN3OM7ukBeeMuicvNbom9q7R6Czdodxslvf1Vy1fkS6vbCng/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
   
 - 230601：
 
