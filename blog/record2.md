@@ -18,6 +18,18 @@
 
 ***
 
+- 230606:
+
+  - <details>
+    <summary>更新《230606懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRupQRSUWRia9Zu9bjsvaUFibIwTCWJUEpicudJ3p3LpHkPCq3IuBIwwQibBNicJicdhZ0cHM2OTE9hAeMLg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRupQRSUWRia9Zu9bjsvaUFibIia8qfsibxx4qGxINZLVeMyYqibuHIibxDgJGcMKGvoa4kdullAdMLzibF7g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230602：
 
   - 群友分享李圆方付费文《秩序，预期与驯服人性》等
