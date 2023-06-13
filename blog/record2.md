@@ -18,6 +18,23 @@
 
 ***
 
+- 230613:
+
+  - <details>
+    <summary>更新《高考相关赚钱机会合集》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5AOAb12OVU1ZnG5v8q87aITON0hcxwlR4a3kMaOlr9tf6TKQuz5sRSXg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230613懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5ATF9fQMhdJceTXdawyW5ya87rSINKibEhxfzjnQGE1IePKXzJ84Dnxrw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5AibqV9JhpjaTX8RaBDPfiarrkkX5ic7Q6VJtibjO0WptqMSZyE2PVwmRmlA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230612：
 
   - 群友分享230612咩咩说付费文《躲不开的金融裁员与降薪》
