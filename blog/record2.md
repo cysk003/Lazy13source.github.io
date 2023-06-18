@@ -18,6 +18,65 @@
 
 ***
 
+- 230616:
+
+  - 更新《懒人专属群周报37》
+  - 更新通才计划课程《给忙碌者的大脑健康课》
+  
+- 230615：
+
+  - 更新通才计划课程[《给忙碌者的眼科医学课》](/data/13_course?id=给忙碌者的眼科医学课)
+  
+- 230613:
+
+  - <details>
+    <summary>更新《高考相关赚钱机会合集》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5AOAb12OVU1ZnG5v8q87aITON0hcxwlR4a3kMaOlr9tf6TKQuz5sRSXg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230613懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5ATF9fQMhdJceTXdawyW5ya87rSINKibEhxfzjnQGE1IePKXzJ84Dnxrw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5AibqV9JhpjaTX8RaBDPfiarrkkX5ic7Q6VJtibjO0WptqMSZyE2PVwmRmlA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 230612：
+
+  - 群友分享230612咩咩说付费文《躲不开的金融裁员与降薪》
+  - 群友分享230612混沌天涯客付费文《小心这只野鸡》
+  
+- 230611：
+
+  - 群友分享230611江宁知府付费文《台湾必须面对的真相》
+  
+- 230610：
+
+  - 更新《懒人专属群周报》，第36期
+  
+- 230609
+
+  - 自制分享一份付费课程《怎样获得高质量睡眠》
+  
+- 230607:
+
+  - 群友分享caoz付费文《只会标准答案，是不可救药的》
+  
+- 230606:
+
+  - <details>
+    <summary>更新《230606懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRupQRSUWRia9Zu9bjsvaUFibIwTCWJUEpicudJ3p3LpHkPCq3IuBIwwQibBNicJicdhZ0cHM2OTE9hAeMLg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRupQRSUWRia9Zu9bjsvaUFibIia8qfsibxx4qGxINZLVeMyYqibuHIibxDgJGcMKGvoa4kdullAdMLzibF7g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230602：
 
   - 群友分享李圆方付费文《秩序，预期与驯服人性》等

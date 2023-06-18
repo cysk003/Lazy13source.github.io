@@ -208,6 +208,23 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《给忙碌者的大脑健康课》
+
+  - 标签：`#健康`，`#大脑 `
+
+- #### 《给忙碌者的眼科医学课》
+
+  - 标签：`#健康`，`#眼睛`
+
+  - <details>
+           <summary>点击展开目录</summary>
+        <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRv71icgmcnyZt68IkeWr1VlMIYp57jvicFrwJJaGfgUZibBGzTHPQe0n29UO1gKX8OupQpwukXHDJL0w/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+           </details>
+
+- #### 《怎样获得高质量睡眠》
+
+  - 标签：`#健康`，`#睡眠`
+
 - #### 《蔡钰·批判性思维15讲》
 
   - 标签：`#批判思维`，`#课程`
@@ -249,7 +266,7 @@
     <p> -  15 一份批判性思维的通用提问清单
     </p>
            </details>
-  
+
 - #### 《傅骏·美食鉴赏15讲》
 
   - 标签：`#美食`，`#课程`
