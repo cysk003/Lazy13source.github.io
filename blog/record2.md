@@ -18,6 +18,27 @@
 
 ***
 
+- 230620：
+
+  - 群友分享西风付费文《怎么看即将到来的经济刺激这个大动作？》
+  
+  - <details>
+    <summary>更新《230620懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvtCtB0rhbfJAsoyVp0pFibCiboJaY03kaxsO55p5CHG3awicTnM3RY2HQtJlClFerw2nFerBsDkzrAQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvtCtB0rhbfJAsoyVp0pFibCah8HMwlpaDS3jurVVPK5hC7LKlvgTgkeYRmn9ibXRfMwHYQXbbfk5nQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 230619：
+
+  - 群友分享付费文：
+    - 咩咩说付费文《预期的小火苗能燃否？ 》
+    - 尹香武208元付费文《深圳救市真大招，一线城市将类同》
+    - 江宁知府 付费文《两岸统一的机遇》。
+  
 - 230616:
 
   - 更新《懒人专属群周报37》
