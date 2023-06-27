@@ -18,6 +18,26 @@
 
 ***
 
+- 230627:
+
+  - <details>
+    <summary>更新60多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuicUXayr7YTJkeibr3Bq8Nq3WBbr2XPHnWUHEx26AU6pdRcLicIZdMK6eotSMz81SmPJqiao9Hvw1Vpg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230627懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuicUXayr7YTJkeibr3Bq8Nq3jZMj3XJu2QicVTEDQuSBB6aFOJhFf2HnJ4sB6uLKhBicW4aq84MY32hA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 最近的通才计划文档已备份到Q群公告包含：《教练式领导力》《给忙碌者的大脑健康课》《给忙碌者的眼科医学课》《怎样获得高质量睡眠》《批判性思维15讲》
+  
+  - 群友分享付费文：《预见未来：未来10年乃至30年的政策大方向》，《中国希望乌克兰战争怎样结束？》
+  
+- 230621-230627：
+
+  - 小懒VX禁言一周，懒人专属群分享继续，本记录不做更新
+  
 - 230620：
 
   - 群友分享西风付费文《怎么看即将到来的经济刺激这个大动作？》
