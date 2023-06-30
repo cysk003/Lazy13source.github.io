@@ -8,25 +8,19 @@
 
 点击下发网址可以直达，建议用浏览器访问，避免微信屏蔽。
 
-## 1.免费盐选
+## 1 盐选书阁
 
-（已失效）
+网站创建于2022年，截至目前，已经有了大约五万多篇文章和问答。
 
-网址：[https://mfyx.top/](https://mfyx.top/)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/HYcicficrPRB4mcFg3iarzJicFrlzxEgbEAKICnHMGFLsRrAcd7gM2Wia6TOAOl48VXh03MnNskcjegxpLibSyvxvNkw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
-长期搬运更新X乎盐会员文章。
+## 盐水鸭（软件）
 
-目前超过千篇，关键是还在更新ing~
+安卓软件，下载地址：https://lazyman.lanzoul.com/i0h6910us2uh
 
-全部免费查看
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/HYcicficrPRB4mcFg3iarzJicFrlzxEgbEAKJl2MQ64TdH6gYMtcBA4jC8hibk3pNmol5EbsVjQHrlRFwZniaRjBVibKw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/ociaaribHd5ofSkslQFib66stYt1XxJtYRPZAnejz1mLPWNz2qvUJMuA9yMlpNgVG1h00fgzFsGXIqHssozaEMYibQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1)
-
-值得一提的是，网站支持链接解析。
-
-也就是你在X乎上看到会员文章，可以粘贴链接过来搜索看看
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/ociaaribHd5ofSkslQFib66stYt1XxJtYRPzpUDDbEibhXtpGquxH8RHqAPSBKEDmqaDcNOYHutROSaIdpMiaGh67EA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/HYcicficrPRB4mcFg3iarzJicFrlzxEgbEAKJl2MQ64TdH6gYMtcBA4jC8hibk3pNmol5EbsVjQHrlRFwZniaRjBVibKw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 2.我不是盐神
 
@@ -48,7 +42,7 @@
 
 网址：[https://www.zhihuban.ml/](https://www.zhihuban.ml/)
 
-以前小懒分享的过一个搬运网站，不过站长停更了
+以前小懒分享的过一个搬运网站，不过站长已经停更了
 
 上面的文章还可以继续看的~
 
@@ -70,7 +64,7 @@
 
 这是一个羽雀库，网友自行搭建的搬运盐会员文章的站点。
 
-目前601篇文档，支持索要文章~
+目前800多篇文档，支持索要文章~
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvAXTrpbVCv8aeicBGibZ5kB6TjwYKYLyX7JjlluJ5xh4e8Hs75tQ1WBHtTXoibjbh8Eg9MnlNFN1cJQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
