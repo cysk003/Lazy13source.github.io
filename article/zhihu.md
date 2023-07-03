@@ -16,7 +16,9 @@
 
 ## 盐水鸭（软件）
 
-安卓软件，下载地址：https://lazyman.lanzoul.com/i0h6910us2uh
+安卓软件，下载地址：
+
+https://lazyman.lanzoul.com/iqRnF10yhj0h
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/HYcicficrPRB4mcFg3iarzJicFrlzxEgbEAKJl2MQ64TdH6gYMtcBA4jC8hibk3pNmol5EbsVjQHrlRFwZniaRjBVibKw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
