@@ -18,6 +18,20 @@
 
 ***
 
+- 230704：
+
+  - 群友分享《生财大航海实战手册》离线版（助理号朋友圈有备份）
+  
+  - <details>
+    <summary>更新70多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRs3yMdm9eOxXxbhWbYSNLpjicbzIxmTcJutJv2bJIicKnF8ymlser4iaNEJzwjDjGJm6REdEmrE0drow/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230704懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRs3yMdm9eOxXxbhWbYSNLpjQ5a7woNL2rZXyglST8SjT4p0IFhm0K1rjibtvak4G4plwwrdr5nPe8w/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230630:
 
   - 更新第39期《懒人专属群周报》
