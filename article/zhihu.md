@@ -10,6 +10,8 @@
 
 ## 1 盐选书阁
 
+网址：https://yx.cbge.top/
+
 网站创建于2022年，截至目前，已经有了大约五万多篇文章和问答。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/HYcicficrPRB4mcFg3iarzJicFrlzxEgbEAKICnHMGFLsRrAcd7gM2Wia6TOAOl48VXh03MnNskcjegxpLibSyvxvNkw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
