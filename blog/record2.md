@@ -18,6 +18,24 @@
 
 ***
 
+- 230711：
+
+  - 群友分享78元付费文《未来的财富在这里》
+  
+  - <details>
+    <summary>更新《230711懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsuY90ObVw4UEYY31SgkSnj3AebbaFibic3e1wTeldexh15Ndub6EK2gYm7t25U2dfXpYgOQG5SiabuQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新70多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsuY90ObVw4UEYY31SgkSnjP1j4x8bXOr5tTTWAhLUBsMEAI2njCyE4iaNcvwtw69Y2iapfC2AfL21A/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 2307077：
+
+  - 更新第40期《懒人专属群周报》
+  
 - 230706:
 
   - 给群友整理几份生財合集：《ChatGPT+公众号（合集）》《同城引流合集》《快团团合集》《高考赚钱机会合集》《小红书电商合集》，均包含在线版和离线版
