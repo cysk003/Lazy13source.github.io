@@ -18,6 +18,22 @@
 
 ***
 
+- 230718：
+
+  - <details>
+    <summary>更新70多条生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuZic4ficSgaolbbM9YibXpM4GcrdHXsgLECc1paqb6dzLB8mAradBBak0cibuXNaBdibB5zPqFeuydkMw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230718懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuZic4ficSgaolbbM9YibXpM4G2SzibTUySA0wRwRMDt0sZEJVD0gERibSkYvHdUEEcNPcp6bYb9nfxDtg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 230717:
+
+  - 群友分享付费文《逆天改命的机会在哪里》
+  
 - 230714：
 
   - 分享第41期《懒人专属群周报》
