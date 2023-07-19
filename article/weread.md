@@ -9,11 +9,13 @@
 5. 点击 **取消爬取** 可以取消当前的抓取过程
 6. 点击 **停止爬取 并 保存** 可以停止当前的抓取过程，并保存已抓取的内容
 7. 点击 **设置翻页时间间隔** 可以设定自动翻页时间间隔，单位为毫秒（ms）
-8. 点击 **关联图片** 可以设定是否将图片内联至文档，即是否可以在离线情况下加载图片。其中 ✔ 表示该功能开启，✘ 则表示该功能关闭
+8. （点击油猴插件后）点击 **关联图片** 可以设定是否将图片内联至文档，即是否可以在离线情况下加载图片。其中 ✔ 表示该功能开启，✘ 则表示该功能关闭
 
 ***
 
 ## 常见问题
+
+（转自原作者）
 
 1. **是否支持 ViolentMonkey？**
 
@@ -54,13 +56,3 @@
 10. **这个脚本的工作原理是什么？**
 
     微信读书在渲染书籍页面内容时，会先将文字内容排版到一个容器中，然后再将其绘制在 [](https://developer.mozilla.org/docs/Web/HTML/Element/canvas) 上变为图片格式，并删除原来的存有文字、已排版好的容器。这个脚本会在合适的时机截获这个容器，并保存其中的内容。
-
-11. **我也想参与开发、贡献代码，但是每次在微信读书页面打开浏览器开发者工具就会无限触发 `debugger` 断点，我该怎么办？**
-
-    你可以禁用浏览器的断点，但这样你就没办法根据自己的需要打断点调试了。更推荐你查看我的另外一个仓库 [anti-anti-debugging-debugger-firefox](https://github.com/Sec-ant/anti-anti-debugging-debugger-firefox)，这个仓库利用了 GitHub Actions 持续拉取最新版的火狐浏览器源码，将 `debugger` 关键字替换为另外的关键字，并自动编译和发布适用于 Windows 环境的火狐浏览器。使用这个浏览器调试时不会触发 `debugger` 断点，且可以自定义断点位置。
-
-12. **这个仓库只有构建前的源代码，我在哪里可以下载到已经构建好的脚本文件？**
-
-    jsDelivr: https://cdn.jsdelivr.net/npm/weread-scraper@latest/dist/weread-scraper.user.js
-
-    Greasy Fork: https://greasyfork.org/scripts/450169@latest/code/weread-scraper.user.js
