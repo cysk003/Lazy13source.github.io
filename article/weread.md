@@ -1,5 +1,13 @@
 # 微信读书 本地备份教程
 
+本脚本由小懒人在大神基础上汉化改进而来，可以保存VX读书上的电子书为离线本地html
+
+当然，前提是这本书你有阅读权限，获取5分钟付费阅读卡的获取方法见文章：
+
+[微信读书付费卡，一样破！ ](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647899353&idx=1&sn=3775ad024e7168186ea944b3e68b68b9&chksm=f20a0298c57d8b8edb78587d0d0b3e4723a0a4c76daa64a861792c96ea8f75563f83dbbec1eb&token=1013064343&lang=zh_CN&scene=21#wechat_redirect)
+
+5分钟够爬好几本了~
+
 ## 使用方法
 
 1. 在 [Tampermonkey](https://www.tampermonkey.net/) 中安装[这个脚本](https://greasyfork.org/zh-CN/scripts/471188)
