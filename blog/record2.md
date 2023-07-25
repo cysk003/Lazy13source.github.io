@@ -21,8 +21,16 @@
 - 230725:
 
   - 群友分享付费文《724政治局会议，吹起反攻的号角》
-  - 更新生财周报
-  - 更新生财风向标
+  
+  - <details>
+    <summary>更新生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRu48Viay6EXbVrTuExLH10Km9VqHzOGnAQgc2jmvn8q9Cfu29ZIpibibhy19ANGcCEuGlHkXS4ZJ4hkg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230725懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRu48Viay6EXbVrTuExLH10Kmzj5MqPZABwaFEexKdxgP6n048PLCJVZJGpYLbrWjdfiassyNpreI7ww/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
   
 - 230721:
 
