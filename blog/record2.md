@@ -18,6 +18,20 @@
 
 ***
 
+- 230801:
+
+  - 群友分享付费文《如果不能说真话，那也就无所谓正确》，《道家起源：玄！》
+  
+  - <details>
+    <summary>更新《230801懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvp5OgPPKyialwElwmkAJqkycicY3At4kRpSBe2HpxzZn6gxKxTdMsJTFicGnCxLmibP1B3OdUf3GRhVA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新生财风向标，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvp5OgPPKyialwElwmkAJqkyf4GSav9jWWoTHyEDbbVrIS4rrFCxT5EIibOTOibeJnDu6Pho55jPTnLQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230731:
 
   - 更新通才计划199付费课程《怎样打造爆款产品》，[完整目录点击此查看](https://lazybook.fun/#/data/13_course)
