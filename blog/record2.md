@@ -18,6 +18,22 @@
 
 ***
 
+- 230808：
+
+  - <details>
+    <summary>更新《230808懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuU7h8GQzA2dFWjYsmZFhOK98Z248Kia0eho7nX784iax1p2ZfuP1xZXrHUP0uYN5Q5fQvwMUIaaMxQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230808懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuU7h8GQzA2dFWjYsmZFhOKKVQQpNkLwXhvza7E8YuLYUsPBdWwaS9YcVO9jItST1z4SdGVTuPwOQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 更新一份生财主题合集《知识付费合集》
+  
+  - 群友分享灏泽神棍付费文《真正金贵的道理，你咋么能指望学校会有本事教给你》
+  
 - 230807：
 
   - 群友分享两篇付费文 ：
