@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    margin: 0;
+    overflow: hidden;
+  }
+</style>
+<script>
+  // 获取canvas元素和上下文
+  var canvas = document.getElementById("fireworksCanvas");
+  var ctx = canvas.getContext("2d");
+
+  // 设置canvas大小
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  // 创建烟花粒子
+  function createParticle(x, y) {
+    var particle = {
+      x: x,
+      y: y,
+      size: Math.random() * 3 + 2,
+      speedX: Math.random() * 3 - 1.5,
+      speedY: Math.random() * 3 - 1.5,
+      color: "hsl(" + Math.random() * 360 + ", 100%, 50%)"
+    };
+    return particle;
+  }
+
+  // 绘制烟花粒子
+  function drawParticle(particle) {
+    ctx.beginPath();
+    ctx.arc(particle.x, particle.y, particle.size, 0, Math.PI * 2);
+    ctx.fillStyle = particle.color;
+    ctx.fill();
+  }
+
+  // 更新烟花粒子
+  function updateParticle(particle) {
+    particle.x += particle.speedX;
+    particle.y += particle.speedY;
+    particle.size *= 0.98;
+  }
+
+  // 动画循环
+  function animate() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    for (var i = 0; i < particles.length; i++) {
+      var particle = particles[i];
+      if (particle.size > 0.2) {
+        drawParticle(particle);
+        updateParticle(particle);
+      } else {
+        particles.splice(i, 1);
+        i--;
+      }
+    }
+
+    requestAnimationFrame(animate);
+  }
+
+  // 存储烟花粒子
+  var particles = [];
+
+  // 在点击位置创建烟花
+  function createFirework(event) {
+    var x = event.clientX;
+    var y = event.clientY;
+
+    for (var i = 0; i < 100; i++) {
+      particles.push(createParticle(x, y));
+    }
+  }
+
+  // 监听点击事件
+  canvas.addEventListener("click", createFirework);
+
+  // 开始动画
+  animate();
+</script>
+</head>
+<body>
+  <canvas id="fireworksCanvas"></canvas>
+</body>
+</html>
