@@ -18,6 +18,18 @@
 
 ***
 
+- 230815:
+
+  - <details>
+    <summary>更新《230815懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYkxhVzpbEJDkZyp5OZp1ApgH092gr8mIfYFeSqbjcR77HWoJgh8Hw6QBES7L9FuWMI95CQVvDsw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230815懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYkxhVzpbEJDkZyp5OZp1Afc1EKgOGhVw1mKjrjgAME5F19tFtxjFic95d1FiaL9ib6UOpCqvYiaFgoA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230814:
 
   - 群友分享:
