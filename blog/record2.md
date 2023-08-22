@@ -18,6 +18,29 @@
 
 ***
 
+- 230822:
+
+  - 群友分享付费文《当政策照进现实》《政策利好频出，为何市场冷淡》
+  
+  - 群友分享付费课程《高尿酸医学课》
+  
+  - <details>
+    <summary>更新《230822懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWWWibVcmM7NzibAsibOUIAOJ0d4KlZWUpULSePzOtVIkRGREjoKY5iaAhJ1ApqdroYfoeP1MbehqMqQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《2308懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWWWibVcmM7NzibAsibOUIAOJBcbeAXIIrttreWUsUxYA68U8vRhoraFhxU1FMZlsKL9aZJDP9oAoEw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 230817:
+
+  - <details>
+    <summary>整理分享职场相关文档，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvWmZnGtuFH3deGqG9dibsaUUfBAyTAfrv3zxyUJYInV8lnXqiamLKcL8nLIedvSxNSr7Nc1XtiaPvPA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230816:
 
   - 更新一份《[通才计划课程](/data/13_course)》：原价98的《不完美世界的博弈-契约经济学35讲》，[点击查看目录](/data/13_course?id=😊不完美世界的博弈契约经济学35讲)
