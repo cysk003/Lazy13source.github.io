@@ -16,6 +16,8 @@
 
 ***
 
+- 万物皆模型-100个思维模型1.0
+  - https://lazyman.lanzoul.com/iCKmr16acnle
 - 天涯神贴分享（夸克网盘）
   - [https://pan.quark.cn/s/bb3b71c9393b#/list/share](https://pan.quark.cn/s/bb3b71c9393b#/list/share)
 - 大脑操作手册pdf
