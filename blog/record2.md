@@ -20,6 +20,8 @@
 
 - 230829:
 
+  - 群友分享付费文《大阴线后的市场展望》
+  
   - <details>
     <summary>更新《230829懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuCZPo6wemqBOh59fIA9dibg2HnAJalnCHqoKyMtIFEiaYKKYqLdegwY7ICddxgTKHzGGrDxHnDVluw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
