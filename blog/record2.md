@@ -18,6 +18,18 @@
 
 ***
 
+- 230829:
+
+  - <details>
+    <summary>更新《230829懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuCZPo6wemqBOh59fIA9dibg2HnAJalnCHqoKyMtIFEiaYKKYqLdegwY7ICddxgTKHzGGrDxHnDVluw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230829懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuCZPo6wemqBOh59fIA9dibg4OBeEc5LibZsFfbm7pFZtzRk3H9SGl1V3veceicJjdISHaEJJtbqibqVg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230828：
 
   - 更新《通才计划》两份付费课程《仝卿·营养科学20讲》《冯雪·高尿酸医学课》。健康系列课程目录[点击查看](/data/13_course?id=健康系列)
