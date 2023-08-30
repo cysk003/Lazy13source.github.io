@@ -559,9 +559,9 @@
 
 ## 健康系列
 
-- #### 仝卿·营养科学20讲
+- 本系列均已整理，这里只是目录，文档下载地址在**懒人专属群** Q群公告的《通才计划》！
 
-  - 标签：`#健康`，`#医学`，`#已整理`
+- #### 仝卿·营养科学20讲
 
   - <details>
         <summary>点击展开目录</summary>
@@ -570,28 +570,54 @@
 
 - #### 《冯雪·高血糖医学课》
 
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRugzGsNKUyVoTXXjiarICWLBt9U1yBNU7bupLeEJOS2uTIARxS0l8thF6tkciazfLvrtgssnbbeyP8Q/640?wx_fmt=jpeg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《冯雪·高血脂医学课》
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRugzGsNKUyVoTXXjiarICWLB5nPlwUFrcrhFVknkCHZzhODKaGibDVIrsvSkMnvBHEKDGACjNfWCaicg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
 
 - #### 《冯雪·高血压医学课》
 
-- #### 《冯雪·高血酸医学课》
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRugzGsNKUyVoTXXjiarICWLBvJuSR3Zczuhzy5JEK3ewKEIhUnspJe52UR5esfNbaaiab9anrnbuvhg/640?wx_fmt=jpeg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
 
-  - 标签：`#健康`，`#医学`，`#已整理`
+- #### 《冯雪·高尿酸医学课》
 
   - <details>
         <summary>点击展开目录</summary>
      <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvHhkQxghudL8iaaibkQGy5fiaQbt6GuShzN0LCicjxVHQgQUuKNGwuN8thjuzZZAWrYlMniazictFvG1mA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
         </details>
 
+- #### 《冯雪·科学减肥16讲》
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRugzGsNKUyVoTXXjiarICWLBA8SPsY6lqbq5ajUKetWXAARjH0WCxRRhM1NwykWj92e72cmStZA11w/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《给忙碌者的心脏医学课》
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRugzGsNKUyVoTXXjiarICWLBuaFuXANmxFWX2BD6icIFtMu6icq7pw9U0mbH0CBtcGDzhMoUWNNJ8Vgw/640?wx_fmt=jpeg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
 
 - #### 《给忙碌者的大脑健康课》
 
-  - 标签：`#健康`，`#大脑，`，`#已整理` 
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRugzGsNKUyVoTXXjiarICWLBuyTyib6SRMcE6qiaC3viakibq5NzOUUaGZWgWUDZSmuM3bQzsFcexCrb3w/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
 
 - #### 《给忙碌者的眼科医学课》
-
-  - 标签：`#健康`，`#眼睛`，`#已整理`
 
   - <details>
         <summary>点击展开目录</summary>
@@ -600,7 +626,6 @@
 
 - #### 《怎样获得高质量睡眠》
 
-  - 标签：`#健康`，`#睡眠`，`#已整理`
 
 ***
 
