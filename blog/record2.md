@@ -21,6 +21,8 @@
 - 230901:
 
   - 群友自费分享付费文《如何何应对这场几十年未有之收割局？》
+  - 备份[八月分享的文档](typora://app/blog/record3)
+  - [懒人专属群纳新](https://mp.weixin.qq.com/s/yD0xUlzpyZnWkcQM_nn6pg)
   
 - 230831:
 
