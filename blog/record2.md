@@ -18,6 +18,20 @@
 
 ***
 
+- 230905:
+
+  - 群友分享付费文《九月必看：看多！政策底市场》《未来一年或许更加动荡，如何应对？》《如果一定要爆发新冷战》
+  
+  - <details>
+    <summary>更新《230905懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvmJevibpukKfQNT4icvhacnPicVicxUl7Az3uLRcCdyadDkFTFZS3qsJShUop3mZFBFKwv7tlgOicrLUg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230905懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvmJevibpukKfQNT4icvhacnPLjpG5kfmLOM9wnolM0xiadk3Qc6KfllyJLnOfwCorubASh1bibPXOEFQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230901:
 
   - 群友自费分享付费文《如何何应对这场几十年未有之收割局？》
