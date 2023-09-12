@@ -18,7 +18,17 @@
 
 ***
 
-- 
+- 230912：
+
+  - <details>
+    <summary>更新《230912懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRum00qVnibdXGiaJQrY4sycea9y6icvOIWa1Y0ngZgu83icr9mQXga8ZxQtTf6W2MiaPCcZxc8VyUIR1NA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+  - <details>
+    <summary>更新《230912懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRum00qVnibdXGiaJQrY4syceajF9z6RJR5NZXIQtAauIZHiaUSEibDRAQy1kHVSlOu6iaXCcicSyZboz3dg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
 
 - 230911：
 
@@ -26,434 +36,434 @@
   - 群友分享 尹香武208元付费文《优质资产的倾销绝唱》
   - 群友分享三眼付费文《什么叫做开窍》
   - 群友分享花爷IP知识库
-  
+
 - 230908：
 
   - 更新第49期《懒人专属群周报》
-  
+
 - 230907:
 
   - 群友分享司令付费文《解决人口断崖式下滑的唯一办法》
   - 更新一份升財主题合集《产品出海》
   - 新增一份付费课程《奥派经济学30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 230906：
 
   - 群友分享混沌天涯客付费文《强撸灰飞烟灭》
-  
+
 - 230905:
 
   - 群友分享付费文《九月必看：看多！政策底市场》《未来一年或许更加动荡，如何应对？》《如果一定要爆发新冷战》
-  
+
   - <details>
     <summary>更新《230905懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvmJevibpukKfQNT4icvhacnPicVicxUl7Az3uLRcCdyadDkFTFZS3qsJShUop3mZFBFKwv7tlgOicrLUg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230905懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvmJevibpukKfQNT4icvhacnPLjpG5kfmLOM9wnolM0xiadk3Qc6KfllyJLnOfwCorubASh1bibPXOEFQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230901:
 
   - 群友自费分享付费文《如何何应对这场几十年未有之收割局？》
   - 备份[八月分享的文档](typora://app/blog/record3)
   - [懒人专属群纳新](https://mp.weixin.qq.com/s/yD0xUlzpyZnWkcQM_nn6pg)
-  
+
 - 230831:
 
   - 更新两份生财主题《如何开一家公司-合集》《亚马逊合集》
-  
+
 - 230830:
 
   - 《通才计划》整理了十门付费的健康类课程
-  
+
 - 230829:
 
   - 群友分享付费文《大阴线后的市场展望》
-  
+
   - <details>
     <summary>更新《230829懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuCZPo6wemqBOh59fIA9dibg2HnAJalnCHqoKyMtIFEiaYKKYqLdegwY7ICddxgTKHzGGrDxHnDVluw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230829懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuCZPo6wemqBOh59fIA9dibg4OBeEc5LibZsFfbm7pFZtzRk3H9SGl1V3veceicJjdISHaEJJtbqibqVg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230828：
 
   - 更新《通才计划》两份付费课程《仝卿·营养科学20讲》《冯雪·高尿酸医学课》。健康系列课程目录[点击查看](/data/13_course?id=健康系列)
-  
+
 - 230825：
 
   - 更新第47期的《懒人专属群周报》
-  
+
 - 230824：
 
   - 群友自费分享《10篇思维课付费文合集》
-  
+
 - 230823：
 
   - 群友自费百元分享《万物皆模型-100个思维模型》
-  
+
 - 230822:
 
   - 群友分享付费文《当政策照进现实》《政策利好频出，为何市场冷淡》
-  
+
   - 群友分享付费课程《高尿酸医学课》
-  
+
   - <details>
     <summary>更新《230822懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWWWibVcmM7NzibAsibOUIAOJ0d4KlZWUpULSePzOtVIkRGREjoKY5iaAhJ1ApqdroYfoeP1MbehqMqQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《2308懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWWWibVcmM7NzibAsibOUIAOJBcbeAXIIrttreWUsUxYA68U8vRhoraFhxU1FMZlsKL9aZJDP9oAoEw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230817:
 
   - <details>
     <summary>整理分享职场相关文档，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvWmZnGtuFH3deGqG9dibsaUUfBAyTAfrv3zxyUJYInV8lnXqiamLKcL8nLIedvSxNSr7Nc1XtiaPvPA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230816:
 
   - 更新一份《[通才计划课程](/data/13_course)》：原价98的《不完美世界的博弈-契约经济学35讲》，[点击查看目录](/data/13_course?id=😊不完美世界的博弈契约经济学35讲)
-  
+
 - 230815:
 
   - <details>
     <summary>更新《230815懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYkxhVzpbEJDkZyp5OZp1ApgH092gr8mIfYFeSqbjcR77HWoJgh8Hw6QBES7L9FuWMI95CQVvDsw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230815懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYkxhVzpbEJDkZyp5OZp1Afc1EKgOGhVw1mKjrjgAME5F19tFtxjFic95d1FiaL9ib6UOpCqvYiaFgoA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230814:
 
   - 群友分享:
     - 230810司令付费文《A765：公开的秘密！》
     - 230814咩咩说付费文《两种力量正在对决》
     -  230814茶狐看世界付费文《一部日本动作片，震碎了我的三观》
-  
+
 - 230810:
 
   - 更新《通才计划电子书》，99元付费课程《黄碧云的小店创业课》，[完整目录点击此查看](https://lazybook.fun/#/data/13_course)
-  
+
 - 230808：
 
   - <details>
     <summary>更新《230808懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuU7h8GQzA2dFWjYsmZFhOK98Z248Kia0eho7nX784iax1p2ZfuP1xZXrHUP0uYN5Q5fQvwMUIaaMxQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230808懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuU7h8GQzA2dFWjYsmZFhOKKVQQpNkLwXhvza7E8YuLYUsPBdWwaS9YcVO9jItST1z4SdGVTuPwOQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 更新一份生财主题合集《知识付费合集》
-  
+
   - 群友分享灏泽神棍付费文《真正金贵的道理，你咋么能指望学校会有本事教给你》
-  
+
 - 230807：
 
   - 群友分享两篇付费文 ：
-  
+
     - 230805政事堂付费文《新一轮经济刺激的底层逻辑》
-  
+
     - 230805混沌天涯客-付费文《刀郎约的炮，那英含着泪打完》
-  
+
   - 懒人收藏夹 新收录两篇文章：
     《[如果你只看到诈骗，那就白看了](https://www.lazyblog.fun/article/23080701)》
     《[观念：人是自身的目的，不是他人的工具](https://www.lazyblog.fun/article/23080702)》
     可作为早读文章~
     
   - 更新一份赚钱合集《小红书爆款选品合集》，更多合集看专属群消息
-  
+
 - 230803:
 
   - 更新一份赚钱合集《AI绘画变现案例合集》，更多合集看专属群消息
-  
+
 - 230802:
 
   - 更新记忆承载付费文合集，[点击查看目录](/data/13_course?id=记忆承载-付费文合集)
-  
+
 - 230801:
 
   - 群友分享付费文《如果不能说真话，那也就无所谓正确》，《道家起源：玄！》
-  
+
   - <details>
     <summary>更新《230801懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvp5OgPPKyialwElwmkAJqkycicY3At4kRpSBe2HpxzZn6gxKxTdMsJTFicGnCxLmibP1B3OdUf3GRhVA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvp5OgPPKyialwElwmkAJqkyf4GSav9jWWoTHyEDbbVrIS4rrFCxT5EIibOTOibeJnDu6Pho55jPTnLQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230731:
 
   - 更新通才计划199付费课程《怎样打造爆款产品》，[完整目录点击此查看](https://lazybook.fun/#/data/13_course)
-  
+
 - 230730：
 
   - 群友分享付费文《X51：退无可退》
-  
+
 - 230727:
 
   - 群友分享司令付费文《A705：重现1917？！》《A704：幻觉！》
-  
+
 - 230726:
 
   - 群友分享司令付费文《风景哪边都不好》
   - 更新通才计划144付费课程《给决策者的战略课》，[完整目录点击此查看](https://lazybook.fun/#/data/13_course)
-  
+
 - 230725:
 
   - 群友分享付费文《724政治局会议，吹起反攻的号角》
-  
+
   - <details>
     <summary>更新生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRu48Viay6EXbVrTuExLH10Km9VqHzOGnAQgc2jmvn8q9Cfu29ZIpibibhy19ANGcCEuGlHkXS4ZJ4hkg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230725懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRu48Viay6EXbVrTuExLH10Kmzj5MqPZABwaFEexKdxgP6n048PLCJVZJGpYLbrWjdfiassyNpreI7ww/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230721:
 
   - 更新第42期《懒人专属群周报》
   - 更新得到129付费课程《亲密关系30讲》，[完整目录点击此查看](https://lazybook.fun/#/data/13_course)
-  
+
 - 230720:
 
   - 更新三份赚钱专题合集：《私域运营-合集》《离开职场后的新出路-合集》《宠物赛道-合集》
   - 之前的《产品变现》《同城引流-合集》《ChatGPT+公众号-合集》《快团团-合集》《小红书电商-合集》《高考相关赚钱机会》以及《生cai大航海》都统一备份再这份在线文档里了，包含目录等等
-  
+
 - 230719：
 
   - 分享付费电子书《软技能》
-  
+
 - 230718：
 
   - <details>
     <summary>更新70多条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuZic4ficSgaolbbM9YibXpM4GcrdHXsgLECc1paqb6dzLB8mAradBBak0cibuXNaBdibB5zPqFeuydkMw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230718懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuZic4ficSgaolbbM9YibXpM4G2SzibTUySA0wRwRMDt0sZEJVD0gERibSkYvHdUEEcNPcp6bYb9nfxDtg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230717:
 
   - 群友分享付费文《逆天改命的机会在哪里》
-  
+
 - 230714：
 
   - 分享第41期《懒人专属群周报》
   - 群友分享付费文《雨来了？ 》
-  
+
 - 230712：
 
   - 更新一份通才计划课程《蔡钰·情绪价值30讲》（原名:产品魅力30讲），得到原价129
-  
+
 - 230711：
 
   - 群友分享78元付费文《未来的财富在这里》
-  
+
   - <details>
     <summary>更新《230711懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsuY90ObVw4UEYY31SgkSnj3AebbaFibic3e1wTeldexh15Ndub6EK2gYm7t25U2dfXpYgOQG5SiabuQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新70多条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsuY90ObVw4UEYY31SgkSnjP1j4x8bXOr5tTTWAhLUBsMEAI2njCyE4iaNcvwtw69Y2iapfC2AfL21A/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 2307077：
 
   - 更新第40期《懒人专属群周报》
-  
+
 - 230706:
 
   - 给群友整理几份生財合集：《ChatGPT+公众号（合集）》《同城引流合集》《快团团合集》《高考赚钱机会合集》《小红书电商合集》，均包含在线版和离线版
-  
+
 - 230704：
 
   - 群友分享《生财大航海实战手册》离线版（助理号朋友圈有备份）
-  
+
   - <details>
     <summary>更新70多条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRs3yMdm9eOxXxbhWbYSNLpjicbzIxmTcJutJv2bJIicKnF8ymlser4iaNEJzwjDjGJm6REdEmrE0drow/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230704懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRs3yMdm9eOxXxbhWbYSNLpjQ5a7woNL2rZXyglST8SjT4p0IFhm0K1rjibtvak4G4plwwrdr5nPe8w/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230630:
 
   - 更新第39期《懒人专属群周报》
-  
+
 - 230629：
 
   - 更新通才计划课程《华杉讲透孙子兵法》
-  
+
 - 230627:
 
   - <details>
     <summary>更新60多条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuicUXayr7YTJkeibr3Bq8Nq3WBbr2XPHnWUHEx26AU6pdRcLicIZdMK6eotSMz81SmPJqiao9Hvw1Vpg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230627懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuicUXayr7YTJkeibr3Bq8Nq3jZMj3XJu2QicVTEDQuSBB6aFOJhFf2HnJ4sB6uLKhBicW4aq84MY32hA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 最近的通才计划文档已备份到Q群公告包含：《教练式领导力》《给忙碌者的大脑健康课》《给忙碌者的眼科医学课》《怎样获得高质量睡眠》《批判性思维15讲》
-  
+
   - 群友分享付费文：《预见未来：未来10年乃至30年的政策大方向》，《中国希望乌克兰战争怎样结束？》
-  
+
 - 230621-230627：
 
   - 小懒VX禁言一周，懒人专属群分享继续，本记录不做更新
-  
+
 - 230620：
 
   - 群友分享西风付费文《怎么看即将到来的经济刺激这个大动作？》
-  
+
   - <details>
     <summary>更新《230620懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvtCtB0rhbfJAsoyVp0pFibCiboJaY03kaxsO55p5CHG3awicTnM3RY2HQtJlClFerw2nFerBsDkzrAQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新50多条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvtCtB0rhbfJAsoyVp0pFibCah8HMwlpaDS3jurVVPK5hC7LKlvgTgkeYRmn9ibXRfMwHYQXbbfk5nQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230619：
 
   - 群友分享付费文：
     - 咩咩说付费文《预期的小火苗能燃否？ 》
     - 尹香武208元付费文《深圳救市真大招，一线城市将类同》
     - 江宁知府 付费文《两岸统一的机遇》。
-  
+
 - 230616:
 
   - 更新《懒人专属群周报37》
   - 更新通才计划课程《给忙碌者的大脑健康课》
-  
+
 - 230615：
 
   - 更新通才计划课程[《给忙碌者的眼科医学课》](/data/13_course?id=给忙碌者的眼科医学课)
-  
+
 - 230613:
 
   - <details>
     <summary>更新《高考相关赚钱机会合集》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5AOAb12OVU1ZnG5v8q87aITON0hcxwlR4a3kMaOlr9tf6TKQuz5sRSXg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230613懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5ATF9fQMhdJceTXdawyW5ya87rSINKibEhxfzjnQGE1IePKXzJ84Dnxrw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新50多条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5AibqV9JhpjaTX8RaBDPfiarrkkX5ic7Q6VJtibjO0WptqMSZyE2PVwmRmlA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230612：
 
   - 群友分享230612咩咩说付费文《躲不开的金融裁员与降薪》
   - 群友分享230612混沌天涯客付费文《小心这只野鸡》
-  
+
 - 230611：
 
   - 群友分享230611江宁知府付费文《台湾必须面对的真相》
-  
+
 - 230610：
 
   - 更新《懒人专属群周报》，第36期
-  
+
 - 230609
 
   - 自制分享一份付费课程《怎样获得高质量睡眠》
-  
+
 - 230607:
 
   - 群友分享caoz付费文《只会标准答案，是不可救药的》
-  
+
 - 230606:
 
   - <details>
     <summary>更新《230606懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRupQRSUWRia9Zu9bjsvaUFibIwTCWJUEpicudJ3p3LpHkPCq3IuBIwwQibBNicJicdhZ0cHM2OTE9hAeMLg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRupQRSUWRia9Zu9bjsvaUFibIia8qfsibxx4qGxINZLVeMyYqibuHIibxDgJGcMKGvoa4kdullAdMLzibF7g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230602：
 
   - 群友分享李圆方付费文《秩序，预期与驯服人性》等
-  
+
   - <details>
     <summary>更新第35期《懒人专属群周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvcnpJHWoon45w1Yt815G3rAVQRm7wJN3OM7ukBeeMuicvNbom9q7R6Czdodxslvf1Vy1fkS6vbCng/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230601：
 
   - 群友分享付费文《出国的顺序》
   - 群友分享付费文《马斯克这次来华，一个终极机会显现了》
   - 更新**通才计划**电子书《[蔡钰·批判性思维15讲](/data/13_course?id=《蔡钰·批判性思维15讲》)》
-  
+
 - 230530：
 
   - 群友分享雪球花甲老头付费文《布局人生！决定成败的因素可以改变，十条箴言引以为戒｜万字》
-  
+
   - <details>
     <summary>更新《23年5月小红书电商合集》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRspSePFT27qCvJbdI5JX3oznl2MOJ0xoFOrzIIyO8MYibC9vpicX1T54T1ALSnuibM5bSibmZ7AD8zmrg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230530懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRspSePFT27qCvJbdI5JX3ozZBhQ5ofb0u2EDtdaTwREK4TWWhYaEib4sLj4gK38QmVaTPTmbr2IkyA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新50多条生财风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRspSePFT27qCvJbdI5JX3ozhEDLnrr3Fr6DaiaEETAD6qjxHoHgg05p1UKVbicBZvuR0nXhff2VG6kQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230529：
 
   - 更新**通才计划**电子书[《傅骏·美食鉴赏15讲》](/data/13_course?id=《傅骏·美食鉴赏15讲》)
-  
+
 - 230526：
 
   - 更新《懒人专属群周报34期》
