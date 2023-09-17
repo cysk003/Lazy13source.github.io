@@ -2,7 +2,8 @@
 
 
 
-<iframe  src="https://udify.app/chatbot/xHXE4R2PhmwoWB42"  style="width: 100%; height: 100%; min-height: 700px"  frameborder="0"   allow="microphone"> </iframe>
+<iframe src="https://chato.cn/b/qzov85nvywrmydnj?source=懒人专属群" width="408px" height="594px" frameborder="0">
+</iframe>
 
 
 
