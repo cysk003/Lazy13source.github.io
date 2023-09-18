@@ -66,3 +66,11 @@
 10. **这个脚本的工作原理是什么？**
 
     微信读书在渲染书籍页面内容时，会先将文字内容排版到一个容器中，然后再将其绘制在 [](https://developer.mozilla.org/docs/Web/HTML/Element/canvas) 上变为图片格式，并删除原来的存有文字、已排版好的容器。这个脚本会在合适的时机截获这个容器，并保存其中的内容。
+
+
+
+
+
+***
+
+<figure class="notion-asset-wrapper notion-asset-wrapper-embed notion-block-1c5fa359e4d443798dfa7bc86198900a"><div style="position:relative;display:flex;justify-content:center;align-self:center;width:100%;max-width:100%;flex-direction:column;height:106.99510955810547px"><iframe class="notion-asset-object-fit" src="https://cn.widgetstore.net/view/index.html?q=5b049cc8622189440f31d6307d40e568.41d77edc6507a37202b75520258dcf2d" title="iframe embed" frameborder="0" allowfullscreen="" loading="lazy" scrolling="auto"></iframe></div></figure>
