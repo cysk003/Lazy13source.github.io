@@ -18,6 +18,20 @@
 
 ***
 
+- 230920：
+
+  - 群友分享付费文《世界上最难受的境地》
+  
+  - <details>
+    <summary>更新《230920懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvW7WHjrEmHia78RbAXiaBBotqyibMwoeT68qhEJgx7dtSOAfbJFT9JNQiaQL2SBCAqMyFvYIjYKib2j1g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230920懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvW7WHjrEmHia78RbAXiaBBotgaP019erRDhqnucISZVgfAWo5ic6r4vQxdxRopPicoOJJUs5hO8Ql13A/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230819：
 
   - 更新财xin周刊第37期
