@@ -36,6 +36,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《刘润·商业洞察力30讲》
+
+  - 标签：`#商业`，`#经济`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvsdia7wWvV5QhP8HviawChB1ZuichZy848lPgGfm87GpOjgRP1AJTgzxibViaGDEEdicXLia4RyTYyTMVrg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《奥派经济学10讲》
 
   - 标签：`#经济学`
