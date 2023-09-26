@@ -18,6 +18,18 @@
 
 ***
 
+- 230926：
+
+  - <details>
+    <summary>更新《23092懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtZadSia6RTphlrL3dsiak3doklUMfWCNiavFLKmGqWFbrkpf1Qo9pOOtRjbibVVxF8XNhPQ37PVDWt8w/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《230926懒人升財周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtZadSia6RTphlrL3dsiak3doia0NlZrwpjh1YqfSwvIYdCvPic3RVz4zKaibPOWlPE26UaMtULwGtMWcw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 230925：
 
   - 更新99课程《刘润·商业洞察力30讲》，已加入《[通才计划课程](/data/13_course)》
