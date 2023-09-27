@@ -3,18 +3,38 @@
 [**返回首页**](/README.md)
 
 > <details>
->   <summary>展开添加小懒微信：lazyhelper</summary>
->  <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+> <summary>展开添加小懒微信：lazyhelper</summary>
+> <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
 > </details>
 >
-> 更新时间：**230921**
+> 更新时间：**230927**
 >
 > 以下为公众号**记忆承载**的所有原创文章，已有发文时间和摘要
 >
 > 标（付费）的是付费文，咱们[懒人专属群](/blog/group)都有整理了付费文合集，Q群公告自取
 >
 > 点击标题可以跳转原文，多个标题重复的，大概率是被和谐的文章
+>
+> [记忆承载3文章列表](/gzh/xifeng2)点此查看
 
+- [你以为华为突破的是芯片？](http://mp.weixin.qq.com/s?__biz=MzU0MjYwNDU2Mw==&mid=2247512278&idx=1&sn=29f748c984e9a82ac450dcf74c43bb1f&chksm=fb1adcaacc6d55bc975a18577e992e8b5fe388ba1524579c9ace01347f2b1e9af0f8b1578f7a#rd)
+    - 时间：2023-09-27
+    - 摘要：最深刻的道理往往都是最朴素的表达
+- [锦衣夜行这种话题，任正非才是专家](http://mp.weixin.qq.com/s?__biz=MzU0MjYwNDU2Mw==&mid=2247512275&idx=1&sn=d8934fabd78d2b2ba1f5e8287d5d24cf&chksm=fb1adcafcc6d55b9b9c8ed557dcffbf125e2e3d8a473d869b0087567b45ac2cd7163f5ea380d#rd)
+    - 时间：2023-09-26
+    - 摘要：不，我们要做的，是整个舞台
+- [张炘炀的问题在于父母认为他是神童，又认定自己更高明](http://mp.weixin.qq.com/s?__biz=MzU0MjYwNDU2Mw==&mid=2247512270&idx=1&sn=7962effee00e9400bcfa9fa5a66c407e&chksm=fb1adcb2cc6d55a4b8e446055f8166340ed79384b81f82c207417b70917b2a2dd6bcb888846d#rd)
+    - 时间：2023-09-25
+    - 摘要：神童的父母与神童，都没找到问题的关键
+- [预制菜不是重点，吃什么才是重点](http://mp.weixin.qq.com/s?__biz=MzU0MjYwNDU2Mw==&mid=2247512263&idx=2&sn=84bc0c8e679123750be3da280dcdd910&chksm=fb1adcbbcc6d55ade536813733aa5e055fbedfc0038b1e130a02922efa12154ecb4141870271#rd)
+    - 时间：2023-09-24
+    - 摘要：作为消费者的我们，要做的是什么？
+- [西游记的作者会不会另有其人？](http://mp.weixin.qq.com/s?__biz=MzU0MjYwNDU2Mw==&mid=2247512241&idx=1&sn=96a4ff1621a60bf6765106009ca691a3&chksm=fb1adccdcc6d55db0953ff1357e3de3f93330ba5505fcf168eeeedc86a9d6d72a8625bfa764a#rd)
+    - 时间：2023-09-23
+    - 摘要：你没必要管它谁写的，也许是嘉靖自己写的呢？
+- [花西子幼稚的公开信，说明职场里八成的人都在摸鱼么？](http://mp.weixin.qq.com/s?__biz=MzU0MjYwNDU2Mw==&mid=2247512238&idx=1&sn=5995524437c59e5ecb6aa07337e24350&chksm=fb1adcd2cc6d55c4fda493c40c39ac51870b7426c52f43a77ae0f4795a3b84de327d7a687906#rd)
+    - 时间：2023-09-22
+    - 摘要：你娃儿，还二着呢
 - [一堆人围着高育良老师，难道真的是热爱哲学？](http://mp.weixin.qq.com/s?__biz=MzU0MjYwNDU2Mw==&mid=2247512228&idx=2&sn=00ab3380119616c2ea5c0672421bf6cc&chksm=fb1adcd8cc6d55ce8dda3ccb46b55b267923c79dc1b3146245c53cef5dc4ae919e66724aa504#rd)
     - 时间：2023-09-21
     - 摘要：人不是因为聪明才知道，而是因为知道了才显得聪明
