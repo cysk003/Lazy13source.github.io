@@ -12,7 +12,7 @@
 
 ## 使用方法
 
-1. 在 [Tampermonkey](https://www.tampermonkey.net/) 中安装[这个脚本](https://greasyfork.org/zh-CN/scripts/471188)
+1. 在 [Tampermonkey](https://www.tampermonkey.net/) 中安装[这个脚本](https://greasyfork.org/zh-CN/scripts/450169-weread-scraper)
 2. 在[微信读书网页版](https://weread.qq.com/)选择你想要保存的书籍，通过**开始阅读**按钮浏览到书籍的首页（如：[《永恒的终结》](https://weread.qq.com/web/reader/f6432a905b73c0f64797a8d)），或通过目录选择书中的某一页
 3. 安装本脚本后，访问微信读书书籍详情页，点击**开始爬取**
 4. 等待内容抓取过程结束，结束后脚本将自动保存一份 HTML 文档到本地
