@@ -36,6 +36,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《小马宋·营销实战22讲》
+
+  - 标签：`#商业`，`#营销`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtQxgQwrW2VKibZQ5s476ribzCrPdtMrjYoPJ6z7DXo6L9fAxZiaDzjYHButBMEpthH9y4mCicibC3AsXg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《刘润·商业洞察力30讲》
 
   - 标签：`#商业`，`#经济`
