@@ -10,6 +10,308 @@
 
 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
+## 2023-10-13 更新
+
+ - [龙卷风收音机去广告版本_v4.5.apk](https://www.lanzoui.com/iOaZC1bic3xe)
+
+ - [WinRAR 6.24 简体中文版.zip](https://www.lanzoui.com/imeSy1b9v44b)
+
+ - [导航茉高阶定制语音包提取版.zip](https://www.lanzoui.com/ixJNv1b9uslg)
+
+ - [下厨房 [8.0.2]_无广告.apk](https://www.lanzoui.com/iwEwE1axat9i)
+
+ - [GIF动画制作神器 ScreenToGif 2.39 单文件版x64.zip](https://www.lanzoui.com/iU4t21axa6ta)
+
+ - [小㐓㤅-2.1.7.apk](https://www.lanzoui.com/iSRYq1at18lg)
+
+ - [WiFi钥匙精美版.zip](https://www.lanzoui.com/iSxlV1at0yje)
+
+ - [河马视频去广告xp块.zip](https://www.lanzoui.com/iU14c1ap8lhi)
+
+ - [迅龙视频去广告xp块.zip](https://www.lanzoui.com/iWY9Q1ap8lfg)
+
+ - [抖音官方16.4.9纯净版.apk](https://www.lanzoui.com/itLfS1a4rk1e)
+
+ - [虚拟声音效增强器FxSound v1.1.20.exe](https://www.lanzoui.com/iQDYF1a1etta)
+
+ - [虚拟声音效官方额外预设音效包.rar](https://www.lanzoui.com/iMH071a1ernc)
+
+ - [360清理ProSysCleanPro.rar](https://www.lanzoui.com/iCY3w19kkpqh)
+
+ - [配音神器_2.1.69 解锁会员.apk](https://www.lanzoui.com/iyLgv19e84xa)
+
+ - [华为自带抖音11.1.1.apk](https://www.lanzoui.com/iIPKu19e5iwf)
+
+ - [Adguard v4.2.88-好用的广告过滤.apk](https://www.lanzoui.com/iOdj819bz7xc)
+
+ - [百度网盘(官方体验版)-11.54.2-v8a.apk](https://www.lanzoui.com/i80u61976pkj)
+
+ - [baidu老版本.apk](https://www.lanzoui.com/ifsaR1976m6h)
+
+ - [全球网测_com.cnspeedtest.globalspeed.apk](https://www.lanzoui.com/ixZX21972egf)
+
+ - [小红书32位.apk](https://www.lanzoui.com/itqQv18yxz1i)
+
+ - [维码生成器测试.exe](https://www.lanzoui.com/i0SLv18tu6kf)
+
+ - [显卡检测工具 GPU-Z 2.55.0 简体中文汉化单文件版.exe](https://www.lanzoui.com/ibm6n18ttpha)
+
+ - [一键网络禁用器 v1.1.zip](https://www.lanzoui.com/iuV6H18tti6h)
+
+ - [远程定时关机重启锁屏隐藏自定义锁屏.rar](https://www.lanzoui.com/iGcRs18h4reh)
+
+ - [屏幕录像WinCam-v3.6-x64单文件.exe](https://www.lanzoui.com/ir1io18e16pg)
+
+ - [2345看图王 v10.11.1.10006绿色版.rar](https://www.lanzoui.com/ieJDP18e15bg)
+
+ - [局域网IP地址一键切换工具.rar](https://www.lanzoui.com/iLTkX184jgsh)
+
+ - [WPS Office Pro 13.37.6 官方原版简洁无广告.apk](https://www.lanzoui.com/ibP7V184jdxe)
+
+ - [图去水印工具 Inpaint v10.0 单文件中文版.rar](https://www.lanzoui.com/i97Dw184it4f)
+
+ - [小说_3.4.5.32.zip](https://www.lanzoui.com/ix5d117u1p2h)
+
+ - [一键共享打印机 (1).7z](https://www.lanzoui.com/i288417krm0d)
+
+ - [酷狗概念版_2.4.21.apk](https://www.lanzoui.com/iKSDf17kr79c)
+
+ - [飞鸟听书_2.139.apk](https://www.lanzoui.com/i9v1S17ed3wb)
+
+ - [海尔电视冻结开机广告和系统升级.apk](https://www.lanzoui.com/i1ZZp17bpz7c)
+
+ - [淘宝精简版.apk](https://www.lanzoui.com/iH8Rj1752yxi)
+
+ - [软件屏蔽器 v2.15.0 单文件版.exe](https://www.lanzoui.com/iDhq91752tfa)
+
+ - [软件屏蔽器 v2.15.0 便携版（含更新证书）.zip](https://www.lanzoui.com/iqlSU1752t4j)
+
+ - [开屏跳过-安卓系统的开屏广告自动跳过.apk](https://www.lanzoui.com/iFmGN1752hha)
+
+ - [视频无损剪切 LosslessCut 3.56.0-x64.7z](https://www.lanzoui.com/i4XqV16qej3a)
+
+ - [wps华为鸿蒙3版.apk](https://www.lanzoui.com/iDDQG16qe9if)
+
+ - [小红书v.7.94.0.8dc8337.apk](https://www.lanzoui.com/iOi4d16ewzfe)
+
+ - [蓝奏云盘-3.4.6-x64-win.zip](https://www.lanzoui.com/i00G0167ayyd)
+
+ - [Windows超级管理器 v9.44 单文件版.exe](https://www.lanzoui.com/iWuNW162s82d)
+
+ - [360驱动大师纯净版 2.0.0.1970.exe](https://www.lanzoui.com/iBNM11609q4h)
+
+ - [360驱动大师网卡版 2.0.0.1970.p2.rar](https://www.lanzoui.com/i86NF1609opg)
+
+ - [向日葵控制端3.6.1.exe](https://www.lanzoui.com/iPnN115trmhc)
+
+ - [向日葵控制端3.6.2.exe](https://www.lanzoui.com/iDQEG15trlji)
+
+ - [某狗免VIP下载.rar](https://www.lanzoui.com/i3qwE15qd9za)
+
+ - [wifi变热点-无限中继v2.12.apk](https://www.lanzoui.com/i49a515ne4fi)
+
+ - [多网段IP配置工具.exe](https://www.lanzoui.com/i5qjq15gtvwf)
+
+ - [蜗牛云盘Windows版64位-1.3.4-windows-下载地址.txt](https://www.lanzoul.com/iaAE81bovtna)
+
+ - [腾讯QQ_9.7.17_(29225)_绿色版@Dreamcast.7z](https://www.lanzoul.com/izGsW1bovp2f)
+
+ - [腾讯QQ_9.7.17_(29225)_安装版@Dreamcast.rar](https://www.lanzoul.com/iRn2P1bovo0h)
+
+ - [神鸟电视 3.9.7.apk](https://www.lanzoul.com/iuMCN1bovk5i)
+
+ - [七猫免费小说-去更新版@星辰.apk](https://www.lanzoul.com/iCxwT1bovgrg)
+
+ - [酷我音乐_10.6.0.1-帝落-下载地址.txt](https://www.lanzoul.com/isOqd1bovf3g)
+
+ - [酷我音乐_10.6.0.1(破解版)@暗猎魂殇-下载地址.txt](https://www.lanzoul.com/iN3lw1bovf2f)
+
+ - [抖音 27.3.0_270301-内置小能手2.0.3模块-下载地址.txt](https://www.lanzoul.com/i0eY41boveda)
+
+ - [百度输入法_12.0.4.4@帝落.apk](https://www.lanzoul.com/ir2Q01bovdde)
+
+ - [TVBox_takagen99_20231013-0837.apk](https://www.lanzoul.com/id0xk1bovbdc)
+
+ - [skylark_x64-v4.0.6.7z](https://www.lanzoul.com/ih0Ey1bov9cj)
+
+ - [SD Maid SE_0.14.0-beta0@wushidi.apk](https://www.lanzoul.com/is5Sb1bov3zg)
+
+ - [CapCut v9.5.0 (Premium) English arm8@alien-下载地址.txt](https://www.lanzoul.com/igQ411bov2hc)
+
+ - [AdGuard Ad Blocker v4.3.26 Nightly arm7+arm64 _ed by youarefinished_src.apk](https://www.lanzoul.com/iaC6p1bov0zi)
+
+ - [AdGuard Ad Blocker v4.3.25 Nightly  arm7+arm64 _ed by youarefinished_src.apk](https://www.lanzoul.com/iQpoV1bouzob)
+
+ - [Bili-v7.50.0-patched1.12@BBShow_Mod@wushidi自用版-下载地址.txt](https://www.lanzoul.com/ivWhI1bouwji)
+
+ - [BiliRoaming_1.7.0.apk](https://www.lanzoul.com/izzKg1bour7g)
+
+ - [[LSPatch]Bilibili-HD-1.44.1-b12692150-漫游1.7.0.apk](https://www.lanzoul.com/irWLd1bouqve)
+
+ - [[LSPatch]Bilibili-Blue-7.48.2-b13112851-漫游1.7.0-下载地址.txt](https://www.lanzoul.com/i9lTE1boupgd)
+
+ - [[LSPatch]Bilibili-7.50.0-b13150977-漫游1.7.0-下载地址.txt](https://www.lanzoul.com/iAZ6E1bououb)
+
+ - [Tik-Tok_v31.5.4解锁限制-多语言-含配套插件-下载地址.txt](https://www.lanzoul.com/ibJOk1bloayh)
+
+ - [微博猪手 2.2.6-(251-20231011)xp模块.apk](https://www.lanzoul.com/imm8h1blnm4d)
+
+ - [微博 13.9.5-内置猪手2.2.6-251模块-下载地址.txt](https://www.lanzoul.com/ikwdi1blnm3c)
+
+ - [扫描全能王 Premium 6.50.0@lovedolove-下载地址.txt](https://www.lanzoul.com/iZDrH1blnhfe)
+
+ - [逗音小能手-Xiaoshou_v2.0.3.apk](https://www.lanzoul.com/i1PK81blne9a)
+
+ - [抖音 27.2.0_270201-内置小能手 2.0.3模块-下载地址.txt](https://www.lanzoul.com/izbk81blnbqj)
+
+ - [酷我音乐_10_6_0_0会员版_适配小米原版状态栏_童鞋-下载地址.txt](https://www.lanzoul.com/idlh81bln64h)
+
+ - [酷我音乐 10.6.0.1会员版_可爱的童鞋-下载地址.txt](https://www.lanzoul.com/idxly1bln5zc)
+
+ - [酷我音乐车机版_6.0.1.0(破解修复版)@暗猎魂殇.apk](https://www.lanzoul.com/iBMsz1bln5uh)
+
+ - [酷我音乐HD_8.5.4.2(破解修复版)@暗猎魂殇.apk](https://www.lanzoul.com/iJNRP1bln5da)
+
+ - [云视听极光极速版-202309261931539536_tv_video_12.6.2.30005_android_16126.apk](https://www.lanzoul.com/iP36x1blmzbc)
+
+ - [天翼云盘_6.0.1@wushidi.apk](https://www.lanzoul.com/iWf2g1blmwsb)
+
+ - [秒看直播_v7.8.9_NoAd@黑鹰.apk](https://www.lanzoul.com/iFUXp1blmtrc)
+
+ - [WPS Office_v18.3.2_1471谷歌高级版_辰夕-下载地址.txt](https://www.lanzoul.com/iD3Ig1blmish)
+
+ - [神鸟电视 [3.9.6].apk](https://www.lanzoul.com/iHriy1blmech)
+
+ - [B612咔叽 12.3.10解锁VIP_ZackModz-下载地址.txt](https://www.lanzoul.com/imOrE1blmcdg)
+
+ - [腾讯视频-v11.79.20.0-去广告绿版@zd423.exe](https://www.lanzoul.com/inGCG1bllukf)
+
+ - [多平台商品信息搜索与监控工具 V1.0.rar](https://www.lanzoul.com/imx2s1bllqyf)
+
+ - [爱奇艺(64)-v10.9.0.7326-去广告绿色版@zd423.exe](https://www.lanzoul.com/iv47r1bllitc)
+
+ - [wwe大视界TV-2.4.996.apk](https://www.lanzoul.com/izs501blkwef)
+
+ - [Telegram_Premium[Fix]-v10.1.3@abhi.apk](https://www.lanzoul.com/izUR61blkr0b)
+
+ - [Telegram_Premium[Fix][Anti]-v10.1.3@abhi.apk](https://www.lanzoul.com/iUsr31blkpnc)
+
+ - [Speedtest v5.1.3 arm64 _ed by youarefinished_src.apk](https://www.lanzoul.com/iYTYv1blklhc)
+
+ - [SD Maid v5.6.2 (Premium)@alien.apk](https://www.lanzoul.com/irTgp1blkhri)
+
+ - [hwi_764.zip](https://www.lanzoul.com/iKnHe1blke0d)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.37.apk](https://www.lanzoul.com/iYR6j1blkczg)
+
+ - [DirectX_Repair-v4.3.0.20888标准版.7z](https://www.lanzoul.com/ixO2W1blkb3i)
+
+ - [Chat Smith Ver.3.2.2 Pro解锁版@zhou45.apk](https://www.lanzoul.com/iELmd1blk8qd)
+
+ - [AdGuard Ad Blocker v4.3.24 Nightly arm7+arm64 _ed by youarefinished_src.apk](https://www.lanzoul.com/iRi8P1blk4ha)
+
+ - [AdGuard-4.3.25-Mod@帝落.apk](https://www.lanzoul.com/iOg6W1blk3cj)
+
+ - [影视仓_2.0.4_2_opt.apk](https://www.lanzoul.com/iP5rF1be099a)
+
+ - [影视仓5.0.10_2.apk](https://www.lanzoul.com/iHP8C1be04ne)
+
+ - [影视仓5.0.10_1.apk](https://www.lanzoul.com/iq45C1b9gwza)
+
+ - [影视仓_2.0.4_1_opt.apk](https://www.lanzoul.com/iGsYE1b9gv7g)
+
+ - [bilibilitv1.6.6-repair-v8.0.apk](https://www.lanzoul.com/i4W8s1anobid)
+
+ - [云星日记-TVBox（2023.10.03本地包）.zip](https://www.lanzoul.com/iSNQ21annfxg)
+
+ - [HiBitUninstaller-Portable-3.1.62.zip](https://www.lanzoul.com/iyBfH1a5089e)
+
+ - [影视仓5.0.9_.apk](https://www.lanzoul.com/ibF0g1a2dg8b)
+
+ - [LocalSend-1.11.1-windows-x86-64.zip](https://www.lanzoul.com/iS2by19u0c0d)
+
+ - [LocalSend-1.11.1.apk](https://www.lanzoul.com/izzrJ19u0byb)
+
+ - [影视仓_2.0.3.apk](https://www.lanzoul.com/i7Ybe19d6jti)
+
+ - [云星日记-TVBox（2023.09.16本地包）.zip](https://www.lanzoul.com/ipdW518t6qqh)
+
+ - [云星日记-TVBox（2023.09.05本地包）.zip](https://www.lanzoul.com/iSsmf185o5nc)
+
+ - [影视仓_2.0.2_2_opt.apk](https://www.lanzoul.com/ibURn185o2kb)
+
+ - [影视仓5.0.8.apk](https://www.lanzoul.com/iIR9q185n92j)
+
+ - [影视仓手机版2.0.1.apk](https://www.lanzoul.com/ixwir17j5jda)
+
+ - [影视仓TV版5.0.7_opt.apk](https://www.lanzoul.com/iGf7o17j5h4j)
+
+ - [云星日记-TVBox（2023.08.21本地包）.zip](https://www.lanzoul.com/i65E9163ls3i)
+
+ - [影视仓5.0.6.apk](https://www.lanzoul.com/iGvhU163lrze)
+
+ - [影视仓的3.0.6.apk](https://www.lanzoul.com/ioKOa163lr9i)
+
+ - [影视仓5.0.5.apk](https://www.lanzoul.com/iluCG15tdudc)
+
+ - [PC投屏AirPinPcSetup.rar](https://www.lanzoul.com/iVsho15753cj)
+
+ - [NTV.rar](https://www.lanzoul.com/ilwZh14xyvji)
+
+ - [NTV.apk](https://www.lanzoul.com/iCzyR14xxvng)
+
+ - [IPTV1.0.3.apk](https://www.lanzoul.com/ixh4514u53wb)
+
+ - [Setup64.rar](https://www.lanzoul.com/iqvlY14u53fe)
+
+ - [IPTV1.0.2(自带源EPG).apk](https://www.lanzoul.com/iY4lH14qs4ih)
+
+ - [影视仓手机版1.0.8.apk](https://www.lanzoul.com/iepCd14ncsxc)
+
+ - [IPTV1.0.1.apk](https://www.lanzoul.com/i8QPi14nbudi)
+
+ - [天涯影视20230730（自带源）.apk](https://www.lanzoul.com/iM1CM14kpoaf)
+
+ - [IPTV1.0(自带源和EPG).apk](https://www.lanzoul.com/iDnVq14a93ra)
+
+ - [FastStone Capture 10.2.exe](https://www.lanzoul.com/id1Hk13y5ued)
+
+ - [Inet_Download_Manager_6.41.16.exe](https://www.lanzoul.com/icWAD13y4v6f)
+
+ - [鲁大师单文件版v5.1020.1115.105.exe](https://www.lanzoul.com/ibScc13y1w6d)
+
+ - [业余影视.zip](https://www.lanzoul.com/iwuv813n6wsj)
+
+ - [影视仓V5.0.4_2_opt.apk](https://www.lanzoul.com/i2Yxo13n40xa)
+
+ - [影视仓V3_3.0.35_opt.apk](https://www.lanzoul.com/iGijr13hghlg)
+
+ - [影视仓_1.0.7_opt_107_jiagu_opt.apk](https://www.lanzoul.com/iOEYU13hgh9e)
+
+ - [云星日记-TVBox（2023.07.21本地包）.zip](https://www.lanzoul.com/iJ7rQ13b7xfg)
+
+ - [影视仓tv版5.0.3.apk](https://www.lanzoul.com/iBr8r12tuved)
+
+ - [影视仓_1.0.6.apk](https://www.lanzoul.com/iylUM12tuvaj)
+
+ - [影视仓_1.0.5.apk](https://www.lanzoul.com/inug411s1gra)
+
+ - [影视仓5.0.2.apk](https://www.lanzoul.com/iYSzh11s166j)
+
+ - [TVBOX助手-mobile-1.1.0.apk](https://www.lanzoul.com/izrF410o42uh)
+
+ - [影视仓_1.0.4.apk](https://www.lanzoul.com/i3IzP10mu2qh)
+
+ - [影探τv_v2.1.2最新高级版.apk](https://www.lanzoul.com/iEqBX10hzy2f)
+
+ - [小林子TV_1.2.7.apk](https://www.lanzoul.com/iLuFB1098ysb)
+
+ - [影视仓_1.0.3.apk](https://www.lanzoul.com/iebw40zz5e8d)
+
+ - [布蕾tvbox_1.0.2.apk](https://www.lanzoul.com/ipezr0zz3wab)
+
+ - [影视仓4.0.34.apk](https://www.lanzoul.com/iaIaY0zz3vza)
+
 ## 2023-06-18 更新
 
  - [图工厂PTtup2.6.0.1.exe](https://www.lanzoui.com/ilJaL0z7xiwb)
