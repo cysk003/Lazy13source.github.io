@@ -14,8 +14,6 @@
 
 电脑浏览器访问体验更佳！**左上角支持搜索关键词~**
 
-<i class="fa fa-weixin"></i> [手册使用介绍点这里查看](https://mp.weixin.qq.com/s/WSCQHkw25bb9Vv_3Lu_Mzw)
-
 <details>
   <summary>展开添加小懒微信：lazyhelper</summary>
  <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
@@ -26,7 +24,7 @@
 
 ## 分类栏目
 
-[👍**懒人专属群**介绍](/blog/group)
+### [👍**懒人专属群**介绍](/blog/group)
 
 ### [专属群更新](/blog/record2) | [手册更新](/data/00_更新记录.md)
 
