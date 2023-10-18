@@ -36,6 +36,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《黄碧云·怎样让店铺持续增长》
+
+  - 标签：`#创业`，`#商业`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvdSSDDen4lo6kRfeia6I05TiaNVNZ83kjV9duVqzW0ibicmZaeC9l9juhz86THHWIMW0ztqaWrc5jUZQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《小马宋·营销实战22讲》
 
   - 标签：`#商业`，`#营销`
