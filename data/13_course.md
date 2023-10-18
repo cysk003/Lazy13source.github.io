@@ -42,7 +42,7 @@
 
   - <details>
         <summary>点击展开目录</summary>
-     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvdSSDDen4lo6kRfeia6I05TiaNVNZ83kjV9duVqzW0ibicmZaeC9l9juhz86THHWIMW0ztqaWrc5jUZQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRuM7xbHm8GwXEaILGZwBNmjL7BKqXrgroYddsVYl89tK6oE3x1BJMjQEKsOQGCiabe5kDzofDOwRnQ/640?wx_fmt=jpeg" alt="" width="863" data-width="863" data-height="670"></p>
         </details>
 
 - #### 《小马宋·营销实战22讲》
