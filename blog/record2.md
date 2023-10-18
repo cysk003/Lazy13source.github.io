@@ -18,6 +18,17 @@
 
 ***
 
+- 231018：
+
+  - 更新第40期《财新周刊》
+  - 整理￥99课程《黄碧云·怎样让店铺持续增长》，已加入《[通才计划课程](/data/13_course)》
+  
+- 231017：
+
+  - 群友分享付费文231017江宁知府付费文《混乱的大国时代》
+  - 更新231017懒人生财周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247484861&idx=1&sn=298f3d1ae4e9b536870dde1acf4276a2&chksm=c0ed7e1df79af70b4db2f57d95146ed14ac83fb906b404a414659ba4838ee2e6f87e8069bbd6&token=841560574&lang=zh_CN#rd)
+  - 更新231017生财风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247484861&idx=2&sn=7f859dc9aae126e5a1c82bb3fd56155f&chksm=c0ed7e1df79af70b223b330b1a35aa47edb49122ff0436db9177b8f1cfaf9918cb17fd5a2704&token=841560574&lang=zh_CN#rd)
+  
 - 231016：
 
   - 群友分享政事堂付费文《这一次，总理请了谁》
