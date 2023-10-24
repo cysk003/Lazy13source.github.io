@@ -17,6 +17,8 @@
 >
 > [记忆承载3文章列表](/gzh/xifeng2)点此查看
 
+## 文章列表
+
 - [你以为华为突破的是芯片？](http://mp.weixin.qq.com/s?__biz=MzU0MjYwNDU2Mw==&mid=2247512278&idx=1&sn=29f748c984e9a82ac450dcf74c43bb1f&chksm=fb1adcaacc6d55bc975a18577e992e8b5fe388ba1524579c9ace01347f2b1e9af0f8b1578f7a#rd)
     - 时间：2023-09-27
     - 摘要：最深刻的道理往往都是最朴素的表达
