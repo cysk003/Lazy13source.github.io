@@ -18,147 +18,153 @@
 
 ***
 
+- 231023:
+  - 群友分享付费文《三个季度后，经济稳住了么？（深度解析）》
+  - 231022咩咩说付费文《两个世界》
+  - 231021Caoz付费文《财富密码暗黑版》
+  - 顺便附上之前的Caoz付费文《流量密码暗黑版》
+
 - 231020:
 
   - 群友分享司令付费文《化债与买房》
   - 群友分享231019米糕付费文《北京开宴，拜登落地》
-  - 
-  
+  - 更新第55期《懒人专属群周报》，懒人整理，值得一看！
+
 - 231018：
 
   - 更新第40期《财新周刊》
   - 整理￥99课程《黄碧云·怎样让店铺持续增长》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 231017：
 
   - 群友分享付费文231017江宁知府付费文《混乱的大国时代》
   - 更新231017懒人生财周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247484861&idx=1&sn=298f3d1ae4e9b536870dde1acf4276a2&chksm=c0ed7e1df79af70b4db2f57d95146ed14ac83fb906b404a414659ba4838ee2e6f87e8069bbd6&token=841560574&lang=zh_CN#rd)
   - 更新231017生财风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247484861&idx=2&sn=7f859dc9aae126e5a1c82bb3fd56155f&chksm=c0ed7e1df79af70b223b330b1a35aa47edb49122ff0436db9177b8f1cfaf9918cb17fd5a2704&token=841560574&lang=zh_CN#rd)
-  
+
 - 231016：
 
   - 群友分享政事堂付费文《这一次，总理请了谁》
   - 群友分享付费文《北极鲶鱼的爷爷，许二公子的后台》
   - 群友分享付费文付费文《你对汪小菲的判断，决定了你的认知层级！》
-  
+
 - 231014-101315：
 
   - 周末，小懒也休息一下。公众号继续推文分享~
-  
+
 - 231013：
 
   - 群友分享西风付费文《女怕嫁错郎，男怕不懂行》
-  
+
   - 《财Xin周刊》2023年第39期
-  
+
   - 欧大3980元课：城市分析-深圳篇
-  
+
   - 更新第54期《懒人专属群周报》，转发其他文档到吹水群
-  
+
 - 231011：
 
   - 群友分享司令付费文《没有退路！》，鉴茶院付费文《这本书为什么被禁了两千多年？》，混沌天涯客付费文《许大善人不是爷》，米糕付费文《中东百年未有之大变局》
   - 电子书分享《一本书看透股权架构》
-  
+
 - 231010：
 
   - 更新￥149课程《小马宋·营销实战22讲》，已加入《[通才计划课程](/data/13_course)》
   - 群友分享三篇付费文《麦卡锡被罢免的关键点与影响分析》《后恒大时代债权博弈的一个经典案例》《中东的变数》
   - 群友分享付费文《是谁折断了孩子的翅膀》
-  
+
 - 231009：
 
   - 群友分享付费文《十月必看：通胀带来机会？》
-  
+
 - 231008：
 
   - 合成了一份pdf：《冷门暴利行业一览》一共6册
-  
+
 - 231007：
 
   - 群友分享付费文《A770烧烤撑不起一座城市！》
   - 电子书分享：《生活中的MBA课》
   - 更新第53期《懒人专属群周报》
-  
+
 - 231006：
 
   - 群友分享，司令付费文《传统情感教育的天然缺陷！》
   - 群友分享混沌天涯客付费文《蝴蝶扇了下翅膀》
-  
+
 - 231005：
 
   - 群友分享 猫哥付费文《恒大的谢幕》
   - 群友分享，混沌天涯客付费文《恒大有个歌舞团》
-  
+
 - 231004：
 
   - 更新《财新周刊》第38期
   - 分享得到课程：《刘润商业洞察文集》四册1620页
-  
+
 - 230930-231003：
 
   - 小懒国庆外出
-  
+
 - 230929：
 
   - 更新第52期《懒人专属群周报》
-  
+
 - 230926：
 
   - <details>
     <summary>更新《23092懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtZadSia6RTphlrL3dsiak3doklUMfWCNiavFLKmGqWFbrkpf1Qo9pOOtRjbibVVxF8XNhPQ37PVDWt8w/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230926懒人升財周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtZadSia6RTphlrL3dsiak3doia0NlZrwpjh1YqfSwvIYdCvPic3RVz4zKaibPOWlPE26UaMtULwGtMWcw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230925：
 
   - 更新99课程《刘润·商业洞察力30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 230922：
 
   - 更新第51期的《懒人专属群周报》，都是精选的付费订阅的内容，干货很多~
-  
+
 - 230921：
 
   - 群友分享230921司令付费文《房子、债务与市场！》
-  
+
 - 230920：
 
   - 群友分享付费文《世界上最难受的境地》
-  
+
   - <details>
     <summary>更新《230920懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvW7WHjrEmHia78RbAXiaBBotqyibMwoeT68qhEJgx7dtSOAfbJFT9JNQiaQL2SBCAqMyFvYIjYKib2j1g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《230920懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvW7WHjrEmHia78RbAXiaBBotgaP019erRDhqnucISZVgfAWo5ic6r4vQxdxRopPicoOJJUs5hO8Ql13A/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 230819：
 
   - 更新财xin周刊第37期
   - 更新两份生财专题《适合新手的副业合集》《SEO合集》
-  
+
 - 230918：
 
   - 群友分享西风付费文《你飘了，连这种话题都敢聊了》
-  
+
 - 230915：
 
   - 更新2023《财xin周刊》（更新第24-36期，前面23期也在这里面）
   - 更新第50期《懒人专属群周报》，都是一些付费订阅的内容资讯合集，群友自取
-  
+
 - 230914：
 
   - 新增一份22元付费课程《跟宋宣学开小型餐厅》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 230912：
 
   - <details>
