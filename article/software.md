@@ -2,13 +2,13 @@
 
 [**返回首页**](/README.md)
 
-本系列由脚本自动更新，软件来源虽然可靠，不过小懒没有一一测试。
-
-建议使用浏览器访问，ctrl+f可以快速搜索。
-
-破姐类软件容易失效，失效不补。
-
-建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
+> 本系列由脚本自动更新，软件来源虽然可靠，不过小懒没有一一测试。
+>
+> 建议使用浏览器访问，ctrl+f可以快速搜索。
+>
+> 破姐类软件容易失效，失效不补。
+>
+> 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
 
@@ -30,7 +30,7 @@
 
  - [Mac端跨平台局域网文件传输工具mac-2.0.zip](https://www.lanzoui.com/idKHF1cjlg1g)
 
- - [Windows]跨平台局域网文件传输工具【闪电藤2.0】.zip](https://www.lanzoui.com/iCPlW1cjlf1a)
+ - [Windows跨平台局域网文件传输工具](https://www.lanzoui.com/iCPlW1cjlf1a)
 
  - [安卓端跨平台局域网文件传输工具【闪电藤2.0】2.0.apk](https://www.lanzoui.com/iH8gf1cjle8b)
 
