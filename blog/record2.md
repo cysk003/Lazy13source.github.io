@@ -18,9 +18,19 @@
 
 ***
 
+- 231031：
+
+  - 懒人更新第42期《财新周刊》
+  - 更新231031懒人生财周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=1&sn=89fbf688fe3c85274497baa3bf59e00c&chksm=c0ed7d32f79af4241c025c0dc8a920ad75f265475cab15b80d01e6205a5d45164fdc4ec1958b&token=1034397398&lang=zh_CN#rd)
+  - 更新231031生财风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=2&sn=3b5d7a58324dc49da0c7bc47eed155cb&chksm=c0ed7d32f79af424644d163d181680f4168d8fe0c7aba038f9811e48789dbad254e245fe0863&token=1034397398&lang=zh_CN#rd)
+  
 - 231030:
 
   - 整理￥99课程《薄世宁·医学通识50讲》，已加入《[通才计划课程](/data/13_course)》
+  
+  - 群友分享付费文《中美面临关键抉择？金融战与巴以冲突都走到了十字路口》
+  
+  - 群友分享付费文《新增一万亿国债，“大放水”又要来了？》
   
 - 231029：
 
