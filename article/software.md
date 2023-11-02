@@ -9,6 +9,81 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-02 更新
+
+ - [单文件制作工具 7.0.2.382_x86_x64.zip](https://www.lanzoui.com/iAz2v1dfs67g)
+
+ - [X-plore-Donate-v4.33.30_build_43330-Mod@balatan.apk](https://www.lanzoul.com/ijP591dgv45g)
+
+ - [微博猪手 2.2.6-(252-20231027)-xp模块.apk](https://www.lanzoul.com/ipTEd1dguvli)
+
+ - [微博 13.10.1-内置猪手2.2.6-252模块-下载地址.txt](https://www.lanzoul.com/itXfj1dguvkh)
+
+ - [神鸟电视 3.9.8.apk](https://www.lanzoul.com/ioAX41dguqhe)
+
+ - [酷我音乐 10.6.4.0会员修复版231031_童鞋-下载地址.txt](https://www.lanzoul.com/iEaHS1dgumgj)
+
+ - [酷我音乐 10.6.0.1会员修复版231031_童鞋-下载地址.txt](https://www.lanzoul.com/iQ8sE1dgumfi)
+
+ - [抖音 27.6.0_270600-内置小能手2.0.6模块-下载地址.txt](https://www.lanzoul.com/ivEZ31dguari)
+
+ - [抖音 27.5.0_270501-内置小能手2.0.6模块-下载地址.txt](https://www.lanzoul.com/iul8V1dguapg)
+
+ - [抖音 27.5.0_270500-内置小能手2.0.6模块-下载地址.txt](https://www.lanzoul.com/iAhpD1dguaof)
+
+ - [Speed-test网速测试 5.2.2高级版_0x7d.apk](https://www.lanzoul.com/ijX0l1dgu1sf)
+
+ - [CapCut剪映国际版 9.7.0解锁专业版@[MT签名]-下载地址.txt](https://www.lanzoul.com/i4qaM1dgu15c)
+
+ - [2345看图王 11.0.0.10033 x64去广告绿色版.7z](https://www.lanzoul.com/iOOM51dgtvcd)
+
+ - [知乎(谷歌版)-9.24-v8a.apk](https://www.lanzoul.com/iYoq61dgqtbc)
+
+ - [知乎(谷歌版)-9.24-v8a-with-知了23.10.08.apk](https://www.lanzoul.com/iImY21dgqrze)
+
+ - [淘宝(谷歌版)-10.28.20.33-v87a-下载地址.txt](https://www.lanzoul.com/i1LZc1dgqpmj)
+
+ - [七猫免费小说 7.35@[MT签名].apk](https://www.lanzoul.com/iOa091dgqo9a)
+
+ - [酷我音乐_10.6.5.0_破解版@暗猎魂殇-下载地址.txt](https://www.lanzoul.com/i7nwu1dgqlsb)
+
+ - [抖音9.9.1804官方无广告清爽版.apk](https://www.lanzoul.com/i1xOj1dgqhqf)
+
+ - [X-plore_v4.33.28@balatan.apk](https://www.lanzoul.com/izln01dgqdgb)
+
+ - [WiFi万能钥匙极速版-6.6.3-SVIP-v8a@[MT签名].apk](https://www.lanzoul.com/i2pEF1dgqbwf)
+
+ - [WiFi万能钥匙-4.9.80-SVIP-v8a@[MT签名].apk](https://www.lanzoul.com/iuz9a1dgqaxa)
+
+ - [TVBox_takagen99_20231101-0006.apk](https://www.lanzoul.com/ip38z1dgq8sd)
+
+ - [Speedtest-Premium-5.2.2-v8a-Balatan.apk](https://www.lanzoul.com/iiOiH1dgq6ve)
+
+ - [Nekogram-10.2.2-4071-arm64-v8a.apk](https://www.lanzoul.com/iT0od1dgq3rc)
+
+ - [Google-Play-Store-38.2.19-29-A10 All.apk](https://www.lanzoul.com/ii3MX1dgq20j)
+
+ - [Chatbot_AI_v3.7.5_(375)_Mod@辰夕.apk](https://www.lanzoul.com/iiVgJ1dgpzri)
+
+ - [CCleaner-Pro-6.17.10746-x64-Plus@zd423.7z](https://www.lanzoul.com/iRpsh1dgpxva)
+
+ - [CapCut_v9.7.0_(9700100)_Mod_7c2c0dd7_enc_sign@辰夕-下载地址.txt](https://www.lanzoul.com/iQKBv1dgpqsf)
+
+ - [CamScanner v6.52.0.2310250000 ad supported _ed by youarefinished_src-下载地址.txt](https://www.lanzoul.com/iOpbf1dgpk4f)
+
+ - [CamScanner v6.52.0.2310250000 Offline _ed by youarefinished_src-下载地址.txt](https://www.lanzoul.com/izrBH1dgpk2d)
+
+ - [CamScanner v6.52.0.2310250000 Clean _ed by youarefinished_src-下载地址.txt](https://www.lanzoul.com/iLF1a1dgpk1c)
+
+ - [360ChromeX-22.1.1019.64-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/iZCqF1dgp50b)
+
+ - [360SE-15.1.1284.64-Stable-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/ibSld1dgp4za)
+
+ - [99手游加速_1.4.4@[MT签名].apk](https://www.lanzoul.com/iQ95z1dgp0ub)
+
+ - [[LSPatch]Bilibili-7.53.0-b13314961-漫游1.7.0-下载地址.txt](https://www.lanzoul.com/iQzfE1dgoz7c)
+
+
 ## 2023-11-01 更新
 
  - [百度网盘(官方体验版)-11.60.3-v8a.apk](https://www.lanzoui.com/iO8Y41d96vlc)
