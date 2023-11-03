@@ -9,6 +9,15 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-03 更新
+
+ - [学生考试分数分析工具.7z](https://www.lanzoui.com/itkpo1djg2ob)
+
+ - [经典全能影音播放器 MPC-HC 2.1.0.2.1.0.zip](https://www.lanzoui.com/iYplY1djfvmh)
+
+ - [Win10和Win11启用IE浏览器.exe](https://www.lanzoui.com/i4yDO1djfpuj)
+
+
 ## 2023-11-02 更新
 
  - [单文件制作工具 7.0.2.382_x86_x64.zip](https://www.lanzoui.com/iAz2v1dfs67g)
