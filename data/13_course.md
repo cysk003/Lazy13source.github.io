@@ -592,7 +592,14 @@
 
 - 本系列均已整理，这里只是目录，文档下载地址在**懒人专属群** Q群公告的《通才计划》！
 
-- #### 仝卿·营养科学20讲
+- #### 《薄世宁·健康通识30讲》
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRvum7nn6um0C5giaVpOptT08W3LHQSFnwsIfaIXdia9iatCnTVZsdrRUhBibnaZOTQEeQSPVeib8UstnOw/640?wx_fmt=jpeg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
+- #### 《仝卿·营养科学20讲》
 
   - <details>
         <summary>点击展开目录</summary>

@@ -9,7 +9,7 @@
 
 ***
 
-<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费365 ，付费进群~</summary>
+<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费379 ，付费进群~</summary>
 <P>
     扫码添加懒人咨询
 </P>
@@ -18,6 +18,49 @@
 
 ***
 
+- 231103：
+
+  - 更新《懒人专属群周报》（第57期）
+  
+  - 231031司令付费文《如果你是哈马斯指挥官如何布防》
+  
+  - 231103付费文《那些新闻不会给你讲的东西》
+  
+  - 231103局外人视界付费文《十一月必看：高峰会谈有机会》
+  
+- 231102：
+
+  - 23110中政事堂付费文《央经济工作会议的大变革（上）》
+  
+  - 231025万叔付费文《既然每天只有24小时，怎么做才能赚到更多的钱？》
+  
+  - 231101卢克文星球《新一轮缅北冲突，对中国影响几何？》
+  
+- 231101：
+
+  - 231028红尘之眼付费文《新房改，180度大转弯》
+  - 欧大365元课程：上海楼市分析
+  - 230820付费文《为什么轻易不要加盟店》
+  - 230819付费文《小生意的做法，希望对想创业的有用》
+  
+- 231031：
+
+  - 懒人更新第42期《财新周刊》
+  - 更新231031懒人生财周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=1&sn=89fbf688fe3c85274497baa3bf59e00c&chksm=c0ed7d32f79af4241c025c0dc8a920ad75f265475cab15b80d01e6205a5d45164fdc4ec1958b&token=1034397398&lang=zh_CN#rd)
+  - 更新231031生财风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=2&sn=3b5d7a58324dc49da0c7bc47eed155cb&chksm=c0ed7d32f79af424644d163d181680f4168d8fe0c7aba038f9811e48789dbad254e245fe0863&token=1034397398&lang=zh_CN#rd)
+  
+- 231030:
+
+  - 整理￥99课程《薄世宁·医学通识50讲》，已加入《[通才计划课程](/data/13_course)》
+  
+  - 群友分享付费文《中美面临关键抉择？金融战与巴以冲突都走到了十字路口》
+  
+  - 群友分享付费文《新增一万亿国债，“大放水”又要来了？》
+  
+- 231029：
+
+  - 群友分享付费文《我知道你们这几天最想让我聊什么，我也知道什么不能聊》
+  
 - 231027:
 
   - 更新第56期《懒人专属群周报》
