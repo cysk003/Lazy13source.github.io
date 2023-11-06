@@ -35,32 +35,34 @@
 
 ## 常用站点
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65435c602f1e9.png" alt="Image" width="20" height="20">[微信文件传输助手](https://filehelper.weixin.qq.com/)   
--  <img src="https://dh.ghxi.com/upload/icon/2023/11/02/e8d68192c370336ca30593260a417f72.ico" alt="Image" width="20" height="20">[探索兔](https://www.tansuotu.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65435c602f1e9.png" alt="Image" width="20" height="20">[微信文件传输助手](https://filehelper.weixin.qq.com/)  (传文件，胜在方便)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/03/15a6d7ad26bdfd2d91d29701fca76076.png" alt="Image" width="20" height="20">[虫洞文件传输](https://wormhole.app/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/e8d68192c370336ca30593260a417f72.ico" alt="Image" width="20" height="20">[探索兔](https://www.tansuotu.com/)  (发现好工具，搜索官网、软件、在线工具)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/01/65422667de58a.jpg" alt="Image" width="20" height="20">[QQ邮箱](https://mail.qq.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/03/15a6d7ad26bdfd2d91d29701fca76076.png" alt="Image" width="20" height="20">[虫洞文件传输](https://wormhole.app/)  (文件最大可达10G)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/81b846dc349016d143c17f2f66ef88ab.png" alt="Image" width="20" height="20">[哔哩哔哩](https://www.bilibili.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/01/65422667de58a.jpg" alt="Image" width="20" height="20">[QQ邮箱](https://mail.qq.com/)  (访问的你QQ邮箱)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fc78c91ac.jpg" alt="Image" width="20" height="20">[草料二维码](https://cli.im/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/81b846dc349016d143c17f2f66ef88ab.png" alt="Image" width="20" height="20">[哔哩哔哩](https://www.bilibili.com/)  (国内知名的视频弹幕网站)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6543051e2dce8.png" alt="Image" width="20" height="20">[B站视频解析下载](https://www.jijidown.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fc78c91ac.jpg" alt="Image" width="20" height="20">[草料二维码](https://cli.im/)  (快速制作和解析二维码)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/342cea3f6a00be1504c95025b6020646.x-icon" alt="Image" width="20" height="20">[磁种转换](http://www.hibt.net)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6543051e2dce8.png" alt="Image" width="20" height="20">[B站视频解析下载](https://www.jijidown.com/)  (用来解析B站的视频)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/3b055c6202008e2d78801f9e71401cfa.vnd.microsoft.icon" alt="Image" width="20" height="20">[在线处理图片](https://imagestool.com/zh_CN/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/342cea3f6a00be1504c95025b6020646.x-icon" alt="Image" width="20" height="20">[磁种转换](http://www.hibt.net)  (磁力链接神器)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/b91c11752b79a0a937e1ec03e9a26298.png" alt="Image" width="20" height="20">[实时汇率查询](https://www.xe.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/3b055c6202008e2d78801f9e71401cfa.vnd.microsoft.icon" alt="Image" width="20" height="20">[在线处理图片](https://imagestool.com/zh_CN/)  (功能多，免费图片编辑)
+
+
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/b91c11752b79a0a937e1ec03e9a26298.png" alt="Image" width="20" height="20">[实时汇率查询](https://www.xe.com/)  (了解全球汇率)
 
 [🔙返回目录](#目录)
 
@@ -69,118 +71,118 @@
 ## 科技新闻
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/2d7e14968a22f38325347899456fb48e.ico" alt="Image" width="20" height="20">[IT之家](https://www.ithome.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/2d7e14968a22f38325347899456fb48e.ico" alt="Image" width="20" height="20">[IT之家](https://www.ithome.com/)  (国内顶尖的科技媒体)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654349b72df86.webp" alt="Image" width="20" height="20">[快科技](http://www.mydrivers.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654349b72df86.webp" alt="Image" width="20" height="20">[快科技](http://www.mydrivers.com/)  (科技改变未来)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654349f898468.jpg" alt="Image" width="20" height="20">[蓝点网](https://www.landiannews.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654349f898468.jpg" alt="Image" width="20" height="20">[蓝点网](https://www.landiannews.com/)  (给你感兴趣的内容)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/8ed770f808c22be68edf4a158b55c480.ico" alt="Image" width="20" height="20">[微博热点](https://www.wrd.cn/login.shtml)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/8ed770f808c22be68edf4a158b55c480.ico" alt="Image" width="20" height="20">[微博热点](https://www.wrd.cn/login.shtml)  (新浪旗下的新闻媒体)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/277b5b3f9fd3eaf824a8728cc3920609.svg" alt="Image" width="20" height="20">[新浪科技](https://tech.sina.com.cn/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/277b5b3f9fd3eaf824a8728cc3920609.svg" alt="Image" width="20" height="20">[新浪科技](https://tech.sina.com.cn/)  (新浪旗下的科技媒体)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fdca282ff.webp" alt="Image" width="20" height="20">[极客公园](http://events.geekpark.net/videos)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fdca282ff.webp" alt="Image" width="20" height="20">[极客公园](http://events.geekpark.net/videos)  (观察科技前线)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/3dcd18869ef51c402d418ed70dffc76b.ico" alt="Image" width="20" height="20">[数字尾巴](https://www.dgtle.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/3dcd18869ef51c402d418ed70dffc76b.ico" alt="Image" width="20" height="20">[数字尾巴](https://www.dgtle.com/)  (分享美好数字生活)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/7987d781047a7efd1a53b4b0d3e9ff4f.x-icon" alt="Image" width="20" height="20">[SegmentFault](https://segmentfault.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/7987d781047a7efd1a53b4b0d3e9ff4f.x-icon" alt="Image" width="20" height="20">[SegmentFault](https://segmentfault.com/)  (互联网技术社区)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fcf7835cf.jpg" alt="Image" width="20" height="20">[量子位](https://www.qbitai.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fcf7835cf.jpg" alt="Image" width="20" height="20">[量子位](https://www.qbitai.com/)  (追踪人工智能新趋势)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fd976fb77.jpg" alt="Image" width="20" height="20">[ZAKER](http://www.myzaker.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fd976fb77.jpg" alt="Image" width="20" height="20">[ZAKER](http://www.myzaker.com/)  (头部科技新闻媒体)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654346a4082c6.webp" alt="Image" width="20" height="20">[雷峰网](https://www.leiphone.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654346a4082c6.webp" alt="Image" width="20" height="20">[雷峰网](https://www.leiphone.com/)  (读懂智能&未来)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654300e420d36.jpg" alt="Image" width="20" height="20">[DoNews](https://www.donews.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654300e420d36.jpg" alt="Image" width="20" height="20">[DoNews](https://www.donews.com/)  (创新无边界)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/da9a227d42d36bba25f6d664a973d415.x-icon" alt="Image" width="20" height="20">[爱范儿](https://www.ifanr.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/da9a227d42d36bba25f6d664a973d415.x-icon" alt="Image" width="20" height="20">[爱范儿](https://www.ifanr.com/)  (让未来触手可及)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/a99527ebb0a14ae741d2186055e60b80.png" alt="Image" width="20" height="20">[ 创造者日报](https://old.creatorsdaily.com/posts)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/a99527ebb0a14ae741d2186055e60b80.png" alt="Image" width="20" height="20">[ 创造者日报](https://old.creatorsdaily.com/posts)  (互联网新思维)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/a279f796685d3f163e628e503d0f9d96.ico" alt="Image" width="20" height="20">[站长之家](http://www.chinaz.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/a279f796685d3f163e628e503d0f9d96.ico" alt="Image" width="20" height="20">[站长之家](http://www.chinaz.com/)  (老牌的互联网媒体)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fe8870f61.jpg" alt="Image" width="20" height="20">[36氪](https://www.36kr.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6542fe8870f61.jpg" alt="Image" width="20" height="20">[36氪](https://www.36kr.com/)  (让一部分人先看到未来)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6543474d50f3e.jpg" alt="Image" width="20" height="20">[凤凰网科技](https://tech.ifeng.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6543474d50f3e.jpg" alt="Image" width="20" height="20">[凤凰网科技](https://tech.ifeng.com/)  (直击真相的新闻媒体)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/d1db547fffd705e0f95ad256aca52ba1.x-icon" alt="Image" width="20" height="20">[钛媒体](https://www.tmtpost.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/d1db547fffd705e0f95ad256aca52ba1.x-icon" alt="Image" width="20" height="20">[钛媒体](https://www.tmtpost.com/)  (专业无止境)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/99c13e5fbdcb441ccd8e6f5957da8286.png" alt="Image" width="20" height="20">[稀土掘金](https://juejin.cn/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/99c13e5fbdcb441ccd8e6f5957da8286.png" alt="Image" width="20" height="20">[稀土掘金](https://juejin.cn/)  (开发者的技术社区)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6542ff47cc8a8.webp" alt="Image" width="20" height="20">[电脑报](http://www.icpcw.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6542ff47cc8a8.webp" alt="Image" width="20" height="20">[电脑报](http://www.icpcw.com/)  (老牌科技报刊网站)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/d96625a78d40088942faf4c418ef82bb.x-icon" alt="Image" width="20" height="20">[树莓派实验室](http://shumeipai.nxez.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/d96625a78d40088942faf4c418ef82bb.x-icon" alt="Image" width="20" height="20">[树莓派实验室](http://shumeipai.nxez.com/)  (关于树莓派的一切)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/edfe78f967d499b1f42d203bbba01fe1.vnd.microsoft.icon" alt="Image" width="20" height="20">[51CTO](http://www.51cto.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/edfe78f967d499b1f42d203bbba01fe1.vnd.microsoft.icon" alt="Image" width="20" height="20">[51CTO](http://www.51cto.com/)  (技术成就梦想)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/235953a710c3381522c220d80215d027.x-icon" alt="Image" width="20" height="20">[与非网](http://www.eefocus.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/01/235953a710c3381522c220d80215d027.x-icon" alt="Image" width="20" height="20">[与非网](http://www.eefocus.com/)  (了解电子产业新动向)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6d9ffb576679a50a8044e53a8f9d3bd7.png" alt="Image" width="20" height="20">[投影之窗](http://www.projector-window.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6d9ffb576679a50a8044e53a8f9d3bd7.png" alt="Image" width="20" height="20">[投影之窗](http://www.projector-window.com/)  (投影技术论坛)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654307a482b81.jpg" alt="Image" width="20" height="20">[科客](http://www.keke289.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654307a482b81.jpg" alt="Image" width="20" height="20">[科客](http://www.keke289.com/)  (有主见的科技新闻)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65430ae690b39.jpg" alt="Image" width="20" height="20">[Solidot](http://www.solidot.org/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65430ae690b39.jpg" alt="Image" width="20" height="20">[Solidot](http://www.solidot.org/)  (非常多的有趣新闻)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65430818a2aed.png" alt="Image" width="20" height="20">[黑基网](http://www.hackbase.com/index.php)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65430818a2aed.png" alt="Image" width="20" height="20">[黑基网](http://www.hackbase.com/index.php)  (技术型科技新闻)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654307dd42e25.webp" alt="Image" width="20" height="20">[人人都是产品经理](https://www.woshipm.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654307dd42e25.webp" alt="Image" width="20" height="20">[人人都是产品经理](https://www.woshipm.com/)  (互联网产品社区)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6543001fad0a3.png" alt="Image" width="20" height="20">[抽屉](https://dig.chouti.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6543001fad0a3.png" alt="Image" width="20" height="20">[抽屉](https://dig.chouti.com/)  (追踪热点，看新鲜事儿)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654306206d83d.webp" alt="Image" width="20" height="20">[电子工程世界](http://www.eeworld.com.cn/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654306206d83d.webp" alt="Image" width="20" height="20">[电子工程世界](http://www.eeworld.com.cn/)  (关于电子工程的论坛)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6543003db573e.png" alt="Image" width="20" height="20">[热榜](https://tophub.today/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6543003db573e.png" alt="Image" width="20" height="20">[热榜](https://tophub.today/)  (全览所有新鲜事儿)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6eff5e139f858adae9562e13307c942e.ico" alt="Image" width="20" height="20">[影音中国](https://www.hdavchina.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6eff5e139f858adae9562e13307c942e.ico" alt="Image" width="20" height="20">[影音中国](https://www.hdavchina.com/)  (视频技术发展论坛)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/5bdad49a482fb481b83805f470dc592b.png" alt="Image" width="20" height="20">[发现个人博客](https://bf.zzxworld.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/5bdad49a482fb481b83805f470dc592b.png" alt="Image" width="20" height="20">[发现个人博客](https://bf.zzxworld.com/)  (苏清明大佬的技术博客)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65430939d3770.jpg" alt="Image" width="20" height="20">[CSDN](http://www.csdn.net/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65430939d3770.jpg" alt="Image" width="20" height="20">[CSDN](http://www.csdn.net/)  (一亿技术人的学习基地)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/70de1b89052f3baae9baa634f0848c9f.ico" alt="Image" width="20" height="20">[第三媒体](http://www.thethirdmedia.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/70de1b89052f3baae9baa634f0848c9f.ico" alt="Image" width="20" height="20">[第三媒体](http://www.thethirdmedia.com/)  (一个年代久远的数码论坛)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/20fd39899e0f46e45151892fccd5aefd.vnd.microsoft.icon" alt="Image" width="20" height="20">[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/20fd39899e0f46e45151892fccd5aefd.vnd.microsoft.icon" alt="Image" width="20" height="20">[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)  (阮一峰大佬的博客)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/db5927c7824c9b0a621081b4d79059b3.png" alt="Image" width="20" height="20">[标志情报局](https://www.logonews.cn/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/db5927c7824c9b0a621081b4d79059b3.png" alt="Image" width="20" height="20">[标志情报局](https://www.logonews.cn/)  (哪个公司或者产品又换LOGO了)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65434701bd120.webp" alt="Image" width="20" height="20">[雷科技](https://www.leikeji.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65434701bd120.webp" alt="Image" width="20" height="20">[雷科技](https://www.leikeji.com/)  (专业“硬”科技)
 
 [🔙返回目录](#目录)
 
@@ -189,31 +191,31 @@
 ## 搜索引擎
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654305a2ba83a.webp" alt="Image" width="20" height="20">[文津搜索](http://find.nlc.cn/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654305a2ba83a.webp" alt="Image" width="20" height="20">[文津搜索](http://find.nlc.cn/)  (国家图书馆下的搜索工具)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654301c1b7e99.webp" alt="Image" width="20" height="20">[Bing](https://cn.bing.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654301c1b7e99.webp" alt="Image" width="20" height="20">[Bing](https://cn.bing.com/)  (微软家的搜索利器)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6745d4b859002cc571a7bd993747bd44.png" alt="Image" width="20" height="20">[Yandex](https://yandex.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6745d4b859002cc571a7bd993747bd44.png" alt="Image" width="20" height="20">[Yandex](https://yandex.com/)  (不要用来搜索奇怪的东西)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/4c249facf4e9758f178e2a527c4eba1a.ico" alt="Image" width="20" height="20">[WolframAlpha](https://www.wolframalpha.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/4c249facf4e9758f178e2a527c4eba1a.ico" alt="Image" width="20" height="20">[WolframAlpha](https://www.wolframalpha.com/)  (数学搜索引擎)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6542ffdcf2a36.png" alt="Image" width="20" height="20">[DuckDuckGo](https://duckduckgo.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6542ffdcf2a36.png" alt="Image" width="20" height="20">[DuckDuckGo](https://duckduckgo.com/)  (保护你的隐私)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65430de38fd24.png" alt="Image" width="20" height="20">[Qwant](https://www.qwant.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65430de38fd24.png" alt="Image" width="20" height="20">[Qwant](https://www.qwant.com/)  (一个法国的搜索引擎)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/0ba340219be23dfef0dc559f12a2dc1b.ico" alt="Image" width="20" height="20">[NAVER](https://www.naver.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/0ba340219be23dfef0dc559f12a2dc1b.ico" alt="Image" width="20" height="20">[NAVER](https://www.naver.com/)  (棒棒的搜索工具)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65430292c8b59.png" alt="Image" width="20" height="20">[快搜](https://search.chongbuluo.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65430292c8b59.png" alt="Image" width="20" height="20">[快搜](https://search.chongbuluo.com/)  (聚合了众多搜索的-元搜索工具)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/006d730809dd7a1e440933b87c4c9605.png" alt="Image" width="20" height="20">[企查查](https://www.qcc.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/006d730809dd7a1e440933b87c4c9605.png" alt="Image" width="20" height="20">[企查查](https://www.qcc.com/)  (查询企业信息)
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/ac3dcc6ccc66ffd3722a6abedbbfcecf.x-icon" alt="Image" width="20" height="20">[西田图像SITAPIX](https://www.sitapix.com/)
@@ -222,16 +224,16 @@
 - <img src="https://dh.ghxi.com/upload/2023/11/01/f604d94dc51441c6fabd37ca22fe43aapng" alt="Image" width="20" height="20">[古籍搜索](https://www.gujiguan.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/a90a52b1982b22a91635093e80517eff.x-icon" alt="Image" width="20" height="20">[一起搜](http://www.17so.cn/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/a90a52b1982b22a91635093e80517eff.x-icon" alt="Image" width="20" height="20">[一起搜](http://www.17so.cn/)  (一个顶10+个)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654302c4dafd7.png" alt="Image" width="20" height="20">[盘么么](http://www.panmeme.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654302c4dafd7.png" alt="Image" width="20" height="20">[盘么么](http://www.panmeme.com/)  (网盘+软件搜索)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654302e7085e6.png" alt="Image" width="20" height="20">[V盘搜](http://www.vpansou.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654302e7085e6.png" alt="Image" width="20" height="20">[V盘搜](http://www.vpansou.com/)  (每天都在更新的资源站点)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/0afd23fad551e7f7239231029123de37.ico" alt="Image" width="20" height="20">[无讼案例](https://www.itslaw.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/0afd23fad551e7f7239231029123de37.ico" alt="Image" width="20" height="20">[无讼案例](https://www.itslaw.com/)  (查查致富方法)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/01/bf6f5a5cd9646300e9b7dd2b64c4b28cpng" alt="Image" width="20" height="20">[万方数据知识服务平台](http://c.wanfangdata.com.cn/thesis)
@@ -240,16 +242,16 @@
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/fb680d9d697e1ac875bfaec70bce345a.ico" alt="Image" width="20" height="20">[Glgoo 学术搜索](https://scholar.xiayige.org/)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/03/6544a17609ced.png" alt="Image" width="20" height="20">[AIbase - 智能匹配AI](https://top.aibase.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/03/6544a17609ced.png" alt="Image" width="20" height="20">[AIbase - 智能匹配AI](https://top.aibase.com/)  (帮你找到想要的AI工具)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/01/65795168038b96732ef420b3652cff2fpng" alt="Image" width="20" height="20">[SooPAT专利搜索](http://www.soopat.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/caf1d19212f9623d028f7669401fba38.png" alt="Image" width="20" height="20">[图片搜索汇聚](https://www.logosc.cn/so/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/caf1d19212f9623d028f7669401fba38.png" alt="Image" width="20" height="20">[图片搜索汇聚](https://www.logosc.cn/so/)  (免费版权图片一键搜索)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/f969abf3ca78743601f6e6c8d19be47b.x-icon" alt="Image" width="20" height="20">[Microsoft数学求解器](https://math.microsoft.com/zh)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/f969abf3ca78743601f6e6c8d19be47b.x-icon" alt="Image" width="20" height="20">[Microsoft数学求解器](https://math.microsoft.com/zh)  (微软家的数学学习工具)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/654347861728b.png" alt="Image" width="20" height="20">[凌风云](https://www.lingfengyun.com/)
@@ -258,7 +260,7 @@
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/2c2e5d72012a3353921d536aa86b85d1.ico" alt="Image" width="20" height="20">[探索兔](https://www.ttyunsou.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/46048784e46c62916ac86746d0253d64.x-icon" alt="Image" width="20" height="20">[百度网盘搜索引擎](http://www.verypan.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/46048784e46c62916ac86746d0253d64.x-icon" alt="Image" width="20" height="20">[百度网盘搜索引擎](http://www.verypan.com/)  (更新速度快，还会清理失效链接)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/65430cba90c2b.png" alt="Image" width="20" height="20">[小白盘](https://www.xiaobaipan.com/)
@@ -276,10 +278,10 @@
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/3e71af10a006ff4ffc9ad2c599ffa23c.x-icon" alt="Image" width="20" height="20">[西边云](http://www.xibianyun.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/01/fe3ae37e6d67db1ef3df06eb4af2c8e5png" alt="Image" width="20" height="20">[无忧文档](https://www.51wendang.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/01/fe3ae37e6d67db1ef3df06eb4af2c8e5png" alt="Image" width="20" height="20">[无忧文档](https://www.51wendang.com/)  (文档搜索与下载)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654304a5335ca.png" alt="Image" width="20" height="20">[问答库](https://www.asklib.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654304a5335ca.png" alt="Image" width="20" height="20">[问答库](https://www.asklib.com/)  (试题答案解析)
 
 [🔙返回目录](#目录)
 
@@ -288,16 +290,16 @@
 ## 以图搜图
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654310c14a151.png" alt="Image" width="20" height="20">[谷歌识图](https://www.google.com.hk/imghp?hl=en&tab=wi)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654310c14a151.png" alt="Image" width="20" height="20">[谷歌识图](https://www.google.com.hk/imghp?hl=en&tab=wi)  (检索的网站范围较广)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/5a86df0e746d7491a7c4654ed48602c0.ico" alt="Image" width="20" height="20">[百度识图](https://image.baidu.com/?fr=shitu)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/5a86df0e746d7491a7c4654ed48602c0.ico" alt="Image" width="20" height="20">[百度识图](https://image.baidu.com/?fr=shitu)  (适合检索国内平台的图片)
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/353680d564ae4e31f32759a10d5ba6f6.x-icon" alt="Image" width="20" height="20">[搜狗识图](https://pic.sogou.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/4301d5bb6d35d40fa650c0945ad40fc3.ico" alt="Image" width="20" height="20">[360识图](http://st.so.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/4301d5bb6d35d40fa650c0945ad40fc3.ico" alt="Image" width="20" height="20">[360识图](http://st.so.com/)  (有些图可以查版权)
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6745d4b859002cc571a7bd993747bd44.png" alt="Image" width="20" height="20">[Yandex Images](https://yandex.com/images/)
@@ -555,7 +557,7 @@
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/3d7886c8fc3b394928cb817f16c6b3a5.ico" alt="Image" width="20" height="20">[Pasted](http://pasted.co/)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/01/7e3df50c258583e32b43ca7106e6675epng" alt="Image" width="20" height="20">[note.ms](https://note.ms/)
+- <img src="https://dh.ghxi.com/upload/2023/11/01/7e3df50c258583e32b43ca7106e6675epng" alt="Image" width="20" height="20">[note.ms](https://note.ms/)  (在线记录你的想法)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/01/26bd5d5dd88b22a0159a696df667d516png" alt="Image" width="20" height="20">[PrivateBin](https://privatebin.net/)
@@ -591,7 +593,7 @@
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/389d8f4926fb145e031108db55a1c15c.x-icon" alt="Image" width="20" height="20">[在线屏幕录制](https://toolwa.com/record/)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654316485a0f1.png" alt="Image" width="20" height="20">[创建坏文件](http://www.xnet.se/fd/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654316485a0f1.png" alt="Image" width="20" height="20">[创建坏文件](http://www.xnet.se/fd/)  (手动制造“垃圾文件”)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/654317e3d68b6.ico" alt="Image" width="20" height="20">[临时短信](http://z-sms.com/)
@@ -612,7 +614,7 @@
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/f644c20314b27af52d96f1d761d3c86e.x-icon" alt="Image" width="20" height="20">[ 孟坤工具箱](http://tool.mkblog.cn/)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/263ecd028f857655fca9a52069d2c203.x-icon" alt="Image" width="20" height="20">[匿名收取文件](http://xzc.cn/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/263ecd028f857655fca9a52069d2c203.x-icon" alt="Image" width="20" height="20">[匿名收取文件 ](http://xzc.cn/) (用来收取小文件)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/01/0cee148ceec50e1e9ca7edbe41172b4bpng" alt="Image" width="20" height="20">[Glyphy](https://www.glyphy.io/)
@@ -723,7 +725,7 @@
 - <img src="https://dh.ghxi.com/upload/2023/11/01/1a8f9654af4680293706bba99fc3c8d1png" alt="Image" width="20" height="20">[ASCII-Generator(图片转ASCII艺术字)](https://ascii-generator.site/)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/3ecc8b7cc3c0d06f5fc46c222763f40c.x-icon" alt="Image" width="20" height="20">[美图秀秀](https://xiuxiu.web.meitu.com/decorate/inpaint/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/3ecc8b7cc3c0d06f5fc46c222763f40c.x-icon" alt="Image" width="20" height="20">[美图秀秀 ](https://xiuxiu.web.meitu.com/decorate/inpaint/) (让你美上加美的修图工具)
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/0bb57cd762a0c853f63910d1d95691aa.png" alt="Image" width="20" height="20">[分享笔记](https://sharenote.app/)
@@ -741,7 +743,7 @@
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/1474176668efea1c410cec4b5c4e6bb5.png" alt="Image" width="20" height="20">[Vector Magic](https://zh.vectormagic.com/?source=giaoshou.com)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/01/4e594871c873fa8cceb96606f9cfdf9cpng" alt="Image" width="20" height="20">[注册过的网站](https://www.reg007.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/01/4e594871c873fa8cceb96606f9cfdf9cpng" alt="Image" width="20" height="20">[注册过的网站](https://www.reg007.com/) (找回注册过的站点)
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/08938790278a595bc46ca246322fa76b.ico" alt="Image" width="20" height="20">[腾讯位置大数据](https://heat.qq.com/index.php)
@@ -762,22 +764,22 @@
 - <img src="https://dh.ghxi.com/upload/2023/11/02/65431591762e2.png" alt="Image" width="20" height="20">[多平台视频解析](https://bilibili.iiilab.com)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/7a1f8e1ac46d6506b06fdc8e2be6930f.svg" alt="Image" width="20" height="20">[元素周期表](https://ptable.com/#性質)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/7a1f8e1ac46d6506b06fdc8e2be6930f.svg" alt="Image" width="20" height="20">[元素周期表](https://ptable.com/#性質)  (一个在线的元素周期表工具)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/55f8dcba3e15af1a79594b93e878a939.png" alt="Image" width="20" height="20">[中午吃什么](https://www.zwcsm.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/55f8dcba3e15af1a79594b93e878a939.png" alt="Image" width="20" height="20">[中午吃什么](https://www.zwcsm.com/)  (不知道吃什么的话就点一下)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65433ea7f00ea.png" alt="Image" width="20" height="20">[公交线路辐射图](https://bus.daibor.com/#/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65433ea7f00ea.png" alt="Image" width="20" height="20">[公交线路辐射图](https://bus.daibor.com/#/)  (查看公交路线)
 
 
-- <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[Gif倒放](https://lab.bangbang93.com/gif-reverse)
+- <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[Gif倒放](https://lab.bangbang93.com/gif-reverse)  (在线完成Gif处理)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/f63ec2082ac4e97dc7fcde75a3bf4d80.png" alt="Image" width="20" height="20">[你的名字](http://xiaosang.net/gushi_namer/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/f63ec2082ac4e97dc7fcde75a3bf4d80.png" alt="Image" width="20" height="20">[你的名字](http://xiaosang.net/gushi_namer/)  (引经据典起名神器)
 
 
-- <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[网名生成器、姓名生成器、名字在线生成器](https://www.qmsjmfb.com/)
+- <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[网名生成器、姓名生成器、名字在线生成器](https://www.qmsjmfb.com/)  (也许能起一个很好的名字)
 
 [🔙返回目录](#目录)
 
@@ -786,28 +788,28 @@
 ## 制图工具
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/3bfcf49c30b7f068434ffcc7a1a48d1e.ico" alt="Image" width="20" height="20">[在线PS](https://www.uupoop.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/3bfcf49c30b7f068434ffcc7a1a48d1e.ico" alt="Image" width="20" height="20">[在线PS](https://www.uupoop.com/)  (在没有PS的电脑上体验PS)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/7830749c957f9e07063d3abd6d92d750.png" alt="Image" width="20" height="20">[最优图像优化](https://zh.recompressor.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/7830749c957f9e07063d3abd6d92d750.png" alt="Image" width="20" height="20">[最优图像优化](https://zh.recompressor.com/)  (自动调优的图片处理工具)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/1474176668efea1c410cec4b5c4e6bb5.png" alt="Image" width="20" height="20">[图片转矢量图](https://zh.vectormagic.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/1474176668efea1c410cec4b5c4e6bb5.png" alt="Image" width="20" height="20">[图片转矢量图](https://zh.vectormagic.com/)  (位图在线转换成真正的 SVG、EPS和PDF 矢量图)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/01/ce128a55817b2d9050b0be62aa7115f7png" alt="Image" width="20" height="20">[无缝拼图](https://tylify.app/?ref=producthunt)
+- <img src="https://dh.ghxi.com/upload/2023/11/01/ce128a55817b2d9050b0be62aa7115f7png" alt="Image" width="20" height="20">[无缝拼图](https://tylify.app/?ref=producthunt)  (制作背景底图)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/01/bc6adde8b7022430aeeb3eb8ea60fd1epng" alt="Image" width="20" height="20">[在线抠图](https://www.remove.bg/zh)
+- <img src="https://dh.ghxi.com/upload/2023/11/01/bc6adde8b7022430aeeb3eb8ea60fd1epng" alt="Image" width="20" height="20">[在线抠图](https://www.remove.bg/zh)  (抠图效果好，适合轻度使用)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/bd4a61f7cd295aa1c3275c85c3d9d274.png" alt="Image" width="20" height="20">[EZGIF](https://ezgif.com/optimize)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/bd4a61f7cd295aa1c3275c85c3d9d274.png" alt="Image" width="20" height="20">[EZGIF](https://ezgif.com/optimize)  (在线免费编辑GIF)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/01/5297a3deca301810058cd5ac8d7c9764png" alt="Image" width="20" height="20">[在线制作键盘图纸](http://www.keyboard-layout-editor.com/#/)
+- <img src="https://dh.ghxi.com/upload/2023/11/01/5297a3deca301810058cd5ac8d7c9764png" alt="Image" width="20" height="20">[在线制作键盘图纸](http://www.keyboard-layout-editor.com/#/)  (制作快捷键示意图)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6ecf75bbae38641ab6aafaa421cee59a.vnd.microsoft.icon" alt="Image" width="20" height="20">[稿定设计](https://www.gaoding.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/6ecf75bbae38641ab6aafaa421cee59a.vnd.microsoft.icon" alt="Image" width="20" height="20">[稿定设计](https://www.gaoding.com/)  (海报与宣传图制作)
 
 
 - <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[表情包制作](http://www.doutula.com/maker)
@@ -921,7 +923,7 @@
 - <img src="https://dh.ghxi.com/upload/2023/11/01/ba4fdf3db32c72792f39c720a76ed725png" alt="Image" width="20" height="20">[iLoveIMG](https://www.iloveimg.com/zh-cn)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/d1a18cb1a8edf3746ca90d0fca6ccbfb.vnd.microsoft.icon" alt="Image" width="20" height="20">[字间浮生](http://z.topurl.cn/z/index.html#/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/d1a18cb1a8edf3746ca90d0fca6ccbfb.vnd.microsoft.icon" alt="Image" width="20" height="20">[字间浮生](http://z.topurl.cn/z/index.html#/)  (输入文字，生成书法作品)
 
 [🔙返回目录](#目录)
 
@@ -933,7 +935,7 @@
 - <img src="https://dh.ghxi.com/upload/icon/2023/10/31/c5d003a5eeb07bfbe455eaba007405b5.x-icon" alt="Image" width="20" height="20">[果核剥壳](https://www.ghxi.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/ad54e0599533402691c1b76e5c0b1153.ico" alt="Image" width="20" height="20">[新趣集](https://xinquji.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/ad54e0599533402691c1b76e5c0b1153.ico" alt="Image" width="20" height="20">[新趣集](https://xinquji.com/)  (发现一些有意思的新产品)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/65433d6882450.png" alt="Image" width="20" height="20">[大眼仔旭](http://www.dayanzai.me/)
@@ -1008,7 +1010,7 @@
 ## 拓展学习
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65436dbfbf330.jpg" alt="Image" width="20" height="20">[Pubscholar-公益学术平台](https://pubscholar.cn)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65436dbfbf330.jpg" alt="Image" width="20" height="20">[Pubscholar-公益学术平台](https://pubscholar.cn) (可检索1.7亿篇科技文献)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/65433f8126873.webp" alt="Image" width="20" height="20">[萌娘百科](https://zh.moegirl.org/Mainpage)
@@ -1203,10 +1205,10 @@
 - <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[流言研究中心](http://www.newsooxx.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65431b1b72bcf.ico" alt="Image" width="20" height="20">[图表用处查询](http://tuzhidian.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65431b1b72bcf.ico" alt="Image" width="20" height="20">[图表用处查询](http://tuzhidian.com/) (一个很全面的图表百科)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/c9cccca999665084551789bad10be3bf.png" alt="Image" width="20" height="20">[中文词汇量测试](https://www.arealme.com/chinese-vocabulary-size-test/cn/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/c9cccca999665084551789bad10be3bf.png" alt="Image" width="20" height="20">[中文词汇量测试](https://www.arealme.com/chinese-vocabulary-size-test/cn/)  (测测你的中文水平)
 
 [🔙返回目录](#目录)
 
@@ -1218,7 +1220,7 @@
 - <img src="https://dh.ghxi.com/upload/2023/11/02/65431d4b58d84.jpg" alt="Image" width="20" height="20">[猫啃网](http://www.maoken.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/36f6e906c211e80363bca903e4b34ba0.ico" alt="Image" width="20" height="20">[新CG儿](https://www.newcger.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/36f6e906c211e80363bca903e4b34ba0.ico" alt="Image" width="20" height="20">[新CG儿](https://www.newcger.com/)  (直接得到资源的百度网盘)
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/cfc984074b70306e98ffe8765cd3c7b1.x-icon" alt="Image" width="20" height="20">[自由字体](https://ziyouziti.com/)
@@ -1485,13 +1487,15 @@
 - <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[文字倒序排列工具](http://www.revfad.com/flip.html)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/4d5f8199b5e2a01c855d45df55c325c1.png" alt="Image" width="20" height="20">[免费样机](https://mockups-design.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/4d5f8199b5e2a01c855d45df55c325c1.png" alt="Image" width="20" height="20">[免费样机](https://mockups-design.com/) 
 
 [🔙返回目录](#目录)
 
 ***
 
 ## 高清壁纸
+
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/06/38a44693687c4ae1ac7e8f3947692921.png" alt="Image" width="20" height="20">[Wallspic](https://wallspic.com/cn)  (数以千计的免费图片)
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/081fc7a411d6d2bd0cd0a4060e0d5070.x-icon" alt="Image" width="20" height="20">[动漫壁纸](https://anime-pictures.net/)
@@ -1632,28 +1636,28 @@
 - <img src="https://dh.ghxi.com/upload/2023/11/02/65431a8bd78f0.ico" alt="Image" width="20" height="20">[卡巴斯基攻击地图](https://cybermap.kaspersky.com/)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65431aa340067.ico" alt="Image" width="20" height="20">[轨道滑行模拟](https://www.linerider.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65431aa340067.ico" alt="Image" width="20" height="20">[轨道滑行模拟](https://www.linerider.com/)  (真实的轨道运动模拟)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/5fee20882eb1b994b59bc655dbb346dd.x-icon" alt="Image" width="20" height="20">[在线俄罗斯方块](http://farter.cn/tetr.js/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/5fee20882eb1b994b59bc655dbb346dd.x-icon" alt="Image" width="20" height="20">[在线俄罗斯方块](http://farter.cn/tetr.js/)  (经典的俄罗斯方块在线玩)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65431ac6aee3e.ico" alt="Image" width="20" height="20">[YORG 塔防游戏](https://yorg.io/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65431ac6aee3e.ico" alt="Image" width="20" height="20">[YORG 塔防游戏](https://yorg.io/)  (在线的塔防游戏)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65431af660e24.ico" alt="Image" width="20" height="20">[小霸王](https://www.yikm.net/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65431af660e24.ico" alt="Image" width="20" height="20">[小霸王](https://www.yikm.net/)  (模拟一台小霸王游戏机)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65433ed611d81.png" alt="Image" width="20" height="20">[首富模拟器](https://lemonjing.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65433ed611d81.png" alt="Image" width="20" height="20">[首富模拟器](https://lemonjing.com/)  (试试当首富的感觉)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/338dc7e8044a31abda121d1a326c28af.x-icon" alt="Image" width="20" height="20">[淘宝评论生成器](https://haoduck.com/demo/tbpl.html)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/338dc7e8044a31abda121d1a326c28af.x-icon" alt="Image" width="20" height="20">[淘宝评论生成器](https://haoduck.com/demo/tbpl.html)  (生成淘宝用户的评论)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/cfaa9be4d5dc7b76883add0a4b10291c.vnd.microsoft.icon" alt="Image" width="20" height="20">[植物大战僵尸](https://pvz.heheda.top/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/cfaa9be4d5dc7b76883add0a4b10291c.vnd.microsoft.icon" alt="Image" width="20" height="20">[植物大战僵尸](https://pvz.heheda.top/)  (在线玩植物大战僵尸)
 
 
-- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/dfe2fd8b2a8ae1a2f4808273e60c3634.ico" alt="Image" width="20" height="20">[随机跳转酷炫页面](https://sharkle.com/)
+- <img src="https://dh.ghxi.com/upload/icon/2023/11/02/dfe2fd8b2a8ae1a2f4808273e60c3634.ico" alt="Image" width="20" height="20">[随机跳转酷炫页面](https://sharkle.com/)  (这是一个很有趣的网站)
 
 [🔙返回目录](#目录)
 
@@ -1662,19 +1666,19 @@
 ## 排行榜单
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/654319671891f.ico" alt="Image" width="20" height="20">[编程语言排行](https://www.tiobe.com/tiobe-index/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/654319671891f.ico" alt="Image" width="20" height="20">[编程语言排行](https://www.tiobe.com/tiobe-index/)  (了解编程语言的热门度)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6543194c07501.ico" alt="Image" width="20" height="20">[CPU天梯图](https://diy.pconline.com.cn/tiantitu/cpu/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6543194c07501.ico" alt="Image" width="20" height="20">[CPU天梯图](https://diy.pconline.com.cn/tiantitu/cpu/)  (查看CPU性能排行)
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/6543193543ce7.ico" alt="Image" width="20" height="20">[世界各国护照效力排名](https://www.passportindex.org/)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/6543190da5959.png" alt="Image" width="20" height="20">[TalkingData](http://mi.talkingdata.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/6543190da5959.png" alt="Image" width="20" height="20">[TalkingData](http://mi.talkingdata.com/)  (移动应用日活排行)
 
 
-- <img src="https://dh.ghxi.com/upload/2023/11/02/65430137910e4.png" alt="Image" width="20" height="20">[StatCounter](http://gs.statcounter.com/)
+- <img src="https://dh.ghxi.com/upload/2023/11/02/65430137910e4.png" alt="Image" width="20" height="20">[StatCounter](http://gs.statcounter.com/)  (显示全球浏览器份额)
 
 [🔙返回目录](#目录)
 
