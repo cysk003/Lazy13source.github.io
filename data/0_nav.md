@@ -6,23 +6,10 @@
 
 ***
 
-<div style="display: flex;">
-   <form action="https://www.baidu.com/s" target="_blank" style="margin-right: 10px;">
-        <input type="text" name="wd" placeholder="Enter search term">
-        <input type="submit" value="百度搜索">
-    </form>
-    <form action="https://www.google.com/search" target="_blank" style="margin-right: 10px;">
-        <input type="text" name="q" placeholder="Enter search term">
-        <input type="submit" value="谷歌搜索">
-    </form>
-    <form action="https://www.cn.bing.com/search" target="_blank">
-        <input type="text" name="q" placeholder="Enter search term">
-        <input type="submit" value="必应搜索">
-    </form></div>
-
-***
-
-<div style="display: flex; justify-content: center; padding: 20px;">     <form action="https://www.google.com/search" target="_blank" style="margin: 0 10px;">         <input type="text" name="q" placeholder="Google search term" style="padding: 5px; width: 200px; border: 2px solid #ccc; border-radius: 4px;">         <input type="submit" value="Google Search" style="padding: 5px 10px; border: none; background-color: #4CAF50; color: white; cursor: pointer; border-radius: 4px;" onmouseover="this.style.backgroundColor='#45a049';" onmouseout="this.style.backgroundColor='#4CAF50';">     </form>      <form action="https://www.baidu.com/s" target="_blank" style="margin: 0 10px;">         <input type="text" name="wd" placeholder="Baidu search term" style="padding: 5px; width: 200px; border: 2px solid #ccc; border-radius: 4px;">         <input type="submit" value="Baidu Search" style="padding: 5px 10px; border: none; background-color: #4CAF50; color: white; cursor: pointer; border-radius: 4px;" onmouseover="this.style.backgroundColor='#45a049';" onmouseout="this.style.backgroundColor='#4CAF50';">     </form>      <form action="https://www.bing.com/search" target="_blank" style="margin: 0 10px;">         <input type="text" name="q" placeholder="Bing search term" style="padding: 5px; width: 200px; border: 2px solid #ccc; border-radius: 4px;">         <input type="submit" value="Bing Search" style="padding: 5px 10px; border: none; background-color: #4CAF50; color: white; cursor: pointer; border-radius: 4px;" onmouseover="this.style.backgroundColor='#45a049';" onmouseout="this.style.backgroundColor='#4CAF50';">     </form> </div>
+<details>
+<summary>点击展开搜索框：</summary>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; width: 100%;">    <form action="https://www.baidu.com/s" target="_blank" style="margin: 10px; display: flex; flex-direction: column; align-items: center;">         <input type="text" name="wd" placeholder="Baidu search term" style="padding: 5px; width: 90%; max-width: 200px; border: 2px solid #ccc; border-radius: 4px;">         <input type="submit" value="百度搜索" style="padding: 5px 10px; border: none; background-color: #4CAF50; color: white; cursor: pointer; border-radius: 4px; margin-top: 10px;" onmouseover="this.style.backgroundColor='#45a049';" onmouseout="this.style.backgroundColor='#4CAF50';">     </form>       <form action="https://www.google.com/search" target="_blank" style="margin: 10px; display: flex; flex-direction: column; align-items: center;">         <input type="text" name="q" placeholder="Google search term" style="padding: 5px; width: 90%; max-width: 200px; border: 2px solid #ccc; border-radius: 4px;">         <input type="submit" value="谷歌搜索" style="padding: 5px 10px; border: none; background-color: #4CAF50; color: white; cursor: pointer; border-radius: 4px; margin-top: 10px;" onmouseover="this.style.backgroundColor='#45a049';" onmouseout="this.style.backgroundColor='#4CAF50';">     </form>      <form action="https://www.cn.bing.com/search" target="_blank" style="margin: 10px; display: flex; flex-direction: column; align-items: center;">         <input type="text" name="q" placeholder="Bing search term" style="padding: 5px; width: 90%; max-width: 200px; border: 2px solid #ccc; border-radius: 4px;">         <input type="submit" value="必应搜索" style="padding: 5px 10px; border: none; background-color: #4CAF50; color: white; cursor: pointer; border-radius: 4px; margin-top: 10px;" onmouseover="this.style.backgroundColor='#45a049';" onmouseout="this.style.backgroundColor='#4CAF50';">     </form> </div>
+</details>
 
 ***
 
