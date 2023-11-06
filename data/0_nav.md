@@ -1,4 +1,10 @@
-# 测试页面
+# 懒人导航
+
+#### [**返回首页**](/README.md)
+
+> 收藏优质好网址~
+
+## 目录
 
 - [常用站点](#常用站点)
 - [科技新闻](#科技新闻)
@@ -46,6 +52,10 @@
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/b91c11752b79a0a937e1ec03e9a26298.png" alt="Image" width="20" height="20">[实时汇率查询](https://www.xe.com/)
+
+[🔙返回目录](#目录)
+
+***
 
 ## 科技新闻
 
@@ -163,6 +173,10 @@
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/65434701bd120.webp" alt="Image" width="20" height="20">[雷科技](https://www.leikeji.com/)
 
+[🔙返回目录](#目录)
+
+***
+
 ## 搜索引擎
 
 
@@ -258,6 +272,10 @@
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/654304a5335ca.png" alt="Image" width="20" height="20">[问答库](https://www.asklib.com/)
 
+[🔙返回目录](#目录)
+
+***
+
 ## 以图搜图
 
 
@@ -310,6 +328,10 @@
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/eba3d9d5eb4560d653309b5514ae8376.ico" alt="Image" width="20" height="20">[链图云](http://www.lianty.com/)
+
+[🔙返回目录](#目录)
+
+***
 
 ## 音乐影视
 
@@ -448,6 +470,10 @@
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/02ca9c1b4ab15d6eac3ba5bdf5974ee6.x-icon" alt="Image" width="20" height="20">[天天静听](http://47.112.23.238/)
 
+[🔙返回目录](#目录)
+
+***
+
 ## 文档处理
 
 
@@ -545,6 +571,10 @@
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/01/c2562f5dc827024b36abeec432bd9706png" alt="Image" width="20" height="20">[Note.ms（在线记事本）](https://note.ms/youquhome)
+
+[🔙返回目录](#目录)
+
+***
 
 ## 在线工具
 
@@ -740,6 +770,10 @@
 
 - <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[网名生成器、姓名生成器、名字在线生成器](https://www.qmsjmfb.com/)
 
+[🔙返回目录](#目录)
+
+***
+
 ## 制图工具
 
 
@@ -880,6 +914,10 @@
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/d1a18cb1a8edf3746ca90d0fca6ccbfb.vnd.microsoft.icon" alt="Image" width="20" height="20">[字间浮生](http://z.topurl.cn/z/index.html#/)
 
+[🔙返回目录](#目录)
+
+***
+
 ## 软件应用
 
 
@@ -953,6 +991,10 @@
 
 
 - <img src="https://dh.ghxi.com/static/index/img/favicon.ico" alt="Image" width="20" height="20">[阿拉伯下载站](https://downloadly.ir/)
+
+[🔙返回目录](#目录)
+
+***
 
 ## 拓展学习
 
@@ -1156,6 +1198,10 @@
 
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/c9cccca999665084551789bad10be3bf.png" alt="Image" width="20" height="20">[中文词汇量测试](https://www.arealme.com/chinese-vocabulary-size-test/cn/)
+
+[🔙返回目录](#目录)
+
+***
 
 ## 综合素材
 
@@ -1592,6 +1638,10 @@
 
 - <img src="https://dh.ghxi.com/upload/icon/2023/11/02/dfe2fd8b2a8ae1a2f4808273e60c3634.ico" alt="Image" width="20" height="20">[随机跳转酷炫页面](https://sharkle.com/)
 
+[🔙返回目录](#目录)
+
+***
+
 ## 排行榜单
 
 
@@ -1608,3 +1658,10 @@
 
 
 - <img src="https://dh.ghxi.com/upload/2023/11/02/65430137910e4.png" alt="Image" width="20" height="20">[StatCounter](http://gs.statcounter.com/)
+
+
+
+***
+
+<figure class="notion-asset-wrapper notion-asset-wrapper-embed notion-block-1c5fa359e4d443798dfa7bc86198900a"><div style="position:relative;display:flex;justify-content:center;align-self:center;width:100%;max-width:100%;flex-direction:column;height:106.99510955810547px"><iframe class="notion-asset-object-fit" src="https://cn.widgetstore.net/view/index.html?q=5b049cc8622189440f31d6307d40e568.41d77edc6507a37202b75520258dcf2d" title="iframe embed" frameborder="0" allowfullscreen="" loading="lazy" scrolling="auto"></iframe></div></figure>
+
