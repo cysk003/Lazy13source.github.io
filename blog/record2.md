@@ -20,6 +20,7 @@
 
 - 231107：
 
+  - 群友分享野心范付费文《改变命运的2种低门槛连接》
   - 专属群更新第43期《财新周刊》
   - 群友分享231105司令付费文《放弃结婚，拿着彩礼去旅行！》
   
@@ -29,7 +30,7 @@
     </details>
   
   - <details>
-    <summary>更新《231107懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《231107懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJOH8J9fbu344DibRxleCm4icPvFAibeQGwlKdfRZLprwVxTYhhJRU165wf7s4ctUcouuyyjX0uJ7U9A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
   
@@ -73,8 +74,8 @@
 - 231031：
 
   - 懒人更新第42期《财新周刊》
-  - 更新231031懒人生财周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=1&sn=89fbf688fe3c85274497baa3bf59e00c&chksm=c0ed7d32f79af4241c025c0dc8a920ad75f265475cab15b80d01e6205a5d45164fdc4ec1958b&token=1034397398&lang=zh_CN#rd)
-  - 更新231031生财风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=2&sn=3b5d7a58324dc49da0c7bc47eed155cb&chksm=c0ed7d32f79af424644d163d181680f4168d8fe0c7aba038f9811e48789dbad254e245fe0863&token=1034397398&lang=zh_CN#rd)
+  - 更新231031懒人赚钱周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=1&sn=89fbf688fe3c85274497baa3bf59e00c&chksm=c0ed7d32f79af4241c025c0dc8a920ad75f265475cab15b80d01e6205a5d45164fdc4ec1958b&token=1034397398&lang=zh_CN#rd)
+  - 更新231031赚钱风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=2&sn=3b5d7a58324dc49da0c7bc47eed155cb&chksm=c0ed7d32f79af424644d163d181680f4168d8fe0c7aba038f9811e48789dbad254e245fe0863&token=1034397398&lang=zh_CN#rd)
   
 - 231030:
 
@@ -133,8 +134,8 @@
 - 231017：
 
   - 群友分享付费文231017江宁知府付费文《混乱的大国时代》
-  - 更新231017懒人生财周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247484861&idx=1&sn=298f3d1ae4e9b536870dde1acf4276a2&chksm=c0ed7e1df79af70b4db2f57d95146ed14ac83fb906b404a414659ba4838ee2e6f87e8069bbd6&token=841560574&lang=zh_CN#rd)
-  - 更新231017生财风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247484861&idx=2&sn=7f859dc9aae126e5a1c82bb3fd56155f&chksm=c0ed7e1df79af70b223b330b1a35aa47edb49122ff0436db9177b8f1cfaf9918cb17fd5a2704&token=841560574&lang=zh_CN#rd)
+  - 更新231017懒人赚钱周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247484861&idx=1&sn=298f3d1ae4e9b536870dde1acf4276a2&chksm=c0ed7e1df79af70b4db2f57d95146ed14ac83fb906b404a414659ba4838ee2e6f87e8069bbd6&token=841560574&lang=zh_CN#rd)
+  - 更新231017赚钱风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247484861&idx=2&sn=7f859dc9aae126e5a1c82bb3fd56155f&chksm=c0ed7e1df79af70b223b330b1a35aa47edb49122ff0436db9177b8f1cfaf9918cb17fd5a2704&token=841560574&lang=zh_CN#rd)
 
 - 231016：
 
@@ -238,14 +239,14 @@
     </details>
 
   - <details>
-    <summary>更新《230920懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230920懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvW7WHjrEmHia78RbAXiaBBotgaP019erRDhqnucISZVgfAWo5ic6r4vQxdxRopPicoOJJUs5hO8Ql13A/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
 - 230819：
 
   - 更新财xin周刊第37期
-  - 更新两份生财专题《适合新手的副业合集》《SEO合集》
+  - 更新两份赚钱专题《适合新手的副业合集》《SEO合集》
 
 - 230918：
 
@@ -263,12 +264,12 @@
 - 230912：
 
   - <details>
-    <summary>更新《230912懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230912懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRum00qVnibdXGiaJQrY4sycea9y6icvOIWa1Y0ngZgu83icr9mQXga8ZxQtTf6W2MiaPCcZxc8VyUIR1NA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230912懒人生财风向标》，点击展开目录：</summary>
+    <summary>更新《230912懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRum00qVnibdXGiaJQrY4syceajF9z6RJR5NZXIQtAauIZHiaUSEibDRAQy1kHVSlOu6iaXCcicSyZboz3dg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -298,12 +299,12 @@
   - 群友分享付费文《九月必看：看多！政策底市场》《未来一年或许更加动荡，如何应对？》《如果一定要爆发新冷战》
 
   - <details>
-    <summary>更新《230905懒人生财风向标》，点击展开目录：</summary>
+    <summary>更新《230905懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvmJevibpukKfQNT4icvhacnPicVicxUl7Az3uLRcCdyadDkFTFZS3qsJShUop3mZFBFKwv7tlgOicrLUg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230905懒人生财风向标》，点击展开目录：</summary>
+    <summary>更新《230905懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvmJevibpukKfQNT4icvhacnPLjpG5kfmLOM9wnolM0xiadk3Qc6KfllyJLnOfwCorubASh1bibPXOEFQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -315,7 +316,7 @@
 
 - 230831:
 
-  - 更新两份生财主题《如何开一家公司-合集》《亚马逊合集》
+  - 更新两份赚钱主题《如何开一家公司-合集》《亚马逊合集》
 
 - 230830:
 
@@ -326,12 +327,12 @@
   - 群友分享付费文《大阴线后的市场展望》
 
   - <details>
-    <summary>更新《230829懒人生财风向标》，点击展开目录：</summary>
+    <summary>更新《230829懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuCZPo6wemqBOh59fIA9dibg2HnAJalnCHqoKyMtIFEiaYKKYqLdegwY7ICddxgTKHzGGrDxHnDVluw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230829懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230829懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuCZPo6wemqBOh59fIA9dibg4OBeEc5LibZsFfbm7pFZtzRk3H9SGl1V3veceicJjdISHaEJJtbqibqVg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -358,12 +359,12 @@
   - 群友分享付费课程《高尿酸医学课》
 
   - <details>
-    <summary>更新《230822懒人生财风向标》，点击展开目录：</summary>
+    <summary>更新《230822懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWWWibVcmM7NzibAsibOUIAOJ0d4KlZWUpULSePzOtVIkRGREjoKY5iaAhJ1ApqdroYfoeP1MbehqMqQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《2308懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《2308懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWWWibVcmM7NzibAsibOUIAOJBcbeAXIIrttreWUsUxYA68U8vRhoraFhxU1FMZlsKL9aZJDP9oAoEw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -381,12 +382,12 @@
 - 230815:
 
   - <details>
-    <summary>更新《230815懒人生财风向标》，点击展开目录：</summary>
+    <summary>更新《230815懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYkxhVzpbEJDkZyp5OZp1ApgH092gr8mIfYFeSqbjcR77HWoJgh8Hw6QBES7L9FuWMI95CQVvDsw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230815懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230815懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYkxhVzpbEJDkZyp5OZp1Afc1EKgOGhVw1mKjrjgAME5F19tFtxjFic95d1FiaL9ib6UOpCqvYiaFgoA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -404,16 +405,16 @@
 - 230808：
 
   - <details>
-    <summary>更新《230808懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230808懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuU7h8GQzA2dFWjYsmZFhOK98Z248Kia0eho7nX784iax1p2ZfuP1xZXrHUP0uYN5Q5fQvwMUIaaMxQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230808懒人生财风向标》，点击展开目录：</summary>
+    <summary>更新《230808懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuU7h8GQzA2dFWjYsmZFhOKKVQQpNkLwXhvza7E8YuLYUsPBdWwaS9YcVO9jItST1z4SdGVTuPwOQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
-  - 更新一份生财主题合集《知识付费合集》
+  - 更新一份赚钱主题合集《知识付费合集》
 
   - 群友分享灏泽神棍付费文《真正金贵的道理，你咋么能指望学校会有本事教给你》
 
@@ -445,12 +446,12 @@
   - 群友分享付费文《如果不能说真话，那也就无所谓正确》，《道家起源：玄！》
 
   - <details>
-    <summary>更新《230801懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230801懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvp5OgPPKyialwElwmkAJqkycicY3At4kRpSBe2HpxzZn6gxKxTdMsJTFicGnCxLmibP1B3OdUf3GRhVA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新生财风向标，点击展开目录：</summary>
+    <summary>更新赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvp5OgPPKyialwElwmkAJqkyf4GSav9jWWoTHyEDbbVrIS4rrFCxT5EIibOTOibeJnDu6Pho55jPTnLQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -476,12 +477,12 @@
   - 群友分享付费文《724政治局会议，吹起反攻的号角》
 
   - <details>
-    <summary>更新生财风向标，点击展开目录：</summary>
+    <summary>更新赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRu48Viay6EXbVrTuExLH10Km9VqHzOGnAQgc2jmvn8q9Cfu29ZIpibibhy19ANGcCEuGlHkXS4ZJ4hkg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230725懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230725懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRu48Viay6EXbVrTuExLH10Kmzj5MqPZABwaFEexKdxgP6n048PLCJVZJGpYLbrWjdfiassyNpreI7ww/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -502,12 +503,12 @@
 - 230718：
 
   - <details>
-    <summary>更新70多条生财风向标，点击展开目录：</summary>
+    <summary>更新70多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuZic4ficSgaolbbM9YibXpM4GcrdHXsgLECc1paqb6dzLB8mAradBBak0cibuXNaBdibB5zPqFeuydkMw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230718懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230718懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuZic4ficSgaolbbM9YibXpM4G2SzibTUySA0wRwRMDt0sZEJVD0gERibSkYvHdUEEcNPcp6bYb9nfxDtg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -529,12 +530,12 @@
   - 群友分享78元付费文《未来的财富在这里》
 
   - <details>
-    <summary>更新《230711懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230711懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsuY90ObVw4UEYY31SgkSnj3AebbaFibic3e1wTeldexh15Ndub6EK2gYm7t25U2dfXpYgOQG5SiabuQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新70多条生财风向标，点击展开目录：</summary>
+    <summary>更新70多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsuY90ObVw4UEYY31SgkSnjP1j4x8bXOr5tTTWAhLUBsMEAI2njCyE4iaNcvwtw69Y2iapfC2AfL21A/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -548,15 +549,15 @@
 
 - 230704：
 
-  - 群友分享《生财大航海实战手册》离线版（助理号朋友圈有备份）
+  - 群友分享《赚钱大航海实战手册》离线版（助理号朋友圈有备份）
 
   - <details>
-    <summary>更新70多条生财风向标，点击展开目录：</summary>
+    <summary>更新70多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRs3yMdm9eOxXxbhWbYSNLpjicbzIxmTcJutJv2bJIicKnF8ymlser4iaNEJzwjDjGJm6REdEmrE0drow/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230704懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230704懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRs3yMdm9eOxXxbhWbYSNLpjQ5a7woNL2rZXyglST8SjT4p0IFhm0K1rjibtvak4G4plwwrdr5nPe8w/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -571,12 +572,12 @@
 - 230627:
 
   - <details>
-    <summary>更新60多条生财风向标，点击展开目录：</summary>
+    <summary>更新60多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuicUXayr7YTJkeibr3Bq8Nq3WBbr2XPHnWUHEx26AU6pdRcLicIZdMK6eotSMz81SmPJqiao9Hvw1Vpg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230627懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230627懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuicUXayr7YTJkeibr3Bq8Nq3jZMj3XJu2QicVTEDQuSBB6aFOJhFf2HnJ4sB6uLKhBicW4aq84MY32hA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -593,12 +594,12 @@
   - 群友分享西风付费文《怎么看即将到来的经济刺激这个大动作？》
 
   - <details>
-    <summary>更新《230620懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230620懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvtCtB0rhbfJAsoyVp0pFibCiboJaY03kaxsO55p5CHG3awicTnM3RY2HQtJlClFerw2nFerBsDkzrAQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <summary>更新50多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvtCtB0rhbfJAsoyVp0pFibCah8HMwlpaDS3jurVVPK5hC7LKlvgTgkeYRmn9ibXRfMwHYQXbbfk5nQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -626,12 +627,12 @@
     </details>
 
   - <details>
-    <summary>更新《230613懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230613懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5ATF9fQMhdJceTXdawyW5ya87rSINKibEhxfzjnQGE1IePKXzJ84Dnxrw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <summary>更新50多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuS5E0Yr4uTLDrUVls0Tx5AibqV9JhpjaTX8RaBDPfiarrkkX5ic7Q6VJtibjO0WptqMSZyE2PVwmRmlA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -659,12 +660,12 @@
 - 230606:
 
   - <details>
-    <summary>更新《230606懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230606懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRupQRSUWRia9Zu9bjsvaUFibIwTCWJUEpicudJ3p3LpHkPCq3IuBIwwQibBNicJicdhZ0cHM2OTE9hAeMLg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新生财风向标，点击展开目录：</summary>
+    <summary>更新赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRupQRSUWRia9Zu9bjsvaUFibIia8qfsibxx4qGxINZLVeMyYqibuHIibxDgJGcMKGvoa4kdullAdMLzibF7g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -693,12 +694,12 @@
     </details>
 
   - <details>
-    <summary>更新《230530懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230530懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRspSePFT27qCvJbdI5JX3ozZBhQ5ofb0u2EDtdaTwREK4TWWhYaEib4sLj4gK38QmVaTPTmbr2IkyA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <summary>更新50多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRspSePFT27qCvJbdI5JX3ozhEDLnrr3Fr6DaiaEETAD6qjxHoHgg05p1UKVbicBZvuR0nXhff2VG6kQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -727,12 +728,12 @@
   - 群友分享司令付费文《X39，错在那里！？》
 
   - <details>
-    <summary>更新50多条生财风向标，点击展开目录：</summary>
+    <summary>更新50多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtz69HxuXUyAEBpiaUvwbjFooiaOa2I9ZovPicezYolbkTricnZejZbJNnrawib8yQ58QIG1BmfM4Xkvvw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230523懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230523懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtz69HxuXUyAEBpiaUvwbjFo5gFWKr00FzgZlIdbqno5sedXMYUfpZYrevGdPgwibJuB6xsETa7urwg/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -758,12 +759,12 @@
 - 230516：
 
   - <details>
-    <summary>更新一百多条生财风向标，点击展开目录：</summary>
+    <summary>更新一百多条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsibOu8ZTDIobpndgpic1JYlvJZO7Ko3b24PamwpW0PSqu2pVuWa8VjRMR8ZHyQpnSicJibKfYMFpKwRw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230516懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230516懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRsibOu8ZTDIobpndgpic1JYlvnBTGOjPstH35Q7ic9V0kHJXvC8QvBmZEu83mt3uFBXbftZRmuBw1CiaQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -780,12 +781,12 @@
 - 230510：
 
   - <details>
-    <summary>更新200+条生财风向标，点击展开目录：</summary>
+    <summary>更新200+条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvMZkfS4yGz3bUMjLKAJ24Y3qxb0mAKe5QsMrtbfSvx7nVrKzez6OqS5YIvicduXLGp0jRJNaVxsYw/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230510懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230510懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvMZkfS4yGz3bUMjLKAJ24YN8pAiaibXGs8QoRibRON3Pem9QBR9gic0qaZjCMDYAQJBt5icaQ6XVvlu5g/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -837,12 +838,12 @@
 - 230418：
 
   - <details>
-    <summary>更新150+条生财风向标，点击展开目录：</summary>
+    <summary>更新150+条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRt4oEWYezdgUsSPfmyT1WlibGctlzYV8dGmFcSKrHiawF48PSuweKjR382UGTxBXndENic3lpOfkzEzQ/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新《230418懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230418懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRt4oEWYezdgUsSPfmyT1Wlibk2U6Co1gLwZ7e9QU2Gcd6HY3zt93j3rCuufAH7vJ1IUPSskY5hSy6Q/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -865,12 +866,12 @@
 - 230411：
 
   - <details>
-    <summary>更新《230411懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230411懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/643507730d2dde577743e5bd.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新170+条生财风向标，点击展开目录：</summary>
+    <summary>更新170+条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/643507710d2dde577743df64.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -885,12 +886,12 @@
 - 230405：
 
   - <details>
-    <summary>更新《230405懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230405懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/642c495da682492fccc9b266.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新200条生财风向标，点击展开目录：</summary>
+    <summary>更新200条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/642c4980a682492fccca31e1.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -900,7 +901,7 @@
 
 - 230401：
 
-  - 整理生财第六期全部精华帖做成pdf，发给群友。
+  - 整理赚钱第六期全部精华帖做成pdf，发给群友。
 
 - 230331：
 
@@ -920,12 +921,12 @@
   - 群友分享一本黑电子书《你不知道的赚钱真相》《普通人改变命运的秘密》《普通人应该如何做副业赚钱》《年入百万，自媒体赚钱秘籍2.0》（**标题起的很高大上，但对于网络上的内容，保持开放，保持自己的判断力~**）
 
   - <details>
-    <summary>更新《230328生财周报》，点击展开目录：</summary>
+    <summary>更新《230328赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/64225282a682492fccf364e6.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新200条生财风向标，点击展开目录：</summary>
+    <summary>更新200条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/64224919a682492fcce5c529.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -938,17 +939,17 @@
   - 更新专属群[通才计划](/data/13_course)
     - 付费课程电子书《阶层固化和流动》
     - 课程电子书《英语自学手册-少数派119元》
-  - 更新生财专栏pdf下载站点（见专属群q群公告）
+  - 更新赚钱专栏pdf下载站点（见专属群q群公告）
 
 - 230321：
 
   - <details>
-    <summary>更新《230321懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230321懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtb1Hwkx8pPG45XSOYvWetG3noHGZ6wSr3uuUQKkOwLS5ZhILADLWm4nkypwAqicPU4M2zFwE3RVyA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新247条生财风向标，点击展开目录：</summary>
+    <summary>更新247条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtb1Hwkx8pPG45XSOYvWetGgyklLVqKx0FsWOn8ICGRxsibk9FR3w8B0bQjogj46lCYuiajN5TtiaJ2w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -982,12 +983,12 @@
   - 群友分享西风付费文《你到底想做教育的消费者？还是教育的受益者？》，西风全部付费文合集见q群公告通才计划。
 
   - <details>
-    <summary>更新《230314懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230314懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuiaTmugYbhB7zM1J7hicYZQNY9f5oWuFrichdPFmGamM3FJhtzTtzEmLfVVECHLVDfnUyearYHhByFQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新155条生财风向标，点击展开目录：</summary>
+    <summary>更新155条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRuiaTmugYbhB7zM1J7hicYZQN5U7fCUL7HeyiaiaaUPsjWhbJfxnHic0NfPAqYgbmEgcbRjFt1yZkuQf4w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1010,18 +1011,18 @@
 - 230307：
 
   - <details>
-    <summary>更新《230307懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230307懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYN7om4teQg2D9u2lE2GoicsR6nhtYZTMU1VOXCPELX52fa7sy0e7KyiaAGWGMsjf0FJZ0vZw18x7A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新169条生财风向标（总1300条），点击展开目录：</summary>
+    <summary>更新169条赚钱风向标（总1300条），点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRvYN7om4teQg2D9u2lE2GoicTMb1OiaT8n0KmGQjDGu3Hib6L3eXoQ4ol29w645VtpThCnbxWZaKyvoQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
 - 230305：
 
-  - 懒人专属群正在整理懒人生财专栏，[点击查看目录](/article/money_col)
+  - 懒人专属群正在整理懒人赚钱专栏，[点击查看目录](/article/money_col)
 
 - 230303：
 
@@ -1029,7 +1030,7 @@
 
 - 230302：
 
-  - 分享《生财有术66个精选项目PDF版》
+  - 分享《赚钱有术66个精选项目PDF版》
 
 - 230301：
 
@@ -1038,12 +1039,12 @@
 - 230228：
 
   - <details>
-    <summary>更新《230228懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230228懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63fda094f144a01007a74cff.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
   - <details>
-    <summary>更新100+条生财风向标，点击展开目录：</summary>
+    <summary>更新100+条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63fd7fc0f144a0100775e1a2.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1062,7 +1063,7 @@
 - 230222：
 
   - <details>
-    <summary>更新《230222懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230222懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63f5c9e0f144a010070f7050.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1087,7 +1088,7 @@
   - 2023-02-12 数据背后的蠢蠢欲动 （股市相关）
 
   - <details>
-    <summary>更新《230221生财风向标》，点击展开目录：</summary>
+    <summary>更新《230221赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63f4432ff144a01007e38c5a.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1098,14 +1099,14 @@
 - 230215:
 
   - <details>
-    <summary>更新《230215懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230215懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63ece73df144a010077f0d31.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
 - 230214:
 
   - <details>
-    <summary>更新160+条生财风向标，点击展开目录：</summary>
+    <summary>更新160+条赚钱风向标，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/mmbiz_png/Rmd3GnW8BRtWgRqiaByMwUxLXbtVzsCraoic6eQ6zfHhPicFichJHGk5G9ztiar6RfyjDRdlVxZtSE6dDaEds7W5glA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1116,13 +1117,13 @@
 - 230208：
 
   - <details>
-    <summary>更新《230208懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230208懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63e379d84757feff3356e7ea.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
 - 230207：
 
-  - 更新生财风向标200+（[公众号免费分享](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647897997&idx=1&sn=093cd9af8562f6e54dcc365c51bde3b5&chksm=f20a09ccc57d80da4a61201472eb7ba97fc5f94438a53dc2e6d346caef7f749b4ff21cf7663b&token=1338422265&lang=zh_CN#rd)），一共700+风向标合集见专属群消息。
+  - 更新赚钱风向标200+（[公众号免费分享](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647897997&idx=1&sn=093cd9af8562f6e54dcc365c51bde3b5&chksm=f20a09ccc57d80da4a61201472eb7ba97fc5f94438a53dc2e6d346caef7f749b4ff21cf7663b&token=1338422265&lang=zh_CN#rd)），一共700+风向标合集见专属群消息。
   - 群友分享付费文《生活重启，股市重启》（不备份）
   - 群友分享司令问答（备份）
   - 群友分享电子书《[大脑操作手册](https://lazyman.lanzoul.com/i1E4T0mun9pa)》
@@ -1156,13 +1157,13 @@
   - 分享《(大树乡谈付费文)放下对过去的执念，把握未来，趋利避害》
 
   - <details>
-    <summary>更新《230203懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230203懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63dc6fac07d5ca7206248997.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
 - 230201：
 
-  - 更新生财风向标180多条，整理分享[通才计划](/data/13_course)的reading2电子书
+  - 更新赚钱风向标180多条，整理分享[通才计划](/data/13_course)的reading2电子书
 
 - 230131：
 
@@ -1190,10 +1191,10 @@
 
 - 230117：
 
-  - 更新《生财风向标》，目前总300条风向标
+  - 更新《赚钱风向标》，目前总300条风向标
 
   - <details>
-    <summary>更新《230117懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230117懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63c65fc9be43e0d30edc184d.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1207,10 +1208,10 @@
 
 - 230110：
 
-  - 更新《生财风向标》，目录重新排版
+  - 更新《赚钱风向标》，目录重新排版
 
   - <details>
-    <summary>更新《230110懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230110懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63bd1de3be43e0d30e7609c3.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1225,14 +1226,14 @@
 
 - 230105：
 
-  - 写了一下午的爬虫，把生财风向标爬到在线文档了。方便后面更新。
+  - 写了一下午的爬虫，把赚钱风向标爬到在线文档了。方便后面更新。
 
 - 230104：
 
   - 群友分享被和谐和付费文《A股新年第一帖：深刻理解A股本质及对策》
 
   - <details>
-    <summary>更新《230104懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《230104懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63b53c1bbe43e0d30ef20870.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1269,7 +1270,7 @@
   - 群友分享 尹香武208元付费文 《地运更新：最低估之城&三重利豪宅》
 
   - <details>
-    <summary>更新《221227懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221227懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://pic.imgdb.cn/item/63ae93f208b68301632d8b75.png" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1296,7 +1297,7 @@
   - 群友分享付费文章《2023，展望》《欧神西塞罗20221219直播总结》《（觉悟社）基本⾯没有变，情绪是暂时的》
 
   - <details>
-    <summary>更新《221220懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221220懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h9a3lmqfk4j30k21g24og.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1304,7 +1305,7 @@
 
   - 群友分享觉悟社内容。
   - 群友分享付费文《（政事堂付费文）22年中央经济工作会议，历史性的资产重估》
-  - 分享生财文档《人生亏钱指南》
+  - 分享赚钱文档《人生亏钱指南》
 
 - 221217-18：
 
@@ -1331,7 +1332,7 @@
   - 群友分享《妖言水浒》三部曲
 
   - <details>
-    <summary>更新《221213懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221213懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h926afk670j30i41x97wh.jpg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1360,7 +1361,7 @@
 - 221206：
 
   - <details>
-    <summary>更新《221206懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221206懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h8tz00l673j30i717u1e5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1391,7 +1392,7 @@
 - 221129：
 
   - <details>
-    <summary>更新《221129懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221129懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h8lzqt8a06j30gd1j7tz0.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1415,7 +1416,7 @@
   - 群友分享财新周刊1028和1030期。
 
   - <details>
-    <summary>更新《221122懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221122懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h8dwjfkqzij30gd1gm1kx.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1444,7 +1445,7 @@
   - 群友分享司令付费文《X21：当下的处境！》
 
   - <details>
-    <summary>更新《221115懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221115懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h85uslp9cmj30o41ciqt3.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1469,7 +1470,7 @@
   - 群友分享司令付费文章《调整的速度在加快》
 
   - <details>
-    <summary>更新《221108懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221108懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h7xs8uyznhj30nj1jdhd5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1516,7 +1517,7 @@
   - 群友分享付费文章《X17：新的趋势在浮现》《又一轮造富机会，即将到来》
 
   - <details>
-    <summary>更新《221101懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《221101懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h7plmebvlpj30pv16mhah.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1534,7 +1535,7 @@
 - 221025：
 
   - <details>
-    <summary>更新《221025生财周报》，点击展开目录：</summary>
+    <summary>更新《221025赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tva1.sinaimg.cn/large/0065ZrXsgy1h7hhrblsxij30l619e7sg.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1562,7 +1563,7 @@
 - 221018：
 
   - <details>
-    <summary>更新《221018生财周报》，点击展开目录：</summary>
+    <summary>更新《221018赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tvax2.sinaimg.cn/large/0065ZrXsgy1h79ept42avj30kw0ww1ch.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1580,7 +1581,7 @@
 - 221011：
 
   - <details>
-    <summary>更新《221011生财周报》，点击展开目录：</summary>
+    <summary>更新《221011赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h71c8pycduj31h60p11kx.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1621,7 +1622,7 @@
 - 220927：
 
   - <details>
-    <summary>更新《220927生财周报》，点击展开目录：</summary>
+    <summary>更新《220927赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h6l1ej7earj30or11g792.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1648,7 +1649,7 @@
 - 220919：
 
   - <details>
-    <summary>更新《220919懒人生财周报》，点击展开目录：</summary>
+    <summary>更新《220919懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h6bnlf9z7kj30kx0g77dt.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1657,7 +1658,7 @@
   - 小懒外出旅行，专属群分享依旧。本文档不做更新。
 
   - <details>
-    <summary>更新生财精华周报220913，点击展开目录：</summary>
+    <summary>更新赚钱精华周报220913，点击展开目录：</summary>
     <p> <img src="https://tva3.sinaimg.cn/large/0065ZrXsgy1h6bn3lft0rj30q50zkgnr.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1682,7 +1683,7 @@
 - 220905
 
   - <details>
-    <summary>更新生财精华周报220905，点击展开目录：</summary>
+    <summary>更新赚钱精华周报220905，点击展开目录：</summary>
     <p> <img src="https://tva4.sinaimg.cn/large/0065ZrXsgy1h5vpogzn02j30ll1ea781.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1716,7 +1717,7 @@
   - 群友分享付费文章
 
   - <details>
-    <summary>更新生财精华周报220829，点击展开目录：</summary>
+    <summary>更新赚钱精华周报220829，点击展开目录：</summary>
     <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h5nmanz58vj30nb0nxaj5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1729,7 +1730,7 @@
   - 群友分享自购并费心整理的《王马丁- 折叠时间流》
 
   - <details>
-    <summary>更新生财精华周报220823，点击展开目录：</summary>
+    <summary>更新赚钱精华周报220823，点击展开目录：</summary>
     <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h5ghtpkp82j30n70n7ah8.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1757,7 +1758,7 @@
   - 备份司令备份公众号《守夜人总司令》文章，导入羽雀。
 
   - <details>
-    <summary>更新生财精华周报220815，点击展开目录：</summary>
+    <summary>更新赚钱精华周报220815，点击展开目录：</summary>
     <p> <img src="https://tvax3.sinaimg.cn/large/0065ZrXsgy1h57f9ms1j6j30ki0kxgsd.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1797,7 +1798,7 @@
   - 群友分享付费文章《[江宁织造（付费文）] - 2022-05-22 **普京的身后事**》《A678 ：不能说的太细！.pdf》《X3：啥也别说了，都是泪！.pdf》
 
   - <details>
-    <summary>更新生财精华周报220808，点击展开目录：</summary>
+    <summary>更新赚钱精华周报220808，点击展开目录：</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h4zcrcb5vyj30mx0j8tfc.jpg" alt="Snipaste_2022-08-08_14-42-01" width="825" data-width="825" data-height="692"></p>
     </details>
 
@@ -1826,7 +1827,7 @@
   - 懒人自费五元付费文章《富人在炫富，穷人无路可走？》
 
   - <details>
-    <summary>更新生财精华周报，点击展开目录：</summary>
+    <summary>更新赚钱精华周报，点击展开目录：</summary>
     <p> <img src="https://tvax1.sinaimg.cn/large/0065ZrXsgy1h4r2489qgbj30nz0imah5.jpg" alt="Snipaste_2022-08-01_10-23-22" width="863" data-width="863" data-height="670"></p>
     </details>
 
@@ -1843,7 +1844,7 @@
 - **220726**
 
   - <details>
-      <summary>更新生财精华周报，点击展开目录：</summary>
+      <summary>更新赚钱精华周报，点击展开目录：</summary>
       <p> <img src="https://tva2.sinaimg.cn/large/0065ZrXsgy1h4kc2ewzcdj30nc0i7456.jpg" alt="Snipaste_2022-07-26_14-54-14" width="840" data-width="840" data-height="655"></p>
     </details>
 
@@ -1860,7 +1861,7 @@
 - **220719**
 
   - 群友分享付费文章《A686：万家灯火的错觉！》
-  - 懒人整理生财周报
+  - 懒人整理赚钱周报
 
 - **220718**
 
@@ -1872,7 +1873,7 @@
 
 - **220714**：
 
-  - ~~汇总*生财有术*航海计划实战链接~~，已删除。
+  - ~~汇总*赚钱有术*航海计划实战链接~~，已删除。
 
 - **220711**
 
@@ -1888,12 +1889,12 @@
 
 - **220706**
 
-  - 近期的生财精华文档合集已整理分享。
+  - 近期的赚钱精华文档合集已整理分享。
   - 专属群历史文档已整理，👍[目录点击此处查看](/blog/record3)
 
 - **220705**
 
-  - 整理生财精华周报分享，内含12篇《全职自媒体5年，我沉淀下了一张个人 IP 经营图谱》，《网课为什么值得做，我有三点看法》，《从测款、搞定供应链、商家裂变到建立壁垒，eBay、速卖通实现单店月入 1.5W 美金》，《创业出海兵器库1：企业出海合规之出口管制篇》，《算不清账，多少钱都照样慌》，《付费流量才是流量王者 》，《4招实现红海差异化起号，1个月做到10W粉，利润20W+》，《小红书带货月入 3w+，可被复制的矩阵带货玩法》，《TikTok 视频数据与账号数据的分析与优化方法》，《流量密码：普通人如何用 AI 做内容创作》，《让自己内心更踏实的能力》，《线下家教圈如何找到生源进行试课》
+  - 整理赚钱精华周报分享，内含12篇《全职自媒体5年，我沉淀下了一张个人 IP 经营图谱》，《网课为什么值得做，我有三点看法》，《从测款、搞定供应链、商家裂变到建立壁垒，eBay、速卖通实现单店月入 1.5W 美金》，《创业出海兵器库1：企业出海合规之出口管制篇》，《算不清账，多少钱都照样慌》，《付费流量才是流量王者 》，《4招实现红海差异化起号，1个月做到10W粉，利润20W+》，《小红书带货月入 3w+，可被复制的矩阵带货玩法》，《TikTok 视频数据与账号数据的分析与优化方法》，《流量密码：普通人如何用 AI 做内容创作》，《让自己内心更踏实的能力》，《线下家教圈如何找到生源进行试课》
 
 - **220704**
 
@@ -1922,15 +1923,15 @@
 
 - **220627**
 
-  - 更新生财精华文档《IP号联动品牌号小众垂直职业教育赛道爆款内容打造变现200W.pdf》；《新加坡游泳培训通过谷歌本地SEO变现百万的案例解析聊聊如何通过谷歌本地SEO和国际SEO获取海外目标客户.pdf》
+  - 更新赚钱精华文档《IP号联动品牌号小众垂直职业教育赛道爆款内容打造变现200W.pdf》；《新加坡游泳培训通过谷歌本地SEO变现百万的案例解析聊聊如何通过谷歌本地SEO和国际SEO获取海外目标客户.pdf》
 
 - **2022-6-25**：
 
-  - 更新生财精华文章:《知乎副业话题精华排名第一的回答是怎么写出来的.pdf》；《个人IP我用一年时间做了30万粉从偶然到必然.pdf》
+  - 更新赚钱精华文章:《知乎副业话题精华排名第一的回答是怎么写出来的.pdf》；《个人IP我用一年时间做了30万粉从偶然到必然.pdf》
 
 - **2022-6-22**：
 
-  - 更新生财精华：《抖音报白名单抖音体验分业务模式详解》《懒人手动整理：生财周报》
+  - 更新赚钱精华：《抖音报白名单抖音体验分业务模式详解》《懒人手动整理：赚钱周报》
   - 懒人制作专属群在线课程网站，体验满分
 
 - **2022-6-21**：小懒生病了，专属群分享继续，更新懒得记。
@@ -1938,13 +1939,13 @@
 - **2022-6-15**
 
   - 更新司令付费文章《A676 ：不安！》，《A675：怎么办？！.pdf》，顺手一起发《A10：吵架一定要赢！》
-  - 更新生财精华《无人售货机赚不赚钱通过点位布局和运营实现单台机器月入2W》，《如何获得好运气？》，同时附上[《纳瓦尔宝典》（豆瓣8.6分）电子书（含mobi，epub，pdf，azw3版本）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647891529&idx=1&sn=8f1e49c6278d5ea7edbcfe6ef80b6ed8&chksm=f20a2008c57da91e5d8e6c7efa545b1f32a75b87f61c368f360c429456f368845c7ee92160da&token=1572056742&lang=zh_CN#rd)
+  - 更新赚钱精华《无人售货机赚不赚钱通过点位布局和运营实现单台机器月入2W》，《如何获得好运气？》，同时附上[《纳瓦尔宝典》（豆瓣8.6分）电子书（含mobi，epub，pdf，azw3版本）](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647891529&idx=1&sn=8f1e49c6278d5ea7edbcfe6ef80b6ed8&chksm=f20a2008c57da91e5d8e6c7efa545b1f32a75b87f61c368f360c429456f368845c7ee92160da&token=1572056742&lang=zh_CN#rd)
 
 - **2022-6-13**
 
   - 更新司令付费文章<A669：这一代人为何难以幸福！><A671：最危险的时刻！>
   - 群友共享付费文章《付费文章[江宁知府]*汉宫往事 番外篇*》《胜天半子是做不到的，胜人半子是有套路可循的 》已做成文档
-  - 整理生财1-5期全部内容,已做成不夸克网盘。地址和后续更新见q群公告
+  - 整理赚钱1-5期全部内容,已做成不夸克网盘。地址和后续更新见q群公告
 
 - **2022-6-4**至**2022-6-12**
 
@@ -1958,7 +1959,7 @@
 
   - 群友自费分享付费文章《到底还能不能买房？》，已备份
   - 四份付费心理学课程《自我的诞生》《心理创伤8讲》《心理学基础30讲》《自我发展心理学》已整理[《懒人专属群-通才计划》](/data/13.通才计划)
-  - 更新《生财精华-微信视频号实操经验、选品库、导图分享》
+  - 更新《赚钱精华-微信视频号实操经验、选品库、导图分享》
 
 - **2022-5-31**
 
@@ -2025,7 +2026,7 @@
 
   - 司令问答《2021.05.18离异群体的商业机会 》。
 
-  - 分享生财视频号相关文章，内含工具贴，懒人手动整理。
+  - 分享赚钱视频号相关文章，内含工具贴，懒人手动整理。
 
 - **2022-5-17**
 
@@ -2083,7 +2084,7 @@
 
   - 付费文章分享：《（石勇石勇谈心理）我对一个上层商人说的话》
 
-  - 生财官方最近都没更新精华,，历史精华见q群文件。小懒后面再筛选优质贴进行分享。
+  - 赚钱官方最近都没更新精华,，历史精华见q群文件。小懒后面再筛选优质贴进行分享。
 
 - **2022-4-30至5-7**
 
@@ -2108,7 +2109,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 分享生财第五期全部内容(小懒通过第三方渠道爬取)
+  - 分享赚钱第五期全部内容(小懒通过第三方渠道爬取)
 
 - 2022-4-24
 
@@ -2128,7 +2129,7 @@
 
   - 分享小懒自制电子书：原价99的《贾宁·财务思维课》
 
-  - 生财第三期精华已整理汇总页
+  - 赚钱第三期精华已整理汇总页
 
 - 2022-4-19
 
@@ -2151,7 +2152,7 @@
 
     - 22.04.16关于统一大市场.pdf
 
-  - 更新生财精华文档：
+  - 更新赚钱精华文档：
 
     - 我做TikTok的经历和接下来一些机会的判断分享 .pdf
 
@@ -2167,7 +2168,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 1.更新生财精华文档：
+  - 1.更新赚钱精华文档：
 
   - 单粉价值300以上日引流3000人.pdf
 
@@ -2175,7 +2176,7 @@
 
   - 我单人和珠宝厂合作引流0粉丝从快手起步到月盈利10W的经历分享.pdf
 
-  - 程序员可以在生财有术干什么.pdf
+  - 程序员可以在赚钱有术干什么.pdf
 
   - 2.分享 和菜头15年文章集《槽边往事》（原来制作者就在懒人群里，小懒很多年前看的，感谢~）
 
@@ -2222,7 +2223,7 @@
 
   - 分享小懒自制电子书《和菜头-成年人修炼手册》，有pdf和epub版本，样式排版很赞！
 
-  - 更新生财精华：
+  - 更新赚钱精华：
 
   - 工具转型电商潮流平台低成本引流 300W 用户实现 50 留存月入 30W.pdf
 
@@ -2239,7 +2240,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 生财星球官方调整，近期无精华文档
+  - 赚钱星球官方调整，近期无精华文档
 
   - 更新觉悟社文章：
 
@@ -2254,7 +2255,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 更新生财精华：
+  - 更新赚钱精华：
 
   - TikTok 电影号矩阵粉丝 1300W原有话题 120 亿播放聊聊创业基金减少的情况下海外如何做出电影解说号.pdf
 
@@ -2267,7 +2268,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 更新生财精华：
+  - 更新赚钱精华：
 
   - 冰墩墩数字盲盒上线就销售一空电商NFT 新形势下的蓄势待发.pdf
 
@@ -2288,7 +2289,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 更新生财精华：
+  - 更新赚钱精华：
 
   - 千粉不到月入 10W 我如何通过小红书救回濒临倒闭的艺术体验门店.pdf
 
@@ -2308,7 +2309,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 更新生财精华文档：
+  - 更新赚钱精华文档：
 
   - 视频号头部 MCN 创始人通过视频号赚到 100W 后我总结了一套非真人出镜领域的标准起号方法论.pdf
 
@@ -2335,7 +2336,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 更新生财精华文档：
+  - 更新赚钱精华文档：
 
   - 《在职每天2－3小时，如何做到副业利润50万？》.pdf
 
@@ -2377,7 +2378,7 @@
 
   - 分享司令付费文章：A398∶ 真正的普通人都无法接受自己普通!
 
-  - 更新生财精华文档：
+  - 更新赚钱精华文档：
 
   - 群买买如何搭建一个2W人月销售额100W的社群团购团队.pdf
 
@@ -2388,7 +2389,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 更新生财精华文档：
+  - 更新赚钱精华文档：
 
     - 2022手游推广发展分析及项目机会红利期综合游戏解说类和游戏测评类.pdf
 
@@ -2439,19 +2440,19 @@
 
   - 更新司令付费文章《A621：从更底层透视机会和风险》
 
-  - 更新生财精华文档：
+  - 更新赚钱精华文档：
 
-  - （生财精华）100天写作返现活动提供价值的时候顺带赚钱.pdf
+  - （赚钱精华）100天写作返现活动提供价值的时候顺带赚钱.pdf
 
-  - （生财精华）人均GMV50W的3线城市高考咨询项目通过定制化服务群裂变找到用户线下讲座促单成交形成业务闭环.pdf
+  - （赚钱精华）人均GMV50W的3线城市高考咨询项目通过定制化服务群裂变找到用户线下讲座促单成交形成业务闭环.pdf
 
-  - （生财精华）从选品策划变现数据分析App矩阵多方面分享App蓝海精细化运营玩法.pdf
+  - （赚钱精华）从选品策划变现数据分析App矩阵多方面分享App蓝海精细化运营玩法.pdf
 
-  - （生财精华）从项目推广经营管理财务风控六方面分享我在招商上遇到的坑.pdf
+  - （赚钱精华）从项目推广经营管理财务风控六方面分享我在招商上遇到的坑.pdf
 
-  - （生财精华）通过在小红书输出美业素材精准引流售卖素材库加盟建立会员机制实现变现.pdf
+  - （赚钱精华）通过在小红书输出美业素材精准引流售卖素材库加盟建立会员机制实现变现.pdf
 
-  - （生财精华）通过覆盖知乎保险蓝海词下的关键回答实现精准引流年入百万.pdf
+  - （赚钱精华）通过覆盖知乎保险蓝海词下的关键回答实现精准引流年入百万.pdf
 
 - 2022-2-21
 
@@ -2468,7 +2469,7 @@
 
   - 《A607：繁衍并非天生的权利！》
 
-  - 更新生财精华文档：
+  - 更新赚钱精华文档：
 
   - 《关于在抖音这个平台赚钱的一些复盘.pdf》
 
@@ -2493,14 +2494,14 @@
 
   - 更新司令河蟹文章<鹰酱日子不好过>
 
-  - 更新生财精华文档：《平台角度谈风控谈谈我对与平台共生的赚钱模式的理解》《一单3元钱的共享充电宝，背后的商机.pdf》
+  - 更新赚钱精华文档：《平台角度谈风控谈谈我对与平台共生的赚钱模式的理解》《一单3元钱的共享充电宝，背后的商机.pdf》
 
 - 2022-2-14
 
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 生财精华更新
+  - 赚钱精华更新
 
   - 旧文档重发，花神妙攀援术相关文档。
 
@@ -2518,7 +2519,7 @@
   - 专属群内分享
     群内的资源分享，群成员见群消息即可
 
-  - 更新生财精华:<（生财精华）从个牌落脚点长期主义价值等多方面聊聊如何创造连接让个牌自然发生.pdf>
+  - 更新赚钱精华:<（赚钱精华）从个牌落脚点长期主义价值等多方面聊聊如何创造连接让个牌自然发生.pdf>
 
   - 还有一些文档
 
@@ -2529,7 +2530,7 @@
 
   - 更新司令付费文章《结构学浅释》，群友自费共享灏泽文章《读懂了本文，你的2022就彻底稳了》
 
-  - 小懒把生财精华文档加了日期重命名
+  - 小懒把赚钱精华文档加了日期重命名
 
 - 2022-1-29
 
@@ -2538,7 +2539,7 @@
 
   - 更新司令觉悟社文章：《E42：对年轻⼈的争夺！》
 
-  - 更新生财精华文档
+  - 更新赚钱精华文档
 
 - 2022-1-18
 
