@@ -18,6 +18,21 @@
 
 ***
 
+- 231107：
+
+  - 专属群更新第43期《财新周刊》
+  - 群友分享231105司令付费文《放弃结婚，拿着彩礼去旅行！》
+  
+  - <details>
+    <summary>更新《231107懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJOH8J9fbu344DibRxleCm4icZYZzuic3SSCJ8R0HC5VBXgZicoo2dibcCQCXibDyRuhgvUMsz0y91ibavhQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《231107懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJOH8J9fbu344DibRxleCm4icPvFAibeQGwlKdfRZLprwVxTYhhJRU165wf7s4ctUcouuyyjX0uJ7U9A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 231105:
 
   - 231103政事堂付费文《中央经济工作会议的大变革（中）》

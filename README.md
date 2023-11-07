@@ -1,13 +1,16 @@
 # [懒人找资源-手册](/README.md)
 
 > **知识不应该是—部分人的特权，应该自由顺畅流向每一个需要它的人**
+>
+> 通知：*懒人找资源*已被封，请关注备用号*懒人搜索*
 
 ## 介绍
 
 <details>
-  <summary>防失联请关注公众号：懒人找资源</summary>
- <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRvQ4lyFfHJRKdCT38dOFpVQaIyoeXpYOxYsboIlPS7sKSPA4ibNAXCteYOP3KW5Pz4RPaxYOBsibfNg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+  <summary>防失联请关注公众号：懒人搜索</summary>
+ <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLUDREWLEiaz4atNIu5GsH65E1SdqC8k1gMylFg91guwoqWCY4QcABnbsh9RIz8Un8iaGSr9OPfQhXA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
 </details>
+
 
 
 ***
