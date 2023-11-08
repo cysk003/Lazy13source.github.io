@@ -9,6 +9,123 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-08 更新
+
+ - [图素材之家_23.9.6_.apk](https://www.lanzoui.com/idWck1e3cidc)
+
+ - [河马剧场_1.0.63.1000（去广告点看广解锁自动解锁）.apk](https://www.lanzoui.com/iWhfw1e3c8fe)
+
+ - [爱看影院纯净版.apk](https://www.lanzoui.com/isZOZ1e3c7jc)
+
+ - [语音合成1.2支持米哈游众多角色支持选择_8ccf8baa_enc_sign.apk](https://www.lanzoui.com/iF1z61e3c3cb)
+
+ - [360清理ProSysCleanProv 1.0.rar](https://www.lanzoui.com/iWvJk1e3bw3a)
+
+ - [高德地图 V12.10.61 小米14Pro定制版.apk](https://www.lanzoui.com/ibXhd1e3b61c)
+
+ - [华为拨号密码.xlsx](https://www.lanzoui.com/irjZz1dzgu2d)
+
+ - [TikTok_v32.0.3解锁限制-多语言-含配套插件_tigr1234566-下载地址.txt](https://www.lanzoul.com/iF7pF1dytyfc)
+
+ - [小歪微商 1.2.5 会员解锁版_zhou45.apk](https://www.lanzoul.com/iRDlC1dyt73i)
+
+ - [腾讯视频-v11.81.5035.0-去广告绿版@zd423.exe](https://www.lanzoul.com/icguN1dyt41i)
+
+ - [酷我音乐 10.6.0.1会员修复版231105@可爱的童鞋-下载地址.txt](https://www.lanzoul.com/iBc931dysxqb)
+
+ - [七猫免费小说_7.35-Mod@帝落.apk](https://www.lanzoul.com/ijRdQ1dysppc)
+
+ - [电视家 3.10.26会员版@[MT签名].apk](https://www.lanzoul.com/iClCT1dysbxg)
+
+ - [РotРlayer-231102(1.7.22032)-x64-Stable.exe](https://www.lanzoul.com/i1e9P1dys76f)
+
+ - [ES文件浏览器 4.4.1.6解锁VIP_maxi123444.apk](https://www.lanzoul.com/iNOsU1dys23c)
+
+ - [智能助手_v1.6.9_(169)_Mod_protected@辰夕.apk](https://www.lanzoul.com/iBTSW1dymiih)
+
+ - [智能助手_1.7.0@takklong.apk](https://www.lanzoul.com/iszoY1dymhxg)
+
+ - [智能助手_1.6.9@takklong.apk](https://www.lanzoul.com/iZHat1dymhjc)
+
+ - [小白电视6.1.5.apk](https://www.lanzoul.com/iUvuG1dykgza)
+
+ - [小白电视 6.1.0.apk](https://www.lanzoul.com/iqUyY1dykfih)
+
+ - [喜马拉雅穿戴2.3.2.0.apk](https://www.lanzoul.com/iqWTG1dyjtbi)
+
+ - [微商助手 Ver.3.1.3 会员解锁版@zhou45.apk](https://www.lanzoul.com/iG1yE1dyjp9c)
+
+ - [微博 13.10.2-内置猪手2.2.6-252模块-下载地址.txt](https://www.lanzoul.com/iCUWO1dyjffi)
+
+ - [腾讯QQ 9.7.18 (29244) 绿色版@Dreamcast.7z](https://www.lanzoul.com/ivSWm1dyj7rc)
+
+ - [腾讯QQ 9.7.18 (29244) 安装版@Dreamcast.rar](https://www.lanzoul.com/ihQ8o1dyj2wh)
+
+ - [酷我音乐v10.6.0.1高级v2版@帝落-下载地址.txt](https://www.lanzoul.com/iJF8s1dyhv6d)
+
+ - [酷我音乐10.6.2.2备用版可共存@MT小程-下载地址.txt](https://www.lanzoul.com/iQBRt1dyhv5c)
+
+ - [酷我音乐HD v8.5.4.2高级v6版@帝落.apk](https://www.lanzoul.com/iATSG1dyhduj)
+
+ - [酷我音乐车机版v6.0.1.0高级v6版@帝落.apk](https://www.lanzoul.com/iUCAS1dyhcra)
+
+ - [酷我畅听_9.1.8.0破解版@暗猎魂殇.apk](https://www.lanzoul.com/i6xj61dyh7zi)
+
+ - [驾考题库大全_2.2.8@[SN-467690ce].apk](https://www.lanzoul.com/ifN4t1dygu8d)
+
+ - [海阔视界_V8.15_1105_C4508_db53-64位.apk](https://www.lanzoul.com/iLVuv1dygeih)
+
+ - [格式工厂FormatFactory-5.16.0-x64-Modified@zd423.7z](https://www.lanzoul.com/ikSCK1dyg6sj)
+
+ - [格式工厂_5.16.0.0_64Bit_mefcl_Setup.exe](https://www.lanzoul.com/iZIcp1dyg4fe)
+
+ - [百度网盘客户端-7.34.1.3-Modified@zd423-下载地址.txt](https://www.lanzoul.com/i4t9v1dyfooh)
+
+ - [РotРlayer-231101(1.7.22031)-x64-Stable.exe](https://www.lanzoul.com/iNUtD1dyfkti)
+
+ - [Xmind_ Mind Map & Brainstorm v23.09.11240 _ed by youarefinished_src.apk](https://www.lanzoul.com/iMdDc1dyfhta)
+
+ - [WiFi钥匙 Ver.1.0.13 连接后显示密码版@[MT签名].apk](https://www.lanzoul.com/ikFkK1dyfc7i)
+
+ - [WiFi万能钥匙极速版_6.6.3-Mod@帝落.apk](https://www.lanzoul.com/ijxby1dyfala)
+
+ - [VSCO_X_v345_build_100023765_Mod@balatan.apk](https://www.lanzoul.com/ikTJ61dyf8cj)
+
+ - [Vanced_4.8.80.127_mod@kubarev.apk](https://www.lanzoul.com/igIcz1dyf1yj)
+
+ - [ RVE (ARM64)_18.42.41@ANiK555.apk](https://www.lanzoul.com/iVsRL1dyf1te)
+
+ - [TVBox_takagen99_20231105-1157.apk](https://www.lanzoul.com/iraHC1dyeyhe)
+
+ - [TVBox_takagen99_20231105-0437.apk](https://www.lanzoul.com/iiPJf1dyexgh)
+
+ - [TVBox_q215613905_20231105-0923.apk](https://www.lanzoul.com/iicsi1dyewsd)
+
+ - [Telegram Ver.10.2.3 V2_Mod_Tmoe@zhou45.apk](https://www.lanzoul.com/iDd1x1dyev7g)
+
+ - [Telegram Ver.10.2.3 V1_Tmoe@zhou45.apk](https://www.lanzoul.com/iM8sB1dyetjg)
+
+ - [Speed-test网速测试 5.2.3高级版_0x7d.apk](https://www.lanzoul.com/iVCUy1dyeqqf)
+
+ - [Speedtest-Premium-5.2.3-v8a-Balatan.apk](https://www.lanzoul.com/iJYT61dyeq1a)
+
+ - [QP Gallery 9.3.6@WST.apk](https://www.lanzoul.com/iRNeX1dyelji)
+
+ - [Nekogram-10.2.3-4075-arm64-v8a.apk](https://www.lanzoul.com/i3Mgi1dyejob)
+
+ - [Nagram-v10.2.3-full-arm64-v8a.apk](https://www.lanzoul.com/iC2nL1dyedfg)
+
+ - [Nagram-v10.2.3-mini-arm64-v8aNoGcm.apk](https://www.lanzoul.com/iFFSq1dyeb6f)
+
+ - [Nagram-v10.2.3-mini-arm64-v8a.apk](https://www.lanzoul.com/iZGxQ1dye8kb)
+
+ - [Nagram-v10.2.3-full-arm64-v8aNoGcm.apk](https://www.lanzoul.com/inOW61dye76b)
+
+ - [MyRadio v1.1.66.1102 Modded by Mixroot.apk](https://www.lanzoul.com/i7YpK1dye2di)
+
+ - [mpv-x86_64-20231105-git-7480efa.7z](https://www.lanzoul.com/i0d321dydzda)
+
+
 
 ## 2023-11-05 更新
 
