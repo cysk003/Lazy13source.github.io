@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-09 更新
+
+ - [截图工具提取版搜狗输入法.zip](https://www.lanzoui.com/if6Wr1e7dtyj)
+
+
 ## 2023-11-08 更新
 
  - [图素材之家_23.9.6_.apk](https://www.lanzoui.com/idWck1e3cidc)
