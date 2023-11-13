@@ -9,6 +9,143 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-13 更新
+
+ - [Microsoft Defender 卸载工具.exe](https://www.lanzoui.com/ipYlZ1efisda)
+
+ - [海洋电脑助手.rar](https://www.lanzoui.com/inLGi1efiead)
+
+ - [可牛看图v1.3.0.1005.rar](https://www.lanzoui.com/ijzou1efhzfi)
+
+ - [可牛看图安装版v1.3.0.1005.exe](https://www.lanzoui.com/i6UbX1efhy8f)
+
+ - [语音合成MAX1.3.apk](https://www.lanzoui.com/iBM2k1ebmsbi)
+
+ - [语音合成1.2源码.zip](https://www.lanzoui.com/iotsw1ebms4b)
+
+ - [视频实时字幕翻译解锁会员1.1.3.apk](https://www.lanzoui.com/iqKRO1ebmamb)
+
+ - [Auto.js M_v4.1.23.0708.alpha Modify@TonyJiang.apk](https://www.lanzoul.com/iCsR71eomh7g)
+
+ - [蜗牛云盘Windows版64位-1.3.7-windows-下载地址.txt](https://www.lanzoul.com/iJa3z1eokk3i)
+
+ - [微博猪手 2.2.6-(253-20231107)-XP模块.apk](https://www.lanzoul.com/iupFI1eokj5e)
+
+ - [微博 13.11.0-内置猪手2.2.6-253模块-下载地址.txt](https://www.lanzoul.com/iSE1W1eokj3c)
+
+ - [微博 13.10.2-内置猪手2.2.6-253模块-下载地址.txt](https://www.lanzoul.com/iBa111eokj2b)
+
+ - [七猫免费小说_7.36-Mod@帝落.apk](https://www.lanzoul.com/iuhj81eokhob)
+
+ - [拼多多点赞 Ver.1.0 无限点赞曝光脚本@[MT签名].apk](https://www.lanzoul.com/iJxor1eokcuh)
+
+ - [美图秀秀-9.10.0-VIP-v8a@辰夕-下载地址.txt](https://www.lanzoul.com/in8hE1eokbab)
+
+ - [雷电模拟器9(64)-v9.0.62-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iZjWj1eokate)
+
+ - [雷电模拟器5(64)-v5.0.72-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iHWCQ1eokarc)
+
+ - [酷我音乐-10.6.4.0-VIP-v8a@童鞋0下载地址.txt](https://www.lanzoul.com/iOfXG1eok9la)
+
+ - [酷我音乐_10.6.5.4_破解修复版@暗猎魂殇-下载地址.txt](https://www.lanzoul.com/iFrMY1eok9kj)
+
+ - [酷我音乐_10.6.2.2-内置标识版-Mod@帝落231111-下载地址.txt](https://www.lanzoul.com/iyXkG1eok9ih)
+
+ - [酷我音乐 10.6.5.4会员版@童鞋-下载地址.txt](https://www.lanzoul.com/iLr4I1eok9hg)
+
+ - [酷我音乐 10.6.4.0会员版231109@童鞋-下载地址.txt](https://www.lanzoul.com/iP9UZ1eok9gf)
+
+ - [剪映11.9.0@[SN-472af512]-下载地址.txt](https://www.lanzoul.com/iWDXm1eok8ha)
+
+ - [剪映_11.8.0_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/iyFgV1eok8gj)
+
+ - [剪映 11.8.0会员版@[SN-472af512]-下载地址.txt](https://www.lanzoul.com/iiuL61eok8eh)
+
+ - [甲壳虫ADB助手_v1.3.0.zip](https://www.lanzoul.com/iDm7G1eok7tg)
+
+ - [海阔视界_V8.16_1112_C4529_db53-64位.apk](https://www.lanzoul.com/itxEh1eok73a)
+
+ - [高德地图 12.10.61 小米14Pro定制版.apk](https://www.lanzoul.com/igPlF1eok51g)
+
+ - [抖音 27.7.0_270700-内置小能手2.0.6模块-下载地址.txt](https://www.lanzoul.com/iBrFv1eojwsj)
+
+ - [抖音 27.6.0_270601-内置小能手2.0.6模块-下载地址.txt](https://www.lanzoul.com/iYeF81eojwri)
+
+ - [电视家 3.10.26@[MT签名].apk](https://www.lanzoul.com/iZvBK1eojv9e)
+
+ - [打印机共享设置助手Win10以上版PrinterTool_NET452.zip](https://www.lanzoul.com/icqOt1eojq5a)
+
+ - [打印机共享设置助手Win7版PrinterTool_NET20.zip](https://www.lanzoul.com/igvkI1eojpsh)
+
+ - [查找大文件(WizTree)4.16.x64汉化去广告便携版@th_sjy.7z](https://www.lanzoul.com/iSlrw1eojnwj)
+
+ - [百度贴吧_12.50.1.1-Mod-基础版@帝落.apk](https://www.lanzoul.com/ix7I91eojl7c)
+
+ - [百度贴吧_12.50.1.1-Mod-去首页视频推荐版@帝落.apk](https://www.lanzoul.com/iw65x1eojgte)
+
+ - [百度贴吧_12.50.1.1-Mod-去首页版@帝落.apk](https://www.lanzoul.com/iNaDK1eojbuf)
+
+ - [РotРlayer-231110(1.7.22037)-x64-Stable.exe](https://www.lanzoul.com/iEXFk1eoj5mb)
+
+ - [Xmind v23.09.11243 _ed by youarefinished_src.apk](https://www.lanzoul.com/izCfo1eoj20b)
+
+ - [Xmind v23.09.11242 arm64 _ed by youarefinished_src.apk](https://www.lanzoul.com/iQwp61eoizeh)
+
+ - [XBYDriver-3.12.1-win-x64@gaozhangmin.exe](https://www.lanzoul.com/iJxl31eoixof)
+
+ - [XBYDriver-3.12.1-win-x64-fix@gaozhangmin.exe](https://www.lanzoul.com/ihI6x1eoivla)
+
+ - [WPS Office_v18.4_1473谷歌高级版_PieMods-下载地址.txt](https://www.lanzoul.com/ijNeg1eoissj)
+
+ - [WPSOffice-18.4(1473)-v8a,v7a@Balatan-下载地址.txt](https://www.lanzoul.com/iBzmx1eoisri)
+
+ - [WPS_Office_v18.4_(1473)_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/iwa3f1eoisqh)
+
+ - [TVBox_takagen99_20231109-2239.apk](https://www.lanzoul.com/iXBLP1eois7i)
+
+ - [TVBox_takagen99_20231111-0156.apk](https://www.lanzoul.com/imRNn1eoirxi)
+
+ - [TVBox_takagen99_20231109-2350.apk](https://www.lanzoul.com/ic9yp1eoiqla)
+
+ - [Tik-Tok_v32.0.4解锁限制-多语言-含配套插件_tigr1234566-下载地址.txt](https://www.lanzoul.com/inp171eoiogd)
+
+ - [TelegramPremium[Mod by Abhi]-v10.3.0.apk](https://www.lanzoul.com/iw1wk1eoimxi)
+
+ - [TelegramPremium[Anti] [Mod by Abhi]-v10.3.0.apk](https://www.lanzoul.com/icM7T1eoijda)
+
+ - [Speedtest v5.2.3 _ed by youarefinished_src.apk](https://www.lanzoul.com/ibSCX1eoifgj)
+
+ - [SD Maid SE_0.16.0-beta0@liu.apk](https://www.lanzoul.com/iTZ291eoic0f)
+
+ - [SD Maid SE v0.17.0-beta0 _ed by youarefinished_src.apk](https://www.lanzoul.com/iSW8k1eoibnc)
+
+ - [SD Maid 2_SE - System Cleaner v0.16.2-beta0 _ed by youarefinished_src.apk](https://www.lanzoul.com/iQps11eoib9i)
+
+ - [SD_Maid_SE-Pro-v0.16.2-beta0_build_1602000-Viva-Magenta-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/ihvDI1eoiamf)
+
+ - [SD_Maid_SE-Pro-v0.16.2-beta0_build_1602000-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/iLZkc1eoia2f)
+
+ - [影视仓tv版5.0.11.apk](https://www.lanzoul.com/iXCgX1enlw8f)
+
+ - [椒盐音乐8.17.0-beat02.apk](https://www.lanzoul.com/ivZs11ej60pg)
+
+ - [椒盐音乐8.16.4.1-2023101202-moriafly-arm64-v8a.apk](https://www.lanzoul.com/il8R71ei1ing)
+
+ - [椒盐音乐8.16.4.1-2023101202-moriafly-armeabi-v7a.apk](https://www.lanzoul.com/iVrie1ei1iib)
+
+ - [sixyin-music-source-v1.0.7(后缀名改为js).zip](https://www.lanzoul.com/iM5T81ei12qd)
+
+ - [lx-music-mobile-v1.2.0-beta.3-arm64-v8a.apk](https://www.lanzoul.com/ikfhi1ei10pa)
+
+ - [lx-music-mobile-v1.2.0-beta.3-armeabi-v7a.apk](https://www.lanzoul.com/ixptP1ei10ni)
+
+ - [lx-music-mobile-v1.2.0-beta.3-universal.apk](https://www.lanzoul.com/irvt11ei10lg)
+
+ - [lx-music-mobile-v1.2.0-beta.3-x86_64.apk](https://www.lanzoul.com/ihg2O1ei10id)
+
+ - [lx-music-mobile-v1.2.0-beta.3-x86.apk](https://www.lanzoul.com/ioxBS1ei10gb)
+
+
 ## 2023-11-09 更新
 
  - [截图工具提取版搜狗输入法.zip](https://www.lanzoui.com/if6Wr1e7dtyj)
