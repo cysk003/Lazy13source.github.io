@@ -9,6 +9,113 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-17 更新
+
+ - [倒数日【电脑版】win32-x64.zip](https://www.lanzoui.com/iexY31f1pnfg)
+
+ - [Win10Win11一键“永久启用IE11.zip](https://www.lanzoui.com/i3NdH1f1phqb)
+
+ - [讯飞输入法8.2.7969oppo定制版.apk](https://www.lanzoul.com/iDllG1f249da)
+
+ - [微信(谷歌版)-8.0.41(2421)-v8a,v7a-测试版-下载地址.txt](https://www.lanzoul.com/i1hsl1f2465e)
+
+ - [微商助手 Ver.3.1.4 会员解锁 修复版@zhou45.apk](https://www.lanzoul.com/idoaI1f2455i)
+
+ - [微博猪手 2.2.6-(254-20231112)-xp模块.apk](https://www.lanzoul.com/i7T7D1f2400d)
+
+ - [微博 13.11.0-内置猪手2.2.6-254模块-下载地址.txt](https://www.lanzoul.com/iJzHN1f23zxa)
+
+ - [网易云音乐_9.0.0黑莓版.apk](https://www.lanzoul.com/ie8O61f23v7a)
+
+ - [腾讯视频-v11.82.7023.0-去广告绿版@zd423.exe](https://www.lanzoul.com/ijdt91f23rxc)
+
+ - [搜狗输入法oppo定制版_10.32.0322.2306211630.apk](https://www.lanzoul.com/iW3aa1f23n4j)
+
+ - [魔法茅台助手 Ver.2.4.3 会员解锁版@zhou45.apk](https://www.lanzoul.com/iCjQM1f23egh)
+
+ - [酷我音乐10.6.5.4会员修复版231115_童鞋-下载地址.txt](https://www.lanzoul.com/i21NM1f23d2h)
+
+ - [酷我音乐10.6.5.4会员修复版231114_童鞋-下载地址.txt](https://www.lanzoul.com/iuMzF1f23cze)
+
+ - [酷我音乐10.6.5.4会员修复版231111_童鞋-下载地址.txt](https://www.lanzoul.com/iKpgI1f23cxc)
+
+ - [饿了么红包助手 Ver.3.3.3 饿了么大额红包领取工具 去广告版@zhou45.apk](https://www.lanzoul.com/iZyER1f233di)
+
+ - [抖音 27.7.0_270701-内置小能手2.0.6模块-下载地址.txt](https://www.lanzoul.com/iO8UN1f2328h)
+
+ - [笔趣阁 Ver.9.191.216 会员解锁 最新版@zhou45.apk](https://www.lanzoul.com/iYl9W1f22ych)
+
+ - [笔趣阁小说 Ver.2.6.8 去广告版@zhou45.apk](https://www.lanzoul.com/it1LP1f22y0f)
+
+ - [安卓清理君_3.7.8-Mod@帝落.apk](https://www.lanzoul.com/it5F11f1qlej)
+
+ - [РotРlayer-231113(1.7.22038)-x64-Stable.exe](https://www.lanzoul.com/iG6sj1f1qksh)
+
+ - [WPS Office ProPlus_11.8.2.12187_Vba_mefcl_Setup-下载地址.txt](https://www.lanzoul.com/iMxhK1f1qjib)
+
+ - [WPS Office ProPlus_11.8.2.12187_mefcl_Setup-下载地址.txt](https://www.lanzoul.com/imZjy1f1qjha)
+
+ - [WPS Office Lite v18.4 [Premium]@piemods-下载地址.txt](https://www.lanzoul.com/ixAO41f1qiuh)
+
+ - [微软常用运行库合集 2023.11.13@Dreamcast.exe](https://www.lanzoul.com/i7MS01f1qh0b)
+
+ - [VisualCppRedist_AIO_x86_x64_77@abbodi1406.zip](https://www.lanzoul.com/iI7W71f1qgmh)
+
+ - [uBlock Origin 1.53.4.crx](https://www.lanzoul.com/igmjN1f1qfkj)
+
+ - [TVBox_takagen99_20231114-1037.apk](https://www.lanzoul.com/ieMZH1f1qesb)
+
+ - [TVBox_takagen99_20231116-0124.apk](https://www.lanzoul.com/iZvG01f1qeib)
+
+ - [TVBox_takagen99_20231115-1739.apk](https://www.lanzoul.com/ixSfI1f1qegj)
+
+ - [TVBox_takagen99_20231114-1725.apk](https://www.lanzoul.com/iYm2j1f1qecf)
+
+ - [TVBox_takagen99_20231114-1422.apk](https://www.lanzoul.com/i8KCN1f1qe7a)
+
+ - [SD Maid SE_0.17.0-beta0@liu.apk](https://www.lanzoul.com/ij5H61f1qdah)
+
+ - [SD_Maid_SE-Pro-v0.17.0-beta0_build_1700000-Viva-Magenta-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/iZ0by1f1qd7e)
+
+ - [SD_Maid_SE-Pro-v0.17.0-beta0_build_1700000-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/irVHX1f1qd2j)
+
+ - [QuickPic 9.4 Alative@WST.apk](https://www.lanzoul.com/ig9Is1f1qbbg)
+
+ - [QP Gallery 9.4@WST.apk](https://www.lanzoul.com/iYxlN1f1qbaf)
+
+ - [Pili-arm64-v8a-1.0.12.1114.apk](https://www.lanzoul.com/ijiDF1f1qb2h)
+
+ - [Pili-IOS-1.0.12.1114.ipa](https://www.lanzoul.com/ihmPV1f1qayd)
+
+ - [OlSoul_Windows系统调校_20231116_7a344128.exe](https://www.lanzoul.com/ilKfd1f1q9le)
+
+ - [Nekogram-10.2.9-4087-arm64-v8a.apk](https://www.lanzoul.com/ixrtS1f1q93g)
+
+ - [Nagram-v10.2.9-mini-arm64-v8aNoGcm.apk](https://www.lanzoul.com/imW7s1f1q8qd)
+
+ - [Nagram-v10.2.9-mini-arm64-v8a.apk](https://www.lanzoul.com/i8ai71f1q8li)
+
+ - [MX 播放器+ 1.68.4 Ultra Plus@simba.apk](https://www.lanzoul.com/iIfPD1f1q7ef)
+
+ - [hwi_766.zip](https://www.lanzoul.com/iIkah1f1q6mh)
+
+ - [HEU_KMS_Activator_v42.0.0.rar](https://www.lanzoul.com/i9Ayh1f1q5la)
+
+ - [Fliclo翻页时钟_2.4.1@liu.apk](https://www.lanzoul.com/ikZ131f1q55e)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.45.apk](https://www.lanzoul.com/imPPO1f1q4kd)
+
+ - [Chat_Smith_v3.3.5_(434)_Mod@辰夕.apk](https://www.lanzoul.com/irQ8C1f1q3if)
+
+ - [CCleaner-Pro-6.18.10824-x64-Plus@zd423.7z](https://www.lanzoul.com/io3HD1f1q2gh)
+
+ - [autojs6-v6.4.2-arm64-v8a-3c16622f-下载地址.txt](https://www.lanzoul.com/iUdW91f1pvze)
+
+ - [AnyTXT.Searcher.1.3.1222.Win32_Win64.OCR-下载地址.txt](https://www.lanzoul.com/izaZz1f1pnqh)
+
+ - [AnyTXT.Searcher.1.3.1222.Win32_Win64.exe](https://www.lanzoul.com/ichPP1f1pnpg)
+
+
 ## 2023-11-16 更新
 
 ## 2023-11-16 更新
