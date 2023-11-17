@@ -115,14 +115,6 @@
 
  - [AnyTXT.Searcher.1.3.1222.Win32_Win64.exe](https://www.lanzoul.com/ichPP1f1pnpg)
 
-
-## 2023-11-16 更新
-
-## 2023-11-16 更新
-
-
-## 2023-11-14 更新
-
 ## 2023-11-15 更新
 
  - [网易云音乐 V1.0.22 荣耀定制提取版.apk](https://www.lanzoui.com/icZTX1euaeje)
