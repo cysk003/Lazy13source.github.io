@@ -9,6 +9,105 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-20 更新
+
+ - [酷安_10.5_纯净版.apk](https://www.lanzoui.com/iMRdW1f88o4b)
+
+ - [淘宝_破解测试.apk](https://www.lanzoui.com/iENip1f88c9e)
+
+ - [淘宝_bak.apk](https://www.lanzoui.com/iFEio1f88bmb)
+
+ - [火绒弹窗拦截独立版v5.0.71.1.zip](https://www.lanzoui.com/iQ2Ar1f882ej)
+
+ - [Coolapk_V2.2_A13+@HUC.apk](https://www.lanzoul.com/ipwwF1fdix3e)
+
+ - [ChatAI_ AI Chatbot（汉化）_15.4_Mod@辰夕.apk](https://www.lanzoul.com/iY9mr1fdiuyh)
+
+ - [ADM_14.0.22 [ADS FREE]@alexa.apk](https://www.lanzoul.com/icTBN1fdisub)
+
+ - [991EX_6.6.9.847@liu.apk](https://www.lanzoul.com/iqm4x1fdiqti)
+
+ - [360ChromeX-22.1.1029.64-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/ik6f31fdinub)
+
+ - [1DM+_16_ [Paid]@alexa.apk](https://www.lanzoul.com/iEeE91fdijfc)
+
+ - [扫码全能王_v6.53.0.2311090000_(65301)_Mod_protected@辰夕-下载地址.txt](https://www.lanzoul.com/igdU11f97mid)
+
+ - [360安全浏览器_15.1.1321.64_mefcl_Setup_64Bit-下载地址.txt](https://www.lanzoul.com/iA7J71f9763c)
+
+ - [360csex_22.1.1029.64_Flash_mefcl_Setup-下载地址.txt](https://www.lanzoul.com/idoyO1f9762b)
+
+ - [酷安_13.0.1_Monet@rikkati-202311181757.apk](https://www.lanzoul.com/iMLSO1f8mi8d)
+
+ - [酷安_13.0.1@rikkati-202311181757.apk](https://www.lanzoul.com/iA3sO1f8mfxa)
+
+ - [抖音xp模块freedom_v1.2.4.apk](https://www.lanzoul.com/i5kD11f8mbkd)
+
+ - [gkd-v1.5.1.apk](https://www.lanzoul.com/i0DD11f8m6ib)
+
+ - [gkd-v1.5.0.apk](https://www.lanzoul.com/iDGwe1f8m62f)
+
+ - [知乎(谷歌版)-9.27-v8a.apk](https://www.lanzoul.com/iLe6Y1f7cnpe)
+
+ - [知乎(谷歌版)-9.27-v8a-with-知了23.10.08.apk](https://www.lanzoul.com/ijhVr1f7ci1a)
+
+ - [讯飞输入法_13.0.2-Mod@帝落.apk](https://www.lanzoul.com/iElE41f7cdmb)
+
+ - [酷我音乐 10.6.5.8会员版_童鞋-下载地址.txt](https://www.lanzoul.com/id54V1f7c9mh)
+
+ - [酷安_13.0.1_Monet3@rikkati.apk](https://www.lanzoul.com/icEBR1f7c4te)
+
+ - [酷安_13.0.1@rikkati.apk](https://www.lanzoul.com/ixwax1f7c3uj)
+
+ - [剪映_11.9.0_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/ikF1v1f7byod)
+
+ - [抖音 v27.7.0内置模块v2版-下载地址.txt](https://www.lanzoul.com/iaAxS1f7bvef)
+
+ - [抖音 27.8.0_270800-内置小能手2.0.6模块-下载地址.txt](https://www.lanzoul.com/iyCQA1f7bvcd)
+
+ - [贝瓦儿歌 4.1.2-TV版解锁版@[SN-3dca7469].apk](https://www.lanzoul.com/ithRb1f79wqb)
+
+ - [贝瓦儿歌 7.6.8手机版解锁版@[SN-3dca7469].apk](https://www.lanzoul.com/iEGl61f79ssj)
+
+ - [WPS2019专业增强版_v11.8.2.12187_永久授权版@zd423-下载地址.txt](https://www.lanzoul.com/ifc7m1f78s7c)
+
+ - [TVBox_takagen99_20231116-2238.apk](https://www.lanzoul.com/iAR9t1f78qqj)
+
+ - [TVBox_takagen99_20231117-1848.apk](https://www.lanzoul.com/inEFd1f78p9g)
+
+ - [TVBox_takagen99_20231117-1802.apk](https://www.lanzoul.com/iHim31f78nsd)
+
+ - [OlSoul_Windows系统调校_20231118_d2e1493b.exe](https://www.lanzoul.com/iKu7V1f78iaf)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.46.apk](https://www.lanzoul.com/irmVF1f78fna)
+
+ - [CamScanner v6.53.0.2311140000 [Premium]@maxi123444-下载地址.txt](https://www.lanzoul.com/ivNdu1f78cqf)
+
+ - [CamScanner v6.53.0.2311090000 Offline _ed by youarefinished_src-下载地址.txt](https://www.lanzoul.com/iqoxd1f78cpe)
+
+ - [CamScanner v6.53.0.2311090000 Clean _ed by youarefinished_src-下载地址.txt](https://www.lanzoul.com/iekgt1f78cod)
+
+ - [CamScanner v6.53.0.2311090000 ads support _ed by youarefinished_src-下载地址.txt](https://www.lanzoul.com/iZAN51f78cmb)
+
+ - [CamScanner扫描全能王 6.53.0.2311140000解锁版_derrin-下载地址.txt](https://www.lanzoul.com/i5ZiJ1f78cla)
+
+ - [360SE-15.1.1321.64-Stable-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/iE6tq1f77k0b)
+
+ - [AnyTXT.Searcher.1.3.1225.Win32_Win64.OCR-下载地址.txt](https://www.lanzoul.com/iq6lE1f7771e)
+
+ - [AnyTXT.Searcher.1.3.1225.Win32_Win64.exe](https://www.lanzoul.com/i82kU1f776na)
+
+ - [AdGuard Ad Blocker v4.3.130 Nightly arm7+arm64 _ed by youarefinished_src.apk](https://www.lanzoul.com/ipgNr1f771qd)
+
+ - [AdGuard_Premium_v4.3.131_MustHave@balatan.apk](https://www.lanzoul.com/iVD6b1f771jg)
+
+ - [AdGuard_4.3.130-Mod@帝落.apk](https://www.lanzoul.com/i05u21f771bi)
+
+ - [AdGuard Ad Blocker v4.3.131 arm7+arm64 Nightly _ed by youarefinished.apk](https://www.lanzoul.com/i8lxa1f770de)
+
+ - [2345看图王_11.1.0.10058_mefcl_x64_Setup.exe](https://www.lanzoul.com/icIZH1f76uxi)
+
+
 ## 2023-11-17 更新
 
  - [倒数日【电脑版】win32-x64.zip](https://www.lanzoui.com/iexY31f1pnfg)
