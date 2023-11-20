@@ -2,14 +2,16 @@
 
 > **知识不应该是—部分人的特权，应该自由顺畅流向每一个需要它的人**
 >
-> 通知：*懒人找资源*已被封，请关注备用号*懒人搜索*
+> 通知：*懒人找资源*已被封，请关注备用号*懒人搜索*，还有公众号*懒人手册*
 
 ## 介绍
 
 <details>
-  <summary>防失联请关注公众号：懒人搜索</summary>
+  <summary>防失联请关注公众号：懒人搜索，懒人手册</summary>
  <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLUDREWLEiaz4atNIu5GsH65E1SdqC8k1gMylFg91guwoqWCY4QcABnbsh9RIz8Un8iaGSr9OPfQhXA/640?wx_fmt=png" alt="" width="863" data-width="863" data-height="670"></p>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/RDnsI9KkLHXXEHiaexGgWtUSSRI4g7n1B2a3xHZrRHpicg2IP22sCIsczzh25EdNo0SMUFr8fYTscKCppniadmBbA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
 </details>
+
 
 
 
