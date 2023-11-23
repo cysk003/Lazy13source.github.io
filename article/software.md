@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-22 更新
+
+ - [在线驱动更新工具 IObit Driver Booster 11.1.0.26 中文多语免费版.exe](https://www.lanzoui.com/i066J1fiom2d)
+
+ - [【车机版】酷狗音乐 v5.0.3.apk](https://www.lanzoui.com/iKTn61finswd)
+
+
 ## 2023-11-21 更新
 
  - [哈曼卡顿音效 无版本号 通用.zip](https://www.lanzoui.com/inMiN1ff53vg)
