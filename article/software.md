@@ -9,6 +9,121 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-23 更新
+
+## 2023-11-24 更新
+
+ - [拍照试卷去底工具.rar](https://www.lanzoui.com/ieuQX1fr2alc)
+
+ - [磁盘清理工具 便携版 Wise Disk Cleaner 11.0.6.820.zip](https://www.lanzoui.com/iri6j1fr27gj)
+
+ - [护眼工具 CareUEyes 2.2.9.0 官方原版安装包.exe](https://www.lanzoui.com/iozVZ1fr26xa)
+
+ - [油小猴工具箱-v2.1.4.crx](https://www.lanzoul.com/iIGUs1foelri)
+
+ - [影视-v2.0.8-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iiLPK1foelef)
+
+ - [影视-v2.0.8-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iNWfE1foel4f)
+
+ - [影视TV-v2.0.8-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iKr4x1foekpa)
+
+ - [影视TV-v2.0.8-4.x-leanback.apk](https://www.lanzoul.com/iURz71foekkf)
+
+ - [影视TV-v2.0.8-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/ivxAy1foekfa)
+
+ - [影视TV-v2.0.8-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iaLFg1foek9e)
+
+ - [影视TV-v2.0.8-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iBxAq1foek2h)
+
+ - [淘宝红米k50定制版v9.21.1.8888.apk](https://www.lanzoul.com/ilH641foej9i)
+
+ - [搜狗输入法v13.11.0.8646去广告精简优化版@zd423.exe](https://www.lanzoul.com/iMxxV1foeixg)
+
+ - [七猫免费小说_7.37-Mod@帝落.apk](https://www.lanzoul.com/iPo7D1foeiib)
+
+ - [七猫免费小说_7.36.20_kill_eirv2@[MT签名].apk](https://www.lanzoul.com/ikgUT1foeiad)
+
+ - [酷我音乐 10.6.6.0会员版_暗猎魂殇-下载地址.txt](https://www.lanzoul.com/iQ3UH1foehli)
+
+ - [酷我音乐 10.6.5.8-登录使用@[SN-2a5367f7]-下载地址.txt](https://www.lanzoul.com/iD3s51foehkh)
+
+ - [酷我音乐_10.6.6.0-Mod-特别版@帝落-下载地址.txt](https://www.lanzoul.com/ibPTu1foehjg)
+
+ - [蚂蚁庄园自动喂养-Ant-Manor-1.2.6.1.zip](https://www.lanzoul.com/iJCgC1foe9qf)
+
+ - [蚂蚁森林收能量脚本-Ant-Forest-1.4.1.zip](https://www.lanzoul.com/i6bTY1foe9od)
+
+ - [*签到-薅羊毛-Unify-Sign-2.0.9.2.zip](https://www.lanzoul.com/i9fAu1foe5wh)
+
+ - [驾考精灵 1.7.5.4会员版@[MT签名]-下载地址.txt](https://www.lanzoul.com/iKaxX1foe5je)
+
+ - [高德地图红米K50定制版11.11.60.3455.apk](https://www.lanzoul.com/ikerT1foe3qj)
+
+ - [抖音27.6-v8a-小能手2.0.6-可登陆版-下载地址.txt](https://www.lanzoul.com/iqouG1fodtyh)
+
+ - [抖音 27.8.0_270801-内置小能手2.0.7模块-下载地址.txt](https://www.lanzoul.com/i6c2w1fodtud)
+
+ - [抖音 27.8.0_270800-内置小能手2.0.7模块-下载地址.txt](https://www.lanzoul.com/iLKkp1fodtoh)
+
+ - [抖音27.8-v8a-小能手2.0.6 Freedom-下载地址.txt](https://www.lanzoul.com/i3uin1fodtng)
+
+ - [贝乐虎儿歌 6.6.0会员版@[SN-3dca7469].apk](https://www.lanzoul.com/ivY811fodowf)
+
+ - [阿里云盘webdav.3.1.1.release.apk](https://www.lanzoul.com/i235h1fodlpa)
+
+ - [X-plore v4.34.02 arm7+arm64 _ed by youarefinished_src.apk](https://www.lanzoul.com/i64IS1fodl4j)
+
+ - [X-plore文件管理 4.34.01解锁捐赠版_Balatan.apk](https://www.lanzoul.com/ihbEl1fodkyd)
+
+ - [X-plore v4.34.02 arm7+arm64 Black _ed by youarefinished_src.apk](https://www.lanzoul.com/iCUsp1fodknc)
+
+ - [XMind Mind Map v23.09.11250 _ed by youarefinished_src.apk](https://www.lanzoul.com/iWdht1fodk3c)
+
+ - [ViperFX RE (5.5)@WST.apk](https://www.lanzoul.com/i3ucA1fodjng)
+
+ - [TVBox_takagen99_20231121-0024.apk](https://www.lanzoul.com/iXvQ51fodiuh)
+
+ - [TIM_3.4.8.22124_mefcl_Setup.exe](https://www.lanzoul.com/ipvVZ1fodigd)
+
+ - [SuperTV_v10.253.1.251.6.apk](https://www.lanzoul.com/iVueG1fodhde)
+
+ - [ReVanced_Extended_Dark_v18.45.41_MustHave@inotia00-下载地址.txt](https://www.lanzoul.com/ir5oH1fodg5a)
+
+ - [VancedMicroG_v0.2.27.230755_MustHave.apk](https://www.lanzoul.com/iAkKR1fodg4j)
+
+ - [MyRadio v1.1.67.1117 modded by Mixroot.apk](https://www.lanzoul.com/ivjda1fodbuf)
+
+ - [gkd-v1.5.2.apk](https://www.lanzoul.com/iVhCX1fodaze)
+
+ - [Chat_Smith_v3.4.0_(443)_Mod_protected@辰夕.apk](https://www.lanzoul.com/ilITN1fod94h)
+
+ - [Chat_AI_v1.6.2_(24)_Mod_protected@辰夕.apk](https://www.lanzoul.com/ih74X1fod8re)
+
+ - [CamScanner v6.53.0.2311140000 offline _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iHyXu1fod7ta)
+
+ - [CamScanner v6.53.0.2311140000 Clean _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iKWEK1fod7sj)
+
+ - [CamScanner v6.53.0.2311140000 ads support _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iDHk81fod7ri)
+
+ - [扫码全能王_v6.53.0.2311140000_(65302)_Mod_protected@辰夕-下载地址.txt](https://www.lanzoul.com/i52P81fod7qh)
+
+ - [酷安_13.0.1_Monet@rikkati-202311211006.apk](https://www.lanzoul.com/i5fSW1fod32j)
+
+ - [酷安_13.0.1@rikkati-202311211006.apk](https://www.lanzoul.com/inOFj1fod2ri)
+
+ - [c001apk_c516386(94).apk](https://www.lanzoul.com/iDnnr1fod2ij)
+
+ - [Autox-v6-arm64-v8a-release-6.5.5.apk](https://www.lanzoul.com/iZXDY1foczve)
+
+ - [AdGuard Ad Blocker v4.3.133 arm7+arm64 Nightly _ed by youarefinished_src.apk](https://www.lanzoul.com/ivjtw1focyhe)
+
+ - [AdGuard-Premium-v4.3.133_build_10140590-Mod-arm64-v8a_iHackedit.com@balatan.apk](https://www.lanzoul.com/ilQoe1focxvc)
+
+ - [影视仓5.0.12_1.apk](https://www.lanzoul.com/iQtDh1fnggkh)
+
+ - [影视仓_5.0.13.apk](https://www.lanzoul.com/ixHQ81fngg6d)
+
+
 ## 2023-11-22 更新
 
  - [在线驱动更新工具 IObit Driver Booster 11.1.0.26 中文多语免费版.exe](https://www.lanzoui.com/i066J1fiom2d)
