@@ -9,6 +9,19 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-27 更新
+
+ - [*直播Simple Live v1.4.564-v8a-relea.apk](https://www.lanzoui.com/isO9h1fznh2j)
+
+ - [*直播Simple Live v1.4.5-v7a-relea.apk](https://www.lanzoui.com/ilZF31fznfoj)
+
+ - [*直播Simple Live v1.4.5-x86_64-relea.apk](https://www.lanzoui.com/ioJ7T1fznedc)
+
+ - [360极速浏览器_13.5.2044.0绿化优化版.7z](https://www.lanzoui.com/iSmra1fwqspi)
+
+ - [火山短剧1005(PJ52).apk](https://www.lanzoui.com/iWDom1fwqmfc)
+
+
 ## 2023-11-23 更新
 
 ## 2023-11-24 更新

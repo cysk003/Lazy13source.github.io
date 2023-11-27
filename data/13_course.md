@@ -36,6 +36,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《赵昱鲲·积极心理学30讲》
+
+  - 标签：`心理学`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/RDnsI9KkLHWcVhQM9xNpgqU27e6YPodoNzXq2M7ApUjHbqEtqFwUtVtU10SIbBQE3EjlTvB0gl5CIv0bso6GdA/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《黄碧云·怎样让店铺持续增长》
 
   - 标签：`#创业`，`#商业`
@@ -591,6 +600,8 @@
 ## 健康系列
 
 - 本系列均已整理，这里只是目录，文档下载地址在**懒人专属群** Q群公告的《通才计划》！
+
+- #### 《医学通识50讲》
 
 - #### 《薄世宁·健康通识30讲》
 
