@@ -18,6 +18,24 @@
 
 ***
 
+- 231129：
+
+  - 231125卢克文嘉宾《淘宝取消双十二，消费下滑的又一信号？》
+  - 231127政事堂付费文《解读11月政治局会议》
+  - 231128司令星球文《现阶段别乱动》
+  
+- 231128:
+
+  - <details>
+    <summary>更新《231128懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKoWPqW9w57oiaWeomTzuiaQqaQF19jNQCZ2l3avN9SXMKLRX0PGEpKPPgaPCVVB9rUeibPE0AXViavXg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《231128懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKoWPqW9w57oiaWeomTzuiaQqL3gAkeYOYW3v0kGwTVC3wjSB0NwhMibic0ECEJSbWSLrAfBjSo8LKiaHQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 231127：
 
   - 更新第45期《财新周刊》

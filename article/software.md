@@ -9,6 +9,20 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-29 更新
+
+ - [专业音乐管理软件MusicBee 3.5.8698 官方最新版.zip](https://www.lanzoui.com/i6ZeU1g84jrg)
+
+
+## 2023-11-28 更新
+
+ - [智慧教育.apk](https://www.lanzoui.com/isNFP1g4hyha)
+
+ - [断针即时打XP 无限制版.rar](https://www.lanzoui.com/inc8a1g4hqmh)
+
+ - [证件照助手_1.0.1.apk](https://www.lanzoui.com/iWOEI1g4hfxc)
+
+
 ## 2023-11-27 更新
 
  - [*直播Simple Live v1.4.564-v8a-relea.apk](https://www.lanzoui.com/isO9h1fznh2j)
