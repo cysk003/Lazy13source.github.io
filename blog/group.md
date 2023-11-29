@@ -12,7 +12,7 @@
 
 👍懒人专属最新的[更新记录点击跳转](/blog/record2)
 
-👍进群后[资源介绍和分布查看这篇文章](https://mp.weixin.qq.com/s/RqsfEaweJf4zBG0Xnl3J5A)
+👍进群后[资源介绍和分布查看这篇文章](https://mp.weixin.qq.com/s/Aw0WwAAV3nEa5bvvd2_OTg)
 
 ### 享有权益：
 
@@ -39,8 +39,6 @@
 历史资源备份[见文档备份](/blog/record3)，Q群公告可下载
 
 注：专属群不支持催更，小懒有自己的节奏和安排。付费只是取得进群资格!
-
-付费进群后的资源分布见文章：[聊一下资源分布情况](http://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647885083&idx=1&sn=558e9ecbb41746beb47e492078ee8193&chksm=f20a3b5ac57db24c3a63a87b6400081c15033be1ea310382989c1291d5b6e6a295b3da4c04e4&scene=21#wechat_redirect)
 
 ***
 
