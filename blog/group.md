@@ -12,7 +12,7 @@
 
 👍懒人专属最新的[更新记录点击跳转](/blog/record2)
 
-👍进群后[资源介绍和分布查看这篇文章](https://mp.weixin.qq.com/s/Aw0WwAAV3nEa5bvvd2_OTg)
+👍进群后[资源介绍和分布查看这篇文章](https://mp.weixin.qq.com/s/XAHDpC5DhhDCX5efugMORg)
 
 ### 享有权益：
 
