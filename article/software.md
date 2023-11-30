@@ -9,6 +9,111 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-11-30 更新
+
+ - [酷安纯净版v13.3.4.apk](https://www.lanzoui.com/iOhGy1gboh5a)
+
+ - [支付宝小米14pro提取版10.2.33.8850-下载地址.txt](https://www.lanzoul.com/iyY8O1gajnfa)
+
+ - [小白微信文件整理工具1.7_单文件带环境.rar](https://www.lanzoul.com/iOxcS1gajdaf)
+
+ - [喜马拉雅9.1.93.3@MT小程-下载地址.txt](https://www.lanzoul.com/ibm6a1gaj9kb)
+
+ - [蜗牛云盘Windows版64位-1.3.8-windows-下载地址.txt](https://www.lanzoul.com/ixZGw1gaj8id)
+
+ - [微博 13.11.2-内置猪手2.2.6-254模块-下载地址.txt](https://www.lanzoul.com/itxrb1gaj7gf)
+
+ - [网易云音乐 8.7.55@TKJIKU内置模块-下载地址.txt](https://www.lanzoul.com/i8uZb1gaj6pi)
+
+ - [七猫免费小说_7.37(73700)_Mod@辰夕.apk](https://www.lanzoul.com/iTgeL1gaj58f)
+
+ - [拼多多 小米 14 Pro 定制版 v6.6.1.apk](https://www.lanzoul.com/is8xt1gaj31g)
+
+ - [墨迹天气_9.0842.02-Mod@帝落.apk](https://www.lanzoul.com/ihrcr1gaj25e)
+
+ - [美团红包助手 Ver.1.8.6 去广告版@zhou45.apk](https://www.lanzoul.com/i85Oh1gaiypa)
+
+ - [雷电模拟器9(64)-9.0.62.4去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/icWRA1gaixji)
+
+ - [酷我音乐-v10.6.6.0-VIP-童鞋-下载地址.txt](https://www.lanzoul.com/iQsBM1gaivre)
+
+ - [酷我畅听_9.1.8.1-Mod@帝落.apk](https://www.lanzoul.com/ioVEq1gaitlg)
+
+ - [可可影视2.15 官方版.apk](https://www.lanzoul.com/iGFRu1gaipde)
+
+ - [海阔视界_V8.18_1126_C4554_db53-64位.apk](https://www.lanzoul.com/ioooJ1gain3c)
+
+ - [百度网盘客户端-7.35.0.4-Modified@zd423-下载地址.txt](https://www.lanzoul.com/ilWDK1gaikyf)
+
+ - [阿里云盘webdav-3.1.2.release.apk](https://www.lanzoul.com/iuzp81gaijte)
+
+ - [阿里云盘TV_1.1.6.apk](https://www.lanzoul.com/ilJxw1gaiiaj)
+
+ - [WinRAR v7.00 beta 2 x64 SC@烈火.exe](https://www.lanzoul.com/ir6H01gaibwj)
+
+ - [WiFi万联钥匙_1.0.1-Mod@帝落.apk](https://www.lanzoul.com/i1g761gaiari)
+
+ - [SD Maid 2_SE - System Cleaner v0.17.1-beta0 _ed by youarefinished_src.apk](https://www.lanzoul.com/iqYYJ1gai73g)
+
+ - [ADM_14.0.24@liu.apk](https://www.lanzoul.com/iBcxf1gai5vc)
+
+ - [TVBox_takagen99_20231128-0053.apk](https://www.lanzoul.com/iVbaq1gagb6b)
+
+ - [Speedtest_Premium_v5.2.3_MustHave@balatan.apk](https://www.lanzoul.com/irvfa1gag8eb)
+
+ - [OlSoul_Windows系统调校_20231129_6be5b813.exe](https://www.lanzoul.com/i8PJ91gag4ve)
+
+ - [mpv-x86_64-20231126-git-6898d57.7z](https://www.lanzoul.com/iceD11gag3vi)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.47.apk](https://www.lanzoul.com/imH4U1gag2de)
+
+ - [DefenderRemover-v12.6.exe](https://www.lanzoul.com/iTtLW1gag1id)
+
+ - [CCleaner-Pro-6.18.10838-x64-Plus@zd423.7z](https://www.lanzoul.com/iow4P1gag08h)
+
+ - [2345pic_11.1.0.10058_Green@果核剥壳.7z](https://www.lanzoul.com/iWCaq1gafwbg)
+
+ - [99手游_1.4.7_Mod@辰夕.apk](https://www.lanzoul.com/i4vvH1gaftvi)
+
+ - [影视TV-v2.0.9-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iyCpf1gafpad)
+
+ - [影视TV-v2.0.9-A4.x-leanback.apk](https://www.lanzoul.com/iGQYZ1gafovi)
+
+ - [影视TV-v2.1.0-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/ifR2i1gafobi)
+
+ - [影视TV-v2.1.0-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iABVX1gafnmd)
+
+ - [影视TV-v2.1.0-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iOGq81gafn1c)
+
+ - [影视TV-v2.1.0-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/i25pO1gafmje)
+
+ - [影视TV-v2.1.0-A4.x-leanback-python去升级版.apk](https://www.lanzoul.com/iJbLd1gaflze)
+
+ - [影视TV-v2.1.0-A4.x-leanback.apk](https://www.lanzoul.com/ixtQZ1gaflla)
+
+ - [影视TV-v2.0.9-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/i3hew1gafldc)
+
+ - [影视TV-v2.0.9-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iemSB1gafl0j)
+
+ - [影视TV-v2.0.9-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/ixRjG1gafkng)
+
+ - [影视-v2.0.9-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/io9yl1gafjhe)
+
+ - [影视-v2.1.0-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iDes21gafjah)
+
+ - [影视-v2.1.0-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/itd6j1gafiwd)
+
+ - [影视-v2.0.9-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/ihgr61gafita)
+
+ - [蜗牛云盘-arm64-v82.2.4.apk](https://www.lanzoul.com/iCrjJ1gafhvg)
+
+ - [蜗牛云盘-armeabi-v72.2.5.apk](https://www.lanzoul.com/inUF41gafgod)
+
+ - [蜗牛云盘-armeabi-v72.2.4.apk](https://www.lanzoul.com/iFesO1gaff0d)
+
+ - [蜗牛云盘-arm64-v82.2.5.apk](https://www.lanzoul.com/iBMva1gafdwd)
+
+
 ## 2023-11-29 更新
 
  - [专业音乐管理软件MusicBee 3.5.8698 官方最新版.zip](https://www.lanzoui.com/i6ZeU1g84jrg)
