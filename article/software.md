@@ -9,6 +9,9 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-01 更新
+
+
 ## 2023-11-30 更新
 
  - [酷安纯净版v13.3.4.apk](https://www.lanzoui.com/iOhGy1gboh5a)
