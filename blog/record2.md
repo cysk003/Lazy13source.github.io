@@ -18,6 +18,19 @@
 
 ***
 
+- 231204：
+
+  - 231130大树乡谈付费文《未来的重大改革：剑指金融，重塑分配》
+  - 231203咩咩说付费文《为何牛儿不喝水》
+  - 231129尹香武208元付费文《房价下跌收尾的简易判断标志》
+  
+- 231201:
+
+  - <details>
+    <summary>更新《懒人专属群周报》（第61期），点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLUYaiaN9eQ9UqEQr87epzzy0KCZOVnGBiaLUryDzHe0HCibQ5jjl6nWVamzB2s4oibibHsDibGxLp5QBtA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 231130：
 
   - 西风付费文《潘金莲职场历险记》

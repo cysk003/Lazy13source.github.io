@@ -9,6 +9,115 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-04 更新
+
+ - [萌音变声器.apk](https://www.lanzoui.com/iZYpM1glt5ib)
+
+ - [智能助手_1.7.2@takklong.apk](https://www.lanzoul.com/iRiyP1ghsuqj)
+
+ - [微博 13.11.3-内置猪手2.2.6-254模块-下载地址.txt](https://www.lanzoul.com/i0fxY1ghsqmb)
+
+ - [美团红包助手 Ver.1.8.7 去广告版@zhou45.apk](https://www.lanzoul.com/iC6df1ghsksb)
+
+ - [雷电模拟器5(64)-v5.0.73-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/inyB21ghsgmb)
+
+ - [雷电模拟器9(64)-v9.0.63-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/itZ0T1ghsgkj)
+
+ - [今日水印相机_v3.0.75.1-Mod@帝落-下载地址.txt](https://www.lanzoul.com/iuTOB1ghsb3c)
+
+ - [百度输入法 12.0.2.26解锁皮肤字体_青帝-下载地址.txt](https://www.lanzoul.com/iw5Ed1ghs1xc)
+
+ - [阿里云盘去更新说明.zip](https://www.lanzoul.com/i2GeZ1ghrjub)
+
+ - [阿里云盘 4.9.14去更新v2版-下载地址.txt](https://www.lanzoul.com/il6g81ghrdid)
+
+ - [阿里云盘最后无会员版aDrive v2.4.0.127.rar](https://www.lanzoul.com/iqJWo1ghrd0f)
+
+ - [ ReVanced 18.45.43 Plus@simba.apk](https://www.lanzoul.com/ixQmM1ghqp2d)
+
+ - [X-plore 文件管理4.34.05解锁捐赠版_derrin.apk](https://www.lanzoul.com/iL6Hw1ghqeni)
+
+ - [XBYDriver-3.12.2-win-x64@gaozhangmin.exe](https://www.lanzoul.com/ieMDx1ghq6tg)
+
+ - [WPS Office_v18.4.3_1476谷歌高级版_Balatan-下载地址.txt](https://www.lanzoul.com/itbVr1ghpsfi)
+
+ - [TVBox_takagen99_20231129-1815.apk](https://www.lanzoul.com/iD86a1ghpbgh)
+
+ - [SD Maid SE-0.17.1-beta0-Mod@帝落.apk](https://www.lanzoul.com/iI0dJ1ghoswj)
+
+ - [SD Maid SE_0.17.1-beta0-Mod@帝落.apk](https://www.lanzoul.com/iqrKB1ghosbi)
+
+ - [SD Maid SE_0.17.1-beta0@liu.apk](https://www.lanzoul.com/iwG671ghorne)
+
+ - [SD_Maid_v5.6.3-Beta-专业版_Balatan.apk](https://www.lanzoul.com/iK9os1ghor9a)
+
+ - [SD_Maid_v5.6.3-Beta-暗黑专业版_Balatan.apk](https://www.lanzoul.com/i1i461ghoqmh)
+
+ - [SD_Maid_v5.6.3_(50603)_Mod@辰夕.apk](https://www.lanzoul.com/ijsps1ghopyd)
+
+ - [SD_Maid_SE-Pro-v0.17.1-beta0_build_1701000-Viva-Magenta-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/iQWsM1ghopdc)
+
+ - [SD_Maid_SE_v0.17.1-beta0专业版_Balatan.apk](https://www.lanzoul.com/iNTPY1ghooqj)
+
+ - [SD.Maid.SE-0.17.1-PRO_red@ST.apk](https://www.lanzoul.com/i8unK1ghonxa)
+
+ - [SD.Maid.SE-0.17.1-PRO@ST.apk](https://www.lanzoul.com/iTfL11ghon6d)
+
+ - [SD Maid_5.6.3-Mod@帝落.apk](https://www.lanzoul.com/ijib71ghomgh)
+
+ - [OlSoul_Windows系统调校_20231201_4a704282.exe](https://www.lanzoul.com/iVhFB1gho56f)
+
+ - [Nagram-v10.2.9-mini-arm64-v8aNoGcm.apk](https://www.lanzoul.com/iKCM21ghnz1e)
+
+ - [Nagram-v10.2.9-mini-arm64-v8a.apk](https://www.lanzoul.com/i5Nhv1ghnx9a)
+
+ - [MyRadio_1.1.70.1128-Mod@帝落.apk](https://www.lanzoul.com/imKfa1ghnslc)
+
+ - [MyRadio v1.1.70.1128 Modded by Mixroot.apk](https://www.lanzoul.com/ijF0A1ghnrej)
+
+ - [IDM_v6.42.2绿色特别版_zd423.exe](https://www.lanzoul.com/i7HKk1ghnncd)
+
+ - [GPU-Z 显卡检测 v2.56.0 汉化版@th_sjy.7z](https://www.lanzoul.com/iBbpE1ghnk5i)
+
+ - [GPU-Z 显卡检测 v2.56.0 汉化版 (华硕 ROG 皮肤)@th_sjy.7z](https://www.lanzoul.com/isTfF1ghnjxa)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.48.apk](https://www.lanzoul.com/iEYhk1ghnh6b)
+
+ - [CamScanner v6.54.0.2311270000 offline _ed by youarefinished.src-下载地址.txt](https://www.lanzoul.com/i9nFW1ghnepc)
+
+ - [CamScanner v6.54.0.2311270000 clean _ed by youarefinished.src-下载地址.txt](https://www.lanzoul.com/i8ulj1ghneob)
+
+ - [CamScanner v6.54.0.2311270000 ads support _ed by youarefinished.src-下载地址.txt](https://www.lanzoul.com/ihzKk1ghnemj)
+
+ - [CamScanner扫描全能王 6.54.0.2311270000解锁版_derrin-下载地址.txt](https://www.lanzoul.com/ikMeL1ghneli)
+
+ - [c001apk_6e56d40(135).apk](https://www.lanzoul.com/iJ3Is1ghmfpc)
+
+ - [c001apk_e822029(133).apk](https://www.lanzoul.com/iDUDL1ghmfna)
+
+ - [c001apk_27729fd(139).apk](https://www.lanzoul.com/inWfw1ghmfkh)
+
+ - [c001apk_107f700(131).apk](https://www.lanzoul.com/idYmm1ghmfjg)
+
+ - [c001apk_17beff2(134).apk](https://www.lanzoul.com/iUwOk1ghmfif)
+
+ - [AdGuard Ad Blocker v4.3.147 arm7+arm64 Nightly _ed by youarefinished_src.apk](https://www.lanzoul.com/im2eG1ghmegh)
+
+ - [AdGuard Ad Blocker v4.3.146 arm7+arm64 Nightly _ed by youarefinished_src.apk](https://www.lanzoul.com/ivCqJ1ghmdvg)
+
+ - [991EX_6.8.5.468@liu.apk](https://www.lanzoul.com/iuD3B1ghmccb)
+
+ - [360csex_22.1.1056.64_Flash_mefcl_Setup-下载地址.txt](https://www.lanzoul.com/iFzIY1ghma9g)
+
+ - [[LSPatch]Bilibili-7.57.0-b13537716-漫游45259d0ef7-下载地址.txt](https://www.lanzoul.com/ifN5S1ghm7cb)
+
+ - [甲壳虫ADB助手 v1.2.8 破解版.apk](https://www.lanzoul.com/iexR01gjpnwh)
+
+ - [影视仓_2.0.10_1_opt.apk](https://www.lanzoul.com/iHiQN1gjpnsd)
+
+ - [影视仓5.0.14.apk](https://www.lanzoul.com/ii8PM1gjpnfa)
+
+
 ## 2023-12-01 更新
 
 
