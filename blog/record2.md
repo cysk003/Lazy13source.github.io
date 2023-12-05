@@ -30,7 +30,8 @@
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKYKCaBlhaMtAaTGk3Cl6R1TPSVlsMMhUVSg5v0ZIkTeHK2nQQ92F5Ls0WOt1IOEia76gLicUqgrWqQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
   
-  - 付费文《降薪裁员，穿越周期，现在是各凭本事的时候了》
+  - 付费文《降薪裁员，穿越周期，现在是各凭本事的时候了》+
+  - 付费文《普通人致富切入赛道的关键点》
   - 付费文《2038年的中国（深度，模型，方法论）》（下）
   - 付费文《2038年的世界（深度，模型，方法论）》（上）
   - 付费文《缅北冲突升级的背后》
