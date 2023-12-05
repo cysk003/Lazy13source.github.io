@@ -9,6 +9,9 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-05 更新
+
+
 ## 2023-12-04 更新
 
  - [萌音变声器.apk](https://www.lanzoui.com/iZYpM1glt5ib)

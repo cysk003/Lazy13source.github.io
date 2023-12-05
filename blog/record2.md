@@ -18,6 +18,24 @@
 
 ***
 
+- 231205：
+
+  - <details>
+    <summary>更新《231205懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKYKCaBlhaMtAaTGk3Cl6R1cjBJowV7udN4rnnLk3NwvZSfpcLC7Q5FIBok0TL1gYHwSEiatBuSekA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《231205懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKYKCaBlhaMtAaTGk3Cl6R1TPSVlsMMhUVSg5v0ZIkTeHK2nQQ92F5Ls0WOt1IOEia76gLicUqgrWqQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 付费文《降薪裁员，穿越周期，现在是各凭本事的时候了》
+  - 付费文《2038年的中国（深度，模型，方法论）》（下）
+  - 付费文《2038年的世界（深度，模型，方法论）》（上）
+  - 付费文《缅北冲突升级的背后》
+  - 三眼证道精选集上下册
+  
 - 231204：
 
   - 231130大树乡谈付费文《未来的重大改革：剑指金融，重塑分配》
