@@ -9,6 +9,115 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-06 更新
+
+ - [安装Win到U盘WinToUSB 8.4 技术员便携版.zip](https://www.lanzoui.com/iNnqD1gwp5sd)
+
+ - [显卡检测工具 GPU-Z 2.56.0 简体中文汉化单文件版2.56.0.exe](https://www.lanzoui.com/i1V5g1gwoywf)
+
+ - [桌面硬件信息显示工具 x64 .7z](https://www.lanzoui.com/iQSDC1gwougf)
+
+ - [智能助手_v1.7.2_(172)_Mod_protected@辰夕.apk](https://www.lanzoul.com/iQ7Mr1gyd0bg)
+
+ - [知网下载器cnkiDownloader.rar](https://www.lanzoul.com/io5dZ1gyczsh)
+
+ - [知乎(谷歌版)-9.29-v8a-with-知了23.10.08.apk](https://www.lanzoul.com/ioYCq1gyczhg)
+
+ - [知乎(谷歌版)-9.29-v8a.apk](https://www.lanzoul.com/ipvdZ1gycwzg)
+
+ - [支付宝 小米 14 Pro 定制版 v10.2.33.8850(440)-下载地址.txt](https://www.lanzoul.com/i9WfI1gyctng)
+
+ - [支付宝(红米版)-10.2.33.8845(440)-下载地址.txt](https://www.lanzoul.com/ioJB61gyctkd)
+
+ - [支付宝(谷歌版)-10.5.55.8000(951)-下载地址.txt](https://www.lanzoul.com/igwuR1gyctjc)
+
+ - [腾讯视频-v11.83.8358.0-去广告绿版@zd423.exe](https://www.lanzoul.com/iGDR51gycn3a)
+
+ - [唐诗三百首TV-v1.81.2233tv@[SN-48096F16].apk](https://www.lanzoul.com/ihXTJ1gyckla)
+
+ - [唐诗三百首_9.9.0@liu.apk](https://www.lanzoul.com/iIW2V1gyci3a)
+
+ - [宋词三百首_9.6.0@liu.apk](https://www.lanzoul.com/iqAZK1gychkb)
+
+ - [扫描全能王_v6.54.0.2311270000_(65402)_Mod_protected@辰夕-下载地址.txt](https://www.lanzoul.com/iX4gn1gych8j)
+
+ - [拼多多 小米 13 Pro 定制版 v6.6.1(60601).zip](https://www.lanzoul.com/iC5PE1gycgte)
+
+ - [墨迹天气_v9.0842.02_Mod@辰夕.apk](https://www.lanzoul.com/iF0zb1gycfnc)
+
+ - [酷我畅听 9.1.8.1会员版@[MT签名].apk](https://www.lanzoul.com/iC6Fw1gyce1e)
+
+ - [京东 vivo X90 Pro  定制版 v11.2.3.7z](https://www.lanzoul.com/i9zaB1gycava)
+
+ - [酷狗概念版_v2.5.5官方版（最后自动领取VIP版）.apk](https://www.lanzoul.com/iKPBa1gyc77i)
+
+ - [海阔视界_V8.19_1203_C4575_db53-64位.apk](https://www.lanzoul.com/ilBGa1gyc1oj)
+
+ - [古诗三百首_8.0.0@liu.apk](https://www.lanzoul.com/iw8PP1gybyyb)
+
+ - [百度网盘(官方体验版)-12.0.2-v8a.apk](https://www.lanzoul.com/iJ6QW1gybxyf)
+
+ - [X-plore v4.34.05 Black _ed by youarefinished_src_sign.apk](https://www.lanzoul.com/it6VA1gybtkh)
+
+ - [X-plore v4.34.05 _ed by youarefinished_src_sign.apk](https://www.lanzoul.com/ivLXD1gybsmd)
+
+ - [X-plore-Donate-v4.34.07_build_43407-Mod@balatan.apk](https://www.lanzoul.com/iytTE1gybrid)
+
+ - [X-plore v4.34.07 Patched by youarefinished_src.apk](https://www.lanzoul.com/iJGNv1gybqpe)
+
+ - [X-plore v4.34.07 Black Patched by youarefinished_src.apk](https://www.lanzoul.com/iLidk1gybpra)
+
+ - [WPS_Office-Premium-v18.5_build_1477-Mod_iHackedit.com@balatan-下载地址.txt](https://www.lanzoul.com/iCcFj1gybnne)
+
+ - [Windows 10 数字永久激活工具 v1.5.3.x64 汉化版@th_sjy.7z](https://www.lanzoul.com/ijPsd1gybn3e)
+
+ - [TVBox_takagen99_20231205-0841.apk](https://www.lanzoul.com/iRO451gybm5a)
+
+ - [Telegram_Premium[Anti]-v10.3.5@abhi.apk](https://www.lanzoul.com/ivVVI1gybjeb)
+
+ - [Telegram_Premium-v10.3.5@abhi.apk](https://www.lanzoul.com/iMvs81gybg7g)
+
+ - [Telegram_Premium[Fix]-v10.3.5@abhi.apk](https://www.lanzoul.com/ieV5o1gybcfa)
+
+ - [Telegram_Premium[Fix][Anti]-v10.3.5@abhi.apk](https://www.lanzoul.com/iO4LH1gyb7xi)
+
+ - [Speedtest-Premium-v5.2.4_build_204500-Mod-arm64-v8a_iHackedit.com@balatan.apk](https://www.lanzoul.com/iFKBm1gyb20f)
+
+ - [SoftCnKiller2.81.exe](https://www.lanzoul.com/iNtT31gyaxkf)
+
+ - [SoftCnKiller2.81（解压密码：0000）.zip](https://www.lanzoul.com/iDn9H1gyaxfa)
+
+ - [skylark_x64-v4.0.8.7z](https://www.lanzoul.com/iWhyL1gyawfe)
+
+ - [SD Maid SE_0.17.2-beta0-Mod@帝落.apk](https://www.lanzoul.com/iBaZy1gyalad)
+
+ - [SD Maid 2_SE - System Cleaner v0.17.2-beta0 _ed by youarefinished_src.apk](https://www.lanzoul.com/iWEzg1gyakna)
+
+ - [SD_Maid_SE-Pro-v0.17.2-beta0_build_1702000-Viva-Magenta-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/ipj501gyak1i)
+
+ - [SD_Maid_SE-Pro-v0.17.2-beta0_build_1702000-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/i76xO1gyajde)
+
+ - [SD.Maid.SE-0.17.2-PRO_red@ST.apk](https://www.lanzoul.com/itrS01gyaiqb)
+
+ - [SD.Maid.SE-0.17.2-PRO@ST.apk](https://www.lanzoul.com/irdct1gyahyd)
+
+ - [OlSoul_Windows系统调校_20231204_6ba76c93.exe](https://www.lanzoul.com/irn221gyageh)
+
+ - [MyRadio_1.1.70.1130-Mod@帝落.apk](https://www.lanzoul.com/iqMih1gyabfi)
+
+ - [MyRadio_1.1.71.1201-Mod@帝落.apk](https://www.lanzoul.com/idNQO1gya9cd)
+
+ - [mpv-x86_64-20231203-git-f551a9d.7z](https://www.lanzoul.com/i2FzN1gya5pc)
+
+ - [MicroG.RE.4.0@WST.apk](https://www.lanzoul.com/ieiek1gy9zkb)
+
+ - [lx-music-desktop-win_x64-green-v2.6.0-beta.3.zip](https://www.lanzoul.com/izOhP1gy9wwf)
+
+ - [lx-music-desktop-win7_x64-green-v2.6.0-beta.3.zip](https://www.lanzoul.com/i7NcA1gy9rpi)
+
+ - [lx-music-mobile-v1.2.0-beta.7-arm64-v8a.apk](https://www.lanzoul.com/i4dh71gy9l9g)
+
+
 ## 2023-12-05 更新
 
 
