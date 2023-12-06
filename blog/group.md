@@ -43,11 +43,11 @@
 
 懒人群为共享社区，分享资料为虚拟产品，不接受退款。小懒不会虚假宣传，请尊重懒人时间，确定要进再进。
 
-如果违反群规，将被小懒请出群聊，最终解释权归小懒人所有！
+如果违反群规，将被小懒请出群聊，群规最终解释权归小懒人所有~
 
 ***
 
-真正需要的直接添加小懒（微信号：**lazyhelper**）咨询，付费进群~
+真正需要的直接添加小懒（微信号：**lazyhelper**）咨询，付费进群
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
