@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-08 更新
+
+ - [去广告神器.zip](https://www.lanzoui.com/iyjZd1h3h7ta)
+
+ - [影视仓_2.0.11_opt.apk](https://www.lanzoul.com/iEWky1h25yqb)
+
+
 ## 2023-12-07 更新
 
 

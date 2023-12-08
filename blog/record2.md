@@ -18,6 +18,13 @@
 
 ***
 
+- 231208：
+
+  - <details>
+    <summary>更新《懒人专属群周报》（第62期），点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIF3e7gUoiambibjibrh5C8ptkYyOtev4ySbePqBURlHQldQhGG3BbNqJTvvnGiaGibYgeYcibvicKksGh6Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 231207：
 
   - 卢克文星球嘉宾《朝鲜半岛局势再紧张，又一个火药桶要爆？》
