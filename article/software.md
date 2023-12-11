@@ -9,6 +9,15 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-11 更新
+
+ - [禁用Windows7-10-11系统升级更新StopUpdates10Portable_4.5.2023.0523.rar](https://www.lanzoui.com/ipZkj1hfd74d)
+
+ - [花瓣测速-4.8.0.303(40800303).apk](https://www.lanzoui.com/ioPSF1hfd1cf)
+
+ - [二维码小工具-v3.3-BUCTPJP[LSG].zip](https://www.lanzoui.com/i8fzn1hal8sb)
+
+
 ## 2023-12-08 更新
 
  - [去广告神器.zip](https://www.lanzoui.com/iyjZd1h3h7ta)
