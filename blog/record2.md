@@ -18,6 +18,18 @@
 
 ***
 
+- 231212：
+
+  - <details>
+    <summary>更新《231212懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKsTSFicwd6eM0H2nB2VmKUEHaLURJJRRAR6nC2A3QIu1nOib62AlibIlnFu5X4wreWtWkA8icvDGRf2w/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《231212懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKsTSFicwd6eM0H2nB2VmKUEOSZP8yxXk2P44STcOdabB6DaRvFGc8m7UpAQf0MUTwX0nwxaSGaNcA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 231211：
 
   - <details>

@@ -9,6 +9,95 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-12 更新
+
+ - [Tik-Tok_v32.5.3解锁限制-多语言-含配套插件_tigr1234566-下载地址.txt](https://www.lanzoul.com/iuoeT1hk8wji)
+
+ - [ViperFX RE (5.6)@WST.apk](https://www.lanzoul.com/iRYIB1hk8dsd)
+
+ - [ViperFX RE (5.6.2)@WST.apk](https://www.lanzoul.com/iHWp31hk8dkf)
+
+ - [ViperFX RE (5.6.1)@WST.apk](https://www.lanzoul.com/iTtRJ1hk8dhc)
+
+ - [TVBox_takagen99_20231208-1116.apk](https://www.lanzoul.com/iR1om1hk8bkd)
+
+ - [Speedtest-Premium-v5.2.4_build_204500-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/ipFJF1hk86xg)
+
+ - [skylark_x64-v4.0.9.7z](https://www.lanzoul.com/iylMQ1hk81ib)
+
+ - [SD.Maid.ST.Pro-5.6.3@ST.apk](https://www.lanzoul.com/iLxvc1hk7zof)
+
+ - [OlSoul_Windows系统调校_20231207_f5bb7533.exe](https://www.lanzoul.com/iEZpO1hk7xba)
+
+ - [Nekogram-10.3.2-4145-arm64-v8a.apk](https://www.lanzoul.com/iMzQb1hk7tvg)
+
+ - [MyRadio_v1.1.71.1201_modded_by_Mixroot.apk](https://www.lanzoul.com/iqtZ11hk7fpg)
+
+ - [MyRadio_1.1.73.1209-Mod@帝落.apk](https://www.lanzoul.com/iLpqv1hk7ech)
+
+ - [MX 播放器 1.74.5 Ultra ARM64@simba.apk](https://www.lanzoul.com/ilPK71hk7axe)
+
+ - [MX 播放器 1.74.5 ARM64 For Flyme@simba.apk](https://www.lanzoul.com/iDhF31hk7afg)
+
+ - [MX Player播放器 1.74.5解锁付费专业版@KimJaeHyun.apk](https://www.lanzoul.com/ih5Ho1hk79qb)
+
+ - [MX_Player专业版_v1.74.5_(2001002205)_Mod@辰夕.apk](https://www.lanzoul.com/igJNM1hk77wf)
+
+ - [MX_Player_Pro-v1.74.5_build_2001002205-_-AC3-DTS-NEON-arm64-v8a_iHackedit.com@balatan.apk](https://www.lanzoul.com/iMwgD1hk76re)
+
+ - [mpv-x86_64-20231210-git-443c248.7z](https://www.lanzoul.com/iP9V11hk6wbi)
+
+ - [MicroG.RE.4.1@WST.apk](https://www.lanzoul.com/i8d661hk6p6b)
+
+ - [lx-music-desktop-win_x64-green-2.6.0-beta.4.zip](https://www.lanzoul.com/ivWg11hk6n7a)
+
+ - [lx-music-desktop-win7_x64-green-2.6.0-beta.4.zip](https://www.lanzoul.com/iuvHw1hk6krc)
+
+ - [Google-Play-Store-38.7.35-29-A10 All.apk](https://www.lanzoul.com/iI86T1hk6f7c)
+
+ - [Google Play 商店_v38.7.35-21.apk](https://www.lanzoul.com/iczeV1hk6dcf)
+
+ - [Clean_WeChat_X_4.0.7z](https://www.lanzoul.com/iRKX41hk60gb)
+
+ - [ChatOn_1.29.276-299_Mod@辰夕.apk](https://www.lanzoul.com/iiKBH1hk4j0h)
+
+ - [Chatbot_AI_v4.2.5_(425)_Mod@辰夕.apk](https://www.lanzoul.com/iNnFS1hk4h1g)
+
+ - [Chat_Smith_v3.4.3_(463)_Mod_psigned@辰夕.apk](https://www.lanzoul.com/izuND1hk4f2f)
+
+ - [BV_590_0.2.5.r590.968b217.release_lite_universal.apk](https://www.lanzoul.com/i6adj1hk488j)
+
+ - [B612咔叽 12.3.20会员版@[SN-7306efd1]-下载地址.txt](https://www.lanzoul.com/iuxeX1hk435g)
+
+ - [ADM_v14.0.25_(140025)_Mod_protected@辰夕.apk](https://www.lanzoul.com/i78UF1hk3l5i)
+
+ - [ADM-Pro-v14.0.25_build_140025-Mod-arm64-v8a_iHackedit.com@balatan.apk](https://www.lanzoul.com/iS9ZR1hk3kmj)
+
+ - [c001apk_4d2dbf5(181).apk](https://www.lanzoul.com/iCGp21hk3d1g)
+
+ - [c001apk_2aaffbe(177).apk](https://www.lanzoul.com/i1o1L1hk3cti)
+
+ - [c001apk_e148f48(170).apk](https://www.lanzoul.com/i1cjF1hk3cpe)
+
+ - [c001apk_d60d2d0(178).apk](https://www.lanzoul.com/ivcD61hk3ckj)
+
+ - [c001apk_4448fb0(179).apk](https://www.lanzoul.com/ipxPW1hk3cfe)
+
+ - [c001apk_3259afc(182).apk](https://www.lanzoul.com/ifahj1hk3c7g)
+
+ - [c001apk_673a3a7(171).apk](https://www.lanzoul.com/igHiG1hk3c2b)
+
+ - [c001apk_6a78575(172).apk](https://www.lanzoul.com/iD8d41hk3bve)
+
+ - [AdGuard_4.3.147-Mod@帝落.apk](https://www.lanzoul.com/iMLUn1hk21gd)
+
+ - [360SE-15.1.1355.64-Stable-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/iqavK1hk1ofe)
+
+ - [360安全浏览器_15.1.1355.64_mefcl_Setup_64Bit-下载地址.txt](https://www.lanzoul.com/iNUAd1hk1oed)
+
+ - [[LSPatch]Bilibili-7.58.0-b13592482-漫游d84a5021f6-下载地址.txt](https://www.lanzoul.com/iVE9g1hk1l7i)
+
+
 ## 2023-12-11 更新
 
  - [禁用Windows7-10-11系统升级更新StopUpdates10Portable_4.5.2023.0523.rar](https://www.lanzoui.com/ipZkj1hfd74d)
