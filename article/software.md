@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-14 更新
+
+ - [电视启动项管理 1.0助手.apk](https://www.lanzoui.com/iDoXg1hryyti)
+
+ - [PC 微信防撤回最新版3.9.8.15.zip](https://www.lanzoui.com/igbHA1hryg5g)
+
+
 ## 2023-12-13 更新
 
  - [秒看电视 8.2.9套壳版@[MT签名].apk](https://www.lanzoul.com/ihKAh1hogpih)
