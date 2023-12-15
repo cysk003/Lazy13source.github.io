@@ -9,6 +9,17 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-15 更新
+
+ - [MicroKMS神龙版 v20.09.06.7z](https://www.lanzoui.com/ij8pV1hwz8ba)
+
+ - [win10激活MicroKMS神龙版 v20.09.06.zip](https://www.lanzoui.com/igKRZ1hwtvta)
+
+ - [腾讯微云6.9.94_sign.apk](https://www.lanzoui.com/iaWNd1hwmu9c)
+
+ - [酷安_13.4.1.apk](https://www.lanzoui.com/iHAvr1hwmiof)
+
+
 ## 2023-12-14 更新
 
  - [电视启动项管理 1.0助手.apk](https://www.lanzoui.com/iDoXg1hryyti)

@@ -18,6 +18,23 @@
 
 ***
 
+- 231215：
+
+  - 分享付费文《什么才是真正的百年未有之大变局？》
+  
+  - 231213江宁知府付费文《中国的转折点》
+  
+  - 231215九边分享《命运到底存在吗？》
+  
+  - 231215卢克文嘉宾《访问越南后，中越两国有什么收获？》
+  
+  - 231215卢克文嘉宾《仁爱礁上的钉子户，这回怕是要完》
+  
+  - <details>
+    <summary>更新《懒人专属群周报》（第63期），点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJcftUsytatWZVpycJbr3T8PgM424m3uVhGsD0icb2UtT7SOZjrEZL41nklEwK5PQQaJaL7C2sYQ8A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 231214:
 
   - 更新14份职场讨论文档
