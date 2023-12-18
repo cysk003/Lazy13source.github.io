@@ -9,6 +9,123 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-18 更新
+
+ - [360压缩工具zip_setup.exe](https://www.lanzoui.com/i109C1i8tvqj)
+
+ - [广告拦截助手.exe](https://www.lanzoui.com/iVFSH1i5f4fe)
+
+ - [甲壳虫adb助手安装电视软件的工具.apk](https://www.lanzoui.com/i1Gym1i5ewwd)
+
+ - [微音乐1.7.8.4.apk](https://www.lanzoui.com/iraPC1i1t70h)
+
+ - [波比音乐.apk](https://www.lanzoui.com/ifK881i1t44d)
+
+ - [万能电脑硬件检测工具.exe](https://www.lanzoui.com/i9crH1i1sfmb)
+
+ - [酷安12.0.2修复可读评论(12.15).apk](https://www.lanzoui.com/iGXnB1i1rq4d)
+
+ - [小薇直播-v2.5.0.4-v7a-去广告版@mygica.apk](https://www.lanzoul.com/iwc9I1i8wr2j)
+
+ - [c001apk_c198c61(211).apk](https://www.lanzoul.com/iziU81i8wcfc)
+
+ - [柚子影视 Ver.4.0.3 去广告修复版@zhou45.apk](https://www.lanzoul.com/i7sgb1i8vq7c)
+
+ - [柚子影视 Ver.4.0.3 去广告版@zhou45.apk](https://www.lanzoul.com/ikkRq1i8vjtc)
+
+ - [影视-v2.1.2-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i0iRG1i8v4fi)
+
+ - [影视-v2.1.2-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iYKNT1i8v2wd)
+
+ - [影视TV-v2.1.2-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iONSM1i8uwje)
+
+ - [影视TV-v2.1.2-A4.x-leanback.apk](https://www.lanzoul.com/ieKNu1i8uv0j)
+
+ - [影视TV-v2.1.2-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/i9SB91i8utda)
+
+ - [影视TV-v2.1.2-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/i30U11i8urfa)
+
+ - [影视TV-v2.1.2-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iQdAI1i8uqaj)
+
+ - [小红书 7.97.0-内置猪手1.2.3-28模块-下载地址.txt](https://www.lanzoul.com/ivwGF1i8uc2h)
+
+ - [微博 13.12.0-内置猪手2.2.6-255模块-下载地址.txt](https://www.lanzoul.com/iOGYS1i8tuyb)
+
+ - [微博 13.11.4-内置猪手2.2.6-255模块-下载地址.txt](https://www.lanzoul.com/i5NPd1i8tukh)
+
+ - [微博猪手2.2.6-(255-20231212).apk](https://www.lanzoul.com/iEzTC1i8tu3a)
+
+ - [腾讯视频-v11.84.9527.0-去广告绿版@zd423.exe](https://www.lanzoul.com/iH4g71i8tfli)
+
+ - [洛雪音乐-app-v1.2.0-beta.13-arm64-v8a-release.zip](https://www.lanzoul.com/iLG2P1i8tatg)
+
+ - [洛雪音乐-app-v1.2.0-beta.12-arm64-v8a-release.zip](https://www.lanzoul.com/ivQ9G1i8ta9g)
+
+ - [洛雪音乐-app-v1.2.0-beta.11-arm64-v8a-release.zip](https://www.lanzoul.com/iqpqJ1i8t9ja)
+
+ - [洛雪音乐-app-v1.2.0-beta.10-arm64-v8a-release.zip](https://www.lanzoul.com/izzjx1i8t8te)
+
+ - [雷电模拟器9(64)-v9.0.64-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iphpC1i8t0cj)
+
+ - [雷电模拟器5(64)-v5.0.74-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iVjyw1i8t0ah)
+
+ - [tiktok多款下载地址.txt](https://www.lanzoul.com/iGS9B1i8shfi)
+
+ - [蓝云_1.3.2.2.apk](https://www.lanzoul.com/iV0FI1i8rekj)
+
+ - [蓝云_1.3.2.3.apk](https://www.lanzoul.com/i4CTn1i8re3c)
+
+ - [酷我音乐-10.6.6.1-VIP-v8a@[SN-53cf27ef]-下载地址.txt](https://www.lanzoul.com/ijxVG1i8rbgh)
+
+ - [今日水印相机_v3.0.78.8-Mod@帝落-下载地址.txt](https://www.lanzoul.com/iqv7W1i8qked)
+
+ - [红薯猪手 1.2.3-(28-20231213)xp模块.apk](https://www.lanzoul.com/iuIhZ1i8q9sb)
+
+ - [海阔视界_V8.21_1217_C4606_db53-64位.apk](https://www.lanzoul.com/ienc21i8q74f)
+
+ - [百度网盘客户端-7.35.1.2-Modified@zd423-下载地址.txt](https://www.lanzoul.com/imolP1i8q35c)
+
+ - [XBYDriver-3.12.3-win-x64-fix@gaozhangmin.exe](https://www.lanzoul.com/iq6iX1i8q1je)
+
+ - [WinRAR v7.00 beta 3 x64 SC@烈火.exe](https://www.lanzoul.com/iOtgr1i8pqji)
+
+ - [TVBox_takagen99_20231215-2242.apk](https://www.lanzoul.com/i6uEL1i8po9g)
+
+ - [SD Maid SE_0.18.0-beta0@liu.apk](https://www.lanzoul.com/iLxpE1i8p0le)
+
+ - [SD Maid 2_SE - System Cleaner v0.18.0-beta0 _ed by youarefinished.apk](https://www.lanzoul.com/ipQuV1i8p08b)
+
+ - [SD_Maid_SE-Pro-v0.18.0-beta0_build_1800000-Viva-Magenta-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/iUNFw1i8ozwj)
+
+ - [SD_Maid_SE_Pro_v0.18.0_MustHave-balatan.apk](https://www.lanzoul.com/izWGA1i8ozif)
+
+ - [SD Maid SE_0.18.0-beta0-Mod@帝落.apk](https://www.lanzoul.com/izQcy1i8oz2j)
+
+ - [OlSoul_Windows系统调校_20231213_88afff3f.exe](https://www.lanzoul.com/iTtTy1i8oqpi)
+
+ - [MyRadio_1.1.73.1211-Mod@帝落.apk](https://www.lanzoul.com/iEN9I1i8opsf)
+
+ - [MyRadio_1.1.74.1216-Mod@帝落.apk](https://www.lanzoul.com/itbNu1i8oozg)
+
+ - [MyRadio_1.1.74.1213-Mod@帝落.apk](https://www.lanzoul.com/ijvaI1i8oo4f)
+
+ - [MX 播放器+ 1.74.6 Super@simba.apk](https://www.lanzoul.com/iVnR41i8omhg)
+
+ - [MX 播放器+ 1.74.6 Super V2@simba.apk](https://www.lanzoul.com/idpFT1i8om1a)
+
+ - [MX 播放器+ 1.74.6 无倍速提示@simba.apk](https://www.lanzoul.com/iI3oz1i8olng)
+
+ - [MX 播放器+ 1.74.6 无倍速提示 V2@simba.apk](https://www.lanzoul.com/i3fYM1i8ol9c)
+
+ - [mpv-x86_64-20231217-git-1112de2.7z](https://www.lanzoul.com/ixKYA1i8oj2d)
+
+ - [ES_File_Explorer-Premium-v4.4.1.11_build_10318-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/inY4d1i8oh4d)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.52.apk](https://www.lanzoul.com/iCnn01i8odte)
+
+ - [DefenderRemover-v12.6.1.exe](https://www.lanzoul.com/i747m1i8oafc)
+
+
 ## 2023-12-15 更新
 
  - [MicroKMS神龙版 v20.09.06.7z](https://www.lanzoui.com/ij8pV1hwz8ba)
