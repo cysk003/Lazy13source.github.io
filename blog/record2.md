@@ -18,6 +18,24 @@
 
 ***
 
+- 231219：
+
+  - <details>
+    <summary>更新《231219懒人赚钱风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNI4hEMnicUocpiaBhA4GlMt5OgjvkjCice6gRlKlibM55fCT3ibcutocxDwBJ8J64X1uozJjuI3xyxthUg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《231219懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNI4hEMnicUocpiaBhA4GlMt5ObjNLP1wzlCFZlfbTfnXuAWWmwEWHqJI6afNdI5zZJNUu6CW3T3Prjg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 231219群分享《未来很长一段时间，金融行业都要做好过苦日子的准备》
+  
+  - 231219鉴茶院付费文《董宇辉小作文，别高估人性，别低估社会》
+  
+  - 231219卢克文星球嘉宾《科目三海外爆火，文化输出的破局者？》
+  
 - 231218：
 
   - 群友分享 混沌天涯客 付费文《真大。。局》

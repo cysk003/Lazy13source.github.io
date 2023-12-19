@@ -9,6 +9,17 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-19 更新
+
+ - [哔哩哔哩小爱音箱提取版.rar](https://www.lanzoui.com/iDNft1icgisj)
+
+ - [WINDOWS蓝屏代码查询器.exe](https://www.lanzoui.com/iyCMT1icfw5e)
+
+ - [甲壳虫adb助手.apk](https://www.lanzoui.com/i5ADZ1icft7i)
+
+ - [抓包工具可以小程序抓包HTTP Debugger Pro9.9.zip](https://www.lanzoui.com/iCA8D1icfrfe)
+
+
 ## 2023-12-18 更新
 
  - [360压缩工具zip_setup.exe](https://www.lanzoui.com/i109C1i8tvqj)
