@@ -9,6 +9,18 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-21 更新
+
+ - [布丁扫描.apk](https://www.lanzoui.com/imIMC1iipbih)
+
+
+## 2023-12-20 更新
+
+ - [古诗文网 v3.2.4.apk](https://www.lanzoui.com/ir7f31ifjrqh)
+
+ - [万能播放器.zip](https://www.lanzoui.com/i0NaC1ifjntg)
+
+
 ## 2023-12-19 更新
 
  - [哔哩哔哩小爱音箱提取版.rar](https://www.lanzoui.com/iDNft1icgisj)
