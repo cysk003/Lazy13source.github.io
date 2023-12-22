@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-22 更新
+
+ - [白马地图-7.230916.Final-64位.apk](https://www.lanzoui.com/irMEA1iljp1g)
+
+ - [影视仓_手机版2.0.12.apk](https://www.lanzoul.com/ilMk31im471e)
+
+
 ## 2023-12-21 更新
 
  - [布丁扫描.apk](https://www.lanzoui.com/imIMC1iipbih)
