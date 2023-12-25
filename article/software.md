@@ -9,6 +9,111 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-25 更新
+
+ - [抖音一键取关清理账号.zip](https://www.lanzoui.com/iKPjW1iulvah)
+
+ - [Tik-Tok_v32.6.5去广告解锁限制-多语言-下载地址.txt](https://www.lanzoul.com/il8cW1io1xsb)
+
+ - [Tik-Tok_v32.6.4解锁限制-多语言-含配套插件-下载地址.txt](https://www.lanzoul.com/ihzeE1io1xqj)
+
+ - [Tik-Tok_v32.5.3亚洲版-解锁限制-多语言-含插件-下载地址.txt](https://www.lanzoul.com/iFMRb1io1xpi)
+
+ - [TikTok-ReVanced-v32.6.5_signed_iHackedit.com@editor-下载地址.txt](https://www.lanzoul.com/if0sV1io1xoh)
+
+ - [智能助手_1.7.3@takklong.apk](https://www.lanzoul.com/iV2mi1io10wh)
+
+ - [微博 13.12.1-内置猪手2.2.7-256模块-下载地址.txt](https://www.lanzoul.com/iMCtL1io0z5e)
+
+ - [微博 13.12.0-内置猪手2.2.7-256模块-下载地址.txt](https://www.lanzoul.com/ip1rN1io0z1a)
+
+ - [微博 13.12.0-内置猪手2.2.6-255模块-下载地址.txt](https://www.lanzoul.com/iWWrV1io0yzi)
+
+ - [微博 13.11.4-内置猪手2.2.6-255模块-下载地址.txt](https://www.lanzoul.com/iPqLW1io0yyh)
+
+ - [微博-13.12.1_@tkjiku内置微博猪手 v2.2.6-下载地址.txt](https://www.lanzoul.com/idZEx1io0yxg)
+
+ - [微博猪手 2.2.7-(256-20231221)xp模块.apk](https://www.lanzoul.com/ie8Sn1io0t0d)
+
+ - [微博猪手 2.2.6-(255-20231212)xp模块.apk](https://www.lanzoul.com/iGKpp1io0szc)
+
+ - [天翼云盘客户端-6.6.0-Modified@zd423.7z](https://www.lanzoul.com/iV6aa1io0rof)
+
+ - [搜狗输入法v13.12.0.8752去广告精简优化版@zd423.exe](https://www.lanzoul.com/igL1l1io0qje)
+
+ - [扫描全能王_v6.55.5.2312170000_(65552)_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/i3JN31io0llg)
+
+ - [扫描全能王_v6.55.0.2312060000_(65501)_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/ibWHr1io0lje)
+
+ - [驱动人生海外版DriverTalent-8.1.11.38-CN.exe](https://www.lanzoul.com/ia7uk1io0fuj)
+
+ - [七猫免费小说_v7.38_Mod_protected@辰夕.apk](https://www.lanzoul.com/iLrTv1io0f9i)
+
+ - [七猫免费小说_7.39-Mod@帝落.apk](https://www.lanzoul.com/ihM1Q1io0efi)
+
+ - [墨迹天气_9.0846.02-Mod@帝落.apk](https://www.lanzoul.com/iwyVp1io0afe)
+
+ - [洛雪音乐-app-v1.2.0-beta.14-arm64-v8a-release.zip](https://www.lanzoul.com/iWW2e1io06ch)
+
+ - [洛雪音乐-fix-app-v1.2.0-beta.16-arm64-v8a-release.zip](https://www.lanzoul.com/iXG8E1io061g)
+
+ - [洛雪音乐-app-v1.2.0-beta.16-arm64-v8a-release.zip](https://www.lanzoul.com/iAamY1io05ti)
+
+ - [洛雪音乐-app-v1.2.0-beta.15-arm64-v8a-release.zip](https://www.lanzoul.com/irGNP1io05kj)
+
+ - [龙卷风收音机_4.5@liu.apk](https://www.lanzoul.com/iOK3x1io02wd)
+
+ - [今日水印相机 3.0.78.2_会员版_辰夕-下载地址.txt](https://www.lanzoul.com/isJvW1inzz8b)
+
+ - [今日水印相机 3.0.75.1会员版_辰夕-下载地址.txt](https://www.lanzoul.com/iyNUg1inzz7a)
+
+ - [今日水印相机 3.0.78.8会员版_辰夕-下载地址.txt](https://www.lanzoul.com/iqD661inzz6j)
+
+ - [小红书_v7.97.0_@tkjiku内置红薯猪手 v1.2.3-下载地址.txt](https://www.lanzoul.com/iPKeS1inzjhe)
+
+ - [小红书 7.97.0-内置猪手1.2.3-28模块-下载地址.txt](https://www.lanzoul.com/i1Ak11inzjfc)
+
+ - [红薯猪手 1.2.3-(28-20231213)xp模块.apk](https://www.lanzoul.com/inqrb1inz70f)
+
+ - [繁体中文_WPS Office ProPlus_11.8.2.11660_mefcl_Setup_Tw-下载地址.txt](https://www.lanzoul.com/iUi7I1inz3md)
+
+ - [抖音-28.2.0-lsp-fplus_@tkjiku内置freedom1.2.5-下载地址.txt](https://www.lanzoul.com/ivdBI1inz0oh)
+
+ - [抖音 280300-fplus-小手_改9999-可登陆-下载地址.txt](https://www.lanzoul.com/iqJXu1inz0mf)
+
+ - [抖音-28.2.0-lsp-fplus+小手_@tkjiku内置小能手2.0.7+freedom1.2.5-下载地址.txt](https://www.lanzoul.com/iwn491inz0le)
+
+ - [哔哩哔哩TV-v1.1.7.18小爱音箱提取版.apk](https://www.lanzoul.com/iMEXK1inymih)
+
+ - [百度网盘客户端-7.36.0.3-Modified@zd423-下载地址.txt](https://www.lanzoul.com/iH1Ml1inygkd)
+
+ - [РotРlayer-231220(1.7.22076)-x64-Stable.exe](https://www.lanzoul.com/ik1mg1inye3e)
+
+ - [XMind Mind Map v23.11.07261 _ed by youarefinished.apk](https://www.lanzoul.com/ioplj1inydfa)
+
+ - [WPS Office Lite_v18.5.5_1485谷歌高级版@editor-下载地址.txt](https://www.lanzoul.com/i36Sw1inyali)
+
+ - [Windows蓝屏代码查询器.exe](https://www.lanzoul.com/iRGA21iny56d)
+
+ - [Windows超级管理器9.46.12.0.exe](https://www.lanzoul.com/i05as1iny35a)
+
+ - [QQMusic-v20.03-Modified@zd423.7z](https://www.lanzoul.com/iEVrx1inxz0b)
+
+ - [Pili-IOS-1.0.13.1217.ipa](https://www.lanzoul.com/iyrnM1inxxih)
+
+ - [Pili-arm64-v8a-1.0.13.1217.apk](https://www.lanzoul.com/i3biK1inxxaj)
+
+ - [NewPipe_v0.26.0.apk](https://www.lanzoul.com/iERZS1inxwkd)
+
+ - [MX_Pro_v1.74.7_(2001002207)_Mod_arm64-v8a@辰夕.apk](https://www.lanzoul.com/i5OSC1inxvtg)
+
+ - [MXPlayer-Pro-1.74.7-v8a-Balatan.apk](https://www.lanzoul.com/imQwd1inxvna)
+
+ - [idmUA修改工具.rar](https://www.lanzoul.com/iEr0h1inxtaf)
+
+ - [hwi_768.zip](https://www.lanzoul.com/iY8Vd1inxr5i)
+
+
 ## 2023-12-22 更新
 
  - [白马地图-7.230916.Final-64位.apk](https://www.lanzoui.com/irMEA1iljp1g)
