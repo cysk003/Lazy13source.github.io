@@ -36,6 +36,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- 《年度得到·香帅中国财富报告（2023-2024）》
+
+  - 标签：`#商业`，`#财富`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/RDnsI9KkLHUAVjjDCiaZria1TnBd069vxvUC5iafIs3uWZZVzcxUyEfHicaQzvOuPg01EkjspdHe3oWNkcQuWsWt7g/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《赵昱鲲·积极心理学30讲》
 
   - 标签：`心理学`

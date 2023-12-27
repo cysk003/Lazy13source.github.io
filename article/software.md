@@ -9,6 +9,122 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-27 更新
+
+ - [米家play版v8.8.706@[SN-6505ba63]去广告精简版.apk](https://www.lanzoul.com/iYQpc1j2m8fi)
+
+ - [美团红包助手 Ver.1.8.8 去广告版@zhou45.apk](https://www.lanzoul.com/ihwWj1j2m74b)
+
+ - [蚂蚁庄园自动喂养-Ant-Manor-1.3.0.zip](https://www.lanzoul.com/iabuz1j2m6md)
+
+ - [蚂蚁森林收能量脚本-Ant-Forest-1.4.2.zip](https://www.lanzoul.com/itySJ1j2m6lc)
+
+ - [洛雪音乐-v2.6.0-beta.6-lx-music-desktop-win7_x64-green.zip](https://www.lanzoul.com/iuoPD1j2m5xi)
+
+ - [洛雪音乐-v2.6.0-beta.6-lx-music-desktop-win_x64-green.zip](https://www.lanzoul.com/iTaz61j2m5id)
+
+ - [洛雪音乐-app-v1.2.0-beta.19-arm64-v8a-release.zip](https://www.lanzoul.com/iD6XS1j2m3tc)
+
+ - [洛雪音乐-app-v1.2.0-beta.18-arm64-v8a-release.zip](https://www.lanzoul.com/ianrh1j2m3ha)
+
+ - [洛雪音乐-app-v1.2.0-beta.17-arm64-v8a-release.zip](https://www.lanzoul.com/ivuCw1j2m35i)
+
+ - [雷电模拟器9(64)-9.0.64.1去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iI2vM1j2m2da)
+
+ - [酷我音乐_10.6.5.8_换源320k@Huibq-下载地址.txt](https://www.lanzoul.com/iMmyt1j2m21i)
+
+ - [橘子视频 v5.0.4(17) 纯净版@王强.apk](https://www.lanzoul.com/iCytQ1j2lzdc)
+
+ - [今日水印相机_v3.0.80.4-Mod@帝落-下载地址.txt](https://www.lanzoul.com/iDJwX1j2lybe)
+
+ - [纪念碑谷_3.4.109 高级版@5playru-下载地址.txt](https://www.lanzoul.com/iIISQ1j2lvkf)
+
+ - [抖音福袋 Ver.1.0.0 自动抢福袋助手.apk](https://www.lanzoul.com/itAhK1j2ldli)
+
+ - [抖音_28.2.0_fplus+沉浸_@tkjiku-下载地址.txt](https://www.lanzoul.com/ihx7w1j2ldjg)
+
+ - [电视家5 v5.1.1套壳版@[MT签名].apk](https://www.lanzoul.com/iTwoh1j2lc5g)
+
+ - [哔哩哔哩 7.60.0 Plus 2@simba-下载地址.txt](https://www.lanzoul.com/icaHf1j2kw6b)
+
+ - [哔哩哔哩 7.60.0 Plus@simba-下载地址.txt](https://www.lanzoul.com/iUv0X1j2kw5a)
+
+ - [阿里云盘webdav-.4.0.0.android.universal.apk](https://www.lanzoul.com/iiqe81j2kupi)
+
+ - [_v18.45.43_arm64@tkjiku.apk](https://www.lanzoul.com/iAK7m1j2c40j)
+
+ - [X-plore v4.34.09 _ed by youarefinished.apk](https://www.lanzoul.com/iW5aH1j2c32f)
+
+ - [X-plore-Donate-v4.34.09_build_43409-Mod@balatan.apk](https://www.lanzoul.com/imZC81j2c31e)
+
+ - [X-plore v4.34.09 Black _ed by youarefinished.apk](https://www.lanzoul.com/iouV01j2c2zc)
+
+ - [WPS 12.1.0.16120（官方无广告第一版）-下载地址.txt](https://www.lanzoul.com/iZH8n1j2c0kf)
+
+ - [TVBox_takagen99_20231226-0027.apk](https://www.lanzoul.com/iKq8D1j2bzba)
+
+ - [TVBox_takagen99_20231225-2259.apk](https://www.lanzoul.com/iD31R1j2bz5e)
+
+ - [TVBox_takagen99_20231225-1206.apk](https://www.lanzoul.com/iGwiw1j2bz3c)
+
+ - [TVBox_takagen99_20231224-0711.apk](https://www.lanzoul.com/iOrJf1j2bywf)
+
+ - [TVBox_takagen99_20231224-0148.apk](https://www.lanzoul.com/iQJiX1j2bysb)
+
+ - [TVBox_takagen99_20231223-1656.apk](https://www.lanzoul.com/iGGYG1j2byoh)
+
+ - [TVBox_takagen99_20231223-0733.apk](https://www.lanzoul.com/ipJWb1j2byfi)
+
+ - [TVBox_takagen99_20231223-0558.apk](https://www.lanzoul.com/iVL0M1j2by8b)
+
+ - [Telegram_premium[Anti]10.5.0@abhi.apk](https://www.lanzoul.com/iGD221j2bxgd)
+
+ - [Telegram_premium[Normal]10.5.0@abhi.apk](https://www.lanzoul.com/iGT0b1j2bx8f)
+
+ - [Telegram_Premium[Fix][Normal]10.5.0@abhi.apk](https://www.lanzoul.com/ixMc21j2bwyf)
+
+ - [Telegram_Premium[Fix][Anti]10.5.0@abhi.apk](https://www.lanzoul.com/iePEE1j2bwne)
+
+ - [SD Maid 2_SE - System Cleaner v0.18.2-beta0 _ed by youarefinished.apk](https://www.lanzoul.com/ijihI1j2burg)
+
+ - [SD Maid 2_SE - System Cleaner v0.18.1-beta0 _ed by youarefinished_sign.apk](https://www.lanzoul.com/iGT7e1j2bupe)
+
+ - [SD_Maid_Pro_v5.6.3_MustHave@balatan.apk](https://www.lanzoul.com/ii6h21j2bunc)
+
+ - [SD.Maid.SE-0.18.2-PRO_red@ST.apk](https://www.lanzoul.com/iiiiP1j2buji)
+
+ - [SD.Maid.SE-0.18.2-PRO@ST.apk](https://www.lanzoul.com/i0Lc91j2buih)
+
+ - [Resume Builder v1.01.43.1221.01 modded by Mixroot.apk](https://www.lanzoul.com/i4IPG1j2bs5c)
+
+ - [QQ音乐-魅族定制版-10.4.5.apk](https://www.lanzoul.com/ilpom1j2bqmh)
+
+ - [QQ_9.0.0_@tkjiku-下载地址.txt](https://www.lanzoul.com/iTUgp1j2bozi)
+
+ - [Pili-arm64-v8a-1.0.14.1225.apk](https://www.lanzoul.com/iXTov1j2bk9i)
+
+ - [Pili-.iOS-1.0.14.1225.ipa](https://www.lanzoul.com/izq941j2bjpi)
+
+ - [Optimizer-16.3.exe](https://www.lanzoul.com/irlyW1j2biqd)
+
+ - [MyRadio v1.1.75.1222 modded by Mixroot.apk](https://www.lanzoul.com/iWlHo1j2bhne)
+
+ - [mpv-x86_64-20231224-git-0d47e48.7z](https://www.lanzoul.com/iL7nn1j2bgch)
+
+ - [影视仓_5.0.16_1_海信版.apk](https://www.lanzoul.com/i3uBM1j0ba1i)
+
+ - [影视仓_2.0.14_街机游戏版_opt.apk](https://www.lanzoul.com/iMN9b1j0b8vg)
+
+ - [影视仓_2.0.14_短视频_opt.apk](https://www.lanzoul.com/ik5u11j0b8ni)
+
+ - [影视仓_5.0.16_1.apk](https://www.lanzoul.com/iMvY81j0b7nc)
+
+
+## 2023-12-26 更新
+
+ - [当贝桌面4.17完美净化版.apk](https://www.lanzoul.com/ipiVr1ixzv4d)
+
+
 ## 2023-12-25 更新
 
  - [抖音一键取关清理账号.zip](https://www.lanzoui.com/iKPjW1iulvah)

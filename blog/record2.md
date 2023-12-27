@@ -18,9 +18,27 @@
 
 ***
 
+- 231227：
+
+  - 231227记忆承载付费文《跨年演讲：若能提前看到未来，你会写给自己什么？》
+  - 更新129元付费课程《年度得到·香帅中国财富报告（2023-2024）》，已加入《[通才计划课程](/data/13_course)》
+  
+- 231226：
+
+  - 更新第50期《财新周刊》
+  
+  - <details>
+    <summary>更新《231226懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJXNXR6p5f6mjmxKARktsM7oEv4eTWbia8hgruoF0u22VOkCpDIYBS7BxLfVueqIzcqz1x4faso7Mw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《231226懒人赚钱风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJXNXR6p5f6mjmxKARktsM7l4GR7ddcu2wgvX5rMhKmNGciaKEXTVxfg9cQ4YtMjGZmZLoYkUI98uQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 231225：
 
-  - 群友分享
   - 231225司令付费文《航运断了，贸易怎么办？！》
   - 231225卢克文星球嘉宾《董明珠不再被认可，传统企业价值观过时了？》
   - 231225卢克文嘉宾《中止关税减让，惠台时代结束了吗？》
