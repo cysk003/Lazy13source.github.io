@@ -9,6 +9,79 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-28 更新
+
+ - [视频剪切与合并工具 LosslessCut 3.59.1.7z](https://www.lanzoui.com/iiwwh1j4i8ta)
+
+ - [内存优化工具 WinMemoryCleaner v2.8 单文件版.exe](https://www.lanzoui.com/iWlSZ1j4i0be)
+
+ - [QQ音乐-魅族定制版-10.4.5.apk](https://www.lanzoui.com/ilFD71j4hxyj)
+
+ - [BLBL_release_v1.4.8.apk](https://www.lanzoul.com/in68c1j6b9bi)
+
+ - [BLBL_api19_v1.4.8.apk](https://www.lanzoul.com/i3bRI1j6b8ub)
+
+ - [AdGuard Ad Blocker v4.4.14 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iIX2X1j6b79e)
+
+ - [360SE-15.1.1386.64-Stable-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/itTRh1j6b5jc)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游3999e618d3-下载地址.txt](https://www.lanzoul.com/iQ8X81j6b4pc)
+
+ - [[LSPatch]Bilibili-7.61.0-b13759493-漫游3999e618d3-下载地址.txt](https://www.lanzoul.com/iOHPX1j6b4if)
+
+ - [[LSPatch]Bilibili-HD-1.44.3-b13664414-漫游3999e618d3.apk](https://www.lanzoul.com/iORc01j6b4gd)
+
+ - [[LSPatch]Bilibili-HD-1.44.2-b13157941-漫游3999e618d3.apk](https://www.lanzoul.com/iTas51j6b3qh)
+
+ - [TikTokMod-32.7.5-Multi（含插件）-下载地址.txt](https://www.lanzoul.com/iqikt1j2y2aj)
+
+ - [TikTokAsia_32.7.6_@tkjiku_中文-下载地址.txt](https://www.lanzoul.com/i1Pi71j2y24d)
+
+ - [TikTokAsia_32.7.5_v8a_@tkjiku_中文-下载地址.txt](https://www.lanzoul.com/iLjch1j2y1mf)
+
+ - [TikTokAsia_32.7.4.v8a_@tkjiku_中文-下载地址.txt](https://www.lanzoul.com/ibOjG1j2y1ha)
+
+ - [TikTokAsia_32.7.3_v8a_@tkjiku_中文-下载地址.txt](https://www.lanzoul.com/iB4ob1j2y18b)
+
+ - [TikTok_32.7.6_@tkjiku_中文-下载地址.txt](https://www.lanzoul.com/iLtlM1j2y10d)
+
+ - [TikTok_32.7.5_v8a_@tkjiku_中文-下载地址.txt](https://www.lanzoul.com/iALYF1j2y0xa)
+
+ - [TikTok_32.7.4.v8a_@tkjiku_中文-下载地址.txt](https://www.lanzoul.com/iQl3h1j2y0vi)
+
+ - [TikTok_32.7.3_v8a_@tkjiku_中文-下载地址.txt](https://www.lanzoul.com/iZdiU1j2y0uh)
+
+ - [柚子影视 Ver.4.0.3 去广告 修复闪退版@zhou45.apk](https://www.lanzoul.com/iJd8V1j2ncoh)
+
+ - [影视-v2.1.3-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iOfdd1j2nbeb)
+
+ - [影视-v2.1.3-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iea0Q1j2nb2j)
+
+ - [影视TV-v2.1.3-A4.x-leanback.apk](https://www.lanzoul.com/iM1IZ1j2n9oj)
+
+ - [影视TV-v2.1.3-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iiGiX1j2n97c)
+
+ - [影视TV-v2.1.3-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iyP0V1j2n8qf)
+
+ - [影视TV-v2.1.3-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iSz2v1j2n7cf)
+
+ - [影视TV-v2.1.3-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iFgW31j2n6kh)
+
+ - [喜马拉雅极速版v3.2.57.1去广告破解时长版@MT小程.apk](https://www.lanzoul.com/i8fs51j2n58j)
+
+ - [微信正式版-v3.9.8.25-多开防撤回绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iMwxW1j2mtih)
+
+ - [微博猪手 2.2.7-(257-20231221)xp模块.apk](https://www.lanzoul.com/imnJj1j2mqxe)
+
+ - [微博 13.12.1-内置猪手2.2.7-257模块-下载地址.txt](https://www.lanzoul.com/i8pN61j2mqvc)
+
+ - [全民K歌TV v4.1.3.1 纯净版@[MT签名].apk](https://www.lanzoul.com/isazz1j2mm6d)
+
+ - [清浊-dircleaner_v2.0.5_Vip@黑鹰.apk](https://www.lanzoul.com/iKL3I1j2mf1g)
+
+ - [七猫免费小说_7.39_Mod_protected_opt@辰夕.apk](https://www.lanzoul.com/i5a9Q1j2mcsf)
+
+
 ## 2023-12-27 更新
 
  - [米家play版v8.8.706@[SN-6505ba63]去广告精简版.apk](https://www.lanzoul.com/iYQpc1j2m8fi)
