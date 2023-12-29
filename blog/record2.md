@@ -19,6 +19,11 @@
 
 - 231229：
 
+  - <details>
+    <summary>更新《懒人专属群周报》（第65期），点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJE0X3veibZktjxuCLiawcZqpsl5fmg6iaNib3f8QG4w7fC3iao0ia16KJ06U4ZdWFebSdl8pofRAgk10ibw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
   - 231229猫哥付费文《未来很长一段时间，我们都要做好心理建设的准备》
   
   - 231229卢克文嘉宾《支持仅退款，淘宝要学拼多多？》
@@ -34,11 +39,6 @@
   - 231229猫哥付费文《2024房市展望》
   
   - 231229卢克文嘉宾《蔚来，能不能搏出一个未来？》
-  
-  - <details>
-    <summary>更新《懒人专属群周报》（第65期），点击展开目录：</summary>
-    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJE0X3veibZktjxuCLiawcZqpsl5fmg6iaNib3f8QG4w7fC3iao0ia16KJ06U4ZdWFebSdl8pofRAgk10ibw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
-    </details>
   
 - 231228：
 
