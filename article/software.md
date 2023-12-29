@@ -9,6 +9,43 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2023-12-29 更新
+
+ - [支付宝(谷歌版)-10.5.56.9600(963)-下载地址.txt](https://www.lanzoul.com/iSGfB1j6cmcd)
+
+ - [影视-v2.1.5-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iKev71j6cm0b)
+
+ - [影视-v2.1.5-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/icbfC1j6clrc)
+
+ - [影视TV-v2.1.5-A4.x-leanback.apk](https://www.lanzoul.com/i24nu1j6claf)
+
+ - [影视TV-v2.1.5-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/ijJPi1j6cl0f)
+
+ - [影视TV-v2.1.5-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/inJtd1j6ckla)
+
+ - [影视TV-v2.1.5-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/ixHgf1j6cked)
+
+ - [影视TV-v2.1.5-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iFOC11j6ck6f)
+
+ - [下厨房_8.8.22@[MT签名].apk](https://www.lanzoul.com/is2l71j6cj7a)
+
+ - [腾讯视频-v11.85.2066.0-去广告绿版@zd423.exe](https://www.lanzoul.com/iosvm1j6cfhg)
+
+ - [手电视直播 8.10.26 去广告@nu.apk](https://www.lanzoul.com/ipSJ11j6canc)
+
+ - [酷我音乐 v10.6.6.1破解永久豪华VIP版@辰夕-下载地址.txt](https://www.lanzoul.com/i3V431j6c8bi)
+
+ - [抖音-28.3.0-lsp-fplus1.2.5@tkjiku-下载地址.txt](https://www.lanzoul.com/i4W0V1j6c4ha)
+
+ - [NewPipe_v0.26.1.apk](https://www.lanzoul.com/iQvqk1j6bz3g)
+
+ - [CapCut_v10.5.0_(10500300)_Mod_V1签名版@辰夕-下载地址.txt](https://www.lanzoul.com/i7f311j6bxqh)
+
+ - [CapCut_10.5.0_Premium@fauzhi-下载地址.txt](https://www.lanzoul.com/ioACc1j6bxof)
+
+ - [CapCut_v10.5.0_(10500300)_Mod_V2签名版@辰夕-下载地址.txt](https://www.lanzoul.com/ifeHm1j6bxlc)
+
+
 ## 2023-12-28 更新
 
  - [视频剪切与合并工具 LosslessCut 3.59.1.7z](https://www.lanzoui.com/iiwwh1j4i8ta)
