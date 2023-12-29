@@ -2,7 +2,6 @@
 
 [**返回网站首页**](/README.md)
 
-- [手册更新记录](data/00_更新记录.md)
 - 👍[懒人专属群介绍](/blog/group)
 - [专属群历史文档备份目录](/blog/record3)
 - 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
@@ -18,6 +17,33 @@
 
 ***
 
+- 231229：
+
+  - 231229猫哥付费文《未来很长一段时间，我们都要做好心理建设的准备》
+  
+  - 231229卢克文嘉宾《支持仅退款，淘宝要学拼多多？》
+  
+  - 231229卢克文嘉宾《“订婚强奸案”制造了更严重的对立么？》
+  
+  - 231229混沌天涯客付费文《吴签厄运源头》
+  
+  - 231229极限之外付费文《影子死，窗口闭》
+  
+  - 231228混沌天涯客付费文《你干爹，我愿意》
+  
+  - 231229猫哥付费文《2024房市展望》
+  
+  - 231229卢克文嘉宾《蔚来，能不能搏出一个未来？》
+  
+  - <details>
+    <summary>更新《懒人专属群周报》（第65期），点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJE0X3veibZktjxuCLiawcZqpsl5fmg6iaNib3f8QG4w7fC3iao0ia16KJ06U4ZdWFebSdl8pofRAgk10ibw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 231228：
+
+  - 231227政事堂付费文《24年的机会只在上海和深圳》
+  
 - 231227：
 
   - 231227记忆承载付费文《跨年演讲：若能提前看到未来，你会写给自己什么？》
