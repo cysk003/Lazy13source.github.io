@@ -9,6 +9,107 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-01 更新
+
+ - [文字转语音软件x64-v2306.exe](https://www.lanzoui.com/iapdD1jhmkxi)
+
+ - [哔哩哔哩第三方TVapi19_v1.4.8.apk](https://www.lanzoui.com/iRAQX1jhm7ob)
+
+ - [哔哩哔哩第三方TV_v1.4.8.apk](https://www.lanzoui.com/im2gn1jhm4sh)
+
+ - [动态万年历(wlx ).xlsx](https://www.lanzoui.com/i9aoa1jb07rg)
+
+ - [电脑革命家测试版.zip](https://www.lanzoui.com/iHrD01jazz5g)
+
+ - [柚子影视 v4.0.4 纯净版@王宝强.apk](https://www.lanzoul.com/iddIo1jbe3ih)
+
+ - [洛雪音乐-app-v1.2.0-beta.20-arm64-v8a-release.zip](https://www.lanzoul.com/iSZKj1jbe1ob)
+
+ - [洛雪音乐-app-v1.2.0-beta.20-android_5-armeabi-v7a-release.zip](https://www.lanzoul.com/iL1zc1jbe1kh)
+
+ - [洛雪音乐-app-v1.2.0-beta.20-android_5-arm64-v8a-release.zip](https://www.lanzoul.com/ipK3X1jbe1gd)
+
+ - [洛雪音乐-fix-app-v1.2.0-beta.20-arm64-v8a-release.zip](https://www.lanzoul.com/iaGF01jbe18f)
+
+ - [洛雪音乐-app-v1.2.0-sl-beta.20-armeabi-v7a-release.zip](https://www.lanzoul.com/iS24q1jbe15c)
+
+ - [洛雪音乐-app-v1.2.0-sl-beta.20-arm64-v8a-release.zip](https://www.lanzoul.com/iClzq1jbe10h)
+
+ - [剪映_com.lemon.lv_v12.0.6@[SN-472af512]-下载地址.txt](https://www.lanzoul.com/iBymG1jbe0of)
+
+ - [饿了么红包助手 Ver.3.3.5 去广告版@zhou45.apk](https://www.lanzoul.com/i5MCz1jbdvij)
+
+ - [XBYDriver-3.12.4-win-x64@gaozhangmin.exe](https://www.lanzoul.com/i21gA1jbduje)
+
+ - [VMOS Pro_2.9.9破解版@暗猎魂殇.apk](https://www.lanzoul.com/ixTNm1jbdtkj)
+
+ - [TVBox_takagen99_20231229-1703.apk](https://www.lanzoul.com/iWJ6T1jbdpej)
+
+ - [TVBox_takagen99_20231228-2255.apk](https://www.lanzoul.com/iQQjQ1jbdp1g)
+
+ - [TVBox_takagen99_20231228-1642.apk](https://www.lanzoul.com/im4yq1jbdokj)
+
+ - [SD_Maid_v5.6.3-Final_(50603)_Mod@辰夕.apk](https://www.lanzoul.com/iNPW31jbdn2f)
+
+ - [SD_Maid_Pro-5.6.3-Untouched + Pro key.zip](https://www.lanzoul.com/iXgjI1jbdn0d)
+
+ - [SD_Maid-Pro-v5.6.3_build_50603-Dark-Venom-Mod@balatan.apk](https://www.lanzoul.com/igdVt1jbdl4f)
+
+ - [SD_Maid-Pro-v5.6.3_build_50603-Mod_Lite-arm64-v8a@balatan.apk](https://www.lanzoul.com/iAQnJ1jbdkvg)
+
+ - [SD_Maid-Pro-v5.6.3_build_50603-Mod@balatan.apk](https://www.lanzoul.com/if3Yn1jbdkni)
+
+ - [SD_Maid_SE-Pro-v0.18.2-beta0_build_1802000-Mod@balatan.apk](https://www.lanzoul.com/i2MWD1jbdidg)
+
+ - [SD_Maid_SE-Pro-v0.18.2-beta0_build_1802000-Viva-Magenta-Mod@balatan.apk](https://www.lanzoul.com/iuyVr1jbdiad)
+
+ - [MyRadio v1.1.76.1226 modded by Mixroot.apk](https://www.lanzoul.com/iJAY21jbdgne)
+
+ - [gkd-v1.6.0.apk](https://www.lanzoul.com/il8KX1jbde2b)
+
+ - [gkd-1.6.2.apk](https://www.lanzoul.com/iO3N41jbddve)
+
+ - [CamScanner v6.56.0.2312240000 Clean _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iYYzm1jbdd9c)
+
+ - [CamScanner v6.56.0.2312240000 ads support _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/if2lf1jbdd8b)
+
+ - [CamScanner v6.56.0.2312240000 Offline _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/i73yE1jbdd7a)
+
+ - [B612_v12.4.12_(91120412)_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/i5rTT1jbd9ji)
+
+ - [B612咔叽 12.4.12会员版@[MT签名]-下载地址.txt](https://www.lanzoul.com/iT21I1jbd9ih)
+
+ - [ADM 14.0.22 Super Fixed@simba.apk](https://www.lanzoul.com/ihh7u1jbd3xg)
+
+ - [ADM 14.0.22 Fixed@simba.apk](https://www.lanzoul.com/iScQc1jbd3sb)
+
+ - [AdGuard_v4.3.199-Final-高级版_Balatan.apk](https://www.lanzoul.com/iaKuB1jbd2xa)
+
+ - [2345看图王_11.2.0.10077_mefcl_x64_Setup.exe](https://www.lanzoul.com/iVnXv1jbcycf)
+
+ - [360安全浏览器_15.1.1386.64_mefcl_Setup_64Bit-下载地址.txt](https://www.lanzoul.com/iVsTH1jbcxbi)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游8dfab0c8f4-下载地址.txt](https://www.lanzoul.com/isQIL1jbctoh)
+
+ - [[LSPatch]Bilibili-7.61.0-b13759493-漫游8dfab0c8f4-下载地址.txt](https://www.lanzoul.com/iAl6M1jbctmf)
+
+ - [[LSPatch]Bilibili-HD-1.44.3-b13664414-漫游8dfab0c8f4.apk](https://www.lanzoul.com/id1tp1jbctha)
+
+ - [影视仓_5.0.17_1.apk](https://www.lanzoul.com/iktwX1jhc1bc)
+
+ - [影视仓_5.0.17_1海信版.apk](https://www.lanzoul.com/im3Md1jhbyib)
+
+ - [影视仓_5.0.18.apk](https://www.lanzoul.com/iDiAB1jhbwvc)
+
+ - [影视仓_5.0.18_海信版.apk](https://www.lanzoul.com/iQHIy1jhbv0f)
+
+ - [影视TV_2.1.5-v8a.apk](https://www.lanzoul.com/ir7lC1jhbt2f)
+
+ - [影视TV_2.1.5-v7a.apk](https://www.lanzoul.com/isGys1jhbr7i)
+
+ - [影视TV_2.1.5-4.x.apk](https://www.lanzoul.com/iFpME1jhbnsf)
+
+
 ## 2023-12-29 更新
 
  - [支付宝(谷歌版)-10.5.56.9600(963)-下载地址.txt](https://www.lanzoul.com/iSGfB1j6cmcd)
