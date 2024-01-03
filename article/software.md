@@ -9,6 +9,19 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-02 更新
+
+## 2024-01-03 更新
+
+ - [Windows端音乐播放能手Foobar2000绿版.exe](https://www.lanzoui.com/iEvK81jqslwd)
+
+ - [中小学电子课本下载器 v1.0.rar](https://www.lanzoui.com/iM8Ma1jqseti)
+
+ - [无限分身2_0_17.apk](https://www.lanzoui.com/i4L7v1jqse2b)
+
+ - [无限分身2_0_17去广告高级会员.apk](https://www.lanzoui.com/ikSsG1jqsbyf)
+
+
 ## 2024-01-01 更新
 
  - [文字转语音软件x64-v2306.exe](https://www.lanzoui.com/iapdD1jhmkxi)

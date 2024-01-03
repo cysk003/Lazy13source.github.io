@@ -17,7 +17,27 @@
 
 ***
 
-- 240101：
+- 240103：
+
+  - 巨人的口袋《100思维2.0》
+  
+  - 万物皆模型2024跨年礼
+  
+  - 2023年12月猫哥的世界星球精选
+  
+  - 230101局外人的视界《一月必看》
+  
+  - <details>
+    <summary>更新《240103懒人赚钱风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKdUJObYfW9H7AFaF0hTTsLqKT9HIa1KLwjibOoxLXHFIeSVwwma0AvAWHRm4zp8Aspibtdj8qQnDNQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240103懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKdUJObYfW9H7AFaF0hTTsLvMiaR00sqzicjxqFaVU0PW3ibtByJHCQ5AL4kepKLLUYDbX7zQzp548icg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240102：
 
   - 更新129元付费课程《刘澜·学习力30讲》，已加入《[通才计划课程](/data/13_course)》
   - 230102大树乡长付费文《大变革：2024年的中国战略与决策方向》
