@@ -9,6 +9,119 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-04 更新
+
+ - [橙子投屏_1.4.0.8.apk](https://www.lanzoui.com/i92T81jvmgkf)
+
+ - [局域网内网电脑文件互传家里网电脑手机互传下载.rar](https://www.lanzoui.com/iseFQ1jvmb9e)
+
+ - [2345看图王_v11.2.0.10077_x64_去广告绿色版.rar](https://www.lanzoui.com/i1JqZ1jvm63i)
+
+ - [柚子影视 v4.0.5 纯净版@王宝强.apk](https://www.lanzoul.com/ifx3V1jyijli)
+
+ - [柚子影视 v4.0.4 去广告版@王宝强.apk](https://www.lanzoul.com/ijHbL1jyii6h)
+
+ - [喜马极速版v3.2.60.3@MT小程.apk](https://www.lanzoul.com/iTOhG1jyig9i)
+
+ - [全剧得 2.7.3去广告版@[SN-3dca7469].apk](https://www.lanzoul.com/iZwB41jyiejg)
+
+ - [今日水印相机 3.0.80.4会员版_辰夕-下载地址.txt](https://www.lanzoul.com/ijF3f1jyidqh)
+
+ - [当贝桌面(清纯初恋版)-v20231227.apk](https://www.lanzoul.com/iKJui1jyi7oj)
+
+ - [ES文件浏览器 4.4.1.13解锁VIP_maxi123444.apk](https://www.lanzoul.com/ixNtB1jyi60j)
+
+ - [AI写作鱼 Ver.1.0.18 会员解锁版@hasoe.apk](https://www.lanzoul.com/ilmK91jyi13c)
+
+ - [TikTokAsia_32.8.3_v8a_@tkjiku_zh-CN-下载地址.txt](https://www.lanzoul.com/ifPYY1jxn9lc)
+
+ - [TikTok_32.8.3_v8a_@tkjiku_zh-CN-下载地址.txt](https://www.lanzoul.com/iKJe41jxn9de)
+
+ - [TikTokMod-32.8.3（含插件）.txt](https://www.lanzoul.com/ijsIo1jxn9cd)
+
+ - [柚子影视 Ver.4.0.4 去广告版@zhou45.apk](https://www.lanzoul.com/ihWl41jxn7fe)
+
+ - [柚子影视 Ver.4.0.5 去广告版@zhou45.apk](https://www.lanzoul.com/iXBi41jxn3di)
+
+ - [抖音-28.4.0-lsp-f.plus.1.2.5_@tkjiku-下载地址.txt](https://www.lanzoul.com/imv8E1jxmyuf)
+
+ - [哔哩哔哩_7.14.1-Monet@rikkati-下载地址.txt](https://www.lanzoul.com/ikF4K1jxmyje)
+
+ - [Webcam Live（世界摄像头直播）_2.2.0@liu.apk](https://www.lanzoul.com/iDYdL1jxmxrg)
+
+ - [TVBox_takagen99_20231231-1656.apk](https://www.lanzoul.com/ixO6j1jxmuzg)
+
+ - [TVBox_takagen99_20231230-2119.apk](https://www.lanzoul.com/iIMMD1jxmtaf)
+
+ - [TVBox_takagen99_20231230-1518.apk](https://www.lanzoul.com/isqxf1jxms6f)
+
+ - [TVBox_takagen99_20231230-0916.apk](https://www.lanzoul.com/iEdLs1jxmqli)
+
+ - [TVBox_takagen99_20231229-1315.apk](https://www.lanzoul.com/ihryi1jxmo7c)
+
+ - [NewPipe_SB_0.26.1_BlackMod_MustHave@!person!.apk](https://www.lanzoul.com/iQ2R51jxmlah)
+
+ - [Nekogram-10.5.0-4228-arm64-v8a.apk](https://www.lanzoul.com/ikNal1jxmjqb)
+
+ - [Nagram-v10.3.2-mini-arm64-v8aNoGcm.apk](https://www.lanzoul.com/iwe751jxmicb)
+
+ - [Nagram-v10.3.2-mini-arm64-v8a.apk](https://www.lanzoul.com/ibjRs1jxmhad)
+
+ - [AdGuard Ad Blocker v4.3.199 Final arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i0Lfc1jxmg7e)
+
+ - [_v18.45.43_arm64@tkjiku.apk](https://www.lanzoul.com/itmG11jxmete)
+
+ - [MicroG.RE.4.2@WST.apk](https://www.lanzoul.com/i9kRj1jxmc2f)
+
+ - [删除右键菜单的2345看图王的“使用看图王打开”和“打印图”选项.7z](https://www.lanzoul.com/iD84b1jxljji)
+
+ - [微信(谷歌版)-8.0.42(2424)-v8a,v7a-正式版-下载地址.txt](https://www.lanzoul.com/iFmPu1jxl4ze)
+
+ - [扫描全能王_v6.56.0.2312240000_(65602)_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/iK8pJ1jxkuze)
+
+ - [ChatOn_1.30.299-307_Mod@辰夕.apk](https://www.lanzoul.com/iSz061jxkqxi)
+
+ - [Chat_Smith_v3.5.2_(486)_Mod@辰夕.apk](https://www.lanzoul.com/iB2ET1jxkmpg)
+
+ - [CapCut剪映_v10.6.0_(10600001)_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/idgXv1jxkejc)
+
+ - [淘宝-10.30.0.22-Google-Play-下载地址.txt](https://www.lanzoul.com/iED191jxjmdi)
+
+ - [应用锁WinAPPLock.exe](https://www.lanzoul.com/ikwkC1jxj5ra)
+
+ - [VMOS Pro_v2.9.9_NotLogin@黑鹰.apk](https://www.lanzoul.com/iVwLX1jxj0le)
+
+ - [VMOS Pro_v2.9.9_Pro@黑鹰.apk](https://www.lanzoul.com/iI9Ep1jxiw8h)
+
+ - [淘宝 荣耀 100 Pro 定制版 v10.27.40.803@百分之千分享.apk](https://www.lanzoul.com/ivenv1jxioja)
+
+ - [SD Maid SE_0.18.2-beta0-Mod@帝落.apk](https://www.lanzoul.com/i2WOv1jxia2j)
+
+ - [Optimizer-16.4.exe](https://www.lanzoul.com/iGfF81jxi3di)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.57.apk](https://www.lanzoul.com/iDA9O1jxi0bi)
+
+ - [洛雪音乐PC-v2.6.0-beta.7-lx-music-desktop-win7_x64-green.zip](https://www.lanzoul.com/iPKcQ1jxhs3c)
+
+ - [洛雪音乐PC-v2.6.0-beta.7-lx-music-desktop-win_x64-green.zip](https://www.lanzoul.com/i08v41jxhguh)
+
+ - [洛雪音乐-app-v1.2.0-beta.22-arm64-v8a-release.zip](https://www.lanzoul.com/iPcDM1jxgb8j)
+
+ - [洛雪音乐-app-v1.2.0-beta.21-arm64-v8a-release.zip](https://www.lanzoul.com/iQn1b1jxg9kj)
+
+ - [百度网盘 荣耀 90 GT 定制版 v11.43.77@百分之千分享.apk](https://www.lanzoul.com/iPakM1jxg3ve)
+
+ - [SD Maid 华为定制版 v5.1.10h@百分之千分享.apk](https://www.lanzoul.com/iBQKK1jxfkmb)
+
+ - [Pili-iOS-1.0.16.0102.ipa](https://www.lanzoul.com/i8nhP1jxfcyf)
+
+ - [Pili-arm64-v8a-1.0.16.0102.apk](https://www.lanzoul.com/iXLeB1jxfa0j)
+
+ - [影视仓_2.0.15-短视频版_opt.apk](https://www.lanzoul.com/ib9N61jwqpva)
+
+ - [影视仓_2.0.15_游戏版_opt.apk](https://www.lanzoul.com/ifFm71jwqp0j)
+
+
 ## 2024-01-02 更新
 
 ## 2024-01-03 更新

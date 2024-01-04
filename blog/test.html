@@ -1,29 +1,57 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <style>
+        .myInput {
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            width: 100%;
+            font-size: 16px;
+            padding: 12px 20px 12px 40px;
+            border: 1px solid #ddd;
+            margin-bottom: 12px;
+        }
+    </style>
 </head>
 <body>
-  <div id="content">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl id feugiat luctus, nunc turpis malesuada enim, nec ultrices metus arcu sit amet augue.
-</div>
 
-<input type="text" id="search" placeholder="Search term">
-<button onclick="search()">Search</button>
+<h2>搜索表格内容</h2>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="搜索关键字.." title="在这里输入" class="myInput">
+
+<table id="myTable">
+  <tbody>
+    <tr>
+      <td>域名买卖：一个普通完全可以复制的作副业复盘.pdf</td>
+      <td><a href='https://lazymans.lanzoub.com/i0TJo0qm54yh' target='_blank'>https://lazymans.lanzoub.com/i0TJo0qm54yh</a></td>
+    </tr>
+    <tr>
+      <td>职业平台APP创业复盘与踩坑总结.pdf</td>
+      <td><a href='https://lazymans.lanzoub.com/i4oqO0qm54sb' target='_blank'>https://lazymans.lanzoub.com/i4oqO0qm54sb</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <script>
-function search() {
-    var searchTerm = document.getElementById('search').value;
-    var contentElement = document.getElementById('content');
-    var content = contentElement.innerHTML;
-
-    // Remove any existing highlights
-    content = content.replace(/<mark>/g, '').replace(/<\/mark>/g, '');
-
-    // Add highlights
-    content = content.replace(new RegExp(searchTerm, 'g'), '<mark>' + searchTerm + '</mark>');
-
-    contentElement.innerHTML = content;
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
 }
 </script>
+
 </body>
 </html>
