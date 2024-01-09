@@ -17,6 +17,27 @@
 
 ***
 
+- 240109：
+
+  - <details>
+    <summary>更新《24010懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLapz21NW59uc2OTPxrnxRZIuGII2gowxctzTvx2QtOnb0H6Zu2gS78hWQ167UyEOITPl76dJUgtQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240109懒人赚钱风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLapz21NW59uc2OTPxrnxRZr9NF4d6Q5eZ7pSgffRtD5r2iaV2cBJMUuovXADraDpTU2ow0ibVj2A6w/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240108：
+
+  - 240108咩咩说付费文《2024注定不会对你温柔以待》
+  - 240108司令付费文《X47：香港是关键！》
+  
+- 240106：
+
+  - 周末小懒也休息
+  
 - 240105:
 
   - 更新《财新周刊》2024第一期。2023合集已备份和分享
