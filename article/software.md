@@ -9,6 +9,117 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-08 更新
+
+ - [单文件制作 7.0.2.3822_x86_x64.zip](https://www.lanzoui.com/iSfw41kdnwza)
+
+ - [360驱动大师纯净版2.0.0.2000.exe](https://www.lanzoui.com/iXWLO1kdmh7g)
+
+ - [高德地图 V12.10.61.3021 小米14Pro定制版.apk](https://www.lanzoui.com/iy0Z01kdmgsb)
+
+ - [高德地图 V12.10.61.3017 荣耀100定制版.apk](https://www.lanzoui.com/iBFrs1kdmeja)
+
+ - [作业帮_13.61.0@rikkati-下载地址.txt](https://www.lanzoul.com/ilfCq1kbl7yf)
+
+ - [搜狗输入法v13.13.0.8820去广告精简优化版@zd423.exe](https://www.lanzoul.com/iGtCG1kbl3if)
+
+ - [抖音-28.4.0-lsp-fplus1.2.6b_@tkjiku-下载地址.txt](https://www.lanzoul.com/ifKx41kbkyna)
+
+ - [抖音-28.4.0-lsp-fplus1.2.6b2_@tkjiku-下载地址.txt](https://www.lanzoul.com/i2U2Y1kbkymj)
+
+ - [爱奇艺_14.12.5@rikkati.zip](https://www.lanzoul.com/i2TyW1kbkngh)
+
+ - [_v18.45.43_arm64@tkjiku.apk](https://www.lanzoul.com/iMZKI1kbkkzi)
+
+ - [WPS_Office_v18.6_(1486)_Mod_protected@辰夕-下载地址.txt](https://www.lanzoul.com/ix3qO1kbkhaf)
+
+ - [TVBox_takagen99_20240106-1756.apk](https://www.lanzoul.com/iw5aX1kbkfpi)
+
+ - [MyRadio v1.1.77.0105 modded by mixroot.apk](https://www.lanzoul.com/iljuX1kbkeli)
+
+ - [ES文件浏览器_v4.4.1.13_(10320)_Mod@辰夕.apk](https://www.lanzoul.com/ikjnv1kbkcte)
+
+ - [七猫免费小说_7.40-Mod@帝落.apk](https://www.lanzoul.com/iDnJ31kbk12b)
+
+ - [墨迹天气_9.0848.02-Mod@帝落.apk](https://www.lanzoul.com/ivaI91kbk0be)
+
+ - [洛雪音乐-app-v1.2.0-beta.23-arm64-v8a-release.zip](https://www.lanzoul.com/iBjGD1kbjvzi)
+
+ - [海阔视界_V8.22_0107_C4629_db53-64位.apk](https://www.lanzoul.com/i6aU31kbjste)
+
+ - [小鸡模拟器 1.8.7去广告版@[SN-7fedefb6]-下载地址.txt](https://www.lanzoul.com/iGaTk1k5glyd)
+
+ - [七猫免费小说v7.40内置模块.apk](https://www.lanzoul.com/isUfR1k5gdij)
+
+ - [七猫免费小说v7.40@[SN-7fedefb6].apk](https://www.lanzoul.com/ivnQ71k5g9xa)
+
+ - [WPS_Office-Premium-v18.6_build_1486-Mod_iHackedit.com@balatan-下载地址.txt](https://www.lanzoul.com/iGATZ1k5g79e)
+
+ - [bilimiao-github-2.3.2.apk](https://www.lanzoul.com/i4NMM1k5g31c)
+
+ - [微博 13.12.3-内置猪手2.2.7-257模块-下载地址.txt](https://www.lanzoul.com/iY0vC1k4j5qb)
+
+ - [高德地图 V12.10.61.3017 荣耀100定制版.apk](https://www.lanzoul.com/iagg41k4j02h)
+
+ - [WeXposed (微x模块) 2.43.apk](https://www.lanzoul.com/i4npM1k4irne)
+
+ - [adguard_4.3.199_shadowapks.apk](https://www.lanzoul.com/iLIdh1k4inna)
+
+ - [[LSPatch]Bilibili-7.62.0-b13816585-漫游8dfab0c8f4-下载地址.txt](https://www.lanzoul.com/iX8n31k4ig1g)
+
+ - [TVBox_takagen99_20240105-0725.apk](https://www.lanzoul.com/iSadC1k4gx1g)
+
+ - [TVBox_takagen99_20240104-2106.apk](https://www.lanzoul.com/iNRKm1k4gvra)
+
+ - [360驱动大师纯净版-2.0.0.2000-绿色单文件@zd423.exe](https://www.lanzoul.com/iwqEm1k4gahe)
+
+ - [360驱动大师網卡版-2.0.0.2000-绿色单文件@zd423-下载地址.txt](https://www.lanzoul.com/ijuDk1k4gagd)
+
+ - [腾讯QQ正式版9.7.21.29280-绿色纯净版@zd423.exe](https://www.lanzoul.com/ibL6N1k4g4hi)
+
+ - [Google-Play-Store-38.8.28-29-A10 All.apk](https://www.lanzoul.com/iCPgK1k4g2qf)
+
+ - [雷电模拟器5(64)-v5.0.74.1-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/ihNDu1k4g0jg)
+
+ - [雷电模拟器9(64)-v9.0.64.4-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/i95j51k4g0if)
+
+ - [影视-v2.1.6-mobile-java-arm64_v8a@来自肥猫公众号.apk](https://www.lanzoul.com/iGOrI1k4fpwd)
+
+ - [影视-v2.1.6-mobile-python-armeabi_v7a@来自肥猫公众号.apk](https://www.lanzoul.com/iF3P31k4fphi)
+
+ - [影视-v2.1.6-mobile-python-arm64_v8a@来自肥猫公众号.apk](https://www.lanzoul.com/ideyT1k4fmwf)
+
+ - [影视-v2.1.6-mobile-java-armeabi_v7a@来自肥猫公众号.apk](https://www.lanzoul.com/iFw9x1k4fl1i)
+
+ - [影视TV-v2.1.6-leanback-java-arm64_v8a@来自肥猫公众号.apk](https://www.lanzoul.com/iDeHw1k4f8ih)
+
+ - [影视TV-v2.1.6-leanback-4x@来自肥猫公众号.apk](https://www.lanzoul.com/iv0L31k4f6vi)
+
+ - [影视TV-v2.1.6-leanback-python-armeabi_v7a@来自肥猫公众号.apk](https://www.lanzoul.com/ilfBX1k4f5xe)
+
+ - [影视TV-v2.1.6-leanback-python-arm64_v8a@来自肥猫公众号.apk](https://www.lanzoul.com/iQwG41k4f4yj)
+
+ - [影视TV-v2.1.6-leanback-java-armeabi_v7a@来自肥猫公众号.apk](https://www.lanzoul.com/inUBG1k4f48d)
+
+ - [*签到-薅羊毛-Unify-Sign-2.0.9.3.zip](https://www.lanzoul.com/iXONK1k4f27a)
+
+ - [gkd-v1.6.4.apk](https://www.lanzoul.com/iO6ml1k4f1vi)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.58.apk](https://www.lanzoul.com/iSMg31k4f0ne)
+
+ - [BLBL_release_v1.4.9.apk](https://www.lanzoul.com/i6JAC1k4eijc)
+
+ - [BLBL_api19_v1.4.9.apk](https://www.lanzoul.com/i4WoW1k4ei6j)
+
+ - [阿里云盘v4.9.6去升级播放横屏版@wuzhij[MT签名]（不要点容量管理）-下载地址.txt](https://www.lanzoul.com/iHsYP1k4egab)
+
+ - [阿里云盘v4.9.16.1破解本地会员版@[SN-4dffdc9c]（已失效）-下载地址.txt](https://www.lanzoul.com/iaYGo1k4eg9a)
+
+ - [StarrySkyLive-enshan-release-v1.0.108.apk](https://www.lanzoul.com/iNVBY1k9m7gb)
+
+ - [派大星直播_1.0.4_opt.apk](https://www.lanzoul.com/iciTf1k579fi)
+
+
 ## 2024-01-05 更新
 
 
