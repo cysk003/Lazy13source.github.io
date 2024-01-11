@@ -9,6 +9,33 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-10 更新
+
+ - [网易云音乐 荣耀定制版 v1.0.42@百分之千分享.apk](https://www.lanzoul.com/i8UCM1kkodqf)
+
+ - [搜狗输入法 小米定制版 v10.32.21.202312261141@百分之千分享.apk](https://www.lanzoul.com/i3yHq1kkoacd)
+
+ - [搜狗输入法 OPPO定制版 v10.32.0422.2312@百分之千分享.apk](https://www.lanzoul.com/iR5Hk1kko8nc)
+
+ - [京东 荣耀 90 GT 定制版 v11.2.3@百分之千分享-下载地址.txt](https://www.lanzoul.com/iK8xV1kko4ej)
+
+ - [高德地图 小米14 Pro 定制版 v12.10.61.3021@百分之千分享.apk](https://www.lanzoul.com/iMpII1kko2gj)
+
+ - [高德地图  荣耀100 定制版 v12.10.61.3017@百分之千分享.apk](https://www.lanzoul.com/ib8gK1kknzni)
+
+ - [百度网盘 三星定制版 v11.58.10@百分之千分享-下载地址.txt](https://www.lanzoul.com/iDaJT1kknvyf)
+
+ - [百度输入法 小米定制版 v10.6.122.1136@百分之千分享.apk](https://www.lanzoul.com/ihl2Z1kknqof)
+
+ - [alixby-3.24.10517-win-x64@odomu.exe](https://www.lanzoul.com/ifoso1kknceb)
+
+ - [alixby-3.23.120722-win-x64@odomu.exe](https://www.lanzoul.com/inTxh1kknauf)
+
+ - [alixby-3.23.113015-win-x64@odomu.exe](https://www.lanzoul.com/ibF501kkn8oh)
+
+ - [99手游_1.5.3@[MT签名].apk](https://www.lanzoul.com/i44qr1kkmtcf)
+
+
 ## 2024-01-09 更新
 
  - [影视TV-v2.1.8-来自肥猫公众号-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/id4i41kipx9c)
