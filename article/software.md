@@ -9,6 +9,77 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-11 更新
+
+ - [Office-2013-2024-C2R-Install-7.7.7.5-CN.zip](https://www.lanzoui.com/i9wSJ1kq9xvg)
+
+ - [影视-v2.1.9-fm-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iwNw11kqabrg)
+
+ - [影视-v2.1.9-fm-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/i67Xx1kqa9jg)
+
+ - [影视-v2.1.9-fm-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/i96KI1kqa7af)
+
+ - [影视-v2.1.9-fm-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/itL081kqa5sb)
+
+ - [影视-v2.1.8-GitHub-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i7Anl1kqa3fg)
+
+ - [影视-v2.1.8-GitHub-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iJXDR1kqa20f)
+
+ - [影视-v2.1.8-GitHub-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iNm1V1kqa0gj)
+
+ - [影视-v2.1.8-GitHub-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iOWo41kq9z1i)
+
+ - [影视TV-v2.1.9-fm-A4.x-leanback-4x.apk](https://www.lanzoul.com/iv37l1kq9xid)
+
+ - [影视TV-v2.1.9-fm-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iewqD1kq9w2b)
+
+ - [影视TV-v2.1.9-fm-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iHTB01kq9ure)
+
+ - [影视TV-v2.1.9-fm-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/isB9a1kq9tab)
+
+ - [影视TV-v2.1.9-fm-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iZa9K1kq9sch)
+
+ - [影视TV-v2.1.8-GitHub-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/imjPY1kq9pyb)
+
+ - [影视TV-v2.1.8-A4.x-GitHub-leanback.apk](https://www.lanzoul.com/ii3oD1kq9owd)
+
+ - [影视TV-v2.1.8-GitHub-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/ic8CE1kq9n9e)
+
+ - [影视TV-v2.1.8-GitHub-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iy6cC1kq9lha)
+
+ - [影视TV-v2.1.8-GitHub-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iwG0P1kq9kob)
+
+ - [智能助手_1.7.3破解会员版@小银.apk](https://www.lanzoul.com/i5dkC1kq9gud)
+
+ - [微博猪手 2.2.7-(258-20240109)xp模块.apk](https://www.lanzoul.com/iyWbg1kq9evc)
+
+ - [微博 13.12.3-内置猪手2.2.7-258模块-下载地址.txt](https://www.lanzoul.com/ii2631kq9eub)
+
+ - [洛雪音乐-app-v1.2.0-beta.24-arm64-v8a-release.zip](https://www.lanzoul.com/iBfQH1kq9c7g)
+
+ - [WPS_Office-Premium-v18.6.1_build_1487-Mod@balatan-下载地址.txt](https://www.lanzoul.com/iK8cA1kq9ali)
+
+ - [uBlock Origin 1.55.0.crx](https://www.lanzoul.com/icYGZ1kq98mh)
+
+ - [TVBox_takagen99_20240110-0026.apk](https://www.lanzoul.com/iOouk1kq97va)
+
+ - [Telegram_Premium[Normal]10.5.7@Abhi.apk](https://www.lanzoul.com/i7Jmc1kq91xg)
+
+ - [Telegram_Premium[Anti]v10.5.7@Abhi.apk](https://www.lanzoul.com/ivQAI1kq90bi)
+
+ - [HiPER_Calc_Pro-v10.4.2_build_217-Mod@balatan.apk](https://www.lanzoul.com/i7TE71kq8xxc)
+
+ - [HEU_KMS_Activator_v42.0.1.rar](https://www.lanzoul.com/iKa4e1kq8x9i)
+
+ - [Google-Play-Store-39.1.26-29-A10 All.apk](https://www.lanzoul.com/ii61O1kq8wmf)
+
+ - [AdGuard-Premium-v4.4.14_build_10157091-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/ik6CJ1kq8v3a)
+
+ - [[LSPatch]Bilibili-7.63.0-b13855195-漫游8dfab0c8f4-下载地址.txt](https://www.lanzoul.com/i0wB01kq8u9a)
+
+ - [Bili-v7.63.0-patched1.16@BBShow-下载地址.txt](https://www.lanzoul.com/idgkL1kq8u8j)
+
+
 ## 2024-01-10 更新
 
  - [网易云音乐 荣耀定制版 v1.0.42@百分之千分享.apk](https://www.lanzoul.com/i8UCM1kkodqf)
