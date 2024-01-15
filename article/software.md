@@ -9,6 +9,133 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-12 更新
+
+## 2024-01-15 更新
+
+ - [宸希影视_3.0.0.apk](https://www.lanzoui.com/i6bAC1l3lyzg)
+
+ - [傲梅分区助手 V10.2绿色版.zip](https://www.lanzoui.com/i9l3Y1l02qkb)
+
+ - [傲梅分区助手 V10.2专业版.zip](https://www.lanzoui.com/iPXY01l02psd)
+
+ - [傲梅分区助手 V10.2WinPE（64位）.7z](https://www.lanzoui.com/iZD8L1l02p4j)
+
+ - [摩尼定位 moniloc 1.7 arm64-jiagu-signed.apk](https://www.lanzoui.com/iObya1kwu85c)
+
+ - [微信多开.exe](https://www.lanzoui.com/iKGYY1kwu3mj)
+
+ - [电子发票汇总改名202300519.exe](https://www.lanzoui.com/i2sQY1kwu0pe)
+
+ - [搜书大师_v23.11_Svip@黑鹰.apk](https://www.lanzoul.com/iVgPj1l2vbbi)
+
+ - [美团红包助手 Ver.1.9.0 去广告版@zhou45.apk](https://www.lanzoul.com/i43fB1l2v7ud)
+
+ - [XMind Mind Map v23.11.07263 arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i5uTB1l2v5pg)
+
+ - [雷电模拟器9(64)-v9.0.65.0-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iIpqz1l2v0ja)
+
+ - [剪映_12.0.6会员版@[SN-472af512]-下载地址.txt](https://www.lanzoul.com/inWX61l2uzxi)
+
+ - [WPS Office_v18.6.1_1487谷歌高级版_辰夕-下载地址.txt](https://www.lanzoul.com/iB6RW1l2us2f)
+
+ - [TVBox_takagen99_20240114-0206.apk](https://www.lanzoul.com/iEQV41l2uodc)
+
+ - [TVBox_takagen99_20240111-1203.apk](https://www.lanzoul.com/i54mz1l2umli)
+
+ - [Resume Builder v1.01.44.0109 modded by mixroot (1).apk](https://www.lanzoul.com/iCkUL1l2ujqf)
+
+ - [MX_Player_v1.78.4_(2001002284)_Mod@辰夕.apk](https://www.lanzoul.com/iTP9W1l2u4la)
+
+ - [MicroG_RE_4.3@WST.apk](https://www.lanzoul.com/iCQgr1l2twef)
+
+ - [ES文件浏览器 4.4.1.15解锁VIP_maxi123444.apk](https://www.lanzoul.com/iDLyD1l2ttpi)
+
+ - [ES文件浏览器_v4.4.1.15_Vip@黑鹰.apk](https://www.lanzoul.com/iHJAJ1l2to5i)
+
+ - [ES文件浏览器_v4.4.1.15_(10322)_Mod@辰夕.apk](https://www.lanzoul.com/ibiSs1l2ti3a)
+
+ - [ES_File_Explorer-Premium-v4.4.1.13_build_10320-Mod@balatan.apk](https://www.lanzoul.com/iKx4o1l2tcwd)
+
+ - [ES_File_Explorer_Premium_v4_4_1_13_build_10320_Mod_Lite_arm64_v8a@balatan.apk](https://www.lanzoul.com/iWUdW1l2t8kh)
+
+ - [CapCut剪映国际版 10.7.0解锁专业版_辰夕-下载地址.txt](https://www.lanzoul.com/imbLM1l2sxfg)
+
+ - [CamScanner v6.57.0.2401110000 offline _ed by youarefinished.apk-下载地址.txt](https://www.lanzoul.com/i0KD01l2ss0b)
+
+ - [CamScanner v6.57.0.2401110000 Clean _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/itVUF1l2srsd)
+
+ - [CamScanner v6.57.0.2401110000 ads support _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iNdXt1l2srqb)
+
+ - [CamScanner_v6.57.0.2401110000_65702_V2_Premium_iHackedit.com@derrin-下载地址.txt](https://www.lanzoul.com/ivXtk1l2sroj)
+
+ - [AI写作鱼 v1.0.19@1i!yD-下载地址.txt](https://www.lanzoul.com/iMVw91l2s3ta)
+
+ - [[LSPatch]Bilibili-7.63.0-b13855195-漫游1573deb52e-下载地址.txt](https://www.lanzoul.com/iBfby1l2r06d)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游1573deb52e-下载地址.txt](https://www.lanzoul.com/iuIGn1l2r03a)
+
+ - [[LSPatch]Bilibili-HD-1.44.3-b13664414-漫游1573deb52e.apk](https://www.lanzoul.com/iydnY1l2qzde)
+
+ - [影视TV-v2.2.0-gh-A4.x-leanback.apk](https://www.lanzoul.com/iTAGO1l2ootc)
+
+ - [影视TV-v2.2.0-gh-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iMj0W1l2on5c)
+
+ - [影视TV-v2.2.0-gh-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iPFs11l2ol8d)
+
+ - [影视TV-v2.2.0-gh-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/i3iMu1l2oj0d)
+
+ - [影视TV-v2.2.0-gh-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/io0kf1l2ohta)
+
+ - [影视TV-v2.2.0-fm-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/i5PvK1l2og1g)
+
+ - [影视TV-v2.2.0-fm-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iN6UO1l2oeud)
+
+ - [影视TV-v2.2.0-fm-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iiSMg1l2odvi)
+
+ - [影视TV-v2.2.0-fm-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/i7mSW1l2ocqh)
+
+ - [影视TV-v2.2.0-fm-leanback-4x.apk](https://www.lanzoul.com/i3XXw1l2obwh)
+
+ - [影视TV-v2.2.0a-fm-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/ikPRo1l2oacb)
+
+ - [影视TV-v2.2.0a-fm-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iMGA81l2o8vi)
+
+ - [影视TV-v2.2.0a-fm-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iwM231l2o7ub)
+
+ - [影视TV-v2.2.0a-fm-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iwxVe1l2o7gh)
+
+ - [影视TV-v2.2.0a-fm-leanback-4.x.apk](https://www.lanzoul.com/iVziW1l2o6qb)
+
+ - [影视-v2.2.0-gh-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/ig0mR1l2o4kd)
+
+ - [影视-v2.2.0-gh-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iDMRP1l2o45i)
+
+ - [影视-v2.2.0-gh-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/ih8Mo1l2o3kh)
+
+ - [影视-v2.2.0-gh-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iyOcw1l2o2pg)
+
+ - [影视-v2.2.0a-fm-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iPqUN1l2o16b)
+
+ - [影视-v2.2.0a-fm-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iC28E1l2o0ih)
+
+ - [影视-v2.2.0a-fm-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iWnyJ1l2o04d)
+
+ - [影视-v2.2.0a-fm-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/i7szB1l2nzdg)
+
+ - [影视-v2.2.0-fm-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iCZ4C1l2nyna)
+
+ - [影视-v2.2.0-fm-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iUZF81l2ny3a)
+
+ - [音乐时刻_1.1.0.apk](https://www.lanzoul.com/iPq601kyxfla)
+
+ - [音乐搜索_1.2.6.apk](https://www.lanzoul.com/iYRwN1kyxfji)
+
+ - [影视仓_5.0.20_1_opt.apk](https://www.lanzoul.com/i7kW71kywrgb)
+
+ - [派大星直播_1.0.5.apk](https://www.lanzoul.com/ilBOj1kywj2j)
+
+
 ## 2024-01-11 更新
 
  - [Office-2013-2024-C2R-Install-7.7.7.5-CN.zip](https://www.lanzoui.com/i9wSJ1kq9xvg)
