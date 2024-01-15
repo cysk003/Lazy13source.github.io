@@ -36,7 +36,16 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
-- #### 刘澜·学习力30讲
+- #### 《年度得到·何帆中国经济报告（2023-2024）》
+
+  - 标签：`#经济`，`#报告`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKIrwmibcFAAHWQpN3rCtpQtibb8UZzpicxSAHuXcNia1NZiaT4HzWM9myibrzwwM9zMNmtncmqBreGsNxA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
+- #### 《刘澜·学习力30讲》
 
   - 标签：`#学习`，`#教育`
 
@@ -47,7 +56,7 @@
 
 - #### 《年度得到·香帅中国财富报告（2023-2024）》
 
-  - 标签：`#商业`，`#财富`
+  - 标签：`#商业`，`#报告`
 
   - <details>
         <summary>点击展开目录</summary>
