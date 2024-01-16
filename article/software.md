@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-16 更新
+
+ - [SKIP v2.0.0跳过APP开屏广告软件.apk](https://www.lanzoui.com/id3NI1l6lync)
+
+
 ## 2024-01-12 更新
 
 ## 2024-01-15 更新

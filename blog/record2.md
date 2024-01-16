@@ -17,6 +17,20 @@
 
 ***
 
+- 240116：
+
+  - 整理更新大航海实战的资源
+  
+  - <details>
+    <summary>更新《240116懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJ79Y5bMdpwG6KgaZGWLIXvibgUgfickDicN1JttemqX21vnbh7spF4sbucA82fB4olfP2Sra4ic2kZsw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240116懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJ79Y5bMdpwG6KgaZGWLIXvricCzrfZj8nYQ637rklFX6DjWPWLb6PfkYepFrrlr8qmWAyWZv8ias4g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240115：
 
   - 分享司令付费文《发钱促进消费？》
@@ -37,7 +51,7 @@
 - 240109：
 
   - <details>
-    <summary>更新《24010懒人赚钱周报》，点击展开目录：</summary>
+    <summary>更新《240109懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLapz21NW59uc2OTPxrnxRZIuGII2gowxctzTvx2QtOnb0H6Zu2gS78hWQ167UyEOITPl76dJUgtQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
   
