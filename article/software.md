@@ -9,6 +9,95 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-17 更新
+
+ - [腾讯视频_8.10.15.28056@rikkati-下载地址.txt](https://www.lanzoul.com/iqBJS1l9pota)
+
+ - [抖音-28.4.0-lsp-fplus1.2.6_@tkjiku-下载地址.txt](https://www.lanzoul.com/i5jMb1l9lwgb)
+
+ - [抖音-27.5.0_fplus+小手_@tkjiku_共存版-下载地址.txt](https://www.lanzoul.com/iU7Tt1l9lvze)
+
+ - [抖音-27.5.0_fplus_@tkjiku_共存版-下载地址.txt](https://www.lanzoul.com/ihF7l1l9lvqf)
+
+ - [抖音-23.7.2-lsp-fplus1.2.6_@tkjiku-下载地址.txt](https://www.lanzoul.com/iKPT11l9lvba)
+
+ - [抖音-23.7.2-fplus_@tkjiku_clone-下载地址.txt](https://www.lanzoul.com/iFvKa1l9lutc)
+
+ - [抖音28.4改28.6-fplus1.2.6_@tkjiku-下载地址.txt](https://www.lanzoul.com/iqaPJ1l9luqj)
+
+ - [ChatGPT_3.8.2.0@Boss Abdul.apk](https://www.lanzoul.com/ikN6X1l9lang)
+
+ - [笔趣阁完美版 Ver.2.6.8 去广告 修复闪退版@zhou45.apk](https://www.lanzoul.com/i6g2T1l9l3ij)
+
+ - [今日水印相机_v3.0.88.4(30008804)-Mod@帝落-下载地址.txt](https://www.lanzoul.com/iZP7y1l9kyab)
+
+ - [酷我音乐HD_8.5.4.5-Mod@帝落.apk](https://www.lanzoul.com/iX6bK1l9kewd)
+
+ - [酷我音乐手表版_1.1.9-Mod@帝落.apk](https://www.lanzoul.com/igS7P1l9kcqf)
+
+ - [360极速浏览器X64 v22.1.1073.0 绿色便携版@soldier-下载地址.txt](https://www.lanzoul.com/imHgE1l9jylg)
+
+ - [360安全浏览器_360se15.1.1400.64位_优化版@soldier-下载地址.txt](https://www.lanzoul.com/itWqC1l9jy9e)
+
+ - [360安全浏览器_15.1.1400.64_mefcl_Setup_64Bit-下载地址.txt](https://www.lanzoul.com/iSQY61l9jxrg)
+
+ - [360SE-15.1.1400.64-Stable-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/i5sQv1l9jxba)
+
+ - [油小猴工具箱v2.1.6.crx](https://www.lanzoul.com/izEsv1l9jwoh)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游a0a6187c3b-下载地址.txt](https://www.lanzoul.com/ivEK11l9ji4d)
+
+ - [[LSPatch]Bilibili-7.64.0-b13903137-漫游a0a6187c3b-下载地址.txt](https://www.lanzoul.com/iXfv11l9ji3c)
+
+ - [[LSPatch]Bilibili-7.64.0-b13903137-漫游1573deb52e-下载地址.txt](https://www.lanzoul.com/i1vCn1l9ji2b)
+
+ - [[LSPatch]Bilibili-HD-1.44.3-b13664414-漫游a0a6187c3b.apk](https://www.lanzoul.com/ip1e01l9jhwf)
+
+ - [TVBox_takagen99_20240116-0848.apk](https://www.lanzoul.com/iSlTt1l9j95a)
+
+ - [Telegram Mod[ANTI]-v11.0.0@DevilMinati.apk](https://www.lanzoul.com/iKOnT1l9itih)
+
+ - [Telegram Mod[Normal]-v11.0.0@DevilMinati.apk](https://www.lanzoul.com/iFLJ41l9iqsj)
+
+ - [SD Maid 2_SE - System Cleaner v0.18.3-beta0 _ed by youarefinished.apk](https://www.lanzoul.com/iqZ7T1l9iiyh)
+
+ - [SD_Maid_SE-Pro-v0.18.3-beta0_build_1803000-Viva-Magenta-Mod@balatan.apk](https://www.lanzoul.com/iWznL1l9ihvi)
+
+ - [SD_Maid_SE-Pro-v0.18.3-beta0_build_1803000-Mod@balatan.apk](https://www.lanzoul.com/iAUjE1l9ih4b)
+
+ - [MyRadio v1.1.79.0112 modded by mixroot.apk](https://www.lanzoul.com/ixWSK1l9idib)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.60.apk](https://www.lanzoul.com/iqX1g1l9i85i)
+
+ - [Google-Play-Store-39.2.37-29-A10 All.apk](https://www.lanzoul.com/iogct1l9i3eh)
+
+ - [MicroG_RE_4.4@WST.apk](https://www.lanzoul.com/iwLhI1l9i0te)
+
+ - [MicroG_RE_4.5@WST.apk](https://www.lanzoul.com/il6zX1l9i0lg)
+
+ - [Chat_Smith_v3.5.4_(504)_Mod@辰夕.apk](https://www.lanzoul.com/i7EeW1l9hxah)
+
+ - [Autox-v6-arm64-v8a-release-6.5.7.apk](https://www.lanzoul.com/iof6C1l9hs4b)
+
+ - [alixby-3.24.11522-win-x64@odomu.exe](https://www.lanzoul.com/iuxVy1l9hkze)
+
+ - [影视TV-v2.2.2-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/i3dYr1l9hglg)
+
+ - [影视TV-v2.2.2-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iq2v91l9hf4d)
+
+ - [影视TV-v2.2.2-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/i4T1W1l9heeh)
+
+ - [影视TV-v2.2.2-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/ikCa11l9hd4b)
+
+ - [影视-v2.2.2-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/i9bC41l9ha3c)
+
+ - [影视-v2.2.2-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iXjoq1l9h87e)
+
+ - [影视-v2.2.2-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/inkjX1l9h5xc)
+
+ - [影视-v2.2.2-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iVLsR1l9h41e)
+
+
 ## 2024-01-16 更新
 
  - [SKIP v2.0.0跳过APP开屏广告软件.apk](https://www.lanzoui.com/id3NI1l6lync)
