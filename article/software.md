@@ -9,6 +9,131 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-22 更新
+
+ - [雪豹99999_99999_.apk](https://www.lanzoui.com/iQatI1ltmy5i)
+
+ - [微群社区【解鎖vip功能 无限看 勿信里.apk](https://www.lanzoui.com/itJ6Q1ltmwfg)
+
+ - [-鲁云(大迟度直- 内置超多平台 不要.apk](https://www.lanzoui.com/iCauQ1ltjtch)
+
+ - [CGIS-X64-32适应版也是安装系统软件绿色无广告.exe](https://www.lanzoui.com/i7VNG1lthteh)
+
+ - [蓝瘦.apk](https://www.lanzoui.com/iLOxm1lthprg)
+
+ - [多多短剧4.04.apk](https://www.lanzoui.com/i7Das1lp844j)
+
+ - [多多短剧4.0.3.apk](https://www.lanzoui.com/ihH951lp825i)
+
+ - [星芽免费短剧_1.3.5.1.apk](https://www.lanzoui.com/iIgJ91lp23ng)
+
+ - [抖短剧_3.8.2_手机.apk](https://www.lanzoui.com/itNyB1lp1nyb)
+
+ - [中小学电子课本下载器 v2.1.rar](https://www.lanzoui.com/ipjZs1lkxhoh)
+
+ - [PMLite图魔法师轻量版-v1.0.2.rar](https://www.lanzoui.com/iDYZJ1lkxfja)
+
+ - [XMind Mind Map v23.11.07266 _ed by youarefinished.apk](https://www.lanzoul.com/i7gWz1lv0dxa)
+
+ - [TVBox_takagen99_20240116-2311.apk](https://www.lanzoul.com/i0U031lv09ib)
+
+ - [TVBox_takagen99_20240116-1109.apk](https://www.lanzoul.com/i1ulk1lv09ad)
+
+ - [TVBox_takagen99_20240120-2106.apk](https://www.lanzoul.com/iI1Ui1lv08tg)
+
+ - [TVBox_takagen99_20240117-2140.apk](https://www.lanzoul.com/iMRTm1lv07ta)
+
+ - [TVBox_takagen99_20240117-0148.apk](https://www.lanzoul.com/ijw8n1lv074f)
+
+ - [telegram-v10.6.1-ANTI-STORE_sign@DevilMinati.apk](https://www.lanzoul.com/iZfE11lv04ng)
+
+ - [Telegram_v10.5.3_b42459_universal@[MT签名].apk](https://www.lanzoul.com/iQCYb1lv047a)
+
+ - [telegram-v10.6.1-NORMAL-WEB_sign@DevilMinati.apk](https://www.lanzoul.com/i6uQZ1lv03da)
+
+ - [telegram-v10.6.1-NORMAL-STORE_sign@DevilMinati.apk](https://www.lanzoul.com/i7WKs1lv027i)
+
+ - [telegram-v10.6.1-ANTI-WEB_sign@DevilMinati.apk](https://www.lanzoul.com/iHrw81lv010f)
+
+ - [SD Maid 2_SE - System Cleaner v0.18.5-beta0 _ed by youarefinished.apk](https://www.lanzoul.com/i0xvp1luzuha)
+
+ - [SD Maid 2_SE - System Cleaner v0.18.4-beta0 _ed by youarefinished.apk](https://www.lanzoul.com/ibPVD1luzudg)
+
+ - [SD_Maid_SE-Pro-v0.18.5-beta0_build_1805000-Viva-Magenta-Mod@balatan.apk](https://www.lanzoul.com/ijWCR1luzucf)
+
+ - [SD_Maid_SE-Pro-v0.18.5-beta0_build_1805000-Mod@balatan.apk](https://www.lanzoul.com/iCzGs1luzu6j)
+
+ - [SD_Maid_SE-Pro-v0.18.4-beta0_build_1804000-Viva-Magenta-Mod@balatan.apk](https://www.lanzoul.com/iz1vk1luzu5i)
+
+ - [SD_Maid_SE-Pro-v0.18.4-beta0_build_1804000-Mod@balatan.apk](https://www.lanzoul.com/iJlBU1luzu0d)
+
+ - [SD.Maid.SE-0.18.5-PRO_red@ST.apk](https://www.lanzoul.com/i2kM81luztpc)
+
+ - [SD.Maid.SE-0.18.5-PRO@ST.apk](https://www.lanzoul.com/irNla1luztgd)
+
+ - [Nekogram-10.6.1-4275-arm64-v8a.apk](https://www.lanzoul.com/itf1g1luzrsd)
+
+ - [InetDownloadManager_6.42.3_Green@果核剥壳.7z](https://www.lanzoul.com/i4nJV1luzq6f)
+
+ - [IDM_v6.42.3绿色特别版_zd423.exe](https://www.lanzoul.com/i0WTU1luzq2b)
+
+ - [Chatbot AI_3.9.18@Boss Abdul.apk](https://www.lanzoul.com/iah4M1luznkb)
+
+ - [CapCut_10.8.0@Crunch & Abdul[MT签名]-下载地址.txt](https://www.lanzoul.com/iJIDH1luzlpe)
+
+ - [CapCut剪映国际版 10.8.0解锁专业版@gegeh-下载地址.txt](https://www.lanzoul.com/irxMD1luzlod)
+
+ - [APKPure_3.19.73@rikkati.apk](https://www.lanzoul.com/i8pdD1luzfud)
+
+ - [ADM_Pro_v14.0.26_MustHave@balatan.apk](https://www.lanzoul.com/i5SBf1luze0h)
+
+ - [ADM_14.0.26@liu.apk](https://www.lanzoul.com/ioCbv1luzdta)
+
+ - [Advanced _ Manager v14.0.26 _ed by youarefinished.apk](https://www.lanzoul.com/iFiQf1luzdri)
+
+ - [AdGuard Ad Blocker v4.4.35 arm7+arm64 Nightly _ed by youarefinished.apk](https://www.lanzoul.com/is0lL1luzcxi)
+
+ - [AdGuard Ad Blocker v4.4.34 arm7+arm64 Nightly _ed by youarefinished.apk](https://www.lanzoul.com/i5mOp1luzcpa)
+
+ - [AdGuard Ad Blocker v4.4.31 arm7+arm64 Nightly _ed by youarefinished.apk](https://www.lanzoul.com/il4vd1luzckf)
+
+ - [AdGuard-Premium-4.4.31-All-Nightly@balatan.apk](https://www.lanzoul.com/iyUh71luzcbg)
+
+ - [AdGuard_v4.4.35-Nightly-高级版_Balatan.apk](https://www.lanzoul.com/iyn4X1luzc0f)
+
+ - [AdGuard_Premium_v4.4.34_MustHave@balatan.apk](https://www.lanzoul.com/iBHJr1luzbxc)
+
+ - [AdGuard_4.4.34@rikkati.apk](https://www.lanzoul.com/iiV4w1luzbrg)
+
+ - [[LSPatch]Bilibili-7.64.0-b13908519-漫游ff79035031-下载地址.txt](https://www.lanzoul.com/igBJ51luzakd)
+
+ - [[LSPatch]Bilibili-7.64.0-b13908519-漫游a0a6187c3b-下载地址.txt](https://www.lanzoul.com/iLhuK1luzajc)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游ff79035031-下载地址.txt](https://www.lanzoul.com/iQQD01luzaib)
+
+ - [[LSPatch]Bilibili-HD-1.44.3-b13664414-漫游ff79035031.apk](https://www.lanzoul.com/iUs8w1luz9if)
+
+ - [哔哩哔哩_7.14.1-Monet@rikkati解锁会员画质.apk](https://www.lanzoul.com/ip9tE1luz8vc)
+
+ - [哔哩哔哩_7.14.1_clone@rikkati解锁会员画质共存版.apk](https://www.lanzoul.com/iK3UR1luz8kb)
+
+ - [影视-v2.2.3-ok-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iytYM1luz0zi)
+
+ - [影视-v2.2.3-ok-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i54Q41luz0xg)
+
+ - [影视-v2.2.4-fongmi-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/i8wgl1luz0tc)
+
+ - [影视-v2.2.4-fongmi-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iz9p91luz0qj)
+
+ - [影视-v2.2.4-fongmi-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iMozD1luz0eh)
+
+ - [影视-v2.2.4-fongmi-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/imJDT1luz07a)
+
+ - [影视-v2.2.3-ok-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iyrZu1luz02f)
+
+ - [影视-v2.2.3-ok-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/ibJ291luyzpc)
+
+
 ## 2024-01-19 更新
 
 
