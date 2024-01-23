@@ -17,6 +17,21 @@
 
 ***
 
+- 240123：
+
+  - <details>
+    <summary>更新《240123懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK5etvJyzzqRYMWsbTOUJhHVs6UKOtYR4f14kuiapH6IQKic5ncO8t6sn82mKZvYlQEJb4MhafA4RLg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240123懒人赚钱风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK5etvJyzzqRYMWsbTOUJhHmWiaLouyKt0qam9fAUhkuveDOyLgOfxW9uk2O3n9GlG6xtqGjV4zXlQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 更新财新周刊2024第4期
+  - 更新三份大航海实战：《思维导图特训》《视频号分成计划》《视频号 IP 带货》
+  
 - 240122:
 
   - 群友分享电子书《财富的真相》
