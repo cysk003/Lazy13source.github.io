@@ -17,6 +17,18 @@
 
 ***
 
+- 240126：
+
+  - 更新第69期《懒人专属群周报》
+  - 分享付费文《德桑蒂斯退选，川普优势扩大？》
+  - 分享付费文《经济形势不好也是有红利的》
+  - 分享付费文《成本无限高，越是好事越难做》
+  
+  - <details>
+    <summary>大航海系列已更新完成，39篇群友自取，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNIJZ6eYIMVcZyACBeu25n6zSvvn7TibMbJVia64XoPDB8ic6hBpjkrktyjaFBbNht9z4jFoUpmNZrwEw/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240125：
 
   - 继续更新航海实战系列：《抖音图文电商》《视频号涨粉》《ChatGPT+海外工具》《抖音精准引流（ SEO）》《AI 绘画+自媒体》《播客制作》《商业访谈》《时间管理》

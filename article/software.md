@@ -9,6 +9,117 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-26 更新
+
+ - [KugouAuto_v5.0.3_8069_dfaaa71.apk](https://www.lanzoui.com/iR7YN1ma531i)
+
+ - [LanZouYun v3.4.7.0 x64.dmg](https://www.lanzoui.com/ipKpZ1ma4zcf)
+
+ - [LanZouYun v3.4.7.0 ARM64.dmg](https://www.lanzoui.com/iLCR01ma4w6b)
+
+ - [蓝奏云盘PC端 v3.4.7.0x64 .7z](https://www.lanzoui.com/iEbvc1ma4t6d)
+
+ - [我的电视v1.4.5.apk](https://www.lanzoul.com/i4ToL1mb4ezi)
+
+ - [微商助手 Ver.3.1.8 会员解锁版@zhou45.apk](https://www.lanzoul.com/idUqE1mb4ecf)
+
+ - [兔小贝儿歌_18.5@[SN-7fedefb6]-下载地址.txt](https://www.lanzoul.com/iGFyw1mb4dfc)
+
+ - [抖音-28.6.0-lsp-fplus1.2.6_@tkjiku-下载地址.txt](https://www.lanzoul.com/igP4x1mb45ed)
+
+ - [阿里云盘v5.3.0破解本地会员版@[SN-4dffdc9c]-下载地址.txt](https://www.lanzoul.com/iqF7u1mb41hc)
+
+ - [TikTok-ReVanced-v33.0.3_signed_iHackedit.com@derrin-下载地址.txt](https://www.lanzoul.com/iv3jT1mb3ysf)
+
+ - [X-plore v4.35.05 Black _ed _ed by youarefinished.apk](https://www.lanzoul.com/ihX4x1mb3usb)
+
+ - [X-plore v4.35.05 _ed by youarefinished.apk](https://www.lanzoul.com/i7wvp1mb3ule)
+
+ - [X-plore-Donate-v4.35.04_build_43504-Mod@balatan.apk](https://www.lanzoul.com/i9xbi1mb3u9c)
+
+ - [X-plore_4.35.05@liu.apk](https://www.lanzoul.com/i0cFd1mb3u3g)
+
+ - [XMind Mind Map v23.11.07267 _ed by youarefinished.apk](https://www.lanzoul.com/iNkf21mb3szg)
+
+ - [WPS_Office_Lite_v18.6.2_1488_Pro_iHackedit.com@derrin-下载地址.txt](https://www.lanzoul.com/ibdOo1mb3raf)
+
+ - [Speedtest-Premium-v5.3.0_build_206794-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iSzTl1mb3lod)
+
+ - [CapCut剪映国际版 10.8.1_10811600@gegeh-下载地址.txt](https://www.lanzoul.com/ihfg51mb3kad)
+
+ - [B612咔叽 12.4.13会员版@[MT签名]-下载地址.txt](https://www.lanzoul.com/iW4Vz1mb3fqj)
+
+ - [AI Chat_3.0.5.3@liu.apk](https://www.lanzoul.com/i8ASN1mb39uh)
+
+ - [AdGuard Ad Blocker v4.4.38 arm7+arm64 Nightly _ed by youarefinished.apk](https://www.lanzoul.com/iDFYm1mb38ri)
+
+ - [AdGuard-Premium-4.4.38-v8a-Nightly@balatan.apk](https://www.lanzoul.com/iFlp51mb38hi)
+
+ - [99手游_1.5.5@[MT签名].apk](https://www.lanzoul.com/igjRL1mb37rc)
+
+ - [哔哩哔哩-v7.14.1至尊版V1Monet-full@rikkati.apk](https://www.lanzoul.com/i9eC21mb36yd)
+
+ - [哔哩哔哩-v7.14.1至尊版V1-full版@rikkati.zip](https://www.lanzoul.com/ieEzF1mb35ib)
+
+ - [哔哩哔哩-v7.14.1至尊版V1_Monet@rikkati.apk](https://www.lanzoul.com/ijc4A1mb34ob)
+
+ - [哔哩哔哩-v7.14.1至尊版V1@rikkati.zip](https://www.lanzoul.com/iTaem1mb33ri)
+
+ - [[LSPatch]Bilibili-7.65.0-b13974827-漫游ff79035031-下载地址.txt](https://www.lanzoul.com/i69hC1mb2z5c)
+
+ - [[LSPatch]Bilibili-7.65.0-b13987783-漫游ff79035031-下载地址.txt](https://www.lanzoul.com/isZyG1mb2z4b)
+
+ - [Bypass_1.16.12.zip](https://www.lanzoul.com/iUo721mb1nsh)
+
+ - [订票助手.NET_2024.1.18.3_正式版.rar](https://www.lanzoul.com/iKrPg1mb1ngf)
+
+ - [alixby-3.24.12522-win-x64@odomu.exe](https://www.lanzoul.com/iMP9Y1mb1k3e)
+
+ - [QQ_9.7.22.29291_Green@果核剥壳.7z](https://www.lanzoul.com/iOVT21m97zrc)
+
+ - [雷电模拟器9(64)-v9.0.65.1-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iiiPx1m97jfe)
+
+ - [360ChromeX-22.1.1084.64-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/itn0x1m97bwd)
+
+ - [360csex_22.1.1084.64_Flash_mefcl_Setup-下载地址.txt](https://www.lanzoul.com/ivud51m97bvc)
+
+ - [支付宝(谷歌版)-10.5.66.9100(993)-下载地址.txt](https://www.lanzoul.com/ilwze1m9779g)
+
+ - [微信正式版-v3.9.9.35-多开防撤回绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iVki71m96yha)
+
+ - [Google-Play-Store-39.3.33-29-A10 All.apk](https://www.lanzoul.com/iWSQn1m96ked)
+
+ - [РotРlayer-240112(1.7.22077)-x64-Stable.exe](https://www.lanzoul.com/ipspU1m96f6f)
+
+ - [快乐下载V1.2.2_kil_flow_m_sign_protected@辰夕.apk](https://www.lanzoul.com/ibQO71m96c2d)
+
+ - [查找大文件(WizTree)4.17.x64汉化去广告便携版@th_sjy.7z](https://www.lanzoul.com/ibNSi1m968qd)
+
+ - [Telegram_v10.6.2_(42839)_Mod@辰夕.apk](https://www.lanzoul.com/iDNW31m965qf)
+
+ - [NowAI_v3.9.1.0_(3910)_Mod@辰夕.apk](https://www.lanzoul.com/i4bBy1m95zbe)
+
+ - [chatonai_1.31.302-319_Mod@辰夕.apk](https://www.lanzoul.com/i7Y181m95wwh)
+
+ - [Chat_Smith_v3.6.0_(523)_Mod_dccPro@辰夕.apk](https://www.lanzoul.com/iGCjE1m95v0j)
+
+ - [今日水印相机_v3.0.90.4(30009004)-Mod@帝落.7z](https://www.lanzoul.com/iaLI51m954kh)
+
+ - [墨迹天气_9.0850.02(1009085002)-Mod@帝落.zip](https://www.lanzoul.com/iuTZa1m94v4h)
+
+ - [Xmind_23.11.07267(267)-Mod@帝落.apk](https://www.lanzoul.com/icpYO1m94k3a)
+
+ - [SD Maid SE_0.18.5-beta0(1805000)-Mod@帝落.apk](https://www.lanzoul.com/i8ESl1m94exe)
+
+ - [WinRAR v7.00 beta 4 x64 SC@烈火.exe](https://www.lanzoul.com/iaa4Z1m94cva)
+
+ - [洛雪音乐-app-v1.2.0-beta.26-arm64-v8a-release.zip](https://www.lanzoul.com/iOvY81m946le)
+
+ - [kodi-20.3-Nexus-armeabi-v7a.apk](https://www.lanzoul.com/ixBC21m93y3i)
+
+ - [kodi-20.3-Nexus-arm64-v8a.apk](https://www.lanzoul.com/i8jgd1m93saj)
+
+
 ## 2024-01-25 更新
 
  - [去注入去除纯净2.0.apk](https://www.lanzoui.com/icIsn1m7hjpc)
