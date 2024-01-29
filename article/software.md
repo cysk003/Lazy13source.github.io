@@ -9,6 +9,135 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-29 更新
+
+ - [光影魔术手4.5.1.50.exe](https://www.lanzoui.com/iOyUt1mk2jqb)
+
+ - [软件卸载工具 v3.1.81 安装版.exe](https://www.lanzoui.com/ijNWL1mgm1yh)
+
+ - [软件卸载工具 v3.1.81 单文件版.exe](https://www.lanzoui.com/idknA1mgm1tc)
+
+ - [图无损放大软件V1.0.zip](https://www.lanzoui.com/ikgOG1mglxti)
+
+ - [【公众号：科技红薯】红果免费短剧（全网.apk](https://www.lanzoui.com/iYszH1mgku0f)
+
+ - [抖看小剧场.apk](https://www.lanzoui.com/iYCvG1mea7te)
+
+ - [安卓抖短剧v3.8.2 超级全的.apk](https://www.lanzoui.com/il7p81mdzuzc)
+
+ - [火山短剧.apk](https://www.lanzoui.com/ioyrJ1mdxu1g)
+
+ - [一键生成APP_1.8 beta.apk](https://www.lanzoui.com/ihMVc1md50cj)
+
+ - [KugouAuto_v5.0.3_8069_dfaaa71.apk](https://www.lanzoui.com/iR7YN1ma531i)
+
+ - [LanZouYun v3.4.7.0 x64.dmg](https://www.lanzoui.com/ipKpZ1ma4zcf)
+
+ - [LanZouYun v3.4.7.0 ARM64.dmg](https://www.lanzoui.com/iLCR01ma4w6b)
+
+ - [蓝奏云盘PC端 v3.4.7.0x64 .7z](https://www.lanzoui.com/iEbvc1ma4t6d)
+
+ - [酷视频_11.0.67@[SN-7fedefb6]-下载地址.txt](https://www.lanzoul.com/ikVHP1mdksxi)
+
+ - [网易云音乐_8.9.20_@tkjiku内置网抑叼毛云3.3.0-下载地址.txt](https://www.lanzoul.com/iX6y21mdkpyb)
+
+ - [食谱大全Ver.9.8.4@小二.apk](https://www.lanzoul.com/idFXN1mdknza)
+
+ - [美团红包助手 Ver.1.9.1 去广告版@zhou45.apk](https://www.lanzoul.com/iNq5Q1mdkmla)
+
+ - [快递100_v8.15.1-V1_arm64@rikkati.apk](https://www.lanzoul.com/iAFFH1mdkm5e)
+
+ - [今日水印相机 3.0.90.4会员版_辰夕.apk](https://www.lanzoul.com/iGjl51mdkk9g)
+
+ - [虎牙直播_11.12.3@rikkati-下载地址.txt](https://www.lanzoul.com/iOosC1mdkiqb)
+
+ - [TVBox_takagen99_20240125-2332.apk](https://www.lanzoul.com/iMp6p1mdkgha)
+
+ - [Telegram_v10.6.2_b42839_Premium@[MT签名].apk](https://www.lanzoul.com/ilRd41mdkeij)
+
+ - [Speedtest_5.3.0@rikkakti.apk](https://www.lanzoul.com/igJsD1mdkauh)
+
+ - [SD_Maid_SE-Pro-v0.19.0-beta0_build_1900000-Viva-Magenta-Mod@balatan.apk](https://www.lanzoul.com/izJc81mdk88d)
+
+ - [SD_Maid_SE-Pro-v0.19.0-beta0_build_1900000-Mod@balatan.apk](https://www.lanzoul.com/iwk5m1mdk86b)
+
+ - [SD Maid 2_SE - System Cleaner v0.19.0-beta0 _ed by youarefinished.apk](https://www.lanzoul.com/ihwIw1mdk85a)
+
+ - [ChatBot_v1.3.0_(24011301)_Mod (1)@辰夕.apk](https://www.lanzoul.com/iFrbi1mdk7fe)
+
+ - [Chat Bot_1.3.5_Mod@辰夕.apk](https://www.lanzoul.com/imdwW1mdk4de)
+
+ - [360安全浏览器_15.1.1433.64_mefcl_Setup_64Bit-下载地址.txt](https://www.lanzoul.com/iE7M11mdidjc)
+
+ - [洛雪音乐-2.6.0-beta.9-lx-music-desktop-win7_x64-green.zip](https://www.lanzoul.com/im9Z41mdh6lg)
+
+ - [洛雪音乐-2.6.0-beta.9-lx-music-desktop-win_x64-green.zip](https://www.lanzoul.com/ilHzX1mdh42f)
+
+ - [洛雪音乐-2.6.0-beta.9fix-lx-music-desktop-win_x64-green.zip](https://www.lanzoul.com/i63Mg1mdh1mh)
+
+ - [Pili-iOS-1.0.17.0125.ipa](https://www.lanzoul.com/iG1Hn1mdgzwf)
+
+ - [Pili-arm64-v8a-1.0.17.0125.apk](https://www.lanzoul.com/i8Mss1mdgzmf)
+
+ - [alixby-3.24.12523-win-x64@odomu.exe](https://www.lanzoul.com/icnmi1mdgx4f)
+
+ - [我的电视v1.4.5.apk](https://www.lanzoul.com/i4ToL1mb4ezi)
+
+ - [微商助手 Ver.3.1.8 会员解锁版@zhou45.apk](https://www.lanzoul.com/idUqE1mb4ecf)
+
+ - [兔小贝儿歌_18.5@[SN-7fedefb6]-下载地址.txt](https://www.lanzoul.com/iGFyw1mb4dfc)
+
+ - [抖音-28.6.0-lsp-fplus1.2.6_@tkjiku-下载地址.txt](https://www.lanzoul.com/igP4x1mb45ed)
+
+ - [阿里云盘v5.3.0破解本地会员版@[SN-4dffdc9c]-下载地址.txt](https://www.lanzoul.com/iqF7u1mb41hc)
+
+ - [TikTok-ReVanced-v33.0.3_signed_iHackedit.com@derrin-下载地址.txt](https://www.lanzoul.com/iv3jT1mb3ysf)
+
+ - [X-plore v4.35.05 Black _ed _ed by youarefinished.apk](https://www.lanzoul.com/ihX4x1mb3usb)
+
+ - [X-plore v4.35.05 _ed by youarefinished.apk](https://www.lanzoul.com/i7wvp1mb3ule)
+
+ - [X-plore-Donate-v4.35.04_build_43504-Mod@balatan.apk](https://www.lanzoul.com/i9xbi1mb3u9c)
+
+ - [X-plore_4.35.05@liu.apk](https://www.lanzoul.com/i0cFd1mb3u3g)
+
+ - [XMind Mind Map v23.11.07267 _ed by youarefinished.apk](https://www.lanzoul.com/iNkf21mb3szg)
+
+ - [WPS_Office_Lite_v18.6.2_1488_Pro_iHackedit.com@derrin-下载地址.txt](https://www.lanzoul.com/ibdOo1mb3raf)
+
+ - [Speedtest-Premium-v5.3.0_build_206794-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iSzTl1mb3lod)
+
+ - [CapCut剪映国际版 10.8.1_10811600@gegeh-下载地址.txt](https://www.lanzoul.com/ihfg51mb3kad)
+
+ - [B612咔叽 12.4.13会员版@[MT签名]-下载地址.txt](https://www.lanzoul.com/iW4Vz1mb3fqj)
+
+ - [AI Chat_3.0.5.3@liu.apk](https://www.lanzoul.com/i8ASN1mb39uh)
+
+ - [AdGuard Ad Blocker v4.4.38 arm7+arm64 Nightly _ed by youarefinished.apk](https://www.lanzoul.com/iDFYm1mb38ri)
+
+ - [AdGuard-Premium-4.4.38-v8a-Nightly@balatan.apk](https://www.lanzoul.com/iFlp51mb38hi)
+
+ - [99手游_1.5.5@[MT签名].apk](https://www.lanzoul.com/igjRL1mb37rc)
+
+ - [哔哩哔哩-v7.14.1至尊版V1Monet-full@rikkati.apk](https://www.lanzoul.com/i9eC21mb36yd)
+
+ - [哔哩哔哩-v7.14.1至尊版V1-full版@rikkati.zip](https://www.lanzoul.com/ieEzF1mb35ib)
+
+ - [哔哩哔哩-v7.14.1至尊版V1_Monet@rikkati.apk](https://www.lanzoul.com/ijc4A1mb34ob)
+
+ - [哔哩哔哩-v7.14.1至尊版V1@rikkati.zip](https://www.lanzoul.com/iTaem1mb33ri)
+
+ - [[LSPatch]Bilibili-7.65.0-b13974827-漫游ff79035031-下载地址.txt](https://www.lanzoul.com/i69hC1mb2z5c)
+
+ - [[LSPatch]Bilibili-7.65.0-b13987783-漫游ff79035031-下载地址.txt](https://www.lanzoul.com/isZyG1mb2z4b)
+
+ - [Bypass_1.16.12.zip](https://www.lanzoul.com/iUo721mb1nsh)
+
+ - [订票助手.NET_2024.1.18.3_正式版.rar](https://www.lanzoul.com/iKrPg1mb1ngf)
+
+ - [alixby-3.24.12522-win-x64@odomu.exe](https://www.lanzoul.com/iMP9Y1mb1k3e)
+
+
 ## 2024-01-26 更新
 
  - [KugouAuto_v5.0.3_8069_dfaaa71.apk](https://www.lanzoui.com/iR7YN1ma531i)
