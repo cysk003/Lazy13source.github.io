@@ -9,6 +9,109 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-30 更新
+
+ - [网页转应用v1.2.apk](https://www.lanzoui.com/iqidZ1mnf2va)
+
+ - [让图动起来.zip](https://www.lanzoui.com/iF30d1mne76j)
+
+ - [智能助手_1.7.6@takklong.apk](https://www.lanzoul.com/iF0KA1motzli)
+
+ - [w音乐_6.0.0.1原版_kill_e4707273_enc@辰夕.apk](https://www.lanzoul.com/iGbbs1mottde)
+
+ - [酷我音乐_10.6.0.1_dccPro_Mod_4673755a_enc@辰夕-下载地址.txt](https://www.lanzoul.com/i0Ena1motsza)
+
+ - [TVBox_takagen99_20240129-2326.apk](https://www.lanzoul.com/ic99M1motmod)
+
+ - [CamScanner v6.58.0.2401290000 Clean _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iSdU11motkpc)
+
+ - [CamScanner v6.58.0.2401290000 ad support _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iJLrp1motkob)
+
+ - [CamScanner v6.58.0.2401290000 offline _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/i8cZO1motkmj)
+
+ - [一键删除禁用Windows安全中心_DefenderRemover_v12.6.4.7z](https://www.lanzoul.com/iaC271mossze)
+
+ - [alixby-3.24.12922-win-x64@odomu.exe](https://www.lanzoul.com/ihNXT1mossgf)
+
+ - [CamScanner v6.58.0.2401240000 Clean _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iz9Hp1mndp1g)
+
+ - [CamScanner v6.58.0.2401240000 ads support _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/i2g2j1mndoze)
+
+ - [CamScanner v6.58.0.2401240000 Offline _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/ipE1v1mndoyd)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游bfa9ad30ec-下载地址.txt](https://www.lanzoul.com/ilhVF1mndjwb)
+
+ - [[LSPatch]Bilibili-7.65.0-b13987783-漫游bfa9ad30ec-下载地址.txt](https://www.lanzoul.com/iKaBF1mndjpe)
+
+ - [[LSPatch]Bilibili-HD-1.44.3-b13664414-漫游bfa9ad30ec.apk](https://www.lanzoul.com/iEIeA1mndjed)
+
+ - [TVBox_takagen99_20240128-0850.apk](https://www.lanzoul.com/iFU6Q1mndgbc)
+
+ - [TVBox_takagen99_20240129-0046.apk](https://www.lanzoul.com/i3woz1mndfvg)
+
+ - [TVBox_takagen99_20240128-0939.apk](https://www.lanzoul.com/iNGpF1mndflg)
+
+ - [SD Maid 2_SE - System Cleaner v0.19.1-beta0 _ed by youarefinished.apk](https://www.lanzoul.com/i877U1mndeod)
+
+ - [SD_Maid_SE-Pro-v0.19.1-beta0_build_1901000-Viva-Magenta-Mod@balatan.apk](https://www.lanzoul.com/iyOQx1mndefe)
+
+ - [SD_Maid_SE-Pro-v0.19.1-beta0_build_1901000-Mod@balatan.apk](https://www.lanzoul.com/iXYpd1mndecb)
+
+ - [X-plore v4.35.06 _ed by youarefinished.apk](https://www.lanzoul.com/ihCg21mnddoh)
+
+ - [X-plore_Donate_v4.35.06_MustHave@balatan.apk](https://www.lanzoul.com/iczz81mndd8b)
+
+ - [X-plore v4.35.06 Black _ed by youarefinished.apk](https://www.lanzoul.com/iiywS1mndcna)
+
+ - [百度输入法_114514-下北沢养老版@AWAvenue.apk](https://www.lanzoul.com/i1d1m1mndb6h)
+
+ - [豆瓣_7.68.0@rikkati-下载地址.txt](https://www.lanzoul.com/icPVB1mnd82f)
+
+ - [Chat Smith_3.6.0@rikkati.apk](https://www.lanzoul.com/irfA91mncv0f)
+
+ - [FormatFactory 5.17.0 x64-下载地址.txt](https://www.lanzoul.com/iBmu11mnbzpi)
+
+ - [CapCut_v11.0.0_(11000100)_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/iMc5g1mnbqsh)
+
+ - [360SE-15.1.1433.64-Stable-Modified-Lite@zd423-下载地址.txt](https://www.lanzoul.com/iZkiz1mnbnxe)
+
+ - [搜狗五笔输入法_new_sogou_wubi_5.5e@chishingchan.exe](https://www.lanzoul.com/ihVsm1mnbc1g)
+
+ - [喜马拉雅_9.2.13.3@rikkati-下载地址.txt](https://www.lanzoul.com/ieVim1mnazfc)
+
+ - [扫描全能王_6.58.0.2401240000@rikkati-下载地址.txt](https://www.lanzoul.com/iPjDA1mnaxmh)
+
+ - [芒果TV_8.0.1@rikkati.zip](https://www.lanzoul.com/ilXgn1mnawuj)
+
+ - [Xmind_23.11.07270(270)-Mod@帝落.apk](https://www.lanzoul.com/iHCZi1mnar0j)
+
+ - [WiFi万能钥匙极速版_6.6.3(2310250)-Mod@帝落.apk](https://www.lanzoul.com/iPk7m1mnapli)
+
+ - [alixby-3.24.12817-win-x64@odomu.exe](https://www.lanzoul.com/i3LiS1mnanje)
+
+ - [影视TV-v2.2.4-ok-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/indiU1mnalra)
+
+ - [影视TV-v2.2.4-ok-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iYhhj1mnakuh)
+
+ - [影视TV-v2.2.4-ok-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iAGZ51mnak5c)
+
+ - [影视TV-v2.2.4-ok-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iiAyX1mnaini)
+
+ - [影视-v2.2.4-ok-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/idrm51mnacfe)
+
+ - [影视-v2.2.4-ok-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/igdIR1mnab2f)
+
+ - [影视-v2.2.4-ok-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iuZfc1mna9bc)
+
+ - [影视-v2.2.4-ok-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i16vX1mna8qb)
+
+ - [海阔视界_V8.25_0128_C4692_db53-64位.apk](https://www.lanzoul.com/igVv91mn9tdi)
+
+ - [OlSoul_Windows系统调校_20240127_a94341d0.exe](https://www.lanzoul.com/iW5pR1mn9pef)
+
+ - [mpv-x86_64-20240128-git-c6ccabe.7z](https://www.lanzoul.com/iOtWI1mn9orc)
+
+
 ## 2024-01-29 更新
 
  - [光影魔术手4.5.1.50.exe](https://www.lanzoui.com/iOyUt1mk2jqb)

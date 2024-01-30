@@ -17,6 +17,20 @@
 
 ***
 
+- 240130：
+
+  - 更新财新周刊2024第五期
+  
+  - <details>
+    <summary>更新《240130懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKBDPfDlaWoLIiaoWYTOxSuq6cTml4ro5N0fiayJpUtkXVZkianzibXqu3rUkccwEh5yIicbhOsj0lDVyQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240130懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKBDPfDlaWoLIiaoWYTOxSuqC0zbaBUJUX71y3eLMJxPVEevva29zicyLEPLzgA1MX2cNiapkPwQYP4A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240129：
 
   - 分享记忆承载付费文《用来窥伺命运的七颗龙珠》
