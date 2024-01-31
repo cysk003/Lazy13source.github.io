@@ -9,6 +9,57 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-01-31 更新
+
+ - [小学1000内加减法出题机.rar](https://www.lanzoui.com/ivO1c1mqxn0b)
+
+ - [知乎第三方客户端Hydrogen_new(1).apk](https://www.lanzoul.com/inrzl1mprhud)
+
+ - [扫描全能王_6.58.0.2401290000_Mod_675109c6_enc@辰夕.apk](https://www.lanzoul.com/iuWL11mprfyf)
+
+ - [X-plore_v4.35.06_(43506)_Mod@辰夕.apk](https://www.lanzoul.com/iTxE91mprbob)
+
+ - [[LSPatch]Bilibili-7.66.0-b14036717-漫游bfa9ad30ec-下载地址.txt](https://www.lanzoul.com/iLVPP1mpr70d)
+
+ - [TikTokAsia_v33.0.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/ijH7r1mpog2b)
+
+ - [TikTokAsia_v32.5.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/iYCHU1mpog1a)
+
+ - [TikTok_v33.2.4.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/i6svy1mpog0j)
+
+ - [TikTok_v33.0.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/iSNtW1mpofyh)
+
+ - [TikTok_v32.5.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/i2ril1mpofxg)
+
+ - [TikTokAsia_v33.2.4.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/iZQ7p1mpofve)
+
+ - [_v19.02.39_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/iDv7V1mplkza)
+
+ - [Revanced  v19.04.35 arm64@youarefinished.apk](https://www.lanzoul.com/iJGHp1mplfsd)
+
+ - [Vanced microG v0.3.0.234914@youarefinished.apk](https://www.lanzoul.com/iJTsw1mple0j)
+
+ - [MicroG_RE_4.6@WST.apk](https://www.lanzoul.com/iOVdt1mplapa)
+
+ - [MicroG_RE_4.7@WST.apk](https://www.lanzoul.com/im8hR1mpla5a)
+
+ - [GreenTuber_0.1.3.5@takklong.apk](https://www.lanzoul.com/i5GTr1mpl70h)
+
+ - [GreenTuber_0.1.3.5_@takklong.apk](https://www.lanzoul.com/iAigG1mpl6pg)
+
+ - [酷我音乐v10.6.7.6@可爱的童鞋（亲测无卡密弹窗）-下载地址.txt](https://www.lanzoul.com/iXmrr1mpl1ne)
+
+ - [微博 14.1.1-内置猪手2.2.7-260模块-下载地址.txt](https://www.lanzoul.com/itxri1mpkfnc)
+
+ - [微博猪手 2.2.7-(260-20240126)xp模块.apk](https://www.lanzoul.com/irAYu1mpkfgf)
+
+ - [我的电视 1.4.8.apk](https://www.lanzoul.com/ixJcK1mpjang)
+
+ - [我的电视 1.4.7.apk](https://www.lanzoul.com/igwJM1mpja5i)
+
+ - [Speedtest-Premium-v5.3.1_build_206980-Mod-arm64-v8a_iHackedit.com@balatan.apk](https://www.lanzoul.com/iLpsc1mpj1yd)
+
+
 ## 2024-01-30 更新
 
  - [网页转应用v1.2.apk](https://www.lanzoui.com/iqidZ1mnf2va)
