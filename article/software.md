@@ -9,6 +9,32 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-02-02 更新
+
+ - [跳过广告_4.7.2_apks.apk](https://www.lanzoui.com/iYd9A1mxugoh)
+
+ - [跳过广告_4.7.2_apks.apk](https://www.lanzoui.com/iAKi01mxst3c)
+
+ - [蓝奏云优享版_1.0.5.zip](https://www.lanzoui.com/iO0P81mxryoh)
+
+
+## 2024-02-01 更新
+
+ - [20H2.rar](https://www.lanzoui.com/iEY7v1mun6dg)
+
+ - [21H2.rar](https://www.lanzoui.com/i92qd1mun2mb)
+
+ - [1809.rar](https://www.lanzoui.com/izggJ1mumx1a)
+
+ - [1903.rar](https://www.lanzoui.com/iRzPD1mums1a)
+
+ - [1909.rar](https://www.lanzoui.com/iuBEJ1mumlob)
+
+ - [win11.rar](https://www.lanzoui.com/ivbpb1mumgeb)
+
+ - [1945.rar](https://www.lanzoui.com/i4zRv1mumbre)
+
+
 ## 2024-01-31 更新
 
  - [小学1000内加减法出题机.rar](https://www.lanzoui.com/ivO1c1mqxn0b)
