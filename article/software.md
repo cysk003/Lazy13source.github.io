@@ -9,6 +9,123 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-02-05 更新
+
+ - [爱思助手-cn.i4.mobile-1.21.08.apk](https://www.lanzoui.com/ilXZ91nbqpli)
+
+ - [NET安装卸载V3.43.1.exe.7z](https://www.lanzoui.com/i7aFO1nbq02j)
+
+ - [微软常用运行库合集 2024.02.01.exe](https://www.lanzoui.com/izwFz1nbpvvi)
+
+ - [TCP查看器(TCPView) 4.19_64bit_Single.exe](https://www.lanzoui.com/iY3ro1n37y6f)
+
+ - [TCP查看器(TCPView) 4.19_32bit_Single.exe](https://www.lanzoui.com/iMA3W1n37y2b)
+
+ - [智能助手_1.7.7@takklong.apk](https://www.lanzoul.com/iELhy1nd6ssf)
+
+ - [阿斯基_v1.3.0_(30)_Mod@辰夕.apk](https://www.lanzoul.com/ieOgf1nd6seb)
+
+ - [_v19.04.34_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/iNMZf1nd6q5a)
+
+ - [_v19.03.36_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/iZqfP1nd6nna)
+
+ - [_v19.04.36_arm64-v8a@tkjiku2.apk](https://www.lanzoul.com/iQq7m1nd6lyj)
+
+ - [_v19.04.36_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/izBOw1nd6jpi)
+
+ - [_v19.04.34_arm64-v8a@tkjiku2.apk](https://www.lanzoul.com/iou1l1nd6hfg)
+
+ - [X-plore v4.35.08 _ed by youarefinished.apk](https://www.lanzoul.com/iRC1c1nd6bni)
+
+ - [X-plore-Donate-v4.35.08_build_43508-Mod@balatan.apk](https://www.lanzoul.com/izfIr1nd6ash)
+
+ - [X-plore v4.35.08 Black _ed by youarefinished.apk](https://www.lanzoul.com/ieCWp1nd6a9i)
+
+ - [XMind Mind Map v23.11.07272 _ed by youarefinished.apk](https://www.lanzoul.com/igMz01nd67ja)
+
+ - [Xmind v23.11.07270 _ed by youarefinished.apk](https://www.lanzoul.com/iFa4v1nd66qb)
+
+ - [TVBox_takagen99_20240130-1747.apk](https://www.lanzoul.com/i2MJc1nd62pg)
+
+ - [Speedtest v5.3.1 arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iWi7f1nd60qf)
+
+ - [QAuxv-v1.4.7.r1883.b3d4b79-arm64.apk](https://www.lanzoul.com/ihD8Y1nd5yob)
+
+ - [MyRadio v1.1.80.0130 modded by Mixroot.apk](https://www.lanzoul.com/iBLIa1nd5w5a)
+
+ - [Chat_AI_v1.3.6_(38)_Mod_dccPro@辰夕.apk](https://www.lanzoul.com/icGVn1nd5shi)
+
+ - [Chat Smith_3.6.0@liu.apk](https://www.lanzoul.com/igGpl1nd5pqj)
+
+ - [alixby-3.24.20223-win-x64@odomu.exe](https://www.lanzoul.com/i4In91nd5mch)
+
+ - [ADM-Pro-v14.0.28_build_140028-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iHCP61nd5jqd)
+
+ - [AdGuard_v4.4.44_(10160091)_Mod_dccPro@辰夕.apk](https://www.lanzoul.com/iV8C91nd5i5g)
+
+ - [AdGuard-Premium-v4.4.48_build_10160491-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iM6Z21nd5h1g)
+
+ - [AdGuard_Premium_v4.4.44_MustHave@balatan.apk](https://www.lanzoul.com/izqPi1nd5fqj)
+
+ - [AdGuard_Premium_v4.4.46_MustHave@balatan.apk](https://www.lanzoul.com/inufa1nd5eyb)
+
+ - [AdGuard Ad Blocker v4.4.47 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iXxUQ1nd5dgh)
+
+ - [AdGuard Ad Blocker v4.4.50 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iHhkq1nd5cwh)
+
+ - [AdGuard Ad Blocker v4.4.48 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iJ7x71nd5cbg)
+
+ - [123云盘_2.3.9@rikkati.apk](https://www.lanzoul.com/ihmtr1nd58pg)
+
+ - [123云盘_2.3.9_去广告共存版_@tkjiku二改.apk](https://www.lanzoul.com/iMyy01nd563c)
+
+ - [123云盘_2.3.9_Reese_去广告版_@tkjiku二改.apk](https://www.lanzoul.com/itNXD1nd530b)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游409db671b4-下载地址.txt](https://www.lanzoul.com/ij5pz1n4keng)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游61e166c56f-下载地址.txt](https://www.lanzoul.com/i1r0o1n4kele)
+
+ - [[LSPatch]Bilibili-7.66.0-b14056308-漫游d0755f25f3-下载地址.txt](https://www.lanzoul.com/i3VaD1n4kekd)
+
+ - [[LSPatch]Bilibili-7.66.0-b14056308-漫游61e166c56f-下载地址.txt](https://www.lanzoul.com/i3rFD1n4kejc)
+
+ - [[LSPatch]Bilibili-7.66.0-b14036717-漫游d0755f25f3-下载地址.txt](https://www.lanzoul.com/ixAMw1n4keib)
+
+ - [[LSPatch]Bilibili-7.66.0-b14036717-漫游409db671b4-下载地址.txt](https://www.lanzoul.com/i3qkj1n4kegj)
+
+ - [[LSPatch]Bilibili-Blue-7.56.1-b13419896-漫游d0755f25f3-下载地址.txt](https://www.lanzoul.com/ihWmP1n4keeh)
+
+ - [[LSPatch]Bilibili-HD-1.44.3-b13664414-漫游d0755f25f3.apk](https://www.lanzoul.com/iTJHa1n4iauh)
+
+ - [[LSPatch]Bilibili-HD-1.44.3-b13664414-漫游409db671b4.apk](https://www.lanzoul.com/iCoxv1n4i8je)
+
+ - [[LSPatch]Bilibili-HD-1.45.0-b13980616-漫游61e166c56f.apk](https://www.lanzoul.com/igwmf1n4i76f)
+
+ - [我的电视 1.5.1.apk](https://www.lanzoul.com/iDb2D1n4dpah)
+
+ - [微商助手 3.2.0会员版_LWELY@[MT签名].apk](https://www.lanzoul.com/ikvVw1n4djwd)
+
+ - [CamScanner_v6.58.1.2401310000_65804_Premium_iHackedit.com@derrin-下载地址.txt](https://www.lanzoul.com/ii1CW1n4d7od)
+
+ - [X-plore-Donate-v4.35.08_build_43508-Mod_iHackedit.com@balatan.apk](https://www.lanzoul.com/i5Jhv1n4cybg)
+
+ - [CCTV_Viewer（电视浏览器） 1.5.apk](https://www.lanzoul.com/i3BJy1n49uoh)
+
+ - [alixby-3.24.20222-win-x64@odomu.exe](https://www.lanzoul.com/irYOr1n4927c)
+
+ - [雷电模拟器9(64)-v9.0.65.3-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/iXuuf1n47fof)
+
+ - [七猫免费小说_7.42(74200)-Mod@帝落.apk](https://www.lanzoul.com/ikwVK1n47c3g)
+
+ - [墨迹天气_9.0852.02(1009085202)-Mod@帝落.7z](https://www.lanzoul.com/iJ0d71n4772f)
+
+ - [格式工厂FormatFactory-5.17.0-x64-Modified@zd423.7z](https://www.lanzoul.com/isGkW1n46v9a)
+
+ - [音乐搜索.apk](https://www.lanzoul.com/iRFcw1n9zw6h)
+
+ - [sixyin-music-source-v1.1.0后缀名改成js.zip](https://www.lanzoul.com/iBjxd1n9xlfi)
+
+
 ## 2024-02-02 更新
 
  - [跳过广告_4.7.2_apks.apk](https://www.lanzoui.com/iYd9A1mxugoh)
