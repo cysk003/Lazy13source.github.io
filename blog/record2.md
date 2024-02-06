@@ -17,6 +17,24 @@
 
 ***
 
+- 240206：
+
+  - 更新2024财新周刊第6期
+  
+  - <details>
+    <summary>更新《240206懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJItPv40Lo1tiajD98EYYvewPBqkY8JxNBUDsUkDlWOPt4PxjW2eY8oAvlRJFzRB5AQiaWg56oNibaLQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240130懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJItPv40Lo1tiajD98EYYvew3UXQNPpmGicBjMmIckZgCxfggUnNsSYVPewSZ8Xz1LYBQPKGqP9PELA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240205：
+
+  - 卢克文星球《浦东机场禁止网约车，背后问题到底在哪？》
+  
 - 240204：
 
   - 240204卢克文星球《安倍派遭遇存亡危机，日本派系政治发生重大变化》
