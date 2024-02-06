@@ -21,6 +21,8 @@
 
   - 更新2024财新周刊第6期
   
+  - 群友分享局外人的视界付费文《二月必看》
+  
   - <details>
     <summary>更新《240206懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJItPv40Lo1tiajD98EYYvewPBqkY8JxNBUDsUkDlWOPt4PxjW2eY8oAvlRJFzRB5AQiaWg56oNibaLQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
