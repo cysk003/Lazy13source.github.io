@@ -1,5 +1,3 @@
-
-
 # 13.懒人专属群-通才计划
 
 [**返回首页**](/README.md)
@@ -35,6 +33,15 @@
 ## 最近更新
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
+
+- ####  《陈勇·怎样提高流量转化率》
+
+  - 标签：`#经济`，`#商业`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNLlkgrUuBe29XAia1D4zqRicibVgicc1Lic7RwGBCv0tgSl1AeLibHjCu1ZiaibcsEN2CSnZRv9EVqhicqLv5Q/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
 
 - #### 《张晓燕·风险管理课》
 
@@ -855,12 +862,6 @@
     <p>年终盘点丨对于一个人的不公，是对于所有人的威胁</p>
     <p>20.唇枪舌战的庭审辩论，只出现在律政剧里？案件审判的流程与规范</p>
         </detals>
-
-- #### 致独特的你：人格心理学40讲
-
-- #### 白先勇细说红楼梦
-
-- #### 认识现代社会的真相：韦伯60讲
 
 - #### 故事便利店
 
