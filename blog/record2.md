@@ -17,31 +17,63 @@
 
 ***
 
+- 240220：
+
+  - <details>
+    <summary>更新《240220懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIMXab7PMicERiciaJlEtw2KnNncUhvAH0MtN3VrA6nZljjRwFzKrTusmNmtBgzeQBZOzWcphn7aBs8w/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+  - <details>
+    <summary>更新《240220懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIMXab7PMicERiciaJlEtw2KnN4h6TogBBrRicyuz10MlhfhNiaq2ujQqG7XXkvKYCFQFIawlVLluU0eMg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+  - 240220九边付费文《真的是一个时代的落幕？》
+
+  - 更新2024第7期《财新周刊》
+  - 2024懒人专属群春节特刊
+  - 240220卢克文星球文《又一个品牌倒下，新能源汽车进入淘汰赛》
+  - 240219卢克文星球《大陆海警进入金门海域执法，要动手了？》
+
+- 240219：
+
+  - 付费文《Sora横空出世，中美AI领域的差距在哪里？》
+  - 付费文《春节档喜剧霸榜，是好事还是坏事？》
+  - 240219专属群分享《成年人怎样克服 “大雄胖虎综合征”？》
+
+- 240209-18:
+
+  - 大家春节快乐~
+  - 240212司令付费文《梅西在纳投名状》
+  - 240213司令付费文《两周打爆4000亿》
+  - 240215西风付费文《有些经济话题，再拖下去，可能就来不及了》
+
 - 240208：
 
   - 更新99元付费课程《陈勇·怎样提高流量转化率》，已加入《[通才计划课程](/data/13_course)》
   - 240207政事堂付费文《超级利好，喜迎证监会的新掌门人》
-  
+
 - 240206：
 
   - 更新2024财新周刊第6期
-  
+
   - 群友分享局外人的视界付费文《二月必看》
-  
+
   - <details>
     <summary>更新《240206懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJItPv40Lo1tiajD98EYYvewPBqkY8JxNBUDsUkDlWOPt4PxjW2eY8oAvlRJFzRB5AQiaWg56oNibaLQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240130懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJItPv40Lo1tiajD98EYYvew3UXQNPpmGicBjMmIckZgCxfggUnNsSYVPewSZ8Xz1LYBQPKGqP9PELA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240205：
 
   - 卢克文星球《浦东机场禁止网约车，背后问题到底在哪？》
-  
+
 - 240204：
 
   - 240204卢克文星球《安倍派遭遇存亡危机，日本派系政治发生重大变化》
@@ -49,141 +81,141 @@
   - 240204群分享《“铂金包” 策略：怎样打造稀缺感？》
   - 240204江宁知府付费文《沙利文：中美的未来》
   - 240130司令付费文《抓大放小！（原标题：抄底）》
-  
+
 - 240202：
 
   - 分享《“买买买” 策略：怎样没有罪恶感地花钱？》
   - 分享《为什么春节很想回家，很多人却不愿久留？》
-  
+
 - 240131：
 
   - 更新99元付费课程《张晓燕·风险管理课》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240130：
 
   - 更新财新周刊2024第五期
-  
+
   - <details>
     <summary>更新《240130懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKBDPfDlaWoLIiaoWYTOxSuq6cTml4ro5N0fiayJpUtkXVZkianzibXqu3rUkccwEh5yIicbhOsj0lDVyQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240130懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKBDPfDlaWoLIiaoWYTOxSuqC0zbaBUJUX71y3eLMJxPVEevva29zicyLEPLzgA1MX2cNiapkPwQYP4A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240129：
 
   - 分享记忆承载付费文《用来窥伺命运的七颗龙珠》
   - 分享240129司令付费文《房价会涨还是会跌？！》
-  
+
 - 240126：
 
   - 更新第69期《懒人专属群周报》
   - 分享付费文《德桑蒂斯退选，川普优势扩大？》
   - 分享付费文《经济形势不好也是有红利的》
   - 分享付费文《成本无限高，越是好事越难做》
-  
+
   - <details>
     <summary>大航海系列已更新完成，39篇群友自取，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNIJZ6eYIMVcZyACBeu25n6zSvvn7TibMbJVia64XoPDB8ic6hBpjkrktyjaFBbNht9z4jFoUpmNZrwEw/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240125：
 
   - 继续更新航海实战系列：《抖音图文电商》《视频号涨粉》《ChatGPT+海外工具》《抖音精准引流（ SEO）》《AI 绘画+自媒体》《播客制作》《商业访谈》《时间管理》
-  
+
 - 240124:
 
   - 继续更新航海实战系列：《线下流量服务商》《剪辑特训》《Web3 入门》《小红书境外游》《视频号带货》
-  
+
 - 240123：
 
   - <details>
     <summary>更新《240123懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK5etvJyzzqRYMWsbTOUJhHVs6UKOtYR4f14kuiapH6IQKic5ncO8t6sn82mKZvYlQEJb4MhafA4RLg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240123懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK5etvJyzzqRYMWsbTOUJhHmWiaLouyKt0qam9fAUhkuveDOyLgOfxW9uk2O3n9GlG6xtqGjV4zXlQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 更新财新周刊2024第4期
   - 更新三份大航海实战：《思维导图特训》《视频号分成计划》《视频号 IP 带货》
-  
+
 - 240122:
 
   - 群友分享电子书《财富的真相》
   - 群友分享司令付费文《底层为何喜欢相互为难》《套路》
   - 更新大航海实战：《选品特训》《风向标挖掘》《RPA 提效》
-  
+
 - 240119：
 
   - 更新第68期《懒人专属群周报》
-  
+
 - 240118：
 
   - 更新大航海实战：《IP朋友圈运营》《抖音直播（教育）》《数字游民》《社群发起人》《公众号爆文写作》《闲鱼二手书》《小红书旅游》
-  
+
 - 240117：
 
   - 大航海实战新增课程，已有十份课程：
     - 《数字游民》《社群发起人》《资料整理》《出海第一站》《AI绘画特训》《小红书运营》《小红书店铺》《Chatgpt+自媒体》
-  
+
 - 240116：
 
   - 整理大航海实战的资源
-  
+
   - <details>
     <summary>更新《240116懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJ79Y5bMdpwG6KgaZGWLIXvibgUgfickDicN1JttemqX21vnbh7spF4sbucA82fB4olfP2Sra4ic2kZsw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240116懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJ79Y5bMdpwG6KgaZGWLIXvricCzrfZj8nYQ637rklFX6DjWPWLb6PfkYepFrrlr8qmWAyWZv8ias4g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240115：
 
   - 分享司令付费文《发钱促进消费？》
-  
+
 - 240113：
 
   - 周末休息
-  
+
 - 240112：
 
   - 更新第67期《懒人专属群周报》
   - 分享得到199付费课程《年度得到·何帆中国经济报告（2023-2024）》
-  
+
 - 240110：
 
   - 《笔记的方法_刘少楠》
-  
+
 - 240109：
 
   - <details>
     <summary>更新《240109懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLapz21NW59uc2OTPxrnxRZIuGII2gowxctzTvx2QtOnb0H6Zu2gS78hWQ167UyEOITPl76dJUgtQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240109懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLapz21NW59uc2OTPxrnxRZr9NF4d6Q5eZ7pSgffRtD5r2iaV2cBJMUuovXADraDpTU2ow0ibVj2A6w/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240108：
 
   - 240108咩咩说付费文《2024注定不会对你温柔以待》
   - 240108司令付费文《X47：香港是关键！》
-  
+
 - 240106：
 
   - 周末小懒也休息
-  
+
 - 240105:
 
   - 更新《财新周刊》2024第一期。2023合集已备份和分享
@@ -192,33 +224,33 @@
   - 240105卢克文嘉宾《新公司法生效，开公司变难了吗？》
   - 240103江宁知府付费文《将登太行雪满山，2024》
   - 240101大浪淘沙付费文《文化革命的意义》
-  
+
 - 240104:
 
   - 制作了懒人知识库，可以直接搜索下面的这些付费文下载啦，[具体看这篇文章](https://mp.weixin.qq.com/s/Cztd12Z_nq-66rXHVtGhKQ)
   - 240103NEO付费文《战略方向》
   - 240104灏泽神棍付费文《一文惊醒梦中人，这才是当下社会 能让你发达的真相！》
-  
+
 - 240103：
 
   - 巨人的口袋《100思维2.0》
-  
+
   - 万物皆模型2024跨年礼
-  
+
   - 2023年12月猫哥的世界星球精选
-  
+
   - 230101局外人的视界《一月必看》
-  
+
   - <details>
     <summary>更新《240103懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKdUJObYfW9H7AFaF0hTTsLqKT9HIa1KLwjibOoxLXHFIeSVwwma0AvAWHRm4zp8Aspibtdj8qQnDNQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240103懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKdUJObYfW9H7AFaF0hTTsLvMiaR00sqzicjxqFaVU0PW3ibtByJHCQ5AL4kepKLLUYDbX7zQzp548icg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240102：
 
   - 更新129元付费课程《刘澜·学习力30讲》，已加入《[通才计划课程](/data/13_course)》
@@ -230,57 +262,57 @@
   - 240102卢克文嘉宾文《小米汽车发布，雷军会成功吗？》
   - 231229猫哥付费文《2024年股市展望》
   - 240102群分享《什么是“薅羊毛”的最高境界？》
-  
+
 - 231230：
 
   - 小懒元旦也放个假~
-  
+
 - 231229：
 
   - <details>
     <summary>更新《懒人专属群周报》（第65期），点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJE0X3veibZktjxuCLiawcZqpsl5fmg6iaNib3f8QG4w7fC3iao0ia16KJ06U4ZdWFebSdl8pofRAgk10ibw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 231229猫哥付费文《未来很长一段时间，我们都要做好心理建设的准备》
-  
+
   - 231229卢克文嘉宾《支持仅退款，淘宝要学拼多多？》
-  
+
   - 231229卢克文嘉宾《“订婚强奸案”制造了更严重的对立么？》
-  
+
   - 231229混沌天涯客付费文《吴签厄运源头》
-  
+
   - 231229极限之外付费文《影子死，窗口闭》
-  
+
   - 231228混沌天涯客付费文《你干爹，我愿意》
-  
+
   - 231229猫哥付费文《2024房市展望》
-  
+
   - 231229卢克文嘉宾《蔚来，能不能搏出一个未来？》
-  
+
 - 231228：
 
   - 231227政事堂付费文《24年的机会只在上海和深圳》
-  
+
 - 231227：
 
   - 231227记忆承载付费文《跨年演讲：若能提前看到未来，你会写给自己什么？》
   - 更新129元付费课程《年度得到·香帅中国财富报告（2023-2024）》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 231226：
 
   - 更新第50期《财新周刊》
-  
+
   - <details>
     <summary>更新《231226懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJXNXR6p5f6mjmxKARktsM7oEv4eTWbia8hgruoF0u22VOkCpDIYBS7BxLfVueqIzcqz1x4faso7Mw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《231226懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJXNXR6p5f6mjmxKARktsM7l4GR7ddcu2wgvX5rMhKmNGciaKEXTVxfg9cQ4YtMjGZmZLoYkUI98uQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 231225：
 
   - 231225司令付费文《航运断了，贸易怎么办？！》
@@ -295,15 +327,15 @@
   - 231224卢克文星球嘉宾《游戏行业大地震，大A表示伤不起？》
   - 231225江宁知府付费文《台海，2024》
   - 231225江宁知府付费文《不可逆转的历史进程》
-  
+
 - 231223：
 
   - 周末小懒也休息
-  
+
 - 231222:
 
   - 更新第64期懒人专属群周报
-  
+
 - 231221：
 
   - 群友分享231221大英良心汉弗莱付费文《我们的2024年（经济工作会议是咋回事）》
@@ -312,29 +344,29 @@
   - 231221政事堂付费文《解读中央经济工作会议（四）》
   - 231221卢克文嘉宾文《轻微醉驾不入刑，到底意味着什么？》
   - 分享文章《刘强东的 “小作文”，大概是什么水平？
-  
+
 - 231220：
 
   - 更细财新周刊
-  
+
 - 231219：
 
   - <details>
     <summary>更新《231219懒人赚钱风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNI4hEMnicUocpiaBhA4GlMt5OgjvkjCice6gRlKlibM55fCT3ibcutocxDwBJ8J64X1uozJjuI3xyxthUg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《231219懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNI4hEMnicUocpiaBhA4GlMt5ObjNLP1wzlCFZlfbTfnXuAWWmwEWHqJI6afNdI5zZJNUu6CW3T3Prjg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 231219群分享《未来很长一段时间，金融行业都要做好过苦日子的准备》
-  
+
   - 231219鉴茶院付费文《董宇辉小作文，别高估人性，别低估社会》
-  
+
   - 231219卢克文星球嘉宾《科目三海外爆火，文化输出的破局者？》
-  
+
 - 231218：
 
   - 群友分享 混沌天涯客 付费文《真大。。局》
@@ -343,94 +375,94 @@
   - 231217政事堂付费文《解读中央经济工作会议（三）》
   - 231213政事堂付费文《解读中央经济工作会议（二）》
   - 231212政事堂付费文《解读中央经济工作会议（一）》
-  
+
 - 231216：
 
   - 周末小懒也要休息呀~
-  
+
 - 231215：
 
   - 分享付费文《什么才是真正的百年未有之大变局？》
-  
+
   - 231213江宁知府付费文《中国的转折点》
-  
+
   - 231215九边分享《命运到底存在吗？》
-  
+
   - 231215卢克文嘉宾《访问越南后，中越两国有什么收获？》
-  
+
   - 231215卢克文嘉宾《仁爱礁上的钉子户，这回怕是要完》
-  
+
   - <details>
     <summary>更新《懒人专属群周报》（第63期），点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJcftUsytatWZVpycJbr3T8PgM424m3uVhGsD0icb2UtT7SOZjrEZL41nklEwK5PQQaJaL7C2sYQ8A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 231214:
 
   - 更新14份职场讨论文档
-  
+
 - 231213：
 
   - 群友分享付费文《年底必看：持股待涨！》
   - 群友分享付费文《中国经济运行的底层逻辑》
   - 群友分享政事堂付费文《解读中央经济工作会议（一）》
   - 群友分享嘉宾文《美军F16黄海坠机，是被击落的吗？》
-  
+
 - 231212：
 
   - <details>
     <summary>更新《231212懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKsTSFicwd6eM0H2nB2VmKUEHaLURJJRRAR6nC2A3QIu1nOib62AlibIlnFu5X4wreWtWkA8icvDGRf2w/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《231212懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKsTSFicwd6eM0H2nB2VmKUEOSZP8yxXk2P44STcOdabB6DaRvFGc8m7UpAQf0MUTwX0nwxaSGaNcA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 231211：
 
   - <details>
     <summary>更新《记忆承载》（西风）全部付费文合集，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLjmIfXyjSAG1UFyT4fGXzpUqFNAcNw7BDcSbKRibSQkB2SfzDobibp7PdQWiaribibib3SS0wuzIGknp9Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 付费文《啥叫“以进促稳、先立后破”？》
   - 付费文《先立后破！解读12月政治局会议》
   - 付费文《江西彩票事件，背后藏着什么猫腻？》
   - 付费文《台湾的军事准备》
   - 付费文《万达电影遭甩卖，王健林到底有多缺钱？》
-  
+
 - 231209-231210:
 
   - 周末小懒也休息一下啦，顺便去种牙了~
-  
+
 - 231208：
 
   - <details>
     <summary>更新《懒人专属群周报》（第62期），点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIF3e7gUoiambibjibrh5C8ptkYyOtev4ySbePqBURlHQldQhGG3BbNqJTvvnGiaGibYgeYcibvicKksGh6Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 231207：
 
   - 卢克文星球嘉宾《朝鲜半岛局势再紧张，又一个火药桶要爆？》
   - 司令星球被删文《说了要等待，都别指望！》
   - 付费文《日股的过去预示着一段时间的未来》
   - 更新19元付费课程《郝博士的皮肤管理课》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 231205：
 
   - <details>
     <summary>更新《231205懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKYKCaBlhaMtAaTGk3Cl6R1cjBJowV7udN4rnnLk3NwvZSfpcLC7Q5FIBok0TL1gYHwSEiatBuSekA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《231205懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKYKCaBlhaMtAaTGk3Cl6R1TPSVlsMMhUVSg5v0ZIkTeHK2nQQ92F5Ls0WOt1IOEia76gLicUqgrWqQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 付费文《降薪裁员，穿越周期，现在是各凭本事的时候了》+
   - 付费文《普通人致富切入赛道的关键点》
   - 付费文《2038年的中国（深度，模型，方法论）》（下）
@@ -438,43 +470,43 @@
   - 付费文《缅北冲突升级的背后》
   - 三眼证道精选集上下册
   - 更新 《财新周刊》第47期
-  
+
 - 231204：
 
   - 231130大树乡谈付费文《未来的重大改革：剑指金融，重塑分配》
   - 231203咩咩说付费文《为何牛儿不喝水》
   - 231129尹香武208元付费文《房价下跌收尾的简易判断标志》
-  
+
 - 231201:
 
   - <details>
     <summary>更新《懒人专属群周报》（第61期），点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLUYaiaN9eQ9UqEQr87epzzy0KCZOVnGBiaLUryDzHe0HCibQ5jjl6nWVamzB2s4oibibHsDibGxLp5QBtA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 231130：
 
   - 西风付费文《潘金莲职场历险记》
-  
+
 - 231129：
 
   - 群友分享卢克文嘉宾《淘宝取消双十二，消费下滑的又一信号？》
   - 群友分享政事堂付费文《解读11月政治局会议》
   - 群友分享司令星球文《现阶段别乱动》
   - 更新第46期《财新周刊》
-  
+
 - 231128:
 
   - <details>
     <summary>更新《231128懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKoWPqW9w57oiaWeomTzuiaQqaQF19jNQCZ2l3avN9SXMKLRX0PGEpKPPgaPCVVB9rUeibPE0AXViavXg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《231128懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKoWPqW9w57oiaWeomTzuiaQqL3gAkeYOYW3v0kGwTVC3wjSB0NwhMibic0ECEJSbWSLrAfBjSo8LKiaHQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 231127：
 
   - 更新第45期《财新周刊》
@@ -482,13 +514,13 @@
   - 群友分享付费文《内债不是债，只是需要有人负重前行》
   - 吴晓波998元付费课-稳健资产配置实战课
   - 更新129元付费课程《赵昱鲲·积极心理学30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 231124：
 
   - 更新第60期《懒人专属群周报》
   - 群友分享付费文《一个烟草大佬背后的家族生意》
   - 司令付费文《房价会有小阳春？！》
-  
+
 - 231122：
 
   - 付费文《人工智能到底突破了什么？》
@@ -496,7 +528,7 @@
   - 石勇谈心理付费文：中国社会食物链分析
   - 猫哥付费文：《中美元首会晤的背后与保险的未来》
   - 江宁知府：高育良风陵夜话
-  
+
 - 231121：
 
   - 更新懒人专属群《懒人赚钱周报》和《懒人风向标》
@@ -505,31 +537,31 @@
   - 231121守夜人司令付费文《真正的力量在你看不见的地方！》
   - 231121猫哥付费文《教育的未来》
   - 231119江宁知府付费文《风云变幻的11月》
-  
+
 - 231120:
 
   - 群友分享231119咩咩说《2024年投资展望：势》
   - 深度文《今后中国的房价还会上涨吗？》
   - 231115拆姐付费文《金融伏虎录2：围猎路径》
   - 231105拆姐付费文《金融伏虎录：监守自盗》
-  
+
 - 231117：
 
   - 更新第59期《懒人专属群周报》
-  
+
 - 231116：
 
   - 猫哥付费文《上海陆家嘴公司向苏钢索赔100亿事件，背后的真相是什么？》
-  
+
   - 江宁知府付费文《中美缓和的前景》
-  
+
   - 西风付费文《见底了么？》
-  
+
 - 231115：
 
   - 群友分享231115大英良心汉弗莱付费文《帝国的喘息》
   - 更新第44期财新周刊
-  
+
 - 231114：
 
   - 更新《231114懒人赚钱周报》《懒人风向标》
@@ -537,7 +569,7 @@
   - 群友分享Caoz星球问答《创业项目亏损，应该着力增长还是回血。》
   - 群友分享星球文《医院“倒卖出生证及婴儿”，他们凭什么肆无忌惮？》
   - 群友分享付费文《茅台的豪赌》
-  
+
 - 231113：
 
   - 群友分享付费文《《乡土中国》：中国特色社会的人情操作系统》
@@ -546,15 +578,15 @@
   - 群友分享付费文《所谓“另辟蹊径”到底难不难》
   - 群友分享付费文《苏州“毒地块”，有毒的是地还是人心？》
   - 群友分享付费文《万科，“干大事而惜身”了》
-  
+
 - 231111-231112：
 
   - 周末小懒外出，休息一下啦~
-  
+
 - 231110：
 
   - 更新懒人专属群周报（第58期）
-  
+
 - 231109：
 
   - 群友分享司令付费文《秋风落叶大将坛》
@@ -562,83 +594,83 @@
   - 群友分享231108猫哥星球文《以色列与哈马斯当前的战场态势》
   - 群友分享231107挨踢牛魔王《破解民宿发展的人才瓶颈》
   - 分享一本小懒在看的闲书：豆瓣9分的《太白金星有点烦》，作者马伯庸
-  
+
 - 231108：
 
   - 群友分享231107司令付费文《外卖只能送到45岁！》
   - 整理￥99课程《梁宁·增长思维30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 231107：
 
   - 群友分享野心范付费文《改变命运的2种低门槛连接》
   - 专属群更新第43期《财新周刊》
   - 群友分享231105司令付费文《放弃结婚，拿着彩礼去旅行！》
-  
+
   - <details>
     <summary>更新《231107懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJOH8J9fbu344DibRxleCm4icZYZzuic3SSCJ8R0HC5VBXgZicoo2dibcCQCXibDyRuhgvUMsz0y91ibavhQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《231107懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJOH8J9fbu344DibRxleCm4icPvFAibeQGwlKdfRZLprwVxTYhhJRU165wf7s4ctUcouuyyjX0uJ7U9A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 231105:
 
   - 231103政事堂付费文《中央经济工作会议的大变革（中）》
-  
+
   - 群友分享231105咩咩说付费文《金融从业者的新时代》
-  
+
   - 231105猫哥付费文《宏观数据与个人机遇》
-  
+
   - 231105群友分享《靠工资哪能赚几个钱啊。都是混进了小圈圈里，才开始见到钱的》
-  
+
   - 231103卢克文星球《房改2.0到来，还没买房的人赌赢了？》
-  
+
 - 231103：
 
   - 更新《懒人专属群周报》（第57期）
-  
+
   - 231031司令付费文《如果你是哈马斯指挥官如何布防》
-  
+
   - 231103付费文《那些新闻不会给你讲的东西》
-  
+
   - 231103局外人视界付费文《十一月必看：高峰会谈有机会》
-  
+
 - 231102：
 
   - 23110中政事堂付费文《央经济工作会议的大变革（上）》
-  
+
   - 231025万叔付费文《既然每天只有24小时，怎么做才能赚到更多的钱？》
-  
+
   - 231101卢克文星球《新一轮缅北冲突，对中国影响几何？》
-  
+
 - 231101：
 
   - 231028红尘之眼付费文《新房改，180度大转弯》
   - 欧大365元课程：上海楼市分析
   - 230820付费文《为什么轻易不要加盟店》
   - 230819付费文《小生意的做法，希望对想创业的有用》
-  
+
 - 231031：
 
   - 懒人更新第42期《财新周刊》
   - 更新231031懒人赚钱周报，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=1&sn=89fbf688fe3c85274497baa3bf59e00c&chksm=c0ed7d32f79af4241c025c0dc8a920ad75f265475cab15b80d01e6205a5d45164fdc4ec1958b&token=1034397398&lang=zh_CN#rd)
   - 更新231031赚钱风向标，[点击查看目录](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247485074&idx=2&sn=3b5d7a58324dc49da0c7bc47eed155cb&chksm=c0ed7d32f79af424644d163d181680f4168d8fe0c7aba038f9811e48789dbad254e245fe0863&token=1034397398&lang=zh_CN#rd)
-  
+
 - 231030:
 
   - 整理￥99课程《薄世宁·医学通识50讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
   - 群友分享付费文《中美面临关键抉择？金融战与巴以冲突都走到了十字路口》
-  
+
   - 群友分享付费文《新增一万亿国债，“大放水”又要来了？》
-  
+
 - 231029：
 
   - 群友分享付费文《我知道你们这几天最想让我聊什么，我也知道什么不能聊》
-  
+
 - 231027:
 
   - 更新第56期《懒人专属群周报》
@@ -659,11 +691,11 @@
   - 更新第41期《财新周刊》
 
 - 231024：
-  
+
   - 群友分享付费文《A股愉快的刺穿了3000点，而且还往下踩了两脚》
   - 群友分享大树乡长付费文《上面没人，什么姿势都是错的》
   - 群友分享付费文《怎样通过择偶改变自己的命运？》
-  
+
 - 231023:
   - 群友分享付费文《三个季度后，经济稳住了么？（深度解析）》
   - 231022咩咩说付费文《两个世界》
