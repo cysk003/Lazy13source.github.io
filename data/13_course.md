@@ -27,6 +27,7 @@
 
 - 标题有😊为已整理！
 - [健康系列专题点击](#健康系列)
+- [大国历史系列专题](#大国历史系列专题)
 
 ***
 
@@ -719,6 +720,19 @@
         </details>
 
 - #### 《怎样获得高质量睡眠》
+
+***
+
+## 大国历史系列专题
+
+- #### 徐弃郁·美国简史30讲
+
+  - 标签：`#历史`，`#美国`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLTsAXatTicz1h5LBR62Lj4o1HKR5OkMQcVKmPsvozeNib3u5G4BJqNdTtH4SQ8xQr96DtEFxgbUy7w/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
 
 
 ***
