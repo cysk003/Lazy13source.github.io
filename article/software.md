@@ -9,6 +9,113 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-02-26 更新
+
+ - [腾讯软件管理_v2024.2.21.exe](https://www.lanzoui.com/iPl4C1p6lugf)
+
+ - [腾讯软件管理电脑管家提取免安装绿色版 v2024.2.zip](https://www.lanzoui.com/iQrSW1p6lseb)
+
+ - [Telegram_v10.8.1_b44049_arm@miya.apk](https://www.lanzoul.com/i9i8c1pehbti)
+
+ - [Spotify_v8_9_10_616_build_110366936_Mod_Lite_arm64_v8a_Mod_Lite@balatan.apk](https://www.lanzoul.com/ixka51pehayh)
+
+ - [Speedtest v5.3.3 arm7+arm64 _ed by youarefinished.apk.apk](https://www.lanzoul.com/ib5Bn1pehadg)
+
+ - [SD.Maid.SE-0.20.0-PRO_red@ST.apk](https://www.lanzoul.com/iXk7L1peh8hi)
+
+ - [SD.Maid.SE-0.20.0-PRO@ST.apk](https://www.lanzoul.com/iVPwu1peh8cd)
+
+ - [SD Maid_v5.6.3专业版_Pradzee.apk](https://www.lanzoul.com/iUMqT1peh8ab)
+
+ - [NowAI_v3.9.5.1_(3951)_Mod@辰夕.apk](https://www.lanzoul.com/iyueG1peh7uf)
+
+ - [NekoX-v10.8.1-broken-mini-arm64-v8a-releaseNoGcm.apk](https://www.lanzoul.com/iVq3N1peh7di)
+
+ - [Nekogram-10.8.1-4404-arm64-v8a.apk](https://www.lanzoul.com/iIEI41peh6kj)
+
+ - [Nagram-v10.6.4(1160)-arm64-v8a-fix.apk](https://www.lanzoul.com/iK48i1peh5cf)
+
+ - [Nagram-v10.6.4(1160)-arm64-v8aNoGcm-fix.apk](https://www.lanzoul.com/iwHYo1peh52f)
+
+ - [Nagram-v10.6.4(1160)-arm64-v8aNoGcm.apk](https://www.lanzoul.com/iRz4J1peh4qd)
+
+ - [Nagram-v10.6.4(1160)-arm64-v8a.apk](https://www.lanzoul.com/iQfFU1peh4he)
+
+ - [MyRadio v1.1.81.0217 modded by Mixroot.apk](https://www.lanzoul.com/inIx01peh3lc)
+
+ - [MyInsta_v22.0_Clone.apk](https://www.lanzoul.com/iVwps1peh2bg)
+
+ - [MyInsta_v22.0.apk](https://www.lanzoul.com/iaHj01peh1fe)
+
+ - [MicroG_RE_5.0@WST.apk](https://www.lanzoul.com/iJDRc1pegyof)
+
+ - [ES_File_Explorer_Premium_v4_4_2_2_1_build_15036_Mod_Lite_arm64_v8a@balatan.apk](https://www.lanzoul.com/iZVS31pegxxi)
+
+ - [CapCut剪映国际版 11.1.0_11100500解锁专业版_Mixroot-下载地址.txt](https://www.lanzoul.com/iXDOB1pegwgf)
+
+ - [CapCut剪映国际版 11.1.0_11100400解锁专业版_Mixroot-下载地址.txt](https://www.lanzoul.com/i0Wfd1pegwfe)
+
+ - [CapCut剪映国际版 11.1.0_11100300解锁专业版_Mixroot-下载地址.txt](https://www.lanzoul.com/inEaj1pegwed)
+
+ - [CapCut剪映国际版 11.1.0_11100100解锁专业版_Mixroot-下载地址.txt](https://www.lanzoul.com/iKkIB1pegwdc)
+
+ - [CapCut剪映国际版 11.1.0_11100600解锁专业版_Mixroot-下载地址.txt](https://www.lanzoul.com/iptHR1pegwcb)
+
+ - [B612咔叽 13.0.5会员版_LWELY-下载地址.txt](https://www.lanzoul.com/idapR1pegcti)
+
+ - [alixby-3.24.22338-win-x64@odomu.exe](https://www.lanzoul.com/iCvE91pegbqj)
+
+ - [AI智能助手_1.7.8@[SN-467690ce].apk](https://www.lanzoul.com/iyGn81pegaxa)
+
+ - [Advanced _ Manager v14.0.29 _ed by youarefinished.apk](https://www.lanzoul.com/indsF1pegali)
+
+ - [AdGuard_v4.4.79-Nightly-高级版_Balatan.apk](https://www.lanzoul.com/icVEb1peg9ij)
+
+ - [AdGuard-Premium-4.4.72-v8a-Nightly@balatan.apk](https://www.lanzoul.com/iZF9u1peg90b)
+
+ - [AdGuard_v4.4.81-Nightly-高级版_Balatan.apk](https://www.lanzoul.com/ijKPC1peg8lg)
+
+ - [AdGuard Ad Blocker v4.4.81 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/ic5Tn1peg87c)
+
+ - [AdGuard Ad Blocker v4.4.79 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i6HuS1peg80f)
+
+ - [AdGuard Ad Blocker v4.4.75 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iMrEW1peg7qf)
+
+ - [2345看图王_11.3.0.10155_mefcl_x64_Setup.exe](https://www.lanzoul.com/iYsoJ1peg70j)
+
+ - [360加速球 小贝安装版 测网速 温度检测 游戏模式xiaobei.rar](https://www.lanzoul.com/iSyGm1peg6sb)
+
+ - [搜狗拼音输入法-星空不寂寞_sougoupinyin_14.2a.exe](https://www.lanzoul.com/ieq0t1pcj8hi)
+
+ - [今日头条_9.7.0_Mod_NoUpdate@辰夕.apk](https://www.lanzoul.com/ioMYS1pcj3ij)
+
+ - [WPS_Office_v18.7.3_(1495)_Mod_dccPro@辰夕-下载地址.txt](https://www.lanzoul.com/i8WUs1pciwuj)
+
+ - [Via_5.3.0_Mod_共存版@辰夕.apk](https://www.lanzoul.com/i3lM01pcia3a)
+
+ - [Via_5.3.0_Mod_中国版@辰夕.apk](https://www.lanzoul.com/i9nSG1pci9ne)
+
+ - [pic360Setup_v1.0.0.1080@mefcl.exe](https://www.lanzoul.com/iY3FH1pci4qh)
+
+ - [MyRadio_1.1.81.0217(10296)-Mod@帝落.apk](https://www.lanzoul.com/isLtC1pci10d)
+
+ - [cbox_6.0.0.2@刘金.exe](https://www.lanzoul.com/i9P1S1pchwcf)
+
+ - [CapCut_v11.1.0_(11100100)_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/iEt1T1pchr8b)
+
+ - [alixby-3.24.22336-win-x64@odomu.exe](https://www.lanzoul.com/iigAE1pcgu3i)
+
+ - [AdGuard_4.4.79(10163591)-Mod@帝落.apk](https://www.lanzoul.com/i8mCX1pcgmqd)
+
+ - [影视-v2.2.8-fongmi-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iGXMz1pcbogf)
+
+ - [影视-v2.2.8-fongmi-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iIgpp1pcbmah)
+
+ - [影视-v2.2.8-fongmi-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/itazy1pcbjkj)
+
+ - [影视-v2.2.8-fongmi-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/i0DNI1pcbgab)
+
+
 ## 2024-02-23 更新
 
 
