@@ -9,6 +9,115 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-02-27 更新
+
+ - [百度输入法华为版_8.2.39.3009.apk](https://www.lanzoui.com/iqhdB1pfy0ja)
+
+ - [硬盘哨兵Hard Disk Sentinel Pro V6.10.0.0 单文件版.exe](https://www.lanzoui.com/i4NBp1pfxnib)
+
+ - [向日葵企业版SunloginEnterprise v3.2.1.44986不强制登录最终版3.2.1.44986_x64.exe](https://www.lanzoui.com/iWCFB1pfxfte)
+
+ - [Nagram-v10.8.1(1161)-arm64-v8a.apk](https://www.lanzoul.com/itxAr1peq9cd)
+
+ - [Nagram-v10.8.1(1161)-arm64-v8aNoGcm.apk](https://www.lanzoul.com/i6DwA1peq8rc)
+
+ - [知乎_8.59.0-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/itFgC1pen1vg)
+
+ - [支付宝_10.2.33.8850-小米14Ultra内置@百分之千分享-下载地址.txt](https://www.lanzoul.com/iscXN1pen15a)
+
+ - [酷视频_11.0.29.202307-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/iQ9Bo1pen01a)
+
+ - [携程旅行_8.57.2-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/iyJe91pemywj)
+
+ - [小红书_7.68.0.2-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/i065i1pemxsj)
+
+ - [喜马拉雅_9.0.69.9-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/i2R6N1pemxbc)
+
+ - [唯品会_8.7.79.13.1-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/inHg01pemvwb)
+
+ - [微信(谷歌版)-8.0.42(2427)-v8a,v7a-正式版-下载地址.txt](https://www.lanzoul.com/iJLSy1pemv2b)
+
+ - [微博_13.2.0-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/ioMjs1pemuha)
+
+ - [万题库 5.6.2.0会员版_LWELY.apk](https://www.lanzoul.com/iEHFr1pem3of)
+
+ - [今日头条搜索极速版_9.4.8.9-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/iTeJP1pem2vg)
+
+ - [腾讯软件管家软件管理更新文件_v2024.2.23.zip](https://www.lanzoul.com/i0Ul81pem1mb)
+
+ - [腾讯软件管家_15.6.23123.201_2024.2.21_Green@52pojie 孤单魂随风荡.7z](https://www.lanzoul.com/iINYF1pem1la)
+
+ - [去哪儿旅行_10.2.0-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/iregb1pem18h)
+
+ - [七猫免费小说_7.42.20@rikkati.apk](https://www.lanzoul.com/iKKD71pelyof)
+
+ - [七猫免费小说 7.42.20会员版_坤坤-先安装这个.apk](https://www.lanzoul.com/igzx91pely1c)
+
+ - [七猫免费小说 7.42.20会员版_坤坤-如闪退安装这个.apk](https://www.lanzoul.com/idlqs1pelx1g)
+
+ - [拼多多_6.6.1-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/iANE31pelsvg)
+
+ - [墨迹天气 9.0854.02会员版_LWELY.apk](https://www.lanzoul.com/imtEb1pels7c)
+
+ - [免费小说_5.5.3.99-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/id5BR1pelq6j)
+
+ - [美团_12.10.204-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/igXGS1pelppc)
+
+ - [联想加速球.rar](https://www.lanzoul.com/ihdUJ1pelpda)
+
+ - [懒人驾考 2.12.1会员版@_1i!yD-下载地址.txt](https://www.lanzoul.com/iJyyp1pelp1i)
+
+ - [酷我音乐 10.6.6.0会员版_阿尼亚·福杰-下载地址.txt](https://www.lanzoul.com/iChOK1pelkgd)
+
+ - [酷我音乐v10.7.4.1@[SN-20171f68]-下载地址.txt](https://www.lanzoul.com/i73zn1pelkfc)
+
+ - [快手_10.8.30.6592-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/iY2VQ1pelgra)
+
+ - [剧白白 v3.1.5 纯净版@王宝强.apk](https://www.lanzoul.com/igS1o1pelfxa)
+
+ - [今日头条_9.3.3-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/illDy1pelfeb)
+
+ - [驾考宝典 8.3.8去广告版@[MT]-下载地址.txt](https://www.lanzoul.com/iTiTJ1pelegh)
+
+ - [驾考宝典 8.49.0会员版@[SN-4dffdc9c]-下载地址.txt](https://www.lanzoul.com/iRvCU1pelefg)
+
+ - [高德地图_12.10.61.3021-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/inEc41pel9wd)
+
+ - [饿了么红包助手 Ver.3.3.7 去广告版@zhou45.apk](https://www.lanzoul.com/idCve1pel81g)
+
+ - [抖音-28.8.0-lsp-fplus1.2.8_@tkjiku-下载地址.txt](https://www.lanzoul.com/iwlhZ1pel2ba)
+
+ - [抖音-28.8.0-lsp-fplus1.2.7_@tkjiku-下载地址.txt](https://www.lanzoul.com/iWSAt1pel2aj)
+
+ - [抖音_23.7.2-小米14Ultra内置@百分之千分享-下载地址.txt](https://www.lanzoul.com/iGliU1pel29i)
+
+ - [大众点评_11.9.20-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/iGeWz1pekgbi)
+
+ - [哔哩哔哩_6.56.0-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/ifqKr1pekg2j)
+
+ - [笔趣阁（橙色）_2.0.0@[SN-467690ce].apk](https://www.lanzoul.com/iV9xO1pekegb)
+
+ - [百度_13.25.0.10-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/i1LV91pekbyb)
+
+ - [WPS Office_v18.7.3_1495谷歌高级版_辰夕-下载地址.txt](https://www.lanzoul.com/iPJBE1pekata)
+
+ - [WPS Office_v18.7.3_1495谷歌高级版_derrin-下载地址.txt](https://www.lanzoul.com/imEs11pekasj)
+
+ - [WPS_Office-Premium-v18.7.3_build_1495-Mod_iHackedit.com@balatan-下载地址.txt](https://www.lanzoul.com/iPqvx1pekari)
+
+ - [WPS Office_13.37.0-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/igW081pej4aj)
+
+ - [TikTok_v33.4.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/ipILk1pej0wh)
+
+ - [Tik-Tok_v33.4.3解锁限制-多语言-含配套插件-下载地址.txt](https://www.lanzoul.com/izV2b1pej0vg)
+
+ - [UC浏览器_13.4.8.1128-小米14Ultra内置@百分之千分享.apk](https://www.lanzoul.com/iD1qL1peiyoh)
+
+ - [TVBox_takagen99_20240225-1328.apk](https://www.lanzoul.com/iDwfh1peiy3g)
+
+ - [TVBox_takagen99_20240222-0918.apk](https://www.lanzoul.com/iCuSc1peixxa)
+
+
 ## 2024-02-26 更新
 
  - [腾讯软件管理_v2024.2.21.exe](https://www.lanzoui.com/iPl4C1p6lugf)
