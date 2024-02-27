@@ -19,9 +19,21 @@
 
 - 240227:
 
-  - 得到老喻2024年2月新书《好运》,pdf+epub
+  - 得到老喻2024年2月新书《好运》pdf+epub
+  
   - 240226卢克文星球文《宗庆后去世，一个真正企业家的离开》
+  
   - 240226群分享《2024 养育成本报告出炉：怎样培养松弛的孩子？》
+  
+  - <details>
+    <summary>更新《240227懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIm3vLJvfO3SLXcQ9M6VMn6LDX8bAR4XpK5tqzoA5QBcH9AvVPwGkvHGDgxiaBfydP4GSpPn7VGnuw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240227懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIm3vLJvfO3SLXcQ9M6VMn6viatGrYOqBPLLHicr58dspm09XLHKXXNmrwYmhlQLDzl77jwcxJ2YKPw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
   
 - 240226：
 
