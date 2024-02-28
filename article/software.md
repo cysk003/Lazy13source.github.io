@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-02-28 更新
+
+ - [高德悬浮版V7.1.0.600067_沉默悬浮投屏版_大插件优化.apk](https://www.lanzoui.com/i6RD81pjocjg)
+
+
 ## 2024-02-27 更新
 
  - [百度输入法华为版_8.2.39.3009.apk](https://www.lanzoui.com/iqhdB1pfy0ja)
