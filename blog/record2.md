@@ -19,8 +19,24 @@
 
 - 240229：
 
-  - 240228卢克文星球《埃及会不会变下一个老赖？》
+  - 分享付费文《埃及会不会变下一个老赖？》
+  
   - 分享《王川宝典》电子书epub+pdf
+  
+  - 分享付费文《宗庆后的两个细节》
+  
+  - 分享付费文《新骗术和新趋势》
+  
+  - 分享付费文《不做 “电子仓鼠”：怎样应对数字囤积？》
+  
+  - 分享付费文《东南亚主播扎堆，南宁怎样做跨境电商？》
+  
+  - 分享付费文《孩子教育的一个特别重要也特别容易忽略的问题》
+  
+  - <details>
+    <summary>更新《记忆承载》公众号付费文合集，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKqROzYPMicM9ibWYOPbMJy3pklXL2gB1Rzuicd0kqLnRuyq9TrmzaSRlrDR9myfCvZdyoUrkpU7v83Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
   
 - 240228：
 
