@@ -725,6 +725,15 @@
 
 ## 大国历史系列专题
 
+- #### 徐弃郁·俄罗斯简史30讲
+
+  - 标签：`#历史`，`#俄罗斯`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLZDthicoMxCjp5Nz2EwrdezYibrZsbQMgvZ6xn0tlG8BXlibvXqRF7zAIBNKMHectsOutQuZicAndwibg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+  
 - #### 徐弃郁·美国简史30讲
 
   - 标签：`#历史`，`#美国`
