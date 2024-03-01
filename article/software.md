@@ -9,6 +9,31 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-02-29 更新
+
+## 2024-03-01 更新
+
+ - [数据清理工具AndroidDiskClear-1.0.1.apk](https://www.lanzoui.com/ieDIy1pr7r0d)
+
+ - [数据清理工具WindowsDiskClear1.0.2.zip](https://www.lanzoui.com/iNi5j1pr7mve)
+
+ - [数据清理工具1.0.2.zip](https://www.lanzoui.com/itcMO1pr7ltg)
+
+ - [实时打字翻译工具-Typing-translationV1.0实时打字翻译软件.zip](https://www.lanzoui.com/iazc11pr7dla)
+
+ - [发票闪印2.3.24.7z](https://www.lanzoui.com/iSKVM1pn4r6h)
+
+ - [发票闪印2.3.24.7z](https://www.lanzoui.com/imCEw1pn4nxa)
+
+ - [辰龙网车抢单辅助.zip](https://www.lanzoui.com/ikFUk1pn4lch)
+
+ - [影视仓_5.0.24-.apk](https://www.lanzoul.com/igUma1prneef)
+
+ - [影视仓_2.0.20.4_游戏版.apk](https://www.lanzoul.com/ielUh1prmryh)
+
+ - [影视仓_2.0.20.4_短视频.apk](https://www.lanzoul.com/iz6iO1prmqyb)
+
+
 ## 2024-02-28 更新
 
  - [高德悬浮版V7.1.0.600067_沉默悬浮投屏版_大插件优化.apk](https://www.lanzoui.com/i6RD81pjocjg)
