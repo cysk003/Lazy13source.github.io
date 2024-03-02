@@ -15,8 +15,7 @@
 -  [13.通才计划](data/13_course.md)
 -  [14.软件更新](/article/software)
 -  [15.考证考级资源](/data/15_resoures.md)
--  [16.懒人上传分享](/data/16_upload.md)
--  [17.懒人生财专栏](/article/money_col)
+-  [16.公众号导读](/gzh/gzh_list.md)
 
 
 
