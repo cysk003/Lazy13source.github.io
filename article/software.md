@@ -9,6 +9,139 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-04 更新
+
+ - [粤语学习器 v2.1.rar](https://www.lanzoui.com/iltyb1q5ux4f)
+
+ - [WinRAR 7.00 简体中文汉化版.zip](https://www.lanzoui.com/iExBy1q0wuje)
+
+ - [路遥工具箱 v4.7.2024.109.zip](https://www.lanzoui.com/i6fdC1q0wsjc)
+
+ - [佳能打印机万能清零工具 图解.zip](https://www.lanzoui.com/iW6y51q0wnqj)
+
+ - [喜马拉雅极速版v3.2.60.3@MT小程(240228).apk](https://www.lanzoul.com/iXjGd1q0dyaf)
+
+ - [微信(谷歌版)-8.0.42(2428)-v8a,v7a-正式版-下载地址.txt](https://www.lanzoul.com/ibTNL1q0dq5c)
+
+ - [微博 14.2.0-内置猪手2.2.7-260模块-下载地址.txt](https://www.lanzoul.com/iFOnd1q0dmqj)
+
+ - [微博 14.2.1-内置猪手2.2.7-260模块-下载地址.txt](https://www.lanzoul.com/i0zzE1q0dmpi)
+
+ - [腾讯视频-v11.89.7217.0-去广告绿版@zd423.exe](https://www.lanzoul.com/ifTXE1q0d26j)
+
+ - [腾讯视频_8.10.35.28155@rikkati-下载地址.txt](https://www.lanzoul.com/i9Sj71q0cxjc)
+
+ - [腾讯视频_8.10.35.28155-v2@rikkati-下载地址.txt](https://www.lanzoul.com/ioS6u1q0cxha)
+
+ - [识货_7.78.0@rikkati.apk](https://www.lanzoul.com/is0jV1q0cq8j)
+
+ - [识货_7.15.1@AWAvenue-Sagittarius.apk](https://www.lanzoul.com/iXtOp1q0coze)
+
+ - [七猫免费小说 7.43会员版_帝落.apk](https://www.lanzoul.com/ieNCX1q0cjmb)
+
+ - [七猫免费小说 7.43会员版_坤坤-先安装这个.apk](https://www.lanzoul.com/iojY21q0cizi)
+
+ - [七猫免费小说 7.43会员版_坤坤-如闪退安装这个.apk](https://www.lanzoul.com/iAkNS1q0ci7a)
+
+ - [美图秀秀 10.3.0.0会员版-偶尔闪退_辰夕-下载地址.txt](https://www.lanzoul.com/iJOPi1q0ce3c)
+
+ - [雷电模拟器9(64)-v9.0.67-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/i3ySy1q0cc2j)
+
+ - [雷电模拟器5(64)-v5.0.77-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/ic0H31q0cc0h)
+
+ - [懒人驾考 2.12.1 会员@1i!yD-下载地址.txt](https://www.lanzoul.com/iQjtR1q0cbkb)
+
+ - [酷我音乐_v10.7.4.1_Modv1@辰夕-下载地址.txt](https://www.lanzoul.com/iDKIq1q0b93g)
+
+ - [酷我音乐_10.7.6.1高级v2版@[SN-20171f68]-下载地址.txt](https://www.lanzoul.com/iQ0Je1q0b92f)
+
+ - [酷我音乐_10.7.6.1_Mod_v2@辰夕-下载地址.txt](https://www.lanzoul.com/i4Zdg1q0b90d)
+
+ - [酷我音乐_10.7.6.1_Mod@辰夕-下载地址.txt](https://www.lanzoul.com/iqlWx1q0b8zc)
+
+ - [酷我音乐 10.7.4.1会员版v2_辰夕-下载地址.txt](https://www.lanzoul.com/iw3kG1q0b8wj)
+
+ - [酷我音乐v10.6.6.1修改版@MT小程-下载地址.txt](https://www.lanzoul.com/iLgUv1q0b8uh)
+
+ - [今日水印相机_v3.0.98.2@rikkati.apk](https://www.lanzoul.com/ijA1s1q0abhg)
+
+ - [高德地图_v12.03.3.2006@liuzhe-下载地址.txt](https://www.lanzoul.com/icpua1q0a7ch)
+
+ - [抖音-28.9.0-lsp-fplus1.2.8_@tkjiku-下载地址.txt](https://www.lanzoul.com/ibfyI1q09tub)
+
+ - [抖音-16.4.15-Google-Play-下载地址.txt](https://www.lanzoul.com/iA3lj1q09tta)
+
+ - [车来了 4.48.0去广告版@[MT]-下载地址.txt](https://www.lanzoul.com/ihZXZ1q09a9g)
+
+ - [菜鸟 8.7.150去广告精简版_Rikkait.apk](https://www.lanzoul.com/ixoJQ1q08w0d)
+
+ - [爱奇艺(64)-v12.1.5.7769-去广告绿色版@zd423.exe](https://www.lanzoul.com/iT5wj1q08q3a)
+
+ - [_v19.05.36_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/ihWW01q08lcj)
+
+ - [_v19.07.40_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/i4X831q08k6h)
+
+ - [X-plore-Donate-v4.36.01_build_43601-Mod@Balatan.apk](https://www.lanzoul.com/iDkz11q08i6f)
+
+ - [X-plore-Donate-v4.36.02_build_43602-Mod@Balatan.apk](https://www.lanzoul.com/iJrTs1q08hle)
+
+ - [Xmind_24.01.14274@rikkati.apk](https://www.lanzoul.com/iabEn1q08gyb)
+
+ - [Xmind 24.01.14274 _ed by youarefinished.apk](https://www.lanzoul.com/iv3531q08ffg)
+
+ - [WPS_Office_Lite_v18.7.4_Pro_arm64-v8a_iHackedit.com@derrin-下载地址.txt](https://www.lanzoul.com/iIjaY1q08bqd)
+
+ - [Tik-Tok_v33.6.3解锁限制-多语言-含插件-下载地址.txt](https://www.lanzoul.com/iBk8W1q07tfe)
+
+ - [TikTok_v33.6.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/igNQc1q07tdc)
+
+ - [TikTokAsia_v33.6.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/iK1Dv1q07t9i)
+
+ - [VSCO-X-v362_build_100024283-Mod@Balatan.apk](https://www.lanzoul.com/iq4A41q07kni)
+
+ - [VSCO_345@rikkati.apk](https://www.lanzoul.com/iYxWB1q07gfg)
+
+ - [TVBox_takagen99_20240226-1111.apk](https://www.lanzoul.com/iODrh1q06kfe)
+
+ - [TVBox_takagen99_20240227-1740.apk](https://www.lanzoul.com/iDA201q06ijg)
+
+ - [SD Maid SE v0.21.0-beta0 _ed by youarefinished.apk](https://www.lanzoul.com/ilKWx1q05laj)
+
+ - [SD_Maid_SE-Pro-v0.21.0-beta0_build_2100000-Viva-Magenta-Mod@Balatan.apk](https://www.lanzoul.com/idooQ1q05ktc)
+
+ - [SD_Maid_SE-Pro-v0.21.0-beta0_build_2100000-Mod@Balatan.apk](https://www.lanzoul.com/iNXbl1q05k9c)
+
+ - [QP Gallery 9.4.1beta@WST.apk](https://www.lanzoul.com/izuw41q05cej)
+
+ - [MyRadio v1.1.82.0227 modded by Mixroot.apk](https://www.lanzoul.com/iCMUH1q059sf)
+
+ - [MXPlayer-Pro-1.78.6-v8a-Balatan.apk](https://www.lanzoul.com/iY5Qd1q056la)
+
+ - [idm_6.42.3_repack_setup_v4.exe](https://www.lanzoul.com/iEj9w1q04wti)
+
+ - [影视_fongmi电视-0223.apk](https://www.lanzoul.com/i9zh81ptuqsf)
+
+ - [影视 v2.1.1 自动适配手机、电视机.apk](https://www.lanzoul.com/iq4Kh1ptupta)
+
+ - [影视TV2.2.8内置三本地包版.apk](https://www.lanzoul.com/iq2rp1ptunji)
+
+ - [lx-music-desktop-v2.6.0-win7_x64-green.7z](https://www.lanzoul.com/iSLuA1ptudaj)
+
+ - [洛雪音乐助手自定义音源 v1.1.0 下载后请先解压.zip](https://www.lanzoul.com/idHa21ptu3fe)
+
+ - [lx-music-mobile-v1.2.0-arm64-v8a.apk](https://www.lanzoul.com/i6xg71ptu38h)
+
+ - [lx-music-mobile-v1.2.0-armeabi-v7a.apk](https://www.lanzoul.com/iKdjj1ptu1tg)
+
+ - [lx-music-mobile-v1.2.0-sl-arm64-v8a.apk](https://www.lanzoul.com/i0j6I1ptu0wd)
+
+ - [lx-music-mobile-v1.2.0-universal.apk](https://www.lanzoul.com/ikhcr1pttzaf)
+
+ - [lx-music-mobile-v1.2.0-x86.apk](https://www.lanzoul.com/iMr4a1pttwsf)
+
+ - [lx-music-mobile-v1.2.0-x86_64.apk](https://www.lanzoul.com/ihslU1pttvef)
+
+
 ## 2024-02-29 更新
 
 ## 2024-03-01 更新
