@@ -9,6 +9,142 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-12 更新
+
+ - [海豚之音.apk](https://www.lanzoui.com/i7pz71r1phxa)
+
+ - [咪咕爱唱_9.9.012 高级版.apk](https://www.lanzoui.com/iVTo31r1pcob)
+
+
+## 2024-03-11 更新
+
+ - [抖音TV9.9.9提取版.apk](https://www.lanzoui.com/iPgNd1qpxh0d)
+
+
+## 2024-03-08 更新
+
+
+## 2024-03-07 更新
+
+ - [柚子影视 Ver.5.0.0 去广告修复版@zhou45.apk](https://www.lanzoul.com/iGd8Y1qi0dze)
+
+ - [柚子影视 Ver.5.0.0 去广告版.apk](https://www.lanzoul.com/iQKpu1qi0cpi)
+
+ - [有道云笔记 7.4.350会员版_坤坤-下载地址.txt](https://www.lanzoul.com/izi9i1qi09hc)
+
+ - [讯飞输入法 12.1.12解锁版_LWELY.apk](https://www.lanzoul.com/iBAqK1qi069g)
+
+ - [小米万能遥控_v95.9.9G去更新版（NP基于5.9.9G去更新，原版不会单击变双击、貌似play版）.apk](https://www.lanzoul.com/iZxJl1qi03nc)
+
+ - [小米万能遥控_v5.9.9G（不会单击变双击、貌似play版）.apk](https://www.lanzoul.com/iUiME1qi02sb)
+
+ - [微商助手 9.2.0会员版_LWELY.apk](https://www.lanzoul.com/iY0dU1qi01bi)
+
+ - [微博猪手 2.2.8-(263-20240303)xp模块.apk](https://www.lanzoul.com/ikYGg1qhzzbg)
+
+ - [微博猪手 2.2.8-(262-20240302)xp模块.apk](https://www.lanzoul.com/iYCIB1qhzzaf)
+
+ - [微博 14.2.1-内置猪手2.2.8-262模块-下载地址.txt](https://www.lanzoul.com/iojMj1qhzz9e)
+
+ - [微博 14.2.1-内置猪手2.2.8-263模块-下载地址.txt](https://www.lanzoul.com/isSIs1qhzz6b)
+
+ - [搜狗输入法 11.21去广告解锁版_LWELY.apk](https://www.lanzoul.com/iQtQj1qhzqne)
+
+ - [驾校一点通v15.0.1@[SN-265a14d7]-下载地址.txt](https://www.lanzoul.com/i8iCC1qhzf1g)
+
+ - [驾考精灵 1.7.6.8会员版_坤坤-下载地址.txt](https://www.lanzoul.com/iGYd71qhzf0f)
+
+ - [[LSPatch]Bilibili-7.69.0-b14242349-漫游fb2d8db697-下载地址.txt](https://www.lanzoul.com/imkWi1qhyzmb)
+
+ - [抖音-29.0.0-lsp-fplus1.2.8_@tkjiku-下载地址.txt](https://www.lanzoul.com/iNtEx1qhyedg)
+
+ - [电视家TV_9.1.0@LWELY.apk](https://www.lanzoul.com/ib55j1qhxtmj)
+
+ - [车来了 4.36.0去广告版@ygkj.apk](https://www.lanzoul.com/iXMJC1qhxrje)
+
+ - [笔趣阁红色版 Ver.5.2.0 小说漫画 去广告版@zhou45.apk](https://www.lanzoul.com/i2q801qhxmqb)
+
+ - [百度输入法 12.0.3.1解锁版_LWELY.apk](https://www.lanzoul.com/i24EB1qhxjgd)
+
+ - [TikTok_v33.7.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/iPJZz1qhxgba)
+
+ - [TikTokAsia_v33.7.3.v8a_@tkjiku_CN-下载地址.txt](https://www.lanzoul.com/iicpA1qhxg8h)
+
+ - [_v19.08.36_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/ikyML1qhxf4h)
+
+ - [_v19.07.40_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/iurxS1qhxdja)
+
+ - [_v19.08.36_arm64-v8a@tkjiku-v3.apk](https://www.lanzoul.com/iBv6V1qhxbsh)
+
+ - [_v19.08.36_arm64-v8a@tkjiku-v2.apk](https://www.lanzoul.com/iGGXI1qhxaeh)
+
+ - [_v19.05.36_arm64-v8a@tkjiku.apk](https://www.lanzoul.com/i7lZj1qhx32d)
+
+ - [_v19.05.36_arm64-v8a@tkjiku-v3.apk](https://www.lanzoul.com/iTav51qhx13c)
+
+ - [_v19.05.36_arm64-v8a@tkjiku-v2.apk](https://www.lanzoul.com/ilKAv1qhwz8f)
+
+ - [VancedMicroG-v0.3.0.234914.apk](https://www.lanzoul.com/it0wI1qhwofg)
+
+ - [-ReVanced-Advanced v19.06.36 arm64@youarefinished.apk](https://www.lanzoul.com/iO61I1qhwode)
+
+ - [X-plore v4.36.02 _ed by youarefinished.apk](https://www.lanzoul.com/itbcG1qhw2yd)
+
+ - [X-plore-Donate-v4.35.15_build_43515-Mod@balatan.apk](https://www.lanzoul.com/iouhg1qhw29i)
+
+ - [X-plore v4.36.02 Black _ed by youarefinished.apk](https://www.lanzoul.com/iDbtN1qhw1pi)
+
+ - [VSCO-X-v362.1_build_100024338-Mod@balatan.apk](https://www.lanzoul.com/iaIU01qhvwdg)
+
+ - [Telegram_v10.8.3_b44079_arm@miya.apk](https://www.lanzoul.com/inONW1qhvf9a)
+
+ - [Spotify v8.9.18@xC3FFF0E.apk](https://www.lanzoul.com/iinpf1qhvc2f)
+
+ - [Spotify-v8.9.18.512_build_111414784-_-arm64-v8a_iHackedit.com@balatan.apk](https://www.lanzoul.com/iH5eq1qhvbeb)
+
+ - [RAR_Premium_v7.00_MustHave@balatan.apk](https://www.lanzoul.com/iv6Ra1qhv7ha)
+
+ - [QP Gallery 9.4.2beta@WST.apk](https://www.lanzoul.com/i9W9E1qhv59a)
+
+ - [NekoX-v10.8.1-broken-mini-arm64-v8a-releaseNoGcm-0302.apk](https://www.lanzoul.com/iu4ch1qhv3aj)
+
+ - [MyRadio v1.1.83.0229 modded by Mixroot.apk](https://www.lanzoul.com/idfYu1qhuzni)
+
+ - [idm_6.42.3_repack_setup_v5.exe](https://www.lanzoul.com/i0DNZ1qhuxha)
+
+ - [CapCut剪映国际版 11.2.0_11200300解锁专业版_Mixroot-下载地址.txt](https://www.lanzoul.com/i1Dlo1qhuwfc)
+
+ - [CapCut剪映国际版 11.2.0_11200200解锁专业版_Mixroot-下载地址.txt](https://www.lanzoul.com/iIBl51qhuweb)
+
+ - [CapCut_v11.2.0_b11200200_Pro_arm@miya-下载地址.txt](https://www.lanzoul.com/itMdE1qhuwda)
+
+ - [CamScanner v6.60.0.2403040000 Offline _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iupt51qhu7jg)
+
+ - [CamScanner v6.60.0.2403040000 Clean _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iu8Z41qhu7if)
+
+ - [CamScanner v6.60.0.2403040000 ad support _ed by youarefinished-下载地址.txt](https://www.lanzoul.com/iEmUl1qhu7he)
+
+ - [CamScanner扫描全能王 6.60.0.2403040000解锁版_derrin-下载地址.txt](https://www.lanzoul.com/iN1i21qhu7fc)
+
+
+## 2024-03-06 更新
+
+
+## 2024-03-05 更新
+
+ - [腾讯视频-v11.73.3576-去广告绿版.exe](https://www.lanzoui.com/ipLdK1qb1ani)
+
+ - [酷视频-v8.1.0.1280-去广告绿版.exe](https://www.lanzoui.com/iNeEK1qb15uf)
+
+ - [爱奇艺(64)-v10.6.5.7073-去广告绿色版.exe](https://www.lanzoui.com/iaqyQ1qb0wef)
+
+ - [经典全能影音播放器 MPC-HC 2.1.6.zip](https://www.lanzoui.com/iEJqt1qb0cpg)
+
+ - [美杜莎_1.1.5.zip](https://www.lanzoui.com/iuRYD1qaxcdg)
+
+ - [电视浏览器v1.5.apk](https://www.lanzoul.com/ikr4Q1q97kze)
+
+
 ## 2024-03-04 更新
 
  - [粤语学习器 v2.1.rar](https://www.lanzoui.com/iltyb1q5ux4f)

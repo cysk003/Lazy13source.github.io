@@ -13,9 +13,12 @@
     扫码添加懒人咨询
 </P>
 <p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
-
-
 ***
+
+- 240312：
+  - 
+- 240305-240311：
+  - 小懒家里有急事，赶回去了，回来就行更新~
 
 - 240304：
 
@@ -28,7 +31,7 @@
   - 240304群分享《新能源 “冬季大考” 落幕，哪些机会正在显现？》
   - 240304局外人的视界付费文《三月必看：春季行情下半场》
   - 240304大树乡长付费文《未来怎么走：重塑中国经济的底层逻辑》
-  
+
 - 240301：
 
   - 240301群分享《国产替代：为什么要建立工业的 “神话叙事”？》
@@ -36,28 +39,28 @@
   - 240301卢克文星球《苹果放弃造车，是什么原因？》
   - 更新第73期《懒人专属群周报》
   - 更新99元付费课程《徐弃郁·俄罗斯简史30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240229：
 
   - 分享付费文《埃及会不会变下一个老赖？》
-  
+
   - 分享《王川宝典》电子书epub+pdf
-  
+
   - 分享付费文《宗庆后的两个细节》
-  
+
   - 分享付费文《新骗术和新趋势》
-  
+
   - 分享付费文《不做 “电子仓鼠”：怎样应对数字囤积？》
-  
+
   - 分享付费文《东南亚主播扎堆，南宁怎样做跨境电商？》
-  
+
   - 分享付费文《孩子教育的一个特别重要也特别容易忽略的问题》
-  
+
   - <details>
     <summary>更新《记忆承载》公众号付费文合集，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKqROzYPMicM9ibWYOPbMJy3pklXL2gB1Rzuicd0kqLnRuyq9TrmzaSRlrDR9myfCvZdyoUrkpU7v83Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240228：
 
   - 分享记忆承载付费文《时代要被颠覆了么？》
@@ -65,47 +68,47 @@
   - 分享付费文《宗庆后：42 岁以后，人生怎样重新开始？》
   - 分享付费文《东南亚主播扎堆，南宁怎样做跨境电商？》
   - 分享付费文《不做 “电子仓鼠”：怎样应对数字囤积？》
-  
+
 - 240227:
 
   - 得到老喻2024年2月新书《好运》pdf+epub
-  
+
   - 240226卢克文星球文《宗庆后去世，一个真正企业家的离开》
-  
+
   - 240226群分享《2024 养育成本报告出炉：怎样培养松弛的孩子？》
-  
+
   - <details>
     <summary>更新《240227懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIm3vLJvfO3SLXcQ9M6VMn6LDX8bAR4XpK5tqzoA5QBcH9AvVPwGkvHGDgxiaBfydP4GSpPn7VGnuw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240227懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIm3vLJvfO3SLXcQ9M6VMn6viatGrYOqBPLLHicr58dspm09XLHKXXNmrwYmhlQLDzl77jwcxJ2YKPw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240226：
 
   - 240224九边文章《隐形的小地方豪门》
   - 240224卢克文星球文《关于Sora，你应该知道的一些事实》
   - 《财新周刊2024合集》（已更新到第八期）
   - 240224猫哥付费文《台湾，台湾爆发战争的可能性有多大》
-  
+
 - 240223：
 
   - 更新第72期《懒人专属群周报》
   - 240223卢克文星球文《LPR 大力度降息，是不是大放水的信号？》
   - 更新99元付费课程《徐弃郁·美国简史30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240222：
 
   - 240222江宁知府付费文《中国的上签》
-  
+
 - 240221：
 
   - 240221群付费文《2024：对决之年》
   - 240221卢克文星球文《比亚迪掀桌子，新一轮汽车价格战打响？》
-  
+
 - 240220：
 
   - <details>
