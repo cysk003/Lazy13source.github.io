@@ -17,6 +17,26 @@
 
 - 240312：
   
+  - <details>
+    <summary>更新《240306懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJHzpjtUz9Lu7qibKF2js5SkodpMEGmQ6ZqfCclhp7a0m6sFJFzwoF9Ad5iaYFEgQ2OceFVR1tbJ3Vg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240312懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJHzpjtUz9Lu7qibKF2js5SkFUEJtdHknHcDVibSIorsgJm6kkoFFv6fBUThOFIZqDB5EzKwM6XNAhg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240312懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJHzpjtUz9Lu7qibKF2js5SkbyhXEL7Vyolk5iaf8pr5iaB0uEFLFSz661Jic4NjC1qwjIpNojueqib2PA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240306懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJHzpjtUz9Lu7qibKF2js5Sk5GgbfTiaSfLtQXNicCpl7v9XA982gg1mMOv6DPxOF8GovApTbpA1VpoQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
   - 240311卢克文星球《拼死一搏的Tiktok，能否逃过一劫？》
   - 240309卢克文星球《进出口数据超预期，重点在哪里？》
   - 240309卢克文星球《瑞典加入北约，下一个是谁？》
