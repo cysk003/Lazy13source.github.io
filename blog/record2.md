@@ -15,6 +15,16 @@
 <p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
 ***
 
+- 240313：
+
+  - 240312卢克文星球《黄金价格暴涨，背后的逻辑是什么？》
+  - 240313群分享《怎样对抗生活中的 “日常麻烦”？》
+  - 240313群分享《如何通过黄仁勋、奥特曼和马斯克的面试？》
+  - 240313群分享《刘润-对谈周奇墨：聊聊脱口秀，以及脱口秀背后的商业模式（文字版）》
+  - 240306政事堂付费文《丞相与宰相的区别》
+  - 240313群分享《鸟山明：怎样享受人生中的每一次 “被动”？》
+  - 240313群分享《什么样的职业，没有 35 岁危机？》
+
 - 240312：
   
   - <details>
@@ -45,6 +55,7 @@
   - 240305卢克文星球《德国密谋袭击克里米亚大桥，北约要下场了？》
   - 240304卢克文星球《继手机后，美国要围堵中国汽车了？》
   - 240310记忆承载付费文《2024经济大戏的序幕，已经拉开》
+  
 - 240305-240311：
   - [小懒家里有急事，赶回去了](https://mp.weixin.qq.com/s/sngYiQSMB3MgrU2DpzrMqg)，回来就行更新~
 
