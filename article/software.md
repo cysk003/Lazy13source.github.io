@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-14 更新
+
+ - [PDF24 v9.7.0 x64 便携版.7z](https://www.lanzoui.com/iveew1raqbpg)
+
+
 ## 2024-03-13 更新
 
  - [家庭电视_2.2.3 (1).apk](https://www.lanzoui.com/iU5Iq1r5zykd)

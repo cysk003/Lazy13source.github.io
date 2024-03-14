@@ -15,6 +15,16 @@
 <p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
 ***
 
+- 240314：
+
+  - 《万维钢精英日课》精美pdf电子书，1-5季全集
+  - 240314卢克文星球《韩国医生罢工潮怎么越闹越大？
+  - 鹤老师说经济：揭开财富自由的底层逻辑pdf
+  - 240314付费文《混乱的时代,不亏就是赢》
+  - 240314懒人群分享《反溯法：怎样发掘自己的内在天赋？》
+  - 240314顾子明付费文《对未来十年的一些思考》
+  - pdf电子书：《秒懂AI提问：让人工智能成为你的效率神器》
+
 - 240313：
 
   - 240312卢克文星球《黄金价格暴涨，背后的逻辑是什么？》
