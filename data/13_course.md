@@ -725,6 +725,15 @@
 
 ## 大国历史系列专题
 
+- #### 徐弃郁·大国简史英国篇
+
+  - 标签：`#历史`，`#英国`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKQzdyqOFht7PVrIo9yhAJcPOxnYkxPXEIhB5UadFoDgz1rib9XF4lJO8eyU4UXdvJibdLrWMkpXpdw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+  
 - #### 徐弃郁·俄罗斯简史30讲
 
   - 标签：`#历史`，`#俄罗斯`

@@ -13,7 +13,17 @@
     扫码添加懒人咨询
 </P>
 <p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
+
+
 ***
+
+- 240315：
+
+  - 240315群分享《哈佛世纪研究：何为幸福生活？》
+  - 240315卢克文星球《波音频频出事，背后原因何在？》
+  - 240315卢克文星球《星舰“部分成功”，能给我们带来什么？》
+  - 更新第74期《懒人专属群周报》
+  - 更新99元付费课程《徐弃郁·大国简史英国篇》，已加入《[通才计划课程](/data/13_course)》
 
 - 240314：
 
@@ -36,27 +46,27 @@
   - 240313群分享《什么样的职业，没有 35 岁危机？》
 
 - 240312：
-  
+
   - <details>
     <summary>更新《240306懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJHzpjtUz9Lu7qibKF2js5SkodpMEGmQ6ZqfCclhp7a0m6sFJFzwoF9Ad5iaYFEgQ2OceFVR1tbJ3Vg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240312懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJHzpjtUz9Lu7qibKF2js5SkFUEJtdHknHcDVibSIorsgJm6kkoFFv6fBUThOFIZqDB5EzKwM6XNAhg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240312懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJHzpjtUz9Lu7qibKF2js5SkbyhXEL7Vyolk5iaf8pr5iaB0uEFLFSz661Jic4NjC1qwjIpNojueqib2PA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240306懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJHzpjtUz9Lu7qibKF2js5Sk5GgbfTiaSfLtQXNicCpl7v9XA982gg1mMOv6DPxOF8GovApTbpA1VpoQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 240311卢克文星球《拼死一搏的Tiktok，能否逃过一劫？》
   - 240309卢克文星球《进出口数据超预期，重点在哪里？》
   - 240309卢克文星球《瑞典加入北约，下一个是谁？》
@@ -65,7 +75,7 @@
   - 240305卢克文星球《德国密谋袭击克里米亚大桥，北约要下场了？》
   - 240304卢克文星球《继手机后，美国要围堵中国汽车了？》
   - 240310记忆承载付费文《2024经济大戏的序幕，已经拉开》
-  
+
 - 240305-240311：
   - [小懒家里有急事，赶回去了](https://mp.weixin.qq.com/s/sngYiQSMB3MgrU2DpzrMqg)，回来就行更新~
 
