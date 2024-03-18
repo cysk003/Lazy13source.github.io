@@ -4,12 +4,6 @@
 
 > 一些AI相关的镜像网站和工具，更新提醒见公众号*懒人搜索*
 
-***
-
-<details>
-  <summary>防失联请关注公众号：懒人搜索</summary>
- <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRvQ4lyFfHJRKdCT38dOFpVQaIyoeXpYOxYsboIlPS7sKSPA4ibNAXCteYOP3KW5Pz4RPaxYOBsibfNg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
-</details>
 
 
 ------

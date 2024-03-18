@@ -16,6 +16,7 @@
 -  [14.软件更新](/article/software)
 -  [15.考证考级资源](/data/15_resoures.md)
 -  [16.公众号导读](/gzh/gzh_list.md)
+-  [17.AI资料库](/article/AI.md)
 
 
 
