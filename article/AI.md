@@ -2,7 +2,7 @@
 
 [**返回首页**](/README.md)
 
-> 一些AI相关的镜像网站和工具，更新提醒见公众号*懒人找资源*
+> 一些AI相关的镜像网站和工具，更新提醒见公众号*懒人搜索*
 
 ***
 
@@ -15,461 +15,76 @@
 
 ## 目录
 
-- [Chatgpt镜像](#Chatgpt镜像)
-- [AI聚合工具箱](#AI聚合工具箱)
-- [AI绘画](#AI绘画)
-- [插件和扩展](#插件和扩展)
-- [应用](#应用)
-- [CLI](#CLI)
-- [聊天机器人](#聊天机器人)
-- [开发](#开发)
-  - [开源项目](#开源项目)
-  - [工具](#工具)
-
-------
-
-懒人视频科普：[万字科普ChatGPT-4为什么会颠覆人类社会](https://b23.tv/hkZ7qHy)
-
-（转发）：[‬⁣⁣⁤⁢⁣‬﻿⁤‍⁡⁢⁡‍‌⁣⁢⁢⁢﻿⁢‌⁢‌⁣⁣‍⁡⁣‬‍‌⁤⁡ChatGPT学习手册](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)（含注册教程和各种资讯）
-
-## Chatgpt镜像
-
-- [Chatgpt小程序（免费，无限制）](https://mp.weixin.qq.com/s/wY9wTrQLVE3HE2chKipr-A)
-
-- [国内可用Clade+slack，点击查看教程](https://mp.weixin.qq.com/s/imA8kn2h2JSxbh-xkmp3bw)
-
-- **ChatGPT镜像网站**
-
-  - 👍[chat.theb.ai](https://chat.theb.ai/) （需要开全局代理）
-  
-  - 👍https://freegpt.one/ （需要开全局代理）
-  
-  - https://chatgpt.qdymys.cn/ （gtp3.5 不需要魔法）
-  
-  - https://chat1.binjie.site:7777 （gpt3.5，不需要魔法）
-  
-    > 如果被墙请尝试 [chat2](https://chat2.binjie.site:7777)，[chat3](https://chat3.binjie.site:7777)，[chat4](https://chat4.binjie.site:7777)，[chat11](https://chat11.yqcloud.top)，[chat12](https://chat12.yqcloud.top)
-  
-  - [ChatGPT123.FYI](https://chatgpt123.fyi/) (gtp-3.5需要魔法)
-  
-  - [chatgpteasy](https://chatgpteasy.net/#/)（3.5，需要魔法）
-  
-  - [Slack+cluade教程](https://mp.weixin.qq.com/s?__biz=MzI1NjAxOTI0Ng==&mid=2647899353&idx=1&sn=3775ad024e7168186ea944b3e68b68b9&chksm=f20a0298c57d8b8edb78587d0d0b3e4723a0a4c76daa64a861792c96ea8f75563f83dbbec1eb&token=1696375618&lang=zh_CN#rd)（国内可以用，媲美GPT3.5）
-  
-  - [Chat For AI](https://chatforai.online/) (很快，免费 10 次，清除 Cookie 可重置)
-  
-  - [ChatGPT Bot (xeasy.me)](https://chat.xeasy.me/)
-  
-  - https://chatgpt.ai/ (需要魔法网络)
-  
-    > 上面都是基于gtp-3.5，无法访问就换一个
-  
-  - https://aigcfun.com/ （需要自己的key）
-  
-  - http://www.openmao.com/
-  
-    > 聚合了ChatGPT、Bard、LLaMa、文心一言、MOSS等模型应用
-  
-  - [ChatGPT Proxy](https://chatgptproxy.info/#/)
-  
-    > GTP3.0的接口
-  
-  - [风变科技-ChatGPT👍](https://chat.forchange.cn/)
-  
-    > 免费，速度快。不过没有上面的智能。
-  
-  - [CHAT.GPT.WF](https://chat.gpt.wf/)
-  
-  - [AIchatGPT](https://aichatgpt.me/)
-  
-  - [ASK AI](https://askai.top/)
-  
-  - [朱鸾AI助手](http://wenzhang.zhuluan.com/zh-cn/)
-  
-  - [ChatGPT网页版](http://43.143.197.176/)
-  
-  - [ChatGPT](https://aigcfun.com/)
-  
-  - [Phind: AI search engine](https://phind.com/)
-  
-    > 面向开发者的AI搜索，支持显示来源
-  
-  - [Chatgpt notion课程](https://tested-salto-cab.notion.site/The-Ultimate-Chat-GPT-Course-69ed24a317a942d288e740419b1ad6f6)
-  
-    > 利用Notion收集总结了一份英文版的Chat GPT课程，该指南课程拥有 1000多种资源
-  
-  - https://plaud.ai/transcribe
-  
-    > 用GPT3.5和Whisper实现语音转文本，并一键概括内容。
-  
-  - https://www.chatpdf.com/ （需要全局代理）
-  
-    > 上传PDF文件后，可以对它提问任何关于这份PDF的问题，非常适合快速提取各种paper论文的摘要，也支持中文输出. 速度超快且免费使用，快速回答书籍、论文、手册、合同中的任何内容！
-  
-  - [chilloutai](https://chilloutai.com/)
-  
-    > AI聊天，虚拟一个女朋友陪你聊天AI绘画
-  
-  - [多墨智能](https://duomosmart.com/doc/)
-  
-    > 根据关键词给你画出*文档，流程图，思维导图*
-  
-  - 懒人Chatgpt客户端（4月14号测试挂了）
-  
-  
+- [01.ChatGPT](#01.ChatGPT)
+- [02.ChatGPT替代](# 02.ChatGPT替代)
+- [03.ChatGPT教程](#03.ChatGPT教程)
+- [04.AI绘画](#04.AI绘画)
+- [05.AI绘画关键词](#05.AI绘画关键词)
 
-[🔙返回目录](#目录)
+***
 
-## AI聚合工具箱
+## 01.ChatGPT
 
-- [AI Playground by Vercel Labs](https://play.vercel.ai/)
-  - Vercal家的AI聚合接口，需要魔法网络。
+- [ChatGPT中文版（无需梯子／最新接口／极速体验）👍](https://wws.lanzoul.com/b0czfctyd)
+- [免费体验ChatGPT国内版＋Midjourney绘画【在线使用】👍](https://chat.aiduihua.com/)
+- [ChatGPT4.0+Midjourney国内镜像站【无需魔法】【最新接口】【在线即可体验】👍](https://link3.cc/imyai?channel=4)
+- [免费ChatGPT中文版丨GPT4.0／Dalle-3／MJ绘画【免梯子】【高速率】🚀](https://chat.uyanai.com/?user_sn=31129222)
 
-- https://open-gpt.app/
+##  02.ChatGPT替代
 
-  > 数千个chatgpt应用小工具
+- [智谱－清言（新出的GLM-4接近GPT4）👍](https://www.chatglm.cn/)
+- [讯飞－星火（最新3.5模型接近GPT4）👍](https://xinghuo.xfyun.cn/)
+- [阿里－通义千问](https://qianwen.aliyun.com/)
+- [百度－文心一言（偏文科生）](https://yiyan.baidu.com/)
+- [月之暗面－KIMICHAT（纯文科生）](https://kimi.moonshot.cn/)
+- [昆仑－天工（每次免费4次Copilot联网模式）](https://neice.tiangong.cn/)
+- [腾讯－混元](https://hunyuan.tencent.com/)
+- [抖音－豆包](https://www.doubao.com/chat/)
+- [360－智脑](https://ai.360.com/)
+- [百川智能－Baichuan](https://www.baichuan-ai.com/home)
 
-- [AI帮个忙](https://ai-toolbox.codefuture.top/)
+## 03.ChatGPT教程
 
-  > 各种AI小工具，还不错
+- [Learning Prompt](https://learningprompt.wiki/)
+- [ChatGPT学习宝典](https://gpt.candobear.com/prompt)
+- [ChatGPT Shortcut](https://ai.newzone.top/)
+- [ChatGPT 指令大全](https://www.explainthis.io/zh-hant/chatgpt)
+- [Learn Prompting](https://learnprompting.org/zh-Hans/)
+- [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
 
-- [AiTxt 工具箱](https://aitxt.io/#/)
+## 04.AI绘画
 
-- [AI工具百宝箱](https://www.explainthis.io/zh-hant/ai-toolkit)
+- [炼丹家AI（每日超多免费额度／AI对话／AI绘画／在线体验）👍](https://www.liandanjia.com/inviteCode/irrFlkns)
+- [吐司（每日每账号100次）](https://tusiart.com/images/617693482049549036?post_id=617705074162097747&source_id=nz-xoFHglkWwrPQsYHz28hIj)
+- [意间AI（每日可免费获取65以上积分）](https://wework.qpic.cn/wwpic/3472_Fj_BFbajS5urPgy_1682591701)
+- [MewXAI（签到等可以免费获取次数／𝑴𝑱模型）](https://wework.qpic.cn/wwpic/209356_aEz4ksSmQmuIWK5_1682837868)
+- [6pen Art（每日免费5次／自研模型）](https://6pen.art/)
+- [云景AI绘图](https://yunjing.gallery/)
+- [无界AI（每账号每日30积分）](https://www.wujieai.com/register?inviteCode=NKKQ9I)
+- [🚧稿定AI（每日每账号20次）](https://www.gaoding.com/ai)
 
-> 以上介绍见[公众号推文](https://mp.weixin.qq.com/s/YtNiNSes0T_BK09kKG9mcw)
+## 05.AI绘画关键词
 
-[🔙返回目录](#目录)
+- [🐢Kalos](https://kalos.art/discovery)
+- [🐢Unprompt](https://unprompt.ai/)
+- ————————
+- [Ai画廊 - AI关键词生成器](https://www.aigallery.top/)
+- [NovelAI魔导书](https://thereisnospon.github.io/NovelAiTag/)
 
-------
+## 06.AI绘画模型下载站
 
-## AI绘画
+- [LiblibAI·哩布哩布AI](https://www.liblib.ai/)
+- [吐司](https://tusiart.com/images/617693482049549036?post_id=617705074162097747&source_id=nz-xoFHglkWwrPQsYHz28hIj)
+- [DESAI](https://www.i-desai.com/)
+- [HOTIQ 烧脑社区](https://www.hotiq.cn/category/aimx)
+- [eSheep](https://www.esheep.com/)
+- [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
 
-- 👍[Civitai](https://civitai.com/)
 
-  > AI绘画投稿集
 
-- [文心一格](https://yige.baidu.com/)
 
-- [文心大模型](https://wenxin.baidu.com/ernie-vilg)
 
-- [6pen Art](https://6pen.art/)
 
-- [Draft](https://draft.art/)
-
-- [ELBO Art](https://art.elbo.ai/)
-
-- [Starry AI](https://starryai.com/app/my-creations)
-
-- [Novel AI](https://novelai.net/)
-
-- [NightCafe Creator](https://nightcafe.studio/)
-
-- [TIAMAT大陆](https://tiamat.world/)
-
-[🔙返回目录](#目录)
-
-------
-
-## 插件和扩展
-
-- Chrome 扩展
-
-  - 👍[LunaBo](https://lunabot.ai/)
-
-    - 浏览器扩展，也集成了 ChatGPT 3.5，可以在任何网页上使用 ChatGPT，免费用户也可以无限制使用。
-
-      地址：[Chrome](https://chrome.google.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)、[Edge](https://microsoftedge.microsoft.com/addons/detail/pcilgakddbmfdpbpfbdjfjgaaiahogab)、[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/lunabot-chatgpt-on-webpages/)、[本地下载](https://www.crxsoso.com/webstore/detail/jkeolmadidncndcbnajhaojepbolajag)
-
-  - [Glarity](https://glarity.app/)
-
-    使用 ChatGPT API 生成 Google 搜索结果或 YouTube 视频的摘要，同时支持 Yahoo! JAPAN ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google Patents。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用。
-
-  - [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
-
-    在任何网页中打开侧边栏，询问 ChatGPT 关于页面内容的任何事情，如解释、翻译、概括或重写。你可以自定义 prompts 以便更轻松地使用。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用。
-
-  - [ChatHub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
-
-    ChatHub是一款多合一聊天机器人客户端，目前支持ChatGPT和新的Bing Chat。它允许同时与多个聊天机器人进行交流，方便比较它们的答案。 Source code: [chathub-dev/chathub](https://github.com/chathub-dev/chathub)
-
-  - [OpenAI Translator](https://github.com/yetone/openai-translator)
-
-    使用 OpenAI API 翻译文本的 Chrome 扩展，并具有润色和摘要等其他功能。
-
-- [Obsidian](https://obsidian.md/) 插件
-
-  - [Obsidian Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
-
-    在 Obsidian 中根据你的笔记生成想法、头条、摘要、大纲和整段文字。
-
-- [Logseq](https://logseq.com/) 插件
-
-  - [Logseq Plugin GPT3 OpenAI](https://github.com/briansunter/logseq-plugin-gpt3-openai)
-
-    在 Logseq 中使用 ChatGPT 以及其他 AI 模型的插件。
-
-- [Roam Research](https://roamresearch.com/) Plugins
-
-  - [roam-ai](https://github.com/LayBacc/roam-ai)
-
-    包含三个功能: 根据当前块生成文本；使用DALL-E 2生成图像；重新表述。
-
-- [Popclip](https://pilotmoon.com/popclip/) 扩展
-
-  - [ChatGPT — PopClip Extensions](https://pilotmoon.com/popclip/extensions/page/ChatGPT)
-
-    将所选文本发送到 ChatGPT 并将回复粘贴在后面。
-
-  - [ChatGPT Proofreader extension for Popclip](https://reorx.com/makers-daily/003-chatgpt-proofreader-extension-popclip/)
-
-    通过 ChatGPT API 对选中文本进行校对和润色，并将修改后的文本粘贴在后面。
-
-  - [ChatGPT Grammar Check PopClip Extension](https://github.com/hirakujira/ChatGPT-Grammar-Check-PopClip-Extension)
-
-    和 ChatGPT Proofreader extension 类似的扩展，提供可下载的安装包。
-
-- [Drafts](https://getdrafts.com/) Actions
-
-  - [ChatGPT Conversation | Drafts Directory](https://directory.getdrafts.com/a/2HJ)
-
-    在 Drafts 笔记中与 ChatGPT 进行对话，新的回复将附加在末尾。支持定义和修改 system, assistant, user 角色的消息块。
-
-- [Bob](https://bobtranslate.com/) 插件
-
-  - [OpenAI Translator Bob Plugin](https://github.com/yetone/bob-plugin-openai-translator)
-
-    基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。另有一个专注于润色的衍生版本: [OpenAI Polisher Bob Plugin](https://github.com/yetone/bob-plugin-openai-polisher)。
-
-- 苹果捷径
-
-  - [ChatGPT Siri](https://github.com/Yue-Yang/ChatGPT-Siri)
-
-    通过 Siri 启动「快捷指令」连接 ChatGPT API，让 Siri 变身 AI 聊天助手。你可以直接和 Siri 说出你的问题，Siri 会回答你。
-
-  - [Siri Pro](https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2)
-
-    可随时唤起文字和语音两种输入方式，快速响应，支持多次问答，支持预设调教，跟人工智障说拜拜。 原推: [@DottChen](https://twitter.com/DottChen/status/1631309329684123650)
-
-- [Keyboard Maestro](https://www.keyboardmaestro.com/) 宏
-
-  - [Copy to Ask ChatGPT](https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro)
-
-    使用键盘快捷方式选择并复制文本以向 ChatGPT 提问。[下载链接](https://p15.p3.n0.cdn.getcloudapp.com/items/geuEZvwA/aeed10cb-a35d-404f-a17f-da1d46c9c9c7.kmmacros)。
-
-  - [我的六個專屬 ChatGPT 助手](https://pinchlime.com/newsletters/my-six-chatgpt-assistants/)
-
-- GitHub App
-
-  - [CR.GPT](https://github.com/apps/cr-gpt)
-
-    由 ChatGPT 驱动的代码审查机器人
-
-[🔙返回目录](#目录)
-
-------
-
-## 应用
-
-- [ChatPDF](https://www.chatpdf.com/)
-
-  基于 ChatGPT API 的 PDF 内容分析工具。上传 PDF 文件后，可以对它提问任何关于这份 PDF 的问题，适合快速提取各种 paper 论文的摘要，支持中文输出。
-
-- [typest](https://typeset.io/)
-
-  > 可以帮助我们读论文，无论多么长的论文，输入指令就能快速提取文章的核心内容。
-
-- [ChatBox](https://github.com/Bin-Huang/chatbox)
-
-  ChatBox 是一个 OpenAI API 的跨平台桌面客户端，也是一个 prompt 调试和管理工具。
-
-- [ChatKit](https://chatkit.app/)
-
-  一个轻量的 ChatGPT Web UI，可设定 URL 作为讨论的上下文。
-
-- [Chat with GPT](https://chatwithgpt.netlify.app/)
-
-  一个开源的 ChatGPT Web UI，具有 TTS 等附加功能。源码: [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)
-
-- [OpenCat](https://opencat.app/)
-
-  MacOS 原生的 ChatGPT API 客户端应用。
-
-- [OpenAI Translator](https://translator.lance.moe/)
-
-  基于 ChatGPT API 的翻译应用，支持 PWA。源码: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
-
-- [BiliGPT](https://b.jimmylv.cn/)
-
-  一键总结含字幕的哔哩哔哩视频内容。源码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
-
-- [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
-
-  使你可以与 PDF 文件对话的应用，适合论文阅读和研究等学习需求。源码: [ResearchGPT](https://github.com/mukulpatnaik/researchgpt)
-
-  作者和其他推友关于这个应用实现细节的技术讨论: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529), [@goldengrape](https://twitter.com/goldengrape/status/1632184344881274882)
-
-- [NITM GPT](https://github.com/deskbtm/nitmgpt)
-
-  通过 GPT3 过滤广告通知和垃圾消息的安卓应用。
-
-- [ChatGPT Translator](https://github.com/simpleapples/chatgpt-translator)
-
-  ChatGPT Translator 是一个基于 ChatGPT 和 Electron 的开源、跨平台桌面翻译软件。
-
-- [AI字幕翻译](https://ai.cgsv.top/)
-
-  利用GPT-3.5翻译本地字幕文件或者B站/油管字幕。源码 [AI Subtitle](https://github.com/cgsvv/AISubtitle)
-
-- [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
-
-  Visual ChatGPT是一个Web应用程序，它连接ChatGPT和一系列视觉基础模型，使得在聊天过程中可以发送和接收图像。
-
-- [TypingMind](https://www.typingmind.com/)
-
-  更好的 ChatGPT 界面，具有快速响应、聊天搜索、集成、提示库等增强功能。
-
-[🔙返回目录](#目录)
-
-------
-
-## CLI
-
-- [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
-
-  用于制作双语 epub 电子书的 Python 脚本。原推: [@yihong0618](https://twitter.com/yihong0618/status/1630948132564631552)
-
-  Web UI [streamlit](https://goldengrape-bilingual-book-maker-streamlit-app-x7nhof.streamlit.app/)。原推: [tweet](https://twitter.com/goldengrape/status/1631549869306572800).
-
-- [AI Commits](https://github.com/Nutlope/aicommits)
-
-  一个用 ChatGPT API 生成 Git 提交消息的命令行工具。
-
-- [cz-git](https://github.com/Zhengqbbb/cz-git)
-
-  一个 Commitizen 适配器与命令行工具使用 OpenAI API 生成 Git 约定式提交格式提交消息。 [文档/OpenAI](https://cz-git.qbb.sh/zh/recipes/openai)
-
-- [turbocommit](https://github.com/Sett17/turboCommit)
-
-  CLI，使用阶段性差异和可选信息来创建常规提交。
-
-- [xiaogpt](https://github.com/yihong0618/xiaogpt)
-
-  通过小米音响的小爱同学与 ChatGPT 对话。
-
-- [AI Vocabulary Builder](https://github.com/piglei/ai-vocabulary-builder)
-
-  一个利用了 AI 技术的智能生词本工具，可以帮你快速构建起自己的生词库，学习起来事半功倍。
-
-- [verdverm/chatgpt](https://github.com/verdverm/chatgpt)
-
-  通过命令行与 ChatGPT API 进行交互式会话，支持通过文件输入上下文。
-
-- [ai-cli](https://github.com/yufeikang/ai-cli)
-
-  这个cli工具可以让你方便的在命令行中使用chatGPT。你可以和他聊天支持上下文，也可以让他帮你回答单个问题。也可以帮你翻译文本。并且支持markdown在终端中的渲染。
-
-- [chatgpt-cli](https://github.com/efJerryYang/chatgpt-cli/)
-
-  支持 Markdown 的 ChatGPT CLI 工具，使用 OpenAI 官方 API。提供多个命令实现官方 web 客户端近似的功能以方便使用，会话以 JSON 格式保存到本地。
-
-- [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli)
-
-  一个简单、轻量级的 shell 脚本，可从终端使用 OpenAI 的 ChatGPT 和 DALL-E。
-
-- [i18n-cli](https://github.com/pandodao/i18n-cli)
-
-  在命令行使用 OpenAI API 翻译 JSON 格式的本地化文件。
-
-- [ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation)
-
-  对文本文件进行翻译的 Python 脚本。同时提供双语翻译、多线程和自动处理过高的请求频率。
-
-- [subtitle-translator](https://github.com/gnehs/subtitle-translator)
-
-  使用ChatGPT翻译字幕，使用 NodeJS 开发的基于 ChatGPT 的字幕翻译 CLI 工具。它同时还有一个使用 Electron 开发的桌面版本 [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)
-
-[🔙返回目录](#目录)
-
-------
-
-## 聊天机器人
-
-- Telegram
-  - [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot): 开发语言 **Python**.
-  - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot): 开发语言 **Python**.
-  - [RainEggplant/chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): 开发语言 **JavaScript**.
-  - [leafduo/chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot): 开发语言 **Go**.
-  - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers): 在 Cloudflare Workers 上部署自己的 Telegram ChatGPT 机器人。
-  - [franalgaba/chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): 在 AWS Lambda 上部署自己的 Telegram ChatGPT 机器人。
-- WeChat
-  - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
-  - [ChatGPT for Wechat](https://chatgpt4wechat.aow.me/)
-- Feishu
-  - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)
-  - [Leizhenpeng feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt)
-  - [go-zoox/chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu)
-  - [key7men/openai-feishu-bot](https://github.com/key7men/openai-feishu-bot)
-- DingTalk
-  - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): 开发语言 **Go**.
-- Teams
-  - [formulahendry/chatgpt-teams-bot](https://github.com/formulahendry/chatgpt-teams-bot)
-
-[🔙返回目录](#目录)
-
-------
-
-## 开发
-
-### 开源项目
-
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-
-  OpenAI 官方示例和指南，介绍如何使用 OpenAI API，包括如何嵌入长输入、流式完成、格式化更好的输入等等。
-
-- [DocsGPT](https://github.com/arc53/docsgpt)
-
-  使用 OpenAI API 构建文档的搜索和聊天助手。
-
-- [Paul Graham GPT](https://github.com/mckaywrigley/paul-graham-gpt)
-
-  搜索和提问 Paul Graham 的所有文章。这个项目很好地展示了如何通过 [OpenAI Embeddings](https://platform.openai.com/docs/guides/embeddings) 技术将大规模文本压缩成 ChatGPT API token 限制范围内（4096 个）的 prompt。
-
-  一些与这个项目和突破 token 数量限制相关的推文: [@chuangbo](https://twitter.com/chuangbo/status/1631461656151887873), [@dotey](https://twitter.com/dotey/status/1631779232455053313)
-
-- [Elasticsearch + GPT3 Answerer](https://github.com/hunkim/es-gpt)
-
-  拦截 Elasticsearch 的结果并将其发送到 GPT3，以提供准确和相关的答案来回答您的查询。
-
-- [ChatGPT-API Demo - ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
-
-  ChatGPT web 应用 demo，使用 Astro 和 TypeScript 开发。
-
-- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
-
-  ChatGPT web 应用 demo，使用 Vue3 和 Express 开发。
-
-- [GPT3.5-H5-lite-page](https://jichao99.github.io/GPT3.5-H5-lite-page/)
-
-  一个 GPT3.5 的轻量级网页应用，可直接静态部署无需服务端，只使用了 HTML, CSS, jQuery。 源码: [JiChao99/GPT3.5-H5-lite-page](https://github.com/JiChao99/GPT3.5-H5-lite-page)
-
-### 工具
-
-- [Cursor](https://www.cursor.so/)
-
-  是 GPT-4 驱动的一款强大代码编辑器，可以辅助程序员进行日常的编码。介绍见公众号推文。
-
-- [LlamaIndex 🦙 (GPT Index)](https://github.com/jerryjliu/gpt_index)
-
-  LlamaIndex (原名 GPT Index) 是一个用于处理 LLM 外部数据的工具库。 它提供一系列数据结构帮助开发者为各种 LLM 任务索引数据，解决 prompt 大小限制的问题。
-
-- [Tiktokenizer](https://tiktokenizer.vercel.app/)
-
-  在线的 tiktoken 库使用界面，帮助你计算 prompt 的 token 数量。源码: [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer)
-
-- [OpenAI GPT-3.5 Price Calculator](https://openai.deepakness.com/)
-
-  计算使用 OpenAI GPT-3.5 API 生成特定数量单词的成本。
 
 [🔙返回目录](#目录)
 
