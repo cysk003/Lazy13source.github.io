@@ -9,6 +9,15 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-19 更新
+
+ - [微信防撤回_V9.zip](https://www.lanzoui.com/i7DSc1rtcmbi)
+
+ - [局域网IP扫描&一键更换本机IP小工具.rar](https://www.lanzoui.com/ifLbQ1rtc2gd)
+
+ - [向日葵简版.exe](https://www.lanzoui.com/ikvjZ1rtbpze)
+
+
 ## 2024-03-18 更新
 
 

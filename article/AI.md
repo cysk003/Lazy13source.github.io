@@ -4,8 +4,6 @@
 
 > 一些AI相关的镜像网站和工具，更新提醒见公众号*懒人搜索*
 
-
-
 ------
 
 ## 目录
@@ -31,6 +29,10 @@
 - [免费体验ChatGPT国内版＋Midjourney绘画【在线使用】](https://chat.aiduihua.com/)
 - [免费ChatGPT中文版丨GPT4.0／Dalle-3／MJ绘画【免梯子】【高速率】🚀](https://chat.uyanai.com/?user_sn=31129222)
 
+
+
+[🔙返回目录](#目录)
+
 ##  ChatGPT替代
 
 - [智谱－清言（新出的GLM-4接近GPT4）👍](https://www.chatglm.cn/)
@@ -44,6 +46,10 @@
 - [360－智脑](https://ai.360.com/)
 - [百川智能－Baichuan](https://www.baichuan-ai.com/home)
 
+
+
+[🔙返回目录](#目录)
+
 ## ChatGPT教程
 
 - [Learning Prompt](https://learningprompt.wiki/)
@@ -52,6 +58,10 @@
 - [ChatGPT 指令大全](https://www.explainthis.io/zh-hant/chatgpt)
 - [Learn Prompting](https://learnprompting.org/zh-Hans/)
 - [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
+
+
+
+[🔙返回目录](#目录)
 
 ## AI绘画
 
@@ -64,6 +74,10 @@
 - [无界AI（每账号每日30积分）](https://www.wujieai.com/register?inviteCode=NKKQ9I)
 - [🚧稿定AI（每日每账号20次）](https://www.gaoding.com/ai)
 
+
+
+[🔙返回目录](#目录)
+
 ## AI绘画关键词
 
 - [🐢Kalos](https://kalos.art/discovery)
@@ -71,6 +85,10 @@
 - ————————
 - [Ai画廊 - AI关键词生成器](https://www.aigallery.top/)
 - [NovelAI魔导书](https://thereisnospon.github.io/NovelAiTag/)
+
+
+
+[🔙返回目录](#目录)
 
 ## AI绘画模型下载站
 
@@ -80,6 +98,10 @@
 - [HOTIQ 烧脑社区](https://www.hotiq.cn/category/aimx)
 - [eSheep](https://www.esheep.com/)
 - [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
+
+
+
+
 
 ##  AI绘画教程
 
@@ -94,6 +116,10 @@
 - [Stable Diffusion从零开始入门@生誮果ᐛ](https://www.uisdc.com/stable-diffusion-4)
 - [Stable Diffusion超全教程@鱼摆摆喂](https://www.bilibili.com/video/BV1Qc411L7v1/)
 - [Stable Diffusion系列课程@Nenly同学](https://www.bilibili.com/video/BV1As4y127HW/)
+
+
+
+[🔙返回目录](#目录)
 
 ## 其他AI工具
 
@@ -113,13 +139,7 @@
 
   
 
-***
-
-
-
 [🔙返回目录](#目录)
-
-
 
 ------
 
