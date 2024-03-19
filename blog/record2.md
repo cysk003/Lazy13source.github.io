@@ -17,6 +17,26 @@
 
 ***
 
+- 240319:
+
+  - <details>
+    <summary>更新《240319懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKI3LpC4OgHgFCjD89ytlkqFHft3ibhpiaTPdn0R9rPmQTcUusu9BtYlBkOxDyUSMFggz5QVsv7S3GQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240319懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKI3LpC4OgHgFCjD89ytlkqrAv0FX3O0qyc5z6ojR38bLXKa9zh24yJtrDWvMDYKeiavZwNpurGUnQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 240319群分享《黄仁勋：怎样找到你的 “未来指标”？》
+  
+  - 240319群分享《财富篇—01、重塑关于财富的22条认知》
+  
+  - 240319挨踢牛魔王《有些人一看就根本不会做生意》
+  
+  - 240319卢克文星球《突然走红的天水，能否复制淄博和哈尔滨的成功？》
+  
 - 240318：
 
   - 240318群分享《悦己经济学：演唱会怎样成为 “行走的 GDP”？》
