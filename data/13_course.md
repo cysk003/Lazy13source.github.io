@@ -6,7 +6,7 @@
 
 - <details>
       <summary>展开查看<strong>懒人专属群-通才计划介绍</strong></summary>
-    <p> <strong>懒人专属群-通才计划介绍</strong> 是小懒给群友们准备的各领域付费课程，以及高分电子书分享。 <br>为防止和谐，课程仅供专属群群友（文档下载地址见q群公告）。</p>
+    <p> <strong>懒人专属群-通才计划介绍</strong> 是小懒给群友们准备的各领域付费课程，以及高分电子书分享。 <br>为防止和谐，课程仅供专属群群友。下载地址见小懒私信给大家的群文档。</p>
       <p>整理通才计划的初衷是给群友带来<strong>一些成体系的课程</strong>。而不是碎片化阅读。
      <p>只有成体系的学习，才能相对全面地了解一个领域。</p>
   学习的目的不是为了输出，而是为了优化我们的思维决策力。</p>
@@ -34,6 +34,15 @@
 ## 最近更新
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
+
+- #### 《刘澜·领导力30讲》
+
+  - 标签：`#职场`，`#学习`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIUmnMXcrOZkl5qO49YVrVrUswWfapCI4GXIAeibFL6ZRFtc1VAnnhdqJYAcxcbRT8dbtU6ZXfdIbg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
 
 - ####  《陈勇·怎样提高流量转化率》
 

@@ -9,6 +9,21 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-20 更新
+
+ - [微软照管理器22401.130.2.0 AI移除对象.exe](https://www.lanzoui.com/ivnie1rwrnri)
+
+ - [微软照管理器22401.130.2.0 AI移除对象.zip](https://www.lanzoui.com/iaSaW1rwrnne)
+
+ - [抖音快手直播录屏 无水印下载视频V3.6解压码2080.rar](https://www.lanzoui.com/iA5Lx1rwrcvg)
+
+ - [文件查重软件Czkawka v6.0.0 LITE.rar](https://www.lanzoui.com/irfav1rwr6sh)
+
+ - [文件查重软件7.0.0_portable.7z](https://www.lanzoui.com/iKyON1rwr5yh)
+
+ - [学生计算器v2.21.apk](https://www.lanzoui.com/iwnez1rwqkyb)
+
+
 ## 2024-03-19 更新
 
  - [微信防撤回_V9.zip](https://www.lanzoui.com/i7DSc1rtcmbi)
