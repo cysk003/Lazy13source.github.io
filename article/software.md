@@ -9,6 +9,111 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-21 更新
+
+ - [短剧多多_1.3.0914破解版.apk](https://www.lanzoui.com/ivjHt1s02x2h)
+
+ - [中小学电子课本下载eduBookDownloader310win7版.7z](https://www.lanzoul.com/iNPSB1s20k1i)
+
+ - [中小学电子课本下载bookDownLoaderv3.1.0.7z](https://www.lanzoul.com/iiYOS1s20hsh)
+
+ - [知了Zhiliao_24.03.17.apk](https://www.lanzoul.com/ipXSK1s20d6b)
+
+ - [知乎_8.23.0@rikkati.apk](https://www.lanzoul.com/iMZOH1s20d1g)
+
+ - [知乎(国内版)-9.41-v8a-with-知了24.03.17.apk](https://www.lanzoul.com/iNFsh1s20crg)
+
+ - [知乎(谷歌版)-9.41-v8a-with-知了24.03.17.apk](https://www.lanzoul.com/ivr8R1s20c2b)
+
+ - [知乎(谷歌版)-9.41-v8a.apk](https://www.lanzoul.com/iXea21s20b6j)
+
+ - [支付宝(谷歌版)-10.5.70.9500-下载地址.txt](https://www.lanzoul.com/i7DIe1s209ja)
+
+ - [新苹果影视盒子-v1.3.3-免费版.apk](https://www.lanzoul.com/is6zb1s2084j)
+
+ - [小学数学运算题随机生成【第九版】2024-02-20.zip](https://www.lanzoul.com/ixQZ21s202sh)
+
+ - [下厨房_8.8.28@rikkati.apk](https://www.lanzoul.com/ifGE51s202hg)
+
+ - [微信正式版-v3.9.9.43-多开防撤回绿色版@zd423.txt](https://www.lanzoul.com/ifaJr1s201wf)
+
+ - [微商助手 3.2.3会员版@[MT].apk](https://www.lanzoul.com/iLe711s2009g)
+
+ - [微商助手 Ver.3.2.2 会员解锁版@zhou45+.apk](https://www.lanzoul.com/iOYsR1s1zz7i)
+
+ - [微商助手 Ver.3.2.2 会员解锁版@zhou45.apk](https://www.lanzoul.com/iYstG1s1zypa)
+
+ - [微博猪手 2.2.8-(265-20240319)xp模块.apk](https://www.lanzoul.com/iv2wH1s1zvcj)
+
+ - [微博猪手 2.2.8-(264-20240313)xp模块.apk](https://www.lanzoul.com/i4hlO1s1zv9g)
+
+ - [微博 14.3.0-内置猪手2.2.8-264模块.txt](https://www.lanzoul.com/iw64N1s1zuub)
+
+ - [微博 14.2.2-内置猪手2.2.8-263模块.txt](https://www.lanzoul.com/ioKVj1s1zusj)
+
+ - [微博 14.3.0-内置猪手2.2.8-265模块.txt](https://www.lanzoul.com/i8Xwf1s1zuri)
+
+ - [腾讯视频-v11.90.8511.0-去广告绿版@zd423.exe](https://www.lanzoul.com/ivIak1s1ikaj)
+
+ - [搜狗输入法v14.2.0.8968去广告精简优化版@zd423.exe](https://www.lanzoul.com/i6XsR1s1ii7e)
+
+ - [识货_7.80.0@rikkati.apk](https://www.lanzoul.com/i0PXt1s1ihfg)
+
+ - [识货_7.79.2@rikkati.apk](https://www.lanzoul.com/iKiKN1s1ih0b)
+
+ - [全剧得 2.8.0会员版@[MT].apk](https://www.lanzoul.com/ime9s1s1ifyd)
+
+ - [清浊_2.0.7-1(107)-Mod-(微信公众号：曙光明亮科技)@帝落.apk](https://www.lanzoul.com/iXqVR1s1ieoh)
+
+ - [七猫免费小说_7.44(74400)-Mod-(微信公众号：曙光明亮科技)@帝落.apk](https://www.lanzoul.com/ijODG1s1iebe)
+
+ - [七猫免费小说_7.43_Mod@辰夕.apk](https://www.lanzoul.com/irSsO1s1idpc)
+
+ - [秒看电视TV-v9.2.0-免费纯净版.apk](https://www.lanzoul.com/iuLnb1s1ibni)
+
+ - [美团红包助手 Ver.1.9.3 去广告版@zhou45.apk](https://www.lanzoul.com/iWvdP1s1i9fi)
+
+ - [美图秀秀_10.6.0_Mod_dccPro@辰夕.txt](https://www.lanzoul.com/iZpaN1s1i8bi)
+
+ - [梨园行戏曲HD_1.0.2(102)-Mod-(微信公众号：曙光明亮科技)@帝落.apk](https://www.lanzoul.com/iOpDn1s1i1bg)
+
+ - [梨园行戏曲_2.3.1(231)-Mod-曙光@帝落.apk](https://www.lanzoul.com/iqyZX1s1i0od)
+
+ - [雷电模拟器9(64)-v9.0.68-去广告绿色版@zd423-下载地址.txt](https://www.lanzoul.com/imvYv1s1hqih)
+
+ - [今日头条 9.7.3去广告版_辰夕.apk](https://www.lanzoul.com/iKos71s1hoyb)
+
+ - [今日水印相机_v3.0.100.6(30010006)-Mod-(微信公众号：曙光明亮科技)@帝落.txt](https://www.lanzoul.com/iSlek1s1hlkj)
+
+ - [驾考宝典 8.50.0会员版_青帝.txt](https://www.lanzoul.com/iMB0c1s1hgkj)
+
+ - [古诗文网_3.2.4@AWAvenue.apk](https://www.lanzoul.com/ievlh1s1he8f)
+
+ - [豆瓣_7.69.0@rikkati.apk](https://www.lanzoul.com/ipIGO1s1h8ja)
+
+ - [抖音-29.1.0-lsp-fplus1.2.8_@tkjiku.txt](https://www.lanzoul.com/izCdV1s1h4vi)
+
+ - [抖音商城版-28.1.0_@tkjiku.txt](https://www.lanzoul.com/i57Nu1s1h4uh)
+
+ - [电视家TV(仿电视家)-9.1-免费版.apk](https://www.lanzoul.com/ieIIj1s1gvwf)
+
+ - [笔趣阁红色版 Ver.5.2.0 小说漫画 去广告版@zhou45.apk](https://www.lanzoul.com/irEBe1s1gnfa)
+
+ - [笔趣阁完美版_2.6.8(268)-Mod-(微信公众号：曙光明亮科技)@帝落.apk](https://www.lanzoul.com/iXfGN1s1gmqf)
+
+ - [爱奇艺(64)-v12.2.5.7850-去广告绿色版@zd423.exe](https://www.lanzoul.com/if3an1s1gjqh)
+
+ - [РotРlayer-240315(1.7.22129)-x64-Stable.exe](https://www.lanzoul.com/iaEpY1s1gggj)
+
+ - [X-plore Black v4.36.05 _ed by youarefinished.apk](https://www.lanzoul.com/iJP5c1s1ftaf)
+
+ - [X-plore-Donate-v4.36.05_build_43605-Mod@balatan.apk](https://www.lanzoul.com/iwH3p1s1fsti)
+
+ - [X-plore_4.36.05_fix@liu.apk](https://www.lanzoul.com/iolRJ1s1fshg)
+
+ - [X-plore_4.36.05@liu.apk](https://www.lanzoul.com/i8OVZ1s1fs6f)
+
+
 ## 2024-03-20 更新
 
  - [微软照管理器22401.130.2.0 AI移除对象.exe](https://www.lanzoui.com/ivnie1rwrnri)
