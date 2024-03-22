@@ -9,6 +9,17 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-22 更新
+
+ - [影视仓_5.0.25.apk](https://www.lanzoul.com/iRCgz1s6kbjg)
+
+ - [影视仓_5.0.25_海信_clone_sign.apk](https://www.lanzoul.com/ij2wd1s6kbda)
+
+ - [影视仓_2.0.22.2_游戏版.apk](https://www.lanzoul.com/ipXuA1s6kb8f)
+
+ - [影视仓_2.0.22.2_短视频.apk](https://www.lanzoul.com/izofz1s6kb1i)
+
+
 ## 2024-03-21 更新
 
  - [短剧多多_1.3.0914破解版.apk](https://www.lanzoui.com/ivjHt1s02x2h)
