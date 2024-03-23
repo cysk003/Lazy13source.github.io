@@ -1,0 +1,8993 @@
+# 【KnowYourself】文章列表
+
+[**返回列表页**](/gzh/gzh_list)
+
+> <details>
+> <summary>展开添加小懒微信：lazyhelper</summary>
+> <p> <img src="https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+> </details>
+>
+> 
+>
+> 以下为公众号**KnowYourself**的所有原创文章，已有发文时间和摘要
+>
+> 点击标题可以跳转原文，微信内打开可查看留言
+
+## 文章列表
+
+- [真爱的标志：在 ta 身边会犯困](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247846842&idx=1&sn=f999a8c2290edd689f524a04afccb81e&chksm=9fcba2fea8bc2be85644cc6c4513516884e804c64631c16e0824afd3c0f267557511fb47c8dd#rd)
+    - 时间：2024-03-21
+    - 摘要：困意是爱意的另一种表现。
+- [「抓马型人格」：也许不讨喜，但注定这辈子都平淡不了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247846751&idx=1&sn=e81b4ca9e3b4c7dcda0b5f5f8cada216&chksm=9fcba21ba8bc2b0ddbad8033bc553322dfe04747a2fc6c924d88d3e57defaa4110e9751a95a8#rd)
+    - 时间：2024-03-20
+    - 摘要：这类干啥都很「抓马」的人，到底在想什么？
+- [人生建议：不要太听话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247846672&idx=1&sn=3b220348146ff96eeeadee7f53b20d12&chksm=9fcba254a8bc2b42d05613945d4041ce1d5dd97668afb26d4609590a509fc96e3b25e07f1b1c#rd)
+    - 时间：2024-03-19
+    - 摘要：做自己人生的绝对「主人公」。
+- [关系里很多人都不敢做的这件事，却能让彼此更亲密](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247846619&idx=1&sn=2373159fb31706b3ef8f727157026528&chksm=9fcba39fa8bc2a89b4bf3fd496f756a27837418748f019e4e632880fba06733de8edae278488#rd)
+    - 时间：2024-03-18
+    - 摘要：别再纠结了，想要就说。
+- [一点小事就情绪崩溃：你不是不成熟，而是还有未愈合的创伤](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247846499&idx=1&sn=dc65a4e3ab08a68a95e115c2e72ab0af&chksm=9fcba327a8bc2a315192467c53fb0d3199f9bcc12a42382c64ae80e523fcf1d2dbf32128bc00#rd)
+    - 时间：2024-03-16
+    - 摘要：正视情绪，诚实面对它。
+- [这件成本极低的小事，却能缓解压力、让你获得真正的放松](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247846498&idx=1&sn=2e5919562230c577bcc450d1d0c38754&chksm=9fcba326a8bc2a304e9e98115f67d5d1671b70b12c41fcb9a8cae0b1beebf41bf8494042b3ba#rd)
+    - 时间：2024-03-15
+    - 摘要：不是睡觉！
+- [呆不住的老家，让我“逃回”北上广深](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247846395&idx=1&sn=ae65f1036969fdf0b8d33e09200b49a9&chksm=9fcba0bfa8bc29a9dd16f8b4ae5441530e853df638da7fc0338e68e1007e6b4457de3d8ec05b#rd)
+    - 时间：2024-03-14
+    - 摘要：回笼漂：勇敢的人先吃回头草。
+- [在关系中有这种冲动时，千万不要压抑它](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247846220&idx=1&sn=d979e8882d095c11e5cd4595229893be&chksm=9fcba008a8bc291e7b9112a994de80cc8de06d1308a4d47f6a32e850619f84591b70a928058e#rd)
+    - 时间：2024-03-13
+    - 摘要：想做就做吧！
+- [习惯性否定自己的想法和感受？你可能被情感忽视太久了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247845912&idx=1&sn=3c92589f61e18583c70ca31d3287348e&chksm=9fcba15ca8bc284a03934e14e317a508d01685f31902b450d56075cd2a7847cfc2add755170a#rd)
+    - 时间：2024-03-11
+    - 摘要：不要再说那些违心的「都可以」。
+- [对什么都淡淡地「算了」，可能和抑郁有关](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247845849&idx=1&sn=9c7f2246dfcd61455b0a99511195070d&chksm=9fcbae9da8bc278bb82262cfa80448074ed6657fe8bc6546b968d0f6b15af806e55e23b6bef7#rd)
+    - 时间：2024-03-10
+    - 摘要：不要被娱乐化的梗，遮掩了切身的痛。
+- [对于这种性格的人来说，恋爱这玩意还真不是人人都能谈的！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247844863&idx=1&sn=baf9b2c7eea27421aebd3f9cf301448e&chksm=9fcbaabba8bc23ad0767f7caa8c497d823048a4215521be569c2190d2bdac02aa372ca3f05c8#rd)
+    - 时间：2024-03-06
+    - 摘要：进来照镜子！
+- [一辈子只睡一个人，不觉得无聊吗？丨如何面对爱情失去新鲜感的那一天？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247844629&idx=1&sn=404d897c0dca1b6b5bdea112361e6479&chksm=9fcbaa51a8bc2347fcb34484783349c65b76cad2136d971c7ddbc23ab5697acffc6194976d8b#rd)
+    - 时间：2024-03-05
+    - 摘要：爱情中的“新鲜感”，或许没那么重要。
+- [“我都这么生气了，你就不能说句话吗？”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247844105&idx=1&sn=85d03a4e187b5b90d5ed003b43113a35&chksm=9fcba84da8bc215b63dbdab88535895b7d23955a126933cb1e073cdfb4346ba346699f48997a#rd)
+    - 时间：2024-03-04
+    - 摘要：沉默不总是金。
+- [我：精致白领；爱好：土味短剧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843924&idx=1&sn=f99fc95eb75d0a046b2239541a6c3d81&chksm=9fcba910a8bc2006b87b9feaf6194c636f8b51edba1ef22c1ac438f134d9e5c3613c35551720#rd)
+    - 时间：2024-03-02
+    - 摘要：“最重要的是，快乐没有高下”
+- [KY新媒体招聘，非心理专业也欢迎试试！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843924&idx=2&sn=16dbe1305a5173d3556b7933886acf2d&chksm=9fcba910a8bc20068c290d13b8e61b577ea63e9a1195e924fe7acf3e5bfd3c47ba263a0837a3#rd)
+    - 时间：2024-03-02
+    - 摘要：
+- [“我的生活，是从坚持自律后开始崩盘的。”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843874&idx=1&sn=1f858fa37a96d0cc6f183f1898c8b335&chksm=9fcba966a8bc207022b297267e24b45a29ae789d6e48c6bae102145c187d9b184ad896b50033#rd)
+    - 时间：2024-03-01
+    - 摘要：「坚持就是胜利」这句话，骗了我30年。
+- [抓到男朋友偷看擦边视频，这男的还能要吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843665&idx=1&sn=53f0820c6e34d1a16666bc801d7f40d8&chksm=9fcb9615a8bc1f038cd1da72003b6715041d7847f666c29b379676f990ce87309b42bc4bb189#rd)
+    - 时间：2024-02-29
+    - 摘要：「物化女性」的人，有真爱吗？
+- [具备这种特质的人，生活质量更高更快乐！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843533&idx=1&sn=0a4f4d34b3f2bc3e064ecea45701c33d&chksm=9fcb9789a8bc1e9fb1d01bda087e871f5639c0105eb0b54a6e29695c9b0e766619c4638427d5#rd)
+    - 时间：2024-02-28
+    - 摘要：一个让生活变得有意思的秘诀
+- [还剩7个月可活，但我选择继续上班](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843435&idx=1&sn=de6b50ffcde1e3703f36edf30a31065d&chksm=9fcb972fa8bc1e396af5819dc1ced6e5601b2bb384e948c7d13c6e9a7e7582281189410ee2d1#rd)
+    - 时间：2024-02-26
+    - 摘要：很多人无聊，是因为ta在过着一种「二手」的生活。
+- [招聘丨KY新媒体招聘，非心理专业也欢迎试试！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843435&idx=3&sn=82a455924a0085d94caf3609c294a82f&chksm=9fcb972fa8bc1e3961b4ae65c1a71f1cdd4a1283c340254e0473044b5c1c2486b9a01117661e#rd)
+    - 时间：2024-02-26
+    - 摘要：
+- [电子亲人，我的「原生家庭代餐」。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843406&idx=1&sn=2055b4e0fc37521882abf984113b7d99&chksm=9fcb970aa8bc1e1c291a80afec3075d547820e722fb69c3de4b06f25d0e201d532fa83dae45d#rd)
+    - 时间：2024-02-25
+    - 摘要：没有在现实家庭里得到足够爱的年轻人，正在小红书上认亲。
+- [阶段性的朋友，算真朋友吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843175&idx=1&sn=d0d994db0296055364ca7ea8f9153938&chksm=9fcb9423a8bc1d35228a19a43a1d68497abb48a88b69a0e55b198bd16e9b5735959e0ff22d4a#rd)
+    - 时间：2024-02-24
+    - 摘要：活在缘分里，而非关系中。
+- [为什么有些人，一开口就扫兴？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247843087&idx=4&sn=f4431844c79d6ad618d8438145a8c9cf&chksm=9fcb944ba8bc1d5d3521fb09f12c28d0c88858c9d5f13a6ea72f2f3f948cd19c5dc6b0c54321#rd)
+    - 时间：2024-02-23
+    - 摘要：从自己开始，做个不扫兴的人。
+- [快30岁还觉得自己像小孩？成不成熟其实要看这一点——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247842894&idx=1&sn=06b8c88dee91bf6fe11b71b885b0528d&chksm=9fcb950aa8bc1c1c717fb32c470ef452a88d55c8486d25c257641d328b906c1c5a1d73956a2b#rd)
+    - 时间：2024-02-22
+    - 摘要：成熟和你多少岁、有没有房和车、有没有事业，都无关。
+- [关系里这种隐秘的操纵，很多人都以为是爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247842870&idx=1&sn=9fe7ad51c5407da2c2cc69e7c25c5aa3&chksm=9fcb9572a8bc1c64e969af88ad3d5c9687aa55f52b3ca8cc6e39556010302d0f027a95c4a2d6#rd)
+    - 时间：2024-02-21
+    - 摘要：以爱为名的“绑架”，你中招了吗？
+- [师生恋，为什么很难说是一种「两情相悦」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247842843&idx=1&sn=7f1ec1e549ec50474f9c64d955dd6929&chksm=9fcb955fa8bc1c495c2138c08fabc88aaaad9479f0ac039ef3fcd46a7e8c9a6e47571acdbc7c#rd)
+    - 时间：2024-02-20
+    - 摘要：“爱情只存在于权力相等的生命体之间。”
+- [让你放心当小孩的地方，才是家](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247842407&idx=1&sn=f9a416d6ae0c54df28ee384119048dc0&chksm=9fcb9323a8bc1a354909f346c88879d0cb0d6c4211c2cf799e5830e9ec68248c6f921af16400#rd)
+    - 时间：2024-02-18
+    - 摘要：成年人最大的幸福，莫过于“回家当个小孩”。
+- [今后每一个输给生活的时刻，我都会想起贾玲的《热辣滚烫》](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247842378&idx=1&sn=476b9abb17f5b16fb13213f14d74c452&chksm=9fcb930ea8bc1a18a677c4785628fa06ff7b539327b4116dc878354f4d7791e72ec29ea61cf3#rd)
+    - 时间：2024-02-12
+    - 摘要：能给生活一拳，那才叫热辣滚烫！
+- [不会被过去困住的人，都拥有这样一种能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247841815&idx=1&sn=2dd69c0f294f6bb8752c6b5dc47e321c&chksm=9fcb9153a8bc184514a2e78034ed29f39f9e02277be6c3ef45937a138244d242714b19086700#rd)
+    - 时间：2024-02-04
+    - 摘要：也是2024年摆脱内耗的最好办法。
+- [脑子变得清醒又好用，关键在于每天都做这件事。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247841659&idx=1&sn=0467405313c721fa44bbb4ed61bd98d5&chksm=9fcb9e3fa8bc17294032a46bbe811daac373d09f3af3f05f03a0c75814989fb8758b4b0154d7#rd)
+    - 时间：2024-02-03
+    - 摘要：看看你每天都做了吗？
+- [“关系结束了但爱还没有” | 停止爱一个人到底要多久？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247841609&idx=1&sn=7af88d95970e4ba89fca885ffc4d8be8&chksm=9fcb9e0da8bc171b328deeb20a368c8df929fce035e515560f2d08863927d2d4352e9711d06c#rd)
+    - 时间：2024-02-02
+    - 摘要：停止爱一个人是怎样的过程？
+- [真心希望我的男朋友，再找一个男朋友。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247840261&idx=1&sn=69c81b172cc46809c5604e75133938b0&chksm=9fcb9b41a8bc12578964b191c56844d8b722b4a50a6129299e4f0c71920c77cdeb5ad3c4e765#rd)
+    - 时间：2024-02-01
+    - 摘要：报告！直男之间的相处也越来越像「闺蜜」了！
+- [「浪漫过敏」：你不是看不得浪漫，而是看不惯表演](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247840143&idx=1&sn=af41e859a7a9b34f99e58a36f2a1ed36&chksm=9fcb98cba8bc11ddd8521bfbff3493d3613a8ff4160690ad60bc6cfff34f36d154fbbfee7f0d#rd)
+    - 时间：2024-01-31
+    - 摘要：浪漫过敏的人，有可能才是纯爱战士啊。
+- [为什么有的人特别清楚自己要什么？| 如何科学地做一个坚持自我的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247840012&idx=1&sn=0d5f15154b03528ae7caa5ef43f1b715&chksm=9fcb9848a8bc115e7b659cf3b13fe3be63d5da3e46b590f525d19f2f40eaa9eb1111f554a525#rd)
+    - 时间：2024-01-29
+    - 摘要：你是太在意他人，还是不明白自己究竟想要什么？
+- [东亚女儿的隐痛：爸妈眼中我是别人家儿媳](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247839934&idx=1&sn=f61dd4f7456636c5655777d77d0780cc&chksm=9fcb99faa8bc10ec2615325dc68320df6ff85e539be3a09c0d2f4fb4253a244f6cbdfcb5b056#rd)
+    - 时间：2024-01-28
+    - 摘要：她们真正的独立，是重建自身的「主体性」。
+- [我发现厉害的人，都很会用这一种思维！（特别好上手）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247839908&idx=1&sn=9c3c1085523b04722978407b4c754ae5&chksm=9fcb99e0a8bc10f629b95dd860a15ce87700f0d0730baa161cfdf5a9a24a9ec398167d47ccad#rd)
+    - 时间：2024-01-27
+    - 摘要：用对就能「重启人生」。
+- [为什么小时候越聪明，长大后越难过好下半生？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247839586&idx=1&sn=f3f2a8d5b686c35969f74d876d8339dd&chksm=9fcb8626a8bc0f301f5d54a8e1078dfaab0eabf8500c6d1df3f32168944e991d7fbea07a9f59#rd)
+    - 时间：2024-01-24
+    - 摘要：陨落的神童，只不过是普通孩子的特殊样本。
+- [为什么小时候越聪明，长大后越难过好下半生？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247839585&idx=1&sn=13267edc713c7f9b59fb1afa48595aec&chksm=9fcb8625a8bc0f331627af7483b9974e12cf34503e266e2ef4ef8cfd5a8a6338b57ac98f5dea#rd)
+    - 时间：2024-01-24
+    - 摘要：陨落的神童，只不过是普通孩子的特殊样本。
+- [在《繁花》的年代里，年轻人也不想上班。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247839288&idx=1&sn=3011765bd257b4fb40b6d2674583f832&chksm=9fcb877ca8bc0e6a9cba31d4aee62039fbf209cfad7baffa7de5ebf88899af673456f7acd0cc#rd)
+    - 时间：2024-01-22
+    - 摘要：1994年的心理读物上，都写了什么？
+- [真心建议你：没事多发朋友圈！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247839210&idx=1&sn=d13506c5c329a0934915f3d896b67373&chksm=9fcb84aea8bc0db8f26c88351ee81f78d5b5b2535cbd32b653402b86db9c22d6a42d8f6d95af#rd)
+    - 时间：2024-01-21
+    - 摘要：好处不止一点点
+- [一个35岁失业的中年男人，选择回家带娃](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838832&idx=1&sn=096cc5bbd0239720a548f51d988509c2&chksm=9fcb8534a8bc0c2229724d3583eb71250ff24620d1353669b3d38ffed82607fa3af910827e6a#rd)
+    - 时间：2024-01-19
+    - 摘要：从而立到不惑，他决定重新定义「自我实现」
+- [「我只是平等地讨厌每一个蠢人」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838642&idx=1&sn=a7f2ec8f93287e51505e5b1f65f11eab&chksm=9fcb82f6a8bc0be03c7333a270bcc5d4a3325addb1a81d7281cd77a08c7a3aeee33295319f82#rd)
+    - 时间：2024-01-15
+    - 摘要：为什么我们容易被愚蠢激怒？
+- [想要谈「钱」不伤感情，关键是聊透这 3 点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838536&idx=1&sn=2358205aac213f5b1edebea6d1858361&chksm=9fcb820ca8bc0b1abc663bbeb7f1d7b562b244f8026d00ac8415cf87330543f833f1229f892f#rd)
+    - 时间：2024-01-14
+    - 摘要：为什么亲密关系里绝不能回避谈「钱」？
+- [这是大多数伴侣、朋友都不会聊的话题，但聊好了关系就会“升华”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838345&idx=1&sn=684b4587a0123713dcd7d90665ab9815&chksm=9fcb83cda8bc0adb60ce1670961c010bca956b2fe217ca746753ca9d9ae095cfa26c949d5119#rd)
+    - 时间：2024-01-12
+    - 摘要：不同观点的交流，比争论更重要
+- [为什么说「眼泪是男人最好的嫁妆」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838278&idx=1&sn=c6483ae792ec3ead4aa9468fb33f3b8c&chksm=9fcb8302a8bc0a142c7318cba5fdf3083ed6120868c529b2d2bf43a7c9e056ff6377d622b68a#rd)
+    - 时间：2024-01-11
+    - 摘要：作为一种象征的眼泪。
+- [很多人害怕的一个动作，却能快速拉近你和他人的距离](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838094&idx=1&sn=a80433d0a57b67a0320a65d652a5eb4f&chksm=9fcb80caa8bc09dcd6811fe89c96e4c6502ad42693f8602b7a24904ae5fcde8b2d772883d7d7#rd)
+    - 时间：2024-01-09
+    - 摘要：一种无声胜有声的社交信号。
+- [有时你要先变坏才能变好 | 5 种容易内耗的思维模式，来看看你有吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838071&idx=1&sn=4293dfe17a246e08ea2e144def277fd2&chksm=9fcb8033a8bc09257115dd1188c9b0c0d3e2501028a6dd7dabb4ed2a4d17445a5fef2ea6f8da#rd)
+    - 时间：2024-01-08
+    - 摘要：7步帮你打破
+- [旅行时，最容易分手或绝交的8个问题。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838037&idx=1&sn=5e3619f0332e95cd8922700911ecbc75&chksm=9fcb8011a8bc0907b45afeaeb35f34e7c3bd0786e373e72fae7b43be67987c0ea21922796e29#rd)
+    - 时间：2024-01-06
+    - 摘要：出发前务必聊清楚！
+- [「好的友谊」的10点标志，你拥有过几点？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247838004&idx=1&sn=f3c95846895db44dc3b5a3c9eee98a95&chksm=9fcb8070a8bc0966e540a8ff189b191e50deca45d24cc47d2192e80f46e9d0ff1f24952a91fc#rd)
+    - 时间：2024-01-05
+    - 摘要：其实还有一条标准：你会和ta一起看这篇文章。
+- [幸好花了这些钱，我才没有在2023年发疯。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247837903&idx=1&sn=8970bac72dae210a9a98ba11f6df2da7&chksm=9fcb818ba8bc089db569712c33f97591b465e8792b6a1ea864193648777e538150e3abb9693b#rd)
+    - 时间：2024-01-03
+    - 摘要：老板，一斤情绪稳定多少钱？
+- [走到最后的爱情，都挺过了这个阶段。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247837593&idx=1&sn=93f0d7d616850a840cf434947eb505f8&chksm=9fcb8edda8bc07cb2f58e9ea08ba3d04476cd89bf3c49422479d79b4920763a0b4816e6f3e6e#rd)
+    - 时间：2024-01-02
+    - 摘要：可能是关系里最大的挑战。
+- [新一年的转机，都藏在这8件小事里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247837369&idx=1&sn=114ff1df4251b08821f2cc5644625c32&chksm=9fcb8ffda8bc06eb74105d36a82cdb7c1121c5a7a770b0ba8cfe4d834c7979d530a728f8e085#rd)
+    - 时间：2023-12-31
+    - 摘要：有些坏事有助于我们的心理发展～
+- [研究表明：选择困难时，抛硬币是最科学的](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247837027&idx=1&sn=dfeefe129c17bc0689daf0e65347b3eb&chksm=9fcb8c27a8bc05317ce9b75b8d55a45258fa6435cda193cfd820d455a36619e07e4c10ebbf08#rd)
+    - 时间：2023-12-28
+    - 摘要：总是做错选择的人，可能缺少这种能力
+- [值得共度一生的人该有和不该有的7种模样。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247836975&idx=1&sn=d2cef4e72537cf631e45e7fc8cd2e649&chksm=9fcb8c6ba8bc057d4c939c5005f5a16220a6612ec2cf8fb2d7f46deb255851539a294b23a521#rd)
+    - 时间：2023-12-27
+    - 摘要：这3个特质值得警惕。
+- [中国女性「私密」数据盘点：揭开 11 个真相](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247836953&idx=1&sn=79b1b8f4e75e9c6ded3284d1bf68f957&chksm=9fcb8c5da8bc054bb814e3c1accbb6c4c853ef8e2f670878d27b2f0d88f6bdbc6013cf973958#rd)
+    - 时间：2023-12-26
+    - 摘要：她们的性与爱、工作与消费还好吗？
+- [上班心情的好坏，取决于是否和同事一起做这件事——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247836361&idx=1&sn=40ed378bf5d382eccf108737cbb48df4&chksm=9fcb8b8da8bc029b92ba78932fc7ad8d1c4430212907ae76545f8c935ba019d4a2e80114047d#rd)
+    - 时间：2023-12-25
+    - 摘要：建议速速做起来。
+- [年末压垮我的，是累积了一整年的微压力（内含破解方法！）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247836170&idx=1&sn=4181a5836d8ba7a5343d8b5e466785f1&chksm=9fcb8b4ea8bc02583f9660ccee09c4a136e650f862b45707737a2b10d9ed806a02410286d6d8#rd)
+    - 时间：2023-12-22
+    - 摘要：生活中这些微小的压力，也可能成为一座压垮人的大山
+- [因为这个效应，有些关系「越遗憾越美丽」——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247835945&idx=1&sn=277426511db99ff07fcfb442e99c76aa&chksm=9fcb886da8bc017b7b3c7f4ff0fadbcc5ec5bf2b9626f1bbe27ffc75c636bfb87b67c57b45b7#rd)
+    - 时间：2023-12-21
+    - 摘要：“为什么我会这么依恋，这个只认识了很短时间的人？”
+- [现代人停不下来的「上瘾」行为，可能源自这种时代病](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247835289&idx=1&sn=7380840720846c1772e715246c32b2ed&chksm=9fcbf7dda8bc7ecbf2ef0ccad7383823bb61d54989bd9183f7e9dec107589a529363c7c63d59#rd)
+    - 时间：2023-12-20
+    - 摘要：你也是这样吗？
+- [大部分人都当不了董宇辉，但每个人都可能沦为「小编」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247835015&idx=1&sn=156779f740ac8b3016ce1763e0bad551&chksm=9fcbf4c3a8bc7dd5f103a6238924727610ea2174683b2850d7539c01dcd906a9f4aa8c2110a0#rd)
+    - 时间：2023-12-19
+    - 摘要：「不被看见」的人依然痛苦
+- [「2023年度十大精神状态」出炉，哪个最能总结你的这一年？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247834489&idx=1&sn=5a331f289580f385e7398568b2e3dbf4&chksm=9fcbf23da8bc7b2b4ac83b30ec39e09b86cc0c5b5331cf5b558a6c322e67a9f627292b157bf1#rd)
+    - 时间：2023-12-17
+    - 摘要：看到第 3 个，我笑死！
+- [面对爱：有人权衡利弊，有人常觉亏欠](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247834426&idx=1&sn=1d858976b69a1492802785e2f6a6bf6d&chksm=9fcbf27ea8bc7b680afa7a37ecefea68bff0f664638b7442e1a73aa2dfb532b07cd173bb8e15#rd)
+    - 时间：2023-12-15
+    - 摘要：常觉亏欠的爱，是如何产生的？
+- [能理解这5种心态的人，注定会越活越好。尤其是第3种](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247834321&idx=1&sn=ad043a857718e22c12d6537b35831919&chksm=9fcbf395a8bc7a833b676d386061dfacf6dacaeb1e528318297f68cdd2d3c61aec22dcb63297#rd)
+    - 时间：2023-12-14
+    - 摘要：幸福不是目的，只是好好生活的结果。
+- [活到30岁，我才发现自己最大的人生困境是「不会玩」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247834229&idx=1&sn=7726b336dfc99035daf551fad5a283f8&chksm=9fcbf331a8bc7a270dd86612f0f70264afaed600bccb33a50e5aa15a9d0969a3b045b1394ae7#rd)
+    - 时间：2023-12-13
+    - 摘要：当代人最稀缺的能力
+- [当我们信任的人，做了出乎我们意料的事，该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247834203&idx=1&sn=64ad9ea03d2442fc5b9dd41eb62c98cc&chksm=9fcbf31fa8bc7a09a8c67a5b383e4c1b050adada6977b60b7b578601319a69577e3f19809068#rd)
+    - 时间：2023-12-12
+    - 摘要：如何处理关系中的认知失调？
+- [足不出户也能社交？| KY免费社群持续招募中~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247833907&idx=3&sn=c138f2f99e249e77139214c387075d32&chksm=9fcbf077a8bc796196a8844e65b4d4bbcb8e38564ae42d806bb4d21121ba2274602244b64c26#rd)
+    - 时间：2023-12-10
+    - 摘要：
+- [快乐的人vs.不快乐的人，在这8件事儿上区别最大（能改！）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247833903&idx=1&sn=642e96599097a5dd4b7b156953125962&chksm=9fcbf06ba8bc797df3b804a16f270faf6c9144f122df2b9c9e5ed0ee82dc810ff7f5f2f3b93b#rd)
+    - 时间：2023-12-09
+    - 摘要：收下这份「快乐秘诀」
+- [没有这种情绪的人，更容易不被人尊重。建议你一定要学会——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247833889&idx=1&sn=10d10b296b0487075d73b29037a69159&chksm=9fcbf065a8bc7973fcd93d67a58a0b595b492f0c595420812c8c050c98ce3a81ee3e8ced5e95#rd)
+    - 时间：2023-12-08
+    - 摘要：它能帮你建立边界、坚定自我。
+- [少年感，为什么首先是一种「害羞的感觉」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247833707&idx=1&sn=ea0c3d140280edc5f7834887401ebe0f&chksm=9fcbf12fa8bc7839d5651145a12a19aec9536a53a7db9a096e059b094e6d77551e34d10f7724#rd)
+    - 时间：2023-12-07
+    - 摘要：对少年感的审美，可能是一种对悲剧的审美。
+- [关系质量检测表来了！健康的关系，都具备这6点（友情也适用）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247833655&idx=1&sn=cbe7259500d23277f784cd3fa1b26e27&chksm=9fcbf173a8bc7865e856346820244d94f965f36887fe221d9357f0bc2ff160efe208d0da9d27#rd)
+    - 时间：2023-12-06
+    - 摘要：「旺自己」的第一步：远离有毒的人际关系
+- [当代人对婚姻最大的误会：在一个人身上实现所有期待](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247833601&idx=1&sn=00751a263423ba884061afb2d915eed3&chksm=9fcbf145a8bc7853167fde9231f1a286b5665231b3064d4f134a1e34ca98cb0b1e4f06f56b33#rd)
+    - 时间：2023-12-05
+    - 摘要：「让爱人只做爱人」，是恋爱中最难的事。
+- [一起来创造快乐与温暖 | KY社群成员免费招募中~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832903&idx=3&sn=08a151825fceec89fe18afd0d52fe178&chksm=9fcbfc03a8bc75154e39ae1b7ac2658b29cc908b5bf621f8dd50af3d101a6060e93365438a4a#rd)
+    - 时间：2023-12-03
+    - 摘要：
+- [“很累，很痛，但没人发现”，「高功能抑郁症」是种怎样的体验？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832901&idx=1&sn=fd2a3879051de75a525b8cf30273676d&chksm=9fcbfc01a8bc7517bb200477e74e3aa713192008b52dac3859571f7e7833c5e3d3adfe750da7#rd)
+    - 时间：2023-12-02
+    - 摘要：点击查看她的20年
+- [管不好这件事的人，每天都活得特别累](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832855&idx=1&sn=83637e6c1cdaf9ec3402566701602fd0&chksm=9fcbfc53a8bc754524ce4fe54f3602b67d7a4a489576a6eb66509de315639e49cdde4de76fd9#rd)
+    - 时间：2023-12-01
+    - 摘要：比起时间，我们更应该珍惜的是它
+- [最值得珍惜的，莫过于能给你带来这种体验的人（不止适用于爱情）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832770&idx=1&sn=ff92fb696ab95be26279c3c3c0e8d4e0&chksm=9fcbfd86a8bc74907792ecd55222d316d4eedd90401671fa5e2f1e2340bfc74cba58a6f2f1ff#rd)
+    - 时间：2023-11-30
+    - 摘要：人与人之间最治愈的体验
+- [今年尺度最大的国产片，80%的人都没看懂](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832491&idx=1&sn=cbd865171da5030178253f345e8f5594&chksm=9fcbfaefa8bc73f998726f4b7cc64cc5eeffb97b42cd3b7bc743a65aab5f9e5df4e1e9621fb1#rd)
+    - 时间：2023-11-29
+    - 摘要：我们都需要越过那片愤怒的海。
+- [情侣之间不做这件事，相当于启动了定时炸弹](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832268&idx=1&sn=bdaed778e17fbdb070cecbc615673a51&chksm=9fcbfb88a8bc729ec8ae4be444fb67511af7579af3f6436def2de8815f12549e81c2fc293584#rd)
+    - 时间：2023-11-27
+    - 摘要：可惜，很多人觉得它是谈恋爱最忌讳的事。
+- [总要有些惊奇的相遇 | 来KY社群邂逅属于你的美好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832235&idx=3&sn=04df2d55f47c67b4da1a9c01c20d752a&chksm=9fcbfbefa8bc72f9cb3cbf1e212dbe2f7a6a93e4d43ed95335863a79d58e2070df8dadf191f1#rd)
+    - 时间：2023-11-26
+    - 摘要：
+- [「有害安慰」的7句话，看到第三句已经血压飙升](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832234&idx=1&sn=1b02f3060cff3ebc294f6e691d80904f&chksm=9fcbfbeea8bc72f8bdda812516e027bee3d229ddb0f5e571c8f4fdc661b26096041e62c83713#rd)
+    - 时间：2023-11-25
+    - 摘要：“被你安慰之后，我更难受了”
+- [最令人满意的婚姻关系：「我的伴侣也是我最好的朋友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832228&idx=1&sn=f769dbaa3c020d84bf01ab4422363a79&chksm=9fcbfbe0a8bc72f660375483329fe5c6374080a33495a3ae1b8a8514d79b8144b419ba9e2f05#rd)
+    - 时间：2023-11-24
+    - 摘要：建议遇到就锁死
+- [i 人至暗时刻：完蛋，我被「显眼包」包围了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247832117&idx=1&sn=f43e154e6f11280d342148a3e9ab26ce&chksm=9fcbfb71a8bc7267434d9183cf6e0556738ece4d6d294c6e80af9a01ce048627e95f998b77e1#rd)
+    - 时间：2023-11-22
+    - 摘要：试试珍惜身边的「显眼包」
+- [说不上为什么，但我就是馋ta的身体](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247831272&idx=1&sn=ae98bd36e486174c868705110f1a2112&chksm=9fcbe7aca8bc6ebab2f572f5ef8963bb82e5d34f938a0b32c1a6c93268e82a3eb4d92797ef33#rd)
+    - 时间：2023-11-20
+    - 摘要：「生理性喜欢」的科学解释找到了！
+- [那些真的能通过周末“充电”的人，都做对了什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247831235&idx=1&sn=1926c5ddbc858e85dcf91614e13f6be5&chksm=9fcbe787a8bc6e91cf31fbb89b1314a76f9a33733346404a694768ae111f7158ca2f16740e2b#rd)
+    - 时间：2023-11-18
+    - 摘要：曾经认真做过一顿饭，让我免于绝望。
+- [一个值得你付出的人，要满足这8个标准——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247831209&idx=1&sn=dc2e7e0085c45d5cba8d54d356deef60&chksm=9fcbe7eda8bc6efb1ca07f4b5db56b321b953e06cc777bd34445ccacbb4686c412736d5dfdaa#rd)
+    - 时间：2023-11-17
+    - 摘要：尤其是最后一点
+- [真心建议打工人，下班后别这样「乱玩」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247830081&idx=1&sn=98c13863221efe307e18914d7b0bbc7e&chksm=9fcbe305a8bc6a1349017fb44928b3c441eceecdc7bdd17eb375f96983d7de366a25e59bb7ca#rd)
+    - 时间：2023-11-15
+    - 摘要：是时候反对一下「work hard play hard」了
+- [天一冷就忍不住想前任，怎么回事？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247830044&idx=1&sn=d5a62187715584283526ad8bbb16dfb7&chksm=9fcbe358a8bc6a4e7b2d4e2d1a414c63af05b77b29986154f9f5af388dc24e8866527053fb24#rd)
+    - 时间：2023-11-14
+    - 摘要：对你的思念，是冬日特供。
+- [是PUA还是真的为你好？看这一篇就够了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247830013&idx=1&sn=b5dae615567be764c322fd3d3de6bc96&chksm=9fcbe0b9a8bc69af7162c19fcd672fa240aca7f496ea614aceb114834cb7206ef3941fd7cf4a#rd)
+    - 时间：2023-11-13
+    - 摘要：你需要批评的程度，可能超乎你的想象。
+- [学习渣男渣女常用的这招，可以帮助我们制造浪漫。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247829992&idx=1&sn=2fd64fb4ab73869d0447986cd1f51eb5&chksm=9fcbe0aca8bc69ba2d35ec014948e9d6769a25cb77d56c340ddc0b47ad69272376766961ea17#rd)
+    - 时间：2023-11-11
+    - 摘要：你一定猜不到。
+- [我们不必认识，只要留下温暖给彼此｜KY社群成员免费招募中～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247829990&idx=4&sn=758f8ebe5ad15f79382367573a8b4447&chksm=9fcbe0a2a8bc69b43698e7da9ef47691fcafe47c1be2eaddf9a628a24199c256662868dd8231#rd)
+    - 时间：2023-11-12
+    - 摘要：
+- [性生活要愉快，就千万别让对方「自己动」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247829704&idx=1&sn=633992bea04d1a265eb9980def5a2207&chksm=9fcbe18ca8bc689a97765bf442f490dcebdbe21809543cbcbecfbd5968a14e734b3254b6ebc6#rd)
+    - 时间：2023-11-09
+    - 摘要：不要做性生活里的NPC。
+- [比「异地恋」更珍贵的，是「异地友谊」。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247828854&idx=1&sn=d2244b20a0c731f87efaafd39cc04a66&chksm=9fcbec32a8bc6524507fad786af4a18216e4ff7cb1d11438056555df01f3bde66dd4abe4a31a#rd)
+    - 时间：2023-11-08
+    - 摘要：好的友谊经得起千里之遥。
+- [不要因为一个人「对你好」，就和 ta 在一起。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247828770&idx=1&sn=658dcaaadc1e62036b842f2cba921274&chksm=9fcbec66a8bc657072a4660a0e1721a1fb84059cb25f05b8cb88479124a0704c56b97b6cd514#rd)
+    - 时间：2023-11-06
+    - 摘要：「对你好」会变淡，但它不会
+- [招聘丨KY新媒体招聘，非心理专业也欢迎试试！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247828770&idx=2&sn=cfe276c1f21b44a907cd65b285fd1a2a&chksm=9fcbec66a8bc6570fe648057b776b7f333ad8654731dfe4ea69bb0227ca06f1f1af9015243a2#rd)
+    - 时间：2023-11-06
+    - 摘要：
+- [与陌生人来一场温暖的治愈｜KY社群成员免费招募中~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247828733&idx=3&sn=3b667517e64205eed0d38c8efdb62771&chksm=9fcbedb9a8bc64afb82d775674855f00d7a6cd14c75e250305fc14cd3724ff8853f9d01533b1#rd)
+    - 时间：2023-11-05
+    - 摘要：
+- [什么样的原因，可以让人在40岁后依然心动？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247828732&idx=1&sn=b3cb9230f366b13299a59715dc9dd798&chksm=9fcbedb8a8bc64ae7c3ef143a7cd24ae36a57dd98d6b382ca985cf00f1e515c6938b5dd33766#rd)
+    - 时间：2023-11-04
+    - 摘要：人到中年后，依然会心动。
+- [钱德勒的离开，带走了我们心里这个隐秘、深刻的角落](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247828625&idx=1&sn=4be5ac9887df76ade8aba8387e56b4a8&chksm=9fcbedd5a8bc64c3d216168c345e9b0b9d431de6f8757c7d5c4d01e569847fa45b9a51fcf635#rd)
+    - 时间：2023-11-01
+    - 摘要：原来我们每个人身体里，都有一个钱德勒
+- [“期待是所有心痛的根源。” 如何对生活和他人抱有合理的期待？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247828320&idx=1&sn=df66879e9cb7c665ebc3a5b6d9e46bac&chksm=9fcbea24a8bc6332510ab55bb9dbb50816b02329ee98179a22f9b2ecdf450b2a901dc488a3c3#rd)
+    - 时间：2023-10-30
+    - 摘要：不合理的期待是痛苦和愤怒的原因所在。
+- [什么样的人，会「不允许自己感动」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247828063&idx=1&sn=49299a4b9d76a906c15e7cfd15c318ff&chksm=9fcbeb1ba8bc620d8a61329ee35de3ce41cf7344daf085d0008bcee4fd9d9ec0da3ac1327732#rd)
+    - 时间：2023-10-27
+    - 摘要：“也许一切恐怖的事物在最深处是无助的”
+- [身体的这个器官很像，会让你们成为一辈子的好朋友！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247827467&idx=1&sn=39b4f9f1c47c90ba2c47b81a4915541c&chksm=9fcbe94fa8bc6059ce5cc4b0f98bdb43e12bc7bdca64ecdd3d96c31c8adb26eb83028d250015#rd)
+    - 时间：2023-10-26
+    - 摘要：还能带来6种特别的体验——
+- [错误痴迷不可自拔？别自责！可能是对方的操纵让你深陷痴迷——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247827426&idx=1&sn=a4c533569a91c2f903494303b5957b66&chksm=9fcbd6a6a8bc5fb09bc7f0e22f761fc1563c7a10f8f42242f61e13b7f20f243993628b10f39d#rd)
+    - 时间：2023-10-25
+    - 摘要：无法离开一段虐恋最隐秘的原因
+- [“觉得自己很好”，是一种宝贵的能力。能解决现实问题的那种！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247827228&idx=1&sn=ae89f7f6a33aa41cce5ab9f5f7464575&chksm=9fcbd658a8bc5f4eaf6480d3b2035fbb5e00fd2aa54b42ac23dcab0ebea0e524549e3231605f#rd)
+    - 时间：2023-10-24
+    - 摘要：不要让能力被谦虚埋没。
+- [那些「上班不累，下班更嗨」的人，到底偷偷做了什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826619&idx=1&sn=ebb97297309ca7c01691eb71f2f74519&chksm=9fcbd5ffa8bc5ce90c296593efe96fc970ac658098946b66dc7c32a37f9e167d0b60c985bec6#rd)
+    - 时间：2023-10-23
+    - 摘要：维持高能量状态的13件小事
+- [无数个灵魂相遇，无数次美好发生 | KY免费社群一直在等你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826619&idx=5&sn=ef16ce719362aa951fe87d53a308c7fa&chksm=9fcbd5ffa8bc5ce990a8c69f62ab16ca41ca99b17b6fb6d3f3ed06ed891891b879c6c556a9fa#rd)
+    - 时间：2023-10-23
+    - 摘要：
+- [养成「易快乐体质」的8个秘密，emo时一定拿出来试试！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826365&idx=1&sn=88a51ba7439db9bafc65a2a25161c116&chksm=9fcbd2f9a8bc5bef9f12cb24ce161cc9bfa0495f7e98c24c083232af75508dd3d994fd89d7e4#rd)
+    - 时间：2023-10-19
+    - 摘要：有些人确实更容易快乐，来看看是你吗？
+- [关系中的这种不匹配，很致命！（不是性欲）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826321&idx=1&sn=648013547c461e7273d6583a7f8f1183&chksm=9fcbd2d5a8bc5bc301a0843082aa1b34c04093c58e1fdea6de4bb37728aa0fa85bd8f7bbfeaa#rd)
+    - 时间：2023-10-18
+    - 摘要：伴侣间存在这个差异，关系只会变得越来越脆弱
+- [总要有些惊奇的相遇 | 来KY社群邂逅属于你的美好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826321&idx=4&sn=d8a08bf14e8299303357c2632bd9b03d&chksm=9fcbd2d5a8bc5bc35f6690db494ea95035bfcc968461f6248f2bfdcb0867737073c63c8e0505#rd)
+    - 时间：2023-10-18
+    - 摘要：
+- [你有没有发现，你爱过的都是同一种人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826275&idx=1&sn=0c8f407b610e9ebc1d0e0ebaa23a139c&chksm=9fcbd227a8bc5b31735eedfa1946509ad70ae02f9cab493d4609cec574abf8b33e927705ccd1#rd)
+    - 时间：2023-10-17
+    - 摘要：莞莞类卿的科学依据。
+- [做到这7件小事，你喜欢的人会被你「真实而深刻」地吸引——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826223&idx=1&sn=37da82ef3250233e1d039578c0f40fc3&chksm=9fcbd26ba8bc5b7d9aeb310fe30e1718a03deb591c8fb066c2e40dbd48b903255178da2f771e#rd)
+    - 时间：2023-10-16
+    - 摘要：用心理学研究助攻爱情。
+- [最新数据：离婚最容易出现在婚后第…年？（不是第七年）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826197&idx=1&sn=a3d20c84371433dadcc9f9a66bb9eb94&chksm=9fcbd251a8bc5b47041f9eda4da20c152150e3e9285524b0e1725bf10be9d157643e7f136727#rd)
+    - 时间：2023-10-14
+    - 摘要：婚姻必经的两道坎。
+- [你的心事从此有人倾听 | KY免费社群等你加入~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826197&idx=4&sn=12d9548fd8784446ade408b91729d8fa&chksm=9fcbd251a8bc5b4770b8ba246bd808522903d0c63fc1cf9083bd4c40760575b511b0af62db36#rd)
+    - 时间：2023-10-14
+    - 摘要：
+- [看似爱无能、回避疏离的人，其实内心都是在恐惧这件事——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247826183&idx=1&sn=aa49daa71c4b84c3d4c8d2040ae23153&chksm=9fcbd243a8bc5b5562f2e13cae1e649dfcc196b2ec7d1ea04b8fd5357532263fd8eaada3489f#rd)
+    - 时间：2023-10-13
+    - 摘要：内心越多恐惧，越容易「爱而不得」
+- [容易导致抑郁症的10种思维模式，你有过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825704&idx=1&sn=9437dd25fa178965a74b4267e812dce8&chksm=9fcbd06ca8bc597a24fe59e5352251197388dd948313edce7aa2500487dc822234e77be68d8d#rd)
+    - 时间：2023-10-10
+    - 摘要：给自己做一次“最全心理体检”吧。
+- [间歇性厌恶伴侣：是不爱了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825579&idx=1&sn=2a8557d58f9af6d2b6c83b1ae40deec2&chksm=9fcbd1efa8bc58f929cefc18cb965b9786616f3899cce192eda23cb68e532e51da62547ddd65#rd)
+    - 时间：2023-10-08
+    - 摘要：来看看研究怎么说
+- [决定亲密关系质量的「滑动门时刻」，大部分人一不小心就会错过 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825467&idx=1&sn=11f926a751d2904c4a38d70cb42d6d42&chksm=9fcbd17fa8bc5869a218e23d2a37b422ab1ed431ea9cc82aeb3a2f5a214e46c9f677a710ec85#rd)
+    - 时间：2023-10-07
+    - 摘要：关系中回应很重要，什么时候回应更重要！
+- [足不出户也能社交？｜KY免费社群持续招募中~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825467&idx=4&sn=2e8cb4c0cf656fb992c6fe4bba42c7e4&chksm=9fcbd17fa8bc5869f1f57924797768fb6f1291d231ac1d0a94271deb4a82cb297ce1e62d973d#rd)
+    - 时间：2023-10-07
+    - 摘要：
+- [学习心理学是我对自己最好的投资丨0基础心理学入门课程](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825302&idx=3&sn=fd1b0aee936a8bdc01b7dbae9b95e059&chksm=9fcbded2a8bc57c4ff36a9ec5b2ed85878840af0671288e39cc1379d52f2258f3f4b24ae6501#rd)
+    - 时间：2023-10-03
+    - 摘要：
+- [什么样的生活是“值得过的”？我们通过研究总结了这12条标准——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825301&idx=1&sn=64f37d728ce61b56bdc449ede9f88fa6&chksm=9fcbded1a8bc57c7db2cc7c80a61229c62c988e9621f097cb873e1fa5c3385ec0b5e917930e2#rd)
+    - 时间：2023-10-02
+    - 摘要：越早想明白这个问题，越容易获得幸福。
+- [伴侣情绪不好？做对这3件事是关键——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825300&idx=1&sn=6bff76bf340e6a940ce368c2acda4303&chksm=9fcbded0a8bc57c6b6bed5dd3a68645fb287d5c36048b7a05b0761d11d8fd026e9ae42b4be8f#rd)
+    - 时间：2023-10-01
+    - 摘要：一个伴侣的顶级能力
+- [“先得到人，再得到心” —— 用霸道总裁的逻辑寻找伴侣，会幸福吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825290&idx=1&sn=acbb2a5e6b6d18e1cf7d90591b29eb97&chksm=9fcbdecea8bc57d88516b6bb0e957125579a44b2376e2de2798e7919143393cd108e47b3d993#rd)
+    - 时间：2023-09-30
+    - 摘要：有人曾经直视你的灵魂吗？
+- [想念一个人，就是想和ta一起走很多很多路。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825289&idx=1&sn=aa95f197ddcb5a3f5a495a3c0d733e1b&chksm=9fcbdecda8bc57dbf8f9f09e5168b76a8ea4ff466885019a78341bbab365c33d40594b0762c2#rd)
+    - 时间：2023-09-29
+    - 摘要：当我路过所有快乐和美好，多想你就在身旁。
+- [这样虚度时光，才是真正的放假。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247825288&idx=1&sn=0c6c42ab108f78639431cb4657c053cc&chksm=9fcbdecca8bc57daa874a1ad970490692bee866113cf31d1f24c38779a5910fe6303b944f919#rd)
+    - 时间：2023-09-28
+    - 摘要：国庆浪费时间指南
+- [这几天上班都在「摸鱼」？不怪你，背后是有科学解释的——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247824771&idx=1&sn=48b600adec276a703abf49ae01caf509&chksm=9fcbdcc7a8bc55d1597965c5dbd9af2f4d1178d78307e2c954c74a022abbd4083ea09f01c6e8#rd)
+    - 时间：2023-09-27
+    - 摘要：身体里这个东西进入「低谷」状态，真的会让人不想上班——
+- [这十种关系中的「隐性情感虐待」，你未必察觉到，却杀伤力极大——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247823910&idx=1&sn=ac01938f9a81369dfd848ce31e3cdb77&chksm=9fcbdb62a8bc52749a1f60069fafd2628124cfcb173b51b1398d9b947e61bfffee3d410e6b4a#rd)
+    - 时间：2023-09-24
+    - 摘要：别再给他人伤害你的机会
+- [在爱情里，「温柔」才是必杀技。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822956&idx=1&sn=abba32cc6bd578ed88f65e485a246384&chksm=9fcbc728a8bc4e3ec85167f2ab5433ac71c4d15e3a63c6c4899c76431327db6297505f3f99ec#rd)
+    - 时间：2023-09-19
+    - 摘要：有过一个温柔的爱人，此后的一生都不会忘记。
+- [90%的人低估了的「隐形情感伤害」。如果你无法被爱，很可能是经历了却不自知——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822702&idx=1&sn=6a6325909b9ea15b172a219d371cbf7c&chksm=9fcbc42aa8bc4d3cb6af4fcbaceb2dd85e639ca8610cce662df749764dbe9a21ef2ac4db2cf5#rd)
+    - 时间：2023-09-18
+    - 摘要：爱的反面不是恨，而是漠不关心
+- [「高质量友谊」的7个标准，拥有的人请一定要珍惜](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822646&idx=1&sn=8c3ed144a6ba056357e107c8a1336ef7&chksm=9fcbc472a8bc4d6448560a44a0b673aab784ac1559ebdca45fb19116f7067757469a13554944#rd)
+    - 时间：2023-09-16
+    - 摘要：看完这篇你想起了谁？
+- [这个不起眼的小动作，经常做就一定能毁灭任何关系——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822478&idx=1&sn=381a01dd3d4e77b9548f1945c13e47ab&chksm=9fcbc5caa8bc4cdc74db21a99542c330262175cec699475e0c08c2d7b0cf1914266d6122bec6#rd)
+    - 时间：2023-09-14
+    - 摘要：亲密关系里挥之不去的阴影
+- [我们不必认识，只要留下温暖给彼此｜KY社群成员免费招募中～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822445&idx=4&sn=8d7e6a2ab5ef97183d847b61d960b222&chksm=9fcbc529a8bc4c3f2afb605378ee4339635012b63c3bba7860832e1c92902b794489f6b8c9a6#rd)
+    - 时间：2023-09-13
+    - 摘要：
+- [从70后到10后、从i人到e人：为何大家的色彩偏好大有不同？｜KY情绪色彩白皮书](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822403&idx=1&sn=ac369d26f6bd5e81b9f1583a5c947103&chksm=9fcbc507a8bc4c1148e549f12514949b61fa93934ce2fd9e3690a1064b1c794eb03fd467b2ad#rd)
+    - 时间：2023-09-12
+    - 摘要：「你是谁」的秘密，可能就藏在你偏爱的色彩里
+- [“未被表达的情绪，永远不会消失。”如何走出情绪低谷？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822403&idx=3&sn=2022b4b6d71e6beffb0dd17f1bf5c0ae&chksm=9fcbc507a8bc4c11b3c57d15c080cda46a3416edc84cc630ec0670c8d6e291bc74fb42a8bd88#rd)
+    - 时间：2023-09-12
+    - 摘要：
+- [我曾经历黑暗，所以不愿他人再身陷其中｜心理学「助人助己」入门指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822151&idx=2&sn=e4f4fcc0d6c8d5e638d30729fc334674&chksm=9fcbc203a8bc4b151e17c96fcce5ffbe4f8356d06c43d9b7f3e3540857df2596b74a5201bffb#rd)
+    - 时间：2023-09-11
+    - 摘要：
+- [越休息越累？深度放松 唤醒自我的「21天正念营」限量招募——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247822151&idx=3&sn=049a7a55d0ec84853c55cbcc253a3c9e&chksm=9fcbc203a8bc4b1500ab32cf502348bbd5bce8d73944c2f8f717cee401b805df4a3105282dba#rd)
+    - 时间：2023-09-11
+    - 摘要：正念打卡，能量回归！
+- [学费全返「21天正念打卡营」，告别情绪内耗，提升专注回归当下——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819613&idx=2&sn=88c7fe33ae6985df1c89a01763a99288&chksm=9fcbc819a8bc410fe81a6c734920a5493a902306c6d9b5d6e175d6bf15af8674da1869a6f9a3#rd)
+    - 时间：2023-09-10
+    - 摘要：正念打卡，能量回归！
+- [道理都懂，却依旧过不好这一生？在关系中获得改变的力量。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819613&idx=3&sn=73d3d69fcafde85df2cf2360d1f2a694&chksm=9fcbc819a8bc410f4bceb52e9f0c83246635c3d4af31778d7131d0384b55126a0faf042cc330#rd)
+    - 时间：2023-09-10
+    - 摘要：
+- [足不出户也能社交？｜KY免费社群持续招募中~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819613&idx=4&sn=8030769faff85238fad9d95a0f0ba58f&chksm=9fcbc819a8bc410fedc99a5b4c13a4eaa771c750575f1ba84d74bc09ea596ebb92141a725491#rd)
+    - 时间：2023-09-10
+    - 摘要：
+- [情侣吵架看似五花八门，实际只有这3种。后悔没有更早知道！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819612&idx=1&sn=414b8b3e9727fb6a94dd946ea1a86526&chksm=9fcbc818a8bc410e94b0d6bdf9af693468e57b3f3ecd86e847813106904702eeb24d40a3e457#rd)
+    - 时间：2023-09-09
+    - 摘要：会不会好好吵架，决定了伴侣间的磨合水平。
+- [不要高估你和任何人的关系丨保持边界感是最高级的尊重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819612&idx=2&sn=0d0ec91b741a8c10fc73d90c58526be1&chksm=9fcbc818a8bc410ea92349e18412fa1a14b820cca617548e127fc7c7abef5227e99963a72c5f#rd)
+    - 时间：2023-09-09
+    - 摘要：
+- [学习心理学是我对自己最好的投资|0基础心理学入门课程](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819612&idx=3&sn=88acebd5b71f485d733873b78fabcd35&chksm=9fcbc818a8bc410ec25c9b291b1b51f31d0d96252d4daad91b5ff5f5051795d460cfa2a75227#rd)
+    - 时间：2023-09-09
+    - 摘要：
+- [如何持续保持高能量状态？学费全返 走出低谷「21天正念营」限量招募——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819612&idx=4&sn=9086fd3a2b04f2a9f35c2e0414c5a046&chksm=9fcbc818a8bc410ec6e6fd9a096b8595a2b3d7f0ccef505fab9f2836929ff052df7f2cbb56d0#rd)
+    - 时间：2023-09-09
+    - 摘要：正念打卡，能量回归！
+- [不要小看一个能够及时行乐的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819606&idx=1&sn=a2ba12a9d35f592116461f00ad0ede1d&chksm=9fcbc812a8bc41040ad95e15038255b1b0c486381d4951a49f800f7f0456735a4f65974336d3#rd)
+    - 时间：2023-09-08
+    - 摘要：及时行乐的人通常具备这三种稀缺特质
+- [躺平5分钟=深睡1小时？学费全返「21天正念营」 提神醒脑恢复精力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819606&idx=2&sn=b1d9aaf48b5ea6db2874645ccfeef87e&chksm=9fcbc812a8bc410492b6b7c91089f2f2e4b9eb9906f89fe7e1ae9689b1536d3398908b116b09#rd)
+    - 时间：2023-09-08
+    - 摘要：正念打卡，能量回归！
+- [焦虑是自由带来的眩晕｜KY线上读书会带你读懂焦虑的意义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819606&idx=4&sn=2cc1c471ec6a27478d7f8987f29743d1&chksm=9fcbc812a8bc4104fa2b359e249bb13688a784919e0a749f3955e8256328a7af137f92988c96#rd)
+    - 时间：2023-09-08
+    - 摘要：
+- [大家都在讨论的「新职业」｜快点进来了解详情...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819493&idx=2&sn=970547daecfe9edde64d9360260922b0&chksm=9fcbc9a1a8bc40b752f2820c8377dde00d23edacca7e5ea1677b3bdc1a97f6e27be7fcf60887#rd)
+    - 时间：2023-09-07
+    - 摘要：
+- [学会自我肯定，改善消极思维！学费全返「21天正念营」开启自我蜕变——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819493&idx=3&sn=d25cdee9d4a608627c39ccd9f49e3c11&chksm=9fcbc9a1a8bc40b732b0680a09ee31c0d3830e2ee6b99ee22f5d1e6eb4ec14a57b270250024a#rd)
+    - 时间：2023-09-07
+    - 摘要：正念打卡，能量回归！
+- [东亚父母的6种典型教养模式，经历过一种就容易产生「不配得感」——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819414&idx=1&sn=cbbde5c6d57592452303d026a305464e&chksm=9fcbc9d2a8bc40c40251f01b65bea7966a4d38bb0d0991707e31df82a33548fe4165f34541ae#rd)
+    - 时间：2023-09-06
+    - 摘要：为什么被「东亚父母」养大的小孩，很多都不快乐？
+- [再好的伴侣，也无法抵抗“消磨爱意”的关系模式。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819414&idx=2&sn=5c95b7ad39b3cd866b4f03c2747c64b3&chksm=9fcbc9d2a8bc40c43e437c55fb1569a7a8ee51b51dd3ec703a39b496d0442b68656d9f47e5e2#rd)
+    - 时间：2023-09-06
+    - 摘要：“想和你一起走下去。”
+- [退一步海阔天空还是乳腺增生？| 躯体化告诉你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819414&idx=3&sn=6f24290e451762664b4ec0b499c17f03&chksm=9fcbc9d2a8bc40c4d987121dbfb8b35934e39a099548b19b68bdd48695181a3217c5443fec7a#rd)
+    - 时间：2023-09-06
+    - 摘要：
+- [学费全返 「21天正念深度疗愈营」限量招募 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819414&idx=4&sn=aa09fd5fc77fa735cd62ebedcd3f1054&chksm=9fcbc9d2a8bc40c4109fa8158e56439d9f50dec5ff42782f22943e18ab1a34dfacb7549ed658#rd)
+    - 时间：2023-09-06
+    - 摘要：21天，养成正念健康生活吧！
+- [你离摆脱焦虑只差一步丨KY线上读书会夏超带你读懂心理学](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247819414&idx=5&sn=495d686c71e711f816c2bb870f781ef4&chksm=9fcbc9d2a8bc40c4302c32971a799c86582607fe1fad1af3f6299f9675d2e2ff03f7d21affa8#rd)
+    - 时间：2023-09-06
+    - 摘要：
+- [每一个情绪「高敏感」的人，都藏着巨大的潜力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818986&idx=2&sn=a09bf259ed74f9a4dc003051c28c42db&chksm=9fca37aea8bdbeb823d2d949bfea033f29921e08229e8ad9249d83f0fe1d85a5f8b42540d8f8#rd)
+    - 时间：2023-09-03
+    - 摘要：
+- [我们该在亲密关系中寻求治愈吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818986&idx=3&sn=0c157488aa6db7f4d0f7c6e937ba76f2&chksm=9fca37aea8bdbeb897fa0e315f1b8d9925529ea8fe0675b7b726bc9d0af0c6281f10c9475396#rd)
+    - 时间：2023-09-03
+    - 摘要：
+- [躺平5分钟=深睡1小时？学费全返「21天正念营」 提神醒脑恢复精力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818986&idx=4&sn=428003bd66a829670cdd94d98c291819&chksm=9fca37aea8bdbeb8cdd7bd5cc20dba22c73e07a524758231bbb8c5eff80fee8d1dbeeee25eb6#rd)
+    - 时间：2023-09-03
+    - 摘要：正念打卡，能量回归！
+- [做对这一件小事，就能让你爱的ta深深依恋你——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818984&idx=1&sn=fa8e107152a5f703692b99cd33fd85b0&chksm=9fca37aca8bdbebaeb3448c3e22621e714d7f169d55110ffc23cefd8c3cef1521a7ce4e9bc97#rd)
+    - 时间：2023-09-02
+    - 摘要：懂得这样安抚情绪的伴侣，谁不想要？
+- [冷知识：情绪垃圾不一定要倒给朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818984&idx=2&sn=ab5708505583f371bf575f2172f926c3&chksm=9fca37aca8bdbebaad4a0eb5c7330901dd81be351449b426d9f14acaa758920a7a4d64883b13#rd)
+    - 时间：2023-09-02
+    - 摘要：
+- [心理学不仅「助己」又能「助人」｜萌芽16期早鸟优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818984&idx=3&sn=7a7b30d6045c9a02c5df1747db7faf7e&chksm=9fca37aca8bdbebae9e4f84d02cafbf5eeee1e1afca6621c39dd2cd407e2b82c950a706621e8#rd)
+    - 时间：2023-09-02
+    - 摘要：
+- [从焦虑中突围丨不只是读一本书，而是开启人生的转折！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818984&idx=4&sn=232d4a26e63ae558329f4b5ace85fba0&chksm=9fca37aca8bdbeba86e73605494de7474cda4ab4bc8426eb5d6a885630da000249cb1670665a#rd)
+    - 时间：2023-09-02
+    - 摘要：
+- [带你用低成本探索30倍增量的新职业｜萌芽早鸟价2990开售](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818934&idx=1&sn=2268c956131ade12e9a66042b4099f96&chksm=9fca37f2a8bdbee45d12da8bf4c884105b6bb84e975ac2a8a141298b8f358109106440a7fbb8#rd)
+    - 时间：2023-09-01
+    - 摘要：
+- [不是自卑，是勇气的升华：进步是与自己的过去比较](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818934&idx=3&sn=a23eeca03d720b0a0779671b7c8e2bba&chksm=9fca37f2a8bdbee4e74d8d2cc5848206920ea79598577d06b83507f5b3357beb1088b7914f7a#rd)
+    - 时间：2023-09-01
+    - 摘要：
+- [拥抱的时候，身体会发生什么？科学拥抱指南——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818336&idx=1&sn=f0ecda3889cc3e0977a56a640ea394db&chksm=9fca3524a8bdbc329f4f7cbd0a65804bffaea38b7dc3fcc6b30ff48623aa67ebde3efa227244#rd)
+    - 时间：2023-08-30
+    - 摘要：拥抱比亲吻更令人心动
+- [什么都没做每天感觉累？学费全返 消解疲惫「21天正念营」最后2天——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818336&idx=2&sn=d18ca71c0fabd868e7210ddae5cf9d64&chksm=9fca3524a8bdbc32d7f20476d3a34ed00db5189fb4426fa4f1946187210cb1f4d70ffdd06ace#rd)
+    - 时间：2023-08-30
+    - 摘要：正念打卡，能量回归！
+- [KY招聘丨多个全职、实习生岗位等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818336&idx=3&sn=2d9bc09aa925a9049d078e19c4f70bf3&chksm=9fca3524a8bdbc329949b1a78d4b1607ab0c93c6d1ce26702f945b3c9cf87a75f5b010c2d2f9#rd)
+    - 时间：2023-08-30
+    - 摘要：
+- [研究发现，高颜值也会成为亲密关系里的「挑战」！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818225&idx=1&sn=afddf8ebbbfd26a18791efe5f61b3930&chksm=9fca32b5a8bdbba3489b56052d8c7d990f300367bd078fdff9b560a51e126ed96d3b363c4806#rd)
+    - 时间：2023-08-29
+    - 摘要：颜控们请注意！
+- [如何持续保持高能量状态？学费全返 走出低谷「21天正念营」招募最后3天——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818225&idx=3&sn=bdf273a8dc890b6eda4c55e40324596b&chksm=9fca32b5a8bdbba31c679c77edfc70580194033d378f784d30912b67d76030eb174c0ccaa929#rd)
+    - 时间：2023-08-29
+    - 摘要：正念打卡，能量回归！
+- [焦虑=机会？！焦虑背后的秘密你一定不能错过！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818225&idx=4&sn=5b3f174df928b474a455a57b149e45ba&chksm=9fca32b5a8bdbba34f766c90901bbd97651796bcfe57ba7c91e9c7ab5533a8aac09d1fc8ebcc#rd)
+    - 时间：2023-08-29
+    - 摘要：
+- [研究发现：过多幻想未来的人，更难过上想要的生活！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818100&idx=1&sn=2bd91ccb94f4d2c8063c863de01eb2c9&chksm=9fca3230a8bdbb26efb034f5785ed3f5d48f7982874c7cdf148685394f3fd42ee8d5e97dfa18#rd)
+    - 时间：2023-08-28
+    - 摘要：如何才能真正地「活在当下」？
+- [学费全返「 21天正念深度疗愈营」​限量招募最后1周——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247818100&idx=2&sn=320a06ea294b5196c3945c70dc053363&chksm=9fca3230a8bdbb26b246f48ea6207dd8ab3ab9296db80ba44570ef1f5367f21ca8567b2f12e1#rd)
+    - 时间：2023-08-28
+    - 摘要：21天，养成正念健康生活吧！
+- [有些父母给孩子的不是爱，而是“投资”。「被投资」对孩子有什么样的伤害？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817774&idx=1&sn=5fac4bf9861cc72c42c4f5a79ebe79f2&chksm=9fca336aa8bdba7ccea8ebc08d34e10136a39c9175f292cb61da4b42c20064cee21c794e7016#rd)
+    - 时间：2023-08-27
+    - 摘要：投资型教育vs爱的教育
+- [看完披荆斩棘3，我发现了人生下半场「突破自我」的秘密](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817774&idx=2&sn=91b35b825b9841e77fceb079a3650a60&chksm=9fca336aa8bdba7c2954ab4d18803bd71e468cad4ada26f2f2f774c088d39faf45de6e01c05b#rd)
+    - 时间：2023-08-27
+    - 摘要：说好了不哭，但实在没忍住
+- [心理学不仅「助己」又能「助人」｜萌芽16期明日开售，抢早鸟优惠](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817774&idx=3&sn=4895d6adcf0ea3e83071d4a119507df4&chksm=9fca336aa8bdba7c5070839b1cb78735081c4131ca5e5ffed8c8534511703c9b695ab5267904#rd)
+    - 时间：2023-08-27
+    - 摘要：
+- [被迫卷入“睡不好怪圈” ？ 学费全返 21天正念打卡| 缓解焦虑改善失眠——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817774&idx=4&sn=86e7c1b09102c994da4ed044a6a8a623&chksm=9fca336aa8bdba7c3b3da7a12150c83605f9360f4300517b8b3852f6e89333709cb79e7ce243#rd)
+    - 时间：2023-08-27
+    - 摘要：KY爆款正念营福利活动，仅此一期！
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817774&idx=5&sn=61dc20bb3ae899ad1715f80d4fe0c20b&chksm=9fca336aa8bdba7cee6d8ed75c4b1944ac4c5e55f6f9acffbcaab91851b98439bd59e1e86643#rd)
+    - 时间：2023-08-27
+    - 摘要：
+- [道理都懂，却依旧过不好这一生？在关系中找到改变的力量。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817619&idx=3&sn=88a7e4af35fd96d6b56a5d479134a1f0&chksm=9fca30d7a8bdb9c1969e30a88df404d8f06469c9ac36832e4d57eb58926a56197f9217c700ca#rd)
+    - 时间：2023-08-26
+    - 摘要：
+- [停不下来的焦虑，该怎么办？ | KY读书会带你解决~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817619&idx=4&sn=240eb06105303c691538eff7834f82f8&chksm=9fca30d7a8bdb9c1140f53c5a57c003497d0c0fe52a099ec44c12414ff16c283f17ffbe173a8#rd)
+    - 时间：2023-08-26
+    - 摘要：
+- [学费全返「21天正念打卡营」，告别情绪内耗，提升专注回归当下——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817615&idx=2&sn=f20e674a6772cbd0e1602a74138730aa&chksm=9fca30cba8bdb9ddafaf42bb9b41b8944202eaa5e07d7332f429b7e8f5dfac0fd5f88e3f73ca#rd)
+    - 时间：2023-08-25
+    - 摘要：正念打卡，能量回归！
+- [能掌控自己情绪的人，往往活得更从容](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817615&idx=3&sn=2d1fe2838cbe40faf94eda2f0d8543aa&chksm=9fca30cba8bdb9dd3a1c440fb2a21748ce58d165f151ad515eb8968a8c415958f524d5a400a7#rd)
+    - 时间：2023-08-25
+    - 摘要：
+- [如何提前识别一个会对关系「不负责任」的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817529&idx=1&sn=ce9a7d1a51074f2e77977f8b7d0b0584&chksm=9fca307da8bdb96bd92d422db049a900b911ac8d27d6cbd496098136375dd71e6f72513e91f3#rd)
+    - 时间：2023-08-24
+    - 摘要：快来看看ta在交往初期有没有这11个表现
+- [长长长假也无法修复的疲惫内耗？这份回血自救指南建议你试试——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817489&idx=1&sn=38c3423b014de9dc2e492afed9efa5fb&chksm=9fca3055a8bdb9433778068214d02fb3b94fff39e266e3deae174319ec724933f8a152b5b089#rd)
+    - 时间：2023-08-23
+    - 摘要：21天，养成正念健康生活方式！
+- [再好的伴侣，也无法抵抗“消磨爱意”的关系模式。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817489&idx=3&sn=adfbc08523d59ffc586cacb8d6ed4c53&chksm=9fca3055a8bdb94391b40d745a277d7d4196555fd11e116c88155e94766e2911cb51cdad2018#rd)
+    - 时间：2023-08-23
+    - 摘要：“想和你一起走下去。”
+- [「暂停」不是逃避，而是迈向松弛生活的「捷径」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817426&idx=2&sn=46d519d16d753252f1955a717afe2406&chksm=9fca3196a8bdb88099ac71103d055f6778e43d3cc9f255936b2b45e701a79c845880fee351ad#rd)
+    - 时间：2023-08-22
+    - 摘要：请与我一起！用「心」去旅行
+- [学费全返「21天正念打卡营」，告别情绪内耗，提升专注回归当下——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817426&idx=3&sn=78d8af696fff643f99b608a80e5eca3b&chksm=9fca3196a8bdb880b708086e20aba85a574564249f7b687327a8115200263352bbe1f97c9092#rd)
+    - 时间：2023-08-22
+    - 摘要：正念打卡，能量回归！
+- [2天陪你探索心理咨询师行业 ｜学习如何既能「助己」又能「助人」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817426&idx=4&sn=fb36b66255c575d54ef2b5d564e2bc44&chksm=9fca3196a8bdb8800ca28657d66fbec2161ed8f8b6ca5d54415628b5f841b8e24f7c0b18885b#rd)
+    - 时间：2023-08-22
+    - 摘要：
+- [99%的人都干过，但很少人知道这就是「无法沟通」的根本原因——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817154&idx=1&sn=275429a9dbf7b78ecab420bc57555048&chksm=9fca3e86a8bdb790f04f3b8e02c340962301d4777ea9e6d459fe068c5e1414fa9bd6884c3b25#rd)
+    - 时间：2023-08-21
+    - 摘要：当沟通中有了防备，沟通就变味了
+- [坚持打卡 学费全返 「21天正念深度疗愈营」限量招募——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817154&idx=4&sn=3f058a2dfc7d6a7b5652cf730ffe78c2&chksm=9fca3e86a8bdb79027e033646941941bee71c7caabb6ae700b959759676d2afb875e8d7db02b#rd)
+    - 时间：2023-08-21
+    - 摘要：21天，养成正念健康生活吧！
+- [“我好像没那么爱你了〞｜感情走到最后都会变质吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817118&idx=4&sn=0948b16c74657464d6961adbfc3f062c&chksm=9fca3edaa8bdb7cc39e75e41b0ff918f30b8ae02abcc9131d4e9576eba83078b5c7d7cd47b48#rd)
+    - 时间：2023-08-20
+    - 摘要：一个底层逻辑让你读懂亲密关系
+- [「我会像猫咪一样爱你」猫系恋人才能给的10种体验，你有过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247817061&idx=1&sn=20dcf36d7b96b4742519d41b8b9fc730&chksm=9fca3e21a8bdb7371820124defe7335e5f41d19a39a8700caccb2b9efbb731dda1a798bcf686#rd)
+    - 时间：2023-08-18
+    - 摘要：如何当一个「立体的爱人」？向猫学习。
+- [爱情消失的5个步骤](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247816983&idx=1&sn=ab63d103b32c680f7a93882d7cef2119&chksm=9fca3e53a8bdb745d0d149c138490f89a651361da1ff0cbd4159c9b3c0251ac3f065ae100d29#rd)
+    - 时间：2023-08-17
+    - 摘要：每一步都还有机会挽留
+- [做到才是真爱！「容忍伴侣给的压力」为什么如此重要？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247816937&idx=1&sn=5620468ac3067230cf5b358c454ebc7f&chksm=9fca3fada8bdb6bb251186321107dd2fa2695ae940f376fbe802c20a85e0deb7c8b94b6f9e47#rd)
+    - 时间：2023-08-16
+    - 摘要：这件事难倒了90%的情侣
+- [伴侣间也需要学会「好好说谎」。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247816882&idx=1&sn=5bf9c29aa286420a751983113dec8928&chksm=9fca3ff6a8bdb6e071d166ce5219c69d5c8fc1e9e04c9fcc39ec1e6b28bf947997bb0d9e6e8a#rd)
+    - 时间：2023-08-15
+    - 摘要：自私的坦诚并不比善意的谎言更优越。
+- [「我还爱你，但不再喜欢你」有些关系的终结，始于这种感觉的缺席](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247816854&idx=1&sn=b99969f6024efdb89fe8f81c9127b8db&chksm=9fca3fd2a8bdb6c466e9bf1181f6094529224083c172117fef68f80f3399bcd96f817b9b43b0#rd)
+    - 时间：2023-08-14
+    - 摘要：婚姻中只有爱是不够的，还需要这种情感
+- [单身vs有对象熬夜玩手机有什么差异？哪三大行业熬夜最多？｜当代人熬夜白皮书](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247816617&idx=1&sn=41734deb2e13e50c05bb1c7dc96adc27&chksm=9fca3ceda8bdb5fb9a3cf43188d4286c8609314974269ed6911453d48a43e2adbe9c8c6a8678#rd)
+    - 时间：2023-08-11
+    - 摘要：为什么现在的人都戒不掉熬夜？
+- [“我在你身上体验到了家的感觉。” 这是一种什么样的感觉？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247816380&idx=1&sn=5ff9032de4ec72b3d392aa1e863a8ff5&chksm=9fca3df8a8bdb4eecab26a6985806153e7080f18c6b4227e8a45d0331ab491dcf04635df7de1#rd)
+    - 时间：2023-08-10
+    - 摘要：人生中唯一不变的起点。
+- [“活着没意思” 丨连咨询师都无能为力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247816380&idx=4&sn=f7416c2a86a8c1eb8a52191adee1e537&chksm=9fca3df8a8bdb4ee81db89753fcd8f61483694b090b16c9611b82a96d2f870b9037f11a01b42#rd)
+    - 时间：2023-08-10
+    - 摘要：
+- [有这9种行为的人，很难得到尊重自己的伴侣](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247816161&idx=1&sn=04e2b25385aeea8f008bf5d1b612cb98&chksm=9fca3aa5a8bdb3b3b29366aa4d3dc59a0a35d1a6e201aef0b1d07bb5dbdc0ab98c9f6e0e4cd7#rd)
+    - 时间：2023-08-08
+    - 摘要：爱他人的前提是好好对待自己。
+- [有这11种表现的人，一定就是「不够喜欢你」（一文“骂醒”）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247815310&idx=1&sn=3120d3787ea947c874db80fdf6181321&chksm=9fca39caa8bdb0dc4f2cddc78612f9f4643f0327df9ea0a38bce496aa61cbcc51c1020ba1e4e#rd)
+    - 时间：2023-08-06
+    - 摘要：今天是一篇骂醒文
+- [“卧底”高质量脱单社群！KYer收藏的脱单攻略被发现了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247815213&idx=2&sn=25ed2d1dc0f9b73daf040c62a86a79c2&chksm=9fca3969a8bdb07f2f54cc55f1d50ae3f0c83b65d03f8f872ffcce6623a941d154364b0e6332#rd)
+    - 时间：2023-08-04
+    - 摘要：科学脱单，找到对的人——
+- [拒绝内耗的心理小技巧：为你的内心搭建「安全岛」| 8日正念打卡，最后4天！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247815213&idx=3&sn=e1ab9386ca8b37187b2c7886f893c921&chksm=9fca3969a8bdb07f3fa15153670289d5dd7af514fe6330e8a8a29857d4a70088986dcc4b493c#rd)
+    - 时间：2023-08-04
+    - 摘要：KY爆款正念营福利活动，仅此一期！
+- [只有真正亲密的人才会有的小动作，你和ta出现过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247815093&idx=1&sn=fde0298e91671002fed3149e5f55396d&chksm=9fca26f1a8bdafe7c9539984d500ae75369383b209cc0d8aa2c27bb90776cc8d762d1dd762c6#rd)
+    - 时间：2023-08-03
+    - 摘要：一种亲密的人之间才会有的可爱又奇妙的互动。
+- [为什么我们会对一个人产生长期深度的喜欢？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247815043&idx=1&sn=004cd0d1d499b5685ca54ec6ef65834c&chksm=9fca26c7a8bdafd1f4b989eed0979dd0fcce236648c76f860df3e47662bb0ecff3dbf9d80ab0#rd)
+    - 时间：2023-08-02
+    - 摘要：长期深度的喜欢并不是一时的上头，而是一种「不厌倦」。
+- [研究发现：基于浪漫和性的婚姻，竟然更不稳定？！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814924&idx=1&sn=8c96df8d68a5e37ef8a1e31414922edf&chksm=9fca2648a8bdaf5e1812323de8bad31968049dd3646c50a4bf678ae02dfddcc3f562b02b754c#rd)
+    - 时间：2023-07-30
+    - 摘要：什么样的婚姻更稳定？
+- [恋爱中的“自卑感”要怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814904&idx=5&sn=dd258b44bdf895e9b04f0011f141c5cb&chksm=9fca27bca8bdaeaa3208b2956170372d660302fd1dc387ab15105aa4fac8f5b16e926cfa724b#rd)
+    - 时间：2023-07-28
+    - 摘要：
+- [值得被帮助的人，都有这4个特点｜什么时候应该「放下助人情节」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814757&idx=1&sn=4d8865d4fb34f265be77abfed9d6c1b2&chksm=9fca2721a8bdae370160b1567b039f37b1c73d79440caa678f42291cbbf964cbd9c79cceff2e#rd)
+    - 时间：2023-07-26
+    - 摘要：「有毒」的帮忙，只会害人又害己
+- [刮起粉色风潮的《芭比》，到底讲了一个什么样的故事？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814711&idx=1&sn=78db6728bd6dce461ad0e2eb813d4e66&chksm=9fca2773a8bdae65b3af20940ba476e0b711540665e801a1ed0fabac7e0876c2165112fddc22#rd)
+    - 时间：2023-07-25
+    - 摘要：它不仅仅是在讲女性主义
+- [爱情死掉前的9个信号——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814587&idx=1&sn=b7472bea06eab66286b496b6e12ec9b9&chksm=9fca24ffa8bdade9ec518c07e8dfdbe0f5e21275088dddb285389e5a76e7c87e63a01a792af0#rd)
+    - 时间：2023-07-23
+    - 摘要：心理学家Gottman的亲密关系研究系列
+- [熬夜的时候干什么最快乐？｜年轻人熬夜大调查](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814557&idx=1&sn=692d73ea21475888424ab5fd68308948&chksm=9fca24d9a8bdadcf7a3d17a90a89999d471d22ae47558974f27d6a16813dfcd7dcbad71bf466#rd)
+    - 时间：2023-07-22
+    - 摘要：为身体睡觉，为灵魂熬夜
+- [“我好像没那么爱你了〞｜感情走到最后都会变质吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814545&idx=3&sn=3aa00dbd5c560739a5dd5810dae81024&chksm=9fca24d5a8bdadc3a19d769c7613cfa330b3f58d98109907e4c361f0b0c82ac7369699573e35#rd)
+    - 时间：2023-07-21
+    - 摘要：一个底层逻辑让你读懂亲密关系
+- [我们到底能不能期待在一段关系中治愈自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814408&idx=1&sn=4485bd95abbd058931a5500c804b4917&chksm=9fca244ca8bdad5a2243b413bb7fbbf6f452c35359de7b89bd5ee4bdb7e92e417d043af10c49#rd)
+    - 时间：2023-07-20
+    - 摘要：在关系中自愈和愈人，理应是美好且正当的追求。
+- [10条判断标准，帮你找到生活中「同频」的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814299&idx=1&sn=02aec4374e9058d64e0e475440725000&chksm=9fca25dfa8bdacc9db2c82f34b300649034b2de8258d7f2bcbf87cbad294abbd825bbde07f86#rd)
+    - 时间：2023-07-19
+    - 摘要：最让人羡慕的关系状态。
+- [“总是抬杠”会使人变笨。研究发现，说话方式会改变我们的大脑——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814132&idx=1&sn=e106e971150f2e5e9b01d70814f32e78&chksm=9fca22b0a8bdaba65de50cd5f9dc14b51ab956e4da6b1d41d2e9c44e80d321b91011ad860652#rd)
+    - 时间：2023-07-16
+    - 摘要：不被察觉的说话习惯，还关系着心理健康
+- [“我好像没那么爱你了〞｜感情走到最后都会变质吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814106&idx=3&sn=23b21bb7bf7eae4f7c43b37bbf023488&chksm=9fca229ea8bdab8822fb8d6d3977d40decda1f37d8bb0330084eab6843ff16133d5f004e3588#rd)
+    - 时间：2023-07-15
+    - 摘要：一个底层逻辑让你读懂亲密关系
+- [总是存不下钱，可能是你和钱的“心理关系”不够好。一招帮你解决——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247814092&idx=1&sn=db0447a6b2a44d671a5e9d3be734fe24&chksm=9fca2288a8bdab9e65323153e8c58fce91775af32880b2d8d4432cc0480085074b0ec2673182#rd)
+    - 时间：2023-07-14
+    - 摘要：每个人都有自己的「金钱脚本」
+- [结婚后钱要放在一起用吗？研究说可以，但一定要注意这一点——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247813845&idx=1&sn=368e3a08d29206c2a9ac617c64281e7c&chksm=9fca2391a8bdaa8749a6ac77f83b6b38a572b63921e5f174fd8920b779df082e0a5586fd8c02#rd)
+    - 时间：2023-07-11
+    - 摘要：想要婚姻幸福，这方面的「共享」必不可少！
+- [这件每天都在发生的小事，很少有人知道它已经预示了关系的成败](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247813634&idx=1&sn=674e93cefb740ab7620f841dadb082eb&chksm=9fca2346a8bdaa50e4633937c9c6e240dc0552e89041f1b8667d99897a2574c25543d0e16ac7#rd)
+    - 时间：2023-07-09
+    - 摘要：脏衣服有可能毁了你的亲密关系！
+- [会对你做这件事的人，才是你最值得珍惜的朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247813581&idx=1&sn=a532c647b680981c9b09d1656be78a41&chksm=9fca2089a8bda99ff9c5099212e729cf85bdd6536df8fd82134276edecb9bf7a89711af678f9#rd)
+    - 时间：2023-07-07
+    - 摘要：看完这篇你想起了谁？
+- [自杀前，人们在想什么？｜微笑抑郁更伤更疼](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247813365&idx=1&sn=5f4d95b4a80e06a747efe09a7a46fec7&chksm=9fca21b1a8bda8a773c7a9a93fe13938ad09c3a05d060b46e430a29fabc92d1ef15d370bb0e6#rd)
+    - 时间：2023-07-06
+    - 摘要：抑郁者需要自救，更需要有人让 ta 相信「永远值得活下去」
+- [你为什么很难喜欢上一个人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247813252&idx=1&sn=32c5820a4b27e6d71b03fdad3c938f2b&chksm=9fca21c0a8bda8d6e9f3e763f0f5f265adcdfdba6f01a4644277c26b7238fa3907a30cbca0d6#rd)
+    - 时间：2023-07-04
+    - 摘要：与其说是有些人更容易喜欢上别人，不如说是有些人更愿意喜欢上别人
+- [想要好好生活，我们都要学会「逃避」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812983&idx=1&sn=06be2bc034360d20af30d361dcc8cc3c&chksm=9fca2e33a8bda72567af5f06afc61bc7af91b627d0d9dd20611cdeb915f873e44c0b9a31deef#rd)
+    - 时间：2023-07-01
+    - 摘要：有时逃避也是一种健康的解决方法。
+- [成年后如何交到一个好朋友？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812968&idx=1&sn=bc8a04b42c10b1a13ba1e0b68213a9ad&chksm=9fca2e2ca8bda73ae13286d0b1b5b12ade09942914b1f081da6f2a06c6bb52b0c565ec95abf4#rd)
+    - 时间：2023-06-30
+    - 摘要：交友实操手册
+- [恋爱中的“自卑感”要怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812968&idx=3&sn=5e9ac1f25728dc3e31f27188babbe4f0&chksm=9fca2e2ca8bda73a47b3244b7fedfae2471df4371029e21b4da64c8ae0245321fd48b1c6df89#rd)
+    - 时间：2023-06-30
+    - 摘要：
+- [从考虑结婚到婚后5年，大多数夫妻都在为什么吵架？结果如何？｜专题调研](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812805&idx=1&sn=ad3f92fca9b6cf66241f5e1c4a8f3f19&chksm=9fca2f81a8bda69701671f495e61eaea14b674cb47aa77380f432cc38fe174cd3868976d215d#rd)
+    - 时间：2023-06-29
+    - 摘要：猜猜冲突高发期是什么时候？
+- [你的人际困扰 ，90%都因为缺乏边界感](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812764&idx=2&sn=987c022ecc9a83e2d043cd3738eb5b56&chksm=9fca2fd8a8bda6ce1622b387a7bd0e36a9e87248346cb3e84ff3c1a3994fbbea849c29277f10#rd)
+    - 时间：2023-06-28
+    - 摘要：
+- [“爱是本能，但相爱需要学习。”如何建立健康长久的亲密关系？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812764&idx=3&sn=f6ba1662bee570ea1e9d10a16aa17846&chksm=9fca2fd8a8bda6ce2113cbefcf24050a631821c1139e938a90e073651c495de9e1912ac0d870#rd)
+    - 时间：2023-06-28
+    - 摘要：
+- [如何做到“永远不放下前任”？(建议反着做）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812721&idx=1&sn=14a275fa78e0bfa4535ffafc00eef5ff&chksm=9fca2f35a8bda62365fda333ff961676140537bef49ad2f602def4d6686fa90b22e177ae1efc#rd)
+    - 时间：2023-06-27
+    - 摘要：别让前任成为你的心魔。
+- [在这5种情况下发生性关系，你一定会后悔！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812653&idx=1&sn=20032aee46a3bf50526a5a5e79132816&chksm=9fca2f69a8bda67f3914033281a9c6dc3b570ed2d6509c39f1818c72a45693009b717cbd0357#rd)
+    - 时间：2023-06-26
+    - 摘要：发生性行为前，你一定要知道的事
+- [痛苦的背后，到底藏着什么秘密 | 人格阴影探索指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812653&idx=3&sn=06afe8cb769196433590f20416b5143a&chksm=9fca2f69a8bda67fd9dfc1857e5a6e3f417e42b3a7debd3a328ab18f4afdd2cd0a1a0e8b2ebb#rd)
+    - 时间：2023-06-26
+    - 摘要：你一直在带着什么样的人格阴影生活？
+- [“如果脱单有秘籍，一定是这个！”KY首档「脱单营」重磅上新——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812653&idx=5&sn=0527e9e24c9568981f0ba397e341a6e9&chksm=9fca2f69a8bda67fb84f9193f0e681207aec3a63ca6cced8520e8dc1ff596862934d64de289f#rd)
+    - 时间：2023-06-26
+    - 摘要：KY首档「脱单营」重磅上线——
+- [点击开启：影响你一生的16次选择](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812561&idx=1&sn=ebc017597ea8665d7a45089892d2a4d6&chksm=9fca2c95a8bda583a1a71535b8fb61fc6bd3c8844eecabeabbf552b7be7692c8697a90d80026#rd)
+    - 时间：2023-06-25
+    - 摘要：如何才能做出不让自己后悔的选择？
+- [“逃避可耻但有用”：关掉朋友圈3个月，会变得快乐吗 ？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812561&idx=2&sn=c93302d9026288ff784de2eaa2f6f76d&chksm=9fca2c95a8bda583fe7a91941c178ca94789b3ad377366408d4247abd48055ee9be79a9fa0df#rd)
+    - 时间：2023-06-25
+    - 摘要：
+- [人在接吻时会发生哪些心理变化？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812533&idx=1&sn=aa40b4e201d10f1fddcf6adb96a425ed&chksm=9fca2cf1a8bda5e7f8300f5be2412b98ea61ed88a54ebd4f276d8203ca8973538cff846eb9d2#rd)
+    - 时间：2023-06-24
+    - 摘要：ta是不是对的人，吻一下就知道～
+- [能掌控自己情绪的人，往往活得更从容](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812533&idx=2&sn=20db130c6975df2d1790124891701225&chksm=9fca2cf1a8bda5e7d89cc1a20aad54d6f893b3caf42d44f5bd44d206628eddb0feb0b9366e24#rd)
+    - 时间：2023-06-24
+    - 摘要：
+- [“我在喜欢的人面前，难以自控地自卑。”|女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812533&idx=3&sn=e03714058685e9083a17f8bd18b8aa5e&chksm=9fca2cf1a8bda5e766c64e351318a3314a54094f91848d01e026940f20df6b362959bcc1ed16#rd)
+    - 时间：2023-06-24
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [与陌生人来一场温暖的治愈｜KY社群成员免费招募中～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812533&idx=4&sn=a732bc25c78a21f19f1436a110fc279e&chksm=9fca2cf1a8bda5e72a9c441084566ca1a2c442a9b38a51df2e18ce0d7c4f20963686b1b4a202#rd)
+    - 时间：2023-06-24
+    - 摘要：
+- [有这10个特质的人容易「被偏爱」。中两个就会人生开挂——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812528&idx=1&sn=46657a3b4bbe64584e04b90f2c656e0c&chksm=9fca2cf4a8bda5e20711d6a7101d6df8b5bf27232c7e7a034055fc0fdf63e33912335c188479#rd)
+    - 时间：2023-06-23
+    - 摘要：来看看你中了几个？
+- [7个月进入心理行业，收获居家兼职机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812528&idx=2&sn=8f7041e9aefaa15f17466c1e2a582056&chksm=9fca2cf4a8bda5e26dcf16a4091fa9a3090b3011615c00c7065a00d04848458c71dbb23c7ae6#rd)
+    - 时间：2023-06-23
+    - 摘要：探索进入心理行业的最优选择
+- [“如果我不那么敏感，是不是会过得更好一些” | KY测试：高敏感人群生存指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812528&idx=3&sn=6663f1bb1a6506fc7ddbb21212972414&chksm=9fca2cf4a8bda5e282b77bd1e86a419d0e90477390c410cef4ee7e2ff7b81dad2f262d0bb27f#rd)
+    - 时间：2023-06-23
+    - 摘要：如果能正确科学地看待自身的敏感体质，高敏感也能带来“人生加成”。
+- [“虽然是I人，但我超会交朋友！”扩大社交圈的秘诀在这里——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812448&idx=2&sn=c9858f0d479de45d98d064bab2d8249c&chksm=9fca2c24a8bda5325c1387c8fa8ba83320e4746d8a83449b84512077adb5c11a913c84f09e76#rd)
+    - 时间：2023-06-22
+    - 摘要：
+- [“爱是本能，但相爱需要学习。”如何建立健康长久的亲密关系？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247812084&idx=3&sn=9319d33b2bd08e725fd1f35e54a1b9c1&chksm=9fca2ab0a8bda3a66c81dde594565a9abc82cca83a5a19e7415c0007fe64563875e249d64125#rd)
+    - 时间：2023-06-21
+    - 摘要：
+- [「精神虐待」北大女生致死，判决结果令人意外｜遭遇精神虐待如何识别？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811986&idx=1&sn=c1f43b3279915796f6e2e3e1dd3d6d62&chksm=9fca2ad6a8bda3c05adafe2b97b05a4738c7364ea59cc2c8590867f5091060066f18c3cc4009#rd)
+    - 时间：2023-06-20
+    - 摘要：以爱为名的暴力，不是爱。
+- [7个月进入心理行业，收获居家兼职机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811986&idx=2&sn=8efed379d6f14d40b11d2504422434f5&chksm=9fca2ad6a8bda3c082efeddf0ffd2115e3d2f356ba4809188e5ab9da7a48e1a6a1e3a6539eeb#rd)
+    - 时间：2023-06-20
+    - 摘要：探索进入心理行业的最优选择
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811941&idx=3&sn=92da3207ee35958803bb3b4e948d6f41&chksm=9fca2a21a8bda337426b50c8b625b1cdf97e659e7a3270193c041ede6d8102fb006a0e24c4fd#rd)
+    - 时间：2023-06-19
+    - 摘要：
+- [女生在14岁前就一定要知道的3件事。你知道几件？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811402&idx=1&sn=df2e9da1b90a25e34403c5f0d2a140ee&chksm=9fca280ea8bda118451ad9b22966c80db53d9fb7247c4078b933534bbdc2482a6e12dd55e98e#rd)
+    - 时间：2023-06-18
+    - 摘要：很可惜，在我14岁之前，没有人和我聊性。
+- [别让自卑毁了你丨这世界太喧嚣，做你自己就好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811402&idx=2&sn=5183c206b1c182efdc00c6ba9a3adea0&chksm=9fca280ea8bda118fa1a741fa4d0b64f5463f65504e660204df20b08f4cc012753b3847bbec1#rd)
+    - 时间：2023-06-18
+    - 摘要：
+- [研究发现：幸福的情侣，真的会有“夫妻相”！找对象可以重点关注一下](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811144&idx=1&sn=5df914afb1317d8f80e271bb51ab738c&chksm=9fca290ca8bda01ad1cd90db89ceaf17a91751640fdd33373225d87213479c8c43d2965c8472#rd)
+    - 时间：2023-06-17
+    - 摘要：你遇见过被人说“有夫妻相”的ta吗？
+- [“我这么辛苦是为了谁！”这些东亚瞬间，你经历过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811144&idx=3&sn=dd3173ec6acd25b3e1384437547f23af&chksm=9fca290ca8bda01a9af6d820529fe23f9ba388c9880f1f447bfcfdb89d1ff64d73352e4f80e6#rd)
+    - 时间：2023-06-17
+    - 摘要：
+- [一部「偷拍」纪录片，揭开了一条非法牟利的色情产业链](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811035&idx=1&sn=0035d42aa0de9de1f69d2548e53d3cd3&chksm=9fca169fa8bd9f893366f2de7d1b440372762fa08ac6444a64f37704b61afb5bde45d55f07e2#rd)
+    - 时间：2023-06-16
+    - 摘要：一场悄无声息的性暴力。
+- [你会和谁在一起？走向又如何？答案在你的「爱情剧本」里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811035&idx=2&sn=e84fb699ad63fbf7d19852c11bd9ca09&chksm=9fca169fa8bd9f894e6e329a3c3c2de5511870cd6c2ed77a96964dce029c7b011618e932403e#rd)
+    - 时间：2023-06-16
+    - 摘要：你拿到了什么样的爱情剧本？
+- [3条情侣沟通法则，让你的恋爱越谈越甜～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247811035&idx=4&sn=81d5c76b77388fc88325092b81acd40f&chksm=9fca169fa8bd9f896386de46190d1c59e0557eae504635e000df986127c80a78df74f3080634#rd)
+    - 时间：2023-06-16
+    - 摘要：情绪没有错，是语言伤人——学会在亲密关系中坦诚沟通
+- [7个月进入心理行业，收获居家兼职机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810935&idx=3&sn=e2f07f6e855247f2f515791446a54451&chksm=9fca1633a8bd9f250584a50aa89214f9db9e5713af60a1648acd6ed51f31a5d778089225ac36#rd)
+    - 时间：2023-06-15
+    - 摘要：探索进入心理行业的最优选择
+- [“你越想证明自己被爱，越感觉不到爱。”心理咨询师扎心的8句话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810889&idx=3&sn=d67283aff723bef42988d6d837cb1b9d&chksm=9fca160da8bd9f1b23a57725a1a468ba4786b111f0e181852a147001f94366107b673b187b61#rd)
+    - 时间：2023-06-14
+    - 摘要：
+- [共读、共鸣、共情、共识 | KY 免费社群等你来～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810889&idx=5&sn=05c5b75a9248ffcbc71182b2558bc7a5&chksm=9fca160da8bd9f1b6105f52498bffb1223e6d8f20006e89f4c5d4ee6b11db36a63d680cc9228#rd)
+    - 时间：2023-06-14
+    - 摘要：
+- [备孕焦虑，正在「折磨」想要孩子的女性们 ｜KY对话心理咨询师&医生](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810535&idx=1&sn=6f92306a9e07573c0d792605cce199ac&chksm=9fca14a3a8bd9db51dfa0919335b50c7f24be5362cc8aed14606bbcd0beb961c97d82c010292#rd)
+    - 时间：2023-06-13
+    - 摘要：当一个女人决定开始备孕，她会经历哪些生理和心理的挑战？
+- [长期关系中，男性和女性谁更容易失去对对方的“性趣”？答案竟然是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810496&idx=1&sn=951388e472a94aa7d875f2e46046e23b&chksm=9fca1484a8bd9d92a92f97f1596830ffdb7d23f2f95d723d969baa00ada6e9cde8f46246a9df#rd)
+    - 时间：2023-06-12
+    - 摘要：女生的性生活危机
+- [7个月进入心理行业，收获居家兼职机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810496&idx=2&sn=c0a9db1303b0623c3492ffb3a3ba726e&chksm=9fca1484a8bd9d92300060d2987af1158e4a3a6803f0bf5ddfc22b820cc0af755ecaa9b292da#rd)
+    - 时间：2023-06-12
+    - 摘要：探索进入心理行业的最优选择
+- [永远不要相信苦难是值得的 | 年轻人的觉醒从拒绝“吃苦”开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810496&idx=4&sn=58a5e7c26ccdda25b4b333030b2fbc9c&chksm=9fca1484a8bd9d923e3813c6bdc539bae6d38e4c410e7fec876a87fd1bade5db902cc1d37782#rd)
+    - 时间：2023-06-12
+    - 摘要：
+- [如何简单逼疯一个高敏感人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810334&idx=1&sn=800160da33f86de56d52ffdc4e8ac040&chksm=9fca145aa8bd9d4c5768d411f73f36765d4868258697c0573954fbf3979b28d77d5c5d7ba153#rd)
+    - 时间：2023-06-11
+    - 摘要：熟练使用这8招，高敏感人都会和你绝交
+- [变得更美更有钱后，我就真的自信了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810334&idx=3&sn=ddff9e105fa048d9f07002b1106c3857&chksm=9fca145aa8bd9d4ce3ed5d9e32dd402d30f8a6546e973ece3ecd17640a19a43d10d5697de947#rd)
+    - 时间：2023-06-11
+    - 摘要：
+- [恋爱中的“自卑感”要怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810334&idx=4&sn=58243bc3f5c2232cfb728b963b256a83&chksm=9fca145aa8bd9d4c29a6030bf1ff3f2846b8738b00d10a3346910d652e1dcb1febb6ab4a31d1#rd)
+    - 时间：2023-06-11
+    - 摘要：
+- [为什么说内向不是一种性格缺陷，而是解锁成功的宝库？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810268&idx=3&sn=ac7641e512f1dc96519974019c54c5f0&chksm=9fca1598a8bd9c8ef4e83e0663e50ec010b494bf69ec30dc84af6dee85e612f783fc167d53d6#rd)
+    - 时间：2023-06-10
+    - 摘要：探索进入心理行业的最优选择
+- [你活得真实吗？来测你的存在真实性水平](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810268&idx=4&sn=46c528f61dd5beb25ac50f83aed9202a&chksm=9fca1598a8bd9c8ed180f8d80fb873ca9bd4564fc082dfbf0af794cc3107fcdbe4f9889ccfd4#rd)
+    - 时间：2023-06-10
+    - 摘要：我只想单纯地为自己活着。
+- [厉害的人，都很会「有效摆烂」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810240&idx=1&sn=44e44e896e16eb03e8588354b1242210&chksm=9fca1584a8bd9c92b866cdcf9a36cff82a0645749018bed9b41c92ac31259ffac4c80b78b67e#rd)
+    - 时间：2023-06-09
+    - 摘要：累了就躺下歇歇吧
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810240&idx=2&sn=9ff87a35fee826006122dad3b4d94ab8&chksm=9fca1584a8bd9c921cf1baa17605c6e41960d27bec7316df2e41c676dbf9138c56476522a0b0#rd)
+    - 时间：2023-06-09
+    - 摘要：探索进入心理行业的最优选择
+- [生活中如何“鉴渣”？从初识到热恋最全指南来了——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810084&idx=1&sn=ea08671407e87c834c7b7fc68c26fc86&chksm=9fca1560a8bd9c76e4c89f1693207b9bb73acc082b26869334d67514b261a0a87075b69820fa#rd)
+    - 时间：2023-06-08
+    - 摘要：8条科学鉴渣方法论，自用送人两相宜
+- [冷知识：情绪垃圾不一定要倒给朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810084&idx=2&sn=d6d3b4584a4911e31f954a48037c1a15&chksm=9fca1560a8bd9c76f1676f75730ca4f174dc5daa5e42311e51741e1c5fb0a80fa8ee82501725#rd)
+    - 时间：2023-06-08
+    - 摘要：接住你的每个细微的情绪，全心陪你度过黑暗时刻~
+- [为什么说内向不是一种性格缺陷，而是解锁成功的宝库？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810084&idx=3&sn=1a4187a0a1ea8c97c38e216e7b65d07b&chksm=9fca1560a8bd9c764499edf24010abc0a4adc9e1e130586b3d2c7971a6f31c5e08cb18007cbd#rd)
+    - 时间：2023-06-08
+    - 摘要：探索进入心理行业的最优选择
+- [嘴贱和冷漠都是一种保护色？快来测测你的防御机制是什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247810084&idx=4&sn=2bfbc20aef8f50f6640a674a5a1061f4&chksm=9fca1560a8bd9c76cb2eef23443254eaa83d9fe7efd91fcf9cf6851ce333fd867031820c0cb2#rd)
+    - 时间：2023-06-08
+    - 摘要：16种防御机制，你是哪几种？
+- [不要高估你和任何人的关系丨保持边界感是最高级的尊重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809952&idx=2&sn=d0947a7361e98a28e56ad73c6aa02a9b&chksm=9fca12e4a8bd9bf27850c5cf3dcf9f96b1eb6b5cf01e3882e97c847338059633e42f73089775#rd)
+    - 时间：2023-06-07
+    - 摘要：
+- [我来告诉你，为什么从事心理行业不用担心失业](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809911&idx=2&sn=0a60be91ccfc2319be96beba80fdad2c&chksm=9fca1233a8bd9b2545424f6206712a80749a2f0a616923ef4b858028ca45309eccf4dd2c2355#rd)
+    - 时间：2023-06-06
+    - 摘要：探索进入心理行业的最优选择
+- [关掉朋友圈后，你就真的可以不焦虑了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809911&idx=3&sn=e5b38f315be7f0ed7b9b34c55e9f0561&chksm=9fca1233a8bd9b255f73001e2bffaa0f9c2ca198d3ee082d640f3d6503a5e91e62bb081bec13#rd)
+    - 时间：2023-06-06
+    - 摘要：
+- [感觉精力被社交掏空？主动保持冷漠的「Gap Day」，了解一下——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809759&idx=1&sn=d75250fa9f651996b2409a38cc6a1f48&chksm=9fca139ba8bd9a8d83d4450d7ebc06934c1cadb771da80df025d3e5adc1cb285d87b8bf51082#rd)
+    - 时间：2023-06-05
+    - 摘要：外向的人也会「社交电量不足」！
+- [30岁的我，决定与自己和解 | 在茶会发现未知的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809759&idx=2&sn=8eaac05ec3f0e1ae19d693138efa32a4&chksm=9fca139ba8bd9a8d86b63b88524088c39b44368e8992495c371b9354ea3a868d574fd9702ce7#rd)
+    - 时间：2023-06-05
+    - 摘要：
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809759&idx=3&sn=95727c04f316ac650c6e7d15130d6f35&chksm=9fca139ba8bd9a8df8ef3dc90ecabcf65cf9db8c818b79964bb2bd5c0699785ca87a9e9e9fbf#rd)
+    - 时间：2023-06-05
+    - 摘要：探索进入心理行业的最优选择
+- [性爱真的能分离吗？研究说，可以但小心这种风险……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809196&idx=1&sn=cfa4c2bea558cae49cf5b54f002af935&chksm=9fca11e8a8bd98fe2efa0423fab1c33a3f3deb0798fe6fdfa84397e4d402bb0e705691d7385a#rd)
+    - 时间：2023-06-04
+    - 摘要：对于大脑来说，性和爱可能确实是两件事
+- [“如果和Ta分手，我会后悔吗？”这个测试给你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809196&idx=2&sn=d7ce1583192b2c5037ee616d352a4b20&chksm=9fca11e8a8bd98fe06489bc00837a6d70f529b75aa36d96148367ba654acceef87f52ae2992a#rd)
+    - 时间：2023-06-04
+    - 摘要：你的对象还要不要继续留着？
+- [在亲密关系中，“好好吵架”可能比“和平相处”更重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809196&idx=3&sn=bb6248ab82e5069d6ff801be088dc480&chksm=9fca11e8a8bd98fe4c684a33e8703a2d645f2ca54d5e401907985cc9d5cd45b75af9fd01d8e1#rd)
+    - 时间：2023-06-04
+    - 摘要：探索进入心理行业的最优选择
+- [恋爱中的“自卑感”要怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809196&idx=4&sn=dee56713f56e12a33334b67b86b0f4dc&chksm=9fca11e8a8bd98fe760e4b1cfe905bdf7820f246fe20e64bf2c9a4ca0f9952a1c1f2679645a7#rd)
+    - 时间：2023-06-04
+    - 摘要：
+- [提醒你该结束关系的10盏红灯（不止爱情）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809027&idx=1&sn=538216fb89b969f5c2e8c90e3b7c0acf&chksm=9fca1147a8bd98513a930eda4ea92aa361455fe789f306ecd31a3344d31224c17d477d315d9a#rd)
+    - 时间：2023-06-03
+    - 摘要：及时结束不健康的关系，是一种对自己的拯救
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809027&idx=2&sn=6d116cee6b4728a4e7bc0c75afdef1b3&chksm=9fca1147a8bd9851360958be98569746ae8b671dee08df1413cb2d0fa8b5873097c915fc7dc8#rd)
+    - 时间：2023-06-03
+    - 摘要：探索进入心理行业的最优选择
+- [能掌控自己情绪的人，往往活得更从容](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809027&idx=4&sn=a9fa2e31d3a44d3714b10086dfd7bb24&chksm=9fca1147a8bd9851dedaa4be1aebdc3be461eba46c1628f6f2b94ed6c35dda1968d2f2fd9752#rd)
+    - 时间：2023-06-03
+    - 摘要：
+- [提醒你该结束关系的10盏红灯（不止爱情）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809023&idx=1&sn=b82377e7b1cb6104ef0fd2f175081cb4&chksm=9fca1ebba8bd97ad44b2eefe3c955dcb2bb37bf9e9d99bfd57f8a8eb601cc46d16a89286bb97#rd)
+    - 时间：2023-06-03
+    - 摘要：及时结束不健康的关系，是一种对自己的拯救
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809023&idx=2&sn=dcb45d6847084db4946f0e3e8d8599fe&chksm=9fca1ebba8bd97adfa71339035cfa52e31631f322bbfd4cdc60f2c6587b8596fd5acfc88c97c#rd)
+    - 时间：2023-06-03
+    - 摘要：探索进入心理行业的最优选择
+- [“我在心里对自己发动一场战争” | 如何停止「内耗思维」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809023&idx=3&sn=afe309fe931c40c88f33385dbf120056&chksm=9fca1ebba8bd97ad0dd4fcf30d0c8ef1e6c73ce333d2c0e2846713236603f967adfddebdd681#rd)
+    - 时间：2023-06-03
+    - 摘要：如何低内耗地工作？带你找到躺与卷的第3种选择。
+- [能掌控自己情绪的人，往往活得更从容](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809023&idx=4&sn=12db7ee13ad2ce96a256b0c9d2c1ddde&chksm=9fca1ebba8bd97ada43d516f6b47eed6178b8ce54e3dff2f9732629584538f22fdb0af74b91f#rd)
+    - 时间：2023-06-03
+    - 摘要：
+- [只做对这一件事就能拉近你和所有人的距离（别再说交不到朋友了！）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809011&idx=1&sn=e9a90b5942c892af951c194b0ce91a13&chksm=9fca1eb7a8bd97a1c191d698f552111f200434b4af6745e484244aa6b27a6775ca518329a128#rd)
+    - 时间：2023-06-02
+    - 摘要：一个简单实操的人际小技巧。
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809011&idx=2&sn=d94ba0f83c083821f8dc1c56fb176615&chksm=9fca1eb7a8bd97a1940c25241c51845a2cd3ce4b260feba567ea5f5a8a5649f6d6f10df940aa#rd)
+    - 时间：2023-06-02
+    - 摘要：
+- [想要甜甜的恋爱吗？点进来看你的专属攻略  丨 KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247809011&idx=3&sn=936bce372d3248fac83f41308faa315f&chksm=9fca1eb7a8bd97a18a5713a0f2b0bd0526df01087f0bcf49e8138b2fd6bd927062288a5030d5#rd)
+    - 时间：2023-06-02
+    - 摘要：超全爱情分析报告，点击即测！
+- [比起小孩子，成年人更需要《樱桃小丸子》。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808848&idx=1&sn=94d496aeec240301ca148eecb6b3478e&chksm=9fca1e14a8bd9702a9b254e5a349d23e7f800f11d01e6cb0c2604d77fc7accc1150fd145b446#rd)
+    - 时间：2023-06-01
+    - 摘要：这部只有成年后才看得懂的动画片，治愈了每一个丧气的大人。
+- [在书本中自学心理学，你可能只是继续活在自己的世界里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808848&idx=2&sn=e4d7be57a7c3fd12f4df3ffe6a23e418&chksm=9fca1e14a8bd9702ae02c843f09705dea6632d6c53a876910fa52cb07dd83dacd88553400951#rd)
+    - 时间：2023-06-01
+    - 摘要：探索进入心理行业的最优选择
+- [内心戏太太太丰富？也许你该找人聊聊——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808848&idx=3&sn=f1f34998a8a7e1efc8f89e5cdca75f87&chksm=9fca1e14a8bd97024eb6d247b470cf83e6118fa82411052ec20a3ba8cc25293e9ef654bcea5b#rd)
+    - 时间：2023-06-01
+    - 摘要：
+- [30岁的我，决定与自己和解 | 在茶会发现未知的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808630&idx=3&sn=b38581cb7a283df02f9a28610d278d7a&chksm=9fca1f32a8bd962454db961fe3f562a16d23a4fdc14de1dffdd18b23200d5b31331c3da3ad59#rd)
+    - 时间：2023-05-31
+    - 摘要：
+- [“一家只有一个女主人，就不会有婆媳矛盾了” | 父母“叛逆”发言大赏](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808550&idx=1&sn=a9909235e0a0450c7294e4cfed97e0fa&chksm=9fca1f62a8bd967407b452e435eb9c562e723780cda686ff32cd221dd5f854788587ad5eade9#rd)
+    - 时间：2023-05-30
+    - 摘要：没想到，父母竟然能说这些话
+- [冷知识：情绪垃圾不一定要倒给朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808550&idx=2&sn=0d3bf87d193f3dcb56608605d11a741a&chksm=9fca1f62a8bd96745a9f9297a32c3ecfeee6816e2d25c05ee9511454e79bae211763d49f4d03#rd)
+    - 时间：2023-05-30
+    - 摘要：接住你的每个细微的情绪，全心陪你度过黑暗时刻~
+- [「有隐私」和「没隐私」哪种婚姻更幸福？结果会令很多人意外……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808480&idx=1&sn=e833b5e368f05d5a716842a5ec2d77d1&chksm=9fca1ca4a8bd95b2bf201f3439c30d7edd26a811d9ddae4c2a8ccae78dc679414a4075a8332c#rd)
+    - 时间：2023-05-29
+    - 摘要：一文说清隐私和秘密的区别
+- [在亲密关系中，“好好吵架”可能比“和平相处”更重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808480&idx=3&sn=ba27514dc1a3dcc0d7e35337295d9890&chksm=9fca1ca4a8bd95b25ac362a149e99ddff8e81bdb155877735ddba826feb1bcd1c137fd6269e4#rd)
+    - 时间：2023-05-29
+    - 摘要：探索进入心理行业的最优选择
+- [8个能用来「增加爱意」/「减少爱意」的心理理论 （简单易上手）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808410&idx=1&sn=f6e975f150810adf67bd835fe09c2088&chksm=9fca1cdea8bd95c8c478679abc4d0d9119cd92fe3bca2aeb62aba922d275f27e8fc1e458a415#rd)
+    - 时间：2023-05-28
+    - 摘要：40件储存爱意的小事。
+- [「月经」知识测试！看看你能拿多少分？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808410&idx=2&sn=6dc478201746241640dd640fd78a53af&chksm=9fca1cdea8bd95c8732db68b598f8bdc567edb76454e1ce6a617bfcd353d611d6ece18893139#rd)
+    - 时间：2023-05-28
+    - 摘要：男女都需要了解
+- [心理健康节惊喜倒计3小时 | 爱自己，从现在开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808410&idx=3&sn=5a53e16f678464edcf0c3352729fa561&chksm=9fca1cdea8bd95c86aabaad021cabaa84f4be2ae3f0dfb1303cf2bdcaadd6dbcb8938394292e#rd)
+    - 时间：2023-05-28
+    - 摘要：好运玄学——做到这件事，你想要的全都会实现！
+- [不要高估你和任何人的关系丨保持边界感是最高级的尊重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808410&idx=4&sn=abf3c85e3967dba1767a10a45125658b&chksm=9fca1cdea8bd95c8261d54b6b48af289dbfc3dfa6b8257dd74c94c44b37b47af1ab551d0f8e1#rd)
+    - 时间：2023-05-28
+    - 摘要：
+- [性生活喜欢皮鞭和绳索的情侣，可能亲密关系更健康？（双方都享受的前提下）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808338&idx=1&sn=767c93868be31926e9fd354afe5552d1&chksm=9fca1c16a8bd950022e40a8c196c152e220ca3058a3caab1546ab96dddd09c43f5b44032de4a#rd)
+    - 时间：2023-05-27
+    - 摘要：快乐与风险并存，入坑需谨慎。
+- [在亲密关系中，“好好吵架”可能比“和平相处”更重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808338&idx=2&sn=1f2386a6c1ab281c1bc0a954e1c4fa56&chksm=9fca1c16a8bd9500a3b569fe4095a2f97149c114dc6aa6aa2da37387512f33f70adad138ea71#rd)
+    - 时间：2023-05-27
+    - 摘要：探索进入心理行业的最优选择
+- [恋爱该选心动的人，还是合适的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808338&idx=3&sn=54d67acb635c780e51cef8e4584d9ceb&chksm=9fca1c16a8bd9500f83fab21289a96594119c582b437f89c17bdd7758a239c6bbb1116798ca1#rd)
+    - 时间：2023-05-27
+    - 摘要：全面提升你经营亲密关系的核心能力——
+- [“我在喜欢的人面前，难以自控地自卑。”|女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808338&idx=4&sn=2dfb1e7467377434cf1c355949b6da61&chksm=9fca1c16a8bd950045d0ff51d6f9d9b46e02c9b759f6a9d521375d7e018d8976ce67e6ae45a8#rd)
+    - 时间：2023-05-27
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [不想再“选错人”，一文教会你「系统梳理」自己的择偶标准](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808176&idx=1&sn=530de8b8a2a43a5c968c7d602bab9a9a&chksm=9fca1df4a8bd94e225dc06c877663c44975d5b27b9bdbbf341329e99d8cfbfff40fbbc5e7f0d#rd)
+    - 时间：2023-05-26
+    - 摘要：你可以从这些维度提炼实用的择偶标准
+- [你不需要那么“好相处”，而是需要“被讨厌的勇气”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808176&idx=4&sn=0978de790121f0074e92c0cfa9068a6a&chksm=9fca1df4a8bd94e2357a3c01f2dabba0cb3ca76eb05753d7fb6e6ed7747d8976130e68614544#rd)
+    - 时间：2023-05-26
+    - 摘要：
+- [真正「爱自己」的人，才有的5种表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808176&idx=5&sn=faf712f1e00592b648355a600b9e7923&chksm=9fca1df4a8bd94e2606b75af9496afdb50622c94d7951be3e20dfad4a4ddb085c7acd599da66#rd)
+    - 时间：2023-05-26
+    - 摘要：好运玄学——做到这件事，你想要的全都会实现！
+- [一个不焦虑、充满快乐的成年人，是如何达成的？｜525心理日专题](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808102&idx=1&sn=c80981587125d1645adf0851ec83ce9d&chksm=9fca1d22a8bd943476fe38e1e3e73bb1e8bc5eb3c86643d0eb6518cf695e24268533077f7bc9#rd)
+    - 时间：2023-05-25
+    - 摘要：你需要学会「心理健康在场」
+- [我发现，人不爱自己时真的会缺乏「吸引力」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808102&idx=2&sn=b2219cb58e2085d4556a026240b3ba5c&chksm=9fca1d22a8bd94345a742a398b4a341605c0f4fde7c10b9d5a513551b3f44da40c1a095d891b#rd)
+    - 时间：2023-05-25
+    - 摘要：好运玄学——做到这件事，你想要的全都会实现！
+- [决定你人生难易程度的，是你所拥有的“内在资源”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247808102&idx=3&sn=5020bef6fe11fbefaefff231639079e3&chksm=9fca1d22a8bd943433692b3916e042253b02fc4d2deded34b9634a4399e9aef7e2fe17184ee6#rd)
+    - 时间：2023-05-25
+    - 摘要：探索进入心理行业的最优选择
+- [“爱情是熊熊燃烧的友谊。”  从朋友到恋人，可能是最甜的打开方式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807947&idx=1&sn=201c2118f892dfede7979ae9934d0008&chksm=9fca1a8fa8bd9399acfb73d9e2e3401fa63a81f35a1c315e24fe3120860fbd5016c65350a59d#rd)
+    - 时间：2023-05-24
+    - 摘要：3步帮你判断朋友有没有可能变达令
+- [2.5小时「深度社交」是什么体验？来这里遇见相似的灵魂。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807947&idx=2&sn=9a8e99e702866906572603bac4fa6e31&chksm=9fca1a8fa8bd9399f2ce60c82b4372e75d36c7694ad564c2b5f13cc7c195396ee3dfe85ff2bb#rd)
+    - 时间：2023-05-24
+    - 摘要：
+- [喜欢的ta有这8个魅力点？小心藏雷！一定要尽早注意——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807569&idx=1&sn=7e5ed848dfdd3d18ad08c386f11a5b83&chksm=9fca1b15a8bd9203cfb8726ffaea063cd3b4c7c81d546dae4c5f5429c7d7a3520acecf052367#rd)
+    - 时间：2023-05-23
+    - 摘要：最有魅力的人，可能伤你最深
+- [进来比比：爸妈的「叛逆」发言哪家强？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807569&idx=2&sn=0630d802badd85e880e4b6d81e97b832&chksm=9fca1b15a8bd9203828d3027a370aea7a6f4ffe4d38a98d9649a7d85429d9457561038d08d57#rd)
+    - 时间：2023-05-23
+    - 摘要：爸妈叛逆了，我却很开心
+- [作为斜杠新青年，心理咨询师是我的另一个职业身份](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807569&idx=3&sn=4f4ac941c4a0373462371cd9ab2915d9&chksm=9fca1b15a8bd92037c4e52596941c2af8b943a2bf75682777a6d156406cb1fbda91f68cda369#rd)
+    - 时间：2023-05-23
+    - 摘要：探索进入心理行业的最优选择
+- [你的内耗可能没有想象的严重（附内耗自救手册）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807569&idx=4&sn=37da188c5ff56445dc6b8d31baf5eea8&chksm=9fca1b15a8bd920300c795db220b8420946fe30154079263500fa0042b90a356731b15c8f3be#rd)
+    - 时间：2023-05-23
+    - 摘要：来测测你的自我内耗水平吧。
+- [年轻人迷恋「算命」？研究说：合理且有效！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807335&idx=1&sn=48a60c93f28adb0dde548e251cc164bc&chksm=9fca1823a8bd9135e1bf57216a4b4c26dc3f9de5db27a50dd22e8717a6112ebc3c2b7adfd6e3#rd)
+    - 时间：2023-05-22
+    - 摘要：安慰有用，但也要注意“剂量”
+- [7个月进入心理行业，收获居家兼职机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807335&idx=2&sn=1241a36a18e12ca0edda8146a156cc01&chksm=9fca1823a8bd91355c50aabf70cf74be8977c8de18a8788413f0e2637c5a2a1036c55d79f9bf#rd)
+    - 时间：2023-05-22
+    - 摘要：探索进入心理行业的最优选择
+- [冷知识：情绪垃圾不一定要倒给朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807335&idx=3&sn=d0eb18d3bbb8ead62755865bc765ef0d&chksm=9fca1823a8bd9135a2aecab88e4398abb04e8fdb53a53864cecbc9a027045b694efa3a2f79c0#rd)
+    - 时间：2023-05-22
+    - 摘要：接住你的每个细微的情绪，全心陪你度过黑暗时刻~
+- [1/3的人都曾在有伴侣的情况下，对其他人心动。研究建议这样处理——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807135&idx=1&sn=70f43fecd7c10bf8c5d08661be4ca946&chksm=9fca19dba8bd90cd7f17f487500e2438a3497b42407acf8dab941779d4eed5d455eba8af8a42#rd)
+    - 时间：2023-05-21
+    - 摘要：心动是本能，忠诚是选择
+- [“如果我不那么敏感，是不是会过得更好一些” | KY测试：高敏感人群生存指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807135&idx=2&sn=30982de811794e8c80709e6a44e92946&chksm=9fca19dba8bd90cdacb6eac51623894f5dcb4e17eb48efa08960f4b7d23e4980c770b3aca65f#rd)
+    - 时间：2023-05-21
+    - 摘要：如果能正确科学地看待自身的敏感体质，高敏感也能带来“人生加成”。
+- [“为什么我们不能同步到达高潮？” ｜KY研究：男女的“性反应模型”截然不同…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807134&idx=1&sn=8e9fdca412670071c5c3b7426b0d13d0&chksm=9fca19daa8bd90cc97f2a161f44cf655c9c6c31a38f082e9fc0d69bfeabfe372dc5ca9fe684b#rd)
+    - 时间：2023-05-20
+    - 摘要：男人的生理反应决定了“性就是性”，而女性真的更难做到“身心分离”……
+- [在书本中自学心理学，你可能只是继续活在自己的世界里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807134&idx=2&sn=97f448925993a38c7c8d1ae3af4aaf50&chksm=9fca19daa8bd90cc7612a475f2dfaa88006154bfb6ecbc4a37b5bb70ab47403a3fb813368823#rd)
+    - 时间：2023-05-20
+    - 摘要：探索进入心理行业的最优选择
+- [“我在喜欢的人面前，难以自控地自卑。”丨女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807134&idx=4&sn=1dbdcbd165205139111a334e0728aa61&chksm=9fca19daa8bd90cce69b43f55fb34abb421ca06e6bf8fd0a27a3501a62829ff4f70354f2677d#rd)
+    - 时间：2023-05-20
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [如何快速毁掉一段亲密关系？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807053&idx=1&sn=d86b46c282d17118ad9e8d895a3b2f0d&chksm=9fca1909a8bd901f192d4353003c2787706c81ea8465256b78a0bcdec4c3cb6d9026d6b5309a#rd)
+    - 时间：2023-05-19
+    - 摘要：反向学习，守护长久关系。
+- [又双叒叕深夜emo了……咋办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247807053&idx=3&sn=a7b001c8013be0fcf106929dce43c881&chksm=9fca1909a8bd901febf615a015b344f5761d1815e67438cb9d09b5ed9e4de4b41fd8779d4730#rd)
+    - 时间：2023-05-19
+    - 摘要：接住你的每个细微的情绪，全心陪你度过黑暗时刻~
+- [这个「功利」但有用的职场技能，你的同事可能正在悄悄使用 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247805150&idx=1&sn=31d526bec92ff846fed7c966822a9a6b&chksm=9fca019aa8bd888c5dd227779d9599c31cc641106f217a25ea3bac941ce514ad9238ada54255#rd)
+    - 时间：2023-05-17
+    - 摘要：一种人人都能运作的重要“资本”
+- [“谈过几个男朋友的我，好像爱上了女生？”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247805150&idx=2&sn=de44ef4607b7eb4c978b355fdf424245&chksm=9fca019aa8bd888c40ba3aac3dfe5d582addca0bcf9f913610ab141f0a47ec549b02bbacb005#rd)
+    - 时间：2023-05-17
+    - 摘要：
+- [恋爱中的“自卑感”要怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247805150&idx=4&sn=c50e803e8fca2ef27c618e2aa87bdddd&chksm=9fca019aa8bd888cef834c404b1f21b3f39fba32d210f9097c088a11106e8f1b431b6a82769e#rd)
+    - 时间：2023-05-17
+    - 摘要：
+- [关于“什么是好的亲密关系”的终极回答。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247804754&idx=1&sn=52f2d813da74290fc1fe589c9b4494d0&chksm=9fca0e16a8bd8700efb0b55318d6df28d572eb242bd0625b31e3fc2b645bfb6b5c8b53445989#rd)
+    - 时间：2023-05-16
+    - 摘要：其实“喜欢”“爱”这样的概念，有时是无效的。
+- [“我很生气，但我不说”丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247804754&idx=4&sn=65edaba95a6cec8a9a5bf88df75ca2bb&chksm=9fca0e16a8bd87006797031cdc750f9ebdd07cbda645aa6f84ee357f9e23ef4a0f1d245fde3d#rd)
+    - 时间：2023-05-16
+    - 摘要：
+- [最伤感情的小事就是它，希望关系成功的人必须戒掉！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247804544&idx=1&sn=3be5ba5a9be2d3471eea9c8f1f0f2b4e&chksm=9fca0fc4a8bd86d2e5dfe231e7d96cf6184c114b3c4b43dc03ef0664e96682a7d407e3736faf#rd)
+    - 时间：2023-05-15
+    - 摘要：再生气，也别把「爱人」当成「敌人」
+- [爱的人在哭泣，我却只会说“别哭了” 丨如何成为一个有“疗愈力”的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247804544&idx=3&sn=1151d294cb25b6a12bef033e39a3c914&chksm=9fca0fc4a8bd86d2896bb28a8db9b0e97e7bfe27a6164c1991b50933760099a7d044a1a812f8#rd)
+    - 时间：2023-05-15
+    - 摘要：探索进入心理行业的最优选择
+- [中国非婚生育合法化：不结婚当妈妈的她们，现在过得怎么样？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247804450&idx=1&sn=b8fc4dcdfd32b4148d42394335c1ea76&chksm=9fca0f66a8bd8670d022a99f20408ffda86fc4858c4b3c09f289607c3c3290c85b61fade4a08#rd)
+    - 时间：2023-05-14
+    - 摘要：KY母亲节特别访谈
+- [在书本中自学心理学，你可能只是继续活在自己的世界里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247804450&idx=2&sn=68f905ef4bf9a07b2cfdf3327c7502a1&chksm=9fca0f66a8bd86706e15057e6cfa1f4c8afeebf1d02e0b33dd4d5b46ea4c82cbfb74ab47f4bc#rd)
+    - 时间：2023-05-14
+    - 摘要：探索进入心理行业的最优选择
+- [哪类人的伴侣最难？回避型必须“榜上有名”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247802521&idx=1&sn=3e3cc9509aa775facdbfb16dd9d5e25e&chksm=9fca77dda8bdfecbcc6a41ecb1c3bb64de08253fb05b5d35a1b859eca0989532e535d9bcfad0#rd)
+    - 时间：2023-05-09
+    - 摘要：每个回避型必看的「自救手册」
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247802521&idx=2&sn=1eb6f5995bfa47cd0c2c668e20497717&chksm=9fca77dda8bdfecb58a78af82912c90a77f572cbd012d4b0a73408084bacd748958a0ada1a48#rd)
+    - 时间：2023-05-09
+    - 摘要：
+- [除了摆烂，还能如何“反杀”职场PUA？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247802521&idx=3&sn=c2f63077b9204208315d6af7cef9b222&chksm=9fca77dda8bdfecba374e940f8dbfba80ae062f1e9589c38f1492e364b211cf7663ffdd9c18b#rd)
+    - 时间：2023-05-09
+    - 摘要：
+- [去年有1.6万人参加了这个活动，有人脱单，有人现场“泪失禁”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247802255&idx=2&sn=8c906406d401aeda0003a2a538d7a3cb&chksm=9fca74cba8bdfddd56c82b64800661fd010f1b6a458165d7c07ac384c837971b3bfcde1491d8#rd)
+    - 时间：2023-05-08
+    - 摘要：
+- [我们如何用心理咨询师的视角，重新解读人生的意义丨萌芽早鸟期招生中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247802255&idx=3&sn=15bf956c3203d29e77cd3e496f597363&chksm=9fca74cba8bdfddd50803458dce8b787a5bdfff456e9be3596ff2651bb4e062efd7a30b3d0bb#rd)
+    - 时间：2023-05-08
+    - 摘要：探索进入心理行业的最优选择
+- [每天在一起却感觉不到爱？警惕关系中的“假性亲密”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247801078&idx=1&sn=d5f2ebb465f8a31f56ab2657748f48bd&chksm=9fca71b2a8bdf8a4b9f5c992ef2316014857302dc9d6727dfe1db65d3d5da190605622adc396#rd)
+    - 时间：2023-05-07
+    - 摘要：假性亲密是如何毁掉一段关系的？
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247801078&idx=2&sn=56ddbfe7076724b1d2a91e5c38c2c07b&chksm=9fca71b2a8bdf8a4dc388df45233e18d0c171f8a36186d40cc55f0cfb4182eee646e5b835982#rd)
+    - 时间：2023-05-07
+    - 摘要：
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247801078&idx=3&sn=b65fff135d194661336b3104930a4ac6&chksm=9fca71b2a8bdf8a4062adb7201bd1afd21c3a4a9d35f3a9bf3c9deede4f6b4b3b8b58b4e27a9#rd)
+    - 时间：2023-05-07
+    - 摘要：探索进入心理行业的最优选择
+- [若「拒绝」不自由，则「性同意」无意义。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247801077&idx=1&sn=96bc5b31ca9b5e67ea01bc68116ff07e&chksm=9fca71b1a8bdf8a7455e35cc31359add71b0d187d2daa33635d7594d4946271fd4dcbdd6189a#rd)
+    - 时间：2023-05-06
+    - 摘要：权力不平等关系中的性同意，为什么是无效的？
+- [你会和谁在一起？走向又如何？答案在你的「爱情剧本」里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247801077&idx=2&sn=894e5341df8a3ffbb5ced93f1847864b&chksm=9fca71b1a8bdf8a70ad54ea282fc74134c12d3a10c87afc3b72327ac733ec5192b48ff9c4b59#rd)
+    - 时间：2023-05-06
+    - 摘要：你拿到了什么样的爱情剧本？
+- [“毕业五年，存款5000”，已经活成废物了怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247801077&idx=4&sn=a9d6f2021d91da3de528ef97aebfa8f6&chksm=9fca71b1a8bdf8a76e7736e9cad271752ba76d73a5f35bff245988195df5a782c0aff9f6c47a#rd)
+    - 时间：2023-05-06
+    - 摘要：“我真的感觉到了前所未有的自由和开阔”
+- [“你越想证明自己被爱，越感觉不到爱。”心理咨询师扎心的8句话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800745&idx=2&sn=171795dbfda55c89afa80e9110d2da43&chksm=9fca7eeda8bdf7fbb7065010cb24efea256db10ec8ad2f180bce384f9ff89d49c86cdbd3eb9f#rd)
+    - 时间：2023-05-05
+    - 摘要：
+- [到底该怎样努力，才能给自己“向下的勇气”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800745&idx=3&sn=3ff8c55effc070758dff00ab0de53ed7&chksm=9fca7eeda8bdf7fb178bb363ba3d2baf5690d6df2aeeb3af787169e9dfc27d9c4970cd6df4f0#rd)
+    - 时间：2023-05-05
+    - 摘要：
+- [中年人酒桌上的“油腻”话题？这件事被冤枉（误解）了太久！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800536&idx=1&sn=a99ee0bfeb9c9ce3f5d7ea718d694145&chksm=9fca7f9ca8bdf68a7d7b9ffa27226146bafa12c464349aacf87ef02a7effa8da0abc7d01edc7#rd)
+    - 时间：2023-05-04
+    - 摘要：不要放弃说话的权利。
+- [7个月进入心理行业，收获居家兼职机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800536&idx=2&sn=9da6b55ea9febf6b30ea0cf1e65ffc15&chksm=9fca7f9ca8bdf68a87f9180d7a8d32958cd0e770e863ee363609a10458f9b68cd7832b84901d#rd)
+    - 时间：2023-05-04
+    - 摘要：探索进入心理行业的最优选择
+- [除了摆烂，还能怎么拯救工作不快乐？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800536&idx=3&sn=900bf85d2bc628973195a925f87a1cf3&chksm=9fca7f9ca8bdf68af307de9aca2b0a5b07aad503da455c4a543b42328a20012bff0d58fdec45#rd)
+    - 时间：2023-05-04
+    - 摘要：“不为谋生，谁干这sb工作。”如何“不痛苦”地工作？
+- [渴望被爱有错吗？情感需求到底应不应该自给自足？｜KY圆桌](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800492&idx=1&sn=b4cb79e6f818d4242feb700437c11bef&chksm=9fca7fe8a8bdf6fe5d8e6b991fda9e873bf686bfb5887d6875ae3b1954585b191a5576c09fca#rd)
+    - 时间：2023-05-03
+    - 摘要：你认同哪个观点？
+- [“你越想证明自己被爱，越感觉不到爱。”心理咨询师扎心的8句话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800492&idx=3&sn=10b902d96ef1eb039ffdb8139b940015&chksm=9fca7fe8a8bdf6fe849c7f974e58337f1ccb22b4d8e7f6cfb11af1272c90a8962740b2261cbe#rd)
+    - 时间：2023-05-03
+    - 摘要：
+- [“我在喜欢的人面前，难以自控地自卑。”丨女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800492&idx=4&sn=7ea8287a74ef2476bc4781d589b3d8a1&chksm=9fca7fe8a8bdf6febbb9ed4e7bec4a61c10b466ab25cdc3fe84ee272d804c2c0b94fea8410f3#rd)
+    - 时间：2023-05-03
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [关系再好也不能说的12句话。读到第3句已经生气了！｜漫画](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800488&idx=1&sn=394ad3c9c567b8018971c1b7ff24d021&chksm=9fca7feca8bdf6fa7865edcf012b1219d41c26ef775807722566535e36a28104032e5092a2a5#rd)
+    - 时间：2023-05-02
+    - 摘要：每一句都很伤人。
+- [不要等到四十岁才明白这「36个人生真相」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800487&idx=1&sn=13c5ba00f5cab25361e2049eddf6978e&chksm=9fca7fe3a8bdf6f5e37639b2371acf65f383715dc8b82dc2fcf81ef17cb8e9cf461f1d36cd64#rd)
+    - 时间：2023-05-01
+    - 摘要：第一条就扎心了。
+- [2.5小时「深度社交」是什么体验？来这里遇见相似的灵魂。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800487&idx=2&sn=2ca932466e10c3d3b1499638716b02ab&chksm=9fca7fe3a8bdf6f5e9d3d3dabac20fc6cf6dde85958019b222389e6d757fa292cb60eb689252#rd)
+    - 时间：2023-05-01
+    - 摘要：
+- [模范情侣，为何也会走到离婚这一步？| KY婚姻课，最后1期最后4天！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800487&idx=3&sn=45d7c0bd246d86cc0a520d8903436981&chksm=9fca7fe3a8bdf6f5cbcf2b421f84a30f801bd99e1180e106893467645fdd4c48253a86011c2f#rd)
+    - 时间：2023-05-01
+    - 摘要：如何拥有一段幸福的婚姻？
+- [「清醒暧昧」——成年人的快乐姿势。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800485&idx=1&sn=1ea7e084e11652017ae6b02cf608872c&chksm=9fca7fe1a8bdf6f7e77cc6e2c3d55d99aa48688f801c90de38966aa34b135c989e73a9aba52f#rd)
+    - 时间：2023-04-30
+    - 摘要：没想到暧昧还有这种打开方式。
+- [在书本中自学心理学，你可能只是继续活在自己的世界里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800485&idx=2&sn=892779cb7bac91c5bfab0067a410d58e&chksm=9fca7fe1a8bdf6f7b17f0d74f6fafc0561dfc4e81790313ade48804340209221503264bbf534#rd)
+    - 时间：2023-04-30
+    - 摘要：探索进入心理行业的最优选择
+- [明确这3点，就能找到“对的人”！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800485&idx=3&sn=b76a982735aacd92ac4a2cfe900c9eb8&chksm=9fca7fe1a8bdf6f7adb1146b767955a956634cf6f637fdf671da35ddfd1c8b9b9647e3dd2427#rd)
+    - 时间：2023-04-30
+    - 摘要：在爱情里，你最看重的是什么？
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800485&idx=4&sn=fb5da01d39a8081edee9318bc39635d5&chksm=9fca7fe1a8bdf6f7fb28f80469b0b2bbf712193b5435703c0ac066a54ba015422c3704c8196a#rd)
+    - 时间：2023-04-30
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [“和情感不成熟的人在一起，真的好累。”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800328&idx=1&sn=7ea8652883fd9208a82b800059294988&chksm=9fca7f4ca8bdf65ace268f90bb5c4e092bc0dd69953fed91059f3519ed53fe783e3472530772#rd)
+    - 时间：2023-04-28
+    - 摘要：“要么压抑，要么爆发”你可能遇到了情感不成熟的伴侣
+- [具备这种特征的婚姻更能长久，不是爱也不是性，而是——  | KY婚姻课，最后1期招募倒计时](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800328&idx=2&sn=c533eafeab5dcbabfb20c03f21f33a01&chksm=9fca7f4ca8bdf65aaf468e097922f42f8384299333fd2447aecb0bce4f544c13fd6dc0596a64#rd)
+    - 时间：2023-04-28
+    - 摘要：如何拥有一段幸福的婚姻？
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247800328&idx=3&sn=966714fd833e82d47f300083a491329b&chksm=9fca7f4ca8bdf65ac6c443c75e03901225068e0094194ecc26f44642c528f712b330454709dc#rd)
+    - 时间：2023-04-28
+    - 摘要：探索进入心理行业的最优选择
+- [“2023年，还有重男轻女的现象吗？” 提问后，我们收到了超10万字的留言……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247799717&idx=1&sn=48f33b4f1f7dc55a34d8d15bcc5eec2f&chksm=9fca7ae1a8bdf3f7b6a9592e1476ea37ebbf83a9cccd8ed82b86f112462584f4259d0a7d1468#rd)
+    - 时间：2023-04-27
+    - 摘要：这是女性无法启齿的长久而隐秘的痛。
+- [7个月进入心理行业，收获居家兼职机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247799717&idx=2&sn=6ea40ef8019b360a319badf925ba98a2&chksm=9fca7ae1a8bdf3f79c80ea616f178bdb53d756880981aa735c8a2d2c86d211773894082ef17a#rd)
+    - 时间：2023-04-27
+    - 摘要：探索进入心理行业的最优选择
+- [如何谈一场直球式恋爱？丨情侣沟通3个必备底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247799717&idx=3&sn=17a56387c06ef0d8af67b8637400e7d4&chksm=9fca7ae1a8bdf3f7f695511c41a5304b1fdd27f7709ba43036569c0dfaa26c118fe245b93055#rd)
+    - 时间：2023-04-27
+    - 摘要：情绪没有错，是语言伤人——学会在亲密关系中坦诚沟通
+- [跟风“爱自己”，小心越来越累！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247799404&idx=1&sn=f7f2ab726b3a358683aa721bfb446e08&chksm=9fca7b28a8bdf23e2731829afc0015f7020206e9afc09b5dd319bc10f8ff12a382dd5e92ddf2#rd)
+    - 时间：2023-04-26
+    - 摘要：你也在「虚假自我关怀」吗？
+- [抚平焦虑、走出困境…… “找个人聊聊”，就是改变的开始。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247799404&idx=2&sn=9b6b3c47f0fafce3a7fc7be6050b64a2&chksm=9fca7b28a8bdf23e5be0acf0a2a8462799b1e6bfb83fc1f82ee1da7e95b3500fd748708d22d1#rd)
+    - 时间：2023-04-26
+    - 摘要：
+- [具备这种特征的关系更能长久，不是爱也不是性，而是—— | KY婚姻课，18年咨询专家亲授](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247799404&idx=3&sn=f06b8006c51fa6687635b032adce6b3b&chksm=9fca7b28a8bdf23ed42b4c5ac460231c2ce3dd0b1147ae443a20b0393f826079e47db94a5209#rd)
+    - 时间：2023-04-26
+    - 摘要：如何拥有一段幸福的婚姻？
+- [到底该怎样鼓起勇气，给自己“向下的勇气” | 必修课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247799034&idx=2&sn=5a1e76ef3382b3ef1cbae671c3f788d5&chksm=9fca79bea8bdf0a8f058415a2491fd373fe19d9739e2d466158417f24cd76d58c6170a679403#rd)
+    - 时间：2023-04-25
+    - 摘要：
+- [觉得Ta不是合适的婚姻对象，但也狠不下心分手，怎么办？| KY婚姻课，18年咨询专家亲授](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247799034&idx=4&sn=feda7139b97b71440b632c4f189326a7&chksm=9fca79bea8bdf0a881a98ab8a5a3e32b0c61acca932ac9a4df78d04656dd4700cf4a8223a063#rd)
+    - 时间：2023-04-25
+    - 摘要：如何拥有一段幸福的婚姻？
+- [那些时不时来撩你一下然后又消失的人，到底是怎么想的？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798787&idx=1&sn=1f3e9ee4afcc85221b29e43d14441c99&chksm=9fca7947a8bdf051ada05dcbd1e1b51d9bf2e478874afb285e768cf344da1ec729b8e8acb623#rd)
+    - 时间：2023-04-24
+    - 摘要：5个细节识别「面包屑导航」
+- [如何脱单？自我接纳？婚or不婚？来一场「主题高质量社交」吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798787&idx=2&sn=c3611a305f26816a1bd37f4d514e8964&chksm=9fca7947a8bdf0510fcf8b5891e5a184bd6d680920d8e212ce2527340d32c705c51ee4e9d6a1#rd)
+    - 时间：2023-04-24
+    - 摘要：
+- [和Ta分手，你会过得更好吗？这个测试会告诉你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798787&idx=3&sn=be9d3673c888eef1e6ce2e679347c1d2&chksm=9fca7947a8bdf051af9542f22decb8b2994bc0491c8e4745772d4c6cb27eb60d67809cfb7c24#rd)
+    - 时间：2023-04-24
+    - 摘要：你的对象还要不要继续留着？
+- [为啥很多人害怕婚姻？结婚究竟意味着什么？ | KY婚姻课，18年咨询专家亲授](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798787&idx=4&sn=745d44a23e7442519af0fce4c64c4037&chksm=9fca7947a8bdf051c3ea64fec2b7ac76625f4d3da848a7ec8295efe63e51f9d183f806301513#rd)
+    - 时间：2023-04-24
+    - 摘要：如何拥有一段幸福的婚姻？
+- [真正「交心」的关系一定有这4个特征！看完你会想起谁？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798687&idx=1&sn=1c32f8481b00fde65d6f9d14d6b03ad5&chksm=9fca66dba8bdefcdef5bb3c8560b01af59852e360fd0ded3adc62ee4535d294912bbe5974719#rd)
+    - 时间：2023-04-23
+    - 摘要：成年人的世界里没有容易二字，友谊也是
+- [“你要显得难追，才会更被珍惜” 研究说：这居然可能是真的，但是…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798633&idx=1&sn=ea8496b7dad3a807575fbefe99b221db&chksm=9fca662da8bdef3b83d7e1b7862905e9b74d551d988e0de340033e5c46ff966ab73ec9643810#rd)
+    - 时间：2023-04-22
+    - 摘要：爱情也分长期和短期游戏。
+- [请你开麦：都2023了，你身边还存在重男轻女的现象吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798633&idx=2&sn=25dd39406947dc5fa0975de0570e7c11&chksm=9fca662da8bdef3bfd3c7db7c594d8d1cebe820e7578bb76bb5dd221e2b6e07aadd2767c19b4#rd)
+    - 时间：2023-04-22
+    - 摘要：看完直冲天灵盖的那种！
+- [这14种不易觉察的「微压力」是“不快乐”的罪魁祸首！“在与自己价值观不符的环境工作”也在其列——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798566&idx=1&sn=35bbebf324785f383759324e9cd1dfb8&chksm=9fca6662a8bdef749371ba208fddcb8710b5807152c7a0bbc3a1e6d4b5df5508d82b9a8924f1#rd)
+    - 时间：2023-04-21
+    - 摘要：来看是什么让你越活越累！
+- [梳理你的【择偶清单】，离对的人更近一步——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798566&idx=2&sn=b3ac5c1fd71c8c994ee807940f63f98f&chksm=9fca6662a8bdef74550f926fd9435546c341673141ab70c6887f6af2e86c29add5f383c7608f#rd)
+    - 时间：2023-04-21
+    - 摘要：​明确择偶标准，找到“对的人”
+- [自信也是一种“肌肉记忆”？研究说，是真的！练出来就能随时取用——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798389&idx=1&sn=b28dacc538885c7d7f5eca88c3fef937&chksm=9fca6731a8bdee27f7e0968e622291aa5758c7851a23e31e162348d99aeff9d11189b7c80f88#rd)
+    - 时间：2023-04-20
+    - 摘要：5个方法帮你强化它
+- [“别难过，开心点。”可到底该怎么治愈自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798389&idx=2&sn=281c8b888dc12e1d562a8fccd5e7bf4b&chksm=9fca6731a8bdee274234e350304adf1cca02646698af097d599c90ebce242a181ec978740ee9#rd)
+    - 时间：2023-04-20
+    - 摘要：接住你的每个细微的情绪，全心陪你度过黑暗时刻~
+- [当年奋不顾身的爱情，为什么经不起婚姻的考验？| KY婚姻课，18年咨询专家亲授](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798389&idx=3&sn=691126cd167ebb04095fddc8fff977cd&chksm=9fca6731a8bdee27821876ccf1459c3ef606059e52d1fe626c251788288aa30a67f32a68c4f4#rd)
+    - 时间：2023-04-20
+    - 摘要：如何拥有一段幸福的婚姻？
+- [我「如狼似虎」，他「好累不要」性欲不匹配会影响幸福吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798268&idx=1&sn=4dad2327a131953fe100c49936d6c410&chksm=9fca64b8a8bdedae4fd547a33645c2ace291d46504439329b5c1bd246f9ad31fad0d941404db#rd)
+    - 时间：2023-04-19
+    - 摘要：值得一看的《性生活和谐指南（心理版）》
+- [怎么知道一段关系该结束，还是值得坚持？（婚前必看）| KY婚姻课，18年咨询专家亲授](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798268&idx=3&sn=6baab2b6182aa36d7ce5cf9f7f13a998&chksm=9fca64b8a8bdedaea989da2a841b4712543b51c7aff13a7951f4628bcfe7d594fc8f067f8f46#rd)
+    - 时间：2023-04-19
+    - 摘要：如何拥有一段幸福的婚姻？
+- [一见钟情or朋友变恋人or…丨哪类伴侣让你最幸福？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798268&idx=4&sn=424252ca66facb3872155b3fed223bf7&chksm=9fca64b8a8bdedaeaa2fbaa043c3c42cd41f353b2b7fcce54a0baff10e2a714418d976a17af1#rd)
+    - 时间：2023-04-19
+    - 摘要：超全爱情分析报告，点击即测！
+- [如何快速失去所有朋友？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247798058&idx=1&sn=542f269ce23dad102a250a3f342eb764&chksm=9fca646ea8bded783026995650cb599066e3dd2d1a7754f351eea60af0c5e801181d4e4aa451#rd)
+    - 时间：2023-04-18
+    - 摘要：如果你觉得自己没朋友，你很可能做过这13件事。
+- [最喜欢一个人的时候，会是什么样子？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797875&idx=1&sn=fc176a685193d44bb9db75d677706beb&chksm=9fca6537a8bdec210bea2117e0c20db878fe0268a2b0099e509f1572350ab0029e1e7405b25d#rd)
+    - 时间：2023-04-17
+    - 摘要：生活那么苦，来看今天的推送加点糖吧
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797875&idx=2&sn=00cf3ef31a6e44331256e23e6056be54&chksm=9fca6537a8bdec21489fe591f422cef7df62f0d8291e7439123d1fbc14224739cf54ce3aef62#rd)
+    - 时间：2023-04-17
+    - 摘要：
+- [想进入心理行业，又不确定自己是否合适？来这里找到答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797875&idx=3&sn=5febc8a4c2444e845d2387f23b7e27ec&chksm=9fca6537a8bdec217221ce11b9aa5256d68dc724e6cbc4c61f2155ed417197829cf01427c9a6#rd)
+    - 时间：2023-04-17
+    - 摘要：3天0基础心理咨询师入门课，带你探索职业新可能～
+- [一谈恋爱就觉得不自在？研究发现，有这种特质的人离婚率更高！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797813&idx=1&sn=51259b4245d05f53e6e2521f7cd63561&chksm=9fca6571a8bdec67ab88143828d97574173190dd00d29b852779472349f96afa8185a030f3b8#rd)
+    - 时间：2023-04-16
+    - 摘要：快来自测一下吧
+- [幸福婚姻的本质不是解决冲突，而是—— | KY婚姻课，18年咨询专家亲授](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797813&idx=2&sn=53ad54b6b27a24902b7b88b86d3c7560&chksm=9fca6571a8bdec679173c3ed737ebc69b5be4ffa2bf6e892a47f09249d09c6a6da42466cc268#rd)
+    - 时间：2023-04-16
+    - 摘要：如何拥有一段幸福的婚姻？
+- [一个「提升生活满意度」的小技巧，看完你一定会分享给另一半！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797682&idx=1&sn=951356200b4a79556edf8765a1682310&chksm=9fca62f6a8bdebe0e92ced617396b7c78c9d7f47247427c3c4f672252f2a164e17113214659b#rd)
+    - 时间：2023-04-15
+    - 摘要：人类需要仪式感的科学证据找到了！
+- [你会和谁在一起？走向又如何？答案在你的「爱情剧本」里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797682&idx=2&sn=13bc101b96f796eeda844817230d2774&chksm=9fca62f6a8bdebe08cfef3aa8c9af92fd06fede0b8a0af8f2602293fd557393e25bc289d5f33#rd)
+    - 时间：2023-04-15
+    - 摘要：你拿到了什么样的爱情剧本？
+- [“我在喜欢的人面前，难以自控地自卑。”|女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797682&idx=3&sn=d4a67d492a152a170e724f0d2cfe4b30&chksm=9fca62f6a8bdebe0268319bb2a6ae09f1cab0a45240c8121b55013c3966fe7310b1da69d0867#rd)
+    - 时间：2023-04-15
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [「真爱」该有和不该有的11种模样](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797661&idx=1&sn=b313f16f858bf66f0de6254685242864&chksm=9fca62d9a8bdebcfee212750f671014af47ccef88bde059d15e1388a4a7028877ee1e31d6c62#rd)
+    - 时间：2023-04-14
+    - 摘要：真爱不会让你变得虚弱
+- [“我很生气，但我不说”丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797661&idx=3&sn=9753cb3f402c815a86880e62ccbae0ab&chksm=9fca62d9a8bdebcf2879a8bf250a81becbe752a1d6edf820493a1d49b647452ae4fbcdd4a3df#rd)
+    - 时间：2023-04-14
+    - 摘要：
+- [每个人都需要更多拥抱。「皮肤饥渴症」有多普遍？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797418&idx=1&sn=29237d034a5f1bc20ff7e4e4b0ef7948&chksm=9fca63eea8bdeaf873125ec694f464ef3c12980c9d10c0e47581c60fa1455e4a6ce3520932b6#rd)
+    - 时间：2023-04-13
+    - 摘要：“皮肤饥渴“是一种怎样的渴？
+- [想进入心理行业，又不确定自己是否合适？来这里找到答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797418&idx=2&sn=f309f762b93fce27e05f9bb88a3231db&chksm=9fca63eea8bdeaf896a824ef8c317589c229a0244dd690b0c513703f07fd5a855965fa4fee25#rd)
+    - 时间：2023-04-13
+    - 摘要：3天0基础心理咨询师入门课，带你探索职业新可能～
+- [能和同事真诚做朋友吗？研究说，只有在这种情况下可以——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797297&idx=1&sn=869ff5c1fc365d0e38b093f916f57b97&chksm=9fca6375a8bdea633603068af08add0a9f4f3d03e26587a3261e5b648d311f31a5321a3391fa#rd)
+    - 时间：2023-04-12
+    - 摘要：真诚用在错误的时机，也可能是“自杀技”！
+- [喜欢or合适，婚or不婚，当代人的爱情观在如何变化？来茶会分享答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797297&idx=2&sn=8883708e77e0ac142a60dc5c7e8569a1&chksm=9fca6375a8bdea63fb6044fa6b36de15df485469fa1dcf0dd2cfceecdcd5735ff90e1c5cabac#rd)
+    - 时间：2023-04-12
+    - 摘要：
+- [将就的爱情要不要继续？这篇文章给你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247797297&idx=4&sn=1459408128247fc1fb64417e2fcd48c7&chksm=9fca6375a8bdea63949ad44fbf674480c31a1b900f538c038fb4d9a8184a106f233b94719d31#rd)
+    - 时间：2023-04-12
+    - 摘要：磨合还是分手? 这份测评帮你判断。
+- [擅长理解他人却不善良，什么是杀伤力翻倍的「黑暗共情者」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247796751&idx=1&sn=0e447adc09a7eadf947d72d7ee3c2935&chksm=9fca614ba8bde85dbe7e4faf3bbb4e17c935209013806393f7fd1f121092557ea83cefbd6961#rd)
+    - 时间：2023-04-11
+    - 摘要：5个细节识别「黑暗共情者」
+- [怎么才能度过爱情的磨合期，长久地走下去？| KY婚姻课，18年咨询专家亲授](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247796751&idx=2&sn=2282b6021dce62347b2d9ef4a4814255&chksm=9fca614ba8bde85dc0e58e86157b62c8b95b13aea72c6581c295442a566f1cd60e002c41fb1f#rd)
+    - 时间：2023-04-11
+    - 摘要：如何拥有一段幸福的婚姻？
+- [做心理咨询前，这5件事你必须知道 丨 文末有彩蛋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247796751&idx=3&sn=28fae514f162bc0df7013209825e6fa1&chksm=9fca614ba8bde85d2d9d34e3004193e5ced0a37e9851ef2f46b910366c9589e34a4090d92823#rd)
+    - 时间：2023-04-11
+    - 摘要：
+- [研究发现，大多数伴侣分手都不是因为大的困难。而是因为生活中出现了它……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247796401&idx=1&sn=b0b7119e111b3a7681953c69af811be3&chksm=9fca6ff5a8bde6e372ff0aafe34aaba7cdabc1e0cda826703f3fae7b4a66680d3571ca56b3fd#rd)
+    - 时间：2023-04-10
+    - 摘要：每一对想要长久在一起的伴侣，都必须学会面对关系中的不满。
+- [开启人生新副本 | 你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247796401&idx=2&sn=3056884f852d8c92e555d83d5e014f63&chksm=9fca6ff5a8bde6e374767ec7cc4e53858a5c17b0916f64f1c44cc5d7500836eb01adf4849e60#rd)
+    - 时间：2023-04-10
+    - 摘要：
+- [婚后Ta就像变了个人，我们应该分开吗？| KY婚姻课，18年咨询专家亲授](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247796401&idx=3&sn=868ccfea7d26d125be1595adc7f9b62d&chksm=9fca6ff5a8bde6e33f4d62f0ca9e09dfde602e0b14db30f1893c26ad37540a2d6241598e7881#rd)
+    - 时间：2023-04-10
+    - 摘要：如何拥有一段幸福的婚姻？
+- [这件看似毫无用处的小事，却决定着你们的关系能走多久（不止适用于爱情）——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795913&idx=1&sn=e398c859a13430ce488f5a108d9a6cbb&chksm=9fca6d8da8bde49b6fd601b11f034f0e3c21b3cf034f63128d91d72560467f6f762ae1d306a3#rd)
+    - 时间：2023-04-09
+    - 摘要：猜你一定想不到
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795913&idx=2&sn=2616643ef3cf6f0823edc788f7eb9b21&chksm=9fca6d8da8bde49bd3520ebe9ccca45c32d1802dd702ba571b916421dbc162c498dc6ee64cf8#rd)
+    - 时间：2023-04-09
+    - 摘要：
+- [情侣吵架很正常，但这件事万万不能做！会让最坏的结果变成现实——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795912&idx=1&sn=f59a1b1baecd34d8631cfc76d1cf4e8d&chksm=9fca6d8ca8bde49a402a889917914437ed75a7100ccda5fb43c768ba0dbd043110e81abf9a79#rd)
+    - 时间：2023-04-08
+    - 摘要：你有过吗？
+- [3条情侣沟通法则，让你的恋爱越谈越甜～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795912&idx=3&sn=76a95cf96dcce13c44df55406c96baf3&chksm=9fca6d8ca8bde49a5e0a86f96360014498694034541db229ca7fc4b89cfdfb391d44e73c869b#rd)
+    - 时间：2023-04-08
+    - 摘要：情绪没有错，是语言伤人——学会在亲密关系中坦诚沟通
+- [拿女友私密照换赌资，张继科是犯了这种“大病”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795881&idx=1&sn=87db863869bae879a48a1bdd77d164be&chksm=9fca6deda8bde4fb9849bd34c8c3b67b006c272c6e4bda99211026c6b1644025a82825083003#rd)
+    - 时间：2023-04-07
+    - 摘要：教你识别身边的“张继科”
+- [能掌控自己情绪的人，往往活得更从容](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795881&idx=2&sn=92121cd468cff8a074130805b397739c&chksm=9fca6deda8bde4fbb1ff0fbe4718f69bed01ddda78a3e786419eb19ba2707ceb46903990d679#rd)
+    - 时间：2023-04-07
+    - 摘要：
+- [焦虑和躺平的人，到底谁过得更好？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795363&idx=1&sn=e206602fe1c69a3a9395ea5fa821bde9&chksm=9fca6be7a8bde2f1f1c7c0d61e0b5c75a0ee4372592b49705aa0582ce061d85b755ea85537d1#rd)
+    - 时间：2023-04-06
+    - 摘要：19个关于年龄焦虑消失的故事
+- [花了30分钟，我找到了这段亲密关系里的卡点。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795363&idx=2&sn=b07e0107b671823005a95be190bc7cca&chksm=9fca6be7a8bde2f16b2cdeb4d70ec985d33699afd3fa89fc8c2952760c2c00bc16fe791f6f5f#rd)
+    - 时间：2023-04-06
+    - 摘要：真的不想和你吵了~
+- [一个会让人心态失衡的思维习惯，很多人每天不知不觉都在做](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795249&idx=1&sn=754a7703b627992fce3e504c3a904562&chksm=9fca6b75a8bde2636edcf8ca424769465481143fb027031a524c7ed30661391ab6e7489369b9#rd)
+    - 时间：2023-04-05
+    - 摘要：这里有一个很危险的想法，来看看你有过吗？
+- [摆烂太久，天赋与力量就会被收走](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795249&idx=3&sn=a2b81237230e95f359faf3491f51d989&chksm=9fca6b75a8bde26320155a7cedcbe3a989560a04f3abbfc8f76865a30afc494268e331542578#rd)
+    - 时间：2023-04-05
+    - 摘要：
+- [KY招聘丨多个全职、实习生岗位等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247795249&idx=4&sn=efe22f369f2d46b6a33a2a062fe35ef5&chksm=9fca6b75a8bde263dc13556a648888ff3133cc982f7352da15565a409da7bb0aedd80582efab#rd)
+    - 时间：2023-04-05
+    - 摘要：
+- [错误的爱会让人变虚弱。值得追求的「被偏爱」是什么样的？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794979&idx=1&sn=31213ee66acff548353dde7dc5a4b28f&chksm=9fca6867a8bde171e2c9108a9b59d61edea3a1a33ef392069ced9f6bdee1976e8ccf720ed1f9#rd)
+    - 时间：2023-04-04
+    - 摘要：千依百顺，未必是真爱
+- [我和对象大吵一架后，找聊愈师聊了30分钟，矛盾解决了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794979&idx=4&sn=abf6105c685815ea6908f178bc685d7f&chksm=9fca6867a8bde171d6c5bd02d9d53db7f9799356cd0f820d1d871a3eceaffa5cda097f87113a#rd)
+    - 时间：2023-04-04
+    - 摘要：真的不想和你吵了~
+- [五官中最影响性感度的，竟然是它——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794502&idx=1&sn=d639d2e5d3d3d3e5d30004116231bcbb&chksm=9fca5602a8bddf14646d31066c49ad5408a77d5f965dc35f9ef7c1202eee3a3d824ff3c125c2#rd)
+    - 时间：2023-04-03
+    - 摘要：研究发现，比外表更具吸引力的是这个
+- [4条恋爱升温法则，拿捏住就没有谈不好的恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794502&idx=3&sn=413acd1043cbb0fc9895f04fde468f13&chksm=9fca5602a8bddf145d3b783e1e2806a4428aba28adb6e690990cfc5dd0720471b596c20fdb79#rd)
+    - 时间：2023-04-03
+    - 摘要：教你收获一段高质量的亲密关系
+- [当我们决定爱一个人时，其实我们在决定做这10件事——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794416&idx=1&sn=923894a560984519069612a8dae7eb7e&chksm=9fca57b4a8bddea2aa02d60d911c1967ed07d72a9ad2b69402ecde9a9f9d3661820ec67ea90b#rd)
+    - 时间：2023-04-02
+    - 摘要：爱一个人究竟意味着什么？
+- [明确这3点，就能找到“对的人”！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794416&idx=2&sn=a201163d1a735143aa4541cb707ef180&chksm=9fca57b4a8bddea2d8895aa42cd260265e5b707a07248983788dc6e7d73f3b441919f55244de#rd)
+    - 时间：2023-04-02
+    - 摘要：在爱情里，你最看重的是什么？
+- [离婚率持续上升，为什么心理学家还是认为「婚姻变得更好了」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794395&idx=1&sn=767a1c56b73d25c70c208066bd5be853&chksm=9fca579fa8bdde89fe23a197e9068b9d5fb04e350e6f0d84a0abe7b6d3d6615153a1fcc53740#rd)
+    - 时间：2023-04-01
+    - 摘要：成功的婚姻，需要在这三个层面成功。
+- [学会自私——是我至今为止做的最对的决定](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794395&idx=3&sn=eb9a5dfcf067d829345faf88144e926b&chksm=9fca579fa8bdde895f365b728361a8fdad473b902ffee9b3f4c5abc47efaec9004989e5ea066#rd)
+    - 时间：2023-04-01
+    - 摘要：
+- [生活中缺乏这种情绪的人，往往更容易伤害别人。一定要警惕！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794352&idx=1&sn=0aef9ed7e9331c595efe78d29bf8fd07&chksm=9fca57f4a8bddee23de6a6ad3c41b9a340ea2bcb7b385aa6faaf598fa5e702fbc584b91ff267#rd)
+    - 时间：2023-03-31
+    - 摘要：8个特征，教你识别身边的“反社会”
+- [女性能给自己带来的快感，男性一无所知 | 一文说透「女性自慰」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794262&idx=1&sn=7e3c2ce8fe639d19f641de2d61770dad&chksm=9fca5712a8bdde04b712fa2985150f9d5de54ce8b0ac88cbfe3948e17f811e50939b240003ee#rd)
+    - 时间：2023-03-30
+    - 摘要：女性的自给自足，不是性行为的平替
+- [停！直球式恋爱真不是这么谈的丨情侣沟通的3个底层能力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794262&idx=3&sn=aaad55bba9afd7772ae5875f1f206e37&chksm=9fca5712a8bdde0407bd7d8d3b93a1ef767dcbbd5702aed2f129f8c94186b630b9a6c12a8613#rd)
+    - 时间：2023-03-30
+    - 摘要：情绪没有错，是语言伤人——学会在亲密关系中坦诚沟通
+- [「婚前磨合」到底应该包含哪些方面？这5件事将决定你们的婚姻幸福度——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794074&idx=1&sn=3165fb199c6ba8bc28ddb822bb2ade90&chksm=9fca54dea8bdddc8db006637cbc6e1072aa208f51cfb6ce8f29c71d0a48f6857fddc9cf524ce#rd)
+    - 时间：2023-03-29
+    - 摘要：无效磨合最伤感情！一文说清应该如何开展「科学有效的磨合」
+- [搞事情！月食测评49.9元月卡限量首发，手慢无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247794074&idx=3&sn=f25c4e4b6821d61a204b31698a9a79d8&chksm=9fca54dea8bdddc8a22e7a274e27ea8b0a612a0e099a3e63dfd9c0cba7f29f2be4d7c79e0bba#rd)
+    - 时间：2023-03-29
+    - 摘要：
+- [如果你的“好朋友”拥有这种特质，无论认识多久都要主动疏远](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793794&idx=1&sn=9d1b5be478088ddeaa024c1bcf140e58&chksm=9fca55c6a8bddcd09a5949ccf25a8847a157a777688ce76ca6000991160d8711c50577784d50#rd)
+    - 时间：2023-03-28
+    - 摘要：为什么有些朋友相处起来这么累？8个特征帮你识别有毒的朋友
+- [当代年轻人治愈「深夜emo」的秘方，请查收——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793794&idx=2&sn=0cf09d68496cdd8f0a0a9d1d7ddba44d&chksm=9fca55c6a8bddcd02c7e141f32e0ac5b95ee6824eecd192255b288c631803ba4a77a7324bd5c#rd)
+    - 时间：2023-03-28
+    - 摘要：接住你的每个细微的情绪，全心陪你度过黑暗时刻~
+- [一种很新的应对「关系霸凌」的技巧，“6步灰色岩石法”摆脱控制（职场人际都适用）——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793493&idx=1&sn=5b2be15c6848542e98b7deb62b9f871b&chksm=9fca5211a8bddb076b30d2dd568ccb0c20993be3739e4b0652b9752a1f3ca1a4c78384cc4631#rd)
+    - 时间：2023-03-27
+    - 摘要：如果暂时无法逃离这段关系，就快试试这个办法吧！
+- [上班“摸鱼”对工作结果有帮助？研究说：没错！必须要摸鱼！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793493&idx=2&sn=2371bb852906ed622f88d0dad8eae5b4&chksm=9fca5211a8bddb076b4b1632983203f7b88740e128c814d32117d4bab24cb4762280a98925e4#rd)
+    - 时间：2023-03-27
+    - 摘要：
+- [当代年轻人治愈「深夜emo」的秘方，请查收——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793493&idx=3&sn=fa3975a0a0114fc62b4e19d0719b6107&chksm=9fca5211a8bddb072c560df62746d9da9ffea6565d69e862e910bce3a3402fb078cc16129dc4#rd)
+    - 时间：2023-03-27
+    - 摘要：聊愈——让每一句话都得到回应
+- [“很热、很难受，但很自由。”关心妈妈从了解「更年期」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793356&idx=1&sn=4d73f6c33268b2ac836463866ce5b6a7&chksm=9fca5388a8bdda9e66b7ad21d21b3daab6d6b6f3d83609f8af2b789708b34289b58c7058c798#rd)
+    - 时间：2023-03-26
+    - 摘要：一文读懂更年期
+- [给你看我的软肋，我是不是就输了｜“不完美”爱情自救指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793356&idx=3&sn=6f4051244480d957c5ac9ea316a2cd15&chksm=9fca5388a8bdda9edd99b3bcaa42f078d837ca1c01e50909249ff1a4a60853c75bfdcf9f6b2c#rd)
+    - 时间：2023-03-26
+    - 摘要：
+- [西西弗斯式困境丨如果生活都是徒劳，如何在无意义中寻找意义？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793356&idx=5&sn=837edc762fd780a3c2ccc7b728cba0eb&chksm=9fca5388a8bdda9e0f7b313e8b251ff83ad9a92e1f3c38778f7ee6badc9a5997c46463a55d9d#rd)
+    - 时间：2023-03-26
+    - 摘要：新的一年，我做了一个改变我一生的决定！
+- [「太在乎」真的会毁掉一段关系！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793112&idx=1&sn=07302d0c4158dee3feb7850b48f37456&chksm=9fca509ca8bdd98a4bddd8f22573c5567c0f6cc6d97784915120cce2ab6a5a8a48d79dfc1f8c#rd)
+    - 时间：2023-03-25
+    - 摘要：不要做一个紧绷的恋人。
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793112&idx=2&sn=c0342435c6f21feccf4c476a11889819&chksm=9fca509ca8bdd98a90dc0ee8a4b43b4ebab2ab2462fe897bdb97a685cf079df1a7c70e0fdb99#rd)
+    - 时间：2023-03-25
+    - 摘要：
+- [从小被「精神穷养」vs 从小被「精神富养」，根本的区别在这——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793007&idx=1&sn=a2eada7e5cba812f8062be712b5743f3&chksm=9fca502ba8bdd93d0bf96cf5a298a3bd1228848f9580def09b15f85cc7908e63acec5aafbbbc#rd)
+    - 时间：2023-03-24
+    - 摘要：“童年被「精神穷养」，是我长大后无法松弛的伏笔。”
+- [学费全返「21天正念深度疗愈营」最后一期最后2天——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793007&idx=2&sn=441732ef7efc38d2433a661d3ab02cae&chksm=9fca502ba8bdd93d7c03049a0f7418cfc016de03e2ea00aad2c43e4af02c72ec313cb3639394#rd)
+    - 时间：2023-03-24
+    - 摘要：仅此一期 招满即止
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247793007&idx=3&sn=15841fa27c530ae14dd9fad16e92a054&chksm=9fca502ba8bdd93db8708fc219c253429fc7a2549280e7e895991898d7761ccceddc25489c5c#rd)
+    - 时间：2023-03-24
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [不要和经常“压抑你的激动”的人结婚！《罗曼蒂克心理学》重磅观点—](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792689&idx=1&sn=421951640d7a450c87f41e9eb1a855e0&chksm=9fca5175a8bdd86370adf3a8a4e8867f8228280451660037f1129cde9f91fcb66833d4acd11f#rd)
+    - 时间：2023-03-23
+    - 摘要：一个重要的择偶标准
+- [沉潜、起步、冲刺，25家公司邀请你在这里开局](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792689&idx=3&sn=f79ebe86122844a99e961076b88cc447&chksm=9fca5175a8bdd863cdb5a3564167b8375f59e37f661f81bc09ba9a13c92bd845a0a76c8f260c#rd)
+    - 时间：2023-03-23
+    - 摘要：2023年种子计划报名进行中，4月30日截止。
+- [4条法则，让你拥有一段高质量并持久的亲密关系！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792689&idx=6&sn=3fd70895ad00f2419df446fef5e08361&chksm=9fca5175a8bdd8638b5e394bdd9a8e49ce59ce6bf4f718e9dd96cc50b0c8454e657346b106d4#rd)
+    - 时间：2023-03-23
+    - 摘要：爱的锋芒不会变钝，爱的热情不会降低
+- [“什么都没做，每天却好累”如何消解生活中的疲惫感「KY课程推荐」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792557&idx=1&sn=d9f6a6020356e655e0d7090b9943739e&chksm=9fca5ee9a8bdd7ff5c6fde3886a3cf2b31a35a951378824a893e042a4da910b1f7fc86550308#rd)
+    - 时间：2023-03-22
+    - 摘要：KY全额返「21天正念营」限量招募 最后名额——
+- [真正的成长，往往发生在最深的自我探索之后 | 100堂课带你深入自我探索](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792557&idx=4&sn=2a9b78bbd5f538104643ab1e2c518ad9&chksm=9fca5ee9a8bdd7ff82ef19cc83bc7961cb3ba743c35e6d2920f913d4ae50714488f84900f484#rd)
+    - 时间：2023-03-22
+    - 摘要：
+- [“我在喜欢的人面前，难以自控地自卑。”｜女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792557&idx=5&sn=745f5263ef41786e80c97a91c1390711&chksm=9fca5ee9a8bdd7ff0e4ce190aa021a3a8d10bd8e47f0d226c1f24c486e628275972856ad7159#rd)
+    - 时间：2023-03-22
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [情绪不稳定？可能是没睡够！调研显示：仅5%女性能睡“饱”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792272&idx=1&sn=32fe6097701b23126d43c56e66b12bf1&chksm=9fca5fd4a8bdd6c2696153d9f6286b66effc845704b45e40dc9c819298267ea59542c9d9275b#rd)
+    - 时间：2023-03-21
+    - 摘要：阻碍女性入睡的因素竟然这么多
+- [梳理你的【择偶清单】，离对的人更近一步——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792272&idx=2&sn=ce482f1e4931ed8faa244c4f78e591d0&chksm=9fca5fd4a8bdd6c25d9d1b6d75fed47f05c6d4aca68175a34db159c77992a1a09eca5f299cc9#rd)
+    - 时间：2023-03-21
+    - 摘要：​明确择偶标准，找到“对的人”
+- [这件事我们做的太少了！「全能疗愈」，除了解压、还能提升自尊（不是运动和啪啪）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792003&idx=1&sn=b8c772d12fbe980673962464448bcbed&chksm=9fca5cc7a8bdd5d197ba853e253fa806cddd553672caafecabd5c637e77d5c997c4c9c942525#rd)
+    - 时间：2023-03-20
+    - 摘要：一件日常的简单小事
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792003&idx=2&sn=b2675225104c98a694d1f7123320955d&chksm=9fca5cc7a8bdd5d18a02dd5d4fa301335367b7fe4e058df8dbd3820b4d0b959751e70a336543#rd)
+    - 时间：2023-03-20
+    - 摘要：
+- [学费全返 限量招募|21天正念深度疗愈营招募结束倒计时——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792003&idx=3&sn=9102b0089e3bebdcef6c0711883dc21b&chksm=9fca5cc7a8bdd5d1b6c3b644137c7453d9ee6912f0fdcdebaf200137b5a18fb136083545b4f4#rd)
+    - 时间：2023-03-20
+    - 摘要：仅此一期 招满即止
+- [摆烂太久，天赋与力量就会被收走](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247792003&idx=6&sn=0d94e28a94436b6fe865842d2730c040&chksm=9fca5cc7a8bdd5d176fdfd0e068e00a6ea5322f764c2effa8c19aca1baf95bde995c6cb1bf44#rd)
+    - 时间：2023-03-20
+    - 摘要：
+- [爱上一个人和不爱一个人，竟然可以自我控制？研究说：可以！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791801&idx=1&sn=680a7ff29a9c9b194fdd15a56085e9bc&chksm=9fca5dfda8bdd4eb0eb74ed5e131ff8c1789b291a32e73f2e85bb58cdb08b32df1d2f1756b9e#rd)
+    - 时间：2023-03-19
+    - 摘要：简介：快来学这5种具体方法——
+- [学费全返 限量招募 | 21天正念深度疗愈营全新上线——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791801&idx=2&sn=59b6f7ca545cf40c57dfaa554dbc444a&chksm=9fca5dfda8bdd4eb4505cec23232f3fcb4f39b93084ecd6ce0e30b6138366c77e9840ecf0c84#rd)
+    - 时间：2023-03-19
+    - 摘要：福利活动 仅此一期
+- [有些弯路，其实是换了包装的礼物丨破解无力的生活](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791801&idx=4&sn=ffb507d3bf3ba57dabc08e18a3d365ac&chksm=9fca5dfda8bdd4eb034aa4e0781f9c7c6a8fc2f8805916604609fed5802ba08f920a2dea7d59#rd)
+    - 时间：2023-03-19
+    - 摘要：松弛下来，才是生活
+- [只有“逐渐变老”才能有的8种超赞体验。你体验过几种？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791779&idx=1&sn=8818c0fc66404a9ca1e4cef4ab8414ba&chksm=9fca5de7a8bdd4f18823d4f9437250d024bd29c7eebb4201e4e75b48fbfbeec12b8cd78e89d2#rd)
+    - 时间：2023-03-18
+    - 摘要：了解后不再害怕变老！
+- [你会和谁在一起？走向又如何？答案在你的「爱情剧本」里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791779&idx=2&sn=771d628dd9dfa3eff8feec5a9a157bcf&chksm=9fca5de7a8bdd4f1770778b15e8ae5e3007668716ef53c5db14dba25dbca662de8c1c24784dc#rd)
+    - 时间：2023-03-18
+    - 摘要：你拿到了什么样的爱情剧本？
+- [KY首档·学费全返 限量招募|21天正念深度疗愈营全新上线 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791779&idx=5&sn=c6b584177188b994d0cd4e2456af756a&chksm=9fca5de7a8bdd4f1e0bfadcb9e6120fb69bc3d5adff612197d1107d35db84dfdd27b80bf3aac#rd)
+    - 时间：2023-03-18
+    - 摘要：仅此一期 招满即止
+- [真正的成长，往往发生在最深的自我探索之后 | 100堂课带你深入自我探索](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791779&idx=6&sn=c85b0989c82cbf26b3f2627a073d688c&chksm=9fca5de7a8bdd4f17e70839bcbb7c932faf825d27e8e06ecf4ff9882d671afd25aa47bdb3642#rd)
+    - 时间：2023-03-18
+    - 摘要：
+- [糟心的工作or关系？这4种迹象，说明再不「止损」就晚了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791604&idx=1&sn=4beea551718630c648b45056f2cb6cc8&chksm=9fca5ab0a8bdd3a62df4c9c9765c3dbbe269b11ac7a81c2212794806390079742fff1e5a4990#rd)
+    - 时间：2023-03-17
+    - 摘要：心理止损跟钱包止损一样重要
+- [学费全返「21天正念营」上线！消解什么都没做还是感觉累的疲惫感——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791604&idx=2&sn=e76f2dc6ac8834fdcfb3d910e7b7895a&chksm=9fca5ab0a8bdd3a647a10d71e9c3597bb0e10e4102e855a43ad2201b6aaef03aa8ebac0df538#rd)
+    - 时间：2023-03-17
+    - 摘要：挑战“0元”学正念，福利活动，仅此1期。
+- [到底做什么事，10年后才不会后悔|让你少走弯路的顶级心理能力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791604&idx=3&sn=049ef6a870cbbdb7daca85b5996b9458&chksm=9fca5ab0a8bdd3a64008d17695f3e2e99f0f86717fee24040d875a9ea55a3ebabc4ff1f68eb8#rd)
+    - 时间：2023-03-17
+    - 摘要：
+- [如何谈一场直球式恋爱？丨情侣沟通3个必备底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791604&idx=5&sn=6bf8d8ce445030b2aa9e40d669825735&chksm=9fca5ab0a8bdd3a64182fbab5e553466a226507f6ff765e0fbf450834f6fe07d4821c4cd4219#rd)
+    - 时间：2023-03-17
+    - 摘要：情绪没有错，是语言伤人——学会在亲密关系中坦诚沟通
+- [容易被别人的看法动摇？可以从这8件小事开始改变——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791508&idx=1&sn=7bb6ac01a2c39b3857fc14199492b5b2&chksm=9fca5ad0a8bdd3c6cf18d122260591982ca23d3905b55428965441e11f04ac20d6aacd60a704#rd)
+    - 时间：2023-03-16
+    - 摘要：一份通向你自己的地图
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791508&idx=2&sn=853d4503004790aaa468c2edf16c65b7&chksm=9fca5ad0a8bdd3c663afe956adca89261c44950eea464a7bee28a08a37390db4f9178c19a768#rd)
+    - 时间：2023-03-16
+    - 摘要：
+- [学费全返 限量招募｜21天正念打卡告别混沌！神清气爽——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791508&idx=5&sn=eaa163b1e2d8c8ffcbe1ef558b2f6d93&chksm=9fca5ad0a8bdd3c64ff9c76247401cb760a1ef20ff0308b83c6b89dd97aea4913691c641d93a#rd)
+    - 时间：2023-03-16
+    - 摘要：期待彻底的舒展和更新。
+- [想谈恋爱很低级？警惕逐渐流行的「恋爱审判情结」——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791302&idx=1&sn=4b1520eec550656e164b1fcdf5c00461&chksm=9fca5b82a8bdd2945c8ce268ef42548a2697fbc7c98912559ae1f9aba35faccaa1edd833f0bc#rd)
+    - 时间：2023-03-15
+    - 摘要：想谈恋爱，不应该是一件羞耻的事。
+- [学费全返 限量招募 | 21天正念深度疗愈营全新上线——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791302&idx=2&sn=300ec8d30df632633ce4db7099f8bb0a&chksm=9fca5b82a8bdd294dcc109ac6dd0e2357305ed2b15ad58ef03e39448a3ad4a2821ac1de9f6cc#rd)
+    - 时间：2023-03-15
+    - 摘要：仅此一期 招满即止
+- [好纠结！今晚羞羞，开灯or关灯？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791302&idx=3&sn=df7c194e6c1bf3fcbea2e12d636763e5&chksm=9fca5b82a8bdd294ac85c35a92668609a98f25559fdb7d18fd5bf4a233829b6489f59611cb9f#rd)
+    - 时间：2023-03-15
+    - 摘要：身体魅力≠性魅力？性魅力须知。
+- [恋爱中的“自卑感”要怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791302&idx=6&sn=38ea960ad03847aeeff94457b9759866&chksm=9fca5b82a8bdd294b61c52b50dea994381adddb5f7dce97b608169fba7e1fc4bc7e5f1a45928#rd)
+    - 时间：2023-03-15
+    - 摘要：文末有惊喜！👇
+- [这么简单的小事，坚持就能抗抑郁！早点知道就好了（不是运动）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791107&idx=1&sn=29604c41c01074099f757193ec03c09c&chksm=9fca5b47a8bdd251fdf4c96f20020f90325eaba56fd9d124a36dd23bd239e92a772d0680603e#rd)
+    - 时间：2023-03-14
+    - 摘要：今天就开始吧！
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791107&idx=2&sn=e635b7ca34e7e3c0e56dc2818d924cb7&chksm=9fca5b47a8bdd25112f280038bce46d6f3dab7682bfbc44e67de84a4880823107a912b1d7735#rd)
+    - 时间：2023-03-14
+    - 摘要：
+- [什么都没做每天感觉累？消解生活中的疲惫感|学费全返「21天正念营」上线——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791107&idx=3&sn=04ff5cc653a4276b9ae4c4d585718ecc&chksm=9fca5b47a8bdd251929cb1eb40cf64c0e2308d5f3661dd65c2c8a7eeffdcab6972791f4ca389#rd)
+    - 时间：2023-03-14
+    - 摘要：挑战“0元”学正念，福利活动，仅此1期。
+- [请立刻停止自我PUA，放过自己提升自信！告别病态内耗——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791028&idx=1&sn=de669ca15771252e7c5c2c56ac85810e&chksm=9fca58f0a8bdd1e6fb8b6e60bcc063db9161313af56e6b2963c2727a687fb4c53dfbd38ea8f0#rd)
+    - 时间：2023-03-13
+    - 摘要：KY首发|21天正念深度疗愈营！坚持打卡 学费全返——
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791028&idx=3&sn=ce19ad4f6a45636c09f1141fcabc3a4d&chksm=9fca58f0a8bdd1e63d10448d95ee9e3ad90e8eae24e33821a55c0a4cfcef796e75c3a0584c44#rd)
+    - 时间：2023-03-13
+    - 摘要：
+- [4条法则，让你拥有一段高质量并持久的亲密关系！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791028&idx=4&sn=6f7883636b61768f9e49fdb2d39c6270&chksm=9fca58f0a8bdd1e6679a531640d60ec69188e3de6bd4cfee8bc5dc55ea2243ee7ba372a054ea#rd)
+    - 时间：2023-03-13
+    - 摘要：爱的锋芒不会变钝，爱的热情不会降低
+- [如何对抗生活空虚感？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247791028&idx=5&sn=83fb9ce414823371cd95a882c04bfd4b&chksm=9fca58f0a8bdd1e6a533a4b738bb4f99268f83634d12f9c80af3e9dbc0236f704f335052cacc#rd)
+    - 时间：2023-03-13
+    - 摘要：测测你追求的人生意义究竟是什么？
+- [能够「治愈我们过往创伤」的人，一定擅长做这件事——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247790277&idx=1&sn=17c1015dc468eae637ccf27c6049e5b2&chksm=9fca4781a8bdce97c646abfc0f6d788ece6320e130dcab1c79a19300339b70707f04c61ea462#rd)
+    - 时间：2023-03-12
+    - 摘要：人与人之间最治愈的体验
+- [明确这3点，就能找到“对的人”！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247790277&idx=2&sn=ce9d502ca6a227d45277317a76e02828&chksm=9fca4781a8bdce97bf69a74070bf2cdf9fc9deb11238360bfb02b5596966ad5d9cc330257118#rd)
+    - 时间：2023-03-12
+    - 摘要：在爱情里，你最看重的是什么？
+- [给你看我的软肋，我是不是就输了丨“不完美”爱情自救指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247790277&idx=3&sn=5fe932fa689950aacd61147323249242&chksm=9fca4781a8bdce975a10751106add6ab7cbeb16eea50f7c6d912558531831ceef1eae8505c7f#rd)
+    - 时间：2023-03-12
+    - 摘要：你以为的软肋，其实是一节被遗忘的人生必修课
+- [西西弗斯式困境丨如果生活都是徒劳，如何在无意义中寻找意义？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247790277&idx=4&sn=029016a1b23fe49f54639c7c3d4a50f8&chksm=9fca4781a8bdce972eb007a719e92c671c92ad951876b4a2cc145dd17fd5d575cf86dd59154d#rd)
+    - 时间：2023-03-12
+    - 摘要：新的一年，我做了一个改变我一生的决定！
+- [「孤独」时大脑和身体会发生什么？它的“杀伤力”大多数人都不够了解——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247790267&idx=1&sn=3f2c80b3e2b644b179ad32c04e069da9&chksm=9fca47ffa8bdcee939b5727e94eacb5e4353c3be6fd9ab589c1fcc15425cc9d9350f1469082d#rd)
+    - 时间：2023-03-11
+    - 摘要：孤独会兵分三路入侵我们的身体
+- [学费全返 限量招募 | 21天正念深度疗愈营全新上线——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247790267&idx=2&sn=640db1694db9cb9d2d1acac9048be624&chksm=9fca47ffa8bdcee91c235465707f2bb53ef2e0c9bc0eca12edd75261842dd060ff65a43ce7ba#rd)
+    - 时间：2023-03-11
+    - 摘要：仅此一期 招满即止
+- [我和对象大吵一架后，找聊愈师聊了30分钟，矛盾解决了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247790267&idx=3&sn=6d16d6bf2cb17bcc4ed2daf0786e7970&chksm=9fca47ffa8bdcee96ecf293f553209e4f264008579ffa2a68ceb99e9d7d48efe620b648f06b9#rd)
+    - 时间：2023-03-11
+    - 摘要：父母关系不好，是否一定会影响自己的亲密关系？
+- [爱情对于一些人只是锦上添花丨是你吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247790267&idx=4&sn=41f130e89a800b1bd66bee7ca817c9a8&chksm=9fca47ffa8bdcee9e22f02b007fa12a19137de4bb2402f632611f2b4423d5902dbf3ccfb65c1#rd)
+    - 时间：2023-03-11
+    - 摘要：是时候重新思考爱情这件事情了。
+- [同龄女生到底睡得怎么样？5分钟女性睡眠质量调研（快来参与）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789775&idx=1&sn=26d2cd7ccfbf684d35a956e085248a6c&chksm=9fca458ba8bdcc9d7d634321dd8ed9043371aaf27359632992cf4ccd738854ca69e89d58ea4e#rd)
+    - 时间：2023-03-10
+    - 摘要：月经对睡眠的影响，可能比你想象中大的多——
+- [能做到「婚内维持恋爱感」的伴侣，都做对了这4件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789506&idx=1&sn=a7585b96625475d2e057bb96d695e0b8&chksm=9fca4286a8bdcb90e0a1e6625e18681fa66012fd476831032b788b3fb971c0cf3b0f213aae45#rd)
+    - 时间：2023-03-09
+    - 摘要：婚内再心动，有可能吗？
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789506&idx=2&sn=e64030183dc5b3dd9bba707cc7306d51&chksm=9fca4286a8bdcb90c57185a59f0376001f59d80b2df47bda144eb01d3e164d0448ae743da26a#rd)
+    - 时间：2023-03-09
+    - 摘要：
+- [什么都没做，还是每天都好累 | 如何消解生活中的疲惫感？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789506&idx=4&sn=785a8a36cb4a8dc638747982ca3f7d55&chksm=9fca4286a8bdcb90138dec4268bc8e0b0d979435527344322091b28976257cdcc5164109eb96#rd)
+    - 时间：2023-03-09
+    - 摘要：挑战“0元”学正念，福利活动，仅此1期。
+- [被劝分手，听还是不听？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789506&idx=5&sn=01fb5d45ee61a5333668f19f8d56d47d&chksm=9fca4286a8bdcb90b7e3fadd7717bab079a94c20d612798882f84ab9db64bff82409d9338d81#rd)
+    - 时间：2023-03-09
+    - 摘要：你的对象还要不要继续留着？
+- [摆烂太久，天赋与力量就会被收走](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789506&idx=6&sn=9bc0cf8323c0a0dcae280bce3685fbb6&chksm=9fca4286a8bdcb90094cf801ca91b6db54c71fdb2504e620987cfa2628618e2aa8ed8a5a6c61#rd)
+    - 时间：2023-03-09
+    - 摘要：
+- [为什么要庆祝“妇女节”？99%的人都答不对这道题——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789259&idx=1&sn=1eed890a31e0dc53e82c8f9fab8c598d&chksm=9fca438fa8bdca99f5d35f3d76cb335d7b5f73cf77599c9def499151fd179e690367c80683f9#rd)
+    - 时间：2023-03-08
+    - 摘要：今天是第113个国际妇女节
+- [又懒又想进步？告别病态内耗，放过自己提升自信！21天正念营上线，坚持打卡学费全返——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789259&idx=2&sn=81e6e774aae927816001f4b5af3243da&chksm=9fca438fa8bdca99250cfb69314a9292bc0b6850a9b366e3be717a667c488ec1c219874e1af0#rd)
+    - 时间：2023-03-08
+    - 摘要：仅此一期 招满即止
+- [促使你自我成长的，应该是反馈，而不是痛苦本身](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789259&idx=3&sn=b1ee393ac878672bd362afd28de2d6cb&chksm=9fca438fa8bdca99a7f6662bf51b886a9fa5b64133c59dcf24fa62f2095bd257de4b10097410#rd)
+    - 时间：2023-03-08
+    - 摘要：当成长是自己难以面对的挑战，何解？
+- [一见钟情or朋友变恋人or…丨哪种类型让你最幸福？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789259&idx=4&sn=d18a7005c2acc4a26bb74e4842b87590&chksm=9fca438fa8bdca99d4138abbaebfd56a7c22d2e70b74e4f5eec9e7700ea714e05ead8b2d5087#rd)
+    - 时间：2023-03-08
+    - 摘要：超全爱情分析报告，点击即测！
+- [2.5小时「深度社交」是什么体验？36城茶会招募中——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247789259&idx=6&sn=38d1bbbfa5b093135e534fde21edb4c3&chksm=9fca438fa8bdca99ad19749286d2dc08799e4bd0cc6f352a833e282ed17bbf9b1226edf9c31e#rd)
+    - 时间：2023-03-08
+    - 摘要：
+- [80% 的女性都遭遇过的一件事，却总被说成“自作多情”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788985&idx=1&sn=39f3df01449bcf017cf37b5b80c70ea7&chksm=9fca40fda8bdc9ebd1cce34ab0e4adeb07e00a047f99ef60c2860c516f6054bbea1c400cc02a#rd)
+    - 时间：2023-03-07
+    - 摘要：任何一种形式的性骚扰，都应该被看见。
+- [Ta不再爱你的15个信号，第一个就扎心了丨KY漫画](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788985&idx=2&sn=d6bb2b3e0e6e0a10afe2e3971341a594&chksm=9fca40fda8bdc9ebee5d274974782df61837cd5fe16d32c982b067d5037ac5b5f4d3e47e4696#rd)
+    - 时间：2023-03-07
+    - 摘要：越早知道越好
+- [又懒又想进步？告别病态内耗，放过自己提升自信！21天正念营上线，坚持打卡学费全返——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788985&idx=3&sn=10eeab90f16ec2a7a1bb379686012797&chksm=9fca40fda8bdc9ebe040d0928639475025c7c9984e119a84bbfc5a4a461627677da37c61e244#rd)
+    - 时间：2023-03-07
+    - 摘要：仅此一期 招满即止
+- [命运是注定的吗？唯有认识自己，才能掌握命运](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788985&idx=4&sn=827a4ff30f9a839a06908345545644e0&chksm=9fca40fda8bdc9eb093a02cb7be3c577685a83a2e8e972092fbec60547088ce52f14795ce6ad#rd)
+    - 时间：2023-03-07
+    - 摘要：命运是注定的吗？唯有认识自己，才能掌握命运
+- [“活着没意思” 丨连咨询师都无能为力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788985&idx=6&sn=b54a45710fc09bf85465e9175104e08e&chksm=9fca40fda8bdc9eb82d4463088aa497a8b82cdd033e13806048296be9d8f86265151d0c25a42#rd)
+    - 时间：2023-03-07
+    - 摘要：
+- [喜欢自己，只想跟自己啪啪啪？这种性取向，你一定没听说过……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788642&idx=1&sn=f426e1e90e0a8dd9f7b27b954864aa88&chksm=9fca4126a8bdc830987ce36ab55bd81fd9c908fe0f96cb48c73b66cfd853b4d16cf493b7a6a4#rd)
+    - 时间：2023-03-06
+    - 摘要：爱上自己，还可以有这种打开方式？！
+- [当我作为女性被看见，我才有了力量](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788642&idx=4&sn=25647bbec35ceb96a9623496aafde277&chksm=9fca4126a8bdc830789f11b3850188c743f5dc7b501bd9eae0d80d6bec40c36196188300d868#rd)
+    - 时间：2023-03-06
+    - 摘要：
+- [限量招募丨21天正念深度疗愈营全新上线！坚持打卡，学费全返——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788642&idx=5&sn=441341a4151402e4fecd8213b4f8898a&chksm=9fca4126a8bdc83093e5fef39355533a401ddde3218fd89c53ce0b55f82d32ba7761a7d9b8b0#rd)
+    - 时间：2023-03-06
+    - 摘要：仅此一期 招满即止
+- [从什么时候开始，我们不敢付出真心，也不敢完全信任。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788642&idx=6&sn=225f220e076d3c3b2fd53c9ce3d8c245&chksm=9fca4126a8bdc83013c1c5d150c225523aaf406214aa40e6ab8ba1d871df74fd943a9d0ee848#rd)
+    - 时间：2023-03-06
+    - 摘要：只有知道真正的问题在哪里，你才能重拾对爱的信心。
+- [男生真的喜欢找和他们“母亲”相像的女友吗？研究说：是真的。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788447&idx=1&sn=da044e6445bea14021dc1eb840f0bfd8&chksm=9fca4edba8bdc7cd771713a17d9599dbce174893014f3a582d31fdd4d03f78632c5f569cf59d#rd)
+    - 时间：2023-03-05
+    - 摘要：“妈系女友”可能才是男人的心头好，不是妈宝的意思！
+- [7个月进入心理行业，收获居家兼职机会丨萌芽14期开课倒计时2天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788447&idx=2&sn=876c4bfad73cd6902cb2bc8ee1980967&chksm=9fca4edba8bdc7cdd37f174b56160273b95a3b666af5e316c6a48bb0c0740741a5143f0146fa#rd)
+    - 时间：2023-03-05
+    - 摘要：探索进入心理行业的最优选择
+- [命运是注定的吗？唯有认识自己，才能掌握命运](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788447&idx=4&sn=f95bcbd21f6aa771b86482d17bd94031&chksm=9fca4edba8bdc7cd6d2fe6da0409bb0fb6816d877e7715ad1abdd20de07f91bf8c78e330effb#rd)
+    - 时间：2023-03-05
+    - 摘要：
+- [嘘，你的命运其实由你的人格阴暗面所决定丨人格阴影探索](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788447&idx=5&sn=c262fb4ccab128c67a0ee80c0cf0a014&chksm=9fca4edba8bdc7cdccbea2b5c531cc169a7ec9b8a05c1634e4bf2a4dfa231f7bf227d1836ef4#rd)
+    - 时间：2023-03-05
+    - 摘要：你一直在带着什么样的人格阴影生活？
+- [“我在喜欢的人面前，难以自控地自卑。”｜女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788447&idx=6&sn=814f3b2f0f9420351607ef5a9882542e&chksm=9fca4edba8bdc7cd33f12d40f668ca27f4f3e728128b3cf518a233bd8d0e34363b8e6ea39208#rd)
+    - 时间：2023-03-05
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [30岁-35岁：一生中最容易有“失败感”的5年｜什么是「成年过渡期」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788182&idx=1&sn=ef384793a44e397abf1827af4921e3e8&chksm=9fca4fd2a8bdc6c40066a989f20d5203a3cbfa019dfcb8f31ebdedc483b16b2d3c66ec6c7555#rd)
+    - 时间：2023-03-04
+    - 摘要：“一个人在一系列矛盾和冲突中，逐渐明确个人价值和生活目标”的人生阶段
+- [梳理你的【择偶清单】，离对的人更近一步——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788182&idx=2&sn=a1bd52e71f887187b554cbb169f4187a&chksm=9fca4fd2a8bdc6c4d51d19b6eb316487e958d35f3e4f496343eaddc203a6bd19e0275d82e96e#rd)
+    - 时间：2023-03-04
+    - 摘要：​明确择偶标准，找到“对的人”
+- [爱的人在哭泣，我却只会说“别哭了”丨如何成为一个有“疗愈力”的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788182&idx=4&sn=40ad65523ef006bf73a4db206447aee8&chksm=9fca4fd2a8bdc6c476622a73feb765870b9d02eae723c9c55f1866a3a1875f76756680568bd8#rd)
+    - 时间：2023-03-04
+    - 摘要：探索进入心理行业的最优选择
+- [命运是注定的吗？丨无法真正认识自己的人，一生都在制造痛苦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788182&idx=5&sn=047bed79ef4affa67f721f17736c6ef5&chksm=9fca4fd2a8bdc6c40082e855b415532e8f85fa42e3ed6066d4d2987944520cca80a8521e67c9#rd)
+    - 时间：2023-03-04
+    - 摘要：
+- [还有多少人不知道，人际关系破裂的根本原因往往是它——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788146&idx=1&sn=31ff6f6a415e90e612d542abc64652ad&chksm=9fca4f36a8bdc620d1d0106c04683bc338d2c92f458463794da4bd17c40073bb7c9ef55ff8ed#rd)
+    - 时间：2023-03-03
+    - 摘要：没能建立起这个「基础共识」的关系，一定以破裂为结局。
+- [如何脱单？自我接纳？婚or不婚？来一场「主题高质量社交」吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788146&idx=2&sn=bdc1a6dc211f040a5c5f6abc9463d18b&chksm=9fca4f36a8bdc620ea20d7552ab67b965ccb03a2e37b1e61a20eb57db8c786103ef92fa3e0f4#rd)
+    - 时间：2023-03-03
+    - 摘要：
+- [现实世界这么难，怎么做才是对自己好一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788146&idx=3&sn=637e4920c1c78078131243b04f5da312&chksm=9fca4f36a8bdc620169cf31009cd25d314dbe4a68d97f468d408123a4c706bb4989a9bd1aec5#rd)
+    - 时间：2023-03-03
+    - 摘要：有心事，来聊愈
+- [KY教你用MBTI找到「正缘」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788146&idx=5&sn=3fd75909374709a3c65476ed0912ed8f&chksm=9fca4f36a8bdc6209d97b85696210607a055a81bf5f9c99d153e0a248cc0acf75899df5a6219#rd)
+    - 时间：2023-03-03
+    - 摘要：点击立测你的恋爱MBTI。
+- [到底该如何「爱一个具体的人」？关键是这7个困难时刻的选择——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788024&idx=1&sn=0e775f0bfb69eed0b2c2371401330b24&chksm=9fca4cbca8bdc5aa12b03723a1bcb21ceca5085067893afc64885794a57f238a5a3fc7647c4f#rd)
+    - 时间：2023-03-02
+    - 摘要：7个判断真爱的小方法~
+- [如何谈一场直球式恋爱？丨情侣沟通3个必备底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788024&idx=3&sn=3785fc73f16048e623cf0e81facd5884&chksm=9fca4cbca8bdc5aa846cc77278b63251a6609bd121fdc650f52604164a8cda3fbebe14e92617#rd)
+    - 时间：2023-03-02
+    - 摘要：情绪没有错，是语言伤人——学会在亲密关系中坦诚沟通
+- [如何让 “ 对的人 ” 喜欢上你？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247788024&idx=4&sn=39e6cc7052c4df5ddfcd442fcd822c66&chksm=9fca4cbca8bdc5aab4af266828c81fc4e430f4ea46f423d944fcac319ed6f1fec0d4852ff357#rd)
+    - 时间：2023-03-02
+    - 摘要：恋爱吸引力=让人一见钟情的高颜值？
+- [为什么说女性一定要学会「愤怒」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787955&idx=1&sn=7ef25d0b333c5883c2714ca0579c6e89&chksm=9fca4cf7a8bdc5e1af5976fd3968fbf6c10a6086cb594ca28357fdb8b6d4734f1fca75c8add9#rd)
+    - 时间：2023-03-01
+    - 摘要：忍耐不是美德，合理的愤怒才是。
+- [认清这一点，是找准人生方向的关键。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787955&idx=3&sn=f08628200cb3d4ee1dd2edf0c5e4cee7&chksm=9fca4cf7a8bdc5e11a3c8186f76b00cf6047c9bcc8f6d6df703efbbc21fede858e98f05d049e#rd)
+    - 时间：2023-03-01
+    - 摘要：你的人生核心需求是什么？
+- [爱情最好的状态，是变成小孩子丨聊愈师眼中的爱情](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787955&idx=4&sn=5aa47ed763842fc3e90e906b8437b19d&chksm=9fca4cf7a8bdc5e1b0045c8feb08ce3533f27f463eaa06dc849bcd9c5a95c0ea21cb11d51e47#rd)
+    - 时间：2023-03-01
+    - 摘要：有心事，来聊愈
+- [自杀前，这种行为是显著的「预警信号」！家长一定要知道——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787848&idx=1&sn=75dfc8e00a55f64ee739527053c509ed&chksm=9fca4c0ca8bdc51a4b3593a86f6512e8479df038a3f1a8805e377b0316a45d30134a84cb4618#rd)
+    - 时间：2023-02-28
+    - 摘要：有些不幸是本可以避免的
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787848&idx=3&sn=3a585494ebbbe54fda164d80f45c5c81&chksm=9fca4c0ca8bdc51ab7affdae99fc2e3c27868d59c1787d62c118f8f53b86fe1df1520c8897d4#rd)
+    - 时间：2023-02-28
+    - 摘要：探索进入心理行业的最优选择
+- [将就的爱情要不要继续？这篇文章给你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787848&idx=4&sn=0701e78f277d6154fe4ac924a0593fc4&chksm=9fca4c0ca8bdc51a466b9fd36769d5e6c0f1700a7f8561b49deadcf7e8aa55eda87d37bda277#rd)
+    - 时间：2023-02-28
+    - 摘要：磨合还是分手? 这份测评帮你判断。
+- [三十岁的我，决定与自己和解丨在茶会发现未知的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787848&idx=5&sn=eb44480b564458ce1a1b5d91c38b35d8&chksm=9fca4c0ca8bdc51a6847cd8e9fcda0c0e99ba9bc99034c20bd45a41f66e3d3c7fa0b33e3a22a#rd)
+    - 时间：2023-02-28
+    - 摘要：
+- [如何拥有一段健康的「异性友谊」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787791&idx=1&sn=5f1896d9aeb2d625557429e44d1fbfab&chksm=9fca4c4ba8bdc55d7af6cb57f30cebffa348bbbee826d94d5176060cdfc15ec9a9a8013e52ab#rd)
+    - 时间：2023-02-27
+    - 摘要：异性友谊的新解题思路，一定要看
+- [“被渣后，我再也不相信爱情了。”丨被劈腿后，如何释怀？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787791&idx=5&sn=d721a8f6d13b2550fc5d17ebbe986186&chksm=9fca4c4ba8bdc55d784c27a2001dbf3dfc0582006df362810b346113416cf1072f048cd88180#rd)
+    - 时间：2023-02-27
+    - 摘要：Ta的出轨，带走了我信任的能力
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787791&idx=6&sn=62559ed75facab91abdf32155f9c80ed&chksm=9fca4c4ba8bdc55da9432c68213ed498998dc1af3c116381a867e668587311ff2de78f0ed745#rd)
+    - 时间：2023-02-27
+    - 摘要：
+- [恋爱中女生应该“主动出击”还是“被动妥协”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787791&idx=8&sn=36642a6b1dc4b3a9494f6488bccec0b5&chksm=9fca4c4ba8bdc55d1d2f66cccb939dcff6eda8f949b32232eba8500e64e4863225979c6c95d3#rd)
+    - 时间：2023-02-27
+    - 摘要：如何把恋爱谈明白？
+- [并不是付出就会有回报，起码爱情不是。｜漫画](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787235&idx=1&sn=b973210fb1ea61efe8df8e23010cd4c2&chksm=9fca4ba7a8bdc2b190db33de789ea254774d063fefe72630e931509f82dfd2380c11f4366a8f#rd)
+    - 时间：2023-02-26
+    - 摘要：爱从来不是只要付出就能获得。
+- [如何拥有高质量社交圈？丨茶会35城营业中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787235&idx=3&sn=66f1f0161c887d5bf0377290305f982b&chksm=9fca4ba7a8bdc2b1368ade6d22d2a7f7f9b724694a7d6b65d4625e453db67fe8ab34dd0267a3#rd)
+    - 时间：2023-02-26
+    - 摘要：
+- [爱的人在哭泣，我却只会说“别哭了” 丨如何成为一个有“疗愈力”的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787235&idx=5&sn=b8f8021defcbded6b78318335ce8bc5c&chksm=9fca4ba7a8bdc2b1da8611c7f2b71f4fc619e008755ca9b0789dc1bf1d085293f4bb83146552#rd)
+    - 时间：2023-02-26
+    - 摘要：探索进入心理行业的最优选择
+- [【分手必看】有了分手念头，怎么判断该不该分？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787235&idx=6&sn=730fd7a0f97c9bf827546ba758ea8033&chksm=9fca4ba7a8bdc2b177ff3785a6cbe5222eb9f3b6d89eded29d81b7eda83ee55a076a2441de62#rd)
+    - 时间：2023-02-26
+    - 摘要：你的对象还要不要继续留着？
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787235&idx=7&sn=590458facad9a703762fc43b7519aa11&chksm=9fca4ba7a8bdc2b163082690f6a60f11d64914665507e785871d4144f98d250d8d90752ce3c7#rd)
+    - 时间：2023-02-26
+    - 摘要：
+- [从小缺爱 vs 从小被爱，最大的不同在于这一点——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787194&idx=1&sn=3e86584824f384efbe4d9e90a268ecf4&chksm=9fca4bfea8bdc2e8a0ee7ed945582093f1331d387760c8b965a409ae15e8bf1d5d97d3a17d96#rd)
+    - 时间：2023-02-25
+    - 摘要：小时候缺爱并不意味着永远缺爱。
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787194&idx=2&sn=1b1d7398f859be0094ab531c0e25593e&chksm=9fca4bfea8bdc2e8ef1862b9604c762685d0b803e28c826ab815198592f087855ad9343408da#rd)
+    - 时间：2023-02-25
+    - 摘要：
+- [如何成为可以在家办公的KY心理聊愈师？丨萌芽14期即将开课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787194&idx=4&sn=c0ab460b5c3e992c28ebe3d49ee7678e&chksm=9fca4bfea8bdc2e8bcb47c321af89b09b99f8382d172444645343c67ef4a232782d6d3f75567#rd)
+    - 时间：2023-02-25
+    - 摘要：探索进入心理行业的最优选择
+- [不躺平，不内卷，还赚钱｜你的职业新赛道，应该这样选>](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787194&idx=6&sn=2f88d8e6e8e6f29cc9c73634899c77b0&chksm=9fca4bfea8bdc2e831764e32de06b05713fa3d6dd8a3ceea2104b0dea0ab43cc3063f11b2c46#rd)
+    - 时间：2023-02-25
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [“毕业五年，存款5000”，已经活成废物了怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787194&idx=8&sn=8a0d7ea94ab97ddb7add82dde1b2f4d7&chksm=9fca4bfea8bdc2e85c1b14194ff2720162701765763465624a4ac11a4a3d8a21fd6d26c1a2e6#rd)
+    - 时间：2023-02-25
+    - 摘要：“我真的感觉到了前所未有的自由和开阔”
+- [当伴侣出现这种情绪的时候，就是你看清ta的人格的最好时机——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787177&idx=1&sn=f65ec53c633ee467ca77ad81e7e8db19&chksm=9fca4beda8bdc2fb39ef2e731f8b1a05fadf75850a5af6882230f94c344b4f6075d357cb7e77#rd)
+    - 时间：2023-02-24
+    - 摘要：再也没有一个时刻，比这个更能让你看清一个人的底色
+- [现实世界这么难，怎么做才是对自己好一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787177&idx=6&sn=93e2327a714fdb98e5ef31871698690a&chksm=9fca4beda8bdc2fb001c76355cf4100817ba61f39c4b2301cf2b5735fcd88c2b277f5db56ac3#rd)
+    - 时间：2023-02-24
+    - 摘要：有心事，来聊愈
+- [周末精神社交局，一起组队吗？丨KY匹配之「陪你读一本书」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247787177&idx=8&sn=85a7feec4d81abc4610e2b5122a91fba&chksm=9fca4beda8bdc2fb17745175bb604e8b5e6280456b24e02458454281d69639ba2fb5c73b363f#rd)
+    - 时间：2023-02-24
+    - 摘要：陌生人，可以成为你的书友吗？
+- [34句话说出「端正恋爱观」，你最认同哪句？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786971&idx=1&sn=15cce23c907b7587d2eadee0894ad0d7&chksm=9fca489fa8bdc189d8e7b7fa0b370d21bed49283a7480fd8b0e6b2db31c32793f7d00060d641#rd)
+    - 时间：2023-02-23
+    - 摘要：看完好像知道该怎么谈恋爱了。
+- [想要过上自由生活的人，真的应该尽早做到这一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786971&idx=2&sn=b5246229a8d0af92b6f693085a6cb6fe&chksm=9fca489fa8bdc1898bf86abb139d02d8fe53577e6f6e1e36bcaf6de10eb80feca6169c87bded#rd)
+    - 时间：2023-02-23
+    - 摘要：自治才能自由。
+- [“我在喜欢的人面前，难以自控地自卑。”｜女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786971&idx=3&sn=1df59e4cba1f22479bddd2d9830c7f22&chksm=9fca489fa8bdc1895e15a6c07657abb252ccdd44538f023cfad36b35f61ca7cc186446e16af9#rd)
+    - 时间：2023-02-23
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [你是什么样的“依恋类型”，就决定了你在恋爱中有什么样的表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786971&idx=4&sn=9b7c645dbd74da9540ed8c03786d899c&chksm=9fca489fa8bdc1896626f918db2563d5a6e71875623e55c048ff84413d0f51a1ec88a3d2685e#rd)
+    - 时间：2023-02-23
+    - 摘要：探索进入心理行业的最优选择
+- [关于我喜欢上同性好友这件事——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786971&idx=5&sn=b2ab791a3dee605ea4dcf6fceac40846&chksm=9fca489fa8bdc1891c664007afe323de61f23877aa33981f375f43450594d50c75ee951e4be7#rd)
+    - 时间：2023-02-23
+    - 摘要：快来测一测你的性取向。
+- [成年人交友不易？可能是你没试过这样的灵魂社交！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786971&idx=6&sn=b1f1cdcd0c6e95b35a3e14583605b154&chksm=9fca489fa8bdc18950cf0b4f84c89ca54f25f586e8288938ea855935cc93aa305c2edb251e34#rd)
+    - 时间：2023-02-23
+    - 摘要：
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786971&idx=8&sn=e5c01da9de3db707aaa94df98569fb83&chksm=9fca489fa8bdc189b6c022f860c82e34372933e003f8eedc730c3648ccc4597c4cde626b47a1#rd)
+    - 时间：2023-02-23
+    - 摘要：
+- [原来，人们对伴侣的最基本的需求是这个——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786473&idx=1&sn=813c20324252e3c889f1b90b19017ed5&chksm=9fcab6ada8bd3fbbe4aa4d459275dff8514512ee742d94db57a770154da4630a91090254cd5a#rd)
+    - 时间：2023-02-22
+    - 摘要：一种亲密关系中的“必杀技”
+- [一见钟情or朋友变恋人？丨16种爱情模式，哪种适合你？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786473&idx=3&sn=2fb3239ca84bccd4a1597dbd75f84410&chksm=9fcab6ada8bd3fbbc4acbab57fe606b9cdea39d7a44349c7fd933aa50cf20480376430fc9839#rd)
+    - 时间：2023-02-22
+    - 摘要：超全爱情分析报告，点击即测！
+- [现实世界这么难，怎么做才是对自己好一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786473&idx=5&sn=75d2226f48796826d27d43b7089c84fc&chksm=9fcab6ada8bd3fbb2294d9b03d14ca818c1a2d132230902c8d1cfce97af4c579cad41a792a3d#rd)
+    - 时间：2023-02-22
+    - 摘要：有心事，来聊愈
+- [治疗恋爱脑最好的方法，就是多谈恋爱！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786473&idx=6&sn=a0d67be0355e4997fa48053243ad3be5&chksm=9fcab6ada8bd3fbb843e11a134a78d96363efadcea92b080e7b7d30a8324f68897af7504e4ea#rd)
+    - 时间：2023-02-22
+    - 摘要：如何把恋爱谈明白？
+- [给你看我的软肋，我是不是就输了丨“不完美”爱情自救指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786473&idx=8&sn=b900559b0fb5aa8f72a8fa5aa6ee4afd&chksm=9fcab6ada8bd3fbba7835ff1dee25d97965d9eed64cfbdff1c7e9aeadeb09776d714f230e647#rd)
+    - 时间：2023-02-22
+    - 摘要：你以为的软肋，其实是一节被遗忘的人生必修课
+- [因为染了粉色头发她被网暴自杀：“网暴”的本质是什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786167&idx=1&sn=5f94ad365738307adf5a0a62cfeec0ba&chksm=9fcab7f3a8bd3ee5d595a6cf8bec046bc0f3b18b65b490bee48303ba085ecba2110e62ded652#rd)
+    - 时间：2023-02-21
+    - 摘要：希望不会再有下一个粉发女孩。
+- [怎样能：既享受工作，顺便赚到钱？丨职业核心需求探索](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786167&idx=3&sn=f7bce80990682ab465078b1d1b56399e&chksm=9fcab7f3a8bd3ee5d94fc20225ae8215f68aba2f372cd414dfd798e7b9ef9f29f748f216133c#rd)
+    - 时间：2023-02-21
+    - 摘要：除了摆烂，我还能怎么拯救工作不快乐？
+- [“活着没意思”丨连咨询师都无能为力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786167&idx=5&sn=951e244218acab5af0119fb5cc9986f8&chksm=9fcab7f3a8bd3ee5d8e97900ffde53addc182178557e2d6602a83c45aae0c9da38c2dc3737cb#rd)
+    - 时间：2023-02-21
+    - 摘要：
+- [爱情最好的状态，是变成小孩子丨聊愈师眼中的爱情](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247786167&idx=6&sn=6173fe75afd3f08fd59045db6e753f0c&chksm=9fcab7f3a8bd3ee58f5ad3a33435f240e74db4d1d7b70f2066ccf21de12791f0428a32e841a1#rd)
+    - 时间：2023-02-21
+    - 摘要：有心事，来聊愈
+- [女性在婚姻中性欲消退比男性更明显？除非婚姻中有这个特点——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785768&idx=1&sn=0d9ee8595ee620eb26dbcd117c0b42a6&chksm=9fcab46ca8bd3d7a645c34596bb926fb264f66626554a568b8f75b0827fff7ce3513fc5d221d#rd)
+    - 时间：2023-02-20
+    - 摘要：智商和情商都无法拯救性生活，但「欲商」可以。
+- [作为斜杠新青年，心理咨询师是我的另一个职业身份丨萌芽14期开课在即](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785768&idx=2&sn=0df9922792a1ebae3ad9d1ae5ebd82ca&chksm=9fcab46ca8bd3d7a882ce07fbac91ebf79ad7e823170cca43863f0625eafa3c2482d0349c6c1#rd)
+    - 时间：2023-02-20
+    - 摘要：探索进入心理行业的最优选择
+- [心理学小白如何进入心理行业，获得兼职机会？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785768&idx=4&sn=2301f2be89b3aa5dcfc44045f665fe47&chksm=9fcab46ca8bd3d7a6d44946914b6bce457cd06dce4108f5272b6cd63af0c357d22848f5bffc6#rd)
+    - 时间：2023-02-20
+    - 摘要：本周三直播，预约不错过
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785768&idx=5&sn=d8517f411463261bbdaa622d955cc68e&chksm=9fcab46ca8bd3d7ab684566e353b4671366942efdea175871618fca25edf4bbe8a8f946a16f8#rd)
+    - 时间：2023-02-20
+    - 摘要：
+- [你的潜在天赋决定了你的人生上限｜潜在天赋挖掘](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785768&idx=6&sn=ea22256b2a67336a55ef41db634fa50a&chksm=9fcab46ca8bd3d7ad4d898cfdddafb4c15abd8058fd8e0d36456a25972eac25760c91325ea03#rd)
+    - 时间：2023-02-20
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [江湖救急！KY拜托大家进来看一下！！真的求求](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785498&idx=1&sn=3e890627b5d222b7fc3d99d49f1a1197&chksm=9fcab55ea8bd3c484d3311d285408c806c40d24e728d9d6688b9641b2a875f0821fdc307d585#rd)
+    - 时间：2023-02-19
+    - 摘要：希望我们不要再错过
+- [你会和谁在一起？走向又如何？答案在你的「爱情剧本」里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785498&idx=2&sn=057f2a360d12237a1603a6b7bb79c268&chksm=9fcab55ea8bd3c4820c8b0332b165ea53aeedb5fb11777a268b54add9be9dccd846ba4e5e950#rd)
+    - 时间：2023-02-19
+    - 摘要：你拿到了什么样的爱情剧本？
+- [女孩们请大胆生气丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785498&idx=5&sn=df9fb5e580b89711e8386d63e7945574&chksm=9fcab55ea8bd3c48f8367360f8372bad0af49cf49e8eef79107caf1c56db57791b3377cab385#rd)
+    - 时间：2023-02-19
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [摆烂太久，天赋与力量就会被收走](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785498&idx=8&sn=d14c32ca592bb7d44cd4b3509a5acbc2&chksm=9fcab55ea8bd3c48b5f43389a2798d9111012556491cfa1bad92d4e2f528d96977dff222b20d#rd)
+    - 时间：2023-02-19
+    - 摘要：
+- [最最最最最简单的「心理安抚技术」，只要一句话——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785477&idx=1&sn=9a3a8e3e4925d381c2339eb560bf1708&chksm=9fcab541a8bd3c5703abc5a095522d8db1cb0aa9f5780d244f2dffa1ecc371633e1f1d780a5b#rd)
+    - 时间：2023-02-18
+    - 摘要：打开对方“内在世界”的钥匙原来是这个！
+- [当下，停止“自我内耗”是对自己最好的照顾](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785477&idx=4&sn=72b508ef1afc8e643cf63e810cbd8ec3&chksm=9fcab541a8bd3c57bbeb1cc9916ae919d969c88a0a8bfedc8a55f1d200fe0d5342ae0a32ab1f#rd)
+    - 时间：2023-02-18
+    - 摘要：有心事，来聊愈
+- [当爱情变鸡肋, 食之无肉弃之有味。还要继续走下去吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785477&idx=6&sn=ec3041889d4e31aa64f26e287876673d&chksm=9fcab541a8bd3c57a4b5115cd24d25f07a0980a3198aea1945520aee17f0b061f8c7a711366d#rd)
+    - 时间：2023-02-18
+    - 摘要：磨合还是分手? 这份测评帮你判断。
+- [4条恋爱升温法则，拿捏住就没有谈不好的恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785431&idx=5&sn=f66bf2f92eb4b248dbf1e387b6f4b682&chksm=9fcab293a8bd3b85695928c8032328d9724de668ed6c4ee53f41aa3985a929cf95d88062d9ea#rd)
+    - 时间：2023-02-17
+    - 摘要：教你收获一段高质量的亲密关系
+- [Ta说成熟就是要突破舒适圈？｜注意，你可能被PUA了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785431&idx=8&sn=b364845169d13032048a19223a593f1f&chksm=9fcab293a8bd3b858841843421928d1071309695602931a711f00d46ecec8cf070c51300ebe3#rd)
+    - 时间：2023-02-17
+    - 摘要：测测你被PUA的可能性有多大？
+- [不曾被述说的记忆：疫情三年留下了什么样的长期心理影响？（特约咨询师访谈）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785042&idx=1&sn=ca3f77d5eeda9310f00d2a4c2fdc996d&chksm=9fcab316a8bd3a00f9179ca5a1d7eec196b9d574b66f54cb2ea7fee5ec52312f1e95e6470131#rd)
+    - 时间：2023-02-16
+    - 摘要：有些事不应该被遗忘
+- [“折叠”时间提升人生厚度，这是我听过学习心理学最好的理由丨萌芽14期团购价优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785042&idx=3&sn=59b81935bea8783531bc707270eaa0c7&chksm=9fcab316a8bd3a00e7e86132cd6cf5be9ae385e5997fbffd9148ec9da52cde1da7870ffff78a#rd)
+    - 时间：2023-02-16
+    - 摘要：探索进入心理行业的最优选择
+- [爱欲型、友伴型、现实型…测测哪种爱情类型能让你幸福？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785042&idx=5&sn=527a6e42add73e188bf35007fe3b8d55&chksm=9fcab316a8bd3a00878a5ab97a29818b24ea28c38088e1dcbfc402bd5b0fae894b8646dc6e11#rd)
+    - 时间：2023-02-16
+    - 摘要：超全爱情分析报告，点击即测！
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247785042&idx=7&sn=9e7e36e457a89fa31272e3cb6d32c2cb&chksm=9fcab316a8bd3a00a095a5cba79843a291735163fb12394ae84b308e351b09d291a88b4f8bea#rd)
+    - 时间：2023-02-16
+    - 摘要：
+- [分开要趁早or婚姻要磨合？来茶会谈谈“离婚”丨茶会年度灵魂语录](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784956&idx=1&sn=e2da443f436f6c62841c0b8219fff013&chksm=9fcab0b8a8bd39aeb1654ece3ea04f8ba9668de2a490b0b50d196b5aec899a42f4ad9f019c3f#rd)
+    - 时间：2023-02-15
+    - 摘要：年度盘点&最新排期！来分享你想探讨的话题吧~
+- [如果可以重新来过，是不是一切可以变得更好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784956&idx=3&sn=4f7758815896f96673acb6a130dc65df&chksm=9fcab0b8a8bd39ae8626966607c58359b5c18cc1920728f27e4e78b0f9a93bc428032c6a06fd#rd)
+    - 时间：2023-02-15
+    - 摘要：有心事，来聊愈
+- [快30了，还是迷茫｜如何找到你真正渴望的人生方向？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784956&idx=5&sn=9d382c5056e72093380a4960c7e54353&chksm=9fcab0b8a8bd39ae26906966c9982942caa1c43d0161fea95ddcab9037ceabc21f347ca7dfc9#rd)
+    - 时间：2023-02-15
+    - 摘要：你的人生核心需求是什么？
+- [人生选择｜逃离北上广深后，我才知道生活的真相原来是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784956&idx=7&sn=01a2b126c3eb27b282e44ce9238ba5ce&chksm=9fcab0b8a8bd39ae81594f97dd742f56e23c6b3efc327386946e62bf45e942a9cca1892bc091#rd)
+    - 时间：2023-02-15
+    - 摘要：人生没有白走的路，每一步都算数。
+- [重大通知，你接下来可能看不到KnowYourself了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784956&idx=8&sn=43a114a9d0ae28f78815ab666d5d40c3&chksm=9fcab0b8a8bd39ae6af401aa90a4da6543cd8cf889adddf9e5cbd7dc281b537953bfa121bb2a#rd)
+    - 时间：2023-02-15
+    - 摘要：
+- [4个问题读出「你恋爱为什么这么难」，即点即看！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784416&idx=1&sn=b6b997f61dba214ccbb40f8e5489bbd7&chksm=9fcabea4a8bd37b2670b0747e39bc04e5e253b49c45e0efed210b275ee2daa93ad5c4c6f3d2d#rd)
+    - 时间：2023-02-14
+    - 摘要：没在过情人节的人来集合！
+- [所以爱是会消失的吗？丨关于爱情能否长久的研究KY为你准备好了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784416&idx=3&sn=63c4618d6684ad4a780faa65f9661026&chksm=9fcabea4a8bd37b2effa1d9c4e1fd69eda72b683042be5558faca4bf78aef6c2ada1fe265531#rd)
+    - 时间：2023-02-14
+    - 摘要：
+- [65岁才能退休意味着心理行业将成为最佳职业选择？丨萌芽14期团购优惠进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784416&idx=4&sn=bfb2890c1eceb1beac419b73cb30ffb6&chksm=9fcabea4a8bd37b24fd6fd5b4ddf567674ef78930fd25e191b0e6e679a767d22f2c5df3176d9#rd)
+    - 时间：2023-02-14
+    - 摘要：探索进入心理行业的最优选择
+- [二刷《狂飙》才明白，高启强式“恋爱脑”男友有多好！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784416&idx=5&sn=a4aa59c4f493809d66d857f098d57eb8&chksm=9fcabea4a8bd37b23d99f20316688b98ef8d2b649de36430883e58a0f933b1c7308f2cebc0de#rd)
+    - 时间：2023-02-14
+    - 摘要：
+- [总是想太多、情绪内耗……如何改善“高敏感”？丨2月限定](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784416&idx=6&sn=3e0f5972fc2a2e889f80c21ccfb259b4&chksm=9fcabea4a8bd37b21732c140ec6e6433af9ed218d2a71a0186367e99d66387b2b983449c04e8#rd)
+    - 时间：2023-02-14
+    - 摘要：
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784416&idx=8&sn=da9e11642787b569ac11671dec91cb14&chksm=9fcabea4a8bd37b2d311f3d330d7cfb0bea388b1b60b72094bf5dfb237366808d12bbdfab5b0#rd)
+    - 时间：2023-02-14
+    - 摘要：
+- [我们需要「客观」评价前任吗？来看ChatGPT怎么说——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784144&idx=1&sn=30f967789d4597da176f0471d997215a&chksm=9fcabf94a8bd368263eacddad59418da24b77e890d9f5138c6c261eb6c04423cc9938098f06c#rd)
+    - 时间：2023-02-13
+    - 摘要：一定要看到最后
+- [如何用心理学修养主业，发展副业？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784144&idx=4&sn=f7d3b16306c9990896a541d3525cc968&chksm=9fcabf94a8bd3682838cceb7ef74b384c15f99e4c2eedd610f990bf6efb11de318089bf38bbb#rd)
+    - 时间：2023-02-13
+    - 摘要：本周三直播，预约不错过！
+- [“婚前”必聊什么？社交or独处？茶会热门主题限时返场，来pick！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784144&idx=5&sn=4d734df5a0afb6f59ae2db0e6639537d&chksm=9fcabf94a8bd3682fdb1904d42a0aa8c53951f1d47046e0c5d31c6d6a0bab2e8588228112b91#rd)
+    - 时间：2023-02-13
+    - 摘要：
+- [没想清楚这件事，我劝你不要分手。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784144&idx=6&sn=879589d9dec13c44f366a1a72246dffb&chksm=9fcabf94a8bd36826a125da054009cdee3f7f3fde70cb24c12d604161656990dc9d0e6edfb29#rd)
+    - 时间：2023-02-13
+    - 摘要：你的对象还要不要继续留着？
+- [你可以做我的情人节限定伙伴吗？｜来KY匹配一个陪伴你的Ta](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247784144&idx=7&sn=eabf9e9ed5f37aab31bc1cb0d1da9464&chksm=9fcabf94a8bd36829f07ed9b49c2020c5d623dfc5ff3dc066e604f31e197d6e7c3bf7db1c49a#rd)
+    - 时间：2023-02-13
+    - 摘要：嘿，一起过情人节吗？
+- [是PUA还是真的为你好？看这一篇就够了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783958&idx=1&sn=e72d7287f8902b21fbb9a36617fcbef7&chksm=9fcabf52a8bd3644eadbfedafc7a8923eace3469f0f6689efce149ee639bcd47ce1a8eda2eb9#rd)
+    - 时间：2023-02-12
+    - 摘要：你需要批评的程度，可能超乎你的想象。
+- [明确这3点，就能找到“对的人”！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783958&idx=2&sn=64874bc6c8835d3446087cae8e11c013&chksm=9fcabf52a8bd36440e0a0a20347637384b64a780f49206a810751c604716f597f18ad0242c65#rd)
+    - 时间：2023-02-12
+    - 摘要：在爱情里，你最看重的是什么？
+- [决定你人生难易程度的，是你所拥有的“内在资源”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783958&idx=4&sn=9dd33ad6ccaafda9275b772ced078dba&chksm=9fcabf52a8bd3644629fb56033005b6f530f06c7123447ab957d33416cbfdf0230f2adfd680e#rd)
+    - 时间：2023-02-12
+    - 摘要：探索进入心理行业的最优选择
+- [如何谈一场直球式恋爱？丨情侣沟通3个必备底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783958&idx=6&sn=e2c2fa582d0e74b02220110474f306a6&chksm=9fcabf52a8bd3644dd62f64ef3540f3b5e83fd56670597a3be0457f96ec0ab4cbe7cfbb574de#rd)
+    - 时间：2023-02-12
+    - 摘要：情绪没有错，是语言伤人——学会在亲密关系中坦诚沟通
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783958&idx=7&sn=614dde654ef53cf3dd0309bd6a0a2aec&chksm=9fcabf52a8bd3644b43e016eaef108c26968e818c35ba1fd4c8e28e69f9f527df56a431e7e33#rd)
+    - 时间：2023-02-12
+    - 摘要：
+- [咬：一种比性交更「心理亲密」的行为｜正经开车](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783897&idx=1&sn=624636cc5f30847976b0e0c76fab9a47&chksm=9fcabc9da8bd358b54d8a885887713fbae4ac306270dc70fec6749697899099e54d5b79642f4#rd)
+    - 时间：2023-02-11
+    - 摘要：oral sex中的情绪与爱。
+- [现实世界这么难，怎么做才是对自己好一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783897&idx=3&sn=1810663722e6244f6586f1804548d8ba&chksm=9fcabc9da8bd358b58f95d0c4016dbfc4924f82e94d7c53cf0c2f0d9719a35f95161b0a15c40#rd)
+    - 时间：2023-02-11
+    - 摘要：有心事，来聊愈
+- [总是想太多、情绪内耗……如何改善“高敏感”？｜2月限定](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783897&idx=4&sn=70c944952dd844b4d4803973e4687952&chksm=9fcabc9da8bd358bdc9e93a9a80b73e83d8191aa6d5db8d148a3b6780f44ff6d2358bf7337ab#rd)
+    - 时间：2023-02-11
+    - 摘要：
+- [爱欲型、友伴型、现实型…测测哪种爱情类型能让你幸福？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783897&idx=5&sn=f0321ba8b5ce245c6e1b654f27047e6c&chksm=9fcabc9da8bd358b2264badb83a3d9137e7fe02e2194bf91bc914e7a2ec715d43a8086bc481b#rd)
+    - 时间：2023-02-11
+    - 摘要：超全爱情分析报告，点击即测！
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783897&idx=6&sn=fb41a4f127f8d904c7d3843ffd978207&chksm=9fcabc9da8bd358bcfbb5238875db6078fd4759725144ed8f029750cb014a8efe71096f2c138#rd)
+    - 时间：2023-02-11
+    - 摘要：
+- [如果新的一年是最后一年，你将如何度过它？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783897&idx=8&sn=d00b7b0d96435e55071eebdac2fcffea&chksm=9fcabc9da8bd358be287fcda1a1be340824a315f70467628ba81a2f5d07b2db64ffb1104db58#rd)
+    - 时间：2023-02-11
+    - 摘要：什么才是人生的“标准答案”？
+- [“和对的人约会的第一步，应该是……？ ”丨漫画](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783872&idx=1&sn=50feb444e6f09d84a7b3ef9ffd4acf4d&chksm=9fcabc84a8bd3592ae8d65e9280b6de42857a80d53bd7f6753d50da809344ce04659601490a4#rd)
+    - 时间：2023-02-10
+    - 摘要：愿你也有甜甜的恋爱
+- [“我在喜欢的人面前，难以自控地自卑。”｜女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783872&idx=2&sn=fd6a6103600c0276d73479ad5bcb9de1&chksm=9fcabc84a8bd3592671d92ec297d0ac46ecaa13cba56099bcdeb9b4d2dfc84a7fff86fe3af35#rd)
+    - 时间：2023-02-10
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [你可以做我的情人节限定伙伴吗？｜来KY匹配一个陪伴你的Ta](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783872&idx=5&sn=aac5d25209a5957a5a1ad7b1e13c0181&chksm=9fcabc84a8bd3592c95954b8d36f6582ec4a1d0c4ee1fa79c26686e1454a6d76a02f79ed8d04#rd)
+    - 时间：2023-02-10
+    - 摘要：嘿，一起过情人节吗？
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783872&idx=6&sn=068e1b967c53584a69b955082129ce4b&chksm=9fcabc84a8bd3592a55032a39c93c021dd18e3d4b31426fb3d802d60aaea5117c12fe4edcc39#rd)
+    - 时间：2023-02-10
+    - 摘要：
+- [人一辈子的熟人最多150个，成为好朋友需要至少200个小时。｜关于「社交」的有趣事实](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783426&idx=1&sn=c332a2f6fa1f58cbadf87989511056a7&chksm=9fcabd46a8bd34504edd1703088a3387a3b669209898a483b11ae787edec194e944773ecc85d#rd)
+    - 时间：2023-02-09
+    - 摘要：怎么交朋友？看这9个社交真相就会了！
+- [作为斜杠新青年，心理咨询师是我的另一个职业身份丨萌芽14期团购价优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783426&idx=2&sn=4e56da4c6eaa0bc6033164cc5e50d90f&chksm=9fcabd46a8bd345049fcbe22a3e8653c54eb400ebb3aac9638838ae2bd20c073dfb23494ac18#rd)
+    - 时间：2023-02-09
+    - 摘要：探索进入心理行业的最优选择
+- [高敏感≠玻璃心，来查收你的2月限定 · 情绪内耗攻略！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783426&idx=4&sn=80ee52bf0a1b694c349089e5a4cefeb8&chksm=9fcabd46a8bd345021ac317ce74049fd4369e0fe585264fc0a033ec5677199d3a0215911b954#rd)
+    - 时间：2023-02-09
+    - 摘要：
+- [哪种恋人更适合你，答案藏在你的「爱情剧本」里。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783426&idx=6&sn=ed07f9985f748ef1548f14df5b7c1585&chksm=9fcabd46a8bd3450854821a1b966740d7d544cd487a18e244cefc6a5a8317f03b79794868c36#rd)
+    - 时间：2023-02-09
+    - 摘要：你拿到了什么样的爱情剧本？
+- [毕业一年被裁三次，我再也不想上班了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783426&idx=7&sn=28d7fb32809484f6b5c8f385d590c180&chksm=9fcabd46a8bd34501ab955126f99db7a0ea0a1048dbde640d1f5fbda8f467c69a74bedcd006e#rd)
+    - 时间：2023-02-09
+    - 摘要：新的一年，我做了一个改变我一生的决定！
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783426&idx=8&sn=4f9ca8a417fbaaf2490b2da20b4e925d&chksm=9fcabd46a8bd34508c466e9c85e326d401379e7e9173afeb4a1773730f9cd42752df1de7f335#rd)
+    - 时间：2023-02-09
+    - 摘要：
+- [我在儿童肿瘤科，为孩子做「临终关怀」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783321&idx=1&sn=3cbd184509f47aa32048c12a56eb7f05&chksm=9fcabadda8bd33cbc8cacb594ddcbfe971150539cc7285ec2026ce3649ecc2627061ed48a18a#rd)
+    - 时间：2023-02-08
+    - 摘要：孩子，谢谢你让我参与你的人生。
+- [和Ta分手，你会过得更好吗？这个测试会告诉你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783321&idx=3&sn=b23607e0ff2dcbc117024d904347f4c3&chksm=9fcabadda8bd33cb1a820cc6991932c2890704782c84877a77b4c71eb9eb13169e98c0dcc602#rd)
+    - 时间：2023-02-08
+    - 摘要：你的对象还要不要继续留着？
+- [离开你以后，我也丢失了我自己丨如何面对丧失](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783321&idx=4&sn=59d9f14e1d1af0c7e86fc402c7153ddd&chksm=9fcabadda8bd33cb10f8229437958ce72cf2693f98e1b07571415f68c77ae3c7ab1fc0888cb5#rd)
+    - 时间：2023-02-08
+    - 摘要：有心事，来聊愈
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783321&idx=5&sn=9f57d1be8ba5a213bb6df207b3dfd5b7&chksm=9fcabadda8bd33cb8ec9da500791b444ad9f0f83ef1e8535da865473e367e493117e67367e5d#rd)
+    - 时间：2023-02-08
+    - 摘要：
+- [如何最大限度利用三分钟热度？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247783321&idx=6&sn=344fa48a74a47af5c6962cebdd862915&chksm=9fcabadda8bd33cb44a02d0c677921d2fec67e90b6d981dbd3332d01e3cccf65bddcee17f4a7#rd)
+    - 时间：2023-02-08
+    - 摘要：和“三分钟热度”say拜拜！
+- [《狂飙》收官，我们有三个问题想问安欣，也想问问大家——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782949&idx=1&sn=7dab27609b7cd53474e5d5c36433b358&chksm=9fcabb61a8bd32771083bba5c8bee47618053a09317aff5d9d56f7a96da9cf02ea79dc73a375#rd)
+    - 时间：2023-02-07
+    - 摘要：安欣的正义，并不只是“轴”。
+- [如何成为可以在家办公的KY心理聊愈师？丨萌芽14期团购价优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782949&idx=2&sn=d44d3c38bc75f0c50e14ede455aa8788&chksm=9fcabb61a8bd32772f93aef63126d3ce775770ae3f73dc5d716e76ea5c30781c0e59fd0a6268#rd)
+    - 时间：2023-02-07
+    - 摘要：探索进入心理行业的最优选择
+- [坏习惯改不掉，好习惯难养成？都是隐性人格在作祟！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782949&idx=5&sn=9e7bca24e50d23d6f376727922eb27fd&chksm=9fcabb61a8bd32772bc1601c0d8dbbce6544f3a1ad981b172cfec2fc3ea7530b89b7c282f7f2#rd)
+    - 时间：2023-02-07
+    - 摘要：这份测验，助你发现内心深处的人格秘密
+- [治疗恋爱脑最好的方法，就是多谈恋爱！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782949&idx=7&sn=1329fbd85481e79e0783aa02b7c00235&chksm=9fcabb61a8bd3277473677d003873de63871a5eef41fd49c39b2a363a24f8eee9201600db05e#rd)
+    - 时间：2023-02-07
+    - 摘要：如何把恋爱谈明白？
+- [情侣之间不是必须要做的12件事——不要再为它们吵架了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782878&idx=1&sn=0f3bc75af871752722bfea5a08b7e5aa&chksm=9fcab89aa8bd318c8ecb4a48ccbca5b474580b2510c22d2a082c91b219ce304460d90f36b244#rd)
+    - 时间：2023-02-06
+    - 摘要：Ta爱不爱你，真的不是看这些
+- [做到这件事，才算真正为自己而活。丨人生核心需求清单](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782878&idx=4&sn=49e88ec2c9d2f6b67cc657172fe36ce2&chksm=9fcab89aa8bd318c359c461d9c05e585429c618c2b6bf1a505faf8b749ab1313f32a60ef08ad#rd)
+    - 时间：2023-02-06
+    - 摘要：你的人生核心需求是什么？
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782878&idx=5&sn=17acafb24768954b1b17b0072e08fd4a&chksm=9fcab89aa8bd318c3a1250cbef44ad1d9ad764d129e903595611382c4ff200686394bacccc65#rd)
+    - 时间：2023-02-06
+    - 摘要：
+- [自由、开阔、松弛——我的人生剧本是从30岁开始的](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782878&idx=7&sn=312b8614a566f301ad782fbfe3888248&chksm=9fcab89aa8bd318cd2a6067542c1602acdc40878813a765cf12dbbdf62955e08f3a652f439ba#rd)
+    - 时间：2023-02-06
+    - 摘要：“我真的感觉到了前所未有的自由和开阔”
+- [「健康的自私」非常必要，这3点建议越早知道越好——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782687&idx=1&sn=0d5338910700aad36e7cd029cc3b3f71&chksm=9fcab85ba8bd314dddc12c1df627f2bd10723f6136e59415d10ad4ed1e76ffcb184ba4ff10a5#rd)
+    - 时间：2023-02-05
+    - 摘要：为什么我们建议每个人都要学会“健康的自私”？
+- [梳理你的【择偶清单】，离对的人更近一步——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782687&idx=2&sn=031fe8679f18c758ea4c7676c6f37db9&chksm=9fcab85ba8bd314dddefdbcc8e39a2057b352356aa5784f420c7a31a67496c2ce13e45b3a615#rd)
+    - 时间：2023-02-05
+    - 摘要：​明确择偶标准，找到“对的人”
+- [在亲密关系中，“好好吵架”可能比“和平相处”更重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782687&idx=3&sn=d4be503f7617cff2918614a09c50b8ef&chksm=9fcab85ba8bd314d004ae0ac506823cc8bb8ff9490d3c19d516cd01fc9afdef754c3010a71b1#rd)
+    - 时间：2023-02-05
+    - 摘要：探索进入心理行业的最优选择
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782687&idx=4&sn=56d229e267e88e0eb593f2bc94317094&chksm=9fcab85ba8bd314de35af877dc375e74c099cc08bbba5677e8eb0e953a4008b6d5f4c170d7af#rd)
+    - 时间：2023-02-05
+    - 摘要：
+- [“我好没用，我好差劲”：停止自我否定，5招让你学会爱自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782687&idx=5&sn=16e4730c1b6f8fc058a1b7e5f9c38d6e&chksm=9fcab85ba8bd314de65b204388e45527a97e0907c7bdc58d671c27665bb0b0fe58f980583959#rd)
+    - 时间：2023-02-05
+    - 摘要：“每个人都可以再一次爱上自己”
+- [为什么喜欢拥抱？一个拥抱的作用真的太大了——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782646&idx=1&sn=b21df967df800df8acd67f656f1f405a&chksm=9fcab9b2a8bd30a4a0c5877d9ba8b5ce1f1c15f094d2f4dffd557745ed189b8bc0a2fcac7508#rd)
+    - 时间：2023-02-04
+    - 摘要：被拥抱的时候身体会发生什么反应？
+- [如果可以重新来过，是不是一切可以变得更好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782646&idx=4&sn=f60cbd4e62d699cb28bc869ef5bf2ae7&chksm=9fcab9b2a8bd30a4d286c47c0b0e00788279091f7bb9b8088719986051794c64555775e52f29#rd)
+    - 时间：2023-02-04
+    - 摘要：有心事，来聊愈
+- [回顾｜KY咨询师年度茶会，看看大家都聊了什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782646&idx=6&sn=49c28f4edd795293ec573c3841bb0df7&chksm=9fcab9b2a8bd30a497f43bf8987de2722458f7c7204d5cb3477f2d1c45a8e6ac619fb91c1197#rd)
+    - 时间：2023-02-04
+    - 摘要：
+- [“我都已经道歉了，你为什么还不原谅我！”丨面对伤害，我们该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782646&idx=7&sn=eb3a426b8e2f37cbd95a7a612a99bc28&chksm=9fcab9b2a8bd30a475218daca770e5eec52ae5e20e52a9838318c05b55664c2bf8ddfa57e18e#rd)
+    - 时间：2023-02-04
+    - 摘要：
+- [我们和粉丝聊了聊，总结出了「关系该结束了」的42个信号。值得收藏！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782630&idx=1&sn=4757f5e6a1c9fe9bfdc64a576bc93ef8&chksm=9fcab9a2a8bd30b4ff6ce7f07bf961231312e94886e552c295f8db039976f5feaf6eefff8492#rd)
+    - 时间：2023-02-03
+    - 摘要：你会因为什么而分手？
+- [“比起朋友，我更像你的情绪垃圾桶”丨友谊失衡怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782630&idx=3&sn=bb0590b1931a8535453d53cb2280fedd&chksm=9fcab9a2a8bd30b4633856c28c2b5c95c5b7a6dd2c252482d87b2c22831c2c1e5680738991c9#rd)
+    - 时间：2023-02-03
+    - 摘要：在与朋友的相处中，你有过下面这几种感受吗？
+- [为何有些友情令人窒息？丨如何鉴别“有毒友谊”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782630&idx=4&sn=1f8f26c297dcee6fcf28b7074693fe6d&chksm=9fcab9a2a8bd30b430bdcc38e805783de9b50bf63a5be1f3e0db50129242b93e25f270cf55f9#rd)
+    - 时间：2023-02-03
+    - 摘要：你们的友谊哪里出了问题？
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782630&idx=6&sn=da46383c9e3d325018a20e5e84bb8844&chksm=9fcab9a2a8bd30b4c5cf1ae033048abcfb9a5dced89506baa9608d2b0981b352729abf32c38d#rd)
+    - 时间：2023-02-03
+    - 摘要：我想陪你，从入睡到黎明。
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247782630&idx=8&sn=bb23e7869322c28ae77d009826bca2ae&chksm=9fcab9a2a8bd30b471f64c5e3156c7ba9128e019ed372dc6b0db73c96e5f064e395a7c76713e#rd)
+    - 时间：2023-02-03
+    - 摘要：
+- [爱情长跑17年分手，杨迪渣吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781415&idx=1&sn=adf6a48c31a07bc53f8a816baf07d0af&chksm=9fcaa563a8bd2c7565098bfb21e67b698860f724e8566363408fb97a2f4c8cabad27ea58e41f#rd)
+    - 时间：2023-02-02
+    - 摘要：渣不渣，关键在这4个字。
+- [你会和谁在一起？走向又如何？答案在你的「爱情剧本」里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781415&idx=2&sn=b9bc79b376beecf2cd814215f27f19f0&chksm=9fcaa563a8bd2c7554c7a3be4d078cd746942b7caaa37ba5f5c9bf032d1939ca7c428641c3de#rd)
+    - 时间：2023-02-02
+    - 摘要：你拿到了什么样的爱情剧本？
+- [如何通过学习心理学实现自我成长，获得职业发展？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781415&idx=4&sn=20156c50ded74df32c25dd94cc9fe8c9&chksm=9fcaa563a8bd2c752bb225a795291dbec3c99c97a245a4a92e021d605da27f59098d2a9e2862#rd)
+    - 时间：2023-02-02
+    - 摘要：本周四直播，预约不错过
+- [“折叠”时间提升人生厚度，这是我听过学习心理学最好的理由丨萌芽14期早鸟价即将结束](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781415&idx=5&sn=8308d56e53cc5cb0a7554936c6962f29&chksm=9fcaa563a8bd2c7505b012cb0475daeb0e924ef7a3c43ea8c461f2b059b88913a86c71301be1#rd)
+    - 时间：2023-02-02
+    - 摘要：探索进入心理行业的最优选择
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781415&idx=6&sn=facfcd41447edb759883b4150af25edc&chksm=9fcaa563a8bd2c75b010812e12358e0a6588c576adb3241fc74de18210eb3bae401bc8263bab#rd)
+    - 时间：2023-02-02
+    - 摘要：我想陪你，从入睡到黎明。
+- [厌恶了快餐式恋爱，我该如何拥有一段深度亲密的关系？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781415&idx=8&sn=a2aeec5f6338ba31dd5337731773545a&chksm=9fcaa563a8bd2c75774268b90f1dd239acc264b7cb434f2fc37766e911d20f4d20263aa580a7#rd)
+    - 时间：2023-02-02
+    - 摘要：真正长久深厚的爱，不是每个人都能获得。
+- [「有害安慰」的7句话，看到第三句已经血压飙升](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781005&idx=1&sn=af9269e5908ea2b5b2685a0f401d51d2&chksm=9fcaa3c9a8bd2adfa6ee5f3a15a0636f6bb58abd182734ffdfd469423e7b62b41c9cad636116#rd)
+    - 时间：2023-02-01
+    - 摘要：建议转给你身边不会安慰人的那个人！
+- [“毕业五年，存款5000”，已经活成废物了怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781005&idx=2&sn=d596ddc9209334faf340912e6fc9108a&chksm=9fcaa3c9a8bd2adf74011ca7d5244869733f3e2ff4ad618de746ccf23105b40473176418ecf9#rd)
+    - 时间：2023-02-01
+    - 摘要：“我真的感觉到了前所未有的自由和开阔”
+- [放假回来不想上班，“节后综合征”怎么解？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781005&idx=4&sn=8f0f66c69ec9805f852f126e9cb75ba3&chksm=9fcaa3c9a8bd2adfc3a0d5da57daae0a9aedb5a088a35027e4921e90511e735c77d8a8fe4f0a#rd)
+    - 时间：2023-02-01
+    - 摘要：有心事，来聊愈
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781005&idx=6&sn=62b026e894fb164439cd982644b763c6&chksm=9fcaa3c9a8bd2adf2ba75aaea9d2548b704d86310430ca0c4df388603f13418c23f652b9bf42#rd)
+    - 时间：2023-02-01
+    - 摘要：
+- [还在纠结要不要分手？看完这篇你就有答案了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247781005&idx=7&sn=7c44f7e86b3db98860441bdf674745cf&chksm=9fcaa3c9a8bd2adf5f32c27c7f22a0c30e177e346c5e9229789b1b4f65704209b53a393ea3df#rd)
+    - 时间：2023-02-01
+    - 摘要：你的对象还要不要继续留着？
+- [“虽然我很平凡，但我还是决定喜欢这样的我。”丨漫画](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780265&idx=1&sn=1c445ae0f2db8ca3ab76a0941e2c7b08&chksm=9fcaaeeda8bd27fb77ec0b7bba3420d4bb4a3ee25b28625a94eea52bb018a893e9a7d37f91f5#rd)
+    - 时间：2023-01-31
+    - 摘要：世界变得温柔是从我喜欢上自己开始的。
+- [在书本中自学心理学，你可能只是继续活在自己的世界里丨萌芽14期早鸟价最后5天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780265&idx=2&sn=bd5ebac74aa6a48b52cd2f4dbd78dc91&chksm=9fcaaeeda8bd27fb6b219ecd007f9b2655b10682e21b8bed556d195691dd02cc83eaae6e2040#rd)
+    - 时间：2023-01-31
+    - 摘要：探索进入心理行业的最优选择
+- [你对爱情的错误期待，正是恋爱不顺的原因。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780265&idx=6&sn=4c0a609d711207b748d8552928448229&chksm=9fcaaeeda8bd27fb97f13e7e7ad9077de594db4b50a859aeb75f16a82cb5c7c1246628a1f387#rd)
+    - 时间：2023-01-31
+    - 摘要：你对亲密关系的期待是什么样的？
+- [无压力社交指南｜“剖析那些使你过度自我关注的特殊场合”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780265&idx=7&sn=0d36285d10bbc04e00477cf4f1142358&chksm=9fcaaeeda8bd27fbf996ade2374edc749a8dfc0eae76928231a142a68c9aba3b38154cc9f7a6#rd)
+    - 时间：2023-01-31
+    - 摘要：学会自私是至今为止做的最对的决定
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780265&idx=8&sn=1ce0dd955b20ebda4edf93d97fc43b24&chksm=9fcaaeeda8bd27fb6623b1056013b7616476ecb05ba45ae3b787bd628b9807316e66b336c473#rd)
+    - 时间：2023-01-31
+    - 摘要：
+- [能理解这5种心态的人，注定会越活越好。尤其是第3种——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780142&idx=1&sn=37bbebe7eaf77d6961cbb0d76fa58958&chksm=9fcaae6aa8bd277c204d6654c331d92c7ffc20815d5d72204dac51d5e0728fd369eda3665188#rd)
+    - 时间：2023-01-30
+    - 摘要：新年新心态，快来看看吧～
+- [你会和谁在一起？走向又如何？答案在你的「爱情剧本」里](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780142&idx=3&sn=ab8b821c1550fb7d27f872877db47b07&chksm=9fcaae6aa8bd277cec0379d09c49903c408884dbfe8d7c0fc4e66840615cbb9c9e352e15ba50#rd)
+    - 时间：2023-01-30
+    - 摘要：你拿到了什么样的爱情剧本？
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780142&idx=4&sn=c79557f48d3fdb7fa1e8cf32da439bda&chksm=9fcaae6aa8bd277c00b64f5b65070a0ca810a4ebf2cc50b8ebec62b43a340df75717b9402856#rd)
+    - 时间：2023-01-30
+    - 摘要：
+- [4条恋爱升温法则，拿捏住就没有谈不好的恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780142&idx=5&sn=0369f69187a4dd456264bafd617e1392&chksm=9fcaae6aa8bd277c0836c964444786629bf9345c91ec6a318f20b7ff14e241537963e0716702#rd)
+    - 时间：2023-01-30
+    - 摘要：教你收获一段高质量的亲密关系
+- [警惕！「情绪生病」的22种风险预警表现，包含肠胃疾病（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780007&idx=1&sn=97452304294384c97255122e0bc9aa88&chksm=9fcaafe3a8bd26f5d8ba9741d2a169318270817b8a85e91dee58a042ab0812d2486766ee88e5#rd)
+    - 时间：2023-01-29
+    - 摘要：新年学会照顾自己的内心
+- [进入心理行业，获取线上从业机会，重塑你的职业发展新形态丨萌芽14期早鸟价即将结束](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780007&idx=2&sn=26b4134db70d4f154beeac2c0c224567&chksm=9fcaafe3a8bd26f53338365cee773d20f165cadf5c334922b57983c5e13b90b43ca154b10504#rd)
+    - 时间：2023-01-29
+    - 摘要：探索进入心理行业的最优选择
+- [毕业两年就不想上班了，拿什么拯救年仅25岁的我？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780007&idx=3&sn=8a9b55992509c82ba151e32937965491&chksm=9fcaafe3a8bd26f513825054df8f7902a23af01e2198b38099d620f17e026060cbe9eeee413f#rd)
+    - 时间：2023-01-29
+    - 摘要：人生没有白走的路，每一步都算数。
+- [对生活失去热情，如何摆脱空心与焦虑？你需要一点“心理连接”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780007&idx=4&sn=294a5bfdeca6d8eb399a147f45409dc0&chksm=9fcaafe3a8bd26f59756214a7ed155925b46c930c5bd3dfe98eb3c44335833338c786d2f3d64#rd)
+    - 时间：2023-01-29
+    - 摘要：
+- [Ta出轨了，我该如何走出阴影？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780007&idx=7&sn=21ab16b77a886c0b30f6de8e159cc603&chksm=9fcaafe3a8bd26f5d0f3cb9ed955498e511d85b292dad41f71724a23fe3358a3af77f0e2eaee#rd)
+    - 时间：2023-01-29
+    - 摘要：Ta的出轨，带走了我信任的能力
+- [我们像情侣一样相处，却不确定是什么关系，这正常吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247780007&idx=8&sn=4ffdb7ddb62a34856e3b4a65453289da&chksm=9fcaafe3a8bd26f5f790aeb17c4ddf825db441f9a6a24bec43456617c67683f0eaf9e3bdcecd#rd)
+    - 时间：2023-01-29
+    - 摘要：
+- [想要好的关系必须「会索取」，这5个建议越早知道越好——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779864&idx=1&sn=c628c82d20800776131a7ede3546ef46&chksm=9fcaaf5ca8bd264a8a99f4ca5069cebd7c8639c727313543b5151d220866e4bb0fc8bdfc08ec#rd)
+    - 时间：2023-01-28
+    - 摘要：主动要来的东西，也可以很香
+- [为什么说内向不是一种性格缺陷，而是解锁成功的宝库？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779864&idx=3&sn=6f4d8076639a12d28eaff0f71515c0e4&chksm=9fcaaf5ca8bd264a0fb3e5286be4cc7eba1e6d8902a3296cc0945a3d6cdfc56ba2efb5e7d5d7#rd)
+    - 时间：2023-01-28
+    - 摘要：探索进入心理行业的最优选择
+- [有些人生苦难，正是你错误的思维方式带来的。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779864&idx=4&sn=4493807ddfd290bdfea37df27c96f53f&chksm=9fcaaf5ca8bd264af31d51c1315586919b696076b41345346b34b7ef97a8829e592233e0d6d4#rd)
+    - 时间：2023-01-28
+    - 摘要：哪些隐形的咒语，正在束缚你的人生？
+- [靠“玄学改命”的当代年轻人：暴富靠彩票、爱情靠占卜](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779864&idx=5&sn=62796f6421bbe0e8ddc5a393d7b9fc85&chksm=9fcaaf5ca8bd264ab77225abedd7fa222367d3be6ca1f093e1ad5a52496fb9cb53c7e1fef3ec#rd)
+    - 时间：2023-01-28
+    - 摘要：把自己从无意义感的沼泽中拉出来
+- [给你看我的软肋，我是不是就输了丨“不完美”爱情自救指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779864&idx=8&sn=4a51c34d6cbe87a3a5f97212511366cb&chksm=9fcaaf5ca8bd264a50738ef42907f1be5db75f788dde7c361535a949cf3f68c5286a5ae48942#rd)
+    - 时间：2023-01-28
+    - 摘要：你以为的软肋，其实是一节被遗忘的人生必修课
+- [出轨的3种深层心理动机，第三种一定会让你吃惊——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779799&idx=1&sn=4e5fa1f3552e4a43f235a0f74b1e10b5&chksm=9fcaac93a8bd2585ddd64db4b48a5ceb914847a9b162b1192d9cce75718e32be4eabfdbecc89#rd)
+    - 时间：2023-01-27
+    - 摘要：出轨竟然也和基因有关
+- [新年第一笔投资果断给它！不花大钱就能让你元气满满一整年！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779799&idx=2&sn=0a1802a00f0cda08ffe35560799393d7&chksm=9fcaac93a8bd2585cf6d89ad1253e1e91e4dca784fb9b01a466af38b632ee3ab7cde31f62286#rd)
+    - 时间：2023-01-27
+    - 摘要：不念过去，不畏将来
+- [KY教你用MBTI找到理想的Ta](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779799&idx=3&sn=94170cea465ab08db1a919a719770974&chksm=9fcaac93a8bd258571665cced61ce1e00b008b186821c6286564d8582c99d37a8aaeabb9bd82#rd)
+    - 时间：2023-01-27
+    - 摘要：点击立测你的恋爱MBTI。
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779799&idx=4&sn=c6a0a9f20b8a6a2116b7a49c9e585eb6&chksm=9fcaac93a8bd2585b92e62ca348e451fd4c211c5451fbc67806f46753c46ae7d9844028bca02#rd)
+    - 时间：2023-01-27
+    - 摘要：
+- [当下，停止“自我内耗”是对自己最好的照顾](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779799&idx=5&sn=b367c976a1a03fdbd7c266197f7fbc70&chksm=9fcaac93a8bd2585fc4257ad03ca6223e9b09c147868836db6234a06bb3355fcf5b93be5d668#rd)
+    - 时间：2023-01-27
+    - 摘要：有心事，来聊愈
+- [新年启程计划：写下你的开工Flag，遇见一个陪伴和鼓励你的Ta](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779799&idx=6&sn=91acb925e2079021810ab0f89b54c431&chksm=9fcaac93a8bd258509490956f2c131979e311f907d709a25f55745b4d9e4f76aa1f530536c70#rd)
+    - 时间：2023-01-27
+    - 摘要：治愈成长局，等你来组队。
+- [“有时别人对你无端的恶意，仅仅说明了ta们自己。”｜狐狸漫画](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779739&idx=1&sn=a6719fbea8653ec8390c3f0d4fd1bb7f&chksm=9fcaacdfa8bd25c96c44d81fa4e4d4ea49d3df161dcb5946717e954a063749dcabc5867edb4c#rd)
+    - 时间：2023-01-26
+    - 摘要：别再为那些很难听的话难过了。
+- [如何成为可以在家办公的KY心理聊愈师？丨萌芽14期早鸟价优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779739&idx=2&sn=8c80c213f4bf5cbed4dfcaef2468170c&chksm=9fcaacdfa8bd25c9449251df2a187801b2d1ec260e16e60a613353aa1a1b6a5fdd142bbd8528#rd)
+    - 时间：2023-01-26
+    - 摘要：探索进入心理行业的最优选择
+- [分开要趁早or感情要磨合？来聊聊你在亲密关系里的困惑。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779739&idx=3&sn=119777232fe477aaa1be2b6cc8f2e53a&chksm=9fcaacdfa8bd25c9a55c90651ad6bf3c8d2faf6f20e50635054bb0692cfb6b1ed21161a3ee75#rd)
+    - 时间：2023-01-26
+    - 摘要：
+- [自由、开阔、松弛——我的人生剧本是从30岁开始的](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779739&idx=5&sn=ae4f9d6cbdca656f216a53a17cfb8bd4&chksm=9fcaacdfa8bd25c9c5990263f95ed25b687b128a28b276f9920fc200eae3b58b05729f493d06#rd)
+    - 时间：2023-01-26
+    - 摘要：“我真的感觉到了前所未有的自由和开阔”
+- [新年启程计划：写下你的开工Flag，遇见一个陪伴和鼓励你的Ta](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779739&idx=6&sn=599a1e2ba9075c8a96c4cefa9eedae89&chksm=9fcaacdfa8bd25c944c569c5187da3a115770c3f2a706594cbb405ae3c6cbbb5da6becfdc920#rd)
+    - 时间：2023-01-26
+    - 摘要：治愈成长局，等你来组队。
+- [“什么都不想干”的人，如何对抗生活空虚感？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779739&idx=7&sn=b4d7b695f8079baf7a1fd08272528eb3&chksm=9fcaacdfa8bd25c9036c639b1023d5358702daff8fc1e91ed2a7ef7031b1e4be788e426c96ec#rd)
+    - 时间：2023-01-26
+    - 摘要：测测你追求的人生意义究竟是什么？
+- [这是大多数伴侣、朋友都不会聊的话题，但聊好了关系就会“升华”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779733&idx=1&sn=d63e56c22c3b638929c99bd5beb09f80&chksm=9fcaacd1a8bd25c7ca1c11986894c07a454d91bf6adf5e78500122b3729bd262b45a9f38727d#rd)
+    - 时间：2023-01-25
+    - 摘要：不同观点的交流，比争论更重要
+- [4条法则，让你拥有一段高质量并持久的性生活关系！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779733&idx=3&sn=d0307a4765d2935bf440294b57b0e69a&chksm=9fcaacd1a8bd25c7862fae070f8a5a4fb1aaff2ecd656c1e38db98707624ba5ffd45a9f15bc4#rd)
+    - 时间：2023-01-25
+    - 摘要：教你收获一段高质量的亲密关系
+- [躁郁症是抑郁症的一种么？丨精神障碍入门必读系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779733&idx=4&sn=986fd81455f5c43518d116a8484c3296&chksm=9fcaacd1a8bd25c76e55470759d7581df1b25f715c668660943b96c1a1ffe35b6116daea6f2a#rd)
+    - 时间：2023-01-25
+    - 摘要：探索进入心理行业的最优选择
+- [总说“我不需要爱情”的，恰恰是最渴望爱的人。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779733&idx=5&sn=11de2fe565b99fb7df95dc486607faa1&chksm=9fcaacd1a8bd25c7e57a358ed569e241e929cc189e338b64ceb81cf85a97aa6f83695aa9d81b#rd)
+    - 时间：2023-01-25
+    - 摘要：成年后，也可以后天努力学习“爱的能力”。
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779733&idx=6&sn=35b1206fc61480b36fabb86b46c1299e&chksm=9fcaacd1a8bd25c7f2c7e0853368a6ebb53e8e5927c12dbfec24135c03d180cf79d17a8d7413#rd)
+    - 时间：2023-01-25
+    - 摘要：
+- [警惕！这类人表面说喜欢，却从未把你当"人"看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779729&idx=1&sn=e1932f8d4a26dc9b47d548a918e5e052&chksm=9fcaacd5a8bd25c303bb7fd2b46b7c044a5311dc3d0fa6adb57adf70ed3a21debf6e7d3705fd#rd)
+    - 时间：2023-01-24
+    - 摘要：出现这种行为，诚心建议分手
+- [春节回家必备技能：如何表达愤怒不会引发更大的冲突？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779729&idx=4&sn=6e82c29815a7f4d8f64b1cc97f36f1c1&chksm=9fcaacd5a8bd25c3caec5ba10d16002f6504f067ee04458ad1155522543d81780786cd79b969#rd)
+    - 时间：2023-01-24
+    - 摘要：有心事，来聊愈
+- [如何提升你的恋爱魅力？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779729&idx=5&sn=ef7141e9d300c748cd81f26d8baccd40&chksm=9fcaacd5a8bd25c39ddcc712e1588c6d5d016e536f26b9b5876b31b50b88642551b9e946bb11#rd)
+    - 时间：2023-01-24
+    - 摘要：颜值与吸引力，并不一定成正比
+- [停！直球式恋爱真不是这么谈的丨情侣沟通的3个底层能力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779729&idx=6&sn=a2fd347a0f719b280c3ca613052ed03b&chksm=9fcaacd5a8bd25c3381c68f69b82228195fa2d04b2ca88d708fde271ddbc7425ef4aa0ae274a#rd)
+    - 时间：2023-01-24
+    - 摘要：情绪没有错，是语言伤人——学会在亲密关系中坦诚沟通
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779729&idx=7&sn=f8bb0d4316aa2a08b055a03e989c9426&chksm=9fcaacd5a8bd25c3995b6e4944a825e18b4e267eaa56e683f196aac621967c8550ae6e9d5d8f#rd)
+    - 时间：2023-01-24
+    - 摘要：
+- [活得幸福满足的人，都具有的9种特质。你拥有几种呢？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779712&idx=1&sn=d60d86e6cc940c037c21a248695c710d&chksm=9fcaacc4a8bd25d2b2ead1364000f9d3ec9006d4c1ace547b19e62a702ed713012dc5e4565ff#rd)
+    - 时间：2023-01-23
+    - 摘要：新的一年，收下这份「幸福能力手册」
+- [你真的想明白了要追求什么吗？丨人生核心需求测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779712&idx=2&sn=4ef2cb54ed04b6c0cef87f6c07a27abd&chksm=9fcaacc4a8bd25d24d5f07473ab9b4ecd0dbcdecbc14e6d4af4b52826bf30dd95eb09cf7b546#rd)
+    - 时间：2023-01-23
+    - 摘要：你的人生核心需求是什么？
+- [凌晨三点，我在微信收藏里翻出了前男友们的语音消息](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779712&idx=3&sn=6f94117feb0a1e0b760267816116d2fd&chksm=9fcaacc4a8bd25d2866ca5cfc6c79991531528cfdca4a46c06cb5c4e48163fc0876b59be7b5e#rd)
+    - 时间：2023-01-23
+    - 摘要：“恋爱中的自卑感”要怎么破？
+- [在亲密关系中，“好好吵架”可能比“和平相处”更重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779712&idx=4&sn=2349ec54d0c6b3e7ebe89f100ac954ba&chksm=9fcaacc4a8bd25d283d5bed30461af89a455401506499b3899645291660ffbe24b03adaeb412#rd)
+    - 时间：2023-01-23
+    - 摘要：探索进入心理行业的最优选择
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779712&idx=6&sn=526e39b5ff7256f89814c6c1b8e998f3&chksm=9fcaacc4a8bd25d295ca059f7545fa88272599f42ec35de51b77dda70b74a07a7baf473c0047#rd)
+    - 时间：2023-01-23
+    - 摘要：
+- [测测你有哪些核心的人格特质？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779712&idx=8&sn=99eb19d703d74ccee747cec31637c7e2&chksm=9fcaacc4a8bd25d201b8f59cfa25cd18b2e0b7a2d382648e39378a83d8e7f6af5c60520d398c#rd)
+    - 时间：2023-01-23
+    - 摘要：解锁你的深层人格画像。
+- [哪有什么忘不了的人，真正难忘的只是过去的自己。丨漫画](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779687&idx=1&sn=5e82621d278502d72fb521176515e5e3&chksm=9fcaac23a8bd2535be33eb85c68353409a472242651c86a4a574f097d5588a0192b773732012#rd)
+    - 时间：2023-01-21
+    - 摘要：不要被自己的回忆欺骗了。
+- [KY年度好物盘点，不花大钱就能让你元气满满开个好年！丨年前最后优惠](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779687&idx=2&sn=05f420d69af293961b84bd2c6335e290&chksm=9fcaac23a8bd2535d99de2f7cfd0ade9c5e390908735924c92e25214bd46d81b32a274dad2ac#rd)
+    - 时间：2023-01-21
+    - 摘要：不念过去，不畏将来
+- [为什么我们这一生都难以逃脱“未竟之事”的羁绊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779687&idx=3&sn=af441a974ed2c09317d67d5160f9d541&chksm=9fcaac23a8bd25357bafaee7c1791e64187a01dbe765a4f630e2b8472af6f0bb3b3d8acb3d8b#rd)
+    - 时间：2023-01-21
+    - 摘要：探索进入心理行业的最优选择
+- [我和对象大吵一架后，找聊愈师聊了30分钟，矛盾解决了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779687&idx=5&sn=d68cc772960b77fa617055dbdcc09cc4&chksm=9fcaac23a8bd2535519e02c41a3301cd469b4f12929509dd0c5b07f2e79c439bc80273047a6d#rd)
+    - 时间：2023-01-21
+    - 摘要：有心事，来聊愈
+- [爱欲型、友伴型、现实型…测测哪种爱情类型能让你幸福？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779687&idx=6&sn=e79bc67392872ed5f4d583387347a68c&chksm=9fcaac23a8bd2535d4912785265cf584536b758b930589906802a2b627db233b192dd013b0f1#rd)
+    - 时间：2023-01-21
+    - 摘要：超全爱情分析报告，点击即测！
+- [女孩们请大胆生气丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779687&idx=7&sn=ec19390f35e08440b436b6c526ec0b40&chksm=9fcaac23a8bd2535810cdc3edb5e0897a57d6c3a5555384b6acbbcb423c6ee408d6ee85772a1#rd)
+    - 时间：2023-01-21
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [为什么我总是不喜欢主动联系别人？怎么变被动为主动？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779687&idx=8&sn=6472dffb2fdae892ee453d5a9869536c&chksm=9fcaac23a8bd25352e93d9972237e6cdd82e5b08a56bf27d36d6f7ce2722acf383a7d480cb66#rd)
+    - 时间：2023-01-21
+    - 摘要：
+- [「异地恋」怎么谈才会成功？快来看这17件小事你做到了几件——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779671&idx=1&sn=1acdefd473709f5ea3e5029cb784e615&chksm=9fcaac13a8bd25051094e5cb9088171ddc7772d3cf59634da437f76d97ec2354ca00941dc029#rd)
+    - 时间：2023-01-20
+    - 摘要：异地恋之于爱情，就像风之于火。它吹熄那些虚弱的，它助长那些强烈的。
+- [为什么你的工作毫无意义？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779671&idx=4&sn=98ae55f5e1750dd3820d3f2c3f639436&chksm=9fcaac13a8bd2505b5a66a7f9dfb419657ee7835fbe5b1a847be78f185863c1b86be774d31e4#rd)
+    - 时间：2023-01-20
+    - 摘要：除了摆烂，我还能怎么拯救工作不快乐？
+- [面对25岁的人生岔路口，如何选择才不会后悔？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779671&idx=5&sn=f013d42851c0c53a20d22db73feca561&chksm=9fcaac13a8bd2505dc785d677d5724ca62cb29bf355ef1e135b8e4e17a2ed50ae21f126b8ca4#rd)
+    - 时间：2023-01-20
+    - 摘要：什么才是人生的“标准答案”？
+- [春节陪伴计划：有些热闹之下的孤独，只想说给陌生的你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779671&idx=6&sn=fbd4ee0d1ab51dd3fb02dea342ca2a3e&chksm=9fcaac13a8bd2505dbc62449161e8364f4ff4bef2f5518788506657c8dcd47d5f1cf203f94c6#rd)
+    - 时间：2023-01-20
+    - 摘要：这个春节，有我陪你。
+- [新冠来了又走，却带走了这个世界上最爱我的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779113&idx=1&sn=3294192dbf01cf8d0092dd891539638f&chksm=9fcaaa6da8bd237bdcd187233d379e2bc4bad478bc3711b6a125a957180ddbb7e8284cd5dc04#rd)
+    - 时间：2023-01-19
+    - 摘要：一些帮助你面对“离去”的建议
+- [7个月进入心理行业，收获居家兼职机会丨萌芽14期早鸟价优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779113&idx=2&sn=e3a1be95f63cab003e4788394f9d0d2d&chksm=9fcaaa6da8bd237b6ff832aa5b9b94263a02e700d9d90512bc6f446b9c3c67ee43abe7acb01c#rd)
+    - 时间：2023-01-19
+    - 摘要：探索进入心理行业的最优选择
+- [春节陪伴计划：有些热闹之下的孤独，只想说给陌生的你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779113&idx=5&sn=b134b1f5cc91dcdd934350a536f7980f&chksm=9fcaaa6da8bd237bb04172152ea16565c003b8b30752e3dc028b28ba4d8364a54f579d2c055f#rd)
+    - 时间：2023-01-19
+    - 摘要：这个春节，有我陪你。
+- [给你看我的软肋，我是不是就输了｜“不完美”爱情自救指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779113&idx=6&sn=68d078d8711c7409399c365c083ce8dc&chksm=9fcaaa6da8bd237bb9f40d3ead3e98a490c3e6585d49dd3eebaea76a16b79be981e894a5c301#rd)
+    - 时间：2023-01-19
+    - 摘要：你以为的软肋，其实是一节被遗忘的人生必修课
+- [新的一年，我做了一个改变我一生的决定！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247779113&idx=7&sn=c5f0f95db6182af8ccbc611cc6ecf45b&chksm=9fcaaa6da8bd237be1195ffc7b5c87848ae11545c73db5b6b01cab57aab6fa75326e47741ff0#rd)
+    - 时间：2023-01-19
+    - 摘要：学会自私是我至今为止做的最对的决定
+- [豆瓣9.4分，这部“给大人看”的动画片吓哭了孩子。本年度不容错过！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247778702&idx=1&sn=2c07331ae6d4a57f0bebc3f8567b0eb6&chksm=9fcaa8caa8bd21dcaf37f9b9bd9d71ca09519a18bd770e8bd7a1cd66090df2d0371e537d7eb8#rd)
+    - 时间：2023-01-18
+    - 摘要：心理学看剧
+- [如果你对获得“好的爱情”已经失去信心，希望你读完这篇再决定。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247778702&idx=3&sn=35b988f034589d5848402f110cd8b875&chksm=9fcaa8caa8bd21dc721d2881afb82b33c58bc4468ee70b3a103115813feeaf6db56ffac7f626#rd)
+    - 时间：2023-01-18
+    - 摘要：只有知道真正的问题在哪里，你才能重拾对爱的信心。
+- [春节将至，孤独好像比平常多了那么一丢丢](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247778702&idx=5&sn=75dc458b67fcb5f688a1b53be516ddec&chksm=9fcaa8caa8bd21dc3163df8132ffa897b4696bc3c9c7a3a1d6cf49ecf33a5adb847467c1c464#rd)
+    - 时间：2023-01-18
+    - 摘要：有心事，来聊愈
+- [2023，做什么才能改变我的人生轨迹？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247778702&idx=6&sn=b8cf52f42b87585aa9e111b4ab0b316b&chksm=9fcaa8caa8bd21dc99a55df847eb38d79a9a2d896d586dd13c4881280599fe73854ce41c34f8#rd)
+    - 时间：2023-01-18
+    - 摘要：新的一年，我做了一个改变我一生的决定！
+- [爱自己的第一步，是「摆脱错的人」。如何停止留恋伤害你的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777780&idx=1&sn=455ce779f7a84452aa36ad15bfa82c1e&chksm=9fca94b0a8bd1da630c30277d8dd07a764b8c8129fd8b8bf70926c353e25feff51e8c51a3df1#rd)
+    - 时间：2023-01-17
+    - 摘要：离开错的人，是你学会爱自己的第一步
+- [我来告诉你，为什么从事心理行业不用担心失业丨萌芽14期早鸟价火热报名中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777780&idx=2&sn=6235955636f4621f9d242d42e54eb426&chksm=9fca94b0a8bd1da69e2738737fa6992c02c79f9cac509aa5414bebe362444ff55034f585dc1c#rd)
+    - 时间：2023-01-17
+    - 摘要：探索进入心理行业的最优选择
+- [如何用心理学修养主业，发展副业？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777780&idx=4&sn=af17d4ac8527692e2e0facfd05e8047f&chksm=9fca94b0a8bd1da6beae2de32d054122086a97c629ac149c0ffdad2f759f7b0e2122b7446676#rd)
+    - 时间：2023-01-17
+    - 摘要：本周三直播，预约不错过！
+- [30岁的我，终于学会了取悦自己。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777780&idx=5&sn=e66f704db2f92a035271d01ffde763a9&chksm=9fca94b0a8bd1da6b6fd98463082a30a19640ce22ae4f212cd8d1cfc01d897d8512463463413#rd)
+    - 时间：2023-01-17
+    - 摘要：
+- [“我在喜欢的人面前，难以自控地自卑。”丨如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777780&idx=6&sn=1885e09cc944bbce34a02122c9c15ddf&chksm=9fca94b0a8bd1da63dc300450b558bc604cebe5b96742e6437dd9ebae1eea8f27586514121e7#rd)
+    - 时间：2023-01-17
+    - 摘要：告别自卑，从这本心理急救手册开始——
+- [2023年的爱情运势，就藏在你的「爱情剧本」里。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777780&idx=7&sn=32bbbdee27b2dfcaf59a83d476a9a16c&chksm=9fca94b0a8bd1da63f4829e7c11fcbed2404025f8b62366c831edd538c4d568fa207ecf23593#rd)
+    - 时间：2023-01-17
+    - 摘要：你拿到了什么样的爱情剧本？
+- [真正的“独立”不只是经济，更重要的是从原生家庭中「精神独立」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777367&idx=1&sn=719169e5579617e0c00c1b2f951d35b5&chksm=9fca9513a8bd1c052d4efe78e189b48d48a05278fad981fd5ed556d3d01b39d32e45ad81386f#rd)
+    - 时间：2023-01-16
+    - 摘要：收下这份「春节回家自救指南」
+- [对关系的16种不同需求，你真正需要的是哪几种？（帮你理清思路）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777367&idx=2&sn=86afc7940d8eed3369200405d49e3ce7&chksm=9fca9513a8bd1c05c2e87a788827f6dc6dbd854bad77022c10f9d49aa19770e1ea93e3f6a464#rd)
+    - 时间：2023-01-16
+    - 摘要：在爱情里，你最看重的是什么？
+- [被工作逼疯的打工人：“是谁还没放假，还没发年终啊？”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777367&idx=4&sn=897b8678ac8720b1620e426e6f0ad330&chksm=9fca9513a8bd1c05cb177ad9a3fb9b96f40307f217464bbcc00e1bc62e378649e22272ab11f8#rd)
+    - 时间：2023-01-16
+    - 摘要：
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777367&idx=5&sn=4b0b11ba34e92369ab0fc4c2617623a7&chksm=9fca9513a8bd1c0542975622bd60808a0c5f35f97091540dbb1c46f870b7cf6e5f79eab528f0#rd)
+    - 时间：2023-01-16
+    - 摘要：
+- [童年的经历，给你带来了哪些不良影响？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247777367&idx=6&sn=9a786235a5a0f5b0d27e40e942c218a9&chksm=9fca9513a8bd1c0561abbb396f6cc2bf74069150678b5637e28354330f5cc39074d5bdbf890e#rd)
+    - 时间：2023-01-16
+    - 摘要：你在被哪种人格阴影束缚着？
+- [性欲消退后，如何维持亲密的爱？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776584&idx=1&sn=53c5523bfaeefa93abfa38b9aed0e3ad&chksm=9fca900ca8bd191aca519b46c4c179e0f666fc8eae11f9322dd53b352d64c587fbb8307406c5#rd)
+    - 时间：2023-01-15
+    - 摘要：不用轻易归结于“不爱了”。
+- [梳理你的【择偶清单】，离对的人更近一步——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776584&idx=2&sn=18170975396bdb19f913cccd61f7386e&chksm=9fca900ca8bd191ab80fdd50ce3f7d975bbcf6f285275e55228c017ae3732d3db309424de958#rd)
+    - 时间：2023-01-15
+    - 摘要：​明确择偶标准，找到“对的人”
+- [摆烂太久，天赋与力量就会被收走](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776584&idx=3&sn=7dcb40693350fdd47ad4dde2d482c423&chksm=9fca900ca8bd191a46aff6c26dbe019b01b782b8fa3926ec47c0c7d12be5777f61fdff378047#rd)
+    - 时间：2023-01-15
+    - 摘要：自我治愈=摆烂、躺平？
+- [如果可以重新来过，是不是一切可以变得更好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776584&idx=4&sn=ca61b1236de086134a143fe1d7e2d0fb&chksm=9fca900ca8bd191ac6707a658bf0e2227b85218cc5d3ecc7615ef9bdecb8c638f4c9cadbc2be#rd)
+    - 时间：2023-01-15
+    - 摘要：有心事，来聊愈
+- [面对「成年人的世界」，你有足够的心理成熟度吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776584&idx=5&sn=177428b24568e9c767607c6a01b8887c&chksm=9fca900ca8bd191aa25801439a44200941cddc5d7631b462012314e840d9698e9c1311b5d7b8#rd)
+    - 时间：2023-01-15
+    - 摘要：我们都需要知道什么是成熟。
+- [到底做什么事，10年后才不会后悔？丨让你少走10年弯路的顶级心理能力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776584&idx=6&sn=2b150e0840483e5e07c2410fbc606621&chksm=9fca900ca8bd191a0174c9d0998e9fba15a866ed40124f3f58d2c8479476e71b52569cf69e37#rd)
+    - 时间：2023-01-15
+    - 摘要：
+- [「保持冷静」一种看似普通，实际上很难又很重要的生存技能 （写在后疫情时代）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776555&idx=1&sn=50df9f728d010d2a572fc8edffee36a2&chksm=9fca906fa8bd197974d410059a9650a7618782faf25c9a172aca37616dca021a86b830fc18f5#rd)
+    - 时间：2023-01-14
+    - 摘要：内含咨询师实用建议，干货满满
+- [29岁一事无成怎么办？你可能缺乏了这些关键心理底层能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776555&idx=3&sn=7645336a36cd504404954451de40bf8c&chksm=9fca906fa8bd197914d3ebc0cb9949f55f4da49fd03a8b4266271451a07da2d17d121c0e7824#rd)
+    - 时间：2023-01-14
+    - 摘要：
+- [恋爱中女生应该“主动出击”还是“被动妥协”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776555&idx=6&sn=47b39f8f031ece17d93ece7ae4e8bfcc&chksm=9fca906fa8bd197972d51131cfb78177b433c200ecb67069969e59b2bbeefc08e87ba456bea8#rd)
+    - 时间：2023-01-14
+    - 摘要：如何把恋爱谈明白？
+- [能不能脱单看的不是运气，而是这种能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776555&idx=7&sn=5db6b78f7b92529a8c7f51ab57e4f8be&chksm=9fca906fa8bd197970cc542d453432e06e95b6ee81f96c265006cda7bca909ce4fec0f175e92#rd)
+    - 时间：2023-01-14
+    - 摘要：你可能缺乏了“恋爱的能力”。
+- [走过2022的迷茫，一起去闪闪发光的2023！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776555&idx=8&sn=2daae7d8a4c8db4f9a4ab83509741ed5&chksm=9fca906fa8bd1979ad5c74ed5da0c760dc9ccfffb4b69e12c500a4610b5aa64f14bdb8b8e9b5#rd)
+    - 时间：2023-01-14
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [这可能是2023年最流行的恋爱模式。30左右的女生一定要看！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776489&idx=1&sn=0e9837fb84e4dd8878b68693fe9bc140&chksm=9fca91ada8bd18bba8b244459934c479b24729ff3f613059aa12617562a66252301276263e79#rd)
+    - 时间：2023-01-13
+    - 摘要：你上车了吗？
+- [“毕业五年，存款5000”，已经活成废物了怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776489&idx=2&sn=6d966c3a8c688673644c66b3d4198d61&chksm=9fca91ada8bd18bbc607ff995fc35ac434d595f88d658738581e57c81c3697eec467e6948dfa#rd)
+    - 时间：2023-01-13
+    - 摘要：在任何年纪，你都该学会这个通向自由开阔的方法。
+- [你是什么样的“依恋类型”，就决定了你在恋爱中有什么样的表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776489&idx=3&sn=a98f86e881a29d54675a6c364b15554a&chksm=9fca91ada8bd18bb97d70dd4e4082967fd3fb1e450fd9b5ce70b9a6d08cf196e57f58026f789#rd)
+    - 时间：2023-01-13
+    - 摘要：探索进入心理行业的最优选择
+- [给你看我的软肋，我是不是就输了｜“不完美”爱情自救指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776489&idx=5&sn=e350c42b3f55046814533361a4022a62&chksm=9fca91ada8bd18bb7f0067ed8fb4fbe48dace18db4217c8b324b1425dd47652b0f5d5382358c#rd)
+    - 时间：2023-01-13
+    - 摘要：你以为的软肋，其实是一节被遗忘的人生必修课
+- [科学预测，你会拥有“不分手的爱情”吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776489&idx=6&sn=c09489f4c3c76dfea55273fed25846ff&chksm=9fca91ada8bd18bb6eabe5d0f39c502ef7da6a7292fe07acd80641c489f6ea1f988d3e334de5#rd)
+    - 时间：2023-01-13
+    - 摘要：真正长久深厚的爱，不是每个人都能获得。
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247776489&idx=7&sn=f114ee9713ce22f148760f3ff488720c&chksm=9fca91ada8bd18bbe62c161a08a30f32b0daaf9cf68569b690e8b092174e577838ae9fd48109#rd)
+    - 时间：2023-01-13
+    - 摘要：成年人交友新方法
+- [关系总是“高开低走”？你需要学会「先展示最差的自己」——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774901&idx=1&sn=695e36cca0b53aff49b818473ea70292&chksm=9fca9bf1a8bd12e7a89684a3e24f0bc8c6ab7d469f0fd59f0932861dae4a1b064ec98627fc1c#rd)
+    - 时间：2023-01-12
+    - 摘要：爱不会在你光芒万丈的时候出现，却会在你狼狈不堪的时候降临
+- [现实世界这么难，怎么做才是对自己好一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774901&idx=4&sn=cb46c3d1b4e6d240da55919e01dbea0e&chksm=9fca9bf1a8bd12e77de3ba385c9d9e2fba22f8ac94cef98f25d0475ab83a84cff374e398dd5f#rd)
+    - 时间：2023-01-12
+    - 摘要：有心事，来聊愈
+- [你和Ta的关系，问题究竟出在哪里？丨爱情健康度分析](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774901&idx=5&sn=b2120962e1a508e7388c26a3f0bbd56e&chksm=9fca9bf1a8bd12e7063812d16d5f598c67985e80bf1b1829d798ca90c0d2a25e5d7b725d197a#rd)
+    - 时间：2023-01-12
+    - 摘要：在恋爱之路上，KY为你保驾护航。
+- [走过2022的迷茫，一起去闪闪发光的2023！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774901&idx=6&sn=fce777f86b1bf89c1a97fc374a5627c0&chksm=9fca9bf1a8bd12e7e072bab5bedcfcf833add5f3c2dc22543fba65b821b157925b67b3ed027e#rd)
+    - 时间：2023-01-12
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774901&idx=7&sn=9e68b078eef2e8f19e1187fff8b68565&chksm=9fca9bf1a8bd12e769dd68ca7baeab7365736270c646a65fedaff793373450f74d6c40519e4e#rd)
+    - 时间：2023-01-12
+    - 摘要：成年人交友新方法
+- [你对同性的感觉，是爱情吗？丨性取向测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774529&idx=3&sn=a9fce94408022175f76650edfb451476&chksm=9fca9805a8bd11135d38750424279ba7608e5ce1ceac942abdd4e1bde8f5e05527d6f1a51b53#rd)
+    - 时间：2023-01-11
+    - 摘要：你可能没有自己想象得那么“直”......
+- [总是在三分钟热度里反复挣扎？3个tips帮你找到自己的无限可能](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774529&idx=4&sn=e82ddca56f49815334a7db4687a61fe3&chksm=9fca9805a8bd11131bccd2419d3334a4e737ba0b9672ae98134001d68ac2b440c4f425d55be1#rd)
+    - 时间：2023-01-11
+    - 摘要：和“三分钟热度”say拜拜！
+- [女孩们请大胆生气丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774529&idx=6&sn=d27ecba07c4a5f3a07192a17ee283119&chksm=9fca9805a8bd11134e2608eff62bc558a1ed2bc1b8812bd8656a4e3900c6c3fb2967df983a98#rd)
+    - 时间：2023-01-11
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [走过2022的迷茫，一起去闪闪发光的2023！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774529&idx=8&sn=1bea8c7781bfdabd6cdb4f8ed5dc2ab1&chksm=9fca9805a8bd111371fab1cf0394f58b7caf6c846b8541b7cead373cc6d231d494d2a972e5be#rd)
+    - 时间：2023-01-11
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [被“渣”了，我们的「自我」会发生哪些变化？（内含自救方法，建议收藏）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774324&idx=1&sn=7c4b7ee512fd37a0d29dae4b49bb8d70&chksm=9fca9930a8bd10263d8ddcc86c009ff20a293663c4d78e5de452bf0fbb286fa26f2542e53b73#rd)
+    - 时间：2023-01-10
+    - 摘要：快转发给你那个被“渣”了的朋友吧
+- [超八成青年愿意开展副业，为什么心理行业是最佳的职业“备胎”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774324&idx=3&sn=bba3cd3a78243bfc6d9f9dccf38ddba0&chksm=9fca9930a8bd10261d43f0b9b2ccc9141bf8cc14dc407b45345f11c49a6421a889ba3648d443#rd)
+    - 时间：2023-01-10
+    - 摘要：本周四直播，预约不错过
+- [MBTI类型总是变来变去，如何科学解读？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774324&idx=4&sn=c7ce10738ea307a8f094e9893b481d41&chksm=9fca9930a8bd102604d809ec2b5dd5224c51d9e52f1f7b5ee2975d3931377433547a4df8662e#rd)
+    - 时间：2023-01-10
+    - 摘要：​火遍全球的MBTI究竟是不是正经心理学？
+- [女孩们请大胆生气丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774324&idx=5&sn=a2481f10d24ef56ea434f1dfee12c744&chksm=9fca9930a8bd1026a3b1f94c5d597655cf9553f7a086e2d901cf57767f780852da4176370c1e#rd)
+    - 时间：2023-01-10
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [“我什么都不想干了”，如何应对黑洞般的空虚感？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774324&idx=6&sn=9fb80bb670d82e585d2af958529fdafb&chksm=9fca9930a8bd10266d3c16e182e618c4c8c03b2afa1e2ab52f3129e516491dfd1616da42c117#rd)
+    - 时间：2023-01-10
+    - 摘要：
+- [这些危险性行为，一定不能尝试。第5种你肯定不知道！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774174&idx=1&sn=37054aea54af5bc7c21f960259191bbe&chksm=9fca869aa8bd0f8c0903b591b9c544bdc79c8480874ab13902b181d91f6f4cab28543cf35d9e#rd)
+    - 时间：2023-01-08
+    - 摘要：点击查看「危险性行为」大全
+- [迷茫时，除了等待还能做些什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774174&idx=4&sn=e0f2b50d41e5033ad7f9c94799694103&chksm=9fca869aa8bd0f8cd8756769d1d1461192b8a8a5c213f365e011b1bd305be186117826e6bc65#rd)
+    - 时间：2023-01-08
+    - 摘要：有心事，来聊愈
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774174&idx=6&sn=cf510e31b988396a19728872bec5a0df&chksm=9fca869aa8bd0f8c35e4c841a33ad9ce89d84674dbeaaaa5801f926659c745c4f90991a0752c#rd)
+    - 时间：2023-01-08
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [4条恋爱升温法则，拿捏住就没有谈不好的恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774174&idx=7&sn=97fd65ae9333515d6b37f3c813414055&chksm=9fca869aa8bd0f8c7df84aefd228e17585f30004b96959be294c0351008f9fdf896a175d252f#rd)
+    - 时间：2023-01-08
+    - 摘要：爱的锋芒不会变钝，爱的热情不会降低
+- [爱情与体重丨暧昧期、热恋期、稳定期，我们的体重会发生怎样的变化？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774071&idx=1&sn=7c6c25c524dadac006ae851a995f0fb5&chksm=9fca8633a8bd0f25787cd2ed65317ef1d01579b4b5f0f4acea5fb8d11c1acc775ac8d8549994#rd)
+    - 时间：2023-01-07
+    - 摘要：一文说清爱情中的体重问题
+- [“如果和Ta分手，我会后悔吗？”这个测试给你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774071&idx=2&sn=dcef88e4c02bf0e405abe7a00109b292&chksm=9fca8633a8bd0f25d1b6462a630e62241bd964a0a5dc6cd2fce49b54ee6d3d9d26a4ddc10d06#rd)
+    - 时间：2023-01-07
+    - 摘要：你的对象还要不要继续留着？
+- [恋爱中不能触碰的分手禁区，你中招了几个？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774071&idx=5&sn=ce45280df68bf0b46ed30fc2faaf9822&chksm=9fca8633a8bd0f254d93c29e863e97ec1c938ac1f7a2a4cc74f6c35353c83a67b2c677fb1e5d#rd)
+    - 时间：2023-01-07
+    - 摘要：小心误入渣男陷阱！
+- [“没有证据，但总是担心他突然就不爱我了。”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774071&idx=7&sn=98314be0955a2965ab9f531d8c583829&chksm=9fca8633a8bd0f255a2111151f7fd3109660b4bb632e0cae365e04b38c859c653535332c27f0#rd)
+    - 时间：2023-01-07
+    - 摘要：在担心你的爱情吗？
+- [这5种「表达爱的方式」最不受人喜欢。哪些做法能真正加强亲密关系？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774043&idx=1&sn=ad0a4171ee9d4501ea44cf80fc6e35b7&chksm=9fca861fa8bd0f090c124605c2513f5210f2c2abf9dc29447eb1b083dcf9e63a33be09afadc6#rd)
+    - 时间：2023-01-06
+    - 摘要：好好表达爱与关心
+- [有些弯路，其实是换了包装的礼物丨破解无力的生活](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774043&idx=2&sn=dc17a746cc8510ecfa5e6f686d15bf84&chksm=9fca861fa8bd0f0928129800284d08dd8322add7d4f4f729cfbb4cdf86f3bd117956d9572224#rd)
+    - 时间：2023-01-06
+    - 摘要：
+- [找不到天赋的人，一辈子都在“低效率内卷”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774043&idx=3&sn=fde69d762be2253cb4caf5be1e98eaef&chksm=9fca861fa8bd0f091f2a3dd157533b2df33e38ab72069485148728aa815388db0def51c4ec7e#rd)
+    - 时间：2023-01-06
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774043&idx=5&sn=86c235605f604cc07c54fb28c5b1365e&chksm=9fca861fa8bd0f096fd5796372f3fd6edc933c7c6d0a56dd37c67d93461e6b33e0aaf7485fed#rd)
+    - 时间：2023-01-06
+    - 摘要：想做那个听你说出心声的人。
+- [走过2022的迷茫，一起去闪闪发光的2023！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247774043&idx=7&sn=536dc7cf519b6917b88d8f5c59e02f25&chksm=9fca861fa8bd0f09dae3c447cfa722a97bcc279bcc52798152212dfc1bd5dd19038e674314d2#rd)
+    - 时间：2023-01-06
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [深圳首个立法支持“尊严死”：我们与4000位粉丝聊了聊「我所向往的死亡」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247773676&idx=1&sn=9cfd5f600bb13f06cd5f5e242872702c&chksm=9fca84a8a8bd0dbecf3da4e91d24f55e64503f0bbfcd0e04b6908bc65da2ccf9be78ab68639e#rd)
+    - 时间：2023-01-05
+    - 摘要：生命质量，远比长度更重要。
+- [当下，停止“自我内耗”是对自己最好的照顾](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247773676&idx=4&sn=05ba0172d5af59416da076e5ab438812&chksm=9fca84a8a8bd0dbe455f56ec9c1a3b7ede74ceccf2491a3a25cb17a16a0b49c397bfc25da8df#rd)
+    - 时间：2023-01-05
+    - 摘要：“有心事，来聊愈”
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247773676&idx=6&sn=9e6b39f492ea4ae1baf8ca42774cf5a4&chksm=9fca84a8a8bd0dbe0418fd26d610b0d573a751d22db5ebd8ec92e6cdbce0a1e54ce2547d9f3c#rd)
+    - 时间：2023-01-05
+    - 摘要：想做那个听你说出心声的人。
+- [从小缺爱，还有可能获得真正的爱情吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247773676&idx=7&sn=876cf316e9d6504d014df1ec1bf5f2b5&chksm=9fca84a8a8bd0dbe999be75982105f54f2b3314db3f1ff55b4406d5e0d66ef2d951fca052d27#rd)
+    - 时间：2023-01-05
+    - 摘要：成年后，也可以后天努力学习“爱的能力”。
+- [情感自救指南｜你的爱情，也死在这场疫情里了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247773676&idx=8&sn=0ab96747e3eef767b2e2ccbf9cc3941f&chksm=9fca84a8a8bd0dbee8c42fc0896764f1daeda5d6c2d1da8cd43ed19f728b2aa769ba08c2407c#rd)
+    - 时间：2023-01-05
+    - 摘要：疫情来了，爱情走了
+- [成为父母后，我们的大脑会发生什么变化？生育前必须了解！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772945&idx=1&sn=2db71860f2d74044b7291f94637af258&chksm=9fca8255a8bd0b437dd2e66b94ac5bdbcc208357fb79d800b0fd64409bb680bd0ebd9fd3b4b7#rd)
+    - 时间：2023-01-04
+    - 摘要：大脑真的会变“强”
+- [想进入心理行业，又不确定自己是否合适？来这里找到答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772945&idx=2&sn=dfd2d8fd3e77aaaa3ce842c493a23c60&chksm=9fca8255a8bd0b43ef1b1e542f736068dba3cd8943a2b025bdc2096d2a86171f63cde1db993a#rd)
+    - 时间：2023-01-04
+    - 摘要：5天新职业探索营，带你探索职业新可能！
+- [难以入睡？丨周四直播：告别焦虑，2023从睡个好觉开始](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772945&idx=4&sn=d76d7838285d55ee362497aae7c03623&chksm=9fca8255a8bd0b43fd959f5a90ba37b7374273efbb44cccdc32b384c3a4609d0dfac8030a070#rd)
+    - 时间：2023-01-04
+    - 摘要：一起获得好眠指南吧
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772945&idx=6&sn=7075049aded32afde0e8496290ccf01e&chksm=9fca8255a8bd0b43d0c3bc6be8fd7006e18a0da470977ca3db900d92c3a60eb48c6d2422488e#rd)
+    - 时间：2023-01-04
+    - 摘要：
+- [Ta，是能和你相守一生的人吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772945&idx=7&sn=2ea1824d4ecbd19c440833d5b88816a9&chksm=9fca8255a8bd0b43bd985ff49f1eddd267e1bae2cffcd865fff52a7b7728e9c101a6ded49a47#rd)
+    - 时间：2023-01-04
+    - 摘要：用靠谱的方式识别“对的人”
+- [如何让别人对你敞开心扉？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772764&idx=3&sn=df0463bbc6740d4c71e9aef85eb8d626&chksm=9fca8318a8bd0a0e76350f2e85485baeb9e5a4533898f38c6850943841b76c4177f46b445ae9#rd)
+    - 时间：2023-01-03
+    - 摘要：你拥有治愈人心的力量吗？
+- [“我都已经道歉了，你为什么还不原谅我！”丨面对伤害，我们该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772764&idx=4&sn=5b30675ee2018d0b833dc4ab9e3b02cb&chksm=9fca8318a8bd0a0e31f6eb652c5329e7b909f50080d099ccc40f2f887051829a13d0ff52a372#rd)
+    - 时间：2023-01-03
+    - 摘要：
+- [女孩们请大胆生气丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772764&idx=6&sn=64145201a47d47764cd81360f6aa4939&chksm=9fca8318a8bd0a0ec3f9ece6f5081180603c086d8b47c2e7d2d7446ba7ce15f0d45336282d40#rd)
+    - 时间：2023-01-03
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772764&idx=8&sn=e1c44d9d5e5bbf8aac712cdd94459ca7&chksm=9fca8318a8bd0a0ed69a4a31e202c6130d5dc2fdae81b424cbd0bb023cd5f5863ecb99e0508e#rd)
+    - 时间：2023-01-03
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [点击开启：不婚主义者的一生](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772556&idx=1&sn=f1880e61f7fcc089c781b1cdd1566b22&chksm=9fca80c8a8bd09dec2d1c3888855b0d929fff946a3f1df3df4837da38701705deba491cbfc38#rd)
+    - 时间：2023-01-02
+    - 摘要：你喜欢这样的人生吗？
+- [对关系的16种不同需求，你真正需要的是哪几种？（帮你理清思路）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772556&idx=2&sn=0ae95ec583689b6deb4a04c32cc702b7&chksm=9fca80c8a8bd09de3e787e9c76a018e8ebf545465ff4742314da878c4c887b4673524c5133f7#rd)
+    - 时间：2023-01-02
+    - 摘要：在爱情里，你最看重的是什么？
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772556&idx=5&sn=24b3eceb6b72d0ca179440481fa8b18e&chksm=9fca80c8a8bd09dee23c95d7a6f7cfa5760c2cab24ffd6c475b1e808c34926ad1dc363ccd3c9#rd)
+    - 时间：2023-01-02
+    - 摘要：
+- [“没有人可以伤害你，除非你自己允许”｜如何拥有理直气壮的勇气？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772556&idx=6&sn=2be1a6568142e8ab2efb6568c15570d6&chksm=9fca80c8a8bd09de30ffca1247cf46ccc957eac1df2826126b50ecdf404be2cea5eb345741b6#rd)
+    - 时间：2023-01-02
+    - 摘要：文末有惊喜！👇
+- [2022「最具心理代表性」的16个年度关键词丨你印象最深的是哪一个？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772519&idx=1&sn=0b76d7b00a67f1a503ed10cbda058a32&chksm=9fca8023a8bd0935dc02ecfe5484ba0a34f1c18ee847392e4aae6021b5e7d79fe1a0e3b277d6#rd)
+    - 时间：2022-12-31
+    - 摘要：去见2023吧
+- [“我特别不甘心一辈子只做一件事。”丨你是多重潜力者吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772519&idx=2&sn=16903acd04429369b4dfb51b37a80e4f&chksm=9fca8023a8bd09351eb414c524868ba67d861d682c53a97bc7aa9b6e8e30e0e99807add720b4#rd)
+    - 时间：2022-12-31
+    - 摘要：
+- [千万量级正念冥想导师亲自带练！被KYer夸爆的年度最佳「正念减压营」｜年前最后一期](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772519&idx=4&sn=2ca16fd38bd61cb39c40f0b3249fe517&chksm=9fca8023a8bd09357175daf979308e5b2f6bc1a9dd00225babb283ca6b50b0d3efaf8f163f56#rd)
+    - 时间：2022-12-31
+    - 摘要：一起get对抗负面情绪、在混乱中稳定自我的武器吧。
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247772519&idx=6&sn=fd898cb61cc9338d7dd623680f2de907&chksm=9fca8023a8bd0935963934467f224d8f66bf4d1b4cd7047f095c430d1f30f087bb8812a369ae#rd)
+    - 时间：2022-12-31
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [男性期待，女性犹豫？KY调研：「走向婚姻的情侣们」在想什么——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771564&idx=1&sn=3362681d7232ab1e3b0e1980ba22e2ae&chksm=9fca8ce8a8bd05fec2aefed9acfaf91ee8879f4cf88d56b741c1601780e5b483e947d0d76ccb#rd)
+    - 时间：2022-12-30
+    - 摘要：如何科学地走向婚姻？
+- [想进入心理行业，又不确定自己是否合适？来这里找到答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771564&idx=3&sn=f958b1bb70a79e82a7ffd32da206b973&chksm=9fca8ce8a8bd05feabe70b0d6f73e34c1ed1e599415b1c2bef320b36362455cf094a1ae27eca#rd)
+    - 时间：2022-12-30
+    - 摘要：5天新职业探索营，带你探索职业新可能！
+- [新年转运｜3个tips，让你在感情中备受宠爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771564&idx=4&sn=4d957b8618203ea5c2aa9bc062b26199&chksm=9fca8ce8a8bd05fe5ef04f2ff00f1e454fe532fc97fe323f428d394e7282ffed6f7b354a4185#rd)
+    - 时间：2022-12-30
+    - 摘要：你的24h陪伴式私人心理导师！
+- [KY帮你发现：刻在你基因中的【性格秘密】](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771564&idx=6&sn=0cfb5896b1ea080f35d35fbe1ba13d42&chksm=9fca8ce8a8bd05fee87a518c2195d068e338debdda3685b43e31c221c74b03aca33b4d7b3585#rd)
+    - 时间：2022-12-30
+    - 摘要：这份测验，助你发现内心深处的人格秘密
+- [如果可以重新来过，是不是一切可以变得更好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771564&idx=8&sn=09d345034a76a3abc8f827383c87a829&chksm=9fca8ce8a8bd05fe54fa47a7853042aeb4c0c1b37e8ec5c48c0f348e4534c80a569470668b6c#rd)
+    - 时间：2022-12-30
+    - 摘要：“有心事，来聊愈”
+- [阳了，才知道是不是真爱。6个维度「用新冠评估亲密关系」——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771539&idx=1&sn=7c38605351e3eaa29f78424fd794dc43&chksm=9fca8cd7a8bd05c1c1425dc7be639405f502626add838ca5b47407b23948916e2568432d5f2c#rd)
+    - 时间：2022-12-29
+    - 摘要：多功能使用新冠
+- [分手，对你是更好的选择吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771539&idx=4&sn=07cca2010e4529671d4475cf2594cca4&chksm=9fca8cd7a8bd05c1eef865cd4d5be2ab272642b70bb4cae2e72c66e2867bcc314f3cc3ebd7e7#rd)
+    - 时间：2022-12-29
+    - 摘要：你的对象还要不要继续留着？
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771539&idx=5&sn=c8963c8d7951680b52f6d93e3cf00c79&chksm=9fca8cd7a8bd05c13834b1ffc81a42a36f9a20679b869f683d20f3f55a6a043b9a6a396cfd42#rd)
+    - 时间：2022-12-29
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [为什么我现在越来越难以完全信任一个人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247771539&idx=7&sn=fe1c5eead1c2bf068bc18ef12d2bd700&chksm=9fca8cd7a8bd05c196fa899410b88a606bed0a1c92ca572de68777683bb3acd09c4c977fdb93#rd)
+    - 时间：2022-12-29
+    - 摘要：
+- [想进入心理行业，又不确定自己是否合适？「心理跨行业讲座」来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247770689&idx=2&sn=6dc07ff31e0cdfca88d6e1c221af5ef2&chksm=9fca8b05a8bd0213e17014e5aa810c770ea8c8429f4949fc02207c115018b4464aca7f1f7a07#rd)
+    - 时间：2022-12-28
+    - 摘要：5天新职业探索营，带你探索职业新可能！
+- [MBTI网图不准？KY来科学解读你的MBTI人格](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247770689&idx=3&sn=69bae1414efc14f4b8218c79e20d3cb2&chksm=9fca8b05a8bd0213e4b819e82e393b8a4aa7d7c7aa46fa053d900671db6918dbaad5575c6156#rd)
+    - 时间：2022-12-28
+    - 摘要：​火遍全球的MBTI究竟是不是正经心理学？
+- [女孩们请大胆生气丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247770689&idx=7&sn=69894ea8e3816e033693ca260195bb54&chksm=9fca8b05a8bd0213f49568a950f043537ad6d487bdd8b61bd859a3d60d6fcf22d86b0b84efe6#rd)
+    - 时间：2022-12-28
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [想谈恋爱却一直单身？可能这4种想法悄悄阻碍了你（实用方法贴，必马）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247770174&idx=1&sn=1cfef8c087069a461ee1efa8ff869377&chksm=9fca897aa8bd006cfad22615e3200fbcdaadcbd7e388e14d0e0d90717e9cb9e541ce7d3ed550#rd)
+    - 时间：2022-12-27
+    - 摘要：要遇到“对的人”，得先改变“错的思维”。
+- [你身上哪一点最吸引Ta动心？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247770174&idx=3&sn=c63939603eb26d28f68dc5d30a6c9da2&chksm=9fca897aa8bd006ceb903d60fec72e8e54ecbc827265562a13b3448bd7497221f70f11a6109c#rd)
+    - 时间：2022-12-27
+    - 摘要：颜值与吸引力，并不一定成正比
+- [4条恋爱升温法则，拿捏住就没有谈不好的恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247770174&idx=4&sn=3b9d144f2ed9aec7d435a57519009676&chksm=9fca897aa8bd006c2f69cf0769f4a0e253b08e53d84302857771f4a5173c901c23863254264b#rd)
+    - 时间：2022-12-27
+    - 摘要：爱的锋芒不会变钝，爱的热情不会降低
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247770174&idx=7&sn=42c547ad291486c2701b077334369e0e&chksm=9fca897aa8bd006c26f816c1f17aa09d5f48629362a6fc46ba94ffa5701ae37fd3af1352ab73#rd)
+    - 时间：2022-12-27
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [这种生活中的“隐性自虐”，90%的人都经历过](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247769901&idx=1&sn=99e828630d1772138cfdf38945cf0824&chksm=9fcaf669a8bd7f7fa3d6f20aa68b7780cd84bdfa1e62b4001d2e71ab373e33f07a43c004f438#rd)
+    - 时间：2022-12-26
+    - 摘要：好好睡觉是最基本的自我关怀
+- [你真的想明白了要追求什么吗？丨人生核心需求测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247769901&idx=2&sn=31670100504f749740d3f4fa423c6824&chksm=9fcaf669a8bd7f7f04bbe602f5101ed00b6fb1d2ddc853ad2ca975c0824899c1ecfa6099a3a1#rd)
+    - 时间：2022-12-26
+    - 摘要：你的人生核心需求是什么？
+- [想进入心理行业，又不确定自己是否合适？来这里找到答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247769901&idx=5&sn=8a6183f4d2334dcd3dea32a97b2c44a7&chksm=9fcaf669a8bd7f7ff5a9dfaa428730c0994b6c0153f129242182a4c21c00d3686a25a00003cb#rd)
+    - 时间：2022-12-26
+    - 摘要：5天新职业探索营，带你探索职业新可能！
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247769901&idx=6&sn=e05d4b7eccb9fb222532ed42e711a996&chksm=9fcaf669a8bd7f7f2855ef7fda418810605aff54bb1821fe7b75e94ce18158dbc221518998ee#rd)
+    - 时间：2022-12-26
+    - 摘要：
+- [情感麻木、感觉带着“人格面具”生活？警惕越来越普遍的这种心理问题——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768826&idx=1&sn=85e2843c25a038431f8a89efcb9d7fbe&chksm=9fcaf3bea8bd7aa8a7a5369e2c0246a8d15754ae8a7171d42e73b9cc3788ea1688a5c3cfb2f7#rd)
+    - 时间：2022-12-24
+    - 摘要：你活得够真实吗？
+- [摆烂太久，天赋与力量就会被收走](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768826&idx=2&sn=7c32af89af5e4461e9d84c35e1911d30&chksm=9fcaf3bea8bd7aa8889fd7231aff87c88d7f57f0f4fb5851c8a43a0848ade3585256b9e35174#rd)
+    - 时间：2022-12-24
+    - 摘要：摆脱摆烂，重启你的人生吧！
+- [守护者计划：有些不敢说的真心话，只想圣诞节说给陌生的你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768826&idx=4&sn=5655faf3a2d6faa5bfaab8d38cabc411&chksm=9fcaf3bea8bd7aa8d69a5e24fe7894cd80030717a39caa06a360b7ab92730322749181f1da9f#rd)
+    - 时间：2022-12-24
+    - 摘要：愿寒冬不寒，我们都不再孤单。
+- [想进入心理行业，又不确定自己是否合适？「心理跨行业讲座」来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768826&idx=5&sn=4bc72abef1dce37302ece2b99bd7129f&chksm=9fcaf3bea8bd7aa8b89fb67a2b2181cc628f065133e97678a968d22cc024b1d4dcf8ab535c90#rd)
+    - 时间：2022-12-24
+    - 摘要：5天新职业探索营，带你探索职业新可能！
+- [如何成为不被自身情绪折磨的「情绪成熟者」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768826&idx=6&sn=2e4fd118369c0a6a4762e3b1a25f9283&chksm=9fcaf3bea8bd7aa80bbb4996a18b59a0dc7ba22d782833f3076a2ab2703e4495552014703b38#rd)
+    - 时间：2022-12-24
+    - 摘要：
+- [独居焦虑、幻阳症、疫情放开后恐慌…疫情心理最全分析](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768668&idx=1&sn=e1f9c2142fd022c3a1afb1928f764273&chksm=9fcaf318a8bd7a0ef4d746bf127869184cbcf976af56b41d1124e0e94153c2342301bd7090b1#rd)
+    - 时间：2022-12-23
+    - 摘要：心理也不能被传染哦！
+- [梳理你的【择偶清单】，离对的人更近一步——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768668&idx=2&sn=ec3626da8a56f431e5da14ba1101890b&chksm=9fcaf318a8bd7a0eaf912c346c6fa60f611acaf7975c309a2b25aa5a1940d118254b3ab3dd0c#rd)
+    - 时间：2022-12-23
+    - 摘要：​明确择偶标准，找到“对的人”
+- [为什么你总是做错关键的人生选择？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768668&idx=3&sn=e0440cea02be13253dff784bf0c4fffd&chksm=9fcaf318a8bd7a0e55f5a15f8c262c5b56a57f092acbeabe11ac3690cf3ea848a3be7e1f088c#rd)
+    - 时间：2022-12-23
+    - 摘要：你的人生核心需求是什么？
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768668&idx=4&sn=3a54c74659e107cba4128697c23c136e&chksm=9fcaf318a8bd7a0e2b564fb6835a169215cfd0bfc4a34ee907fc7c0ce1226b9a06606c0c2639#rd)
+    - 时间：2022-12-23
+    - 摘要：
+- [与其焦虑，不如发疯 | 全网都在追的“发疯文学”是真解压？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768668&idx=7&sn=cc2df14ccbb8e5efcae81950de5975cb&chksm=9fcaf318a8bd7a0ed66b2449e00f7d718f631a748ecbf7475fcd771b69ebfb91c17a30881c65#rd)
+    - 时间：2022-12-23
+    - 摘要：真正的英雄主义就是看清生活的真相之后，依然热爱生活。
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768668&idx=8&sn=3ad616f0806b2ad58b65604069188bef&chksm=9fcaf318a8bd7a0ed344db064fd8d071d550451ebb26d54a1601708a841c640fd702fc0c9a00#rd)
+    - 时间：2022-12-23
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [情侣吵架看似五花八门，实际只有这3种。后悔没有更早知道！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768412&idx=1&sn=6bb427743c3566e9501fb372c8a05b35&chksm=9fcaf018a8bd790ea4ce03c0d379a901b4e936126690632dac52b80238cb292eae34048961fe#rd)
+    - 时间：2022-12-22
+    - 摘要：会不会好好吵架，决定了伴侣间的磨合水平。
+- [“我好没用，我好差劲”：停止自我否定，5招让你学会爱自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768412&idx=3&sn=3ff7245e6176a85ee1b5a7e23a8f0272&chksm=9fcaf018a8bd790e5111898ed67e59cae115d3afedff50dbcfd941029a6b82e3cb6fb3eb6446#rd)
+    - 时间：2022-12-22
+    - 摘要：“每个人都可以再一次爱上自己”
+- [逃出内卷，你要找到“哪些事你不费力就做得比别人好”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768412&idx=4&sn=3f5c3105caf7402f7184ca01f5f0293a&chksm=9fcaf018a8bd790eb8a91b42ac0057acb6f10566de5bd4b42c82dacf51dea3ef222a8d3f3899#rd)
+    - 时间：2022-12-22
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [守护者计划：有些不敢说的真心话，只想圣诞节说给陌生的你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768412&idx=6&sn=e05cd1651b52b02674ac6bbdc1725257&chksm=9fcaf018a8bd790e1c7685434101b23a3858060404088c8e3ac0dbefd7d78d58eb4aef573b03#rd)
+    - 时间：2022-12-22
+    - 摘要：愿寒冬不寒，我们都不再孤单。
+- [女孩们请大胆生气丨人生要开挂，就得学会表达愤怒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768412&idx=7&sn=5da26d7353ac9828f04af7c2e6267e5a&chksm=9fcaf018a8bd790e681fb7237b4e53045cf40c5c39c92ee93bc95a2b6c99c66d8290c436c2f6#rd)
+    - 时间：2022-12-22
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [思维习惯不好？容易导致抑郁！一文教会你改善思维的方法](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768258&idx=1&sn=eb2b3fb5b9158e7f20c441c95ff47706&chksm=9fcaf186a8bd789094709a20ce6adc14ff7f417811d68ec8d8364a759313b77573cced9b9185#rd)
+    - 时间：2022-12-21
+    - 摘要：干货满满，而且真的不难
+- [你捧出的真心为何总不被珍惜？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768258&idx=2&sn=d7e79e76fa32223cd1f11dafc663be8d&chksm=9fcaf186a8bd789083b0e45ca1857e72c79af13cccb10db0308123fea062c7c5cce80929029f#rd)
+    - 时间：2022-12-21
+    - 摘要：爱情里，如何学会掌握主动权？
+- [嗨，最近你很不开心吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768258&idx=3&sn=79e356db7a2ce7e0ce57bf490e951e46&chksm=9fcaf186a8bd78902ab65033ac76fd74eb2d4cd25e007f157cac0bfb47e4e52c7bfc1bb6f6cd#rd)
+    - 时间：2022-12-21
+    - 摘要：点击查看你的心理健康报告。
+- [“29岁，我跌入了人生低谷。”对生活感到无力，该如何改变？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768258&idx=4&sn=1d9942ef50b409cb17705623979a5383&chksm=9fcaf186a8bd7890dece91f0353109ef643d4d68e398e1f12d03ff6828752459996365fbcd89#rd)
+    - 时间：2022-12-21
+    - 摘要：
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768258&idx=6&sn=e384de792fa80beb43e0753ef1ffa43d&chksm=9fcaf186a8bd78904da7d67382ee218c2092655bd2b6a946c756da8af061a5ead0bafe8b35fa#rd)
+    - 时间：2022-12-21
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247768258&idx=7&sn=d9d60a9b5b6a67fa2f414f57a4a8a89d&chksm=9fcaf186a8bd78905168d500ae98712d73a7934ce648b7e3b51db46b70bb5f095c91d002e23d#rd)
+    - 时间：2022-12-21
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [为什么吵完架啪啪啪，会比平时更爽？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767989&idx=1&sn=b5c8dc3d29278dabf3a4e582b8ab1ffb&chksm=9fcafef1a8bd77e7a1cc79e4e4b55ab0ba044dbd2f7eb615dd1d2377d490cc156c6ac56f1bbb#rd)
+    - 时间：2022-12-20
+    - 摘要：床头吵架床尾和，到底怎么操作？
+- [16种爱情核心需求，你最看重哪几种？快测——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767989&idx=2&sn=b62c7590b7d30854fc4f67b5b8cea139&chksm=9fcafef1a8bd77e7488f943b2f510c345f081fb4a70fad1d29bd731ccf4de4e251c2e067b00a#rd)
+    - 时间：2022-12-20
+    - 摘要：在爱情里，你最看重的是什么？
+- [《摆脱低自尊》2.0心理功能手账终于补货啦，现货超低价！速抢——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767989&idx=4&sn=796fc81074ad8c6210570974477657ec&chksm=9fcafef1a8bd77e7e1b790c6e42f832cc0f6e9f674ca5f5b599e3d48ad0029165532e2e9fa4b#rd)
+    - 时间：2022-12-20
+    - 摘要：《摆脱低自尊FIND MY SPARK》全新升级！
+- [我和对象大吵一架后，找聊愈师聊了30分钟，矛盾解决了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767989&idx=6&sn=ef58b565685a51ce67e6bc5d0a534515&chksm=9fcafef1a8bd77e76af700271e18656de751c462afa2fa19371aad3c1f271a5afd183ef0f70f#rd)
+    - 时间：2022-12-20
+    - 摘要：“有心事，来聊愈”
+- [如何走出「恋爱平淡期」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767989&idx=7&sn=9be4d813c6dc6cd7ba265d84ddabef30&chksm=9fcafef1a8bd77e7fc4d29a64110baa46071c7c830df4ffd6b8588f81558c341142139f231b1#rd)
+    - 时间：2022-12-20
+    - 摘要：谈恋爱倦了？请查收你的持久恋爱秘籍。
+- [有一些爱，需要你哭出来，才会来到你身边丨漫画](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767890&idx=1&sn=d506d35031038f82ce21c8c2be9751f1&chksm=9fcafe16a8bd77000b4241ffc42bed46a44d1bfc3c727ff14b7d8bbcb7b7679ea473cfa1dc45#rd)
+    - 时间：2022-12-19
+    - 摘要：有负面情绪，没有什么大不了。
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767890&idx=2&sn=e5ed08048d0b1943aae39e27b39d6160&chksm=9fcafe16a8bd77008a5cbae3f10e92b3b3a2b0448dfed21359ef60da4a6f842955b34bdf5ea7#rd)
+    - 时间：2022-12-19
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767890&idx=6&sn=b05ca31fa5b3741f234289be987cf67f&chksm=9fcafe16a8bd7700f38c82b4ce0156a27d5da651109107f1f43c6e1610779dffecc83b30d4c6#rd)
+    - 时间：2022-12-19
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [如何判断对方是否在PUA你？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247767890&idx=7&sn=03f674dbfa1232108b6cfb99acf5c243&chksm=9fcafe16a8bd7700f9f2dfb7c8aeb31d8063a9c0f7e880071698ecc9982a362174f01b18bc1b#rd)
+    - 时间：2022-12-19
+    - 摘要：测测你被PUA的可能性有多大？
+- [情侣吵架很正常，但这件事万万不能做！会让最坏的结果变成现实——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765644&idx=1&sn=f60c52ace073920664312813f916229f&chksm=9fcae7c8a8bd6ede28f9f1646c40cb74952b79d4431eefdc9a6233d6c9b147296bba065a485c#rd)
+    - 时间：2022-12-18
+    - 摘要：
+- [如何走出：间歇性踌躇满志、持续性混吃等死？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765644&idx=3&sn=3de82cb50207e4634ad49035d16d1b7f&chksm=9fcae7c8a8bd6edefa61212ef07f4a0ee7050cc31c6dcceb8dde47d0ea315dc547245b24b578#rd)
+    - 时间：2022-12-18
+    - 摘要：测测你追求的人生意义究竟是什么？
+- [异地五年「恋爱秘籍」大揭秘：怎样在恋爱中保持长久吸引力？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765644&idx=5&sn=92cecaed1217b05a764d80338a04b972&chksm=9fcae7c8a8bd6ede1b0b34d9816f298bbf19d3fe99676316568eb5f4ecf85c5235fc9ef2d26f#rd)
+    - 时间：2022-12-18
+    - 摘要：
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765644&idx=6&sn=6d7265296c8e1434dca12fcd71e912d0&chksm=9fcae7c8a8bd6ede27d8e8f124eda51476bbc335b18e8835a39f3dad1476f22c0f357c723c4e#rd)
+    - 时间：2022-12-18
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [人人都说爱自己，但怎样才能真正做到爱自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765644&idx=7&sn=e1b12eadd3ef5dd37ec086e77824d08e&chksm=9fcae7c8a8bd6ede2e919a667decb4975cda7242597b9d573becbe3ae1f08bc3a25040609e19#rd)
+    - 时间：2022-12-18
+    - 摘要：“每个人都可以再一次爱上自己”
+- [长期压力下，身体里会发生什么？｜一图到底（快收藏提醒自己吧！）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765520&idx=1&sn=d2f28d32c79e5a4c3a93e64d2528f041&chksm=9fcae754a8bd6e42484bbf37d9129dc2ae9897a91a73fbb0ed3676e81f1d8b0bebadffb09bc5#rd)
+    - 时间：2022-12-17
+    - 摘要：来看看你处于压力的第几个阶段了
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765520&idx=3&sn=f8149dcf035184d089f377a2884cc1a2&chksm=9fcae754a8bd6e42520056ea08ecbd4ea19df0ae831843b21ded999cc4430351d7cdb28c32c4#rd)
+    - 时间：2022-12-17
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [4条恋爱升温法则，拿捏住就没有谈不好的恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765520&idx=4&sn=3cb2fa013320fd06bd2cca4333abe54c&chksm=9fcae754a8bd6e422b2fee8513ce0a114dd0705446484ba96671ddd6c86dba94bc814d3ca9ae#rd)
+    - 时间：2022-12-17
+    - 摘要：爱的锋芒不会变钝，爱的热情不会降低
+- [“如果和Ta分手，我会后悔吗？”这个测试给你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765520&idx=5&sn=1d65e65c2c565e0e6b7b87d6ac37a7d9&chksm=9fcae754a8bd6e42a356d8e55773b64ecf0e12acb7341d422e747bc108450a01e12bf081f763#rd)
+    - 时间：2022-12-17
+    - 摘要：你的对象还要不要继续留着？
+- [迷茫时，除了等待还能做些什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765520&idx=6&sn=63c6bd3f7698a860a752ae696167a02d&chksm=9fcae754a8bd6e422fc2ac42f5b02f47bd6ecccfcfef4e36c1c0d7db66dd24bf8913cb07e51d#rd)
+    - 时间：2022-12-17
+    - 摘要：有心事，来聊愈
+- [想让ta对你无话不说？关键是这3点！后悔没有早点知道——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765277&idx=1&sn=a33ebb5d53be6671110d6b3c67fc21bc&chksm=9fcae459a8bd6d4f28e00e3e7552a0ee2916b777756caeda40f975361cd1fd0a6eac0a6c3159#rd)
+    - 时间：2022-12-16
+    - 摘要：一个简单好用的心理魔法
+- [如何让“对的人”喜欢上你？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765277&idx=2&sn=c4a14aa2802a6ece5e0d8e1f35c5d736&chksm=9fcae459a8bd6d4f739a5cbe66454659bef08bfffed1d3801c1feacd10fa28ed78e9d50eca97#rd)
+    - 时间：2022-12-16
+    - 摘要：颜值与吸引力，并不一定成正比
+- [用你的2022回忆，换一个陪你走向2023的TA｜KY年终匹配来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765277&idx=3&sn=ca7076fbb83541b61d6f1a351853b37e&chksm=9fcae459a8bd6d4f15fde61b149320f43f7e14be9a68f2630c0bdf6e73f624cb697ec3e4f5b9#rd)
+    - 时间：2022-12-16
+    - 摘要：陌生人，可以带我去你的回忆里逛逛吗？
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765277&idx=4&sn=143bd2c02a6ebcffca2ada5912130a76&chksm=9fcae459a8bd6d4f7d3832aab97ab5a03a630f822e616ffa3fe74f725d16af42e22361c9376e#rd)
+    - 时间：2022-12-16
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765277&idx=6&sn=472f49537fe6c16474f7b2003a3ae4ce&chksm=9fcae459a8bd6d4fe4c5365c7c6e572f02b5e902c0b2c2ab14f15c677c26021f62839962cd1e#rd)
+    - 时间：2022-12-16
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [明确这一点，是做好【职业生涯规划】的前提](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765277&idx=7&sn=b79861c37dbf488881c8a61310c9da9e&chksm=9fcae459a8bd6d4fc78bf498875650c4d1c3d1d71bf672b90c4bc554ecd07ae440779b83dbe6#rd)
+    - 时间：2022-12-16
+    - 摘要：你的职业兴趣和优势是什么？
+- [情绪还有“颗粒度”？它可关乎到你的幸福指数......](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247765277&idx=8&sn=3f66937561d9584613c8e857ca77ab4d&chksm=9fcae459a8bd6d4f7f713d9c50b2b7f5e795dd76ff5b4694ec9e2b88f334b22dbeb195f68330#rd)
+    - 时间：2022-12-16
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [养成松弛的「不焦虑体质」，你可以从这21件小事开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247764182&idx=1&sn=503af4c7be552b3dd98b95bfb58bf684&chksm=9fcae192a8bd6884ba0a284bd35209410d011ef95a088588bc2f463848cc6955e7f841686489#rd)
+    - 时间：2022-12-15
+    - 摘要：收获内心的丰盈
+- [渴望一段「靠谱的爱情」，你得先成为「靠谱的恋人」。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247764182&idx=4&sn=0bb465315a764e3d22287b6a2f405a81&chksm=9fcae192a8bd6884e06ceb51762066f60d9f7c33f92bae626e58a0918845446bd2bede514992#rd)
+    - 时间：2022-12-15
+    - 摘要：爱情中的你，是成熟还是幼稚？
+- [“我仍然时常感到孤独。”想要获得「被支持感」，该如何做？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247764182&idx=5&sn=39c826251eaf8fb780aff8363f80afff&chksm=9fcae192a8bd68849de78bfc7144625ece7b17ebbdc63eb700d0ed125b66e83fe6970ad3f206#rd)
+    - 时间：2022-12-15
+    - 摘要：
+- [用你的2022回忆，换一个陪你走向2023的TA｜KY年终匹配来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247764182&idx=7&sn=4ec716d17210d087a675b09ff99dd019&chksm=9fcae192a8bd688478f0e6845bebe24adbb01ab370d8f5d638157247930c0b7a8f7e21eed8e8#rd)
+    - 时间：2022-12-15
+    - 摘要：陌生人，可以带我去你的回忆里逛逛吗？
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247764182&idx=8&sn=cef5d5329fedda4ab9e5e864b90c818c&chksm=9fcae192a8bd68841f28644acd5e94962e5c4a6c75f3f40637f1b15343035f6bc5c2f02ebabc#rd)
+    - 时间：2022-12-15
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [学会骂人后，我快乐多了。（心理教学爽文，必读！）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763660&idx=1&sn=07dbde92a46d50ac66bb7e0416c3b20e&chksm=9fcaef88a8bd669e5f7e9f72d1f3254ed1216a81731424bf3af0fc327ffab45474184ff678f5#rd)
+    - 时间：2022-12-14
+    - 摘要：该骂就骂，但不要“出口成脏”。
+- [摆烂太久，天赋与力量就会被收走](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763660&idx=2&sn=3543f543a735b63270aa0b554f8e8710&chksm=9fcaef88a8bd669e9c9102b967a8f97ee487a1a4534284a743156e5e2b3805a6fa3feb40ebc7#rd)
+    - 时间：2022-12-14
+    - 摘要：
+- [KY教你用MBTI找到理想的Ta](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763660&idx=3&sn=0140b84a8c29d0619c3977242973cbec&chksm=9fcaef88a8bd669ec5ed9855fa5226814528a2f8ec615d344f0ea1a1dade5f2363f664feaedc#rd)
+    - 时间：2022-12-14
+    - 摘要：点击立测你的恋爱MBTI。
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763660&idx=4&sn=01b7c6d914ff0d30afac51124a72964c&chksm=9fcaef88a8bd669e15416e96369c607d9495ee737f50989ec6a18dc9020b64c879d6f2a6077f#rd)
+    - 时间：2022-12-14
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [你究竟是真正的心理强大，还是在假装坚强？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763660&idx=6&sn=b965648d9d36086e5ce36122031e090b&chksm=9fcaef88a8bd669ec827f35a85a8ffa9bbe93a6402f40b2b7394acfe7d5f8024bf9ea5284985#rd)
+    - 时间：2022-12-14
+    - 摘要：有心事，来聊愈
+- [有这4种健康心态的人，特别擅长「搞定」爱情——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763377&idx=1&sn=2ee089a6e9c6f93013fbd2c6909879c2&chksm=9fcaecf5a8bd65e3117953c3d8ae4991f820d2dd143e0cfb76e559ed7c08e640021a8c0f54e8#rd)
+    - 时间：2022-12-13
+    - 摘要：想要收获好的爱情，心态才是关键
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763377&idx=3&sn=f90841037e32a9127afe583a6bcecad1&chksm=9fcaecf5a8bd65e31f086fcba86aad23c90c04b0e0c6cd14f7875a3265480e72e9bb53137baf#rd)
+    - 时间：2022-12-13
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [潜意识开启的“自我保护”，对你有益还是有害？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763377&idx=4&sn=aff5e5d753185d10236bffa2abaf14c8&chksm=9fcaecf5a8bd65e3e6e9ca996a847eb04148fa773bf4f47468d6ad7a5b4c64edc51bb4f2e615#rd)
+    - 时间：2022-12-13
+    - 摘要：16种防御机制，你是哪几种？
+- [漫画｜攒够了失望，爱才会真正开始。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763175&idx=1&sn=afd506c9a47ed75c51eae846734a0e5e&chksm=9fcaeda3a8bd64b50eaedf9b98804ec5a5556be40fdcaf15c0277c0debbcf598105efbae6454#rd)
+    - 时间：2022-12-12
+    - 摘要：“对的人”并不意味着完美契合
+- [你对爱情的错误期待，正是恋爱不顺的原因。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763175&idx=4&sn=82978ee023372999b30b9338e1bd69f3&chksm=9fcaeda3a8bd64b58e5c9d587ec01085f7a9db03e4a1ad7954487ae0c09edf7a4451c11f5c41#rd)
+    - 时间：2022-12-12
+    - 摘要：你对亲密关系的期待是什么样的？
+- [我不能“愤怒”，因为会失了“风度”。丨不，按时生气，防止抑郁](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763175&idx=6&sn=198844194787b97079d653a813bcb4ec&chksm=9fcaeda3a8bd64b5a9c278abbeb2b73e2ec635c06c23edba39ae780bf58577b3d8dae5efa94d#rd)
+    - 时间：2022-12-12
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [“活着没意思” 丨连咨询师都无能为力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247763175&idx=7&sn=df1d6aeb2ea56a8a4e6f1f0564038306&chksm=9fcaeda3a8bd64b5c565d0c30ef247cdc6fa8f0005fd8fbc494cf69cb7bdc0677da1ef64ba8e#rd)
+    - 时间：2022-12-12
+    - 摘要：
+- [为什么你赌球会输？世界杯心理研究合辑来了——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762839&idx=1&sn=fd9dae3b9b2b57a8dc360ad673f447ae&chksm=9fcaead3a8bd63c58889cc3f26e51b1280d040c2dab13a20a652d5df16279ba2e29787cf4789#rd)
+    - 时间：2022-12-11
+    - 摘要：快分享给一直在赌球的朋友吧
+- [“我的人生，一步错步步错。”丨选错了的人生还有救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762839&idx=4&sn=de9282b1d0784db8cd60c1237af4e72d&chksm=9fcaead3a8bd63c56f5b8f964315c74b50d47c52a65790c32c5d00d78698306cc6004ff5102f#rd)
+    - 时间：2022-12-11
+    - 摘要：
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762839&idx=5&sn=1024ecae2e862ef97248dcaa6c7c6742&chksm=9fcaead3a8bd63c5297da6bf220af22ae9d533b66af2a5e192ccad4bf1b8ad5c64149a71a15d#rd)
+    - 时间：2022-12-11
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [这18种“危险人格因子”，会让你毫无知觉地走向痛苦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762839&idx=6&sn=0471f90def9e524ae08db38bbb2ea1f0&chksm=9fcaead3a8bd63c5ccf754ea8ba554773a3fcce80ed6e1013dc6b1a48c0b6a4a535fbffcb08d#rd)
+    - 时间：2022-12-11
+    - 摘要：你在被哪种人格阴影束缚着？
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762839&idx=8&sn=204a50d8a49a78c848d1ec100e78edff&chksm=9fcaead3a8bd63c5ba450997a0026863242d2c59567f7d31ef1552d1d22643e9a6e5cc1aef18#rd)
+    - 时间：2022-12-11
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [为什么你可以对别人如此温柔，却不懂得善待自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762759&idx=5&sn=0c0bff6b6b1552a223615cefb3661647&chksm=9fcaea03a8bd6315b18e50f6834e173ca3e6ede0b04fc51cb1d82995cb20e97ac873f82bbc2b#rd)
+    - 时间：2022-12-10
+    - 摘要：有心事，来聊愈
+- [“29岁，我跌入了人生低谷。”对生活感到无力，该如何改变？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762759&idx=6&sn=73f317e90ac220b8957953c4f348b9bf&chksm=9fcaea03a8bd631579c834bab3359bb99eb11d0e7c99611fdaaf0a4d70ef768365ba27a36be6#rd)
+    - 时间：2022-12-10
+    - 摘要：
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762759&idx=7&sn=0db7a369b48b3c8bafe5ccfae6f683e6&chksm=9fcaea03a8bd63152365a769385ed6456b99abe89a4560675f11fe4f9759a2791b2be11f1ee4#rd)
+    - 时间：2022-12-10
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [咨询师建议：28件能够「快速改善情绪」的生活小事 （必须收藏）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762494&idx=1&sn=6d613c8c4d62c3a67e0cf4809e89b015&chksm=9fcaeb7aa8bd626c8e86f1a33a2bff47dec21c89115e29bf34629167ddd013db0bdd051ca2a9#rd)
+    - 时间：2022-12-08
+    - 摘要：每个成年人的必备手册。
+- [职业发展：哪些事，你不费力就能比别人做得好？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762494&idx=2&sn=d9dc3627e048cef0e91ad189b945651c&chksm=9fcaeb7aa8bd626c55aca0267127a7824e04958eb8a30a4a6f3ea52448d1c8ce1ed8d9d49948#rd)
+    - 时间：2022-12-08
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [我劝你要和会表达愤怒的人做朋友](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762494&idx=3&sn=866313ffd0aaa4bc45589ac1ddc2c725&chksm=9fcaeb7aa8bd626c2ccd718a836df6bf860b2bc6299e4b900228557fa6701e68f665ee33048f#rd)
+    - 时间：2022-12-08
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [三十岁的我，决定与自己和解丨在茶会发现未知的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762494&idx=4&sn=1469c3c4e005c61681d776b5d659beba&chksm=9fcaeb7aa8bd626c5881a6684988ad4e6b8e5e1bd3002b5b3c916753dd2f7e488420ae8eea8c#rd)
+    - 时间：2022-12-08
+    - 摘要：
+- [张嘉倪：爱得起放得下丨那些爱情中不能说的禁区](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762494&idx=5&sn=4109eb87a78139d14d117cb32943ef8f&chksm=9fcaeb7aa8bd626cc510bb7d02a1e09a2c2493958457514bd73ffbcb92fc2c04107d24ffd71b#rd)
+    - 时间：2022-12-08
+    - 摘要：爱情对于有些人而言是天花，得了一次后，留下痕迹，就不会再得；但对于有些人而言是重感冒，康复后还是会反复陷入。
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762494&idx=7&sn=e51868452a125a90e1edb443fcddc1de&chksm=9fcaeb7aa8bd626c947e8fe11955690fa24d5768dd063dc6ed39e1063d13859120a1ebd80ce2#rd)
+    - 时间：2022-12-08
+    - 摘要：我想陪你，从入睡到黎明。
+- [“觉得自己很好”，是一种宝贵的能力。能解决现实问题的那种！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762263&idx=1&sn=e6ae190359f0d118ee04091d3145e3c8&chksm=9fcae813a8bd61051d22f1e9808817f59b9f7d6d56c203aca99443095a1aa82834e28e6ace06#rd)
+    - 时间：2022-12-07
+    - 摘要：不要让能力被谦虚埋没。
+- [一聊问题就吵架，如何才能做到有效沟通？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762263&idx=5&sn=e192b0b86f792c3a4a55d657feff1c9b&chksm=9fcae813a8bd610527aef3ac61d58b84f9a8e8c24426d0f4cb53bb4eb0af9f9ef883ced745cf#rd)
+    - 时间：2022-12-07
+    - 摘要：有心事，来聊愈
+- [爱欲型、友伴型、现实型…测测哪种爱情类型能让你幸福？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762263&idx=6&sn=42129fe2b0ff0b24734baa4f2d422246&chksm=9fcae813a8bd6105bae6be71d6ac56d9d6c7a1cecbd132526d0e40416fb8926da307c7933570#rd)
+    - 时间：2022-12-07
+    - 摘要：超全爱情分析报告，点击即测！
+- [你的幸福感藏在和TA们相处的小瞬间里丨5分钟书写解锁幸福要素](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247762263&idx=8&sn=2356e75347a1ebbba79dd5a1b108c317&chksm=9fcae813a8bd6105461ff5caaf0efdfc2bc92a1afbe709c4c66de720b3495605f1cfbc6bce51#rd)
+    - 时间：2022-12-07
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [听说过冷暴力，你们听说过「热暴力」吗？杀伤力也很高——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247761478&idx=1&sn=0a534d9e76d0553dce8eaec5ca05c3cd&chksm=9fcad702a8bd5e14b37db938ff07429ab8a5ed2cf2ad75ed389c02f4bc152713199b684c90b5#rd)
+    - 时间：2022-12-06
+    - 摘要：嘘寒问暖，可能是一种「关心轰炸」。
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247761478&idx=2&sn=ff1ffadafca06a97177dcbcbdf1ff5be&chksm=9fcad702a8bd5e1471328200554564a04fd8771f4f8184ba86f493eb4111def086a7f2ff286c#rd)
+    - 时间：2022-12-06
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247761478&idx=6&sn=7c8fa5afbbb654e5d4dc7a6675015ea1&chksm=9fcad702a8bd5e1438133310fc41f4616934ae8524a81aefec68077ec17e53309fb31c149f06#rd)
+    - 时间：2022-12-06
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [“我越被指责越差”｜低自尊人群如何理直气壮地被爱？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247761478&idx=7&sn=f9d424e88ea04d60ef579d15ef90a958&chksm=9fcad702a8bd5e1438dfb58573be6369206bc83b526bb7f3c5ca564301433ce1a8319bcda565#rd)
+    - 时间：2022-12-06
+    - 摘要：文末有惊喜！👇
+- [这种朋友「有毒」，再不离开就晚了！看完这篇立刻学会识别——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247761038&idx=1&sn=cd33514a4f4616a8ba9c145bae5831ff&chksm=9fcad5caa8bd5cdc422d1cb05617ecf28ea5a805ed341300fa22d375050052ac766fa9cb8405#rd)
+    - 时间：2022-12-05
+    - 摘要：宁可没朋友，也别交有毒的朋友。
+- [跃上高阶职场：让职场人失声痛哭的原因居然是？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247761038&idx=3&sn=64238b8470b46dc0b87a40119fc70ef8&chksm=9fcad5caa8bd5cdcdd090db1116f418f578601d31757a45b0b0d8908a78e2e57fc20bc54b86b#rd)
+    - 时间：2022-12-05
+    - 摘要：“像你们这样优秀的人，其实比别人更辛苦吧。”
+- [梳理你的【择偶清单】，离对的人更近一步——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247761038&idx=4&sn=bfc1d5e56acd348fafa83e790a9dfbf6&chksm=9fcad5caa8bd5cdc7f1da2e11f9d7619c93c44111c42b1a025fb8cc83973359b71079a70f874#rd)
+    - 时间：2022-12-05
+    - 摘要：​明确择偶标准，找到“对的人”
+- [成熟的人才能做好的3件事。你做到了几件？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247760368&idx=1&sn=71913917fae1925f71c468a045dc30d6&chksm=9fcad0b4a8bd59a2018a9d78c70f98cbe30dd640d007612c937c36926770b6e604fa6154bdee#rd)
+    - 时间：2022-12-04
+    - 摘要：成熟是与年龄无关的
+- [你真的想明白了要追求什么吗？丨人生核心需求测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247760368&idx=2&sn=bf573598fe75e776626501234ca66722&chksm=9fcad0b4a8bd59a26f31199581d383dc110ff09da07c67d8d6c3c9e62403f88468b55c821996#rd)
+    - 时间：2022-12-04
+    - 摘要：你的人生核心需求是什么？
+- [“单身5年了，脱单还有希望吗？”“有！”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247760368&idx=3&sn=d1332c8ff6d96e0f9f2feb8e5fded442&chksm=9fcad0b4a8bd59a2bb93311075bc5e19d01223d069e5b2b76350dadae90768b744f1c9451717#rd)
+    - 时间：2022-12-04
+    - 摘要：其实脱单远没你想得那么难
+- [头脑里的消极“碎碎念”原来可以这样化解——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247760368&idx=5&sn=52826e05c09964a07e22adf6f765126c&chksm=9fcad0b4a8bd59a2926f3af6fb74fec165a003b89cda27d2cfcd9a7f2a956afff82c3b8e069e#rd)
+    - 时间：2022-12-04
+    - 摘要：每一行字都是与自己的温暖相拥
+- [没有这种情绪的人，更容易不被人尊重。女生必须要学会——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759966&idx=1&sn=35f3b82faf0e4821046bd6e0e971516a&chksm=9fcad11aa8bd580ce52814489da3c070fa7b6f2653d9d5424d1cc35dd2efd2b51604330a86ef#rd)
+    - 时间：2022-12-03
+    - 摘要：它能帮你建立边界、坚定自我。
+- [如何让“对的人”喜欢上你？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759966&idx=3&sn=30b26245a6e9806eae72373d30aa2724&chksm=9fcad11aa8bd580cd8e023f85218b57cbba5d33aa41423e58fd6dfad7ec7bb4b6f6a98f41dd9#rd)
+    - 时间：2022-12-03
+    - 摘要：颜值与吸引力，并不一定成正比
+- [现代人的必备技能：适当地暴露自己的脆弱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759966&idx=4&sn=16f71340899f84fe2f71ca1d03fbd17e&chksm=9fcad11aa8bd580cf49c62539856849844ab1d069e2f62694f3b4e850e1b57934cf497807225#rd)
+    - 时间：2022-12-03
+    - 摘要：有心事，来聊愈
+- [总想辞职，说明你和这份工作“性格不合”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759966&idx=6&sn=59caa122a55f03b69e36d2d9178e2f39&chksm=9fcad11aa8bd580cd58bdead68b75cd451d65458d56693709377a2afcf5a3b2001c92318b501#rd)
+    - 时间：2022-12-03
+    - 摘要：做职业规划之前必须知道的。
+- [“或许我们本就该认识”丨来KY匹配一个「限定笔友」一起写信吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759966&idx=7&sn=997042fcba492142729dcba8c93c8abf&chksm=9fcad11aa8bd580cb775385ec386faeb341019e1e08e77f36b8c7ddceeafa32d0c3c48ef6346#rd)
+    - 时间：2022-12-03
+    - 摘要：我们的秘密只有我们知道。
+- [该磨合还是该分手？3步得出正确选择，不后悔](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759816&idx=1&sn=66da5d393e9149b63258ddf7a39635f2&chksm=9fcade8ca8bd579a47aec3bd51764ecc9b975c371a09c31648cb667937ef6e3894470c04d072#rd)
+    - 时间：2022-12-02
+    - 摘要：如果选择磨合，做到这4点至关重要
+- [「情绪漫步」KY23年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759816&idx=2&sn=f9d4c6753a4d493913978af434e5acad&chksm=9fcade8ca8bd579a1ee99881d4b19922c125cc9fe89e510f0885cb0c61c02f740e01478d05bd#rd)
+    - 时间：2022-12-02
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [“或许我们本就该认识”丨来KY匹配一个「限定笔友」一起写信吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759816&idx=6&sn=1d21325048e571c44b58964bbc3c456c&chksm=9fcade8ca8bd579ad4d8d71e53b87a25bcc29c45dfc499837cd7ca7f1f6291ce1d76f7eb69b3#rd)
+    - 时间：2022-12-02
+    - 摘要：我们的秘密只有我们知道。
+- [疫情来了，爱情走了 | 为什么疫情下的恋人更容易分手？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759816&idx=7&sn=5253df6955128a50cec3be8dd2831f00&chksm=9fcade8ca8bd579aac89e3147cd90d40468b7e9bee9dfafd9010c897abf84b46e840cba6ce01#rd)
+    - 时间：2022-12-02
+    - 摘要：
+- [Ta说对我没感觉。“感觉”到底是什么?](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759816&idx=8&sn=1d8225b801f614b2543ca07aa13709bd&chksm=9fcade8ca8bd579a90e1ed665ed0cfe766b610f18b62a0dbd270287fa991160dd03a041d356a#rd)
+    - 时间：2022-12-02
+    - 摘要：
+- [热依扎们的福气，还在后头](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759516&idx=2&sn=ab587c4843bf779599646e4c985884a8&chksm=9fcadfd8a8bd56ce302d4b7b3561e648e774a4c3108241fda903c91dd63f60cce0eec5c3914b#rd)
+    - 时间：2022-12-01
+    - 摘要：疾病成为了捅破过去那个自我的刃，她回溯了自己的家庭、成长、职业生涯，那个自卑怯懦、不懂得拒绝、活在他人眼光之下的自我暴露了出来
+- [“或许我们本就该认识”丨来KY匹配一个「限定笔友」一起写信吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759516&idx=3&sn=1bb95cca5bd64ef55e1ba85181b2e3a2&chksm=9fcadfd8a8bd56cecbf354449bcfb0e62e4f7c6e313f05df8f2b692e2d66b1b6fbe0e4112074#rd)
+    - 时间：2022-12-01
+    - 摘要：我们的秘密只有我们知道。
+- [过往的经历，是否给你留下了隐形的「人格伤疤」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759516&idx=4&sn=1533661606fca3a1c682eaeaa949c2cc&chksm=9fcadfd8a8bd56ce50202e494b13d0c49be417af1de49222793e027fc32b9d04b8945187b741#rd)
+    - 时间：2022-12-01
+    - 摘要：你一直在带着什么样的人格阴影生活？
+- [具有这种人格的人，可能不被喜爱，却注定一生不会平淡——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759243&idx=1&sn=94850e5b65e5d84d0085b1433af29c2e&chksm=9fcadccfa8bd55d9a164033c1b66ab0a02bfb3eb2edfdb9c6166346803b1c5757353fac20520#rd)
+    - 时间：2022-11-30
+    - 摘要：一文读懂高“抓马”型人格
+- [现代人的必备技能：适当地暴露自己的脆弱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759243&idx=3&sn=cb5977bf829ccf15d3d5a1022a484e3d&chksm=9fcadccfa8bd55d91c8d84cac1d6163ecdd39340e5616e70a8419acd8d9e932ee51d3704c617#rd)
+    - 时间：2022-11-30
+    - 摘要：有心事，来聊愈
+- [聊亲密关系中的情绪价值，我获得了这些——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759243&idx=5&sn=21e220115dd1659a07ae5dc71a9f2a18&chksm=9fcadccfa8bd55d97a1c659189e517be32ee0b1504871dd63920a68e4569a30096476754c656#rd)
+    - 时间：2022-11-30
+    - 摘要：
+- [「情绪漫步」年度主题手账开售！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759243&idx=6&sn=465d6e9bc34753f8ebdd2ffa1df55cc7&chksm=9fcadccfa8bd55d9ffea6118785a2c7d842be4faef42f8b62430e5a4464944a72b60eab5fbd2#rd)
+    - 时间：2022-11-30
+    - 摘要：KY一年一度的仪式感，陪你写出闪闪发光的2023！
+- [我们终于开启【依恋类型诊疗室】了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759243&idx=7&sn=a880e987686bdda14bfc2c894af2025d&chksm=9fcadccfa8bd55d97c0e8ed30d4e22838a958d69a948dc9bae35c31ed6dcde7c8dc07af05be7#rd)
+    - 时间：2022-11-30
+    - 摘要：测测依恋类型，破解你的恋爱迷局。
+- [爱情里越懂事，越不被珍惜？丨尊重自己才能备受宠爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247759243&idx=8&sn=13dec0287e1b2b78768159d3a3d631d6&chksm=9fcadccfa8bd55d90b1be3c723038e674ed6795c62688bce09e7947276696d99c77b2eb82972#rd)
+    - 时间：2022-11-30
+    - 摘要：你的24h陪伴式私人心理导师！
+- [哪类人的伴侣最难？回避型必须“榜上有名”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247757587&idx=1&sn=f0e575fd95a75bc0eff130249a4bfcec&chksm=9fcac657a8bd4f412fdc92bba08dfdb2d2331805e29c3023656557c33822fcfa125f9227424d#rd)
+    - 时间：2022-11-29
+    - 摘要：每个回避型必看的「自救手册」
+- [“我真想把我男朋友推倒！”一文带你了解「第四爱」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247757587&idx=2&sn=0108b3f9d04062213dda7f3f2b801133&chksm=9fcac657a8bd4f411e3ae6bc84e323fe0f96126750d6b49c5696fb65c58dbee3092360e1b2d1#rd)
+    - 时间：2022-11-29
+    - 摘要：今日车速很猛，做好心理准备。
+- [职业发展：哪些事，你不费力就能比别人做得好？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247757587&idx=4&sn=f6e2938ce563ce1dba8fb99346c824bc&chksm=9fcac657a8bd4f41644c5843688d46591f3707871ff0e761c236150aa55a9fc5360b20dd3dcc#rd)
+    - 时间：2022-11-29
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [人人都说爱自己，但怎样才能真正做到爱自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247757587&idx=5&sn=128dd8b5c2fdd29ebfcefe91017949ad&chksm=9fcac657a8bd4f41da21db43b132817a9d9e684f873e28e46a3e6c4faa9f8ec0102e59ac69f6#rd)
+    - 时间：2022-11-29
+    - 摘要：“每个人都可以再一次爱上自己。”
+- [有这种表现的人，更有可能出轨、家暴甚至...情杀。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756970&idx=1&sn=a9c92b2fb46d6d3f2b44a3f9b5d3e26b&chksm=9fcac5eea8bd4cf858dcc2ce71758e2bf6bd4b449eab8cbe0029759b8e674c4f07757f0c69cf#rd)
+    - 时间：2022-11-28
+    - 摘要：看完离健康的感情生活又近了一步。
+- [找工作被hr嫌弃后，我终于决定去做这件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756970&idx=6&sn=cc1beb7de7b04aa0d3d0706dd588f869&chksm=9fcac5eea8bd4cf86545cf1036d498f4e24fa88519695e9801d548034f3d6f4ee3ccc5868ee2#rd)
+    - 时间：2022-11-28
+    - 摘要：怎么才能过好一种“原创”的人生？
+- [关于「休息」的实操大全，做不到这6点都是无效休息（内含彩蛋）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756739&idx=1&sn=df257e3ad1eefd90acdecc1eb7ab76de&chksm=9fcac287a8bd4b9176efef9d0ac9ae6c37f3273bfb6a65e11b85dd18010e7a9c47cc579790b5#rd)
+    - 时间：2022-11-27
+    - 摘要：休息这件事，也是要讲方式方法的
+- [又忙又累还迷茫？2022最后一个月这个方法让你满血复活——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756739&idx=2&sn=636e5d2498b7ee2addc0b22ef70d6c24&chksm=9fcac287a8bd4b91febaeed1c25d0314f7c78d8c872e9a218ccd16cb3ae153f7f93b6b49b47d#rd)
+    - 时间：2022-11-27
+    - 摘要：找回自我 平复内心
+- [如何远离“狗屁工作”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756739&idx=3&sn=f892a4473448d75a03158ef537dfce79&chksm=9fcac287a8bd4b9136b14a3ca003ef60d82a40fe87e530944dc772cc7f606388d5e3e1463e90#rd)
+    - 时间：2022-11-27
+    - 摘要：除了摆烂，我还能怎么拯救工作不快乐？
+- [“我越被指责越差”｜低自尊人群如何理直气壮地被爱？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756739&idx=4&sn=9164f76bd1935504a16869ea65336ec0&chksm=9fcac287a8bd4b916eebfcd2087a0bb21a9eec8fca49dfb0922a7b52f7d0ed8facd9e7143090#rd)
+    - 时间：2022-11-27
+    - 摘要：
+- [那些被禁止言说的情感丨写在疫情第三年](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756654&idx=1&sn=ba867687834a3c088c16b47a1135ddb8&chksm=9fcac22aa8bd4b3c22bdb1b9e5bfdf87344f19ca78fa7f1e817438eaef4b82256d9c60fe54de#rd)
+    - 时间：2022-11-26
+    - 摘要：
+- [20个生活中突如其来的感悟，看完很释然](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756654&idx=2&sn=31d2ed490cbae692ea75ad8828065e54&chksm=9fcac22aa8bd4b3c55b6f792d7c5600f0b2f7a800d20268a279d49039804fe45df6296c5dc76#rd)
+    - 时间：2022-11-26
+    - 摘要：很多事情不在于本身怎样，在于你如何看待和理解它。
+- [“不想让坏情绪影响我，怎么办？”丨如何成为情绪稳定的成年人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756654&idx=4&sn=444b5e39446d51a526073874db52d756&chksm=9fcac22aa8bd4b3c422fc86fe9f263d13293e7fb9927893d672814746ebdccb2fbf469cde6c4#rd)
+    - 时间：2022-11-26
+    - 摘要：有心事，来聊愈
+- [世界杯的狂欢下，她却在求救](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756610&idx=1&sn=5a6ef1b866957586fc8f61d11c298b1d&chksm=9fcac206a8bd4b100cd99e09ec68069c3679b79bbcd008a5080241a38b396da685076c85d6b2#rd)
+    - 时间：2022-11-25
+    - 摘要：今天是「国际消除对女性使用暴力日」
+- [如何将需求说出口？一文教你打直球！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756610&idx=2&sn=d65c571d9cfa658ae35d2b61cd65cf8d&chksm=9fcac206a8bd4b101a0cc6148f3300ce3197d3557bcbbbe4646c04947928c5bf8031bb761dc8#rd)
+    - 时间：2022-11-25
+    - 摘要：问别人要东西，也是需要技巧的
+- [用你的问题，交换一个倾听和回应你的ta丨KY匹配计划来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756610&idx=3&sn=3dd1cf616f308007c0acb07eae511f10&chksm=9fcac206a8bd4b105fb097c18fb36f2761ba00a02561b729bf2c84729eccdb4b583ca644600a#rd)
+    - 时间：2022-11-25
+    - 摘要：让每个困惑都有回音。
+- [30+真的比20+活得更快乐，原因是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756610&idx=6&sn=3023e68144393f2ed8afa22847983800&chksm=9fcac206a8bd4b103f74d88fb04d3f00fb8d47a2951a148300ce8254fab64070cb9f14493a07#rd)
+    - 时间：2022-11-25
+    - 摘要：什么是内心成熟？
+- [为什么我的伴侣就是不懂我？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756610&idx=8&sn=80b0eeb7dfbda2963acc0d73d726c636&chksm=9fcac206a8bd4b105068e8403dfe34024d92d3f72906ef28866006251012fd5de383017ecc13#rd)
+    - 时间：2022-11-25
+    - 摘要：
+- [“我叫不醒一个在爱情里装睡的人。”感情要磨合，还是分开要趁早？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756109&idx=1&sn=54e6c02899023d8c3fab17acc1ddee94&chksm=9fcac009a8bd491f90ea48badb9e1f177b7d14a8fc892e785807e37c7f6b4bd1ad6fdf8c2384#rd)
+    - 时间：2022-11-24
+    - 摘要：冬季新主题、新系列活动上线中！茶会次卡超低折扣等你来pick！
+- [单身人士专栏：9个锦囊，帮你谈上恋爱！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756109&idx=3&sn=e9facb143983e999d9f5ebb2f03de660&chksm=9fcac009a8bd491fe71e2a8395399fc618c22181a38f4a07cabd9f796cf8a4fa4766af6039eb#rd)
+    - 时间：2022-11-24
+    - 摘要：一个能让你约会成功的终极锦囊。
+- [用你的问题，交换一个倾听和回应你的ta｜KY匹配计划来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756109&idx=4&sn=30a06bb51fcd02557abe6b77103f8143&chksm=9fcac009a8bd491f172dfb8677cb6a9fc8fbb58fc586d6107abc5e072bd97ad786b12a694c24#rd)
+    - 时间：2022-11-24
+    - 摘要：让每个困惑都有回音。
+- [“活着没意思” 丨连咨询师都无能为力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247756109&idx=6&sn=aad7eb5796a3a0c818fee6346eff15b2&chksm=9fcac009a8bd491f35ce3a38eb400aca601e403a603e17c512e1687e651e5c73639d446d0ada#rd)
+    - 时间：2022-11-24
+    - 摘要：
+- [“不想让坏情绪影响我，怎么办？”丨如何成为情绪稳定的成年人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247755539&idx=4&sn=27d6848bd747005b8dec833d760a80f9&chksm=9fcace57a8bd4741352f84d14abbfbfeafd27e0135bba733a3b8a314c2c0b315af31656f9d07#rd)
+    - 时间：2022-11-23
+    - 摘要：有心事，来聊愈
+- [5分钟解锁告别焦虑的小妙招，做一个对幸福更敏感的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247755539&idx=7&sn=339c43e3fa711f3adf2a41acff352cc5&chksm=9fcace57a8bd474181887b44f15fa757277bff21f872c1cd3779178c297608de85d6fd4fd137#rd)
+    - 时间：2022-11-23
+    - 摘要：每一行字都是与自己的温暖相拥
+- [我有「孤独者人格」，没有能力被爱。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247754064&idx=1&sn=2098e650b35fb081da8abf1c262a86c7&chksm=9fcac814a8bd4102978639d4b23b1e879d30f4e1dfdca4669af6bea759189aef6032b5e1ddbf#rd)
+    - 时间：2022-11-22
+    - 摘要：你可能陷入了「孤独者闭环」
+- [Ta出轨了，我该如何走出阴影？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247754064&idx=4&sn=0542cf8db62feb31a8ce7fd5483ae9dc&chksm=9fcac814a8bd41023bd95c9f4f7ae5572165afd8213425517193ff75dc2b879e1ce57f83f69e#rd)
+    - 时间：2022-11-22
+    - 摘要：Ta的出轨，带走了我信任的能力
+- [爱情里越懂事，越不被珍惜？丨尊重自己才能备受宠爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247754064&idx=5&sn=aa330c7346fddecc06ea6901fe0fc01b&chksm=9fcac814a8bd41026d90af419cf333901dbbe9bbb29a0d24f719f8ec7859dcca10fbb7ec3247#rd)
+    - 时间：2022-11-22
+    - 摘要：你的24小时陪伴式私人心理导师
+- [压力大、焦虑、失眠…想要睡个好觉，这个方法强烈建议你试试——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247754064&idx=8&sn=954be547408b91ba10d044d39b438924&chksm=9fcac814a8bd410285a8b3a9c5bd65b77f21a3feecfcf48299f8292f8c1f369a5a77af28af5d#rd)
+    - 时间：2022-11-22
+    - 摘要：
+- [这种择偶观看似合理，其实害人不浅。女生一定要看！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247753946&idx=1&sn=2e54fdab2508c55bec9f7f4d6b0ba59c&chksm=9fcac99ea8bd40884ee05d3306f59c3ee23c6dab1f94e6a5ef9ae5ae6659f920da8a7f4c6592#rd)
+    - 时间：2022-11-21
+    - 摘要：其实你的幸福和伴侣强不强，没有太大的关系。
+- [找到你的职业天赋，职场发展弯道超车。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247753946&idx=3&sn=f81b5a12cb7f540e5f4e2bc56f8564bd&chksm=9fcac99ea8bd4088cd425b90019320af4b36f7b84fec104fe2ed32d4d6165a4321334eb47974#rd)
+    - 时间：2022-11-21
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [感觉迟钝、易分心？1个终级方法，让你快速找回专注——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247753946&idx=4&sn=8e16e1e4fa803b39ee92a7f488504f10&chksm=9fcac99ea8bd4088e3bf2e49d0a47c8cb32fd4848962acebcb28c1059c3d22435fbc51a289b9#rd)
+    - 时间：2022-11-21
+    - 摘要：一起收获超强专注力吧！
+- [「执着」对成年人来说，可能是一种心理缺陷](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247753746&idx=1&sn=319f7f1f2f24cc086a3eea67deca6f26&chksm=9fcac956a8bd404071f308f451aa7f1ac46081c1b93f3d418764097a4961e6fc051974614560#rd)
+    - 时间：2022-11-20
+    - 摘要：点击学习「心无芥蒂地move on 」。
+- [早上起不来？这个两百万人推荐的无痛早起方法强烈建议你试试——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247753746&idx=3&sn=32f282625f5bae8b8d52daf8d4834ebd&chksm=9fcac956a8bd404005920aa6b0f2bc4a67178baa99511b9c58e388041a7a0700e837be8ec0bd#rd)
+    - 时间：2022-11-20
+    - 摘要：再也不用担心被闹铃吓醒啦
+- [想要在充满不确定的生活里找到「确定感」，试试这个。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247753746&idx=4&sn=175797b4cb713e65668bf0851f56e915&chksm=9fcac956a8bd4040c2805c64592614e9a9664e553265bb9bee7ab08e7443401b5da52ddc9683#rd)
+    - 时间：2022-11-20
+    - 摘要：如何过上一种有意义的人生？
+- [激情不再，如何让爱情保持甜蜜？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247753746&idx=7&sn=3a932e705897ca7ede38b7b9039da3cb&chksm=9fcac956a8bd4040e3286dcfd7dfdea5242585ee56f242f8d6d86175a36f250eced23b6d3f34#rd)
+    - 时间：2022-11-20
+    - 摘要：爱的锋芒不会变钝，爱的热情不会降低
+- [有这11种表现的人，一定就是「不够喜欢你」（一文“骂醒”）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752906&idx=1&sn=72df3d0895ab7f4731de38947cbfc134&chksm=9fc9358ea8bebc9840611fb842ced8be66335fb732241effb87edf8e2e5e0ab26096dd6e240b#rd)
+    - 时间：2022-11-19
+    - 摘要：今天是一篇骂醒文
+- [“期待发工资！”38件给生活带来希望感的小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752906&idx=2&sn=2618ee4f0f0cfdff6029e351b8dc265a&chksm=9fc9358ea8bebc98a4bee42663a9d1fdbe434b2cf0d73ebdc86529a8ea198b54f5316a5c9a91#rd)
+    - 时间：2022-11-19
+    - 摘要：今天，我们给你云充电
+- [有些事持续让你纠结烦恼？来「聊愈」找到启发性的解决思路](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752906&idx=3&sn=9e9f1f6ec7fefa8c34f774d7c333a8c5&chksm=9fc9358ea8bebc981a2267894e0b595f3c183af6bfd4a5824282207c56ee7b7695d96096467b#rd)
+    - 时间：2022-11-19
+    - 摘要：有心事，来聊愈
+- [那些最终【修成正果】的恋人，都有这个共同的特点。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752906&idx=4&sn=0d95b69211b109b4322bfca2a7f96c72&chksm=9fc9358ea8bebc986a2d03a519c88d0d8812351ff11af3d50a85db3abbe69c0b74ca21ed3ff3#rd)
+    - 时间：2022-11-19
+    - 摘要：爱情中的你，是成熟还是幼稚？
+- [“这一次，我不想再路过你了”丨来KY匹配活动，遇见80亿分之一的TA](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752906&idx=6&sn=08d231cec561b6f572517becae2f3e8c&chksm=9fc9358ea8bebc98edb0d3fcb28d4fe2bf3b9b8a32ee8d9228d6930a87af9d623d09ecf5396d#rd)
+    - 时间：2022-11-19
+    - 摘要：冬天很冷，但我想你不再孤单了。
+- [情侣间最影响幸福感的3个字不是“我爱你”，而是这三个——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752873&idx=1&sn=565ddee1bd09bb5e97e2ccf0344bd1e0&chksm=9fc935eda8bebcfbec158d6033bd08b364fa2e39787a0ad2382d5618fda69ac7c9bcee36bfef#rd)
+    - 时间：2022-11-18
+    - 摘要：亲密关系中犯了错，连道歉的时间都有讲究
+- [“这一次，我不想再路过你了”｜来KY匹配活动，遇见80亿分之一的TA](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752873&idx=3&sn=40d2526de52775a84a6eef9157fe3235&chksm=9fc935eda8bebcfbdd93301e7790ada76ddc0ec6449a7bc304b1856a0844512dc965170782f8#rd)
+    - 时间：2022-11-18
+    - 摘要：冬天很冷，但我想你不再孤单了。
+- [陷入“工作无意义感”的人，都在这个问题上翻了车。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752873&idx=4&sn=6c745bb43235e8b2b004316beebd1789&chksm=9fc935eda8bebcfb7292fd813f4aaa54579e82f568b01321ab31afbdb082dbebbd0a5c25ea6f#rd)
+    - 时间：2022-11-18
+    - 摘要：除了摆烂，我还能怎么拯救工作不快乐？
+- [乔布斯、张钧甯、陈坤…明星精英都在练的“正念”，到底是什么？丨KY谈正念](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752873&idx=5&sn=2bdc2fe5b5183a9c1fd083beb21a4c19&chksm=9fc935eda8bebcfb67c0b50d6b1909ed8856cd5d9e5c4ae8d950cb6c8d64dc14ad0acf16aa5f#rd)
+    - 时间：2022-11-18
+    - 摘要：用「正念」击退抑郁情绪吧。
+- [我「如狼似虎」，他「好累不要」性欲不匹配会影响幸福吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752462&idx=1&sn=306100882afbaac9ddb65376fac60b1d&chksm=9fc9324aa8bebb5cef41f77cc447ae0ffc2afca6dabe4a0db0ab1d157a03364018161454f3db#rd)
+    - 时间：2022-11-17
+    - 摘要：值得一看的《性生活和谐指南（心理版）》
+- [激情不再？一招搞定爱情的“过渡期”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752462&idx=2&sn=6d969268d433b24d1480ffc081c8909b&chksm=9fc9324aa8bebb5c4a3d372bdea74f4cd7e6ca5945714383eb367825d69aef29b0df21e43a95#rd)
+    - 时间：2022-11-17
+    - 摘要：爱的锋芒不会变钝，爱的热情不会降低
+- [已婚者：婚姻是幸福的起点 vs. 未婚者：它终结爱情｜茶会er说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752462&idx=3&sn=b4bcbdc1ffcf25fdf6856c1635c1bb74&chksm=9fc9324aa8bebb5c7177789fb468f36581f02c64a0695b3e06fe97bde8f232df3c4f0bb3110c#rd)
+    - 时间：2022-11-17
+    - 摘要：
+- [“这一次，我不想再路过你了”｜来KY匹配活动，遇见80亿分之一的TA](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752462&idx=5&sn=5f6878aad21cb737ca845d4c66ccf30e&chksm=9fc9324aa8bebb5c8f858e9d2f153c8cf2e3f50c7ec6a14cf9f15bda63877a62a2b1f5adc091#rd)
+    - 时间：2022-11-17
+    - 摘要：冬天很冷，但我想你不再孤单了。
+- [想要自信又松弛？你必须了解自己的「最佳情感区域」——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752377&idx=1&sn=2a460bf516e931a9d068c64a629646f5&chksm=9fc933fda8bebaebea9d15dc3c28b41c62e5d2a53c543bf20cf743e06205856decb99205fc49#rd)
+    - 时间：2022-11-16
+    - 摘要：每个人都有，但很少有人找到的“秘密花园”。
+- [忽略这一点，你很难做好人生关键选择 | 心理测评全年最低](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752377&idx=2&sn=d9450daef9433e9542bd85d478c12a88&chksm=9fc933fda8bebaeb6c987511c9f4d8bec632fb7ac8311f483036cbb9d3f03202c6e1cf34e6f6#rd)
+    - 时间：2022-11-16
+    - 摘要：KnowYourself测评狂欢节，错过等一年。
+- [现在就想找人倾诉痛苦、烦恼、焦躁，来「聊愈」获得即刻疏导！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752377&idx=4&sn=a2b78ee1f470e9b48d774c22d4b637dd&chksm=9fc933fda8bebaeba9aa269456b7a8a105699f40276ac1f271b854e70a065772bede9d9ee148#rd)
+    - 时间：2022-11-16
+    - 摘要：有心事，来聊愈
+- [KY邀请你2023，一起赶自由！|「情绪漫步」年度主题手账开启预售](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752377&idx=5&sn=0f94fae56a5d8a4923d37b5886699090&chksm=9fc933fda8bebaebe1c0587b786ba99c0c1ffa69e92329bbdccdccdfd8f8bd0a45c2a95b8389#rd)
+    - 时间：2022-11-16
+    - 摘要：成为一个情绪稳定的成年人，容易吗？
+- [陈坤、吴彦祖…明星们都在推崇的生活方式，看完秒懂——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752377&idx=6&sn=ee181ced94377ac3176386c40ce7df92&chksm=9fc933fda8bebaebb47b45f1add6039d7c2c10a65768d7f86849dfea3a4b43d22e273e9f15aa#rd)
+    - 时间：2022-11-16
+    - 摘要：焦虑、失眠、内耗的你一定要看。
+- [史上最全：能帮你保持心态健康的50件小事 （建议收藏！）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752304&idx=1&sn=b37cafc17162f0bffe115ddcc8bcfe81&chksm=9fc93334a8beba225e658d0fc9ae7b53bd800c0cdfc22954af0818e75f2cf291eab67a1cd08a#rd)
+    - 时间：2022-11-15
+    - 摘要：也是真的有50条，干货满满哦
+- [攒够了失望，才开始真正的爱。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752304&idx=2&sn=ccbc9276b4cab648e448b544f18e4386&chksm=9fc93334a8beba22c86583b558a73d161f2b4903def66854e1f0269508e389ac33c43a82ff20#rd)
+    - 时间：2022-11-15
+    - 摘要：​​快来测测ta是不是「对的人」
+- [跃上高阶职场：让职场人失声痛哭的原因居然是？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752304&idx=4&sn=e46d5764b46bb6d5b4dad720781c02e9&chksm=9fc93334a8beba220a4eddcabe18469a736ba48e0396a6141afdc106ff98ca628c74b47a6017#rd)
+    - 时间：2022-11-15
+    - 摘要：“像你们这样优秀的人，其实比别人更辛苦吧。”
+- [最后2天，单个专业测评仅需9.9，全方位自检速来！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752304&idx=6&sn=6b4b48bb1c8eaecea7750ffd030ad6c3&chksm=9fc93334a8beba22b06de2816ef9d10d15c64d1700610521f99bb8800e87e5a50a0c43dcba69#rd)
+    - 时间：2022-11-15
+    - 摘要：KnowYourself心理测评狂欢节，错过等1年。
+- [经常自我否定陷入消极循环，我还有救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247752304&idx=7&sn=9e6f7df8629992021fd37a7ac912a387&chksm=9fc93334a8beba22e76453094fb441cb0b13bccff8f03ac094e8dedbc2062ee4a6ad2015b7cc#rd)
+    - 时间：2022-11-15
+    - 摘要：每一行字都是与自己的温暖相拥
+- [会导致抑郁症的10种思维模式，你有过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247751867&idx=1&sn=9f75edf454534737e10e1534aa2755bd&chksm=9fc931ffa8beb8e9fbb153aaa8ab11878b2f752cc2cd33506e1fa48c52dfa72567d9b3ae718c#rd)
+    - 时间：2022-11-14
+    - 摘要：给自己做一次“最全心理体检”吧
+- [压力大、焦虑、失眠…想要睡个好觉，陈坤的这个方法值得试试——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247751867&idx=3&sn=d47f5d13b642fd076936d0f2f40d3d53&chksm=9fc931ffa8beb8e92bb9d8c2211ac37703e01b70c3d9cd28ee05789210505878c5af5407cd86#rd)
+    - 时间：2022-11-14
+    - 摘要：焕新五感，安放焦虑
+- [伴侣经常对我需求视而不见，该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247751867&idx=5&sn=8aafa9e17a035479110ded3086e01cdb&chksm=9fc931ffa8beb8e907ca3194ba8166ad7d541f90ce933ac1a607e70695d29a26b6a11c41e52e#rd)
+    - 时间：2022-11-14
+    - 摘要：
+- [“我的人生，一步错步步错。”丨选错了的人生还有救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247751867&idx=6&sn=e3afa5859d1c8125d006748d0f0d6d30&chksm=9fc931ffa8beb8e9f1400e253444bf32497884f3c9917b6cdfb25cf801c5ebf710e269435370#rd)
+    - 时间：2022-11-14
+    - 摘要：你不一定要做到满分，但需要一本“人生错题本”
+- [什么样的人容易出轨？不出轨的关系长啥样？看这一篇就够了。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247751787&idx=1&sn=cda716277177af95700e28b0f9f96779&chksm=9fc9312fa8beb839007942b2b570dce481be2acc21179b8b6c9a8be1684540adf3cbe7e16f5e#rd)
+    - 时间：2022-11-13
+    - 摘要：预防出轨手册，速看。
+- [35岁前职场一定要避的4种坑，你中了哪个？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247751787&idx=2&sn=89330fbee840a5a6f020200a0d1fdc32&chksm=9fc9312fa8beb8395e799bd97fba33ce15f1f8e54110e405384865713220614ca2e72aaca26d#rd)
+    - 时间：2022-11-13
+    - 摘要：一套组合拳，帮你破除职场焦虑。
+- [新品《告别自卑》功能手账全年底价最后3小时！速抢——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247751787&idx=3&sn=128414cc637f5a18def87c1b153db92f&chksm=9fc9312fa8beb839e2e58c7ec3b23123cf714a7e1d4e8565892507ba73af81d8c7f4c6ccbbc3#rd)
+    - 时间：2022-11-13
+    - 摘要：你的24小时陪伴式私人心理导师
+- [豆瓣8.6分，年度黑马连续剧，女生一定要看！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247750259&idx=1&sn=1789211c9d88f3be02c8ca1f44471625&chksm=9fc93b37a8beb2213dc4502dc2018c2e8048fa05a34095de08206a12e0596d25146764b83740#rd)
+    - 时间：2022-11-12
+    - 摘要：女性是一种处境，而不只是一种性别。
+- [“我在喜欢的人面前，难以自控地自卑。”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247750259&idx=2&sn=bf58997d75d9cd06be80e9527454d6df&chksm=9fc93b37a8beb2217bc37f92fbb04d0babb7b86f19a72b62f2fde33479c36d97d8e4cd31258c#rd)
+    - 时间：2022-11-12
+    - 摘要：告别自卑，从这本心理急救手册开始——
+- [“活着没意思” 丨连咨询师都无能为力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247750259&idx=5&sn=8c2fa5833b86a328dd9297ec2503c4f6&chksm=9fc93b37a8beb2210819a2c5c77b3b7af54b86f44b6cf6b26a4997b04f95fbde2f324e158853#rd)
+    - 时间：2022-11-12
+    - 摘要：找到生活的意义，从做这件事开始......
+- [我和对象大吵一架后，找聊愈师聊了30分钟，矛盾解决了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247750259&idx=8&sn=05370aa3f1ce5cb72e8a7cba9db6cbaf&chksm=9fc93b37a8beb221c1193b04e3a4a15739bcd52f5ad2211378db6bc399479a45dcf655749153#rd)
+    - 时间：2022-11-12
+    - 摘要：父母关系不好，是否一定会影响自己的亲密关系？
+- [从3个女生的十年，我看到了「做对人生选择」的关键——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247749099&idx=1&sn=732675e4d550b9a8015942ee8b34b8e0&chksm=9fc924afa8beadb9be02d8f3de51eb25201d02c86081738489355690d35864a7162b22db9300#rd)
+    - 时间：2022-11-11
+    - 摘要：KnowYourself心理测评狂欢节，错过等1年。
+- [情绪还有“颗粒度”？它可关乎到你的幸福指数......](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247749099&idx=3&sn=1d2a6d07cddf60870830b58e3d1c8193&chksm=9fc924afa8beadb96bb6dcb08086c972ce23f33eaae0cdae873a09c88c349905caa698483778#rd)
+    - 时间：2022-11-11
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [《告别自卑》心理功能手账全新上线，现货超低价！速抢——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247749099&idx=5&sn=d498c761c79ee754c5e88a7625000488&chksm=9fc924afa8beadb969f7d6cba2d044573f1328b96a10f30ad9a2f716438836ca7e59fb74435e#rd)
+    - 时间：2022-11-11
+    - 摘要：《摆脱低自尊FIND MY SPARK》全新升级！
+- [在亲密关系中我总是牺牲的一方，怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247749099&idx=7&sn=c2e5cf6b1bff398b626b1f0539d82a7c&chksm=9fc924afa8beadb9726d53d37be89449a606edcb4110dd0208b3e2fcb8e24043fe393e6db24e#rd)
+    - 时间：2022-11-11
+    - 摘要：
+- [为什么50岁以上的人对性最满意 | 你对性是否存在以下5种误解？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247748068&idx=1&sn=b27ae0a25e9aa12fa2f4bd33afbe0345&chksm=9fc920a0a8bea9b6391518faa94e87fa687ae62d74e900e1e72722eb1d32ede9ac8ca348cb2d#rd)
+    - 时间：2022-11-10
+    - 摘要：今天我们不开车，讲真相。
+- [脱单难，恋爱也难！到底该怎么办？这是我听过最全答案——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247748068&idx=2&sn=2e3d029c859fb2831853f352ea5c6bf1&chksm=9fc920a0a8bea9b609563d1b952d1d9a07941836171c770451253a9bcdd58896a4384ec235bd#rd)
+    - 时间：2022-11-10
+    - 摘要：双11最后3天！抵制11.11元的心理好物秒杀、8小时不间断直播等你来。
+- [感觉“生活很没意义”，如何在无意义感中自救？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247748068&idx=5&sn=233b79a51f9cd4527c3a2a9dc504d960&chksm=9fc920a0a8bea9b60b4f01f762517e365e8c10dd604b83b88e5fd35f2735a7f4332f259093c4#rd)
+    - 时间：2022-11-10
+    - 摘要：如何过上一种有意义的人生？
+- [“用妥协是换不来爱的。” 25个为爱妥协的故事，有多少人后悔了？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247748011&idx=1&sn=8a3de2e3ff8c17ef9433611168a29909&chksm=9fc920efa8bea9f94b46f37048e959f8d9eb403401b8eb48a79de55d901898183a6c2e77274e#rd)
+    - 时间：2022-11-09
+    - 摘要：真正的爱里，独立和妥协并不冲突。
+- [和喜欢的人约会总是“没下文”，如何提高成功率？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247748011&idx=4&sn=6e61e92ae7809f24115add55aeb1cc20&chksm=9fc920efa8bea9f94f7f58f86b30ec056d1d57eeab723f2bef747c2139403bb0fb83fed189a5#rd)
+    - 时间：2022-11-09
+    - 摘要：不靠套路，你可以这样提升dating成功率——
+- [双11来KY单身派对，和陌生人交换单身生活的100种样子丨限时交友匹配](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247748011&idx=6&sn=d33af59da96c89106148b2e8038e4ce4&chksm=9fc920efa8bea9f934f86dc1002f121e3388bab292541d5cd3c6f737e57483329a16912a7776#rd)
+    - 时间：2022-11-09
+    - 摘要：KY单身派对，点击前往👉
+- [谈恋爱老吵架，是不是原生家庭的问题？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247748011&idx=8&sn=bcbaf75dd51e47922d25bf15b05bb5cb&chksm=9fc920efa8bea9f94707e17f88d07717ad0185a7cb6700f0acd9b4561299d30c8a22cf487f4b#rd)
+    - 时间：2022-11-09
+    - 摘要：父母关系不好，是否一定会影响自己的亲密关系？
+- [这种在关系中最隐秘的攻击方式，90%的人都遇见过——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247747072&idx=1&sn=f62394f56cfe6ed8699e8cd17cd6d1e8&chksm=9fc92f44a8bea6521bd9db18e6718a47647a810279028ae9e18c0d089d1eb8456134c1bd90d9#rd)
+    - 时间：2022-11-08
+    - 摘要：对任何让你不舒服的攻击方式say no
+- [双11来KY单身派对，和陌生人交换单身生活的100种样子丨限时匹配开启](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247747072&idx=3&sn=405d5be81d4346de1188a211e79043a0&chksm=9fc92f44a8bea652d4af1a5df12479ff786c001b4a583b2d341e4a75a08869fa6ac5caf85822#rd)
+    - 时间：2022-11-08
+    - 摘要：KY单身派对，点击前往👉
+- [为什么现在年轻人都不想脱单了？恋爱、结婚，到底难在哪——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247747072&idx=4&sn=022b36cd455701e991a633c333d810f9&chksm=9fc92f44a8bea652ee93b5f3003d657b376348306823b2337ff8cae5680e1d02949c49204494#rd)
+    - 时间：2022-11-08
+    - 摘要：
+- [「好的友谊」的10点标志，你拥有过几点？——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746587&idx=1&sn=e9c9a6cc656edd32d93347decb4f37b2&chksm=9fc92d5fa8bea4491b040aefc7ad6706649417dffbadb85855f2fd1935a9bfd8a2ee08f256f7#rd)
+    - 时间：2022-11-07
+    - 摘要：其实还有一条标准：你会和ta一起看这篇文章。
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746587&idx=5&sn=d011bdd5b38d51180738885610463771&chksm=9fc92d5fa8bea44932a68b3848cfc9c2eb2fbeb1c8dd2b807c89feb65f09ee381453a5826092#rd)
+    - 时间：2022-11-07
+    - 摘要：那些「很清楚自己到底要什么」的人，都在积极探索自我——
+- [对一个人不满意？别急着放弃，先试试「好好夸ta」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746287&idx=1&sn=fd0897251ba4f633efa98454e7b1ba25&chksm=9fc92baba8bea2bde5382a63d322773ebf93f9c4770650dca4ce5ea4d78f784a59d840d14f18#rd)
+    - 时间：2022-11-06
+    - 摘要：夸奖他人是一件有魔法的事
+- [搞清这一点，是找到“对的人”的前提——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746287&idx=2&sn=9813eb4ed6f540df5c3a570e0c170493&chksm=9fc92baba8bea2bd0e3cc314e1d38f76e8f3f03e96a76e35368235814f0c98e5a2e5d2655502#rd)
+    - 时间：2022-11-06
+    - 摘要：​明确择偶标准，找到“对的人”
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746287&idx=3&sn=a1195a0aaeb9e8a9cb41a59c6b4e2c5d&chksm=9fc92baba8bea2bdaaa2518e88ae20440b64fa4e2bc9892581d336fb09da19c115134b66c179#rd)
+    - 时间：2022-11-06
+    - 摘要：那些「很清楚自己到底要什么」的人，都在积极探索自我——
+- [你想从「爱情」中获得什么？真的想明白了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746287&idx=4&sn=ab7b21a5c4858cdf9740cd4d42ba7214&chksm=9fc92baba8bea2bd4cd4bcac4dbcda94ab3cd90d3ab8ccd83b6c44baace0d0b84d1d65587071#rd)
+    - 时间：2022-11-06
+    - 摘要：你对亲密关系的期待是什么样的？
+- [KY年度最大爆款「心理功能手帐本」双11全年底价来袭——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746287&idx=5&sn=a5b6fa84a42654dd3d8107b2f3b9012e&chksm=9fc92baba8bea2bd6d5260694f1d93ec0b040ed9731fa58030716531d1fbda033a3c7da8a9b8#rd)
+    - 时间：2022-11-06
+    - 摘要：心理功能手账本底价，手慢无！
+- [你从没听说过的9个睡眠技巧，拯救“特困生”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746254&idx=1&sn=7b4c7cff6b808726023a37ffaae134f2&chksm=9fc92b8aa8bea29c664404330078a2f8aa944de346000d40d13e9b6e9a3dd5f694099e5976d9#rd)
+    - 时间：2022-11-05
+    - 摘要：读了这篇，今晚睡个好觉
+- [促使你自我成长的，应该是反馈，而不是痛苦本身](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746254&idx=5&sn=d48729b90241ebd75e0f1ee00e177db0&chksm=9fc92b8aa8bea29cbf6bf50d5ebced322dd795c9c4886a833fa865bc1b1bc479cf5aa2c85cf3#rd)
+    - 时间：2022-11-05
+    - 摘要：当成长是自己难以面对的挑战，何解？
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746254&idx=6&sn=4473d79c00730dcba5c7c6eeef0d9832&chksm=9fc92b8aa8bea29c44329f77e9d7cabecc8e3aa7aeadbbf0a34f429bc888c2df7cdaa78f433f#rd)
+    - 时间：2022-11-05
+    - 摘要：成年人交友新方法
+- [母胎自带的天赋，你别再浪费了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746254&idx=7&sn=6f0b5a413f8311441168e23d35c5c489&chksm=9fc92b8aa8bea29cda8fa02010bbd7b4c34a61f96b20963b8254be4e0ddc351dbffce4ba0c70#rd)
+    - 时间：2022-11-05
+    - 摘要：​10分钟，解锁你的天赋图谱。
+- [从女孩到母亲会经历什么？这3点越早知道越好——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746203&idx=1&sn=45d76b1e2cf0ef4baeff7be032de296d&chksm=9fc92bdfa8bea2c9f7a8e7dadb29a5b7dfa769daf0c238527db1fcc093f4cf9dfd86981c1c0f#rd)
+    - 时间：2022-11-04
+    - 摘要：成为母亲，只是众多人生体验中的其中之一
+- [活得很累又很徒劳 | 连咨询师都无力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746203&idx=2&sn=662a6e7401b707e0a72ca54245a78889&chksm=9fc92bdfa8bea2c982f6219a0c47644c30106f2422d5782d53acddcbccddf28c9e453a2ad728#rd)
+    - 时间：2022-11-04
+    - 摘要：找到生活的意义，从做这件事开始
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746203&idx=3&sn=843ef54aeaea1a1593395bc2d2c218ab&chksm=9fc92bdfa8bea2c9f527a4b219da63b468c4faabc78e482f57e7faffe56cbf5e8e91dc50d31d#rd)
+    - 时间：2022-11-04
+    - 摘要：那些「很清楚自己到底要什么」的人，都在积极探索自我——
+- [最近很火的“松弛感”，到底要怎么获得？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746203&idx=5&sn=c02b62f1633f9431cc8f4d7ffc8c3948&chksm=9fc92bdfa8bea2c9e67d1f5ce59153f76a43052b9d201b042d8efc04e724028edeef9457b1f1#rd)
+    - 时间：2022-11-04
+    - 摘要：每一行字都是与自己的温暖相拥
+- [【防渣指南】如何识别PUA？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746203&idx=6&sn=c5449d89cf5c4348a775e3e430b4528c&chksm=9fc92bdfa8bea2c95aad5c8c99eabe9c75c3624d0f2048e0c3114fdffe977bc0bccbe5028137#rd)
+    - 时间：2022-11-04
+    - 摘要：测测你被PUA的可能性有多大？
+- [结婚前，到底该不该同居？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247746203&idx=8&sn=e266f03caa281df4c4d2401bdfaff8e9&chksm=9fc92bdfa8bea2c91f7ae09038158018f88e282d2a72348d09e30a871b2123e0f10e084b176d#rd)
+    - 时间：2022-11-04
+    - 摘要：
+- [99个关于生活的顿悟，来看看有多少人的想法和你一样——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745927&idx=1&sn=41cb58a818fbc9b67525df6f42aca5b9&chksm=9fc928c3a8bea1d51c293f5a2e05957e4bcb6a7c1aa80652ddfdbf5f46acfb44081e69609f44#rd)
+    - 时间：2022-11-03
+    - 摘要：这次真的有99句。
+- [KY年度最大爆款「心理功能手帐本」双11全年底价来袭——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745927&idx=3&sn=891d52ccd06eb051a7d42a58e397709d&chksm=9fc928c3a8bea1d5400ea38f7c7ef2c9030c545574b5ec1177e59548b38baed2d770cf5cebd0#rd)
+    - 时间：2022-11-03
+    - 摘要：心理功能手账本底价，手慢无！
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745927&idx=4&sn=a65e173bddbe30cc27434c517c3cdb3f&chksm=9fc928c3a8bea1d5ce1e8e52e8fb52771686caea396ae86c0aaabc95f2ea8eea3c16580a40b2#rd)
+    - 时间：2022-11-03
+    - 摘要：那些「很清楚自己到底要什么」的人，都在积极探索自我——
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745927&idx=5&sn=b73948cd9bb4de6e8074dec9011b23f4&chksm=9fc928c3a8bea1d5a66664fc6c47f9fea93f2a1737d5cd5c24b42b9797584dcac3a0354cda92#rd)
+    - 时间：2022-11-03
+    - 摘要：成年人交友新方法
+- [没弄清这一点的人，职业规划的第一步就走错了。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745927&idx=7&sn=b35aec68bdf06d282bde39628d4d5e35&chksm=9fc928c3a8bea1d508aab66f7c8c57e2176045104ec6e745c4fad3e8049f62a2975010511d8b#rd)
+    - 时间：2022-11-03
+    - 摘要：你的职业兴趣和优势是什么？
+- [爱欲型、友伴型、现实型…6种类型情侣的利弊分析，一文说透](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745620&idx=1&sn=ce69ab597d632412b0bda790d6e6b532&chksm=9fc92910a8bea0061f8ef0a988edcf542728b6536399418929411a23b13078e96de695c7e891#rd)
+    - 时间：2022-11-02
+    - 摘要：成为“更幸福情侣”的4个tips
+- [促使你自我成长的，应该是反馈，而不是痛苦本身](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745620&idx=3&sn=ba82a6f63cf496742b33d7ec4d95c360&chksm=9fc92910a8bea006dc10f5f1198e7f7db1cf0c3d41e20a8387e420e0c8afd56839714323a3a5#rd)
+    - 时间：2022-11-02
+    - 摘要：当成长是自己难以面对的挑战，何解？
+- [“我承认，2022年的生活没有颜色”｜KY年度情绪色征集](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745620&idx=5&sn=fbed708c514d2e14a86a02ece4b56be9&chksm=9fc92910a8bea00672f6d62e24c17db37bcb9c1784cb7478f67a01a26cb4838153cd15dae73f#rd)
+    - 时间：2022-11-02
+    - 摘要：关照内心，通过一个颜色来对话情绪。
+- [一个人真正「心理成熟」的三大标志，其实是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745620&idx=8&sn=483acedf87765a6b96673090b6283653&chksm=9fc92910a8bea006c6309ff40f339f77ca6851b2593dbda1e5201b8d69cf994a3d3930393e39#rd)
+    - 时间：2022-11-02
+    - 摘要：什么是内心成熟？
+- [Ta不再爱你的11个信号，越早知道越好——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745543&idx=1&sn=6434adde2ca98fe88a411d8b64707bd2&chksm=9fc92943a8bea055a972f5536805f0e9474d0d9b8434a202836fd189759a30acef25d2deb111#rd)
+    - 时间：2022-11-01
+    - 摘要：及时止损，避免陷入「无回报的爱」
+- [KY双11 | 免费抽奖、超多赠品、爆款心理好物最低价！速抢——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745543&idx=2&sn=3d56a4901d3f139696b5d1b1a693d898&chksm=9fc92943a8bea055867ff246d298218d3fc47a563d8252386bc7063dcc68de8ed1858ee7cde5#rd)
+    - 时间：2022-11-01
+    - 摘要：刷新全年最低价！
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745543&idx=5&sn=db742adef762d88e3cadb5bbe465bda3&chksm=9fc92943a8bea055e9a275d8d7e1e4572ee1e42c454b6242a4b82da063a9dc94c1b23a9a58c5#rd)
+    - 时间：2022-11-01
+    - 摘要：那些「很清楚自己到底要什么」的人，都在积极探索自我——
+- [建立【择偶清单】，像HR面试一样找对象。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745543&idx=6&sn=658e3577610d1dc7953df22aa9b98208&chksm=9fc92943a8bea05530701ab92255f50bee822d1473d7cf9041f5ef57f0510c73056d063cfc2b#rd)
+    - 时间：2022-11-01
+    - 摘要：明确择偶标准，找到“对的人”
+- [不止是工作，我已经"生活倦怠"了。丨「生活倦怠」的5种表现，你中了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745415&idx=1&sn=5ded52766bcfe4b47fb336b4127ec2c2&chksm=9fc916c3a8be9fd5991d849f3796f01c80ea48ce5eda3718e34d8cc7183a2001062352e43b3d#rd)
+    - 时间：2022-10-31
+    - 摘要：没办法改变世界，但是可以掌控自己。
+- [假面+真心话=？来KY匹配一个「万圣节派对伙伴」说说真心话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745415&idx=3&sn=a398ff7433359f5298b496a173a88d91&chksm=9fc916c3a8be9fd5cb27d93ee953f19b035e21dec4c68be8c92f97de7037d831af150d9dd7fb#rd)
+    - 时间：2022-10-31
+    - 摘要：嘿，今天我们来一次假面真心大冒险吧
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？丨《人生必修课》明日涨价——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745415&idx=6&sn=3df7939c607c472b62f69f010a2c9989&chksm=9fc916c3a8be9fd5ea754ac20ed701b3072f5e8f309d4ae0909bee3116ba467624308b18ba29#rd)
+    - 时间：2022-10-31
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [和「回避型」人相处的科学方法，后悔太晚知道](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745040&idx=1&sn=94d82508c58a37019a74b2a902e906bf&chksm=9fc91754a8be9e4299561f3239c3aec3cd33527347d67acf0c65a51974a889a5e5bcf1fbe393#rd)
+    - 时间：2022-10-30
+    - 摘要：一文说清如何与回避型恋人相处
+- [如何成为可以在家办公的KY心理聊愈师？丨萌芽13期距离开课仅剩3天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745040&idx=2&sn=d83c5ee8269c8e8212d8329f9a8f8522&chksm=9fc91754a8be9e42e3bdd46bb2415c4ea4077e8b6a675360b65073dfe5578022f6952f8103ce#rd)
+    - 时间：2022-10-30
+    - 摘要：心理咨询精英入门课程+配套实践
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？丨《人生必修课》涨价倒计时—](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745040&idx=3&sn=2463e5912cf7529d1233b0b4ceb22855&chksm=9fc91754a8be9e4265e5e7c059f81d4754971ce1f011e7718343ba1b6d2ae7dd089b4ca2dd22#rd)
+    - 时间：2022-10-30
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [从身到心，循环好状态丨KY身心可持续节](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745040&idx=5&sn=8681091b05ce82ea636087cfc61f0ed4&chksm=9fc91754a8be9e421b0ce615cd8ab51973835bfd0f74e339e0dea088cdb1400464a77b0651df#rd)
+    - 时间：2022-10-30
+    - 摘要：KnowYourself Well-Being Day！
+- [头脑里的消极“碎碎念”原来可以这样化解——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745040&idx=6&sn=818ed7beeb22a70ada252eba94194e6b&chksm=9fc91754a8be9e4293c71fd1d148feb36d3692eb3a5f08b79b36bfe70b716708487f5c541c68#rd)
+    - 时间：2022-10-30
+    - 摘要：每一行字都是与自己的温暖相拥
+- [生活越是艰难，我们越需要「真实做自己」——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745012&idx=1&sn=0d4224ef660fb8edcc6a55bd897dee19&chksm=9fc914b0a8be9da6e96ba5fa5d8576506ba12b36ec36613579cb34f9e31cfce3845a82f83141#rd)
+    - 时间：2022-10-29
+    - 摘要：只有这样，才能好好生活
+- [我和对象大吵一架后，找聊愈师聊了30分钟，矛盾解决了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745012&idx=4&sn=54e6f7ba141f90e3b6e71ee401f80b76&chksm=9fc914b0a8be9da6daaa9a8682305b15f5ef19094929b38544eb4fa9033f2d8c7a99c8480d48#rd)
+    - 时间：2022-10-29
+    - 摘要：争吵不断的关系如何解，听听专业人士的意见。
+- [不用刻意追求钝感力，「高敏感」也是一种天赋。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745012&idx=6&sn=3912f9cc26c5ece69f2a398399774337&chksm=9fc914b0a8be9da6265c8010fcd56f92d55874ac1a6a859f1a01cefa85e92af7566cf2c2f93e#rd)
+    - 时间：2022-10-29
+    - 摘要：我们应该如何与敏感和谐共处？
+- [抑郁和8种让你不容易快乐的思维模式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745012&idx=7&sn=133a2f0e2d21f12fc34b77d41505fdcf&chksm=9fc914b0a8be9da671e596a0a6f9bb930c92d6496b6e516755328db70e9aa231f98e0305a55d#rd)
+    - 时间：2022-10-29
+    - 摘要：心理咨询精英入门课程+配套实践
+- [为什么ta追求我时轰轰烈烈，得到了就迅速冷淡？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247745012&idx=8&sn=0e5128c5a27897ba8721182b54e474d6&chksm=9fc914b0a8be9da6e04c24d42ef0c3f6bacfe26881bcd6e6c5d2543e1cd309a49268584fec22#rd)
+    - 时间：2022-10-29
+    - 摘要：
+- [活得「成熟而通透」的人都有这9个心理特质](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744987&idx=1&sn=a82524d7013f4b38cebf0af84d359345&chksm=9fc9149fa8be9d8901a1803366784a43fd2d10a0b7604287ce86c37fd4c232764d25e1b45f11#rd)
+    - 时间：2022-10-28
+    - 摘要：你中了几个？
+- [“我在喜欢的人面前，难以自控地自卑。”丨女性如何找到真正的自信？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744987&idx=2&sn=630be7367eef113e09d56599aa6dc186&chksm=9fc9149fa8be9d894412d109e44226fe081926ec6732b09e2fa927f281c51aaf7446be638746#rd)
+    - 时间：2022-10-28
+    - 摘要：告别自卑，从这本心理急救手册开始——
+- [超八成青年愿意开展副业，为什么心理行业是最佳的职业“备胎”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744987&idx=5&sn=d77b63f975f3c3d7396026f015f3face&chksm=9fc9149fa8be9d894cef0594cd7b43522cb5e8da3a445fc80e349e903f42d0db0b7ec6293fdb#rd)
+    - 时间：2022-10-28
+    - 摘要：本周日直播，预约不错过
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744987&idx=6&sn=c0fe1d4895b556ca275d456fb98dd494&chksm=9fc9149fa8be9d89f40a7c7677d2e8c7338953cd84ab4aacddc3c47e56da88baaeb6b5f54393#rd)
+    - 时间：2022-10-28
+    - 摘要：那些「很清楚自己到底要什么」的人，都在积极探索自我——
+- [假面+真心话=？来KY匹配一个「万圣节派对伙伴」说说真心话！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744987&idx=7&sn=bc034149d6f17bc584c60dd1cdba8fc3&chksm=9fc9149fa8be9d89ad3cedc231a38b604d245bf112d171766c3a1427137a60a1838bf30a2c29#rd)
+    - 时间：2022-10-28
+    - 摘要：嘿，今天我们来一次假面真心大冒险吧
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？丨《人生必修课》涨价倒计时—](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744987&idx=8&sn=704dfafdc021a611aaddfa29b576aff7&chksm=9fc9149fa8be9d895ad3e55e817b9477048034a4a743ae5356f5709b6982bf87187c00cc5364#rd)
+    - 时间：2022-10-28
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [对关系的16种不同需求，你真正需要的是哪几种？（帮你理清思路）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744755&idx=1&sn=b54ca2452ae57321ae6d78192a47c432&chksm=9fc915b7a8be9ca1f2dd9d43dec710587e59a6563d00195fc7cc5392c21e1e022a3752e5f6c7#rd)
+    - 时间：2022-10-27
+    - 摘要：在爱情里，你最看重的是什么？
+- [成为心理学工作者，可以是你为自己选择的一份副业丨萌芽计划13期即将开课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744755&idx=2&sn=c5aaa1130ee06cf48239edee78618b34&chksm=9fc915b7a8be9ca15d8a6c8dcee71cfa4a5ca8ba8532fac944c559fcefb71502e0a9a5b8b35e#rd)
+    - 时间：2022-10-27
+    - 摘要：心理咨询精英入门课程+配套实践
+- [首发！《告别自卑》心理功能手账全新上线，现货即发！速抢——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744755&idx=4&sn=f855a37848d64d39a0bba408e2c0c3d9&chksm=9fc915b7a8be9ca1dec9d468dbf7d07c6dc26e06c0b2c98d38578d2544b875a408bf15e0e9c2#rd)
+    - 时间：2022-10-27
+    - 摘要：你的24小时陪伴式私人心理导师
+- [《心动5》情绪稳定、不拧巴不内耗，她活成了所有女生理想的样子 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744755&idx=6&sn=cba62765e33caeb02b16728a69abdd85&chksm=9fc915b7a8be9ca14a01f99d15e023b90d8c7913100e9c4bfe2dc51d2adf185f37609e69ab5f#rd)
+    - 时间：2022-10-27
+    - 摘要：
+- [不想再卷？这个方法帮你找到职业天赋，解锁适合你的赛道](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744755&idx=7&sn=a2e503c0bc64bca55a2c1270886d6d89&chksm=9fc915b7a8be9ca17adc239fee60c8ff225d7e6d4ff9cb383d2b9596f8b54081fa8d022b21ad#rd)
+    - 时间：2022-10-27
+    - 摘要：​10分钟，解锁你的天赋图谱。
+- [别再死磕短板了！学会「顺应自己的天性」更重要——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744639&idx=1&sn=06a63db6c8a9eac75531e452c6af0409&chksm=9fc9153ba8be9c2ddbbb4aa218ff46b424854cac8289548f40adf4ad15a0f8be09f605025d4c#rd)
+    - 时间：2022-10-26
+    - 摘要：4个步骤让你学会顺应天性的生活
+- [我们如何用心理咨询师的视角，重新解读人生的意义丨萌芽13期开班倒计时9天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744639&idx=3&sn=7e904083ab1dd0a6bd477394e535ad10&chksm=9fc9153ba8be9c2d01d32bc9bbd956ba19d7e65577cc1478cc8da71528c359e962550e297759#rd)
+    - 时间：2022-10-26
+    - 摘要：心理咨询精英入门课程+配套实践
+- [能不能脱单看的不是运气，而是这种能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744639&idx=6&sn=ffc1b26c7844e9180eef1c51b3b1ba56&chksm=9fc9153ba8be9c2d52511fb6e37fa393caa6a8870fd46eda2e565de9f39bbe821e6ced71eb41#rd)
+    - 时间：2022-10-26
+    - 摘要：你可能缺乏了“恋爱的能力”。
+- [《心动5》情绪稳定、不拧巴不内耗，她活成了所有女生理想的样子 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744639&idx=7&sn=6cd1e05aa13e949d07159332b69a4a22&chksm=9fc9153ba8be9c2d508f312ffa6a2aa5f165ee0e7763fe5d54c3de5dc379f96c387423312e03#rd)
+    - 时间：2022-10-26
+    - 摘要：
+- [安妮海瑟薇：爱自己从「停止对自己做这件事」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744639&idx=8&sn=5abd315557c230ec710d15264f6fee6c&chksm=9fc9153ba8be9c2d967042b094933f1b746028aacbf6da6494df3e8b4db4474db83ebe9e98de#rd)
+    - 时间：2022-10-26
+    - 摘要：那些「很清楚自己到底要什么」的人，都在积极探索自我——
+- [真的有「易恋爱体质」？心理学研究这么说——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744581&idx=1&sn=8172eb5fbf95d09cd79d96759a95473c&chksm=9fc91501a8be9c17935434222e977ad33710c947eeb9df9753b8141b589f672a06b0515463f0#rd)
+    - 时间：2022-10-25
+    - 摘要：想谈恋爱不可耻，你可以这样做
+- [KY茶会部招聘丨寻找灵魂社交规划师](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744581&idx=2&sn=4e3ff61de041c6276e056af46bf9d4e9&chksm=9fc91501a8be9c1704b3529c7fb2d148d7cca1a80def29ceda6d2503bd79d4c49b982d7fefb5#rd)
+    - 时间：2022-10-25
+    - 摘要：
+- [过往的经历，是否给你留下了隐形的「人格伤疤」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744581&idx=3&sn=ff112ec7352b57cb93b5884be2157f5b&chksm=9fc91501a8be9c1714f297cce7db94b99b8ef89ab61f76041ca50a9778ed82d7115a2c0bd6f4#rd)
+    - 时间：2022-10-25
+    - 摘要：你一直在带着什么样的人格阴影生活？
+- [我和对象大吵一架后，找聊愈师聊了30分钟，矛盾解决了丨限时半价体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744581&idx=4&sn=f70b757414252db885b03484197c9b77&chksm=9fc91501a8be9c17d27fda6ee8c6f81080e27738bfb442e1a4dbe663a863438d9fc374bf925a#rd)
+    - 时间：2022-10-25
+    - 摘要：争吵不断的关系如何解，听听专业人士的意见。
+- [自卑、迷茫、一事无成……改变的答案，都写在这堂《人生必修课》里丨涨价倒计时](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744581&idx=7&sn=6f351aa260d3587acc6dcb1dc51931c7&chksm=9fc91501a8be9c171d6c907b89ef980edd05db115690c31c853980b2a0d9559d0f9a1b687a80#rd)
+    - 时间：2022-10-25
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [秘！其实那些看起来很牛的人，也在偷偷治疗自己的焦虑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744581&idx=8&sn=d9b71be48b043ab56db5bb3af59bc123&chksm=9fc91501a8be9c17dfaf5b6400dbcd0dd22e15d74c8ccf81d1695e51e8700185e8f3337e39ef#rd)
+    - 时间：2022-10-25
+    - 摘要：现在开始，焦虑拜拜，人生开挂！
+- [最伤害感情的6句话，你说过几句？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744451&idx=1&sn=6ffc7eafd95da24426c292989cb5ee9f&chksm=9fc91287a8be9b91c8bc47eeff17082d23a79dab01de740c6a6ef6f303af032fa3ee0e44ceb3#rd)
+    - 时间：2022-10-24
+    - 摘要：吵架本身并不可怕，关键在于方式
+- [KY教你用MBTI谈恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744451&idx=2&sn=6fd38a358cc85a68b206c633cc35290a&chksm=9fc91287a8be9b91fee062ef0706a4362fa05f2f40d8da2d6881a70a1c852c2e79197dfbe0f8#rd)
+    - 时间：2022-10-24
+    - 摘要：点击立测你的恋爱MBTI。
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？丨《人生必修课》涨价倒计时—](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744451&idx=4&sn=1ea9823413fddb25687e9ff94d154ce6&chksm=9fc91287a8be9b916ae92c352dbd59b5dc3f0a14f31e655e1330285d9c50187dc3abda13930a#rd)
+    - 时间：2022-10-24
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [那些「很清楚自己到底要什么」的人，都在积极探索自我——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744451&idx=5&sn=315a011b76479e20ab3a09df7ed00ba5&chksm=9fc91287a8be9b91a1800cf2d80dae76a225515eb4a7676783acc207c4efde700af59eeec9f7#rd)
+    - 时间：2022-10-24
+    - 摘要：
+- [《心动5》情绪稳定、不拧巴不内耗，她活成了所有女生理想的样子 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744451&idx=7&sn=7c21e5fe1905f3fd1cc559b8306bc7fb&chksm=9fc91287a8be9b9117cfeb885d7fca72fff5f7bc483babf953075d6a13ef4c640ae7d060a657#rd)
+    - 时间：2022-10-24
+    - 摘要：
+- [「女性」是一种处境，而不只是性别。｜为什么要谈论「女性主义」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744383&idx=1&sn=de485d20a33850b7facf6f8da9a12bd8&chksm=9fc9123ba8be9b2da0578f17af03100877f0463bbf9260e6e72dee1718d319e2891337b294ba#rd)
+    - 时间：2022-10-23
+    - 摘要：“女性是一种处境，而不只是作为一种性别”
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？丨《人生必修课》涨价倒计时—](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744383&idx=3&sn=865f7a1d4123c4dc70d091bcdc6cdfe8&chksm=9fc9123ba8be9b2d96438d5f0d9e469b95a29b83907890c813991dad3b47aad94a11150392ff#rd)
+    - 时间：2022-10-23
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [狂售5w本的《摆脱低自尊》功能手账全新升级，预售底价来袭！速抢——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744383&idx=4&sn=da93f5c93f9c2c9d39e54b8b6e74ecc5&chksm=9fc9123ba8be9b2dbb84ac0a2f0e72a8f61e29598d577d4f5026a41e742cbf4fdd5004da3742#rd)
+    - 时间：2022-10-23
+    - 摘要：你的24小时陪伴式私人心理导师
+- [那些「很清楚自己到底要什么」的人，都在积极探索自我——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744383&idx=6&sn=d50cf7c7bd03cb82f369ffca5f6ae868&chksm=9fc9123ba8be9b2d9cf0216861a279bfeafe05da382c5c0caecc22dcc087fa1ce629d41210f2#rd)
+    - 时间：2022-10-23
+    - 摘要：周一开营：原价69元《探索自我》体验营，限时1.99元
+- [你的内耗可能没有想象的严重（附内耗自救手册）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744383&idx=7&sn=ac042929e1c03586fb17b32373659120&chksm=9fc9123ba8be9b2dfb6df5253dbad38daae891d62ffd7f02264f8fdfc07260c506fe3a7bc112#rd)
+    - 时间：2022-10-23
+    - 摘要：来测测你的自我内耗水平吧。
+- [“25岁逃离大都市，1.5万买房” 选择「自我时钟」后，生活会更好吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744334&idx=1&sn=b42a5c36664006b7de16a33ee355baf4&chksm=9fc9120aa8be9b1c9c289fc9700d3f28f333b07ea832ba639a05eb78ff88e7c8dc90c371bfb3#rd)
+    - 时间：2022-10-22
+    - 摘要：如何跳出「社会时钟」？
+- [理想爱情=友谊+占有+？，5分钟获取你的恋爱公式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744334&idx=2&sn=3112943f194632e0c89718b691988a73&chksm=9fc9120aa8be9b1cf2c65c22d2371e297ae1cebdab82ea54083bebe65fb2e01116b4f2b139b8#rd)
+    - 时间：2022-10-22
+    - 摘要：超全爱情分析报告，点击即测！
+- [十条亲密关系避坑指南，先学习再实践](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744334&idx=3&sn=3d2532af93534e09dff979b415573638&chksm=9fc9120aa8be9b1c2f7597651b0ee3e6be5d5bb866b9dea5819480875070af47de454e06a08e#rd)
+    - 时间：2022-10-22
+    - 摘要：心理咨询精英入门课程+配套实践
+- [情侣在一起总是鸡同鸭讲，根源是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744334&idx=4&sn=b64b2c05904a19f132e4f2afabd4a59b&chksm=9fc9120aa8be9b1c428a1fcbe293abe6afa08471c517e5bf8d541fdfacf97dfbd4e491cc5651#rd)
+    - 时间：2022-10-22
+    - 摘要：一份你需要的恋爱攻略。
+- [如何用心理学修养主业，发展副业？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744334&idx=7&sn=677f8ae192c6461d92a29d88d4eb5bfc&chksm=9fc9120aa8be9b1c1d3ffe1785ed68752f6c06be33cdc0fe5126d6aedadab3b220b35f18bd56#rd)
+    - 时间：2022-10-22
+    - 摘要：本周日直播，预约不错过！
+- [让你少走10年弯路的顶级心理能力——《人生必修课》涨价倒计时—](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744334&idx=8&sn=eee5d215262fa35a58d64de8fd29903a&chksm=9fc9120aa8be9b1c408dadd5d06b8bdce060a5143f3e36b079082afde2d247399eb1f2d73e91#rd)
+    - 时间：2022-10-22
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [焦虑却拖延？这里有能「提升行动力」的8件生活小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744285&idx=1&sn=ba475824f9f25c26f57b452e70e6dfd7&chksm=9fc91259a8be9b4ff178852d7b76a8a694440fb537eb1709da75b4ef1ae5e05da6c595752889#rd)
+    - 时间：2022-10-21
+    - 摘要：“先行动起来，哪怕1分钟。”
+- [总想辞职，说明你和这份工作“性格不合”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744285&idx=3&sn=dc69c713ad1c083a6297c19fb8f7cf67&chksm=9fc91259a8be9b4f61b40e48413405f36d1d245adb7ce612d5328a99077acb9dec0150100027#rd)
+    - 时间：2022-10-21
+    - 摘要：做职业规划之前必须知道的。
+- [除了听音乐和听书，通勤路上还能听什么？人生必修课涨价倒计时——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744285&idx=4&sn=ff5b0e29c07ca8fa8d7ee51cb48c8108&chksm=9fc91259a8be9b4f99b39b04a0a5cd57ac637680caf3ae714f06a3855ceea60ca0ca4e25b046#rd)
+    - 时间：2022-10-21
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744285&idx=6&sn=51e84002003300a1cc9a5f941cb2baa1&chksm=9fc91259a8be9b4f03ea12db7a2c70280c4a82c6503017c20c24d55a8550b35e36d5ee755c6f#rd)
+    - 时间：2022-10-21
+    - 摘要：想做那个听你说出心声的人。
+- [《心动5》情绪稳定、不拧巴不内耗，她活成了所有女生理想的样子 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744285&idx=7&sn=aa2bef7494eea638d43c616c5291e754&chksm=9fc91259a8be9b4ff440dda15e571f1da0cb469e8fc9621b17f3fa437f8054c52430eebcac9b#rd)
+    - 时间：2022-10-21
+    - 摘要：
+- [如何判断和好朋友能不能发展成恋人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744285&idx=8&sn=9b872ad5fc83b7a35f46f5ab4fc2a6f7&chksm=9fc91259a8be9b4f5264778ade43d91ff8e210d095cab43c4401252ae745e6a07dd5b9ebcf93#rd)
+    - 时间：2022-10-21
+    - 摘要：
+- [「家务」分配影响关系成败。如何解决男生不爱做家务的问题？——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744153&idx=1&sn=85b108bc6cf882466b8c29f8036d7976&chksm=9fc913dda8be9acb9d07e9ef25661a21610f6130a130b13247f8ad685036cd42469e2be61711#rd)
+    - 时间：2022-10-20
+    - 摘要：脏衣服有可能毁了你的亲密关系！
+- [狂售5w本的《摆脱低自尊》功能手账全新升级，预售底价来袭！速抢——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744153&idx=2&sn=de853d9d14af7dc52bfb941177daa48b&chksm=9fc913dda8be9acb3beb989446898b28f92096e453caf0f112247c9a24608decc5a2cbbc4f9d#rd)
+    - 时间：2022-10-20
+    - 摘要：你的24小时陪伴式私人心理导师
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744153&idx=4&sn=fbd5c1dfa77560cb5d0732b3fc15ae72&chksm=9fc913dda8be9acb4d7a8c2161c48d61843fa762ea264c2fe25490158f0d19d61cf981898c3c#rd)
+    - 时间：2022-10-20
+    - 摘要：心理咨询精英入门课程+配套实践
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744153&idx=5&sn=48a496f0fe6a83922c9a7443280deae2&chksm=9fc913dda8be9acba876529b96455d0109d868673641a218a8ea60fc9ff36f4cb7cdd2f26749#rd)
+    - 时间：2022-10-20
+    - 摘要：想做那个听你说出心声的人。
+- [《心动5》情绪稳定、不拧巴不内耗，她活成了所有女生理想的样子 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744153&idx=6&sn=a45ef95ae88d988464a41517dbc5a119&chksm=9fc913dda8be9acbb2b2f80b94438c618b888501621ed5b5325dd76fd79c6aa8e6ec526527a9#rd)
+    - 时间：2022-10-20
+    - 摘要：
+- [从“恋爱小透明”到“超多人追”，该怎么做？（不是颜值）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744153&idx=7&sn=544f1ab007811e0dcb02d0d24879b123&chksm=9fc913dda8be9acb94dc28fa31d5743edef0715e9eedcf5015dca20a2f8f947bed69514aece1#rd)
+    - 时间：2022-10-20
+    - 摘要：恋爱吸引力=让人一见钟情的高颜值？
+- [那些「很清楚自己到底要什么」的人，都在积极探索自我——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744153&idx=8&sn=de893d7b988d54a594627c4847cc5a25&chksm=9fc913dda8be9acb449b2f4ae368acc978547a52c0db929d85efe414a43cc56c431850de038d#rd)
+    - 时间：2022-10-20
+    - 摘要：周一开营：原价69元《探索自我》体验营，限时1.99元
+- [你谈的是「假恋爱」吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744099&idx=1&sn=3a25b5fd4d8da5df13779ea8dd4c6cbe&chksm=9fc91327a8be9a31de0d3a9d9df24440c8132ce76109d903ba27ecf0d26ddd44e0c818717f5a#rd)
+    - 时间：2022-10-19
+    - 摘要：一文解读关系的「可解释性」
+- [作为斜杠新青年，心理咨询师是我的另一个职业身份丨萌芽13期课程升级不涨价](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744099&idx=2&sn=f4add5de040e278eee033c2fb3a13f4d&chksm=9fc91327a8be9a3152aed18c5ee88954c180b908b2c21b6eff875303ce92beb6334b2bd191b0#rd)
+    - 时间：2022-10-19
+    - 摘要：心理咨询精英入门课程+配套实践
+- [“不想让坏情绪影响我，怎么办？”丨如何成为情绪稳定的成年人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744099&idx=4&sn=28adbfbed99fb42d57766c236ce5d3b8&chksm=9fc91327a8be9a31cb68e7794aaea07ebd8908a9b80b73ff8945af2e05189e02143d40669e6c#rd)
+    - 时间：2022-10-19
+    - 摘要：杨幂：厉害的人，早就戒断了情绪 ——
+- [拉开你和同龄人差距的43个顶级心理能力丨人生必修课涨价倒计时—](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744099&idx=5&sn=b2154fda88bb595587253c392fba2848&chksm=9fc91327a8be9a319d36862e3d4e8069ee8b6e8f3f044dbce4efe22564a3c3ecf4e5bc9c3d00#rd)
+    - 时间：2022-10-19
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [为什么热恋期一过，我就立刻想分手？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247744099&idx=6&sn=c887057c5816dc5444f63eea1d7e7e7a&chksm=9fc91327a8be9a3164122360a0fe09c06f68e91cdec341adfe808f808fbc34b5342571a1e546#rd)
+    - 时间：2022-10-19
+    - 摘要：谈恋爱倦了？请查收你的持久恋爱秘籍。
+- [要多喜欢一个人，才值得走下去？来聊聊「如何谈不分手的恋爱」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743803&idx=1&sn=79608cfb950c4e1d7862db9ef7150451&chksm=9fc9107fa8be9969820eca419208e6170aaf5da060e1a5b28aea9315e4e1cd14c22106b170f9#rd)
+    - 时间：2022-10-18
+    - 摘要：茶会36城营业中，多款热门主题返场等你pick！
+- [你是什么样的“依恋类型”，就决定了你在恋爱中有什么样的表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743803&idx=3&sn=2ec148b097a33c758b5980386fe21c9e&chksm=9fc9107fa8be9969b952d1ecdcb4a0971479875192ea00f2311561d9c9fac8e5d623d65f423d#rd)
+    - 时间：2022-10-18
+    - 摘要：心理咨询精英入门课程+配套实践
+- [“不想让坏情绪影响我，怎么办？”丨如何成为情绪稳定的成年人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743803&idx=5&sn=9fe022027afa0ef30d302ba7a8c4d6d9&chksm=9fc9107fa8be99697d0ffe3ef6a9c0573391c1c16abe8f6af73c80f5c30ea032d1e858426f9a#rd)
+    - 时间：2022-10-18
+    - 摘要：杨幂：厉害的人，早就戒断了情绪 ——
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？丨KY100堂课限时优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743803&idx=6&sn=709c637bff4e8cf5fbeafd1be6ebab09&chksm=9fc9107fa8be99692d5bfd2392a147a846c90c49e60f8e47743b3ece2aa3b7414e5067e42f01#rd)
+    - 时间：2022-10-18
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [情绪还有“颗粒度”？它可关乎到你的幸福指数......](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743803&idx=7&sn=3bae1ff08ee221c9c30984d6e215e647&chksm=9fc9107fa8be99699fd99d511b569822e25d77fb2249495f09fb3498914303052d4cfbcdac12#rd)
+    - 时间：2022-10-18
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [不要靠近一个“自怜”的人，会变得不幸！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743427&idx=1&sn=a0fa551c091dd24a0ce17e3a10427683&chksm=9fc91e87a8be979164d497db9696bb76eddd494498625d7aeb91cc3580ea2faf374c51e544e5#rd)
+    - 时间：2022-10-17
+    - 摘要：自怜是一种慢性自我毁灭。
+- [警惕！这6个行为在给你的亲密关系亮“红灯”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743427&idx=4&sn=dea4f87fab00c97d03d7615f749200d9&chksm=9fc91e87a8be97918b8d3b4134519ce5cee2680fd71a35e2675b2b487695bd64e0f8657dc2ca#rd)
+    - 时间：2022-10-17
+    - 摘要：出现这些不良信号的亲密关系，还有继续的必要吗？
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？丨KY100堂课限时优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743427&idx=5&sn=f9dd5537abc7b85096908534c3b62bc2&chksm=9fc91e87a8be9791343f02cc202385ca22a2f47c1dd86e5e4287e75563c527c24f46327fec92#rd)
+    - 时间：2022-10-17
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [那些「很清楚自己到底要什么」的人，都在积极探索自我——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743427&idx=6&sn=c7d93ecb3b7991f079e9e294cbf25088&chksm=9fc91e87a8be9791752e5d75883385177ac047e667f6c7a7fd6f6a7011e2346cc1111aee19aa#rd)
+    - 时间：2022-10-17
+    - 摘要：周一开营：原价69元《探索自我》体验营，限时1.99元
+- [不想再“选错人生”，一文教会你「梳理出自己的幸福观」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743377&idx=1&sn=e57d0b6b42c4840dfaeeb79ac5489572&chksm=9fc91ed5a8be97c3f2e48b879d3c7b63e706e6066158b3f4955c537632b55a1b6889ca05ecae#rd)
+    - 时间：2022-10-16
+    - 摘要：对你来说幸福是什么，只有你自己来决定
+- [KY约会锦囊：不靠套路，如何提升dating成功率？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743377&idx=3&sn=7f0dd484f41526e3b9bb4c09739db429&chksm=9fc91ed5a8be97c3d2a8d4e6cf12625db8a736b2ca0991749c4ed80b4ba3ba8dfd9989b2cf63#rd)
+    - 时间：2022-10-16
+    - 摘要：​听说不用套路，也可以牵手心仪的人哦~
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？丨KY100堂课限时优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743377&idx=4&sn=f3c0a537ee204c869b311d6e0363c0c3&chksm=9fc91ed5a8be97c3fc598fce5d9c228f304881e6e1e779616dad5cebb69ff6a35b54bd7df268#rd)
+    - 时间：2022-10-16
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [为什么有的关心反而让人讨厌？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743377&idx=8&sn=fdecb9bae2666fa1d14c68706e103720&chksm=9fc91ed5a8be97c347c15a61de159fa64d8129b414defcc09065142b19efe93698d0069e0eb2#rd)
+    - 时间：2022-10-16
+    - 摘要：
+- [行动力的来源是「掌控感」。这8个小习惯能帮你掌控生活——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743341&idx=1&sn=48937021b3ade82cbe252272586853ac&chksm=9fc91e29a8be973f3e21d298ba8ba005b0e085cc994be357c5f996dd629368dc4be957f5e8ad#rd)
+    - 时间：2022-10-15
+    - 摘要：世界失控了，但我们还有救。
+- [被10万KYer抢到断货的心理好物，用了幸福感提高百倍！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743341&idx=3&sn=afec46c20933fe79267c605819200f67&chksm=9fc91e29a8be973f19f7954176f31a403355b85896d1ae6168e925146b3ce4bf8cc9d6964d64#rd)
+    - 时间：2022-10-15
+    - 摘要：快来解锁心理自救小妙招~
+- [我如何成为自己理想中的样子？人生必修课带你深入探索自我 | 限时优惠](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743341&idx=4&sn=116140112e7e94f49e1030d6e993c4fe&chksm=9fc91e29a8be973f8dfdb22bc144376517d934d61609c2dc4381c77bf6349ed67c88fca4ea13#rd)
+    - 时间：2022-10-15
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [那些在感情中“决不将就”的人，后来都怎么样了？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743341&idx=6&sn=e0b949c4e7c4bc3ba5f4110b5e3d3278&chksm=9fc91e29a8be973f34c78f5f336f2b86199e25bddc76f51bdbc632a5acdbb7301eb9cff0be99#rd)
+    - 时间：2022-10-15
+    - 摘要：​你是典型的爱情完美主义者吗？
+- [长期被焦虑控制，我还有救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743341&idx=7&sn=7c1a759158fb8b3f1ab566d586b93847&chksm=9fc91e29a8be973f2ec747b503ad3cf7da80e9b7b5ebf7b97a73ae822996092a582e28141684#rd)
+    - 时间：2022-10-15
+    - 摘要：杨幂：厉害的人，早就戒断了情绪 ——
+- [合格伴侣的标准，来看KYer们票选的43条 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743331&idx=1&sn=d396b36811919d5436020bfc9ceae1cd&chksm=9fc91e27a8be973173bc4b41476863f3c3060ac77c5af121b8917845daa544cf91721bc5d640#rd)
+    - 时间：2022-10-14
+    - 摘要：看看哪个戳中了你！
+- [推广｜测测你的不冬眠动物系人格](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743331&idx=3&sn=f1973fbeffd2db8dab903d7dc8b50c31&chksm=9fc91e27a8be973131c0cb7851fb123187fa9dd1c29d033ab30880ce00d53e4e60ec4445c48a#rd)
+    - 时间：2022-10-14
+    - 摘要：用舒适解放冬眠动物
+- [长期被焦虑控制，我还有救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743331&idx=5&sn=c0487e548c72df6e66405cd696b729a4&chksm=9fc91e27a8be97314bc4d9e3d446ef478d4017697aafe8794783701e4a6f1736af4c7b2c2c05#rd)
+    - 时间：2022-10-14
+    - 摘要：杨幂：厉害的人，早就戒断了情绪 ——
+- [聊愈师究竟是心理行业怎样的兼职机会？现场演示给你看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743331&idx=6&sn=0ff71308a4023b1ad460275352e600e2&chksm=9fc91e27a8be973115d7ed7717006a793bfb98d03c70f211e4e3027aaf3475e213fb8b0c0e60#rd)
+    - 时间：2022-10-14
+    - 摘要：本周日直播，预约不错过
+- [最后2个月，匹配一个伙伴组队完成今年立的flag丨KY匹配计划之「同行伙伴」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743331&idx=7&sn=1c10ea07b6d1a532a0d9f66fbfe54b4f&chksm=9fc91e27a8be973100cce06fbb04e7930b3b0a878dcb8225870a0a9067d206d93d877ccef422#rd)
+    - 时间：2022-10-14
+    - 摘要：治愈成长局，等你来组队。
+- [为什么要孩子？为什么不要孩子？这30个理由哪个说服了你——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743171&idx=1&sn=0702b75415ba56d06e3f0b1b04de1c7c&chksm=9fc91f87a8be9691f3cf6c78c237f4adb7509da331fc0e24fe066548ece97b4f11b0ddeff83f#rd)
+    - 时间：2022-10-13
+    - 摘要：你有选择生孩子的自由，也有不生的权利。
+- [为什么我们这一生都难以逃脱“未竟之事”的羁绊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743171&idx=3&sn=f7110e38297ce1614de41bfaca54aff2&chksm=9fc91f87a8be9691f945b482679ad546022675a6fdd5144dfbd976e1e836dda5b976e1b29534#rd)
+    - 时间：2022-10-13
+    - 摘要：心理咨询精英入门课程+配套实践
+- [让自己走出焦虑的超有效方法——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743171&idx=4&sn=c3cc6e7d33de0bd821886fa46b719ce3&chksm=9fc91f87a8be9691437ba516f38751203ea31ee9312278265a89ad4135893c2be4db362f68d0#rd)
+    - 时间：2022-10-13
+    - 摘要：被焦虑困住，送你一个超有效抗焦虑小方法——
+- [最后2个月，匹配一个伙伴组队完成今年立的flag丨KY匹配计划之「同行伙伴」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743171&idx=6&sn=d4cf7f2c369aac3d32ae0bf2f537f83e&chksm=9fc91f87a8be96919d4648c126fa91daf2da18f96bce21e29a50745e43afdad61b2b4a6aa862#rd)
+    - 时间：2022-10-13
+    - 摘要：治愈成长局，等你来组队。
+- [问题压不垮人，但情绪会！总是被情绪裹挟的你该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743171&idx=7&sn=149dfbf9f94aba72f5c94431d122bd54&chksm=9fc91f87a8be9691d42da2a3801cb2fe1c66ff62c679cc001a036d6638702e00df071b26a141#rd)
+    - 时间：2022-10-13
+    - 摘要：杨幂：厉害的人，早就戒断了情绪 ——
+- [前任“诈尸”，除了想复合，还有可能是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743043&idx=1&sn=e7cf51316830ba67f1531dca77937ebf&chksm=9fc91f07a8be9611b8309334bc543a581f20ac7c88122c7e099da29417e2efd031aeeb1358f2#rd)
+    - 时间：2022-10-12
+    - 摘要：最怕前任突然的关心
+- [成为心理学工作者，可以是你为自己选择的一份副业丨萌芽13期课程升级，团购价优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743043&idx=2&sn=a0bed47c9dedc8630fbbf69cb9f7a837&chksm=9fc91f07a8be9611db830b8c84ed4dd711a6fff4a5af4eedad9e61be7a7d4a357a0ac24988d3#rd)
+    - 时间：2022-10-12
+    - 摘要：心理咨询精英入门课程+配套实践
+- [Ta是能和你长久走下去的人吗？关键要看这四点——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743043&idx=3&sn=54df25e7c88af5972f36b7edc5bcf9a8&chksm=9fc91f07a8be9611d14f05a0004209478136621f1a0e1cf10f9fa1bdc6645ffccce1928a6ef3#rd)
+    - 时间：2022-10-12
+    - 摘要：真正的“对的人”并不会从天而降。
+- [真正的成长，往往发生在最深的自我探索之后 丨人生必修课优惠倒计时！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743043&idx=6&sn=b8ef1b3b7c25eccf740c582e5437d935&chksm=9fc91f07a8be96118eeb23e0fa76720c237cb536d477a11f860e261145b2df29083bb8abe74f#rd)
+    - 时间：2022-10-12
+    - 摘要：拉开你和同龄人差距的43个顶级心理能力——
+- [最近很火的“松弛感”，到底要怎么获得？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247743043&idx=7&sn=258311dc4fba9710581be6441ba19b70&chksm=9fc91f07a8be9611e64f3c18162d9fa4eff2430e853adf45e627785731aa7bfcd84eddda19aa#rd)
+    - 时间：2022-10-12
+    - 摘要：每一行字都是与自己的温暖相拥
+- [一段关系应该结束了的10个信号（不止适用于爱情）——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742936&idx=1&sn=65e508136f3db01772b663624b91559d&chksm=9fc91c9ca8be958a6a47757a0a5eb797ad09e87fc2126c144381e1f54244ccc4ed521b3d85b3#rd)
+    - 时间：2022-10-11
+    - 摘要：结束错误的关系，才有机会开启更好的关系。
+- [“活着没意思” 丨连咨询师都无能为力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742936&idx=2&sn=8f476dc1dd97386093c12fedf0dd4249&chksm=9fc91c9ca8be958a32ac5b86f0d5953735d2a01358df2fbc582524ebb21cb1f9acd9485071d8#rd)
+    - 时间：2022-10-11
+    - 摘要：找到生活的意义，从做这件事开始
+- [你有哪些未知的天赋？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742936&idx=4&sn=9a6d490f1290b2749033ad691419b805&chksm=9fc91c9ca8be958a2d423f0b6b23f2ba5528d62d3dfe61929eabb507a9ef87f0ebb87f4ca57d#rd)
+    - 时间：2022-10-11
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [杨幂：厉害的人，早就戒断了情绪 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742936&idx=6&sn=cee04fb8f6421455f10f46c384e28174&chksm=9fc91c9ca8be958a5ad32bddde1f172e545525d43a07c89dd60de96e392f1dee88697f64cee5#rd)
+    - 时间：2022-10-11
+    - 摘要：掌握高效实用的情绪管理方法
+- [#抑郁症不是简单的坏心情# 有些人，会微笑着抑郁。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742864&idx=1&sn=f52d5c98bc4873632d2c23ac50019877&chksm=9fc91cd4a8be95c21b0883359a360d34698864b0a1d1a495447fc95451a7faf81d5a0469873d#rd)
+    - 时间：2022-10-10
+    - 摘要：抑郁症患者和他们的人格伤疤
+- [你对同性的感觉，是爱情吗？丨性取向测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742864&idx=2&sn=492d70fbe2bd2310cc513166cb0ed0b2&chksm=9fc91cd4a8be95c2b562f20c8cf12dbb2520d5fe476da4fcfb07b5ae435f26fbf735abb89fab#rd)
+    - 时间：2022-10-10
+    - 摘要：你可能没有自己想象得那么“直”......
+- [躁郁症是抑郁症的一种么？丨精神障碍入门必读系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742864&idx=4&sn=72220febccf13162848d51b2ac1d368a&chksm=9fc91cd4a8be95c2dc6a658b380e9260b47b7ad612467fd386be02d22473572225e8568fa4f3#rd)
+    - 时间：2022-10-10
+    - 摘要：心理咨询精英入门课程+配套实践
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742864&idx=5&sn=0e857eb5550fe87db6659dd6d574b24c&chksm=9fc91cd4a8be95c2a00eaad6cd2a7110aba7335ff7fab7cdfee9de59a4879764e112eeb7a3a3#rd)
+    - 时间：2022-10-10
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [来看大家夸自己：一个也许普通，却让我自豪的小优点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742791&idx=1&sn=a2bad03feeff0a3e56032d923b70df29&chksm=9fc91c03a8be951509475cd2442b574eb217595ebadca2b806a00b88a6b22e5ddad62ab94ce2#rd)
+    - 时间：2022-10-09
+    - 摘要：每天多喜欢自己一点点
+- [【防渣指南】如何识别PUA？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742791&idx=3&sn=5f1a6bc02edf0525fb7bf92a75ec8880&chksm=9fc91c03a8be9515c208ebefd4e9d79772cb01af0f6e4dcb4012dd15ac5feb91715fec422c43#rd)
+    - 时间：2022-10-09
+    - 摘要：测测你被PUA的可能性有多大？
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742791&idx=7&sn=b8e307f71c5867523c38bc8401cc1748&chksm=9fc91c03a8be9515b5aa341d16915d7be12b55a9e08efb4f8618bc119e35b3eda51c2012e1f6#rd)
+    - 时间：2022-10-09
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [从小缺爱 vs 从小被爱，最大的不同在于这一点——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742743&idx=1&sn=6583509ecb1853af4ab40e012eafe707&chksm=9fc91c53a8be954507a6191a9bd855f9a0aeb59b74b66b03db984ba5337194bf63de202597d2#rd)
+    - 时间：2022-10-08
+    - 摘要：小时候缺爱并不能等于永远缺爱。
+- [如何成为可以在家办公的KY心理聊愈师？丨萌芽13期团购价优惠进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742743&idx=2&sn=dd9d20cc22c11347871fa554f92252bc&chksm=9fc91c53a8be954594363b8e87f26b027cd2a12b6db466a1642e42708a8d254b3e4a5d2d6aee#rd)
+    - 时间：2022-10-08
+    - 摘要：心理咨询精英入门课程+配套实践
+- [杨幂：厉害的人，早就戒断了情绪 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742743&idx=3&sn=ffd64ca42b61f0a9669d8a1779d1bbf3&chksm=9fc91c53a8be95456155ba152dbc02dfa0da2ebecb44ff1be53b02c22b23214874f1f3018291#rd)
+    - 时间：2022-10-08
+    - 摘要：掌握高效实用的情绪管理方法
+- [Ta出轨了，我该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742743&idx=4&sn=a5f54c4dfbe02f7b6515017560c96d64&chksm=9fc91c53a8be95455b4feddb0ca1215e72e1290275f78f5c7d57271f0c4e73e450c407b6b209#rd)
+    - 时间：2022-10-08
+    - 摘要：Ta的出轨，带走了我信任的能力
+- [「内心成熟而独立」的人会有的6种表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742714&idx=1&sn=f00a5261270175ba237fe0a04b3d4527&chksm=9fc91dbea8be94a833548bc4cc4f63ff178e70bbc30b9c10dcba613a212f1524d4a487eaca10#rd)
+    - 时间：2022-10-07
+    - 摘要：这才是真正的成年人
+- [国庆钜惠最后3小时丨即刻开抢，你需要的心理好物更划算了——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742714&idx=3&sn=0e19ff328253b64dcbbbbe1c2a103886&chksm=9fc91dbea8be94a85bd2734916633d930aa6f253c4ab87b4dbcd8b54e9ae3c039240a5864c39#rd)
+    - 时间：2022-10-07
+    - 摘要：KYer抢到断货的心理好物补货啦！国庆限时优惠 ——
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742714&idx=4&sn=25ac380c3a55222a46b383630c41c6ba&chksm=9fc91dbea8be94a842dd7375c1df00d1678329eeb1aef1a5e443da844cfb75df3c552255518f#rd)
+    - 时间：2022-10-07
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [你对爱情的错误期待，正是恋爱不顺的原因。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742714&idx=6&sn=f0824ed50010fa94c1d826e596a1c9e0&chksm=9fc91dbea8be94a831c7b988a2f720154c681105c58e3080363e7bb47d6b1030c9eaea25b017#rd)
+    - 时间：2022-10-07
+    - 摘要：你对亲密关系的期待是什么样的？
+- [「我的精神每天都在裸辞」能帮你找到理想工作的6件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742704&idx=1&sn=7ce631aae7b842581102f18368df0a0a&chksm=9fc91db4a8be94a2c7c16afe840f417faf81b562ee258bb128b7dbd65adcf009037195a18140#rd)
+    - 时间：2022-10-06
+    - 摘要：特别适合年轻职场人看的综艺
+- [搞清这一点，是找到“对的人”的前提——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742704&idx=2&sn=fa2995b238ce75902f90e478195f7923&chksm=9fc91db4a8be94a2d17450e3b0e7d1b396b23b4a8fcaf195fb4d1520f79871a3ac5041245854#rd)
+    - 时间：2022-10-06
+    - 摘要：​明确择偶标准，找到“对的人”
+- [在亲密关系中，“好好吵架”可能比“和平相处”更重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742704&idx=4&sn=f4bdecc7c94d17fd117a5ca89009c0d4&chksm=9fc91db4a8be94a2d2ebee892a97aca7e5e56d638869d9ee7be894fbdbc541b78301ac29c090#rd)
+    - 时间：2022-10-06
+    - 摘要：心理咨询精英入门课程+配套实践
+- [你的拖延算不算“拖延症”？（附拖延应对办法）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742704&idx=5&sn=7168ff4ac395d1efdd0082c8f5cf735b&chksm=9fc91db4a8be94a2a7f809905ec2c86012f8da5d79b558d0fb3f789ff453b407c63e1f71e406#rd)
+    - 时间：2022-10-06
+    - 摘要：对于想做的事，最好的时间点就是现在。
+- [「恋爱脑」的定义到底是什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742696&idx=1&sn=6d61a118090841e465478720a8ebf292&chksm=9fc91daca8be94ba93f8441c563f545e6ed0236c837111b44d7dfce2ad943fa63207edfcfd67#rd)
+    - 时间：2022-10-05
+    - 摘要：放下助人情结，尊重他人命运
+- [被10万KYer抢到断货的心理好物，国庆优惠最后2天！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742696&idx=2&sn=3fcf7835e65de9a7486dcda190b25189&chksm=9fc91daca8be94ba05d85e4e5833d71f3804a6e2e84b695f0603584a334252c52bb7d582c87b#rd)
+    - 时间：2022-10-05
+    - 摘要：KYer抢到断货的心理好物补货啦！国庆限时优惠 ——
+- [爱情健身房：这里可以锻炼「谈恋爱的能力」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742696&idx=3&sn=a59c05e9d569a8c0a3dd4724b196d7de&chksm=9fc91daca8be94ba6f901d84284cc380c923767bd5dafef35e818b21c18ab84fc6ddcc4b6ad1#rd)
+    - 时间：2022-10-05
+    - 摘要：你可能不知道，爱与被爱都是一种能力。
+- [做爱时，约有一半的人在想着别人？来看冷门性知识研究](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742691&idx=1&sn=b83bf4b491d00da6ebd5c7d9b63e45e7&chksm=9fc91da7a8be94b17ac8400288a00474f4d83b0848f053ce7f21c2c10da24016dfb225077e9d#rd)
+    - 时间：2022-10-04
+    - 摘要：看看你能答对几个。
+- [十条亲密关系避坑指南，先学习再实践](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742691&idx=3&sn=f592fb23a6ea3e56a443236435a01dda&chksm=9fc91da7a8be94b1535cec8cfda14f9f7e62c2486493b93648f4b380cb478d05e8d06acfc892#rd)
+    - 时间：2022-10-04
+    - 摘要：心理咨询精英入门课程+配套实践
+- [原来，成功与幸福的钥匙是…… ｜5分钟带你重新投入生活](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742691&idx=5&sn=616606c21283adfd193cfe6b165695ed&chksm=9fc91da7a8be94b19e27e6ab8ee7cc26753d9ab4a4ee751a7f1886ab3575afd251e7fa33ae26#rd)
+    - 时间：2022-10-04
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [杨幂：厉害的人，早就戒断了情绪 ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742691&idx=6&sn=b47ffa088ae880046c86d0c412f98cd4&chksm=9fc91da7a8be94b1cbf3f688f30d2b1995c1d847bb81f8bc7de2c335bb13f23ccf5ad838f81f#rd)
+    - 时间：2022-10-04
+    - 摘要：
+- [亲密关系中最该防的，是这种“情敌”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742660&idx=1&sn=ce632e62672eb619684fc3dd0331cc7b&chksm=9fc91d80a8be9496e8487de00ecbaa06102bda6a657373372790cd94d15291e196b5e268a137#rd)
+    - 时间：2022-10-03
+    - 摘要：慢性压力会摧毁关系。
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742660&idx=5&sn=60408905a76543073c68c5fe8c10ae1e&chksm=9fc91d80a8be9496728133aa584161a2ecfdeec3cad10608fa7a4e2d8d66b3d61a4328fe3d7b#rd)
+    - 时间：2022-10-03
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [上次哭着错过优惠的，KY爆款好物国庆限时折上折！速来——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742660&idx=6&sn=273e4a372975773632ca497735ecad97&chksm=9fc91d80a8be9496c5588f3d3790b9efe9fbb602bfa9e273c62fa6da47ebb17b8c7f21d96c73#rd)
+    - 时间：2022-10-03
+    - 摘要：KYer抢到断货的心理好物补货啦！国庆限时优惠 ——
+- [如何更好地克服你的“性格局限”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742660&idx=7&sn=25cc503042031452c7d167ede1a9ac0d&chksm=9fc91d80a8be94967b84ae5787401f5cda7f0d2859870f38de12a43fd401d4f4531f0feae927#rd)
+    - 时间：2022-10-03
+    - 摘要：了解自己的性格，有助于因地制宜地发挥性格优势。
+- [害怕别人对自己有所期待，该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742660&idx=8&sn=b518522a00ff3f8313517455e229155a&chksm=9fc91d80a8be94967f14bd0209aea8728b45d95c5e490c8358d4c541c270329ff122330c2030#rd)
+    - 时间：2022-10-03
+    - 摘要：
+- [一段「值得继续的关系」在生活中会有这8点具体的表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742629&idx=1&sn=06dce91e6acb524e83547013f8779327&chksm=9fc91de1a8be94f7192f4d1240342ed96a74bb90d2d86a54db44b83d32c66e574af4ea306eab#rd)
+    - 时间：2022-10-02
+    - 摘要：纠结“分手”还是“磨合”的人，速进～
+- [决定你人生难易程度的，是你所拥有的“内在资源”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742629&idx=4&sn=7039b37381b982b6e855014f47d2faa5&chksm=9fc91de1a8be94f7d18ada444f1dc4713c0fe7702e5daed446633ea972dbb88ecf604d25b929#rd)
+    - 时间：2022-10-02
+    - 摘要：心理咨询精英入门课程+配套实践
+- [我喜欢Ta，但不敢让Ta融入我的生活。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742629&idx=5&sn=1204f0f1060f33b12c6ad471b889e702&chksm=9fc91de1a8be94f7ab80817dab1582dbbd0e8146107018379a672216c3bf0b5bebe3e513267d#rd)
+    - 时间：2022-10-02
+    - 摘要：你在恋爱中有亲密恐惧吗？
+- [免费领取丨改掉【熬夜晚睡】的关键，其实只有一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742629&idx=7&sn=fbf6ee01c6a7649d050c3e847973f128&chksm=9fc91de1a8be94f70fbab51876a178be7b7bd68a37af474e77d7247fd840b2981b81676311ce#rd)
+    - 时间：2022-10-02
+    - 摘要：改善生活质量，从睡个好觉开始~
+- [我们问粉丝们生活中「情绪价值」从哪儿来？竟然有25种不同的来源——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742593&idx=1&sn=e6a514104acf58cc10bd243198a7f7b6&chksm=9fc91dc5a8be94d38056e0a15ce718d75a555ca4687c180a79991f2ab2b80ceea32f053a73b1#rd)
+    - 时间：2022-09-30
+    - 摘要：其实生活没那么糟
+- [讨好型人格怎么说“不”？丨Girls Night睡衣夜聊大放送](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742593&idx=3&sn=b0a1fed9dda64eae500b87828cc8daf8&chksm=9fc91dc5a8be94d39d4d797b092b145e2cef5c3e57870a31f842768fbe3c5aebcf42d025209d#rd)
+    - 时间：2022-09-30
+    - 摘要：“不”字怎么那么难以开口，该理性果决，还是迂回包容。
+- [国庆怎么过？来KY遇见你的「72小时陪伴伙伴」丨假日匹配来袭](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742593&idx=4&sn=83bba53cb1e97227d24de307ae0881ba&chksm=9fc91dc5a8be94d341abca92e64f9fa6f66ceb80cc70e9084d7eeb7a3cc3d45d9b703e032445#rd)
+    - 时间：2022-09-30
+    - 摘要：申请做你的十一限定伙伴。
+- [996打工人如何保持生活中的“自由感”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742593&idx=7&sn=776f683d4b9d0ca92268e34960783dfe&chksm=9fc91dc5a8be94d31621201df229c5c7308b07e3e4e870b788da460f604efbc2a364f54e5522#rd)
+    - 时间：2022-09-30
+    - 摘要：
+- [「关系中不主动」的6种可能性](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742259&idx=1&sn=f7897231451c265609749ec84462f1a9&chksm=9fc91a77a8be9361942ff6a0d487de43767648eb545e03f58b69fe5d00afbbf791b9ee81ccfb#rd)
+    - 时间：2022-09-29
+    - 摘要：别把关系看成了一场「我vs.你」的比赛。
+- [为什么说内向不是一种性格缺陷，而是解锁成功的宝库？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742259&idx=3&sn=dbe98c6509ed0541d97d331a5dd37668&chksm=9fc91a77a8be93614b5ef12878f01f49c43ed1bda417a6686d28d7d35dbb4d1a7aa59de2ef35#rd)
+    - 时间：2022-09-29
+    - 摘要：心理咨询精英入门课程+配套实践
+- [这个国庆来KY遇见你的「72小时陪伴伙伴」丨假日匹配来袭](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742259&idx=4&sn=ed4853fae3be9e3545b1c114f5ca808b&chksm=9fc91a77a8be936170e1fb8c85d9defbc4f0afda9f9ad6733ce9b7c84a9d3ebff6b315931d82#rd)
+    - 时间：2022-09-29
+    - 摘要：申请做你的十一限定伙伴。
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742259&idx=5&sn=a16fd2025fe9d9491972d52995e12484&chksm=9fc91a77a8be9361411e549f87c4b2152a87a1dc22d620b31f7e291b18148a1836ab3573d501#rd)
+    - 时间：2022-09-29
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [探索家、统治者、外交家……哪种性格是你的“出厂设置”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247742259&idx=6&sn=da6dfc81692182f80ad70557581e48ae&chksm=9fc91a77a8be936119df1371c2c8c9af3462427b9d02566840aeff52fdbde6b5590170a4b91d#rd)
+    - 时间：2022-09-29
+    - 摘要：这份测验，助你发现内心深处的人格秘密
+- [该不该看伴侣的手机？丨一文说清亲密关系中的坦诚与隐私](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741928&idx=1&sn=8c918b1e62f46571b592cd6ee9ea2b5b&chksm=9fc918aca8be91ba9bdc3b43b66ff93315d2e8f335b84db923387e571aa990a259284d34eaf1#rd)
+    - 时间：2022-09-28
+    - 摘要：坦诚并不等于真诚，隐私不等于秘密。
+- [警惕！这6个行为在给你的亲密关系亮“红灯”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741928&idx=3&sn=483b1e462befc5e98f088b342e10c4bf&chksm=9fc918aca8be91ba1c50a33eb3eda0eca024a2d351e4538c118b6c14de18720efcdc6378c739#rd)
+    - 时间：2022-09-28
+    - 摘要：出现这些不良信号的亲密关系，还有继续的必要吗？
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741928&idx=4&sn=757c0b15fa6a0aa866949f127d5d23a9&chksm=9fc918aca8be91babb0532200764497bc3966b80ad77e442759869b18ad0cc998bf0bd430aa4#rd)
+    - 时间：2022-09-28
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [如果你在爱情关系中常常感到不适，可能是「依赖」出了问题](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741928&idx=6&sn=9273b8a8007240fe0f2218e6e657806c&chksm=9fc918aca8be91ba94d120a067722919e167682b4225c894ecd965910e8f933385ffa069596a#rd)
+    - 时间：2022-09-28
+    - 摘要：适度依赖，让爱情舒适和长远的秘密。
+- [我为什么不同意「先把自己修复好再谈爱情」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741814&idx=1&sn=5e19401915f0eed2c2b17f372a2a2b76&chksm=9fc91832a8be91247579c4da34099f14f568f923bcc5534ec8d77e2825733b2ca184719690c7#rd)
+    - 时间：2022-09-27
+    - 摘要：爱本就不完美
+- [“很多道理都懂，却依然过不好这一生”，心理学告诉你为什么 | 萌芽13期团购价进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741814&idx=2&sn=37d639d04287c90d4cd6f5ad3d868a17&chksm=9fc91832a8be91248540a58a38e56061390935cbcf6e98f1a46ce17c228841aae12493f5020c#rd)
+    - 时间：2022-09-27
+    - 摘要：心理咨询精英入门课程+配套实践
+- [同一件事，我和恋人的感受为何天差地别？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741814&idx=4&sn=5264da87b83ab378672cb1937aa067c5&chksm=9fc91832a8be91247e7d6abe3b66af1b815375339fdb111df49e3e36383999b0c8e9f9c4cd07#rd)
+    - 时间：2022-09-27
+    - 摘要：测测依恋类型，破解你的恋爱迷局。
+- [5分钟解锁告别焦虑的小妙招，做一个对幸福更敏感的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741814&idx=7&sn=1340af36e92b00a2e0aad2bc13338a01&chksm=9fc91832a8be9124002a0fc6fe9e23f8e1359220fef0def5515674a55dc7b407ddb181e84161#rd)
+    - 时间：2022-09-27
+    - 摘要：每一行字都是与自己的温暖相拥
+- [什么样的人需要和适合「一生只爱一人」的承诺？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741365&idx=1&sn=d7fa7151f4305246c16a559c1e8f3565&chksm=9fc906f1a8be8fe71a8c71169c65f5ebb6344353a1341d298d7a80c05ba52c946ef5dc37e665#rd)
+    - 时间：2022-09-26
+    - 摘要：深度承诺的关系是不可替代的
+- [“活着没意思” 丨连咨询师都无能为力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741365&idx=2&sn=c1663191cd7091d30117d0404fede184&chksm=9fc906f1a8be8fe79ed7fbeb579f01fe38f2b6eca6313023f594922888aaac229e410cf72546#rd)
+    - 时间：2022-09-26
+    - 摘要：找到生活的意义，从做这件事开始
+- [爱的人在哭泣，我却只会说“别哭了” 丨如何成为一个有“疗愈力”的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741365&idx=4&sn=448f5668bc956226bf2f01619caf622e&chksm=9fc906f1a8be8fe7aed4d4dc390646191a31457d0a474daf75525ed91ae80bd7374238c2d06a#rd)
+    - 时间：2022-09-26
+    - 摘要：心理咨询精英入门课程+配套实践
+- [这些原因，造成了你的恋爱不安全感。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741365&idx=7&sn=c6d4d00eb5bdb38c1dd6f901409b428d&chksm=9fc906f1a8be8fe72c3ef63e29363c99c47a4bddab3a4fcc91e4294c048e4b1d1abaa2197233#rd)
+    - 时间：2022-09-26
+    - 摘要：在担心你的爱情吗？
+- [“精神辞职”的职场人，只能自救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741365&idx=8&sn=c3425723af5538771b708936a7c3d355&chksm=9fc906f1a8be8fe76ca6ed6e72f51428d53eb5d608935932ebc22ddcd7c6f3b5415838053f21#rd)
+    - 时间：2022-09-26
+    - 摘要：想躺平的话，请认真躺平！｜职场身心可持续倡议
+- [研究发现：有攻击性、绝不讨好、自我决定的女性，浪漫成就更高。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741040&idx=1&sn=304989bdd02a72621c93d279b5ea5bf1&chksm=9fc90734a8be8e22bde6f5b61dc556a4002920d82fde51f4d783681ceedb4eb4e4ae8aa6fc66#rd)
+    - 时间：2022-09-25
+    - 摘要：每个女生都要做自己的主角
+- [16种爱情核心需求，你最看重哪几种？快测——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741040&idx=2&sn=b6248ccdda9da02ae2871517c7e63fa9&chksm=9fc90734a8be8e221901ce06bdc150eb2601c97441fb2e2745316c0dbc20549c5d558263caf4#rd)
+    - 时间：2022-09-25
+    - 摘要：在爱情里，你最看重的是什么？
+- [你是什么样的“依恋类型”，就决定了你在恋爱中有什么样的表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741040&idx=3&sn=7cbe9355aa4d099a2f9e34347c821a68&chksm=9fc90734a8be8e22d371b96090701c68af985ab532a159d0dc5fbd80c1402c5e7ba280a170f1#rd)
+    - 时间：2022-09-25
+    - 摘要：探索进入心理行业的最优选择
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741040&idx=4&sn=369efadcf9c1536e7b0a9bf400e5df30&chksm=9fc90734a8be8e22f1af706e9eba33acff5b50646e3231f62f3002c83cc284bdecbbc6128e96#rd)
+    - 时间：2022-09-25
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [因为TA们，我成为了我｜5分钟带你回顾生命底色中的那些人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741040&idx=6&sn=84d9e307ed78567da8304c21ca4292cb&chksm=9fc90734a8be8e224075021444c094933792e2e6ac6d44d457f8e5a0ebcad67bc11837c4c257#rd)
+    - 时间：2022-09-25
+    - 摘要：每一行字都是与自己的温暖相拥
+- [一个“找到自己”的人，究竟是什么样的？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247741040&idx=7&sn=bb339f22b947541b16bb56a1ea8b7050&chksm=9fc90734a8be8e225f5813ad9ac5811cde4f610b93073731347b9f66caa5d232de63d6f43f3b#rd)
+    - 时间：2022-09-25
+    - 摘要：​科学测量你目前的自我认同状态。
+- [「男性结扎」：一种被严重低估了的避孕方式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740928&idx=1&sn=67503cc2bade4987527f0c6fa2e842e1&chksm=9fc90744a8be8e5207d658283e76a0ffc138907557195d0e6fafbe84df355941a95fd4748d33#rd)
+    - 时间：2022-09-24
+    - 摘要：全网最全研究，必看
+- [7个月进入心理行业，收获居家兼职机会 | 萌芽13期早鸟价倒计时最后1天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740928&idx=2&sn=725ddfbbd1add9ba7d186ecd41b96f87&chksm=9fc90744a8be8e525014b1c1667fda8d98fcfb6fb0ddcbee74f60a90551fb1056095b0e21fb9#rd)
+    - 时间：2022-09-24
+    - 摘要：探索进入心理行业的最优选择
+- [一个人的“逆商”如何，主要看这几点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740928&idx=4&sn=82a5073b5309396378bd2bf1f3a873e7&chksm=9fc90744a8be8e5248ef3d8bd6ad0645bc194a0ee9f8a2c1337031efbc8266d9436245ddcf6e#rd)
+    - 时间：2022-09-24
+    - 摘要：逆境重生的能力，你具有吗？
+- [24小时陪伴，谁说你不能有「私人心理咨询师」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740928&idx=5&sn=1f97a696767aa3df59afb146800d3edc&chksm=9fc90744a8be8e523961cdf4757413b667eda890c2f9b6353183ddc4d8852b4824621d0016b4#rd)
+    - 时间：2022-09-24
+    - 摘要：快速从痛苦和烦恼中走出来，只因我做了这些事
+- [为什么ta总是对我若即若离，忽冷忽热？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740928&idx=8&sn=99f89d2389f024a3c5c49ce3391ab9c9&chksm=9fc90744a8be8e5252a52057f4e3e794d99bc80c728633b61a55a878edf285d5486d81c8c4c8#rd)
+    - 时间：2022-09-24
+    - 摘要：
+- [“21个房思琪的血泪控诉”：权势性侵受害者](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740886&idx=1&sn=6bdfb8ee3db0be296b1d79d5a3539b84&chksm=9fc90492a8be8d8483e298ed02547bfac4b17ab3b10b8b97c0a20c419ce3746f3721f099bccd#rd)
+    - 时间：2022-09-23
+    - 摘要：为受害者发声
+- [聊愈师究竟是心理行业怎样的兼职机会？现场演示给你看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740886&idx=3&sn=4ce42b7311135fae0dfb8b83ca772b86&chksm=9fc90492a8be8d84210d96c1d6e87b205fb48636aeef0da0bef717e107b1d37cbe88ad8dc5be#rd)
+    - 时间：2022-09-23
+    - 摘要：本周日直播，预约不错过
+- [摆脱空心、焦虑、无意义…心理咨询师都在实践这个方法——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740886&idx=4&sn=fea32979e0acc7e6d42e2829b763e1d7&chksm=9fc90492a8be8d845be79b7e85bc115437873ca63f49c439391c75d69406afc440c5eddadd5c#rd)
+    - 时间：2022-09-23
+    - 摘要：快速从痛苦和烦恼中走出来，只因我做了这些事
+- [用你眼里的秋天，交换一个新朋友 丨 KY限时匹配活动来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740886&idx=5&sn=23015165efc4a659a8df6f3d086eaf8a&chksm=9fc90492a8be8d843726061828a685bfe6a207b06db75867fcd823568aaab3c90e6699e8120d#rd)
+    - 时间：2022-09-23
+    - 摘要：在这个秋天，和新朋友见面吧。
+- [还在纠结要不要小孩？你一定要先问自己这些问题——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740886&idx=6&sn=4e0092a11300d621de7d536ff91e2af8&chksm=9fc90492a8be8d84db644d294079dd4fc412c13ad86482b6e870682fc3323a87912375f11a9f#rd)
+    - 时间：2022-09-23
+    - 摘要：叮~你的专属生育准备指南已送达！
+- [《脱口秀大会5》离婚吐槽火了。我们请了4个离婚者来给未婚一些建议——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740526&idx=1&sn=a7208a53038e5245a55c5f956760ffc6&chksm=9fc9052aa8be8c3c0847bcd513ad9240b4fd788719ae0a484bc878988c2cda25fcc09a01ffff#rd)
+    - 时间：2022-09-22
+    - 摘要：离婚的人想告诉未婚人士的真心建议
+- [连心理咨询师都在疯抢的emo克星神器丨KY嘉年华限时优惠](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740526&idx=2&sn=e1e40b73d26f5162795af3986b5d9fc5&chksm=9fc9052aa8be8c3ca25678d7db9c0311acb7bbb2c29915c58d806344c9206f88f4cf46a24a5c#rd)
+    - 时间：2022-09-22
+    - 摘要：快速从痛苦和烦恼中走出来，只因我做了这些事
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740526&idx=3&sn=16a4f7cb6c1d3d575869a4e48ba51893&chksm=9fc9052aa8be8c3ca0f235b89202175519e67dbd8251b8f29801044e5ad518526c9a8e848b88#rd)
+    - 时间：2022-09-22
+    - 摘要：探索进入心理行业的最优选择
+- [你的防御机制，是否正在阻碍你成长？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740526&idx=4&sn=726d92641e3eab4e9cff9aa1a75def7e&chksm=9fc9052aa8be8c3c3d8a821f1b7aeb3a6b59241605a98ba7d89cf7f90f8f0a6eee6148d73398#rd)
+    - 时间：2022-09-22
+    - 摘要：16种防御机制，你是哪几种？
+- [用你眼里的秋天，交换一个新朋友 丨 KY限时匹配活动来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740526&idx=7&sn=9a495edd902f5e05e9333ea58c992c2f&chksm=9fc9052aa8be8c3c72c0ac6ae423fdbf321c695169b94dbf1b97493e7701318ad51e90bb459d#rd)
+    - 时间：2022-09-22
+    - 摘要：在这个秋天，和新朋友见面吧。
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740526&idx=8&sn=bb91b9de8b76188fccca9e96520ac770&chksm=9fc9052aa8be8c3c9b90cb50f0c0562d3e7a0160d0eb3a9801e8a6c732196b8300c687b53748#rd)
+    - 时间：2022-09-22
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [「治愈生活」的35件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740313&idx=1&sn=44ae9fe29b9b1370f7301e53713a24aa&chksm=9fc902dda8be8bcb8453f588d1663f4b29adb1096112853c92d5519f4f066a8296cb8890ea23#rd)
+    - 时间：2022-09-21
+    - 摘要：“你要283万还是要姐姐？”“姐姐。”
+- [这些阻碍脱单的原因，你中了几个？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740313&idx=5&sn=92e5c9f0539a8652b492f73d6d425e07&chksm=9fc902dda8be8bcbd996fb8e61b4480ea5f304d0650fcf291a7909185f9af38ee47e0b1d3e03#rd)
+    - 时间：2022-09-21
+    - 摘要：你可能缺乏了“恋爱的能力”。
+- [真的有男生更喜欢“作”的女生吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740209&idx=1&sn=38b171411edf29e1bfbec0eebe2d0deb&chksm=9fc90275a8be8b63e36a07187342164c79cc8be5c9e1182eb4dab22af08a57e2030282a70ba5#rd)
+    - 时间：2022-09-20
+    - 摘要：小心“作”走爱情
+- [进入心理行业，获取线上从业机会，重塑你的职业发展新形态丨萌芽13期早鸟价结束仅剩5天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740209&idx=2&sn=f6c73ad3a788db613300aee0a128d0f1&chksm=9fc90275a8be8b638293504c6e16d2cdd9307d1df5ede22dbc4dd5b3c2e74d02a86408d7c628#rd)
+    - 时间：2022-09-20
+    - 摘要：探索进入心理行业的最优选择
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740209&idx=3&sn=0ce65f9a542de50984a0e6be089e7818&chksm=9fc90275a8be8b63babc8aea93dbba9cc2257d4ac9c2708877deac889ed61a7022731cdd8e75#rd)
+    - 时间：2022-09-20
+    - 摘要：在《人生必修课》里，藏着你截然不同的活法
+- [同是名校毕业生，职场发展却天差地别。原因竟是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740209&idx=4&sn=5f77b528852caabb814a57af9a9a7480&chksm=9fc90275a8be8b632b413f407edf2bc4d6b4a628148838fa9dba4b63951c29f19846f34703df#rd)
+    - 时间：2022-09-20
+    - 摘要：一份给打工人的测试。
+- [太在意对方会杀死关系，爱情里你必须「松弛」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740128&idx=1&sn=06ff5f807c1429a902d4f8321e16168e&chksm=9fc903a4a8be8ab2d0f5b95b41a90729d0559b4aaf5cec51d9f3aaaabaedf72fab4b6598a4c5#rd)
+    - 时间：2022-09-19
+    - 摘要：高阶亲密关系理论
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740128&idx=6&sn=9c230bb7269d34ce237497587374db07&chksm=9fc903a4a8be8ab2ce9ccab1bf016049fa9f15afffebb93206cf55ff8583d767e44268c41da2#rd)
+    - 时间：2022-09-19
+    - 摘要：
+- [满足这8点标准，才是值得付出的对象——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740048&idx=1&sn=de422db07e96f2c8eeca6a1c44ee68e0&chksm=9fc903d4a8be8ac2009a2735623e8326ba6887ec6f9a7d0b8aea17a8c13b55fdbfa31c77a060#rd)
+    - 时间：2022-09-18
+    - 摘要：付出没回报，可能是因为选错人了。
+- [过往的经历，是否给你留下了隐形的「人格伤疤」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740048&idx=3&sn=7e7858749d04474a75fa9ffeb9399fff&chksm=9fc903d4a8be8ac2646a86d395898671574bee72a7bc9b68aed1354c417aeacaba12419594fe#rd)
+    - 时间：2022-09-18
+    - 摘要：你一直在带着什么样的人格阴影生活？
+- [在《人生必修课》里，藏着你截然不同的活法](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740048&idx=6&sn=f042756e174806044cf3cd7b7540c6a9&chksm=9fc903d4a8be8ac26da5f4909e0bf7373dd7e36c2ec2a7b5e8f19650547df41630fa16b9df84#rd)
+    - 时间：2022-09-18
+    - 摘要：
+- [为什么我总是不敢对伴侣展现自己脆弱的一面？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740048&idx=7&sn=22e286a080c496f1c2ef1c644fe58c36&chksm=9fc903d4a8be8ac26c5c60aed01e0cd37faf371c11e67131e66b99cc400a5cc36241d078f3db#rd)
+    - 时间：2022-09-18
+    - 摘要：
+- [用dating app找对象，如何避开风险成功上岸？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740011&idx=1&sn=21f47644d7d51cdd375d3fb3c175353d&chksm=9fc9032fa8be8a39d0d65e30ee3361a6e3b752df04372493ce6c622bb602f3a7365f1ade7acf#rd)
+    - 时间：2022-09-17
+    - 摘要：
+- [我来告诉你，为什么从事心理行业不用担心失业丨萌芽13期早鸟优惠价即将结束](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740011&idx=2&sn=a779f561d177b2e50885493b498d5064&chksm=9fc9032fa8be8a39825812d26593d735cf005e08b75a62b7d33af3e64e37f6f7adf346d74c4e#rd)
+    - 时间：2022-09-17
+    - 摘要：探索进入心理行业的最优选择
+- [易受他人影响的「敏感型人格」，该如何更舒适地自处？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740011&idx=3&sn=4075490a95415d2eb2f36d5583023aa2&chksm=9fc9032fa8be8a395caa1e2c30ec20254f76b8131c4f2a34a54181a87fe49ef4c14be146f4e9#rd)
+    - 时间：2022-09-17
+    - 摘要：叮~高敏感人群生存指南已送达！
+- [“幸福不是幸运儿的专利。” | 他们都做对了什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740011&idx=6&sn=083fc614a95b1aa8216590e3926cf607&chksm=9fc9032fa8be8a39f69e35b95e98d5f955b6360ef2fd3b609b5f3b754cb72623299dcb7b99e6#rd)
+    - 时间：2022-09-17
+    - 摘要：那些生活得快乐又幸福的人，都做对了什么？
+- [高效的情绪管理课——教你学会不生气](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247740011&idx=7&sn=ffe3cff842501e5cde5890f28031fe6c&chksm=9fc9032fa8be8a3959cf503bdfce1173b47074829691948bb3ec3dd058492a50d9e70770fa12#rd)
+    - 时间：2022-09-17
+    - 摘要：
+- [三十岁以后才明白的「36个人生真相」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739950&idx=1&sn=f332f9fb178e2d3bb634d11e9618faab&chksm=9fc9036aa8be8a7c853e20b76591fe5a94b8a53204799b5a2e14009636c36f8f68706b976ca2#rd)
+    - 时间：2022-09-16
+    - 摘要：比较是偷走幸福的贼。
+- [你有不为人知的「B面人格」吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739950&idx=4&sn=dc1f0279d278f29268f86078ed67b348&chksm=9fc9036aa8be8a7c60d7bd819f083f822f2e3322c51a65a8ea504cce8e782915112fb97f59d0#rd)
+    - 时间：2022-09-16
+    - 摘要：测测你心底的“秘密自我”。
+- [在这个秋日，丰收平衡而充盈的生活 ｜ 上海限定](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739950&idx=5&sn=a572dd44cf32e78876caf23f1dede36e&chksm=9fc9036aa8be8a7c6692f13b73f9eaff5ceebbc18c762dd871669fbfad869b0630f33d639919#rd)
+    - 时间：2022-09-16
+    - 摘要：9月还有超多有趣活动，等你来玩！~
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739950&idx=6&sn=52e6ff7eeb1dbba69992032a0c751008&chksm=9fc9036aa8be8a7cfec80594d47b6dc1d1854a895e0bb8302472fb3b9b9607866c975941a034#rd)
+    - 时间：2022-09-16
+    - 摘要：我想陪你，从入睡到黎明。
+- [长期被焦虑控制，我还有救吗？丨5分钟书写告别焦虑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739950&idx=8&sn=0fdf8105a621135023b092f46fd7de62&chksm=9fc9036aa8be8a7c9a7a693cdec98d6088a009a8c16381b14c6ece27477a8550f8052d8c6160#rd)
+    - 时间：2022-09-16
+    - 摘要：每一行字都是与自己的温暖相拥
+- [一段感情过程和结果哪个更重要？结婚前该聊什么？这里正在激烈讨论——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739608&idx=1&sn=feb9fc4a4ebce1d4da45f6a8c7e95c99&chksm=9fc9019ca8be888a842aaa44cdc7e5db1a6e59d1b61e267b6a3de188b92416cc80a9b5df5733#rd)
+    - 时间：2022-09-15
+    - 摘要：9月新主题上线！更有超多热门主题，遍布36城等你来pick！
+- [搞清这一点，是找到“对的人”的前提——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739608&idx=2&sn=b37172b3fe4b695aca96c4db7e7e1ad3&chksm=9fc9019ca8be888af70dbfeadfb77c32740813c9f4a2e2887ae342b1847f80efa84c06ebc224#rd)
+    - 时间：2022-09-15
+    - 摘要：​明确择偶标准，找到“对的人”
+- [抑郁和8种让你不容易快乐的思维模式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739608&idx=3&sn=2fdfb265bd217d2c06955b9293ce8866&chksm=9fc9019ca8be888abeb3da26cc84aec319c2da2c970c92314a88a10919137718153d3eb7d1db#rd)
+    - 时间：2022-09-15
+    - 摘要：探索进入心理行业的最优选择
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739608&idx=4&sn=9592885cc4b239dd1000969d933db279&chksm=9fc9019ca8be888ab2048538a299625394f6f3cbc7e67b3498cc55fbc3bd0be9e6503e3351ea#rd)
+    - 时间：2022-09-15
+    - 摘要：我想陪你，从入睡到黎明。
+- [职业瓶颈无法突破？用心理学实现“说到=做到”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739608&idx=5&sn=1c0fea257358cf43f91e452dc0c93e30&chksm=9fc9019ca8be888ab9fdf02ec36cd6689e4b8c8ed3620e2dd5e188e18899867dec906c620512#rd)
+    - 时间：2022-09-15
+    - 摘要：本周六直播，预约不错过
+- [还没发生的事就能设想999个坏结局，是你吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739608&idx=6&sn=9e6a5f9b707cc9f3067d88676fd40f46&chksm=9fc9019ca8be888a518f252c053e1ac20e31421382b1453adff42abf7732d69728e770b5eb6f#rd)
+    - 时间：2022-09-15
+    - 摘要：总担心事情变坏？教你一招把坏事变好事
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739608&idx=8&sn=ab2da08a87c2323e0452d1c3fa22e496&chksm=9fc9019ca8be888af3f2b14d94fd6ff17ab864ad360cba2086c65a9491d98d77e2c84e3c6f2b#rd)
+    - 时间：2022-09-15
+    - 摘要：
+- [「可爱男生」的魅力：为什么越来越多女生喜欢弟弟了？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739263&idx=1&sn=2cf68bc3d5e1cfd1203b89381a74b9df&chksm=9fc90e3ba8be872d748c6b29b090f9e605082b77cb414e89b88b7974d375b6975f62aaf0d97b#rd)
+    - 时间：2022-09-14
+    - 摘要：可可爱爱，姐姐最爱
+- [你的幸福感藏在和TA们相处的小瞬间里丨5分钟书写解锁幸福要素](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739263&idx=7&sn=1848d291900e0b50c234ec8f6b6efadb&chksm=9fc90e3ba8be872d1ef63e72edf6f622de2af1604e74dab2e9dba5fb78c01e804451793e0194#rd)
+    - 时间：2022-09-14
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [松弛感是好，但我更想赞扬「不松弛感」。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739149&idx=1&sn=ee684429861b6f65bb5cf6d0cd965702&chksm=9fc90e49a8be875fb6433eda682da5057ccc538c6c782dd23e65b2ac7e4e12ffc2d105c36d0a#rd)
+    - 时间：2022-09-13
+    - 摘要：不松弛也可以
+- [你捧出的真心为何总不被珍惜？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739149&idx=2&sn=54b4ccf56fdb933a643e49894187b97a&chksm=9fc90e49a8be875fac7870534e72ea3c315baf76d25c6dfcb37cab1486d495fa1d8d1ba8aab0#rd)
+    - 时间：2022-09-13
+    - 摘要：爱情里，如何学会掌握主动权？
+- [都说要做喜欢的工作，我怎么知道我喜欢什么？快戳！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739149&idx=4&sn=db4190571d1c79b15dc3d0a6ae2721a0&chksm=9fc90e49a8be875f81293f22575460786e44e5616d752ac662ace9f39eafff79d8446135c7cf#rd)
+    - 时间：2022-09-13
+    - 摘要：你的职业兴趣和优势是什么？
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739149&idx=5&sn=ece36d36b094baedec33626fa5fa25b3&chksm=9fc90e49a8be875f5c9488d97718f5ac5f04cbdfe1535af89797250f383131cb84e96e753f89#rd)
+    - 时间：2022-09-13
+    - 摘要：
+- [闺蜜结婚了，暗恋她十年的我还是没有告白。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739149&idx=6&sn=799b34acd82c1c09e293d05061088585&chksm=9fc90e49a8be875f56e4cc413aaf42273bc57b7aaad1ea65fc5417910f3a0740a272518df302#rd)
+    - 时间：2022-09-13
+    - 摘要：
+- [什么样才算是包含“尊重”的关系？丨 KY小姐姐的小闲话：再议“什么是爱”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739047&idx=1&sn=2578929cf29692794b46868e73655252&chksm=9fc90fe3a8be86f541362092f4d58fbcb859301e1955ea9f2f3b695542f9aecb0bc042e21076#rd)
+    - 时间：2022-09-12
+    - 摘要：缺少了这个，爱也不能成立
+- [若你喜欢怪人，其实我很美丨如何摆脱“正常”的枷锁？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739047&idx=3&sn=8efbb829a845e8c4520c23c09db7698d&chksm=9fc90fe3a8be86f5e5ba6dc9f4c9a64a639012521b19474bf00781e7d89814f0eba971f779e0#rd)
+    - 时间：2022-09-12
+    - 摘要：完成自我接纳，才能获得真正的自由
+- [你能不能分清楚催眠和冥想？记住这条关键信息——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247739047&idx=6&sn=6b404360d180917bddc8b89aac87e82c&chksm=9fc90fe3a8be86f5cba1ae8040321db783883c86c43b9bad72f2b69481388113a94a7444cdc6#rd)
+    - 时间：2022-09-12
+    - 摘要：从冥想的视角，来谈谈催眠与冥想的异同。
+- [总是忽视「做爱后时间」？你错过了增进感情的最佳时机！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738802&idx=1&sn=dbfbdcf9e54f318076ff6420ce15b855&chksm=9fc90cf6a8be85e0b5c97e77ff89cda0fe3e0e2de41fc19587c4ff7260c9eac2dcd727119884#rd)
+    - 时间：2022-09-11
+    - 摘要：快带你的ta来学
+- [遭遇职业“寒冬”？请打开这节职场人的《必修课》](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738802&idx=4&sn=30f72f733b31a8cde6cfea7f81ccd784&chksm=9fc90cf6a8be85e05a87894dc22e8ccc2bcbe2bcf5ae4d152301fd83eea3bb7e68d3e4d2243d#rd)
+    - 时间：2022-09-11
+    - 摘要：
+- [如何判断，Ta是不是陪你走到最后的那个人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738802&idx=5&sn=fe2bc32bd246cb5d0310f2a787ded5e2&chksm=9fc90cf6a8be85e03c2e0d6cf2c3d8289d973880e16bfcc3e355646ef7c7feeadf03127d83b3#rd)
+    - 时间：2022-09-11
+    - 摘要：真正的“对的人”并不会从天而降。
+- [恋综情侣爆雷！难道爱都是假的吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738802&idx=6&sn=7d0372c1ffde37adbfa8257b27c72871&chksm=9fc90cf6a8be85e0957057444aa25aff2b22d1ac69ed3055a7b139fe0f20c2a413aa8220d3c6#rd)
+    - 时间：2022-09-11
+    - 摘要：从亲密关系，透视你的一生
+- [一想到伴侣和ta前任，就疯狂吃醋，该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738802&idx=8&sn=3ffc2018f4eb08b8120d885b4bfeb687&chksm=9fc90cf6a8be85e0564b2f23aecbbb1f9a9eb9255f1710c00def5b314f927f32065c997ae76e#rd)
+    - 时间：2022-09-11
+    - 摘要：
+- [「元气」的女生就是很有吸引力啊！保持元气的tips在这——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738751&idx=1&sn=630737a427fc4936dfbbc354b9c929ed&chksm=9fc90c3ba8be852d226b871764d19ab645e4655c505738daabe4702573bea867baecf91c3b4e#rd)
+    - 时间：2022-09-10
+    - 摘要：赶紧收藏
+- [现在的面试真是越来越有意思了，候选人问的问题还挺厉害的](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738751&idx=2&sn=8e7a303e62380f16e28ce31d2d98c22b&chksm=9fc90c3ba8be852d98b9d5763a1e584eec5cf45fa2c9faec1b5e65f003f9cac17ca889d6671a#rd)
+    - 时间：2022-09-10
+    - 摘要：欢迎带着更厉害的问题来面试我们！
+- [99划算节最后3小时 | KY年度最大爆款「心理功能手帐本」——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738751&idx=3&sn=4bea058021c48c66287eee81c8dbd86d&chksm=9fc90c3ba8be852dd74d623092d0683083efc87e32151de7a3925cfd7e7a87c97a64f62b731b#rd)
+    - 时间：2022-09-10
+    - 摘要：心理功能手账本底价最后3小时，手慢无！
+- [你是什么样的“依恋类型”，就决定了你在恋爱中有什么样的表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738751&idx=4&sn=0b6646eea61112d9d7168e49e033dc23&chksm=9fc90c3ba8be852d3b0bb8f8b5c6ae2c137fc731bca20414335cb05652d712d927fca014c8f4#rd)
+    - 时间：2022-09-10
+    - 摘要：探索进入心理行业的最优选择
+- [中秋小长假怎么过？来匹配一个「假日陪伴伙伴」| KY匹配计划来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738751&idx=7&sn=382d1ff1b5a0808c107c7042d0e4c0a3&chksm=9fc90c3ba8be852d2c3c0fc3b3543bdac6cce3c1c7dc51371f7b8ad2604de2d6d32c5b464571#rd)
+    - 时间：2022-09-10
+    - 摘要：我想借月光，和你见一面。
+- [“不要自降底线。” ｜父母给的37个婚姻忠告](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738654&idx=1&sn=153a645746e1ce0b8cad51117f7411e1&chksm=9fc90c5aa8be854cbcd73b7efbf03c5fc7b28984ea90eb186440c55ec36e44b5750f90a4004e#rd)
+    - 时间：2022-09-09
+    - 摘要：先马克，结婚前必读
+- [中秋小长假怎么过？来匹配一个「假日陪伴伙伴」| KY匹配计划来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738654&idx=4&sn=f7b9d75071ce404585dbc6705e614c20&chksm=9fc90c5aa8be854c3913be0d300f3d18a36448b63e5f792e076295c3705208db24e7aab76dbf#rd)
+    - 时间：2022-09-09
+    - 摘要：我想借月光，和你见一面。
+- [纯净而深邃，零基础也能敲奏的疗愈之音|上海限定](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738654&idx=6&sn=be44fb16dcc73540a373697dbb2c1d49&chksm=9fc90c5aa8be854c448b90d488c5441b356012c09e430d0c8e46acbef1e51361d7385307c434#rd)
+    - 时间：2022-09-09
+    - 摘要：看着像UFO？它的音色也宛如来自宇宙！
+- [拉开你和同龄人差距的43个顶级心理能力——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738654&idx=7&sn=bd0d02bfa46482df9a057dd8ac65a3e0&chksm=9fc90c5aa8be854c3417f406cba6f6e04949c14489c962b52044432f68572bc98ca16d4d8dce#rd)
+    - 时间：2022-09-09
+    - 摘要：
+- [总担心事情会往最坏的情况发展，该怎么办？丨5分钟有趣的小书写](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247738654&idx=8&sn=03779faa0777a48036418b01dbc6c50e&chksm=9fc90c5aa8be854c4f2f613e97275feb564fdbf94d26632c5f892f23a310769590f862f9f5d0#rd)
+    - 时间：2022-09-09
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [7个月进入心理行业，收获居家兼职机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737683&idx=1&sn=3e1465e3616d5ce9f941c0cdce02a90f&chksm=9fc90817a8be81010c48a3e2d9998e9054c6eb147c4493569b88f913810ab2225948f54188bf#rd)
+    - 时间：2022-09-08
+    - 摘要：探索进入心理行业的最优选择
+- [KY年度最大爆款「心理功能手帐本」| 99划算节限时底价](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737683&idx=2&sn=3818cd2f35b25b008e100bd03cd05074&chksm=9fc90817a8be8101f87317a43ca4f6b7e27cf3f2beb268bb493deb5dd35454c57351a82ee642#rd)
+    - 时间：2022-09-08
+    - 摘要：心理功能手账本限时限量底价，手慢无！
+- [搞清这一点，是找到“对的人”的前提——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737683&idx=4&sn=1e87fe22ca4df5f3be10a8d62a1669df&chksm=9fc90817a8be8101e461a536e1d07159fea877d62fbf8f6789bab183a06b98c89ef2beb54789#rd)
+    - 时间：2022-09-08
+    - 摘要：​明确择偶标准，找到“对的人”
+- [将心理行业作为职业选择，是“退路”还是“机会”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737683&idx=5&sn=7df7895c8daa9a6b1904f909106fdf16&chksm=9fc90817a8be810189b8c98a7987aba2f030dbbbbd864b6e0d3cd964a7697fd12a391bd69d8b#rd)
+    - 时间：2022-09-08
+    - 摘要：本周五直播，预约不错过
+- [从小被否定的人，如何学会「理直气壮」地生活？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737585&idx=1&sn=174a90b8463884051002d8d3107ce438&chksm=9fc909b5a8be80a35bf8d5176f88681b9218a766ccb38d6b6128bb8a88718f6456ca331e590b#rd)
+    - 时间：2022-09-07
+    - 摘要：不要再活得小心翼翼了
+- [你知道你有哪些隐藏的天赋吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737585&idx=4&sn=32d71e236110906b9ecb22e7c961d54f&chksm=9fc909b5a8be80a3b553aa3ea097d737a9e49972e4f9b945b1244e6d8eb1f5a52407a461c7f7#rd)
+    - 时间：2022-09-07
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [这次，我终于听懂了陈奕迅的《孤独患者》｜ 周四直播：「用孤独打开社交」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737585&idx=5&sn=505a1a74f8408f9e0cf0f6b387b69dcd&chksm=9fc909b5a8be80a314d5f7e3482d3c110de820e69787de842ee9b940cc371dbbef7e782b6a63#rd)
+    - 时间：2022-09-07
+    - 摘要：点击预约不错过~
+- [亲近自然的新方法？喜静星人必入！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737585&idx=8&sn=535451e913ece8f2998c9e51b12fb4c2&chksm=9fc909b5a8be80a3b3d47c90efa2c323d312f6255493a4aeda6efc652e4d9af9579b9ef6665f#rd)
+    - 时间：2022-09-07
+    - 摘要：让自然去疗愈，让身心去知觉。
+- [高频聊天产生的心动，是错觉吗？KY认真研究了一下——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737207&idx=1&sn=81906699fcc82653db9d91a90a2be375&chksm=9fc97633a8beff250baf567fce869cc267fc00bf9de62dc2296d15f6f52f52aa21be710c3ca9#rd)
+    - 时间：2022-09-06
+    - 摘要：在线等，挺急的
+- [如何成为可以在家办公的KY心理聊愈师？丨萌芽13期早鸟价优惠进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737207&idx=2&sn=850cee3dc882215da80b6012086a5c7f&chksm=9fc97633a8beff25826e4016b7878a6deadb1f9bce3af501f14054ee68921ce5c4463dcb3478#rd)
+    - 时间：2022-09-06
+    - 摘要：一次说清
+- [“我的人生，一步错步步错。”丨选错了的人生还有救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737207&idx=4&sn=5a838ba9a2079b007a5624bc0307e1ce&chksm=9fc97633a8beff250c5947445d8c454e76c479d7c3771a72a1ea3fb384c9cec61c7a1af17063#rd)
+    - 时间：2022-09-06
+    - 摘要：你不一定要做到满分，但需要一本“人生错题本”
+- [60%的异性恋女，都对其他女生有过“性吸引”的感觉——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737107&idx=1&sn=acc8a07c2854eba6ec55e9e2f0992f3c&chksm=9fc97657a8beff417c94d9ae69892373501d0ee9f2331846be4960ff8dc7c56d1ce35d35784e#rd)
+    - 时间：2022-09-05
+    - 摘要：有很多女性，可能都不是「钢铁」那么直
+- [KY版MBTI，终结互联网MBTI混乱。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737107&idx=2&sn=fc0b965a84af3f36df157c58ae6277ff&chksm=9fc97657a8beff413e08124967c59a086f62ea0182095017058add9304b7b8886193d12e0d40#rd)
+    - 时间：2022-09-05
+    - 摘要：​火遍全球的MBTI究竟是不是正经心理学？
+- [长期被焦虑控制，我还有救吗？丨5分钟书写告别焦虑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247737107&idx=4&sn=55d2507204de95926b3273392ce16162&chksm=9fc97657a8beff41f4447338be02520a58f26131b4f306ea184b49e25fbb7b1d06a86c2c0ec5#rd)
+    - 时间：2022-09-05
+    - 摘要：每一行字都是与自己的温暖相拥
+- [“我们在约会。”如何知道有没有可能确定关系？丨一文读懂 Dating Relationship](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735896&idx=1&sn=07dada4c901fb608157346d79b57c3b9&chksm=9fc9731ca8befa0a566aada35ece4ac2dde086eee64d579fe4b9b08953495729f7ad343487e3#rd)
+    - 时间：2022-09-04
+    - 摘要：一文说清Dating Relationship
+- [爱情嘴替“小兰花”的幸福指南，我们都帮你理好了——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735896&idx=3&sn=cc9a16be75ef3007745133f803cd3972&chksm=9fc9731ca8befa0a075abda3b0b2a55aa564feefa2f89faa984eda674b587090a3eb4deeeb99#rd)
+    - 时间：2022-09-04
+    - 摘要：看《苍兰诀》，学爱情和幸福的法则
+- [警告！你的电量已经低于20%｜周末能量补给站](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735896&idx=6&sn=8d102c7abae57c753de9d0433a23986d&chksm=9fc9731ca8befa0a5e04c5375e5dbc616ff9ca2416e3466170adecb6f5aee3668800069fc2d0#rd)
+    - 时间：2022-09-04
+    - 摘要：从呼吸开始，赋予自我生机与活力
+- [成年人最后的单纯，都留给了这只猫](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735811&idx=1&sn=0d76c873057615e3e93d4a5d9c8e27f2&chksm=9fc97347a8befa51b9c98a87586ec203bd226514c7974e94778026578b455bdab2323145660d#rd)
+    - 时间：2022-09-03
+    - 摘要：生前90周年快乐
+- [7个月进入心理行业，收获居家兼职机会丨萌芽13期早鸟价优惠进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735811&idx=2&sn=a6fc3acc4ca5717bd90251a5021e58ea&chksm=9fc97347a8befa51f8cc21f01269cd44b77ae93f0442126328c826b912596774157180bc6e3f#rd)
+    - 时间：2022-09-03
+    - 摘要：一次说清
+- [测测你的“第六感”准吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735811&idx=6&sn=48fc2b7afe8168c2f6f73a965001a109&chksm=9fc97347a8befa51a3a9b0e45fa11534187ac3a03f29917bab97e1be650184850e33638b4639#rd)
+    - 时间：2022-09-03
+    - 摘要：一篇关于“直觉”的专业探讨。
+- [关于未来的答案，其实藏在过去的生活里丨 5分钟有趣的小书写](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735811&idx=8&sn=a502ad3b6c946851418dbd46764a8dc2&chksm=9fc97347a8befa511ac171df410a5a162acc86ce6bde0921536d8221d069625d6197b4a31db6#rd)
+    - 时间：2022-09-03
+    - 摘要：每一行字都是与自己的温暖相拥。
+- [「看起来是缺点，其实也是隐藏优点」的9种性格特质](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735747&idx=1&sn=c80ae2ad30e10a5fdb4b19a5cd3400f6&chksm=9fc97087a8bef9916cd38a0c385f3232de6155d3ef9abb6f32eda011e13e7336caf0ec051505#rd)
+    - 时间：2022-09-02
+    - 摘要：看完会让你爱上自己的一篇
+- [双非二本，凭什么在职场上逆袭名校？秘密就在这里——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735747&idx=4&sn=9241cf6e6588d5a348c0eb8edc22ceda&chksm=9fc97087a8bef99163bf3ffb578387b3b2cbcf72e7e74d301eaf6942f01da0c1ef59e4a9a696#rd)
+    - 时间：2022-09-02
+    - 摘要：升职加薪，这份测试你不可不看。
+- [我，25岁，拥有了80%的人都没有的资源](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735747&idx=5&sn=de75d75378562038061e05636b5714e6&chksm=9fc97087a8bef9917319695b6af348451882be936e3a75724d5384878a030c8ee26cff121a32#rd)
+    - 时间：2022-09-02
+    - 摘要：巨变的时代里，它是我不焦虑的底气
+- [和伴侣性生活不和谐，怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735747&idx=8&sn=33ede0c6731f842c13a2a5920d2d7626&chksm=9fc97087a8bef9918c93177ee5fc279b9315ccf374773d47c07c375c1c01e377496ca569367c#rd)
+    - 时间：2022-09-02
+    - 摘要：
+- [20个关系中应该提高警惕的「雷区」，你踩过几个？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735252&idx=1&sn=bd9f7168b67efadde144f990f3a9b778&chksm=9fc97e90a8bef786ea5f5fda9ff2b0f207f07fff5c5b25ffecfb8fd88dc6be134b1a6f302f4a#rd)
+    - 时间：2022-09-01
+    - 摘要：想有好关系，先要会避雷。
+- [如何拥有一段好的亲密关系？从爱自己开始。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735252&idx=4&sn=04dec1e01e4e4d21b073a98115f84253&chksm=9fc97e90a8bef78637beaa4e2395dbc88d4a21e8f20146bd83ad41d63d8182f3bdad571f37eb#rd)
+    - 时间：2022-09-01
+    - 摘要：
+- [“我已经一年没睡过一个好觉了。” 丨你的睡眠还有救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735252&idx=5&sn=23edbd5f3ecf4222377abc3e0db026b3&chksm=9fc97e90a8bef78685e28d1ded74dbc07c22a57cd6e04d930446aa5dec3b4cbd6395a5214b4d#rd)
+    - 时间：2022-09-01
+    - 摘要：14天帮你获得更好的睡眠。
+- [如何击退烦恼 重拾快乐 ？丨通关秘籍带你探索自我 提升幸福感](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735252&idx=6&sn=c50eff927d8d0fc7ac555fcc4061fe4b&chksm=9fc97e90a8bef786df72b0114407cb1270d2433f882595bf110b69a4596cbd31a039a3ec676b#rd)
+    - 时间：2022-09-01
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [“期待是所有心痛的根源。” 如何对生活和他人抱有合理的期待？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735072&idx=1&sn=18650e856576241fa66c4045ff31d962&chksm=9fc97e64a8bef772fbba8a44f82d57c3d681b8ace1bfac1ab6675e84f5555183f5982bf65ebe#rd)
+    - 时间：2022-08-31
+    - 摘要：不合理的期待，往往是痛苦和愤怒的根源。
+- [想成为心理咨询师？别急，这10件事你必须先知道丨萌芽13期早鸟价启动中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735072&idx=2&sn=f0890cba22baa7ee4567f10511e7ad3d&chksm=9fc97e64a8bef772dae65ff80dc27bf82afc9acdd6abc5eb62696307870a2692936a9e914f35#rd)
+    - 时间：2022-08-31
+    - 摘要：一次说清
+- [“不好意思，我又双叒叕恋爱了。”你会选择快餐式恋爱吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735072&idx=5&sn=58d09bac799050ba9618cdec21372616&chksm=9fc97e64a8bef7729e20b8b29d3f10100680655bca68cc14d78ceb54e8d7f9bca86f2aa1040a#rd)
+    - 时间：2022-08-31
+    - 摘要：
+- [一段今夏的记忆换一个新朋友丨2022夏天最后一场匹配来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735072&idx=7&sn=4fe9ef831e072016cca9f8441c47bf3d&chksm=9fc97e64a8bef772efb5679eb2ff79e93e72ce57e4e8b5fe45fba13c68a5eeec0d762c2088ee#rd)
+    - 时间：2022-08-31
+    - 摘要：“在夏天遇见的，就在夏天告别吧。”
+- [那些总说自己不快乐的有钱人，究竟在抱怨什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247735072&idx=8&sn=24aeb6a2a80479461562e40326fbde36&chksm=9fc97e64a8bef772bda30ef7d13be680bbb9fc896ceed016d63d2a31a5f0ccff4882a582c4db#rd)
+    - 时间：2022-08-31
+    - 摘要：别骂了别骂了，TA可能真的没有凡尔赛......
+- [心还会动，但是爱不动了？来听听大家怎么说。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247734176&idx=1&sn=df1c61c169527bd2b376595bada7f543&chksm=9fc97ae4a8bef3f201de413dfb2218836b703f5e4899fd2c71ec50180fca4c41603402bc09f0#rd)
+    - 时间：2022-08-30
+    - 摘要：怕了怕了
+- [“我已经一年没睡过一个好觉了。” 丨你的睡眠还有救吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247734176&idx=3&sn=2d36797dd15c4ceb0c3680d90b0626a6&chksm=9fc97ae4a8bef3f254364152446717ba8fdb814a1d1c1a90195597544e1a36476fd9e802599c#rd)
+    - 时间：2022-08-30
+    - 摘要：14天帮你获得更好的睡眠。
+- [成年人必备的43种心理能力，你有几种？丨人生必修课共练营 限时领取](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247734176&idx=4&sn=6b855e01443029ffa7b0ce0a8410846c&chksm=9fc97ae4a8bef3f2c88f09baef428093cd1e5e81b1e51343bac194db8c1a9412d417bf1d1f94#rd)
+    - 时间：2022-08-30
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [为什么我做什么都比不上周围的人？｜5分钟有趣的小书写](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247734176&idx=6&sn=82614f16205d8fce8aa435b4b7001d4a&chksm=9fc97ae4a8bef3f2152492a9efce98f8e1a4c5bc3e87c70a0d6b6bcde05b36c1f2562525215b#rd)
+    - 时间：2022-08-30
+    - 摘要：每一行字都是与自己的温暖相拥
+- [关于“心理咨询师”你不可不知的10件事 ｜揭秘心理咨询](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247733892&idx=1&sn=9c97f0e05cdb5476866082826cf6a5ca&chksm=9fc97bc0a8bef2d6b4d7ba3c5676484e535b6d9cbdf78055639ec90a5b2ac328183f2365a2c0#rd)
+    - 时间：2022-08-29
+    - 摘要：一次说清
+- [一失恋就“失魂”？丨如何科学走出失恋的阴霾](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247733892&idx=2&sn=839dd7dd356d1b97b663693245eff006&chksm=9fc97bc0a8bef2d6dd96ba721fb001a1b5b07650caff3aef2ce52e05c1dc4b9c0f3d3c57e8ad#rd)
+    - 时间：2022-08-29
+    - 摘要：失恋的你，需要一份这样的“止痛药”
+- [KY教你用MBTI找到「正缘」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247733892&idx=4&sn=91f618b7dd12359bab47a608f43a93ff&chksm=9fc97bc0a8bef2d68b11966318b52dd2828da2e255113fbdc7bf5fdc2e0ac01cbbedce6af0bf#rd)
+    - 时间：2022-08-29
+    - 摘要：点击立测你的恋爱MBTI。
+- [练习冥想，一定要有宗教信仰吗？丨冥想Q&A](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247733892&idx=6&sn=eb1ad59c70cb6ae881a18ce231689e3f&chksm=9fc97bc0a8bef2d68e20e4f309126a45cd450aa6c0bedab8e69f8d7e8f1f6494e10bb86c5ea0#rd)
+    - 时间：2022-08-29
+    - 摘要：冥想入门级科普，为你答疑解惑。
+- [人际间有一种不适配，叫做「边界感」不适配](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732848&idx=1&sn=e95192829e7eb63235a9589e120f6f31&chksm=9fc96734a8beee2269f60007e7ae5bbc1446208011f2e601e1fd7e343b4b5c0dd4ce058226e4#rd)
+    - 时间：2022-08-28
+    - 摘要：边界不一致的人，不适合做朋友
+- [需要心理咨询师推荐？看这篇！KY合作的咨询师都在这](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732848&idx=2&sn=332bb0d35872c38c6a392a3b9fcfccf2&chksm=9fc96734a8beee227c4b3cb2f2af93ee3367d7c92e2dd838b4a308691c0de64dd40757ba9d8e#rd)
+    - 时间：2022-08-28
+    - 摘要：关于KY合作的咨询师伙伴，你想知道的都在这里～
+- [想进入心理行业的无数个念头，不如开始一个“小小的行动” 丨文末含超值惊喜彩蛋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732848&idx=3&sn=cb9cba0e1b1d1879df210d14558f6695&chksm=9fc96734a8beee229e4d4d86dacd909bc18b294de4b9bd212929bff59941868c7a66c367e381#rd)
+    - 时间：2022-08-28
+    - 摘要：2022，给想成为心理咨询是的你
+- [为什么我越努力，幸福离我越远？丨5分钟有趣的小书写](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732848&idx=6&sn=65879a6e8e8a9567ae7d49647a4c895d&chksm=9fc96734a8beee22e082cd58234938708b952b9e0d807a7467b10bf5d12638ec15b3886c2a45#rd)
+    - 时间：2022-08-28
+    - 摘要：每一行字都是与自己的温暖相拥。
+- [长期关系中，男性和女性谁更容易失去对对方的“性趣”？答案竟然是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732537&idx=1&sn=4021f25d8223e58cd73e49d06b1b840d&chksm=9fc9647da8beed6bebc0cd4a41b35c9a5e4bb4668941cf8567903e3e0ca636a864a6710507be#rd)
+    - 时间：2022-08-27
+    - 摘要：女生的性生活危机
+- [“活着没意思” 丨连咨询师都无能无力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732537&idx=3&sn=a515ec8417ca142c1d989e89b469ba58&chksm=9fc9647da8beed6bd62629b7f3a78118f1e7d0bf61c884fddaf07ea02994c9ffca63164b2df9#rd)
+    - 时间：2022-08-27
+    - 摘要：找到生活的意义，从做这件事开始
+- [上海初秋，来感受梧桐树荫下的冥想课吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732537&idx=4&sn=bf9af90421ad242574013c0844a68a3d&chksm=9fc9647da8beed6bcdba1baf80db2e1a24d080c782b03d78274a4aefcc3060d5958be08115ad#rd)
+    - 时间：2022-08-27
+    - 摘要：
+- [习惯性从自己身上找问题？那是你的消极思维在作怪](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732537&idx=7&sn=37daafc3e43f913d84957faaf6fe2287&chksm=9fc9647da8beed6be1331364da843638c0ad8b06d17b52d7fb056fcd09de51757242349c3f7b#rd)
+    - 时间：2022-08-27
+    - 摘要：​眼前一片灰色的你我，该怎么重获快乐呢？
+- [为什么有的人无法爱上别人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247732537&idx=8&sn=55da993bc066fb986848cc26f9f71e45&chksm=9fc9647da8beed6b8b4e102f5736e7fa934dcb6658ac23ba01c9e8e894036604bc2d5118e23e#rd)
+    - 时间：2022-08-27
+    - 摘要：
+- [不内卷不内耗，从「停止对自己说这7句话」开始——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731896&idx=1&sn=9f15bc14699caaae027f5d8dac2d4587&chksm=9fc963fca8beeaea2c3e4cdb9c1c62d743fdf18df116f8b878452810934e85cabc0028677b1f#rd)
+    - 时间：2022-08-26
+    - 摘要：小心情绪耗竭。
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731896&idx=6&sn=5a288ea0f3bedf5f93acb3769982f392&chksm=9fc963fca8beeaea465dab62484b81cd3526fe764c994bc840e78531296a711f1c20b3f26d59#rd)
+    - 时间：2022-08-26
+    - 摘要：成年人交友新方法
+- [周五赛神仙，周日丧整天？迎周一你需要做好这些事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731896&idx=7&sn=bcbde2552bc5d0f26326685cac8c4c63&chksm=9fc963fca8beeaea96871693e3560f64139daa2a4dea51699bdd24894411b276a35a44e941e1#rd)
+    - 时间：2022-08-26
+    - 摘要：周日晚上心慌，焦虑，烦躁怎么办？
+- [你离找到真实的自己还有多远？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731896&idx=8&sn=798ffa05ec5df207dd0877062546f457&chksm=9fc963fca8beeaea30e98e20855906151ffcd114fa1bdaaefcb170e69589c6ee1a99b666e9e1#rd)
+    - 时间：2022-08-26
+    - 摘要：周一开营：原价69元《探索自我》体验营，限时1.99元
+- [张天爱锤情场惯犯：为什么总有姐妹爱上渣男？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731089&idx=1&sn=c980b6e56d36d6f489c49c5f06c964a3&chksm=9fc96ed5a8bee7c3dfbe2c7d19f4d8e4b29145ce6b9186000d2601cd8f7a945d74c63ef4ee65#rd)
+    - 时间：2022-08-25
+    - 摘要：再见渣男，我独自美丽。
+- [你是“野生”心理咨询师吗？你有做心理咨询师的潜能吗？丨文末含惊喜超值彩蛋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731089&idx=2&sn=198e3de021c811ef1d8778382aa384ff&chksm=9fc96ed5a8bee7c3480af346aae14dde4e4059a4ef8a154ca76b6210e7c98ec58beac397987c#rd)
+    - 时间：2022-08-25
+    - 摘要：2022，给想成为心理咨询师的你
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731089&idx=3&sn=a08f86e7587f9de6697fb683df9d3eb3&chksm=9fc96ed5a8bee7c3592e1e36cb055f55ade582aa390ecbd02ce46e070d1d8738cfbb176f0b7c#rd)
+    - 时间：2022-08-25
+    - 摘要：成年人交友新方法
+- [从迷茫状态里“复活”，动动手指就够了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731089&idx=5&sn=811fe7bef2df1b9280835cb786d4de64&chksm=9fc96ed5a8bee7c317286882e5e95db5eeec9f8f6c15a0cd2e7948a720b3f425157bf7980f61#rd)
+    - 时间：2022-08-25
+    - 摘要：被卡在迷茫里无法脱身，你离行动就差这一步
+- [想要孕育一个快乐的小孩，生育前这份测评你必须做](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731089&idx=6&sn=ddadfd189fef3dff9dc6c3c70b4730cf&chksm=9fc96ed5a8bee7c34f6a0cc1d0c546907a5287b0ee078b1214e6ae7c796dd72c28e23bcf556c#rd)
+    - 时间：2022-08-25
+    - 摘要：叮~你的专属生育准备指南已送达！
+- [拯救睡眠，是拯救人生的第一步](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247731089&idx=7&sn=9ec215b2674b3c4fb60603bec06c85db&chksm=9fc96ed5a8bee7c32de33986f5bfd531c582f391953975c7d750ebcb0868d1aabe0349343030#rd)
+    - 时间：2022-08-25
+    - 摘要：14天帮你获得更好的睡眠。
+- [结婚会带给人怎样的改变？来听听这些“过来人”怎么说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247730822&idx=1&sn=c8fb01901c2df8f1d556a7cf424aa5a8&chksm=9fc96fc2a8bee6d476b3408ece2b54b6d251b4c970d73d3a2655d9895db6957529dc227e2208#rd)
+    - 时间：2022-08-24
+    - 摘要：也就胖了10斤吧。
+- [如何摆脱头脑中那些消极的“碎碎念”？丨5分钟有趣的小书写](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247730822&idx=4&sn=bcaa852a2c584e5be2cdd10a51aaac88&chksm=9fc96fc2a8bee6d4c7e7601db25565ecbb00a5f0506b32f90d57a726cb505ccfaadf3de4433c#rd)
+    - 时间：2022-08-24
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [这件每个人每天都在做的事，正在成为我们的「黑历史」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247730127&idx=1&sn=88451a1dbdc6b357aa303defff0320fa&chksm=9fc96a8ba8bee39df9ada5983724f2fba1c59078e025dea0bf9096601f3f1f46d619850bb6f6#rd)
+    - 时间：2022-08-23
+    - 摘要：互联网考古学
+- [【防渣指南】如何识别PUA？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247730127&idx=4&sn=323275fb13bb988084ea7fbc0256c974&chksm=9fc96a8ba8bee39d4f3e80b38fc6a236e32cdfe9e082c67a97e02be9eeb2aee7ba6b524e1569#rd)
+    - 时间：2022-08-23
+    - 摘要：测测你被PUA的可能性有多大？
+- [“炮友”到底能不能「转正」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729965&idx=1&sn=21eaeec2e8db776ba6f83e6bd09a71de&chksm=9fc96a69a8bee37f5a5adc508b4ffea15b2c11c14943f5c01b6c62298ebe2f2a49a8c2423f1c#rd)
+    - 时间：2022-08-22
+    - 摘要：约出来的爱情，靠谱吗？
+- [爱情里越懂事，越不被珍惜？丨尊重自己才能备受宠爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729965&idx=2&sn=ce77946b5b54f829ce4c6e19a642cbad&chksm=9fc96a69a8bee37f53134ffffbed433a0b2f98eb0690a3faf0e8d3be87a40f64816c85e8bd94#rd)
+    - 时间：2022-08-22
+    - 摘要：尊重自己，才会遇见珍惜你的人
+- [Ta出轨了，我该如何走出阴影？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729965&idx=3&sn=3c8583a51ee6d8391c17a03ce13b0cdb&chksm=9fc96a69a8bee37f529ecc47827a10024bcc4e87b463d6a3b98144e96acc3e0c061eca253e20#rd)
+    - 时间：2022-08-22
+    - 摘要：Ta的出轨，带走了我信任的能力
+- [「真爱」该有和不该有的11种模样](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729862&idx=1&sn=797c891da282e160700b45dba1c57f80&chksm=9fc96b82a8bee29449bb3bde0ae48d3b21060e5525008b56134483e003ef412da39533ef4029#rd)
+    - 时间：2022-08-21
+    - 摘要：真爱不会让你变得虚弱
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729862&idx=3&sn=5088cb7290671dc3f5c6a480e0aac0bf&chksm=9fc96b82a8bee294415573a0fea5e2aebf066dca88879b13f2231896bd0db52efb00de7f2fc4#rd)
+    - 时间：2022-08-21
+    - 摘要：想做那个听你说出心声的人。
+- [探索者、统治者、外交家……测测你是什么气质类型？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729862&idx=4&sn=c076d3dbd2eac33751e6a8d27a3ba375&chksm=9fc96b82a8bee29499117f097b0a426bc608402e76b1680bef64d314b07b01fd8254d3fbf595#rd)
+    - 时间：2022-08-21
+    - 摘要：这份测验，助你发现内心深处的人格秘密
+- [总是陷入内耗、觉得自己不够好，怎么办？丨5分钟有趣的小书写](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729862&idx=7&sn=9e65eb3c01ebf6a8ecaf37dc40cf232e&chksm=9fc96b82a8bee294db7ea4170355eaa235af3a7ab83aeba06e616967b36cc6d7933e76069b68#rd)
+    - 时间：2022-08-21
+    - 摘要：每一行字都是与自己的温暖相拥。
+- [从那天起，我决定成为一个“不好惹”的女生。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729800&idx=1&sn=4c1df3ca93a8592577458bc33774ea13&chksm=9fc96bcca8bee2da425014fd558c7efab644e2153c1527fa3112e6e1d6c3d2ca5030bb227861#rd)
+    - 时间：2022-08-20
+    - 摘要：今天是一篇爽文
+- [恋综情侣爆雷，难道爱都是假的吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729800&idx=3&sn=ab4a53ff07257eb781d25d8cb6f6b233&chksm=9fc96bcca8bee2da8f4216edc54657633985f633a7a6963f1fd3788863588b5c15319ddf0507#rd)
+    - 时间：2022-08-20
+    - 摘要：从亲密关系，透视你的一生
+- [为什么我总是想要对方证明“ta很爱我”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729800&idx=5&sn=bbcacda334bb36d75fec82053e02658d&chksm=9fc96bcca8bee2dabee9a9bda0956bd4230660c725f67405756a1de97ca729c927c0071535f3#rd)
+    - 时间：2022-08-20
+    - 摘要：
+- [改掉「熬夜晚睡」的关键，其实只有一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729785&idx=1&sn=8fc7d5e06a8e543b9ed370a8c2d29965&chksm=9fc96b3da8bee22b7f8247ccba4f888c9367e0c464c0d1a0d073af78c20e79cd1b116413a40f#rd)
+    - 时间：2022-08-19
+    - 摘要：熬夜baby们的福音
+- [理想爱情=友谊+占有+？，5分钟获取你的恋爱公式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729785&idx=2&sn=cb9f83bc4b4cd8c7710ea5ddd9861a38&chksm=9fc96b3da8bee22b725bd612e8c84d6beb372c14a77b51d5c6b9350a24a90b81f5de68a89c5e#rd)
+    - 时间：2022-08-19
+    - 摘要：超全爱情分析报告，点击即测！
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729785&idx=3&sn=ff6bb15606ba3714292d7c7f7821ec73&chksm=9fc96b3da8bee22bbc17a56b2709d38a9e48da9dc6f2de5904f49c0cf04659d6121414cec293#rd)
+    - 时间：2022-08-19
+    - 摘要：想做那个听你说出心声的人。
+- [放下手机逃离都市快节奏，炎热周末的最潮玩法是…… （上海限时优惠）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729785&idx=7&sn=9c3a23cc5d29b46c8ba4736c58b36b35&chksm=9fc96b3da8bee22b0fd97225c8dfd0398072471989396d59af3249165624ce2be55900289f21#rd)
+    - 时间：2022-08-19
+    - 摘要：距离购课活动结束还有最后3天！
+- [带你实现「情绪自由」的7件日常小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729375&idx=1&sn=1ded9d3599a9802c7bab1b6a27e9152f&chksm=9fc9699ba8bee08d9cc15776d06b35e41800efec673fb2e1597d3cddfcfdaaf1b37c784651d4#rd)
+    - 时间：2022-08-18
+    - 摘要：当代年轻人必备生存技能之一
+- [找工作被hr嫌弃后，我终于决定去做这件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729375&idx=2&sn=089210128c631ce3f96309c9c3efe3df&chksm=9fc9699ba8bee08d4db471213ab5a93f80aaa9a1e1c8261e8da1a01c5b4970c8d0ba4713d99e#rd)
+    - 时间：2022-08-18
+    - 摘要：怎么才能过好一种“原创”的人生？
+- [总担心事情会往最坏的情况发展，该怎么办？丨5分钟有趣的小书写](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729375&idx=4&sn=cb598111d4a20c3aab8673de7308388e&chksm=9fc9699ba8bee08d4b53a3fa6713be524aaf476d2bcc9228cf9707875b297b610ac586fe9af7#rd)
+    - 时间：2022-08-18
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [NPD型恋人的「三阶段套路」，“先热情后冷淡”要小心——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729094&idx=1&sn=39a8b4796d718b8c7c809d4197b2876c&chksm=9fc95682a8bedf9403c256ae0196778b3ba3a1beb32528a772f6db59ce6e575d03478f6bef33#rd)
+    - 时间：2022-08-17
+    - 摘要：行走的“人型自尊摧毁器”
+- [每个平凡的人，都要找到自己的独特优势](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247729094&idx=3&sn=cd8a4f6bb09ffc475bcc9e38c7df4432&chksm=9fc95682a8bedf944bfc79cf9604198c5eae3a80abfb1018324913c1cb2cbfcab9019cde6df7#rd)
+    - 时间：2022-08-17
+    - 摘要：来看看你的性格有怎样独特的发光点
+- [一种比“性交”更亲密的行为！还能帮你识别对的人——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728915&idx=1&sn=369971e33a3ef1743ada1cf4753ce08d&chksm=9fc95657a8bedf4110d61b032fc37e93c7edfb64d7f6e8f6594ab37b8e6ac5d696e86288de4f#rd)
+    - 时间：2022-08-16
+    - 摘要：接吻时会发生哪些心理变化？
+- [Ta们期待的目光，曾经差点杀死了我](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728915&idx=6&sn=693b4857b66e18fab305cdb64ef55c05&chksm=9fc95657a8bedf41e08d6986dc17117b3e3069d2c7fd4ad8394a897a50865af296c1d963904d#rd)
+    - 时间：2022-08-16
+    - 摘要：要怎么才能不再被他人的期待伤害？
+- [想按照兴趣选择职业，你需要这么做](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728915&idx=7&sn=4f8572f1f01a7557d81cefa16c5179b4&chksm=9fc95657a8bedf41ca06e4e9deeb8b1bfd0b20a460c263368186ce13038fe35f681d46dcb16e#rd)
+    - 时间：2022-08-16
+    - 摘要：你的职业兴趣和优势是什么？
+- [豆瓣9.6分《快乐再出发》，还有什么比看“再就业男团”更解压？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728753&idx=1&sn=0849dbbf26f164987753411eeaf595fd&chksm=9fc95735a8bede23b32a6adb71fc2c577e2cc3b1c5b6f60a73ff539c82b5e34a41d0186f0a10#rd)
+    - 时间：2022-08-15
+    - 摘要：岁月都会老去，但有些回忆并不会褪色
+- [这种错误信念很难发现，却会阻碍你获得幸福。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728753&idx=3&sn=85bea16ee3a8385d6246ba2b1eb0d7c5&chksm=9fc95735a8bede23cde8dad7d3c74791cefc8e5f0f58d73373a83c5ffeb01d7bd9c0a7eeefef#rd)
+    - 时间：2022-08-15
+    - 摘要：一份帮你摆脱人生束缚的测试
+- [你为什么总是过不好自己的生活？丨周二直播：「如何坚持做适合自己的事」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728753&idx=6&sn=6040e881a4d68a90da82bf6267b18859&chksm=9fc95735a8bede23036fa2c278645d09eaa8a6ac4039b7ee83a497e517191333f331204c09a3#rd)
+    - 时间：2022-08-15
+    - 摘要：点击预约不错过~
+- [你有没有遇见过一个朋友，比爱人更重要？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728265&idx=1&sn=f54a9d0d0c449576b6db0630c9064826&chksm=9fc955cda8bedcdb7f5d0dc2235f4822a0473ab8811e89dff27cc787e09d885ae241a3f0b5a5#rd)
+    - 时间：2022-08-14
+    - 摘要：那一刻我决定和她做一辈子的朋友。
+- [早婚，晚婚，不婚。你适合怎么选？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728208&idx=1&sn=fbe35ad02035ad99377375249e4fa0bd&chksm=9fc95514a8bedc02fa8d5295487497ce15c2e2bb2947b429e9196be9276cafc660baef634fd4#rd)
+    - 时间：2022-08-13
+    - 摘要：来看看编辑部的圆桌
+- [LGBTQ+如何找到自己，面对世界？丨【深度互助团体】上线了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728208&idx=3&sn=1a5332321c87419dfe8c0a3ad62bd4f9&chksm=9fc95514a8bedc02d3eb9f9e38cd2d35106cac963f923feb3a715a7d91b4dde049f65cf274ac#rd)
+    - 时间：2022-08-13
+    - 摘要：
+- [你是怎么被爱塑造的？丨“从亲密关系，透视你的一生。”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728208&idx=4&sn=3b5cf6f62392e475b5823b588a183c91&chksm=9fc95514a8bedc020e4eb0450830c25aae1424286bf6aada99812b759b6f8d9d9e67a95f43ee#rd)
+    - 时间：2022-08-13
+    - 摘要：相爱只是一切问题的开始。
+- [白天犯困，一到晚上就精神，怎样才能好好睡觉？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728208&idx=7&sn=0fb123e49137627970965583aa347e17&chksm=9fc95514a8bedc024a12d4289de8180800421e835edfb445ec9050ea4e01cea13a4398e52658#rd)
+    - 时间：2022-08-13
+    - 摘要：
+- [总担心事情会往最坏的情况发展，该怎么办？丨5分钟有趣的小书写](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728208&idx=8&sn=c4bbb76d092c110835e42452e0be4c30&chksm=9fc95514a8bedc028c776bf12b4c74d22e85893b4e970c28e1b9664e518b33bf20e2c0c50130#rd)
+    - 时间：2022-08-13
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [单身很快乐！做到这8件小事会更快乐——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728109&idx=1&sn=68cc581dec1671fb5fb5f25d24673ea2&chksm=9fc952a9a8bedbbf49f0f9f5ba4d780785ec76c03c5ff0eeed3f9ca3fce23eb21c4c7d3ede91#rd)
+    - 时间：2022-08-12
+    - 摘要：《快乐单身实操秘籍》速看！
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247728109&idx=2&sn=029b5efd3726a5c0c7c55e5953123a4a&chksm=9fc952a9a8bedbbf4dcbb3812612b46f644de5f013f3da083668480658b2802dd878ba1c9478#rd)
+    - 时间：2022-08-12
+    - 摘要：我想陪你，从入睡到黎明。
+- [想要成功减肥，最应该管理的其实是这个——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727896&idx=1&sn=c613858c6c640edf38b4516ff7f1a691&chksm=9fc9525ca8bedb4ae83188dec7525f56df93ccfe3108416a89b4acb15e319293577e95ee0da2#rd)
+    - 时间：2022-08-11
+    - 摘要：冷门但有效的减肥小技巧合集
+- [答应我，明天一定，务必，准时下班！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727896&idx=2&sn=7a54388cbd0fcd3e98073b5a35367f60&chksm=9fc9525ca8bedb4abfd561af564ef05eb737fc593f0c6f28ec0ec2a79b0e31d9c2a36f667954#rd)
+    - 时间：2022-08-11
+    - 摘要：打工人的焦虑，一定要通过加班解决吗？
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727896&idx=4&sn=856cbf260be25aeedbe5d177b8cb40bb&chksm=9fc9525ca8bedb4a2ae5d9af8d915382e771f0906ceac3594b66c9c97d303c432436c59d2da5#rd)
+    - 时间：2022-08-11
+    - 摘要：我想陪你，从入睡到黎明。
+- [高频聊天产生的心动是错觉吗？婚姻需要什么？丨茶会年卡上线！手慢无](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727653&idx=1&sn=3ca33c6ec538f7ff53c7c138bd506f36&chksm=9fc95361a8beda77cb8552b27994932a23f0435c8174bcd0704af7d2b41ebb83393ab2268ced#rd)
+    - 时间：2022-08-10
+    - 摘要：茶会年卡限时来袭！无限次参与心仪场次~
+- [脱离自我接纳的伪命题，爱上真实的自己～丨周四直播：「爱上自己的AB面」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727653&idx=3&sn=e607e448eac83306be379956e2878e7a&chksm=9fc95361a8beda77b1212cfb5a8cc3640dd5a6c2414a489a7328c30641b8fcd85b4f185b2dc7#rd)
+    - 时间：2022-08-10
+    - 摘要：点击预约不错过~
+- [越忙越焦虑？你可以在这里尝试慢下来...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727653&idx=8&sn=ad3c20052cbe29227ddfa04439bf8aed&chksm=9fc95361a8beda7784a6e86d5cc2d70c2e3b6f535e1136695f954c1bc7c348071d67af7e0251#rd)
+    - 时间：2022-08-10
+    - 摘要：每一行字都是与自己的一次温暖相拥。
+- [性生活不止插入式，「边缘性行为」更快乐——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727223&idx=1&sn=7f9a5176a16f714c13509ca71cb17e6b&chksm=9fc95133a8bed825606a94f806142840937ca71fee4fa72f01c0e40a64be0985fc871d90c631#rd)
+    - 时间：2022-08-09
+    - 摘要：拥有完美前戏的3个tips请查收
+- [人人都说爱自己，但怎样才能真正做到爱自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727223&idx=7&sn=3fe783bf0d4107f90eb47c56dcaa1679&chksm=9fc95133a8bed82526127d3f0d89d6fcc26416d9971647dbc5c070a15648be20e4c391c87d39#rd)
+    - 时间：2022-08-09
+    - 摘要：“每个人都可以再一次爱上自己。”
+- [《星汉灿烂》：我们可以从少商身上学到什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727013&idx=1&sn=3aee29b788caf28dc8e73ed96b5115eb&chksm=9fc95ee1a8bed7f70b758026c42e35cdf57b1a01618c5886c14716bc858ba939f9f965c4a39f#rd)
+    - 时间：2022-08-08
+    - 摘要：希望你也可以更自由地肆意生长
+- [你对同性的感觉，是爱情吗？丨性取向测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727013&idx=2&sn=8db2dcdd5ab154bbc812a08d4b839dbd&chksm=9fc95ee1a8bed7f72f8f1ee1bbafd2e47b729959f9a91fc2a7b09af29dcfc2b295e972150ce1#rd)
+    - 时间：2022-08-08
+    - 摘要：你可能没有自己想象得那么“直”......
+- [冥想练的就是 - 好好吃饭](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247727013&idx=4&sn=65b2d6664e36ace8b6ce88d6ee2dfcb3&chksm=9fc95ee1a8bed7f78d2d840c3937ef12e03ea762ca3485ad073cbf6164c1f77308c1d4eaf62b#rd)
+    - 时间：2022-08-08
+    - 摘要：怎么吃，比吃什么更重要。
+- [看完这18个“爱创造的奇迹”，我又又又相信爱了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726849&idx=1&sn=952281492dff7c930c69029cda796664&chksm=9fc95e45a8bed7535be466b8f6f3105798626c158870551a75ffde01e00fd615245624e35a8d#rd)
+    - 时间：2022-08-07
+    - 摘要：不管是否经历奇迹，我始终相信爱的力量。
+- [那些快乐的人，都做对了自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726849&idx=5&sn=e747f5533cc48d022dfb1f9ff0bfb895&chksm=9fc95e45a8bed7539d3f419007f8a0c939d0daea28b2df8f6f1cd7d324b1ae229becd991d967#rd)
+    - 时间：2022-08-07
+    - 摘要：答应我，这辈子只讨好自己一个人
+- [有这种人格的人，有很强的“爱”的能力，还更容易幸福——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726800&idx=1&sn=28b65af8e2d4bb2c36c339aefd348952&chksm=9fc95f94a8bed6820ff4209ac21e4f3d817d501d5302b9d7518ed0301ecb191e5ab28eb74250#rd)
+    - 时间：2022-08-06
+    - 摘要：你身上有吗？
+- [有少商同款阿母，我该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726800&idx=2&sn=85923d5508eb25b971b277975d1b1270&chksm=9fc95f94a8bed6825a4e505df5ed46566bee8c49fe876aa3d574515e903baba120195abcb280#rd)
+    - 时间：2022-08-06
+    - 摘要：总是挨父母批评的人建议偷偷点开
+- [为什么我总是害怕和别人起冲突？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726800&idx=7&sn=307befff9d9a9c3161865d0baa986eba&chksm=9fc95f94a8bed682229a77471f7af5c42755d574c5af46d79814bb2eda567145acf7bc99e896#rd)
+    - 时间：2022-08-06
+    - 摘要：
+- [单身和结婚，谁活得长？谁压力大？谁更快乐？看研究怎么说——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726499&idx=1&sn=fffe1e04440152cb6981cb0fa4f80242&chksm=9fc95ce7a8bed5f1ce6dc0de7a53c963f650f7202141ee8417badeaaf8c74f5f021cbe1c5b04#rd)
+    - 时间：2022-08-05
+    - 摘要：科学对比结婚与单身利弊
+- [疫情期间没闲着~我们的课程全面升级啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726499&idx=5&sn=0d7ab61853ad9fe9e19806c8572d5174&chksm=9fc95ce7a8bed5f15477b23d5cb2051d9ec79c68e6c5484b60db5c3beb94a1f790e0351be27e#rd)
+    - 时间：2022-08-05
+    - 摘要：冥想之根、音疗冥想、正念阅读……
+- [你的直觉准不准丨测测如何利用直觉的力量做出更好的决策](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726499&idx=6&sn=a26381caa009eb432362ce1fc35eb90f&chksm=9fc95ce7a8bed5f1d65c6e29f0979659fa3f87ecf6cc96e5fa445ebec5b04429b6c213488a61#rd)
+    - 时间：2022-08-05
+    - 摘要：一篇关于“直觉”的专业探讨。
+- [这种心态能对抗生活的无意义感，让更多「幸运」的事发生——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726251&idx=1&sn=256684869960cbfc658085e1bef55e5e&chksm=9fc95defa8bed4f9d41ae86daa69812ea8eb0175f994002805a54f4d4df2074f3ed8303f5e13#rd)
+    - 时间：2022-08-04
+    - 摘要：允许一切发生
+- [这个七夕，你的爱情剧本会带你遇见谁？丨用测评寻找相似的TA](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726251&idx=2&sn=02c7973744497dc166b0aada41c39ede&chksm=9fc95defa8bed4f96e9b7e5e95faf6c46d012fd2f1f59376d581d5b18fd85a27e7102b89cf30#rd)
+    - 时间：2022-08-04
+    - 摘要：爱是永恒的话题，我想和你好好聊聊。
+- [七夕送这个给男友，不做恋爱大怨种](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726251&idx=5&sn=1c5f9c40a447a48cd4ff4a2f18d904e0&chksm=9fc95defa8bed4f96ae6e480b20efb6d94f0f331d5dc3a1fae8db12d5bff140e4f7727f63d95#rd)
+    - 时间：2022-08-04
+    - 摘要：只要做一件事，男友秒变最佳伴侣
+- [如何让自己在职场中脱颖而出？答案都在这个测试里了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726251&idx=8&sn=26c2d1b4f17cefc0ad13d8169f884e88&chksm=9fc95defa8bed4f9b62055acd94f8e878794bc67da3d90cfd03642990c62b3271fc2097c7ab0#rd)
+    - 时间：2022-08-04
+    - 摘要：升职加薪，这份测试你不可不看。
+- [“在一起了，但还不熟。”  「恋爱后尴尬」，你经历过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726045&idx=1&sn=f16a1de47bbdd3ea0b99aa8207d1c15d&chksm=9fc95a99a8bed38f72ac9f44e47107514d2f71fd020c9422c9e9d3cef294f8e791752b47d52d#rd)
+    - 时间：2022-08-02
+    - 摘要：尴尬一下不是坏事。
+- [去年有1.6万人参加了这个活动，有人脱单，有人现场“泪失禁”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726045&idx=2&sn=a32ad951a284b132d17b1d7b464d98aa&chksm=9fc95a99a8bed38f1788bda0b03394b3719176effe7d20f891f194542e28026aedcd2b0274be#rd)
+    - 时间：2022-08-02
+    - 摘要：
+- [这个七夕，你的爱情剧本会带你遇见谁？丨用测评寻找相似的TA](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726045&idx=3&sn=904eb5003f31d1dd4cf1b40d5b61b930&chksm=9fc95a99a8bed38ff31171579209ba6d85bdf3a3960fcd5e35e6dc62cc9b11141b7f1c200777#rd)
+    - 时间：2022-08-02
+    - 摘要：爱是永恒的话题，我想和你好好聊聊。
+- [七夕你还一个人？在这里不孤单！周四直播](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247726045&idx=6&sn=30d41a9851c1269b1aa2757cf08c2933&chksm=9fc95a99a8bed38fd2f8331570922677f6dafb9aa06c19eae15f35ae573b1ecd5b6caf7fa110#rd)
+    - 时间：2022-08-02
+    - 摘要：七夕直播，预约不错过
+- [“心麻了”：主动选择的「情绪无能」，你中枪了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725813&idx=1&sn=f0fff47f60f12349dee41b21533f9872&chksm=9fc95bb1a8bed2a74ba83e73317b63060924359568c4d69daeb0d1f3fcbe2a8d837fec574952#rd)
+    - 时间：2022-08-01
+    - 摘要：情绪稳定是好的，但情绪无能就不好了
+- [七夕专场【恋爱MBTI茶会】等你来pick！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725813&idx=4&sn=f48dda1e304362187ee5da4271f637dd&chksm=9fc95bb1a8bed2a7169cb12c7df4cc9aa7740a7c01c784064852d6f02648d3c61d9d701f0248#rd)
+    - 时间：2022-08-01
+    - 摘要：
+- [99%的人对幸福都有四大误解，你中招了吗](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725813&idx=5&sn=96f9452913b7040950f6bc981ff4a080&chksm=9fc95bb1a8bed2a7e4f41ca55937a0d5cef2096c4d3c7361a9328954ca1421e70640657a2275#rd)
+    - 时间：2022-08-01
+    - 摘要：我用了三个月，终于找到了幸福的秘诀
+- [你以为的性格劣势，如何成为优点？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725813&idx=8&sn=7a8309ff357d0b3c40abe1010122731e&chksm=9fc95bb1a8bed2a7fd31e8502f74912b64bb8b6e5e6da0f953078a62a7984e2cffff58c93934#rd)
+    - 时间：2022-08-01
+    - 摘要：了解自己的性格，有助于因地制宜地发挥性格优势。
+- [“你不许找一个单亲家庭的孩子结婚”。2022年了，单亲还在被歧视——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725564&idx=1&sn=afb5515b9c286e22d687394ef08ce5c9&chksm=9fc958b8a8bed1ae77a51b67559c482ff284bc27dc7a81eca9fc70b1f82267641396a510a4b4#rd)
+    - 时间：2022-07-31
+    - 摘要：能否幸福的决定因素，从来不是单亲还是双亲。
+- [我终于找到摆脱焦虑的有效方法！强烈建议你试试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725564&idx=3&sn=57ca534c09127bcdc625dd1c3b5044a1&chksm=9fc958b8a8bed1aed9eb7329070a3d31b872059a4b30f2114768062ec5735375300ae36b58af#rd)
+    - 时间：2022-07-31
+    - 摘要：教你一招摆脱焦虑
+- [从学生到社会人：毕业五年内，60%的人都对生活不满意](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725496&idx=1&sn=3b3998b32ba419d3c9025f6ebfda843d&chksm=9fc958fca8bed1ea03c3ca6e864a1c18eead0d0e0f36f2708a028d4e473dabe56473b911c71b#rd)
+    - 时间：2022-07-30
+    - 摘要：当代年轻人生活节奏大调查
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725496&idx=2&sn=c3c52d850aee16da51dc739b90206ca2&chksm=9fc958fca8bed1ea88b86a63f6adac3176fdaf838651ec0aff0618eadf13900232a1f83448d4#rd)
+    - 时间：2022-07-30
+    - 摘要：成年人交友新方法
+- [KY帮你发现：刻在你基因中的「性格秘密」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725496&idx=3&sn=b5d19e41f6be99164d211fdb1f071b87&chksm=9fc958fca8bed1eaf3f2c3c3e762c86d4a7cb7b98c3de85f8c170ed788718774dd4b56b5a33b#rd)
+    - 时间：2022-07-30
+    - 摘要：这份测验，助你发现内心深处的人格秘密
+- [怎样创造积极情绪，在这个充满丧的世界里？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725496&idx=5&sn=23c1a87f2a4637004a0bd48e1a1a7518&chksm=9fc958fca8bed1ea357ad6f88b2d41d1a106c15c0257de93bb75032e80cc20b77f641ed8d6ac#rd)
+    - 时间：2022-07-30
+    - 摘要：
+- [“活着没意思”丨连咨询师都感到无力的“空心病”该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725496&idx=7&sn=f3a40eafbfd5dec0fed3934d2db9d1ff&chksm=9fc958fca8bed1ea07f7789f603538f505f295cc611fa6ee4fe991e7bf35582e1b5f7a45d274#rd)
+    - 时间：2022-07-30
+    - 摘要：与自我和解，找到生活的意义
+- [一周几次才算“高质量性生活”？来看看研究怎么说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725422&idx=1&sn=41d1977053b018895e2b3fafb9b772b9&chksm=9fc9582aa8bed13cfe6c291ad85b58f04cf17cd3877f6609549a0a4dc5323056e2e29bec3c74#rd)
+    - 时间：2022-07-29
+    - 摘要：性科普不嫌早晚，学会了有备无患。
+- [疫情期间没闲着~我们的课程全面升级啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725422&idx=5&sn=176ecfefd7bdfc7dd69cbb0f355bf936&chksm=9fc9582aa8bed13cb0617cdf7e76e9dd6b2e9222e5d12b44c79df27c6fb4db169f4b7f71d064#rd)
+    - 时间：2022-07-29
+    - 摘要：冥想之根、音疗冥想、正念阅读……
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725422&idx=7&sn=8582149c484a0650d3cf65b97f73031d&chksm=9fc9582aa8bed13caf9e684fe6b70cd16c5f7c5f7f5006bf23d065f711c60205f72f4f2ec1a0#rd)
+    - 时间：2022-07-29
+    - 摘要：成年人交友新方法
+- [间歇性讨厌自己，如何学会「自我接纳」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725422&idx=8&sn=23593c763014e54024aee63910d97779&chksm=9fc9582aa8bed13ce4f177e325c83829d6e0ebbc5a521356d41107fb909987281019b8b6b32e#rd)
+    - 时间：2022-07-29
+    - 摘要：一份帮你接纳自我的心理测试
+- [直女发言：直男可以从Gay身上学到什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725057&idx=1&sn=e92fdf4c8ce4034b8c0220960a03f25b&chksm=9fc95945a8bed053ee77ff749820564b3aaefe71f0a2516655d5f4332afd9599764c75b88970#rd)
+    - 时间：2022-07-28
+    - 摘要：请转发给你的直男朋友，贴心到家了
+- [“如果和Ta分手，我会后悔吗？”这个测试给你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725057&idx=2&sn=a77f23aeb24c0a1ce5dc4a501409671e&chksm=9fc95945a8bed053b30ef0b93e8e03b9c690c118cecd32bf030cba7267c10d9e2f84f4d83ee9#rd)
+    - 时间：2022-07-28
+    - 摘要：你的对象还要不要继续留着？
+- [让王菊教你自信到发光的方法：KYx王菊合作冥想音频首发](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725057&idx=3&sn=fbba892c3cf0c0cae04a4b42dedf2122&chksm=9fc95945a8bed0532a947715b14b4a52829efd58b83761f36d135b444856fac00dd1e7029f89#rd)
+    - 时间：2022-07-28
+    - 摘要：和王菊一起在冥想练习中提升自信吧！
+- [心事困扰无人解答？匿名写信给聊愈师，为你提供线上心理答疑服务](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725057&idx=5&sn=f0cc733723f0140b35e7699c20907497&chksm=9fc95945a8bed05326da362164a766ffd45aa4805f84863c21e5fb41323ee44910e7235c6c3d#rd)
+    - 时间：2022-07-28
+    - 摘要：书信聊愈为你提供专业心理解答
+- [【心理测试】是什么在阻碍你走向幸福？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247725057&idx=6&sn=5397248f5560d22788c8c78901db371b&chksm=9fc95945a8bed0535a09f4f87cbd5275f64dc50dce621cf9dad9a883a0719dde43b54f27c323#rd)
+    - 时间：2022-07-28
+    - 摘要：一份帮你摆脱人生束缚的测试
+- [在二舅身上，我看见了“普通人过好一生”的8个关键](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247724629&idx=1&sn=7cf7aee66b5929f55f39575666f24480&chksm=9fc94711a8bece074289f859970d45170ab598bf88588ac2fe3b545df55716f33dc01b99a007#rd)
+    - 时间：2022-07-27
+    - 摘要：我们不歌颂苦难，但我们追求幸福
+- [面对冷暴力的伴侣如何沟通丨周四直播：「面对关系中的冷暴力，怎么办」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247724629&idx=4&sn=7eef109cfb8e577e52a004ba013b838a&chksm=9fc94711a8bece076d030227008f48418edb97c970c21690599f139271a24c746537d271d5a1#rd)
+    - 时间：2022-07-27
+    - 摘要：文内预约，不错过
+- [没有二舅，我该拿什么拯救自己的精神内耗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247724629&idx=5&sn=50833b4ceb1c4993109801a801379700&chksm=9fc94711a8bece076d71c89598755d0e69a82169a7e62bbb793441d961feaea66b9acd6c0074#rd)
+    - 时间：2022-07-27
+    - 摘要：送一个测评，了解自己的真实状态~
+- [现在谈恋爱还需要告白吗？来看看别人的爱情是怎么来的。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247724452&idx=1&sn=c3b441df1724708d2f87d0ed10557d24&chksm=9fc944e0a8becdf6366c691d6a9a1e7ca57703a3ac5e7375d676589ea436957bd053107e4ae7#rd)
+    - 时间：2022-07-26
+    - 摘要：成年人谈恋爱，到底是怎么确定关系的？
+- [能让生活好过一点的9个「有效摆烂」小tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247723410&idx=1&sn=4f764b41608669ecab63890270fcf3a2&chksm=9fc940d6a8bec9c01abb4d853839233ec93cd5ad2b3feff01de23768215dd15d1a534600ce91#rd)
+    - 时间：2022-07-23
+    - 摘要：累了就躺下歇歇吧
+- [迷失自我，在无尽的迷茫和恐慌里疲惫不堪](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247723410&idx=4&sn=4e5d15ef53027c87fe6ffececc50244f&chksm=9fc940d6a8bec9c061ca037a72ceddf8ee862ccf869fb5178b13f9f651757abf9db5851ada48#rd)
+    - 时间：2022-07-23
+    - 摘要：那些快乐的人，都做对了自己
+- [王冰冰：为什么男生越来越喜欢姐姐了？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247723279&idx=1&sn=2b95677613a55b78ba97d140b80954cd&chksm=9fc9404ba8bec95d2f2192c0ee322fab7e51ac30df50ffabc18421689130259e06a6f0f634ff#rd)
+    - 时间：2022-07-22
+    - 摘要：姐姐因为她们的力量而被爱
+- [互联网高薪破灭！当代年轻人的焦虑如何缓解？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247723279&idx=2&sn=37ff8b9fe1d0d96769da873c8e036d3b&chksm=9fc9404ba8bec95d9ec3d73c57f0c25e57cd0a3111d4c8cca9ff302d4ccd0a17e5ea51870d52#rd)
+    - 时间：2022-07-22
+    - 摘要：失业后，闺蜜竟用位数不多的存款买了它！
+- [80%的人都存在的沟通误区，你有吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247723279&idx=3&sn=7de01199b819371e7268548316a29cc1&chksm=9fc9404ba8bec95d6caf18279b0a5c746ac3ccc1c35df5a23c7e4c592c7f453eca3f92c38092#rd)
+    - 时间：2022-07-22
+    - 摘要：会沟通的人，一开口就赢麻了！
+- [复工特惠丨夏日超低价，收获冥想带来的宁静](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247723279&idx=5&sn=a18ceca180efca8f516bdab0476c0505&chksm=9fc9404ba8bec95d11108907556c3af5db435ec69297829a9dd435f58dba2674f1b32805a9c2#rd)
+    - 时间：2022-07-22
+    - 摘要：现在就是来城修体验冥想的最佳时机！
+- [99%的人都干过，但很少人知道这就是「无法沟通」的根本原因——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247723050&idx=1&sn=097352a89a6f368efaa063f3d9f2baaf&chksm=9fc9416ea8bec878433e0e76189ab84abec6bf0b1d0a7f000723cabd23474af20073a0288edb#rd)
+    - 时间：2022-07-21
+    - 摘要：当沟通中有了防备，沟通就变味了
+- [“心动了。想想还是算了。”是你吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722824&idx=1&sn=0bbccd8754374a8c2f0dff2f04fc2d16&chksm=9fc94e0ca8bec71ad95cbdd6d3a7aebb0ca17f69fe4c6d9174bcc34a0e889ca331670b79b5c7#rd)
+    - 时间：2022-07-20
+    - 摘要：心动有什么了不起，忍一忍就过去了。
+- [你有哪些未知的天赋？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722824&idx=2&sn=73fea9c34141cd4527fc7987b6232c2a&chksm=9fc94e0ca8bec71a79385933700938a1db51cb23690faaf7b22e210c11a94bcc78190881eaf6#rd)
+    - 时间：2022-07-20
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722824&idx=3&sn=6e9ec8dc5ed8fd85a35d6e0adb6dd24c&chksm=9fc94e0ca8bec71a6468b526eb77b8d79dcbc9e7ffc4a924c66d80ea4105aafe6cbd0fbb9937#rd)
+    - 时间：2022-07-20
+    - 摘要：想做那个听你说出心声的人。
+- [语言暴力、情绪暴力也是家暴。如何走出暴力创伤？｜周四直播](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722824&idx=4&sn=f7782ceb5d1e7860141c6661c21f77ee&chksm=9fc94e0ca8bec71a78e06a09318d3978f6538a3dd2a1b525d54ad906ce4302047ceae465c8bf#rd)
+    - 时间：2022-07-20
+    - 摘要：文内预约，不错过
+- [书写是缓解焦虑的唯一解药，我试过就后悔了？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722824&idx=5&sn=d388f044ad20cbc1d3b0056e5302dfb0&chksm=9fc94e0ca8bec71a37e2af0171abdbd5e6f40a89a525e5135006f93bf52d452b81610c7fc881#rd)
+    - 时间：2022-07-20
+    - 摘要：告别焦虑，从书写开始。
+- [不是「安全型」恋人，就不配谈恋爱吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722673&idx=1&sn=98cbdaac8578a093b63b2e7cbd96103f&chksm=9fc94ff5a8bec6e3f01fbbce95edc9750ee5057724be033fb3719d7b4a363cab755757a550a3#rd)
+    - 时间：2022-07-19
+    - 摘要：非安全型依恋的朋友看过来～
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722673&idx=3&sn=d054968afe79307deaf19a898bd294da&chksm=9fc94ff5a8bec6e35c68772948e21d534db8cb9b71e7d5cabd0a55152c289ed9328dcf05decb#rd)
+    - 时间：2022-07-19
+    - 摘要：想做那个听你说出心声的人。
+- [正在为感情中的问题痛苦纠结？或许「聊愈」能帮到你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722673&idx=5&sn=9f03aaa7b0d87d6bc574f6faafc3d984&chksm=9fc94ff5a8bec6e3eba45d092d1fd79d0190077871be258f69477a378ef12960f527b2a4860b#rd)
+    - 时间：2022-07-19
+    - 摘要：你可以来书信聊愈试试，首次使用免费
+- [很多人不知不觉中，都在对自己PUA](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722539&idx=1&sn=cebcc1fba55be01cb875b80e0ace3422&chksm=9fc94f6fa8bec6790aba778d847661f38646fb6be25e4891946ccbdce74a81abbb1c7cd4d9a2#rd)
+    - 时间：2022-07-18
+    - 摘要：比PUA更可怕的，是自我PUA。
+- [“我太害怕别人对我感到失望。”丨「期待恐惧者」如何自救？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247722539&idx=6&sn=2a9af039ceb6c8009a531415efa8d483&chksm=9fc94f6fa8bec679a7e3d898664dfdfbce1c3a613f9f22938788492dc0723a7745855c3f587d#rd)
+    - 时间：2022-07-18
+    - 摘要：让我们退却的，往往是他人殷切的期待。
+- [《外太空的莫扎特》：成全父母，还是成全自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721568&idx=1&sn=45490faf5b2e6218bff43d09dc65ab00&chksm=9fc94b24a8bec232e7d9283fc9e8360d598b1f42f4bcfcd9aad4cc0c8b33d3ef5b22dc33691d#rd)
+    - 时间：2022-07-17
+    - 摘要：对父母的不服从，是每个人的必经之路。
+- [想要孕育一个快乐的小孩，生育前这份测评你必须做](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721568&idx=3&sn=b010bf16bc9f309a42cf384f5c86ba04&chksm=9fc94b24a8bec232c492bacdc9454775e59c09739e0ca377b94f945d28facf6ab1be17f330ac#rd)
+    - 时间：2022-07-17
+    - 摘要：叮~你的专属生育准备指南已送达！
+- [无助、焦虑的打工人，内心还能再被充实吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721568&idx=5&sn=96fbd1926ba498649ebfb1aa6ae91c20&chksm=9fc94b24a8bec232c90821f7a94b5fdc29431df1cc412897e954374dc9dc4afd962d6a6afaa6#rd)
+    - 时间：2022-07-17
+    - 摘要：用表达性书写重获「内在资源」，缓解焦虑。
+- [「自己给自己安全感」的4条tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721526&idx=1&sn=044bac5d9d84790aa609a2d0706b0e11&chksm=9fc94b72a8bec264c3adb292ed9abb5499a0cbb892516769ddbea7f54502a7aa66b806f94fe3#rd)
+    - 时间：2022-07-16
+    - 摘要：如何做一个不依赖外界给安全感的人？
+- [你对同性的感觉，是爱情吗？丨性取向测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721526&idx=5&sn=99d98c7db4cbb390b40c2197ff821ab8&chksm=9fc94b72a8bec264761af049d137289514f4e119ac186e343db3a4c9760a3214829c417700ba#rd)
+    - 时间：2022-07-16
+    - 摘要：你可能没有自己想象得那么“直”......
+- [没经历过这种考验的爱情，很难走很久](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721407&idx=1&sn=df6763811afbe98fb691bc1f00f4bfe4&chksm=9fc948fba8bec1ed274c573253e7b60af37edad71b43d856736e72409ce193ec4a84ce07aeaf#rd)
+    - 时间：2022-07-15
+    - 摘要：应对「亲密倦怠」的3个tips。
+- [40%的幸福是可以「学」会的！这本心理手账教会你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721407&idx=2&sn=34905205eb8a34680eea4f0a144c4219&chksm=9fc948fba8bec1edc272a2eb6389cde548b8c8dee0429b2af35cdf889247a3af438f48a02628#rd)
+    - 时间：2022-07-15
+    - 摘要：「幸福源泉」KY心理手账早鸟优惠中！
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721407&idx=5&sn=37c9a0d30f0b4103b82b00e2103f289e&chksm=9fc948fba8bec1ed823c8bddf82b94bf1464ed07a4e1d45ba71c3834c2a8883c41086ee64c0f#rd)
+    - 时间：2022-07-15
+    - 摘要：我想陪你，从入睡到黎明。
+- [5个方面，手把手教你戳穿隐藏的职场PUA——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721407&idx=6&sn=d14d72b726c640dbd3597e96e1194376&chksm=9fc948fba8bec1ed3fb573d594f88aa0c4c6ab7dbf8049e53ff10521afe4f9e8b5d1180ccc6e#rd)
+    - 时间：2022-07-15
+    - 摘要：测测你被PUA的可能性有多大？
+- [清凉一“夏”丨快来魔都心灵避暑胜地吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721407&idx=7&sn=30ccf35fda4e25e8ea53b3a3b23672a3&chksm=9fc948fba8bec1ed741b776b406fdecc3590f3bf107160c3348ba3c6412366a59587000d2e78#rd)
+    - 时间：2022-07-15
+    - 摘要：0基础新手友好的「正念入门」和「冥想入门」系列学习课，快来加入吧！
+- [计算「情绪价值」的一个万能公式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721106&idx=1&sn=299db59f1f0f4f38a8b4a301cad2d550&chksm=9fc949d6a8bec0c0f8b3461876255f38b0bbae7797bcea4b5615cbe012771c34da5cbec24ebe#rd)
+    - 时间：2022-07-14
+    - 摘要：一文说清「情绪价值」
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721106&idx=2&sn=0417414b3f742920cda20264070c75d1&chksm=9fc949d6a8bec0c0b329e2f8642659355fa393ac3d0487d0d3d9f312a6776e4084cfc86ecae6#rd)
+    - 时间：2022-07-14
+    - 摘要：我想陪你，从入睡到黎明。
+- [爱情保鲜的秘笈？是做到知己知彼](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721106&idx=3&sn=2e162a4ca6ccda8ec759cd25627fc85b&chksm=9fc949d6a8bec0c0a95ab6737423a83e48156ba57a9ff31384865881ca006290b55e7d650631#rd)
+    - 时间：2022-07-14
+    - 摘要：KY独家心理卡牌游戏，早鸟优惠中！
+- [用自信掩藏脆弱的你，是「隐形自卑者」吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721106&idx=4&sn=e1f18c5fdbbe04f76490137c1d482e67&chksm=9fc949d6a8bec0c0ed9cd512b26c413e63643a565c019fc7819ad6b309a695512592702dc55f#rd)
+    - 时间：2022-07-14
+    - 摘要：我们都需要知道自己的真实自尊水平。
+- [正在为感情中的问题痛苦纠结？或许「聊愈」能帮到你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247721106&idx=5&sn=029221b9e05e051ddbc0aa9de6e0a8a8&chksm=9fc949d6a8bec0c0b46bd6ff08506ac33a7e682fcb7dbabb3dc9fe6963c5748fb80327885d08#rd)
+    - 时间：2022-07-14
+    - 摘要：你可以来书信聊愈试试，首次使用免费
+- [我最珍惜的不是爱情，而是「经过了考验的友情」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247720820&idx=1&sn=b2d9f1e73e26451c6b2867f77e22d9b7&chksm=9fc9b630a8be3f26442277561e9bad62704e4426a876f857815a2f54c7daf8fb2be71356948b#rd)
+    - 时间：2022-07-13
+    - 摘要：真友谊都有这4个特点
+- [“如果和Ta分手，我会后悔吗？”这个测试给你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247720820&idx=5&sn=1d7e23f34783c5a2a7a043ea748e6487&chksm=9fc9b630a8be3f2687c50ae4de68c999be0b9b234dc8cbf56abf64a76730da9575dd93550e68#rd)
+    - 时间：2022-07-13
+    - 摘要：你的对象还要不要继续留着？
+- [幸福可以通过这种方法「养成」丨KY新款手账帮你【寻找幸福源泉】](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247720820&idx=6&sn=f42d1603ad47d3286182179b56093465&chksm=9fc9b630a8be3f26998589c0ea35a1cffb1326e960954ec6e87ccc61220682f09f7e0a549951#rd)
+    - 时间：2022-07-13
+    - 摘要：在「幸福源泉」心理手账，学习这种人人都可以获取的「幸福力」！
+- [反内耗，过一个不累的人生｜周四直播，专业咨询师跟你聊聊「内耗严重怎么办」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247720820&idx=7&sn=021d2db7e663f570c6710c2477724579&chksm=9fc9b630a8be3f2692e84f201c1ff8e7b30d8b89aae78e9da972a4d2160ea46856a92cb7d3b9#rd)
+    - 时间：2022-07-13
+    - 摘要：文内预约，不错过
+- [“我以为自己没有年龄焦虑，原来我只是不想面对”丨茶会34城售票中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247720344&idx=1&sn=b08994e80fa7906781f4cfcffa680023&chksm=9fc9b4dca8be3dca41d211ce1be6b96308128d7411c7efe496a10ad002b892c6ca05d31511bf#rd)
+    - 时间：2022-07-12
+    - 摘要：新城常州、扬州、泉州来袭，北京上海回归，34城齐开！
+- [毕业季从学生走向职场，你非常需要专业建议](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247720344&idx=3&sn=b16eb4098829b0ca2a13bc99dfb7a90c&chksm=9fc9b4dca8be3dca4d09353e3a8503e9b8058ea840539cb56086fe0dbaa427890021e9ca7224#rd)
+    - 时间：2022-07-12
+    - 摘要：聊愈师为你分析解惑，首次使用免费！
+- [看起来骄傲的人，内心可能「隐性自卑」。这里有8个表现——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719940&idx=1&sn=68b05d408a42a51711a1f23af15e7d3f&chksm=9fc9b540a8be3c56fe678b690cbe037acf3a22beccd2aa4f58f816dbfe28f8a2626d5b8cb0d9#rd)
+    - 时间：2022-07-11
+    - 摘要：隐性自卑该如何破解？
+- [「爱无能」的8个信号](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719678&idx=1&sn=f92abf59593cc9316545baf8d47fa83f&chksm=9fc9b3baa8be3aac23c571ceada9cb72dccee677da0d4d53ba3803b8e84e915893b065e9f532#rd)
+    - 时间：2022-07-10
+    - 摘要：自己封锁的心，只能自己解开。
+- [你离幸福有多远？答案就在你自己 丨「幸福源泉」新款心理功能手账早鸟优惠中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719678&idx=3&sn=d52f5b2c4cb60fc23e2f9a069909023f&chksm=9fc9b3baa8be3aac39a731f61f8f8b25db6d0a53aa166c5ab87139de6f49161eca71bf9609cb#rd)
+    - 时间：2022-07-10
+    - 摘要：在「幸福源泉」心理手账，学习这种人人都可以获取的「幸福力」！
+- [从这四点看，谁是你的命中注定。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719678&idx=5&sn=79385916e6c732d3fbd805df5c1bdb88&chksm=9fc9b3baa8be3aacb5b70e89ffdeb8cc0bbb15be3078f29c9ad77a115d5fd3c1722d14fa3315#rd)
+    - 时间：2022-07-10
+    - 摘要：真正的“对的人”并不会从天而降。
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719678&idx=7&sn=f8ee1d3b8108c42d043b22d9bd81d7f4&chksm=9fc9b3baa8be3aac58a512c46ed078a54213945742f1ab054e9a46cf1043038e37fff29eb9d6#rd)
+    - 时间：2022-07-10
+    - 摘要：马克，总能用到！
+- [为什么我无法像别人一样享受独处？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719678&idx=8&sn=ca2ea31a23b0d47fd7753237d3e6e079&chksm=9fc9b3baa8be3aac76e6e864343855dec3c22daa17f2cfe19ecb451cff49fdd1bd73d7baf764#rd)
+    - 时间：2022-07-10
+    - 摘要：
+- [伴侣间也需要学会「好好说谎」。这里有4个tips——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719593&idx=1&sn=b098838659fc96f7032fb68861a9e75a&chksm=9fc9b3eda8be3afb9c52818ca7921312360f2671eac96b6c10038eec249ba8780967421ff302#rd)
+    - 时间：2022-07-09
+    - 摘要：自私的坦诚，并不比善意的谎言更优越。
+- [判断Ta是不是你的最佳伴侣，需要警惕这些“红灯”——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719593&idx=4&sn=454a604f3d7b4c08cb7ec45a720777d5&chksm=9fc9b3eda8be3afbf243f1a1f78049e2cdd5f24e8203eb90965e8e2c3a5f46c38516f4211455#rd)
+    - 时间：2022-07-09
+    - 摘要：判断亲密关系好坏的11条标准
+- [总觉得自己有很多缺点，无法与自我和解，怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719593&idx=6&sn=9b0e37012b9c8a0a1d6b22d631106873&chksm=9fc9b3eda8be3afb9ea130ec211998582f2c2a3c7873a188aeaf6980bf2c3608a83b88e4cbf3#rd)
+    - 时间：2022-07-09
+    - 摘要：
+- [看这篇推送，我连说了5个“离谱”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719480&idx=1&sn=838023ff6030701795d452b3840ca647&chksm=9fc9b37ca8be3a6aefb5118a295875a444f388167d83eb9864ebcdff59be9ac754643daf3538#rd)
+    - 时间：2022-07-08
+    - 摘要：又离谱又搞笑
+- [用「表达性书写」找回自我觉察的力量](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719480&idx=2&sn=3b827cfac67420f02b835c66311d5ba7&chksm=9fc9b37ca8be3a6a6397ecb75a70cf26b69d19d6e089b17fdf7697459fc659e7b03d143a8576#rd)
+    - 时间：2022-07-08
+    - 摘要：手！慢！无！
+- [理想爱情=友谊+占有+？，5分钟获取你的恋爱公式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719480&idx=3&sn=5d133cc992060364e3e8ac97e165e985&chksm=9fc9b37ca8be3a6a53644272c81062dc152298bb33946412e35b52d4dc7a1f07fbee0ba62b33#rd)
+    - 时间：2022-07-08
+    - 摘要：超全爱情分析报告，点击即测！
+- [3阶段学会摆脱低自尊，看到闪闪发光的自己｜共练营限时免费](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719480&idx=5&sn=de8437a52babb0a8d7fd27c2998a2171&chksm=9fc9b37ca8be3a6a99cd8b1213121cc46ae0a2aaeeee075a9372130d2399e350ddad8429202b#rd)
+    - 时间：2022-07-08
+    - 摘要：原价99共练营限时免费，和小伙伴们一起用8天学会摆脱低自尊~
+- [我们复工啦！｜初夏相约城市修行空间](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247719480&idx=7&sn=037b665449b5798bdae093814b853517&chksm=9fc9b37ca8be3a6a1a31c90835a28c5b7b9c0c1ed1006c3547d96e861c4d1db172d347c31e6e#rd)
+    - 时间：2022-07-08
+    - 摘要：正是初夏好时节，与你相约。
+- [健康关系的6个特点，爱情以外的关系也适用——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718553&idx=1&sn=44ed517c7585e0154199e07a7b5da16d&chksm=9fc9bfdda8be36cbe63fa91b2cd0caf3e88308d86911f21542f985a41083a43a7f29363fdfa1#rd)
+    - 时间：2022-07-07
+    - 摘要：有没有一段关系让你怀疑它的健康度？快用今天的文章来评估
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718553&idx=2&sn=413b07b6ffcce8e136e6751eb8121dba&chksm=9fc9bfdda8be36cb8a79aaf2e56cbe7878cc585da2387ab41174db525e83c05dcdc62f920b8d#rd)
+    - 时间：2022-07-07
+    - 摘要：成年人交友新方法
+- [想摆脱讨好型人格？攻略在这。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718553&idx=6&sn=06ac4078c3fcaa5ea702457275756e2f&chksm=9fc9bfdda8be36cba1593aa8f41d73e33df5d9d411ff3581807efee508a5cc6569d6fdb7e818#rd)
+    - 时间：2022-07-07
+    - 摘要：叮~最全面的讨好型人格深度解析！
+- [克服焦虑的第一步，是科学认识它](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718553&idx=7&sn=22922021ab711041c40de999c99ed4f7&chksm=9fc9bfdda8be36cb4587bb110359e7ca7a15c2f6343f095152c33bc8aa9300ffb323664a4d19#rd)
+    - 时间：2022-07-07
+    - 摘要：用表达性书写的方式来改善你的焦虑水平吧。
+- [钱健夫李璐尔：还爱着，却不可能再在一起了。有可能吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718201&idx=1&sn=73bb109d8af440c3c15e6b9e50d1fbe3&chksm=9fc9bc7da8be356bacfa771cd58863fc5845c2544c2d51b384ace91c563ec9921df30f0374dc#rd)
+    - 时间：2022-07-06
+    - 摘要：相爱很难，相互理解更难。
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718201&idx=5&sn=85ac0b70c3e753b2498f44779d407b26&chksm=9fc9bc7da8be356be92cd1dd0bfef9c9b41b870e9a398ec30d6dbbeab6b98e1380796583fdba#rd)
+    - 时间：2022-07-06
+    - 摘要：成年人交友新方法
+- [如何能在爱情中「看透」自己和对方？丨KY独家卡牌游戏 让你看见彼此的生命底色](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718201&idx=6&sn=fff4d4c69a1cb5df7df7e1026115c527&chksm=9fc9bc7da8be356bef467b6230beb557f617002efcc6ee2477b5fc15b42f59c03a9c32bd58b1#rd)
+    - 时间：2022-07-06
+    - 摘要：KY独家心理卡牌游戏，优惠热卖中！
+- [越来越迷茫，不知道怎么做选择丨周四直播，专业咨询师跟你聊聊如何走出迷茫期](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718201&idx=8&sn=b67e5ada42fcfd5d1a2b837931fe4622&chksm=9fc9bc7da8be356b99104c78a8cd1cf4df0e2374d2e65ec7cb132669ec607c5c883bfadcb0be#rd)
+    - 时间：2022-07-06
+    - 摘要：文内预约，不错过
+- [一种会让成年人「秒变恋爱脑」的“大病”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718031&idx=1&sn=2683562ffdfaaa63515dd8157655808a&chksm=9fc9bdcba8be34ddc49219cc53b3c1ffaaa83c989e52b163f80c3919c2da430c3b5386faec01#rd)
+    - 时间：2022-07-05
+    - 摘要：仅供参考，切勿自我诊断
+- [如何重获感知幸福的能力？丨KY独家「幸福源泉」心理手账限时优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718031&idx=3&sn=ce6840dfc2a33cbd5ccd6c32b4cd196c&chksm=9fc9bdcba8be34dd24f572e14a9efee91a341c537a296bf6d222b253bb44e8d655ce725d9fdc#rd)
+    - 时间：2022-07-05
+    - 摘要：在「幸福源泉」心理手账，学习这种人人都可以获取的「幸福力」！
+- [都说要做喜欢的工作，我怎么知道我喜欢什么？快戳！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718031&idx=4&sn=2e670503dd1c820fde46f2d9126386d5&chksm=9fc9bdcba8be34dd330d4a5ff55092edce02eb9e5faca08a858624e42c6df5331b4ee3c4aeff#rd)
+    - 时间：2022-07-05
+    - 摘要：你的职业兴趣和优势是什么？
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718031&idx=5&sn=ed6c2d45cd0b75f8f87647fbae62dfaf&chksm=9fc9bdcba8be34dd7d165d917a65bb1bb1bc15be6181248a541b058b2662979c41b56f6b2b8d#rd)
+    - 时间：2022-07-05
+    - 摘要：这些小tips不要错过～
+- [毕业季从学生走向职场，你非常需要专业建议](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247718031&idx=7&sn=59b9b8ffc221d3300bf9377785ece7f1&chksm=9fc9bdcba8be34dd16de816f274ee20619f1452dc0693d1bba5e381bcfa61c28d5e102eea5e6#rd)
+    - 时间：2022-07-05
+    - 摘要：KY聊愈师为你分析解惑，首次使用免费
+- [「爱情霸权压迫」：你有没有被“人生必须要有爱情”的观念困扰过？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717486&idx=1&sn=cefce93f803a58f51078126b05d484b4&chksm=9fc9bb2aa8be323c20ae66f1fa8e286ab0b4d26f42d86383b67cccdf1fd3a505fcc07de40c76#rd)
+    - 时间：2022-07-04
+    - 摘要：对爱情的过于抬高，限制了我们对其他关系可能性的想象。
+- [8天免费共练营，从这里走出低自尊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717486&idx=4&sn=0716989d661ceb4769e7fe89e65ea3d5&chksm=9fc9bb2aa8be323c89057a13a3d8552e3f5677593e0137dbf34d225630585d01972b47bdf615#rd)
+    - 时间：2022-07-04
+    - 摘要：原价99共练营限时免费中，和小伙伴们一起，8天看见闪闪发光的自己~
+- [疲惫的打工人如何「重建生活意义感」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717486&idx=5&sn=725fac478a3a658850d5ff2493463228&chksm=9fc9bb2aa8be323c29154d188d12a862ebfbdc930a7bb359744bfd5e802544588d2d9037a028#rd)
+    - 时间：2022-07-04
+    - 摘要：努力找寻生命的意义，才会收获来自生命更多的馈赠
+- [「看起来有害，但其实对你有好处」的8件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717365&idx=1&sn=4fba265de9bcf81605f68fc74a3e74ae&chksm=9fc9b8b1a8be31a7640f39aa9db7792e8f1f0852922d9fe3011d51bb1bbe62b07ca9e67d6053#rd)
+    - 时间：2022-07-03
+    - 摘要：有些坏事有助于我们的心理发展
+- [“据研究，40%的幸福感掌握在自己手中” 丨最新KY心理手账限时优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717365&idx=2&sn=5f67ad69f7b76bf59ce6e099d9d9fbe7&chksm=9fc9b8b1a8be31a7e2e60350be6b760a834bf5ca2400885437d75de23cf1916b3edc2bce9804#rd)
+    - 时间：2022-07-03
+    - 摘要：在「幸福源泉」心理手账，学习这种人人都可以获取的「幸福力」！
+- [如何寻找幸福源泉，找回真实自我｜周一直播，与你聊聊「你，离幸福有多远？」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717365&idx=8&sn=15be0184af4e60b4702c1cd2f0375cb8&chksm=9fc9b8b1a8be31a73bc7b9f2099c8e6ebe8aa488f0fcdfe435d4e8513489b8d921e39f18c7fe#rd)
+    - 时间：2022-07-03
+    - 摘要：文内预约，不错过
+- [如何走出自我怀疑？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717223&idx=1&sn=1ea9cb5104da1e664819967bb6b9f950&chksm=9fc9b823a8be31351056deaa4f8809dab4d55abcfa297c861351c5f86e98a1b5b587383f7784#rd)
+    - 时间：2022-07-02
+    - 摘要：人生有很多种解法，坚持属于自己的路。
+- [进入心理行业，获取线上从业机会，重塑你的职业发展新形态丨距离萌芽12期开课仅剩3天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717223&idx=2&sn=84a63792d923f58e2c40181fd469abc7&chksm=9fc9b823a8be313595553f06f43a61273da7578147ae0171ea3613d25de130bceb507f405d10#rd)
+    - 时间：2022-07-02
+    - 摘要：心理咨询精英入门课程+配套实践
+- [你真的了解自己吗？丨解锁你的内在人格](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717223&idx=3&sn=406021d1eafc77f1b56a46fd6bbc284b&chksm=9fc9b823a8be313511e7dbd8a6dd3370dd253899ee072a6eb7294e9e54c83265dd06fc1ff5d7#rd)
+    - 时间：2022-07-02
+    - 摘要：这份测验，助你发现内心深处的人格秘密
+- [“从亲密关系，透视你的一生。” 丨最新心理卡牌游戏，KY首发！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717223&idx=5&sn=11bc55942b56443717e5ae1baa1c5010&chksm=9fc9b823a8be3135207152f1c59ddc3f829fe10782dc719c23bc0de3808495ef3ec022441bdf#rd)
+    - 时间：2022-07-02
+    - 摘要：KY独家心理卡牌游戏，优惠热卖中！
+- [为什么伴侣总是跟我斤斤计较？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717223&idx=7&sn=adfc8e03fc2d8cd4e92f32f314a08ab8&chksm=9fc9b823a8be31350162a5b3b90fa62f571eab64411928ea41e9dba805cb74e57844abe154e1#rd)
+    - 时间：2022-07-02
+    - 摘要：
+- [面对时代的不确定，如何用心理学点亮更多职业可能](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717223&idx=8&sn=0e3259559d3f151dc96de131109725c9&chksm=9fc9b823a8be313546a6c5627046966b384729b71ec96a2b36a0b816324069ad88dee26ff825#rd)
+    - 时间：2022-07-02
+    - 摘要：本周日直播，预约不错过，专属福利等你来领！
+- [伴侣只要一方有了这种心理，关系就会变得很危险——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717140&idx=1&sn=60642fc0244ade75e970754d67fb65fc&chksm=9fc9b850a8be3146d05d4e4145d9753c99742a291d34df48dae12bee0fa1a8ecea8d8c04a678#rd)
+    - 时间：2022-07-01
+    - 摘要：什么是压力的「二元应对」？
+- [“很多道理都懂，却依然过不好这一生”，心理学告诉你为什么 | 距离萌芽12期开课仅剩4天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717140&idx=5&sn=cd79e3b8df52c7d711dc5299f62674ec&chksm=9fc9b850a8be3146f0c3303aa441a679ae58f0e04f3a1728525834ecc510f5487e21b717870d#rd)
+    - 时间：2022-07-01
+    - 摘要：心理咨询精英入门课程+配套实践
+- [普通的我，如何找到被爱的信心？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717140&idx=7&sn=6789691565b2328a70460d538464e5e4&chksm=9fc9b850a8be3146b4e146f349bef2e71e14a66bab0ac7f6a3a0873a96bef4ec9468b34a418d#rd)
+    - 时间：2022-07-01
+    - 摘要：当你开始偏爱自己，残酷的世界也会变得温柔
+- [高温天气中的“清凉”秘诀丨和小伙伴一起云端共练冥想吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247717140&idx=8&sn=2e04ad42be8e11c18cf7b7fb5ab0feb9&chksm=9fc9b850a8be3146c0a321afba68c6376d14df023b57d771408c2d13c358bbfbde3df1dc17c8#rd)
+    - 时间：2022-07-01
+    - 摘要：来参加「冥想共修」活动，和其他爱好冥想的云端小伙伴一起练习，互相鼓励，收获冥想的好习惯吧！
+- [是哪一刻让你有勇气和Ta结婚？是这22个时刻。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715373&idx=1&sn=d944e06c907707c596344548dbb7d2e6&chksm=9fc9a369a8be2a7fe995497d793715964d7f2d7be07d7b708797033977996fd4af8e63be8f07#rd)
+    - 时间：2022-06-30
+    - 摘要：结婚不是必须，而是水到渠成。
+- [比起被看好，我宁愿被低估｜如何消除“被期望恐惧”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715373&idx=4&sn=5bc6ec8bfc992861b879b9b5b7d975fb&chksm=9fc9a369a8be2a7f436e63eac5f75f39aa80220c35f37dcd51e628087f4eaf598bd410cd8785#rd)
+    - 时间：2022-06-30
+    - 摘要：学会拥抱他人的肯定与接纳，始终记得你值得爱与被爱。
+- [如何从冥想中获取创意灵感？看看大卫·林奇的创作建议](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715373&idx=6&sn=a8ecbb58ff5505b58d082bc28d45bf64&chksm=9fc9a369a8be2a7fe4aa0429d73f6c276504c7e6ee341dd2bb3ab33605775ca5f2619031b6a8#rd)
+    - 时间：2022-06-30
+    - 摘要：电影、艺术与冥想的跨界联动
+- [最最最最最简单的「心理安抚技术」，只要一句话——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715266&idx=1&sn=2a4ae572e4d99f0eaffb65c7557b1462&chksm=9fc9a086a8be2990adcd836442012fa914d7736f2e590a2856cd54149e12b2fb2c1f2065d101#rd)
+    - 时间：2022-06-29
+    - 摘要：打开对方“内在世界”的钥匙原来是这个！
+- [抑郁和8种让你不容易快乐的思维模式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715266&idx=4&sn=9e6fd309f927585f52b9aea34ef1912c&chksm=9fc9a086a8be2990214200f307eb60d0ca06cd9c381ba6860ee2b38fe187fa71bf4b0a1ef51c#rd)
+    - 时间：2022-06-29
+    - 摘要：心理咨询精英入门课程+配套实践
+- [对爱情既渴望又畏惧，如何坦然接受爱？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715266&idx=6&sn=f19edf6e47a2385215e2d7881823b998&chksm=9fc9a086a8be29902c41532ba48ea6f842f0535cd2999ccb1c3642e8f9e10b0be7b5266bd5b6#rd)
+    - 时间：2022-06-29
+    - 摘要：祝我们都能放心被爱～
+- [亲密关系里如何做到互相尊重？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715266&idx=7&sn=88ca578bdc6bd240354f1adf984accd5&chksm=9fc9a086a8be2990c098c8678866fedefc0f5e41b1d70b4411b874c802fe43b98b37ca3cadf4#rd)
+    - 时间：2022-06-29
+    - 摘要：
+- [放不下前任是执念太深吗？｜ 周四直播，专业咨询师跟你聊聊「走不出失恋，怎么办？」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715266&idx=8&sn=7df2aaa8501674154d13d3f29252f3bb&chksm=9fc9a086a8be29907ce0a29097dd66ca69f5a95336539598ca011805b519575f3d8d5f52371c#rd)
+    - 时间：2022-06-29
+    - 摘要：文内预约，不错过
+- [结婚会面临的6个挑战和6个机遇](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715053&idx=1&sn=f81fd7a4ec51daeebe245bf0e3a40d62&chksm=9fc9a1a9a8be28bf244f6d5994bf5baf7199e5a8f7e20317baac28ded5b4b9572dd9016f7d99#rd)
+    - 时间：2022-06-28
+    - 摘要：婚姻充满挑战，但相爱的人仍愿一同赴险。
+- [我来告诉你，为什么从事心理行业不用担心失业丨萌芽12期即将开课，优惠价进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715053&idx=2&sn=cd39bd1d25eec39059618a7e823f1174&chksm=9fc9a1a9a8be28bff8406984810d55fdfc0a751ef44d6f89981d5ce460395b35fc88437fdf8f#rd)
+    - 时间：2022-06-28
+    - 摘要：心理咨询精英入门课程+配套实践
+- [如何走出出轨风暴？丨KY出轨后创伤修复手册](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715053&idx=3&sn=47eaec88c6c9576b7a42372aa92c244d&chksm=9fc9a1a9a8be28bf55084a80febad4eef04584183388beaac67e9bc35a36e62e8b7ff2b8a7de#rd)
+    - 时间：2022-06-28
+    - 摘要：Ta的出轨，带走了我信任的能力
+- [从「心理手帐」里找到改变的勇气。｜KY研发手记](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715053&idx=6&sn=0d2e7d0575e5201e16c1e78a3d0a397c&chksm=9fc9a1a9a8be28bfe6eb2a8284a80c5572046a7de16ed6bcfebeba609db8422635fb738b7f11#rd)
+    - 时间：2022-06-28
+    - 摘要：在「摆脱低自尊」心理手账中用「表达性书写」迈出勇敢的第一步！
+- [想倾诉又害怕得不到回应怎么办？丨你可以来KY「书信聊愈」试试！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715053&idx=7&sn=540f66a8b5e6827c2655605142856761&chksm=9fc9a1a9a8be28bfcb7888fb1ca91ef2f1ac921f0d6114ad38ef8701f6aff2cfa83d0f29a9ee#rd)
+    - 时间：2022-06-28
+    - 摘要：为您提供专业的心理支持与关怀
+- [你和Ta的心理距离有多远？丨周三抖音直播，KY创始人与你连麦聊聊「怎么与他人建立心理上的连接」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247715053&idx=8&sn=10a3aaee447099e4722e8d8754c222ee&chksm=9fc9a1a9a8be28bfb7b46166b747e8aeccdf70a52b1318bae2afbffa422a01e4fb9429fa7688#rd)
+    - 时间：2022-06-28
+    - 摘要：KY小姐姐，周三抖音直播！
+- [缺乏这种感受的生活，长期会严重损害你的健康——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714883&idx=1&sn=24f476fa2675a7b94ad3b7050f9b1293&chksm=9fc9a107a8be2811e5acbb3b993daae1b8cb71871b5b69301d2c6a3a33d3946afb936803f2a0#rd)
+    - 时间：2022-06-27
+    - 摘要：什么是“dignity”？
+- [越讨好，越不讨人喜欢 丨「低自尊」如何自救？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714883&idx=5&sn=18f8cfce1f9aff18ee7e2110af08fd44&chksm=9fc9a107a8be28113b16b558a713ba0324d6b66408caaa77d569fadc0a3b236587500b2143ed#rd)
+    - 时间：2022-06-27
+    - 摘要：无论你是什么样子，都值得被自己温柔相待
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714883&idx=6&sn=eb0ac941eb7d4ed7b677e2ba08a932ff&chksm=9fc9a107a8be28114de8d050507b09973946c64ce69a8b32d569d4d15e4e4041e4f4aadfc386#rd)
+    - 时间：2022-06-27
+    - 摘要：这些小tips不要错过～
+- [30+真的比20+快乐很多。这里是7个原因——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714382&idx=1&sn=1a448f358fe4c0b7a2021c566e85978d&chksm=9fc9af0aa8be261c0e0aa3a24260ba95992e4270dd3649c773a89a5039179a443324c847504f#rd)
+    - 时间：2022-06-26
+    - 摘要：变老本身就是一种心理疗愈。
+- [KY最新心理卡牌游戏限时折扣｜“从亲密关系，透视你的一生。”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714382&idx=2&sn=548a1083d19de3848d914abb287a998c&chksm=9fc9af0aa8be261c7d55c9d2efcbd0751072fedb74ec76c0731f7137851ab9e6f8329fbc05cb#rd)
+    - 时间：2022-06-26
+    - 摘要：KY独家心理卡牌游戏，优惠热卖中！
+- [“你了解真正的自己吗？” 丨大五人格升级版来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714382&idx=3&sn=58217a021e4eb82f69f63b2c72d50abc&chksm=9fc9af0aa8be261c94b05985ddd135172274ee75fe1982f1afb87dfdb20d371d3c2148cb06c6#rd)
+    - 时间：2022-06-26
+    - 摘要：帮你了解自己人格的优劣势。
+- [为什么说“被看见”具有治愈力量？丨你可以来书信聊愈体验看看！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714382&idx=7&sn=25da371e1685c0965943486aec4d3101&chksm=9fc9af0aa8be261ca9f16bf089b496777bb877eee69b9e389e9777d02068ba95d9bb38869e1c#rd)
+    - 时间：2022-06-26
+    - 摘要：为您提供专业心理关怀
+- [为什么有些人会认为「女性不应该有堕胎权」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714277&idx=1&sn=53ef053d896963a1066970c74d436fb8&chksm=9fc9aca1a8be25b75502c6ab6f55aa78e40c2cc1e01ecb0f92194f48f8c76934a3dfe3ba487e#rd)
+    - 时间：2022-06-25
+    - 摘要：支持堕胎选择权，不等于鼓励堕胎
+- [你是什么样的“依恋类型”，就决定了你在恋爱中有什么样的表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714277&idx=3&sn=e30a0f32c461ce37ae0114e2a29ced6e&chksm=9fc9aca1a8be25b778ba060586c26c5bb899d0049ca6c7d48be22520727a94acd195a581af9e#rd)
+    - 时间：2022-06-25
+    - 摘要：心理咨询精英入门课程+配套实践
+- [在伴侣面前小心翼翼，害怕被抛弃？速测！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714277&idx=4&sn=28aa1a14e8e34014ff7e45dbda40b50f&chksm=9fc9aca1a8be25b70304c5f395a183894c66574f4bcab8278eff31a35f9c8701c0443561321c#rd)
+    - 时间：2022-06-25
+    - 摘要：叮~恋爱不安全感分析手册已送达！
+- [人人都说爱自己，但怎样才能真正做到爱自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714277&idx=6&sn=28d7b538d8d56277f7961a6c6810de9b&chksm=9fc9aca1a8be25b717fee5340f77c7290832785a43efef0b9e64c49172298fb7177861d26002#rd)
+    - 时间：2022-06-25
+    - 摘要：“每个人都可以再一次爱上自己”
+- [如何做一个快乐的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714277&idx=7&sn=61755c507712d093b015128ee4b6de06&chksm=9fc9aca1a8be25b7ea8efaf34d62ce9e337428cdfa96a591b6d4f65c107ef35547581ae71576#rd)
+    - 时间：2022-06-25
+    - 摘要：
+- [「成熟的友谊」才有的7种表现，让你想起了谁？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714185&idx=1&sn=0cc87d43dc61a0e2cbba2de182c6b2e7&chksm=9fc9accda8be25db705a8e5a2a663d5d3f6faa8b70317e8f49de69ea85cc7bd0b8b4e8edd744#rd)
+    - 时间：2022-06-24
+    - 摘要：成熟不一定深入。玩伴有玩伴的欢乐，交心有交心的美。
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714185&idx=2&sn=38df1ebe2d12271c18b812b72955a7d2&chksm=9fc9accda8be25db376b20be0d3d9d723c8156be017ccf620c8e353a25afe1c90f97fe383ed3#rd)
+    - 时间：2022-06-24
+    - 摘要：想做那个听你说出心声的人。
+- [一份有效、能实践的《自爱手册》，值得收藏](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714185&idx=4&sn=981aaa4a5f83f0e6519a3af408a0236a&chksm=9fc9accda8be25db26bdcfea21669190f2e849fbdbcc35eba88721bac06583296409f1cea89f#rd)
+    - 时间：2022-06-24
+    - 摘要：希望我们都能无条件地爱自己
+- [毕业季，一份你不能错过的求职秘籍 ｜ KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714185&idx=6&sn=3ef78edf9e8eef0aa29aa495526baf9c&chksm=9fc9accda8be25db4e92a70bdf4a9ffaa133c6d727606618002e05a358f0528143c6bc943194#rd)
+    - 时间：2022-06-24
+    - 摘要：求职晋升，这份测验帮你全部搞定。
+- [总是忍不住取悦别人，如何撕去“讨好者”的标签？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714185&idx=7&sn=e236fd5a985010c03e80c2e092d1b508&chksm=9fc9accda8be25dbf983cf8046cefab871378c33b53561432afde7b24deeeeb9292f62ca23f6#rd)
+    - 时间：2022-06-24
+    - 摘要：心理咨询精英入门课程+配套实践
+- [面对生活的疲乏，如何放轻松？｜线上冥想茶会喊你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247714185&idx=8&sn=1ba9ac4c8b91798c3fb6c50948f86a56&chksm=9fc9accda8be25dbfc55010052c1097194edaaf102a655c6fa57992203e94eda52a5a11b9fa1#rd)
+    - 时间：2022-06-24
+    - 摘要：来线上冥想交流茶会，一起给重复的日常增加新鲜感！
+- [一段关系是如何破裂的？9个征兆需要关注](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247712541&idx=1&sn=febe25bf804b70ec13eadcffdf4b4722&chksm=9fc99659a8be1f4f4216a1da8cfac01760b13888c4513bc5c083c576215d91e5d619fdfe8412#rd)
+    - 时间：2022-06-23
+    - 摘要：心理学家Gottman的亲密关系研究系列
+- [你的直觉准不准丨测测如何利用直觉的力量做出更好的决策](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247712541&idx=2&sn=cc5efad4942834e07d99606ac354b089&chksm=9fc99659a8be1f4fb657da618bd97f6a4a8364f92399d8935c0e47b885572ee5b1a1f08cbf3f#rd)
+    - 时间：2022-06-23
+    - 摘要：一篇关于“直觉”的专业探讨。
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247712541&idx=4&sn=b9294e3b9bac15452c80dd8ec0398a9e&chksm=9fc99659a8be1f4f8050801fb5d7701695825718c22becbab439ac6314a7be93d0293c96f72a#rd)
+    - 时间：2022-06-23
+    - 摘要：想做那个听你说出心声的人。
+- [这件事是“爱自己”最大的障碍——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247712541&idx=6&sn=99fe1d9232f3b873035a94da254bca9d&chksm=9fc99659a8be1f4f0500ec348c19555cd83362c08f704230d0d11df4ff1122ea814614673d8f#rd)
+    - 时间：2022-06-23
+    - 摘要：如果你觉得自己有这些现象，那你可能是“低自尊”人群
+- [你够自我接纳吗？这个测评告诉你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247712541&idx=7&sn=0ab68ced98d21c4a05d8f74e010d1b6e&chksm=9fc99659a8be1f4f56eb9b2f9a7027f031d61c0116355ec7e24715ece97f4b075ce87472c4fb#rd)
+    - 时间：2022-06-23
+    - 摘要：谁说自我接纳就是要摆烂了。
+- [心里有事？书信聊愈为你分析解答问题！首次免费](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247712541&idx=8&sn=e51983acdad924e1d8ca94860c6c098e&chksm=9fc99659a8be1f4fd307c24d92d62ab4f0273e6e642e8991a2e14d0bd968bff8aec20d5328aa#rd)
+    - 时间：2022-06-23
+    - 摘要：为你提供专业的心理服务
+- [“你越想去证明自己被爱，越感觉不到爱。”心理咨询师扎心的18句话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711297&idx=1&sn=3cde67da4e5db585400eba4144066998&chksm=9fc99305a8be1a13af07f912fae0d7908e6b27f94043eec72d4dffb72c8930953a802feff675#rd)
+    - 时间：2022-06-22
+    - 摘要：心理咨询师系列第三弹
+- [距离你最近的0基础心理学求学、从业机会不容错过丨萌芽12期课程升级，团购优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711297&idx=2&sn=9f96f534b7ec437bf60c2455a043f1a3&chksm=9fc99305a8be1a13585b68ec1f3cea09c9046b10756a643b5a02ac11aa7c02b237e342b46517#rd)
+    - 时间：2022-06-22
+    - 摘要：心理咨询精英入门课程+配套实践
+- [“永远接纳，永远保持冷静”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711297&idx=3&sn=9887b0920b61f93212a8ef4d9693cf7f&chksm=9fc99305a8be1a13effd66b50c734ee9a089f501ea9ebd9a074b6c91246fe4784702673c4227#rd)
+    - 时间：2022-06-22
+    - 摘要：
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711297&idx=4&sn=c575699e3e2f7996f77c07bea4a9097b&chksm=9fc99305a8be1a132736bc63e02496a329d09d70911219b71bcb8797f71d38f74cde0a65a832#rd)
+    - 时间：2022-06-22
+    - 摘要：这些小tips不要错过～
+- [如何用「表达性书写」摆脱自卑心态？KY「心理手账」研发手记](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711297&idx=5&sn=dc0bc989dd188d849c53f9d12ed5e5ef&chksm=9fc99305a8be1a13b376ca966ec540252a4dfcf067949d3529e39ba5de6b5098971ec7252f14#rd)
+    - 时间：2022-06-22
+    - 摘要：关于「表达性书写」的心理学解答
+- [如何确定自己是否适合做心理咨询师?](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711297&idx=8&sn=887e7e296f15754ed64a27218b47ceb3&chksm=9fc99305a8be1a1381edceb98064ade528eac9ef6dcb24e8ea09188583169a868a19e512c048#rd)
+    - 时间：2022-06-22
+    - 摘要：周四直播，预约不错过
+- [什么样的性格最受欢迎？研究说：看这7点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711131&idx=1&sn=b62e627cbd81d7ab0ee7dda670f9a5d3&chksm=9fc990dfa8be19c929622a6eb7e7fbcf8b4388278252fb757b1c7ae0301440f5678d7502d067#rd)
+    - 时间：2022-06-21
+    - 摘要：最简单的提升“社交魅力”的方法在这里
+- [改善拖延必经的3个阶段（不难），你知道吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711131&idx=4&sn=ddc82afe53144b746879a207a377bbeb&chksm=9fc990dfa8be19c9341684e60279665def2967485c389891600735e4e744407ea58e4e890422#rd)
+    - 时间：2022-06-21
+    - 摘要：原价199共练营限时免费中，和小伙伴们一起，8天学会改善拖延~
+- [“一段好的亲密关系，光处理好当下是不够的”丨KY独家心理卡牌游戏，优惠热卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711131&idx=5&sn=68b3532e12b1a8509cb6281933401f77&chksm=9fc990dfa8be19c9424e4ed092af44da2e488ef991ff2764677333303c790df3f6dcb433432e#rd)
+    - 时间：2022-06-21
+    - 摘要：从亲密关系，透视你的一生
+- [冥想要练多长时间可以见效？这里有专业解答](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711131&idx=7&sn=d77910cc39e62cef8329ac639d580ba3&chksm=9fc990dfa8be19c952285190a5c987dded041da0f05706961713d02b99ed8b88bbce4d333eb9#rd)
+    - 时间：2022-06-21
+    - 摘要：想要迅速收获冥想功效？这里有一份方法指南。
+- [「幸福的已婚者」有什么样的共同特点？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711032&idx=1&sn=ac1d37777bdfc6e8670aab1061be1a26&chksm=9fc9907ca8be196a8da36cd3a0ba747f3fb701772cf1decbc38ad872a2060e4c89ff14f3fe0f#rd)
+    - 时间：2022-06-20
+    - 摘要：来自幸福已婚者的“人间清醒”式发言
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711032&idx=3&sn=bc33e85df26d1ad5385e460497162beb&chksm=9fc9907ca8be196a8b92d803714035f06d3d947c2ef6179f5252f851105d6d5eee6f98635a1c#rd)
+    - 时间：2022-06-20
+    - 摘要：心理咨询精英入门课程+配套实践
+- [空虚、无力、乏味...如何在日复一日里的生活里找到意义？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711032&idx=4&sn=b7399ba6ac3a70528157268f6e5480ac&chksm=9fc9907ca8be196a19c746c0957bbfc1508e1b89256e71f3f188a068ac9b80de6b4b9254a9d0#rd)
+    - 时间：2022-06-20
+    - 摘要：努力找寻生命的意义，才会收获来自生命更多的馈赠
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711032&idx=5&sn=59188b5354d3b865b317bd0187956181&chksm=9fc9907ca8be196a0f401305bb3666a7e7e1ffe3a097bdebb74f6eca1f47e0ac630ac487dedd#rd)
+    - 时间：2022-06-20
+    - 摘要：马克，总能用到！
+- [我想和自己好好相处丨周二直播，专业咨询师跟你聊聊「如何与自己相处」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247711032&idx=7&sn=5a30484beba382012d65e817dd31c949&chksm=9fc9907ca8be196a70612c7efe51fbfd8f677a8e0dbd81d9d6868c303b2da620380f983f3436#rd)
+    - 时间：2022-06-20
+    - 摘要：文内预约，不错过
+- [人是如何成熟的？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709666&idx=1&sn=84835fe57e93262129f446e7ccc48f3c&chksm=9fc99aa6a8be13b02562dd156fed9a3335295657afd6608641d1bebac76eb9ebb9ed3a48de6a#rd)
+    - 时间：2022-06-19
+    - 摘要：成熟是获得幸福的一种方式。
+- [618最后24小时 | KY「心理功能手账」叒补货了，手慢无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709666&idx=2&sn=40b8ca06351920be9602992fbde51e20&chksm=9fc99aa6a8be13b01901093a86e0c2d71cd36b3ae7225045fafe6f00581bdabe63c26a4bd4d1#rd)
+    - 时间：2022-06-19
+    - 摘要：手！慢！无！
+- [为什么说内向不是一种性格缺陷，而是解锁成功的宝库？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709666&idx=3&sn=caed84b0c72dd6a202e2cb1fe8fd3b38&chksm=9fc99aa6a8be13b0aaa19184ec95517fae43059ee1f013cc470948167454f04dd4a490dd106e#rd)
+    - 时间：2022-06-19
+    - 摘要：心理咨询精英入门课程+配套实践
+- [不想总把事情拖到最后一刻？8天改善拖延](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709666&idx=4&sn=f3dadbab9efe022f84807de7a7f17ceb&chksm=9fc99aa6a8be13b074b4b12491365bb2228b339a4ee3cf1ade1bf75556f08b7d949c17c1dec4#rd)
+    - 时间：2022-06-19
+    - 摘要：原价199共练营限时免费中，和小伙伴们一起，8天学会改善拖延~
+- [KY教你用MBTI找到理想的Ta](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709666&idx=5&sn=85e1ae4d8ab355697926d3d27e63c180&chksm=9fc99aa6a8be13b0cd1bb9508b3658bec0f2fe47568f9e58312d92645dbcccfa95c8c98ce971#rd)
+    - 时间：2022-06-19
+    - 摘要：点击立测你的恋爱MBTI。
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709666&idx=6&sn=29b215b0ff42b79fa3869c72839be405&chksm=9fc99aa6a8be13b0d1d112dd3cfbfe40b27f629b878382f32135f97c592c788be214e08e94aa#rd)
+    - 时间：2022-06-19
+    - 摘要：这些小tips不要错过～
+- [心里有事？书信聊愈为你分析解答问题！首次免费](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709666&idx=7&sn=844d27d5d8fc2a2f40c9d6a1cd9973e0&chksm=9fc99aa6a8be13b00505d527249e1cd2ad142f94282090c7d6f077fe89c0991b66b2ef6a630b#rd)
+    - 时间：2022-06-19
+    - 摘要：为你提供专业心理的陪伴
+- [你和一个人有了「心理连接」的10种表现。你们中了几种？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709578&idx=1&sn=d7afb4e91d8fd9f215a9937bcae965ee&chksm=9fc99acea8be13d8061ddad74194751d22bbeea2dd9ba35719fdf8df9fcc284cda41e786b476#rd)
+    - 时间：2022-06-18
+    - 摘要：连接感，值得一生珍惜
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709578&idx=2&sn=0a8f7c0720a016f465783fdaaea33781&chksm=9fc99acea8be13d876dd5544805fd64598ee7606608f8df52d5e6811d8b2c0c815750485bd0b#rd)
+    - 时间：2022-06-18
+    - 摘要：成年人交友新方法
+- [决定你人生难易程度的，是你所拥有的“内在资源”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709578&idx=3&sn=270ff7539e9cbed8521880fee91a6ded&chksm=9fc99acea8be13d8494937623bea1057902f36cc1268719e6e5edf17491b1e933bcdffaaff0e#rd)
+    - 时间：2022-06-18
+    - 摘要：心理咨询精英入门课程+配套实践
+- [疲惫、空虚、没意思...该如何摆脱麻木，找回生活的意义感？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709578&idx=5&sn=5b3aaf72fa1d3f652400fe31aabe2ba8&chksm=9fc99acea8be13d8534f19e8fdff0c8daf042e65d2422fcb49b8899ba61d462a7dda8c8d1165#rd)
+    - 时间：2022-06-18
+    - 摘要：愿你也能同样自由而敞开，认真享受生活带给你的每一次吹拂
+- [把小秘密告诉了陌生人，是种什么感觉。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709578&idx=6&sn=6851604b413e1b5f6f28b40911d88a0c&chksm=9fc99acea8be13d84838933d6042dc5f8ee8c4c67a966e21c45b1dc2badf50d0b0b4673417ba#rd)
+    - 时间：2022-06-18
+    - 摘要：
+- [相互尊重的爱情，才能长久。如何做到互相尊重？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709578&idx=7&sn=4eca3708fa98c803dceb3c2c231bcf95&chksm=9fc99acea8be13d8d8c8e3cebb5159c8d64f25d82957562411724d3da47675757ebf679dbf16#rd)
+    - 时间：2022-06-18
+    - 摘要：
+- [咬：一种比性交更「心理亲密」的行为｜正经开车](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709530&idx=1&sn=1a97184492b49a635840dcf721662814&chksm=9fc99a1ea8be13087e3bfaf0bf51993ed30cb0f3a84a00318f90a4b15ff73ed0c73b47a40cb3#rd)
+    - 时间：2022-06-17
+    - 摘要：oral sex中的情绪与爱。
+- [把小秘密告诉了陌生人，是种什么感觉。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709530&idx=2&sn=6d7efcccf1e08d71d5418e0a0a8ff9f0&chksm=9fc99a1ea8be1308712e27850498d8398e2a562e3a3cf34a9dd2d3b0c59007957234fd156f33#rd)
+    - 时间：2022-06-17
+    - 摘要：
+- [8种常见的惯性思维陷阱，你有吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709530&idx=3&sn=f28bc5169fd232dc9be8ef764061b297&chksm=9fc99a1ea8be13087d75130ac2e0e4c38ce640bed96558e635e4bc3deb84ab93aa47e617ea10#rd)
+    - 时间：2022-06-17
+    - 摘要：突破认知局限，从了解自身的惯性思维模式开始。
+- [你好，陌生人。让我们试试做一周的朋友丨KY匹配计划之「见习好友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709530&idx=4&sn=1ac45f006393bf8ffa6692bc689ac78b&chksm=9fc99a1ea8be130814f5f9a6327b35f2f45979c9d8d9bb5e309237ffa76439035913721128c2#rd)
+    - 时间：2022-06-17
+    - 摘要：成年人交友新方法
+- [毕业季压力山大？在线上冥想课调节好身心状态，满分前行！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709530&idx=7&sn=987ab24fc0a8d97e335ca0e1e4a9754d&chksm=9fc99a1ea8be1308c6087e436831b26b08bf4054e180562807930898d8ca9a88f262879138dc#rd)
+    - 时间：2022-06-17
+    - 摘要：618限时优惠最后一天！别错过末班车噢
+- [618 KY小姐姐直播专场丨心理功能手账全套，周六价格新低！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709530&idx=8&sn=b82f1d2fe81ed038428352db9a1cf389&chksm=9fc99a1ea8be1308f47305486477ff2f34e45a9f85d8c9e9dedd4f11282a8b4b5e729564e6ce#rd)
+    - 时间：2022-06-17
+    - 摘要：文内预约，不要错过！
+- [这件事每个成年人都会经历，不是失恋却比失恋还难过——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709149&idx=1&sn=54d3d490848b23bfca9e121efe25cab3&chksm=9fc99899a8be118f2d383756a71f0b5d667fe8a99730c9cdab6b1c1735ed95afd240cb568273#rd)
+    - 时间：2022-06-16
+    - 摘要：成年人的另一种“分手”
+- [成为心理学工作者，可以是你为自己选择的一份副业丨萌芽12期课程升级，团购价优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709149&idx=2&sn=7a0100a073f3a1eed9ffccb0693c8350&chksm=9fc99899a8be118fc6ec4c92638c8667eefe5a95cdc18cd5d724c26571ccc650436160be8a0a#rd)
+    - 时间：2022-06-16
+    - 摘要：心理咨询精英入门课程+配套实践
+- [你有哪些未知的天赋？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709149&idx=3&sn=8b441cbb921eb99fb989b39dc411f9bb&chksm=9fc99899a8be118f57c49cb9334f6a9290274fb9b7341c3732fac6974943961a90af137afade#rd)
+    - 时间：2022-06-16
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709149&idx=4&sn=34d2f94b7d3cb4fecd8d24767929768a&chksm=9fc99899a8be118f409a441226348cc8a5349f55480a85e527380a4ee173f486b35d13610778#rd)
+    - 时间：2022-06-16
+    - 摘要：马克，总能用到！
+- [618大促倒计时丨备受好评的KY「心理功能手账」现货即发！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709149&idx=5&sn=14b305ca3c5eba67e7986016aea17173&chksm=9fc99899a8be118f1b04165eef0346ee0b58d5142d65a4eab126a17931757884bea2b304e03f#rd)
+    - 时间：2022-06-16
+    - 摘要：手！慢！无！
+- [陪伴、互助、学习...心理粉丝群邀请所有KYer前来集结！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709149&idx=6&sn=1dbfe5c05946547a0b7f9c1a14bbc7c8&chksm=9fc99899a8be118f55fa67d7077bca0d17dad3f8f0fd212a4f1d38bdc63e5771a65051151474#rd)
+    - 时间：2022-06-16
+    - 摘要：
+- [如何从冥想中获取创意灵感？看看大卫·林奇的创作建议](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709149&idx=7&sn=dedbc843e2a1462a120a5644e6bf519c&chksm=9fc99899a8be118fd27543ccb6d55ff5ae4e9e3802dad81bd283e047092cfa58603bbb85ab59#rd)
+    - 时间：2022-06-16
+    - 摘要：电影、艺术与冥想的跨界联动
+- [对生活感到麻木，怎么办？丨周五直播，专业咨询师跟你聊「如何找到生活的热情」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247709149&idx=8&sn=090be5115dec185dc63b55d14be5ab11&chksm=9fc99899a8be118f92319f66be5b8b25bb54a620a19688d8a46b4ec05a091de5b5484062f15d#rd)
+    - 时间：2022-06-16
+    - 摘要：文内预约，不错过
+- [如何寻找人群中相似的灵魂？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247708858&idx=1&sn=ecd11816a3b042838bbb771b83e33bc2&chksm=9fc999fea8be10e81567852e12b280ba3c2dcc8f30630b752923a8e83b6c4680790b5ac5b9d7#rd)
+    - 时间：2022-06-15
+    - 摘要：茶会全国29城同开，更有线上月食茶话会等你来~
+- [改善拖延必经的3个阶段（不难），你知道吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247708858&idx=3&sn=c9070ce82c0f8e0c21b3eed499cd415a&chksm=9fc999fea8be10e88b1d2a8408d3fdc43780de80d220aaed8bf84de661491267f26532c52bd4#rd)
+    - 时间：2022-06-15
+    - 摘要：原价199共练营限时免费，和小伙伴们一起，8天学会改善拖延~
+- [“亲密关系里，藏着你和TA的人生”丨KY独家心理卡牌游戏上新！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247708858&idx=6&sn=3dd76672b22e5678f82ad1899a41c73d&chksm=9fc999fea8be10e886eab912d42783151897a0fbe83c4e687f2adc8fe2e960962874a7cf6af4#rd)
+    - 时间：2022-06-15
+    - 摘要：从亲密关系，透视你的一生
+- [心里有事？写信给聊愈师帮你分析问题！首次免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247708858&idx=7&sn=7b1ccee2b5effc74c59c794e11829310&chksm=9fc999fea8be10e8653c35455ce0d737fa3bc2a93b539901b4efed54e8f0a6e0b12166f4d8d2#rd)
+    - 时间：2022-06-15
+    - 摘要：为你提供专业的心理陪伴服务
+- [618 KY小姐姐直播专场丨心理功能手账全套，周六价格新低！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247708858&idx=8&sn=606b2bbbb8ebdaaca9d2c7036ad20277&chksm=9fc999fea8be10e84ff63064252fd1dce8caa182ca7e3c6b9cb4623460a544d24aaa3148211c#rd)
+    - 时间：2022-06-15
+    - 摘要：文内预约，不要错过！
+- [“不能掏空自己去爱，但要赴汤蹈火去爱。”爱教会他们的67个道理](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707898&idx=1&sn=117c1c7b01b95e287b12315541cb0866&chksm=9fc985bea8be0ca80b23c2def81dd39be3fa69475ee91d0d240a67e7c3ab34dc23b9788121ca#rd)
+    - 时间：2022-06-14
+    - 摘要：“不管我本人多么平庸，我总觉得我对你的爱很美。”
+- [你从没玩过的心理游戏｜KY「关系与自我」解密卡牌独家上线！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707898&idx=5&sn=f1377f1f0d990b787c538fa710211f20&chksm=9fc985bea8be0ca8a3cbebc0a8ef36205d63b41a3865196dd3bfb7daaf39c95f3d80b7911abd#rd)
+    - 时间：2022-06-14
+    - 摘要：从亲密关系，透视你的一生
+- [躁郁症是抑郁症的一种么？丨精神障碍入门必读系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707898&idx=6&sn=e6933e0acfead689a783f2c7849e3fb7&chksm=9fc985bea8be0ca8eb37ce6a48587b6aeac14b30c607ce8ffb452591cc2870544ed1251d05be#rd)
+    - 时间：2022-06-14
+    - 摘要：心理咨询精英入门课程+配套实践
+- [如何选择婚姻伴侣？| KY创始人抖音直播解惑，与小姐姐麦上聊天吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707898&idx=8&sn=19712b73836d04dfdc51d6bb29c74ebf&chksm=9fc985bea8be0ca8bd2ad19a719952eae0a2275f780420be22812f1d2a234654f082059f7030#rd)
+    - 时间：2022-06-14
+    - 摘要：本周三直播，预约不错过
+- [“Childfree”: 自主选择的不生育｜他们选择不要孩子的5个原因](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707574&idx=1&sn=8c0eaf10e0dfa06c2577d9a070e00300&chksm=9fc982f2a8be0be42c558d99d3b419a2c5baf848e8a208b4cb077098c3ca73265f53dd2dcb41#rd)
+    - 时间：2022-06-13
+    - 摘要：你有生孩子的自由，也有不生的权利。
+- [“性格决定命运？”你知道自己的性格局限吗？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707574&idx=2&sn=8d6510be97fb4ce7a90749e42fb92384&chksm=9fc982f2a8be0be400aa56f1457333fbec50fb793e104902c87424af2a88bf5d0453986bb10b#rd)
+    - 时间：2022-06-13
+    - 摘要：了解自己的性格，有助于因地制宜地发挥性格优势。
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707574&idx=3&sn=6ee1585f1d777e00e4be72288a358d53&chksm=9fc982f2a8be0be4021b8dcde90742169c05bdf587df4f15bc43abf472ebe19f2d379fd37534#rd)
+    - 时间：2022-06-13
+    - 摘要：或许是全网最全。
+- [我终于找到了焦虑的积极意义！4个tips一起拥抱焦虑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707574&idx=4&sn=c36f54906c2cc1c8061411c99e4b7b0b&chksm=9fc982f2a8be0be40372a36e9d5f9a8f13633280ee5b049e6551f58fc0ca772de7fcf8c54f91#rd)
+    - 时间：2022-06-13
+    - 摘要：用表达性书写的方式来改善你的焦虑水平吧。
+- [618 KY小姐姐直播专场丨心理功能手账全套，周六价格新低！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707574&idx=7&sn=0238acf4def4536673878e93a6dfe2e4&chksm=9fc982f2a8be0be405abf480a212e0e6596c713c15d991e458be890b6cd290c41f3c5704b47c#rd)
+    - 时间：2022-06-13
+    - 摘要：文内预约，不要错过！
+- [「挽救关系」的6个心理学技巧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707437&idx=1&sn=1f7839b187c67927f61b98eef26fd735&chksm=9fc98269a8be0b7f0e0195125d06dbd0deb7556689f836411d28b4dbd4a1264c2bb119732352#rd)
+    - 时间：2022-06-12
+    - 摘要：尝试挽救，也是为自己负责的表现
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707437&idx=3&sn=4ca18679a4589e3823a6a3b06d962c7a&chksm=9fc98269a8be0b7f824210728dd24f9b5fd4651f5559b468b0046881f210ebcb8e1b2ad0f2c9#rd)
+    - 时间：2022-06-12
+    - 摘要：这些小tips不要错过～
+- [“从亲密关系，透视你的一生。” 丨最新心理卡牌游戏，KY首发！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707437&idx=4&sn=6585282f73d56ba1b8d2c58581c618a1&chksm=9fc98269a8be0b7f16f44d453184c4986ffac373286a2e32ab9b18f19c5fcdd891f88385e864#rd)
+    - 时间：2022-06-12
+    - 摘要：一段好的亲密关系，光处理好当下是不够的
+- [你是什么样的“依恋类型”，就决定了你在恋爱中有什么样的表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707437&idx=5&sn=1f72154cd1a52634dbfe58c1920fcb53&chksm=9fc98269a8be0b7fbca0242960acb5c94115ed0e9839f3daf5d71412ef9cfc3ed23a58af2a59#rd)
+    - 时间：2022-06-12
+    - 摘要：心理咨询精英入门课程+配套实践
+- [想太多，患得患失，不懂拒绝丨高敏感人群生存指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707437&idx=7&sn=bfb480dd7198de52dd9fd1c83b80ea98&chksm=9fc98269a8be0b7f70f9ca79817c0caecbfc566f475a02a444845d3ba10dc7998ba687204f83#rd)
+    - 时间：2022-06-12
+    - 摘要：叮~高敏感人群生存指南已送达！
+- [每次恋爱都患得患失，该如何打破恋爱脑？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707437&idx=8&sn=47d82c2701d71f1c695fa81792197261&chksm=9fc98269a8be0b7f3065339aafef94cb7504d1d34ce092512b50eb766526b1661fcd901e0122#rd)
+    - 时间：2022-06-12
+    - 摘要：
+- [唐山打人事件的隐喻](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707368&idx=1&sn=dbea4f8ac81ca63c7599165874aa26f5&chksm=9fc983aca8be0aba3833d1b55550110414fab8086d8ee6b73aad239ca8e2a25dd2711eafc096#rd)
+    - 时间：2022-06-11
+    - 摘要：如同在现实中遭遇一场噩梦
+- [618大促现货即发丨备受好评的KY「心理功能手账」全系列补货了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707368&idx=3&sn=1985a511e2f949a8575251087d866864&chksm=9fc983aca8be0aba51af016aa19bb6d9b6ef334e8e84ab67e6e9d3694cd8b2b337c0a6e34587#rd)
+    - 时间：2022-06-11
+    - 摘要：手！慢！无！
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707368&idx=4&sn=ae1eefaf00cfcbbc7238d0f89d596ed5&chksm=9fc983aca8be0aba70612b80c3a6cb6840fb1ffaa697f69b20289bdf23131a296332bb57d104#rd)
+    - 时间：2022-06-11
+    - 摘要：马克，总能用到！
+- [《加油！妈妈》热映：做一个母亲，有多困难？丨月食茶话会主题专场](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707368&idx=5&sn=92de730d3022c33bd496b8e1d1b08601&chksm=9fc983aca8be0aba52116616cddb326025ee797ca0a557d488476e904ef1edad6475034d4bec#rd)
+    - 时间：2022-06-11
+    - 摘要：
+- [线上冥想工作坊超低优惠倒计时！城市修行618大放“价”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707368&idx=7&sn=fb831065526ccbe682559aef005dc9e3&chksm=9fc983aca8be0abac016f8d040896adb827880cf8d04b9e6c61f2d6512924fd711b82d00590f#rd)
+    - 时间：2022-06-11
+    - 摘要：快来赶上城市修行618的最后一趟末班车！
+- [8个tips学会「高质量陪伴」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707310&idx=1&sn=5f5b2bbb6c53af935efce40b9f20faf5&chksm=9fc983eaa8be0afc93774bd067e65c448f595a6f7e2084eefc0872bf423d80acd34c7f270d64#rd)
+    - 时间：2022-06-10
+    - 摘要：⾼质量陪伴不在于时⻓，在于⾛⼼。
+- [听说，现在找对象、交朋友都靠四个字母？丨速来匹配你的爱情mbti类型](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707310&idx=4&sn=3d20f41ffef528c9538f3550e0168a99&chksm=9fc983eaa8be0afcd880da99b3710278b87c452ae6fb65bb9c266351d3e72e6259cfa6c24758#rd)
+    - 时间：2022-06-10
+    - 摘要：快分享给身边需要的朋友！
+- [怎么选都怕错，我要如何做好人生的选择？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707310&idx=6&sn=f6f24922b9b70948e4c0c05b973ad4fa&chksm=9fc983eaa8be0afc246b6f047437bf889b235d63883bf870c47a9656720c6fd71e72c5a6f12f#rd)
+    - 时间：2022-06-10
+    - 摘要：错误的背后，是一个主动的灵魂，是生命本真的力量。
+- [没有专业背景，想进入心理行业如何开始第一步？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707310&idx=8&sn=307f12b16f9bbf46e4a431ba2f201f10&chksm=9fc983eaa8be0afcd3405ebea232b073030bef3f5e58629dd8092a52d2dc47cfa9bba8af4445#rd)
+    - 时间：2022-06-10
+    - 摘要：本周六直播，预约不错过
+- [当痴迷遇到疏离：关系中一方想沟通，一方总是抗拒回避，怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707161&idx=1&sn=4237103ceb8b1fdfcd9066f8bbb6bcbe&chksm=9fc9835da8be0a4b23af6f7a9d379325045b7fcc5a5ab39fd5f2a747af17d6f968759f594f22#rd)
+    - 时间：2022-06-09
+    - 摘要：你遇到过“沉默的恋人”吗？
+- [“从亲密关系，透视你的一生。” 丨最新心理卡牌游戏，KY首发！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707161&idx=2&sn=833b01dcdf5a4009c88e82f202edc4cb&chksm=9fc9835da8be0a4b15dbaf2170637fed649473e0e8ecbf0e9fd54752005aa1a815be3e8f1119#rd)
+    - 时间：2022-06-09
+    - 摘要：一段好的亲密关系，光处理好当下是不够的
+- [《加油！妈妈》热映：做一个母亲，有多困难？丨月食茶话会主题专场](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707161&idx=5&sn=fb89e52c6f3ab30805a1dfa988c6212a&chksm=9fc9835da8be0a4bd0fdf2feb12e73df24d5e04fa2a15d7107b883143696133f7799ec51e0fb#rd)
+    - 时间：2022-06-09
+    - 摘要：
+- [总是控制不了情绪，我该怎么办？丨周五直播，专业咨询师跟你聊聊「如何维持情绪稳定」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707161&idx=7&sn=68e4f9708f4ad218f17ba674fc55660a&chksm=9fc9835da8be0a4b8a0f10300015d966458a8c5119b09c83dfa963628a58cfe169e789f665fd#rd)
+    - 时间：2022-06-09
+    - 摘要：文内预约，不错过
+- [心里有困惑？聊愈给你专业解答！丨新用户免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247707161&idx=8&sn=8a1ff48dfc2ac17d8abd0af0ed0a8a06&chksm=9fc9835da8be0a4bdc5c2d96f6c83aa113350c78787d1617dd2311b35fd2f2806f079c8687eb#rd)
+    - 时间：2022-06-09
+    - 摘要：给你专业的陪伴与支持
+- [“加勒比海盗”现实中竟被妻子家暴？强尼德普告前妻，胜诉了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706659&idx=1&sn=f103f32dbe27f0e755594d42519bc3ab&chksm=9fc98167a8be08719c40898d7c4034041271b9d4304990c6c3ea8ace3ef6a8f03cacb32eeb3e#rd)
+    - 时间：2022-06-08
+    - 摘要：今天，为男性家暴受害者发声！
+- [听说，现在找对象、交朋友都靠四个字母？丨速来匹配你的爱情mbti类型](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706659&idx=2&sn=b942f89aec00f02a160b3f66db435bf0&chksm=9fc98167a8be0871df0fd121dfa2e7cf2fb52523844ab8c29fb99465a54a21ea92a60172dced#rd)
+    - 时间：2022-06-08
+    - 摘要：快分享给身边需要的朋友！
+- [「心理功能手账」全系列补货了！丨618折扣现货即发](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706659&idx=7&sn=39cb8c706c84aa645233a246564d9ad2&chksm=9fc98167a8be0871120226e5bd2b5dda3a1501cbd5ce203f52e155f5bb098b975a5b46c7120b#rd)
+    - 时间：2022-06-08
+    - 摘要：手！慢！无！
+- [618直播大促丨心理功能手账大合集，周四直播最低价！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706659&idx=8&sn=e983e53107c3a2a3759e769ebaadce19&chksm=9fc98167a8be0871a3e58a5712bb79a514a286655a50b4725ac33e2fc3c996364b3e37108e1f#rd)
+    - 时间：2022-06-08
+    - 摘要：心理功能手账本大合集，周四直播间最低价，文内预约，不要错过！
+- [研究说：大龄单身越是焦虑，越难找好对象！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706473&idx=1&sn=e95a917b488a5e63e5325170c57078f2&chksm=9fc98e2da8be073b9ee66d9b09076878eeaa175cd5dfa6472e54379dcadbb73e66c569f332d9#rd)
+    - 时间：2022-06-07
+    - 摘要：调节大龄单身焦虑的4个tips在这里
+- [作为斜杠新青年，心理咨询师是我的另一个职业身份丨萌芽12期课程升级不涨价](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706473&idx=3&sn=c8ccc31abfac3a43de64761da7cf7015&chksm=9fc98e2da8be073bd9fc9726ca1c45882bad270414d94f0b07a49b0609ad73c55418a72534f4#rd)
+    - 时间：2022-06-07
+    - 摘要：心理咨询精英入门课程+配套实践
+- [成为妈妈之前，我需要做些什么｜单身族也适用的生育准备指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706473&idx=5&sn=1523089c57b931caad6b0fa3315ebe3b&chksm=9fc98e2da8be073b71b4dc0b1e37f96ec1f19f1c6ba056bd3821b2d6c1b69021883e1654a9ba#rd)
+    - 时间：2022-06-07
+    - 摘要：叮~你的专属生育准备指南已送达！
+- [越讨好，越不讨人喜欢｜3个tips实现「自我尊重」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706473&idx=6&sn=ccbe0f40acbe8bb793a5959f1887eb4a&chksm=9fc98e2da8be073b8bead04582468f78e2ea86f8b254f1c6079837ea9334c1bd8bd72e2257f7#rd)
+    - 时间：2022-06-07
+    - 摘要：无论遇到怎样的逆境和打击，都相信自己是值得被尊重、被善待的。
+- [那些经常被PUA的人，都有这些特点丨点击查看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706473&idx=7&sn=5ad92cc23db3976dfcfb7b9962ea7680&chksm=9fc98e2da8be073b1f617158269263f7a30ba155d8bc251edfa465f60b8f9b44e8a02617f2a5#rd)
+    - 时间：2022-06-07
+    - 摘要：测测你被PUA的可能性有多大？
+- [如何成为情绪稳定的成年人？丨KY创始人抖音直播解惑，与小姐姐麦上聊天吧～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706473&idx=8&sn=a542e741a88958e4999896ddcc06348e&chksm=9fc98e2da8be073b48099eb4f7f1734ea60e2fa98b1cd33d6c4d6a9cd0eb101386beb8effb0d#rd)
+    - 时间：2022-06-07
+    - 摘要：KY小姐姐，抖音直播栏目开启
+- [只有真正「爱自己」的人，才会有的5种表现](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706225&idx=1&sn=930c09637d941fbc81fd2a1d211b7222&chksm=9fc98f35a8be0623811ea45d3e68cc78513afb3ab70ec3402f52c08a648c92be336b1ca08577#rd)
+    - 时间：2022-06-06
+    - 摘要：你是自己的星星，要记得照料好它的光芒。
+- [KY心理手账手把手带你提升「自爱能力」丨点击立享618限时特惠](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706225&idx=3&sn=96f3a36abf70eb4873514dd930b55419&chksm=9fc98f35a8be0623779074b0d5439171af3b4ba3b85cd2ed525ca5c93bdb7a669080630b6003#rd)
+    - 时间：2022-06-06
+    - 摘要：试试用书写打开爱自己的新方式
+- [那些脱单的人，都做了什么？丨月食茶话会送你脱单tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706225&idx=4&sn=c9a9e842479c018bac02402ab2708d79&chksm=9fc98f35a8be062365fdc73743da4dcf819d9cd116e8f0910c4794eadcc0adab4cdff848f425#rd)
+    - 时间：2022-06-06
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706225&idx=5&sn=8f1e4554b6eb4d6300c004e81492810b&chksm=9fc98f35a8be062368f21358a9ace5b67172c10595f0aac134ce4a6b83bfba0b285e5d3f5c73#rd)
+    - 时间：2022-06-06
+    - 摘要：欢迎来到白日梦世界。
+- [总觉得内心深处很孤独，该如何调整？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706225&idx=6&sn=b74a1c0220b1c2953e91c69bf38322e5&chksm=9fc98f35a8be0623c8b563bf636a57926ae09678776faedf17cdab1b681a4513b557797f2841#rd)
+    - 时间：2022-06-06
+    - 摘要：
+- [没有一种适合所有人的亲密关系｜爱情的23种价值，你最看重哪种？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706141&idx=1&sn=3097e22b97b9f4f037bebb7ad3d97ef9&chksm=9fc98f59a8be064f78328b41fb6faa8c29da1c5c1d8134040e7e2eaae12b62fb6eea31427b8d#rd)
+    - 时间：2022-06-05
+    - 摘要：在爱情中，你最看重什么？
+- [“性格决定命运？”丨测测你的性格局限](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706141&idx=3&sn=1cb61a49c406ee765b8f98a2a9ef82d0&chksm=9fc98f59a8be064f6d93532b6ea107449b8980e6e0f9cca89f6991ef824df0e677eb564a9675#rd)
+    - 时间：2022-06-05
+    - 摘要：了解自己的性格，有助于发挥性格优势。
+- [那些脱单的人，都做了什么？丨月食茶话会送你脱单tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706141&idx=5&sn=105c50da27d3e7fe2d723bbd5307bab9&chksm=9fc98f59a8be064f127f1ca53847c29e6b9cff24d7f7003961eb1851ae740103ef7413ccecf2#rd)
+    - 时间：2022-06-05
+    - 摘要：
+- [“只知道自己不想要什么，却不清楚真的想要什么” 怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706141&idx=6&sn=ee224987c54030e1cc7ce7af711298a6&chksm=9fc98f59a8be064f180bbf6c6f2f8f2bf5831d82b7de70684aa9bebb03d1eb0362985edfceef#rd)
+    - 时间：2022-06-05
+    - 摘要：
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247706141&idx=8&sn=a884f64d6abb5ac72425ad6c90f0aa33&chksm=9fc98f59a8be064fa186a24f424af207fc2726ff6bce9f87b965138df3517e3f29778d42707e#rd)
+    - 时间：2022-06-05
+    - 摘要：为你提供专业的心理陪伴
+- [“女生主动会结局悲惨”是传说还是真相？我们找4位小姐姐聊了聊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705759&idx=1&sn=5121e2b768dafc2823c301377931e60c&chksm=9fc98ddba8be04cd8d3f474ff41f360387bee890420d84d553730cabaa87f5ee9b3293775d96#rd)
+    - 时间：2022-06-04
+    - 摘要：主动之前，你需要有这些准备。
+- [“永远接纳，永远保持冷静”：KY创始人小姐姐个人内容推荐](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705759&idx=3&sn=1f6de23960d65fa65f70fe9432cc2d3e&chksm=9fc98ddba8be04cd23a4056bbdec9f3c3eea0f3384bbc2cec64f33c78d710b2b4ad6dbe64136#rd)
+    - 时间：2022-06-04
+    - 摘要：
+- [“今年618，我选择用书写关照内心”丨心理功能手帐限时特惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705759&idx=5&sn=234674ce197c60895361a22bdfe454d4&chksm=9fc98ddba8be04cdef0736db8bbed0bfabef929c9e6d588b6149ff629ffb886ff91bec4a4e50#rd)
+    - 时间：2022-06-04
+    - 摘要：来试试用书写打开爱自己的新方式
+- [爱的人在哭泣，我却只会说“别哭了” 丨如何成为一个有“疗愈力”的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705759&idx=7&sn=533af764a878a81967bcb2f48d0793e0&chksm=9fc98ddba8be04cd1fdf8e1bd86e05774b07252a82a1ab79150a3ea5e3cd8e45fa0661414652#rd)
+    - 时间：2022-06-04
+    - 摘要：心理咨询精英入门课程+配套实践
+- [冥想练着练着就睡着了，怎么办？这里有专业解答](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705759&idx=8&sn=bf6391c5e0322d4eaa616c3bb8a1a25e&chksm=9fc98ddba8be04cd0dc067acc0203c5b5c4a87b8baf04b735ca02ea7911b85081c69a0160b97#rd)
+    - 时间：2022-06-04
+    - 摘要：KY问答板块上线！打起精神一起冥想吧～
+- [不想厌倦彼此，亲密关系中一定要做对这8件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705342&idx=1&sn=4d5f3fc0e054cba29132995076eeb205&chksm=9fc98bbaa8be02acb4388eb704cb6ca3685b2f1a09c9265069b57ed773d9f73839a9bc6abf08#rd)
+    - 时间：2022-06-03
+    - 摘要：每段爱情必然走入倦怠吗？
+- [你在恋爱中最吸引对方的特质是什么？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705342&idx=2&sn=9162dc68591cc5054f8787d17fc05275&chksm=9fc98bbaa8be02ac70ae374ffab0c3d5ee1000dab5bc90ed965c0ab95f1b15f5aeac050ef114#rd)
+    - 时间：2022-06-03
+    - 摘要：恋爱吸引力=让人一见钟情的高颜值？
+- [那些脱单的人，都做了什么？丨月食茶话会送你脱单tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705342&idx=3&sn=85a69c3fdad09fdba2d22a0e792cd892&chksm=9fc98bbaa8be02ac2a75edcdcb2599741c5a997f8d0e293f7d70900f3f48f0524d4d829a96cc#rd)
+    - 时间：2022-06-03
+    - 摘要：
+- [“没有安全感的我，该如何经营亲密关系？”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705342&idx=4&sn=99f4f998eda02402bc6fe561d78861fb&chksm=9fc98bbaa8be02ac2cf8f93600f6fbd928b2d36bd5ff2faae6e4d455d0c4698a7b0f3263cd07#rd)
+    - 时间：2022-06-03
+    - 摘要：原价199共练营限时免费，和小伙伴们一起，9天学习如何成为安全型依恋
+- [KY心理手账618限时优惠中！用书写培养「爱自己」的能力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705342&idx=5&sn=4da6ccef0fc7dd821d67eae0f7bf287d&chksm=9fc98bbaa8be02acbf6e3a667ba71cf33909e45b4ae7ce6ee3d8fd70b8bc6f8a67f6448d63d3#rd)
+    - 时间：2022-06-03
+    - 摘要：来试试用书写打开爱自己的新方式
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705342&idx=6&sn=a427d4a6ea3c5f78291b2b10ddcd3034&chksm=9fc98bbaa8be02acf625b3b9895a7587bbebe6ce2ee1f978c4f00dc7595dda6218a842db4338#rd)
+    - 时间：2022-06-03
+    - 摘要：或许是全网最全。
+- [气温升高焦躁烦闷？618线上冥想课限时优惠清凉来袭](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705342&idx=7&sn=850d21a4384de4cb3a044a2da848f934&chksm=9fc98bbaa8be02ac82fef59acf119a09c505beb7cd10d84a3d3227fd0a3d47b49604a0c743d9#rd)
+    - 时间：2022-06-03
+    - 摘要：来城市修行线上冥想课，给烦躁的情绪降降温。
+- [上海：解封为什么没有想象中开心？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705206&idx=1&sn=420fc2c108ec6e205b971dccbc48c404&chksm=9fc98b32a8be0224c92108e3e683d0757fd0f53f5360973dac8fe93be50deea3da1b849410f9#rd)
+    - 时间：2022-06-02
+    - 摘要：上海回来了，有些东西却回不来了
+- [在书本中自学心理学，你可能只是继续活在自己的世界里丨萌芽课程升级不涨价，团购价进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705206&idx=3&sn=fd259866438003771e687c303735249d&chksm=9fc98b32a8be02245eb681d350f25cc6665eec8ed78eae028e65804f2650ce6bfce119bd345d#rd)
+    - 时间：2022-06-02
+    - 摘要：心理咨询精英入门课程+配套实践
+- [想要睡好「美容觉」？试试用敷面膜的时间来冥想吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705206&idx=4&sn=205e6b6055ff1fa2241b22006250852c&chksm=9fc98b32a8be02247945690c8b2963f5827857831e1a5423f8b11f5c16368255d692406d236c#rd)
+    - 时间：2022-06-02
+    - 摘要：当我们在敷面膜时，还可以想些什么？
+- [卷又卷不赢，摆又摆不烂，当代年轻人该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705206&idx=5&sn=bf0c03867d7cad5723133a4ee55b5e84&chksm=9fc98b32a8be02240d69348616c375725be558b9a3916c2be56b65a959faf3dc3510378b4ae9#rd)
+    - 时间：2022-06-02
+    - 摘要：谁说自我接纳就是要摆烂了。
+- [人人都说爱自己，但怎样才能真正做到爱自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705206&idx=6&sn=6a37c49eee7837ac3eab6f5a8c6db730&chksm=9fc98b32a8be0224476b1fc33a408e5781fcc487cde5158850fbbb5321d2900c0e418194ccb4#rd)
+    - 时间：2022-06-02
+    - 摘要：“每个人都可以再一次爱上自己。”
+- [看起来过得还行，实际上内心空虚丨测测你被“异化”了吗?](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705206&idx=7&sn=7c35b808c0a317cf06f5dee37d2995c2&chksm=9fc98b32a8be0224ffe38a9173fe341f21a5c5ba7eba0d7b2933d6479dadf72a1b2d5b4fd7e9#rd)
+    - 时间：2022-06-02
+    - 摘要：这可能是这个时代的精神危机。
+- [想和你分享，那些被生活突然浪漫到的瞬间｜KY粉丝精选](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247705206&idx=8&sn=691501c9163185f5c102e2e835e841e4&chksm=9fc98b32a8be022484c97fcedbbed7cf693a0194dc8ffd0249ad6a6bc4b8d52257781e2c264e#rd)
+    - 时间：2022-06-02
+    - 摘要：生活难免落俗，浪漫至死不渝
+- [不要把「爱你」，变成一件对他人来说“太难”的任务](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704947&idx=1&sn=11f48e5a699b44f5c218b23378dad899&chksm=9fc98837a8be012173ce1824899908d459cb4d064b62945fb1385a1561deb6678cc1b6a77d1e#rd)
+    - 时间：2022-06-01
+    - 摘要：5种“困难的爱人”，你遇见过吗？
+- [用「书写」提升自爱水平，成为最佳伴侣 | 心理功能手账618限时优惠](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704947&idx=2&sn=22133de32d3cb1bcb0faf6ad58c9ac69&chksm=9fc98837a8be0121416549e6f4bd758124ee25d4e2440eadd541c34d1c1250e5022d85234d8d#rd)
+    - 时间：2022-06-01
+    - 摘要：来试试用书写打开爱自己的新方式
+- [在亲密关系中，“好好吵架”可能比“和平相处”更重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704947&idx=3&sn=2f18e3ef282661056ee02c803f7c7ada&chksm=9fc98837a8be012181958980f9e4749b8f8cde74f353e9e8aed2768f3ecd3a204eb4463ebd6d#rd)
+    - 时间：2022-06-01
+    - 摘要：心理咨询精英入门课程+配套实践
+- [就今天，交换童年，匹配一个「有着类似回忆的ta」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704947&idx=4&sn=4d9f8555db4057fe7692a21d48750953&chksm=9fc98837a8be01215824e19404d4ced87fa400610e27275cebe2903db855bd6c121e167c0802#rd)
+    - 时间：2022-06-01
+    - 摘要：儿童节快乐
+- [“自我”太多才容易受挫。「无我」是种什么样的状态？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704545&idx=1&sn=f10cc6086aae5e0946512ee1c4b3c69f&chksm=9fc9f6a5a8be7fb339e3f9d31dc6674107c35b7e5f311d61ddbf5486850c76b12efa42a074df#rd)
+    - 时间：2022-05-31
+    - 摘要：「无我」则刚
+- [0基础入门心理行业，为你的职业上份保险丨萌芽12期课程升级，火热报名中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704545&idx=2&sn=34bc54faff43b44e6f0dc839cffb6132&chksm=9fc9f6a5a8be7fb320c518449acc7f96502aa509a53389400963b347c4bcea4c30ec800e03f5#rd)
+    - 时间：2022-05-31
+    - 摘要：心理咨询精英入门课程+配套实践
+- [就今天，交换童年，匹配一个「有着类似回忆的ta」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704545&idx=3&sn=80cc9e52e62e41de56853c406c15d1a5&chksm=9fc9f6a5a8be7fb392a74cf907202a7848648f9cacb5be3b3480ee14602a5e5eb88da466d9c9#rd)
+    - 时间：2022-05-31
+    - 摘要：预祝大家儿童节快乐
+- [如何安抚焦虑？用书写养成“安静的内在自我”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704545&idx=5&sn=26b74e2b27602cf9158aa9962348afe0&chksm=9fc9f6a5a8be7fb30fc72ddb1664a8b3446137854ea3e0f34dc329b443e702f90862953410aa#rd)
+    - 时间：2022-05-31
+    - 摘要：
+- [如何处理亲密关系中的冲突？丨KY创始人抖音直播解惑，与小姐姐麦上聊天吧～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704545&idx=6&sn=d771303aa20d768d1e25d5f80e10b548&chksm=9fc9f6a5a8be7fb382f09606393481d89ae1ca209598146e0a717ad20dcf43276a593e71279f#rd)
+    - 时间：2022-05-31
+    - 摘要：KY小姐姐，抖音直播栏目开启
+- [「情感专一」的人，可以通过这5种表现来识别——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704310&idx=1&sn=2720b7ef3c8d7191a5433a9301b5db81&chksm=9fc9f7b2a8be7ea4880a4514a426581b9a97196d5f6381185fcd2232ed78e4efb60672b3fac4#rd)
+    - 时间：2022-05-30
+    - 摘要：“专一”不仅仅是一种意愿，更是一种能力
+- [怎么判断，你到底该不该分手？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704310&idx=3&sn=b296dfb2c8f021a2e1d165b8d8ce44d2&chksm=9fc9f7b2a8be7ea4b00acfcb7bf359317a06ada3ce1415510eb5d150319aa4fefd39004e7078#rd)
+    - 时间：2022-05-30
+    - 摘要：你的对象还要不要继续留着？
+- [“没有安全感的我，该如何经营亲密关系？” 丨免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704310&idx=4&sn=df2621d5a4737396c12df76cc0a8c874&chksm=9fc9f7b2a8be7ea48c5e87b1e6ae7add370c79cfee209da15d27d2887d42a578ed42515a6c76#rd)
+    - 时间：2022-05-30
+    - 摘要：原价199共练营限时免费中，还有打卡奖励等你来领~
+- [陪伴、互助、学习...心理粉丝群邀请所有KYer前来集结！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704310&idx=5&sn=df1cfb195e248549b394cb813377466f&chksm=9fc9f7b2a8be7ea49992015f203f28f04c17e4eceb1fb0a0a2d8510c15cd33b01f74791da553#rd)
+    - 时间：2022-05-30
+    - 摘要：
+- [看上去过的很好，却找不到人生的意义？试试这种「自治」方法](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704310&idx=6&sn=0f8b06f20b909778e46165a850e64b11&chksm=9fc9f7b2a8be7ea43fb46e25349c408a046e300dfc19dc8cab5e76b0fe311a77ef799969e5f8#rd)
+    - 时间：2022-05-30
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704310&idx=7&sn=4df9c338f1b4b2bd8f4f96c70784fdc7&chksm=9fc9f7b2a8be7ea4f8cb97737b6e2208595dc7bb4828a87c26d147afcc390332cbf6171b12ec#rd)
+    - 时间：2022-05-30
+    - 摘要：欢迎来到白日梦世界。
+- [冥想要练多长时间可以见效？这里有专业解答](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704310&idx=8&sn=0166553dd3fa7280b37ee9fefbfba607&chksm=9fc9f7b2a8be7ea45311ba3ee153d4771f9c63f94b4908da2642d1a0ccdab19a8ed1267a9a3a#rd)
+    - 时间：2022-05-30
+    - 摘要：想要迅速收获冥想功效？这里有一份方法指南。
+- [离婚后的人们，过得究竟是更好还是更糟了？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704169&idx=1&sn=883240c887242c28ec659673cea2fdbf&chksm=9fc9f72da8be7e3ba34c33e50c438c885b1f40ecbe4d617d1fc31ffb16675a79a874fd3c226b#rd)
+    - 时间：2022-05-28
+    - 摘要：关于离婚，你最需要知道的5个tips。
+- [我来告诉你，为什么从事心理行业不用担心失业丨萌芽12期早鸟优惠价明日结束](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704169&idx=2&sn=ffd2ad86117c00b0797bc721ffb8e547&chksm=9fc9f72da8be7e3bcf7b895d3f2bbc08d65c9ec27925c29512c2ccd0ddf9e6b4b544bf79bf37#rd)
+    - 时间：2022-05-28
+    - 摘要：心理咨询精英入门课程+配套实践
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704169&idx=3&sn=93c214c06d8fe31d81b5421c23536812&chksm=9fc9f72da8be7e3bc5862bb01f832803e3aef3ca9360b62696b63a1f488dcf61be825a7c447a#rd)
+    - 时间：2022-05-28
+    - 摘要：想做那个听你说出心声的人。
+- [“Ta越爱我，我就越想逃…”丨9天免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704169&idx=4&sn=e19a30865ecc2c5b5e1bf957b5694954&chksm=9fc9f72da8be7e3bae5532541c4710e6b0dc263afffcdf2b087e7f625c7a9b732bca5d997ef9#rd)
+    - 时间：2022-05-28
+    - 摘要：原价199共练营限时免费中，还有打卡奖励等你来领~
+- [喜欢暧昧，在一起觉得没意思。这咋办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704169&idx=5&sn=6967e2ba3680293970cf39ee9aaa7131&chksm=9fc9f72da8be7e3b1e40375fe418fa86f9a640aada08b9916407a43b1a8c739cbab1fa5e5639#rd)
+    - 时间：2022-05-28
+    - 摘要：
+- [10分钟，KY为你提供一次心理健康自检（免费）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704169&idx=6&sn=5fd08b580e235f3b3ce6ca88242d8df3&chksm=9fc9f72da8be7e3b9bca8f8f5b9aacf97d41af4ac6246073777eb19b023c1cde88ebd0362c93#rd)
+    - 时间：2022-05-28
+    - 摘要：是时候检测你的心理健康状况了！
+- [通过书写实现「自治」，重获感受幸福的能力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704169&idx=7&sn=a859e4fed0827bda8f820141b023d2b6&chksm=9fc9f72da8be7e3b8b1b55965ee743d6e16848a3e256ec68f2f35197923c91db3d9982984015#rd)
+    - 时间：2022-05-28
+    - 摘要：
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704169&idx=8&sn=c60f44264dee7a2b21855be343fb9e93&chksm=9fc9f72da8be7e3b4b47d427a1fd519dac1ec7596292d3e2497b707449b922e1b1facf75a9ce#rd)
+    - 时间：2022-05-28
+    - 摘要：为你提供专业的心理陪伴服务
+- [能帮你建立「人际影响力」的10件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704103&idx=1&sn=ee981529f01f6be4c31bcc248c4abdae&chksm=9fc9f763a8be7e75d907b5be74e53959cc1df8ea81418ec93739bedabfc27aa2897a80d73183#rd)
+    - 时间：2022-05-27
+    - 摘要：真正有存在感的人，是既有力量也懂谦卑的
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704103&idx=2&sn=0705d9a4dd93c8a858974c48538fc88e&chksm=9fc9f763a8be7e75ee4c31218d7a9b8a2a0167b0d21fa08157191be1e5347ce1b6987f813e30#rd)
+    - 时间：2022-05-27
+    - 摘要：想做那个听你说出心声的人。
+- [中年男再听王心凌《爱你》，“比结婚还高兴”的原因找到了——｜KY趣味心理速递Vol.125](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704103&idx=3&sn=c398cbcc921de4e2129dfe9bfd4966a7&chksm=9fc9f763a8be7e7549faa90d1c8f57d5bcbbd6c191c78ab083960d5a5a2eddf9ea98fb8cfd7b#rd)
+    - 时间：2022-05-27
+    - 摘要：有没有哪首歌会带你回到过去？
+- [“没有安全感的我，该如何经营亲密关系？” 丨免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704103&idx=5&sn=dee52faa3f81534bc89a2045893280f9&chksm=9fc9f763a8be7e757e834f95a34fd12415ac5bd5122c3aaa0d9517e40679406bc45f62022088#rd)
+    - 时间：2022-05-27
+    - 摘要：原价199共练营限时免费中，还有打卡奖励等你来领~
+- [没有专业背景，想进入心理行业如何开始第一步？丨本周日直播，限时答疑！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704103&idx=7&sn=6844b8a01c60bacb9dcb2e944b56d071&chksm=9fc9f763a8be7e755ef1bdbc453318de2bdbea76d74e52daa9b4467dc51cc5eda23b8075629a#rd)
+    - 时间：2022-05-27
+    - 摘要：本周日直播，预约不错过
+- [“今年618，我选择从内心爱自己”｜云端冥想工作坊限时优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247704103&idx=8&sn=a2c54df4eaaae1f02d0e8a081363f2af&chksm=9fc9f763a8be7e7576df1a296077b866c2d3a532f419daef89bdd1e9b2498b501fb082d52c5c#rd)
+    - 时间：2022-05-27
+    - 摘要：城市修行线上冥想课618限时超低优惠来啦！
+- [在关系中有这4种表现的人，可能还没有能力让别人幸福。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703820&idx=1&sn=69cd6219ea9b7d7d298f63551fa376ff&chksm=9fc9f448a8be7d5e97ed1e679cc5997f6337547e3986795e1a321127f7dc7d818060019c0cc8#rd)
+    - 时间：2022-05-26
+    - 摘要：面对真实是疗愈自己的第一步
+- [难以入睡，我们如何获得高质量睡眠？丨周一直播，专业咨询师跟你聊聊「如何才能睡个好觉？」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703820&idx=4&sn=1a210979c4b367428223c57e5c830c35&chksm=9fc9f448a8be7d5e1ad58bef3d42002397bb236086579717120f3806f6e2c7e1e335d1132c46#rd)
+    - 时间：2022-05-26
+    - 摘要：文内预约，不错过
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703820&idx=5&sn=836c9d23e68a4cd392479cbb13bd870f&chksm=9fc9f448a8be7d5e7454250d76a85b0c51e3f6d30276ea9a1cd24c3e8daa2a24fb3e5bd91760#rd)
+    - 时间：2022-05-26
+    - 摘要：马克，总能用到！
+- [“你了解真正的自己吗？” 丨大五人格升级版来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703820&idx=6&sn=e161e5756eaf62544cdce71e15d196e1&chksm=9fc9f448a8be7d5e735f00dd1d0a41f61d6e60b23808551607d6e6c7b2ed88ab9a63f34e339b#rd)
+    - 时间：2022-05-26
+    - 摘要：帮你了解自己人格的优劣势。
+- [爱自己从「停止对自己做这8件事」开始。有你正在做的吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703632&idx=1&sn=c3c30cc5bf8e436fa85c6fd1bb3f570f&chksm=9fc9f514a8be7c0232d252dc247552b3e98a1f77059790e256d2a8e2b88cfec79dd0126128a4#rd)
+    - 时间：2022-05-25
+    - 摘要：525，好好爱自己
+- [用书写提升「内在资源」，成为更有“治愈力”的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703632&idx=2&sn=22dd70a20ccfc398dc7ec03dda0276f0&chksm=9fc9f514a8be7c02c96f7885d30a1b17e374e23146ec9c50e601f7117b228bc44ddf58567d61#rd)
+    - 时间：2022-05-25
+    - 摘要：总被焦虑和无助感追逐？带你用书写应对情绪压力
+- [喜欢的剧看到大结局总是emo？研究说：“电子失恋”是真的！丨KY趣味心理速递Vol.124](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703632&idx=3&sn=ac3db167325d17c8c106fdc5515bc124&chksm=9fc9f514a8be7c023b76a4e60c523b18fd0a7aeb9f2ffd1ea913f6e1c9689ae573e3ec4d2453#rd)
+    - 时间：2022-05-25
+    - 摘要：你经历过“电子失恋”吗？
+- [当我们谈论30岁，我们在思考什么？丨来月食茶话会一起聊聊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703632&idx=4&sn=d1856ec7c4404d69ddb34ce9a0e99593&chksm=9fc9f514a8be7c027c0a1205379455ebddf609833930324cdee918c66548f3a2ee9de2b13250#rd)
+    - 时间：2022-05-25
+    - 摘要：
+- [躁郁症是抑郁症的一种么？丨精神障碍入门必读系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703632&idx=5&sn=d608b1880d50342bf801ce2493018159&chksm=9fc9f514a8be7c0228d73ed66fe5c0d939384b875a3f1f7512b3190ae32637c6c2dc406c41f4#rd)
+    - 时间：2022-05-25
+    - 摘要：心理咨询精英入门课程+配套实践
+- [你的直觉准不准丨测测如何利用直觉的力量做出更好的决策](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703632&idx=6&sn=8aa77396b5910b679d4323a832c1b1c0&chksm=9fc9f514a8be7c02089b765db3f197524c2ace5aabc69e3f94d6eb04337b1f1dc45b891f30fd#rd)
+    - 时间：2022-05-25
+    - 摘要：一篇关于“直觉”的专业探讨。
+- [我真的好想重启2019年，那个没有口罩的春天。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703487&idx=1&sn=52e91bdf64deac700ecec19fa119c55c&chksm=9fc9f2fba8be7bedc5162d9ce9fa0dd0ca439203c98d8e68c4de079ecc343c778c7c9b8f20a3#rd)
+    - 时间：2022-05-24
+    - 摘要：19个发生在2019春天的故事
+- [距离你最近的0基础心理学求学、从业机会不容错过丨萌芽12期早鸟价即将结束](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703487&idx=2&sn=c4f3b82d25d06ec6ddc351aba472097a&chksm=9fc9f2fba8be7bedce372be499cb13fc58d0c8a26df9bb6a24238bb24f50af2c6b8d8e7de5eb#rd)
+    - 时间：2022-05-24
+    - 摘要：心理咨询精英入门课程+配套实践
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703487&idx=4&sn=f2e840262a6e774125b8d3bbacd9b3a0&chksm=9fc9f2fba8be7bed11c1ee6badfffbecf589152d0b2e9a516572ba816e903007b935496aa3cd#rd)
+    - 时间：2022-05-24
+    - 摘要：这些小tips不要错过～
+- [KY小姐姐请回答：为什么爱要练习？爱自己的核心是什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703487&idx=6&sn=9e275f43d556cdc9fc18756cf5936925&chksm=9fc9f2fba8be7bed8383fd32831556d946af2b58feac9033b95d960cf92e202cbddc7a1db3f9#rd)
+    - 时间：2022-05-24
+    - 摘要：优惠截止倒计时3天，不容错过！
+- [当我们谈论30岁，我们在思考什么？丨来月食茶话会一起聊聊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703487&idx=7&sn=b72999980807b63e2a5fc0bdd58741e1&chksm=9fc9f2fba8be7bed18b403742f93ed8e9973ecdb216c444d3640cbded58193883e6a33584ad9#rd)
+    - 时间：2022-05-24
+    - 摘要：
+- [KY创始人小姐姐请回答! 丨525抖音直播：为你解答有关「自我接纳」的种种疑惑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703487&idx=8&sn=da778cd574eea803955628799c6a6586&chksm=9fc9f2fba8be7bed5cabb7cc64addc168fc6237ee33f01170495c592d1b256d89eb6965769f4#rd)
+    - 时间：2022-05-24
+    - 摘要：文内预约，不错过
+- [研究发现，这种人格特质的人，通常活得更久——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703248&idx=1&sn=83cd092ff1c9e0b37dc69fb64e0f2968&chksm=9fc9f394a8be7a82386f8f04516f79be4b29f91434410a1f0f03471c9e8312c806f81a656d66#rd)
+    - 时间：2022-05-23
+    - 摘要：但同时也更不容易快乐
+- [“爱是能欣赏最好的一面，也能接受最坏的一面。”丨520直播精选](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703248&idx=5&sn=f6da7c2d497cc50f9178aee3ac604fd2&chksm=9fc9f394a8be7a82377d56ed1a0432c7ba340c6414c76b8b4b5e076e110957ca48cbea135695#rd)
+    - 时间：2022-05-23
+    - 摘要：内含优惠，不容错过！
+- [和对的人在一起到底是什么感觉丨Mr./Mrs. Right鉴定手册](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703248&idx=6&sn=ac4262574a76838f7844d0eec209d791&chksm=9fc9f394a8be7a82c0935dded369e977d0aad57cfa2c82611ad1aba78354c5421a166d5fd852#rd)
+    - 时间：2022-05-23
+    - 摘要：真正的“对的人”并不会从天而降。
+- [陪伴、互助、学习...心理粉丝群邀请所有KYer前来集结！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703248&idx=7&sn=ff635300ade3763005e1ecf375686140&chksm=9fc9f394a8be7a826887e36384bd2ecd40ad4fc1469f400b2721513988f297e9c40a480b3c15#rd)
+    - 时间：2022-05-23
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703248&idx=8&sn=bb7c07673e38f554f02c191e61554fb7&chksm=9fc9f394a8be7a82e50ad0c8ba8a3b46832a517a82deaba9d5080f9bb9bc0cda08b1b88f2d10#rd)
+    - 时间：2022-05-23
+    - 摘要：欢迎来到白日梦世界。
+- [怀孕前必须想清楚的14个问题](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703139&idx=1&sn=62244169e89ced21ebaa20985e1ee4e6&chksm=9fc9f327a8be7a315a34a8b699cc8af6107bba8f21735bd3880a4e611ffd13ceaec4d47a08b0#rd)
+    - 时间：2022-05-21
+    - 摘要：怀孕不只关于宝宝，更关于“我们”。
+- [人人焦虑的今天，如何获得为自己减压放松的能力？「KY心理功能手账」带你排忧解难](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703139&idx=2&sn=8f887f276bfb3df117ce7bd9e4f3393d&chksm=9fc9f327a8be7a31e4268649eeee470e60c8e46ca7e0c3ccff701dc76ba16b78948c29efff0e#rd)
+    - 时间：2022-05-21
+    - 摘要：全新主题KY心理功能手账开放预售啦！
+- [爱自己，这3件事你做对了吗？丨免费监督带练营，学会爱上真实的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703139&idx=3&sn=3a59bbc4c3ab917a657261977c43d20e&chksm=9fc9f327a8be7a31c89eeee77aac27e00e7050e094f4f6a967e9874992035f8d03d41653c077#rd)
+    - 时间：2022-05-21
+    - 摘要：原价199共练营限时免费中，还有打卡奖励等你来领~
+- [“我能有多骄傲，不堪一击好不好”丨什么是真实自尊?](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703139&idx=6&sn=2054e39cc76f2bb75d150a1203efbc9a&chksm=9fc9f327a8be7a312af029d4b138a8d1f981f90be7621011de6f89590d72f34cd8b2a58ab44b#rd)
+    - 时间：2022-05-21
+    - 摘要：KY助力低自尊拯救计划。
+- [没有聊得来的人，没有喜欢的事，怎么走出“空心病”？丨周日直播，专业咨询师跟你聊聊「得了“空心病”怎么办？」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703139&idx=7&sn=d28831b6f756a22f80917f6416c05a2c&chksm=9fc9f327a8be7a310f352166fdac75316a72ee26a509aa4072ed322126aead995633b6acfe91#rd)
+    - 时间：2022-05-21
+    - 摘要：文内预约，不错过
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247703139&idx=8&sn=513bb3be7f91f92d1d0b03c92b456cd0&chksm=9fc9f327a8be7a313192c78c12f9937bfcdf0550558c889b66b3b184432ed6a8875292fc47df#rd)
+    - 时间：2022-05-21
+    - 摘要：为你提供专业的心理服务
+- [“外婆又恋爱了，我还是单身狗。” 这里有为爱勇敢的12个小故事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702992&idx=1&sn=fadb1d0cd7382e48cb38b3a560d83738&chksm=9fc9f094a8be798236cec32c11641952431851ae8a85b88136ae434ac06744dcfd8df49a4ea0#rd)
+    - 时间：2022-05-20
+    - 摘要：爱与被爱都需要勇气。
+- [成为心理学工作者，可以是你为自己选择的一份副业丨萌芽12期课程升级，早鸟价优惠进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702992&idx=2&sn=ffbdde479bc428cb1d9cf6f03cc3f281&chksm=9fc9f094a8be79828829281c53bc6f942ab24e8367ae0c31cd5f7c3fdf7ca5fb443a113af67d#rd)
+    - 时间：2022-05-20
+    - 摘要：心理咨询精英入门课程+配套实践
+- [“双向奔赴的爱，需要长久和深入的沟通”丨KY心理功能手账520限时优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702992&idx=3&sn=6315f031dd054674b15c14431c2df08e&chksm=9fc9f094a8be7982582a7934692ae397aa7e80aa01c40a7a7a735216028f697bd7da73660851#rd)
+    - 时间：2022-05-20
+    - 摘要：520和你的TA一起写完「KY情侣功能手账」吧
+- [用你的「爱情人设」测试结果，寻找匹配的ta （520限免）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702992&idx=4&sn=31cfbb20ba3fac92c7b0bdc914ba5452&chksm=9fc9f094a8be7982e2684eca52b271082f63bf5547d062b138b830bbb47131f8ee6da64fc50c#rd)
+    - 时间：2022-05-20
+    - 摘要：520匹配活动来了！
+- [“北漂”“沪漂”，你后悔了吗？｜来月食茶话会一起分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702992&idx=5&sn=1b8558a59daa2c2b6d55ab8eaf1e8ae9&chksm=9fc9f094a8be79825feab03650e66bf0d408d6251f8099586f5e228d1cecbfd7ce2742d2a5e2#rd)
+    - 时间：2022-05-20
+    - 摘要：
+- [3阶段形成安全型依恋，收获甜蜜恋爱丨9天共练营限时免费解锁](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702992&idx=6&sn=c7ccd5d611a83882af05f829da1299c4&chksm=9fc9f094a8be7982e4c8996a45f20c9466d2ccf24c3030ab8bce5e30076f016b4a1b5217dd10#rd)
+    - 时间：2022-05-20
+    - 摘要：原价199共练营限时免费中，还有打卡奖励活动等你来领~
+- [经常焦虑不快乐？「冥想入门」线上封闭课，带你找回觉察快乐的能力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702992&idx=8&sn=627486732ef1fde987255093dccb3bfd&chksm=9fc9f094a8be79824e59bbd30273ec54995c344192474c5d488f023bca28cb84483fb1938e6d#rd)
+    - 时间：2022-05-20
+    - 摘要：第三期「冥想入门」线上封闭班开课啦
+- [有这9种行为的人，很难得到尊重自己的伴侣](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702597&idx=1&sn=06937418987ec6ffdd052970a719447f&chksm=9fc9f101a8be7817c0761a2fee273de201fc15eae396fd7dc27c4695076bebc41861f966f470#rd)
+    - 时间：2022-05-19
+    - 摘要：爱他人的前提是好好对待自己。
+- [用你的「爱情人设」测试结果，寻找匹配的ta （520限免）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702597&idx=2&sn=bc464247051a910c696e72bb22cd51d7&chksm=9fc9f101a8be7817e8083545f77bc394c1100c3d3defd2831241da84fa47a8685cb443521d62#rd)
+    - 时间：2022-05-19
+    - 摘要：520匹配活动来了！
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702597&idx=6&sn=3c9329fb5048cf0c27582ce76f2d725d&chksm=9fc9f101a8be7817e320eee527a5ef869b835930a8ae8cc03fbf25d25dc9f4b391ed037a3212#rd)
+    - 时间：2022-05-19
+    - 摘要：马克，总能用到！
+- [摆烂、一言不合就放弃的人，都有这些特点｜点击查看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702597&idx=7&sn=bfddb8747c6871f808bdc644a8bb1f87&chksm=9fc9f101a8be78172a5f6f97e06d606825119c0d78b6c84182c51153c24247d39a02db594804#rd)
+    - 时间：2022-05-19
+    - 摘要：突破认知局限，从了解自身的惯性思维模式开始。
+- [练习冥想伴侣不支持？丨520为你带来6条良性沟通建议](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702597&idx=8&sn=9c8e3e4f1bad616cd818110d8d9b4c78&chksm=9fc9f101a8be7817d93b186cef761ab262b0026282a2d0f2cefa9707ab3e0011f22818461930#rd)
+    - 时间：2022-05-19
+    - 摘要：提供一些帮助你获得伴侣理解的思路（内有音频）
+- [男性会混淆「性欲」和「爱情」吗？来看研究怎么说——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702487&idx=1&sn=115cdefcf424070e753950adff4b323d&chksm=9fc9fe93a8be77850ad46d0948145a362a7fd22d20044bd493d52285f512b0e20e78c969c44a#rd)
+    - 时间：2022-05-18
+    - 摘要：性爱能否分离，这是个问题。
+- [疫情阻止了我探索世界，我用心理学观照内心丨萌芽12期早鸟价进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702487&idx=2&sn=1bab16af358aa7b9b22b5f1b5e705dc5&chksm=9fc9fe93a8be7785edc284171fb92d4f8314cb6ac1283dfc3c147c55154f006a405e009da4bf#rd)
+    - 时间：2022-05-18
+    - 摘要：心理咨询精英入门课程+配套实践
+- [“北漂”“沪漂”，你后悔了吗？｜来月食茶话会一起分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702487&idx=3&sn=42caceffb3f7f6466ac860627a3a2011&chksm=9fc9fe93a8be778562d834b0f9ca282bad135325afd4128d834bcc360a198254a3e1d250d214#rd)
+    - 时间：2022-05-18
+    - 摘要：
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702487&idx=4&sn=00815a06b2165574e17b3cdd3c1b096f&chksm=9fc9fe93a8be7785d6e86d11e03b40b3a8cb80c6dd183d61e81d8dc074f3c15fd836df347054#rd)
+    - 时间：2022-05-18
+    - 摘要：这些小tips不要错过～
+- [人人焦虑的今天，如何获得为自己减压放松的能力？「KY心理功能手账」带你排忧解难](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702487&idx=6&sn=eaf5f49892ad0dce137b5c8e1e6edf28&chksm=9fc9fe93a8be7785d062e526db8f3423829bf79942c6824ffec93789cc0e224a09cb3777910b#rd)
+    - 时间：2022-05-18
+    - 摘要：全新主题KY心理功能手账开放预售啦！
+- [亲密关系中，我该如何表达需求？丨周四直播，专业咨询师跟你聊聊「如何跟伴侣有话就说」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702487&idx=7&sn=062fd7edc4c9528441032e010d3a1d6e&chksm=9fc9fe93a8be7785a4991e835bef690cf30bcdd24879f82587213a8f7f11c84600d812805766#rd)
+    - 时间：2022-05-18
+    - 摘要：文内预约，不错过
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702487&idx=8&sn=4fb6a056a601dd8e190173b9b2f7096e&chksm=9fc9fe93a8be77850754322c5a9761c0d755e88caecd10904d65483ba87b489014d2a824478d#rd)
+    - 时间：2022-05-18
+    - 摘要：为你提供专业的心理服务
+- [「我和我独特的性取向」，性少数专题线上茶话会，等你来参与！（可旁听）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702371&idx=1&sn=3b5b84add24a2581f9077a69d01a3166&chksm=9fc9fe27a8be77315774a16403a4107e84c947c8205b74d79ba140ce52b8e4589ce4f49440fc#rd)
+    - 时间：2022-05-17
+    - 摘要：你没有地方聊的那些心事，都可以来这里被看见、被倾听。
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702371&idx=4&sn=6928e5c1942b9add17526f992a6cf503&chksm=9fc9fe27a8be7731bc4d3b6492f30f22ee4ee3a9450b2bb7306af6cbde5b19c479ddb5f263ef#rd)
+    - 时间：2022-05-17
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702371&idx=6&sn=de841558af3446ee4d3badfea99364b8&chksm=9fc9fe27a8be7731b82294cb9110866ed9da45abc57abebe3ba5904ffa8d0ac1ac4cb5c8f24a#rd)
+    - 时间：2022-05-17
+    - 摘要：欢迎来到白日梦世界。
+- [9种感觉判断是否爱对了人，最后一条你一定想不到——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702062&idx=1&sn=fbd32b209e7e6fd8a0cc660275a23668&chksm=9fc9ff6aa8be767c47ed2387bca40a642fd75496cf2b788774c7748a1f9d19f4af1618202a54#rd)
+    - 时间：2022-05-16
+    - 摘要：转发给那位“对的ta”～
+- [连麦征集：哪一刻你学会了把爱自己放在第一位？丨KY创始人520直播专场](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702062&idx=3&sn=e1955229ee69b2d2cffadfd2ef28b310&chksm=9fc9ff6aa8be767c24c3e104132a26b9526ea6d4a4598f513dd201b5a00289fa0f5e910ae23e#rd)
+    - 时间：2022-05-16
+    - 摘要：直播间多重福利，等你来拿~
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702062&idx=4&sn=06582554902c9e232c93345e83bb478d&chksm=9fc9ff6aa8be767c3f2360f321165c3b13beb4fdfee658f7908748002dcd25ef37903f8514c5#rd)
+    - 时间：2022-05-16
+    - 摘要：马克，总能用到！
+- [人人焦虑的今天，如何获得为自己减压放松的能力？「KY心理功能手账」带你排忧解难](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702062&idx=5&sn=77dde80905bc1d5f730c4fee07bd54a5&chksm=9fc9ff6aa8be767cc89ef928eb53f89361d4287713c494ff8ba2703bda9bbdd9d26ed9146d1e#rd)
+    - 时间：2022-05-16
+    - 摘要：全新主题KY心理功能手账开放预售啦！
+- [成年以后，大脑还有成长发展的空间吗？丨一起来走进脑科学！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247702062&idx=6&sn=f1514f5e7ed0f91938fc136e393c7398&chksm=9fc9ff6aa8be767c0255fd8c4ea045026ff4731e3752ce516f9c3652b83cb4cfd986d5b85615#rd)
+    - 时间：2022-05-16
+    - 摘要：成年以后，大脑还会改变吗？
+- [64%受访者认为“全情投入爱情是不明智的”。反爱情时代到来了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701991&idx=1&sn=f2af0faeedf76d3dc525d7b9bd154d15&chksm=9fc9fca3a8be75b52b723e78af3a14359ba7dc6e94dfb12686272c2232093c05cd76dc81b924#rd)
+    - 时间：2022-05-15
+    - 摘要：爱是勇敢者的游戏。
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701991&idx=4&sn=2cab1d8be84152e6480343d101fbc61e&chksm=9fc9fca3a8be75b5d58010107545a96535b712fc1311f4f4ffbef2b8bc97755dc699142757c7#rd)
+    - 时间：2022-05-15
+    - 摘要：想做那个听你说出心声的人。
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701991&idx=5&sn=675b24c6be1d28c6003e9d0669561efc&chksm=9fc9fca3a8be75b50a3b10ab3ad97f4163b8b5291438bee583498c3ded765cca24a7c1d342eb#rd)
+    - 时间：2022-05-15
+    - 摘要：马克，总能用到！
+- [想倾诉又害怕得不到回应怎么办？丨你可以来KY「书信聊愈」试试！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701991&idx=6&sn=9ceb20f02662572a5ab1d8c95ec263b5&chksm=9fc9fca3a8be75b54d6eee5b9711df1d5b802305af84e6e757369ddf5d69ab066e5377b17acd#rd)
+    - 时间：2022-05-15
+    - 摘要：为你提供专业的心理服务
+- [能让一段关系从「我」变成「我们」的4件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701900&idx=1&sn=d90cdad95c962aff1a5a1ab5c95ba5ed&chksm=9fc9fcc8a8be75de957c6f350b51f13600c39c3c95406642072e173bc7465d1a665ec48f6e26#rd)
+    - 时间：2022-05-14
+    - 摘要：最好的爱情不是“I love you”，而是“I love us”
+- [人人焦虑的今天，如何获得为自己减压放松的能力？「KY心理功能手账」带你排忧解难](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701900&idx=2&sn=fa9327c4ed0708e6c022f90527292b10&chksm=9fc9fcc8a8be75de83971151e7abf4d5dafd8fe7a976d770b5d87d6f8c5f040995588a669e94#rd)
+    - 时间：2022-05-14
+    - 摘要：全新主题KY心理功能手账开放预售啦！
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701900&idx=4&sn=883726dcabd7325cfc17acdb7218f454&chksm=9fc9fcc8a8be75de8b21eadb99b5c744c80a36c9a5fec447a834048cfe6119022ae9589db4ab#rd)
+    - 时间：2022-05-14
+    - 摘要：想做那个听你说出心声的人。
+- [十条亲密关系避坑指南，先学习再实践](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701900&idx=5&sn=c8fc9451dfb54880a0b0846654e28840&chksm=9fc9fcc8a8be75de758971b70fc8aa4ed19d24e0e35eb367c87e449238d1ce9202d131918b1d#rd)
+    - 时间：2022-05-14
+    - 摘要：心理咨询精英入门课程+配套实践
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701900&idx=6&sn=2bfcaece839043c67ba5c002f7bfb1de&chksm=9fc9fcc8a8be75deea345658a3d0230ae618adbbdee941a36c20c7f290305f0d02b2354ce39e#rd)
+    - 时间：2022-05-14
+    - 摘要：欢迎来到白日梦世界。
+- [如果负面情绪不被允许抒发，会发生哪些可怕的事情？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701841&idx=1&sn=e5318f4b34a004eb23c00f268980a679&chksm=9fc9fc15a8be7503384bb91d2419f91c66658ed6493d7737b6e46c3ba2cb0dfa3689a835daf8#rd)
+    - 时间：2022-05-13
+    - 摘要：建议转给那些不让你发泄情绪的人
+- [心理咨询vs和朋友聊天，两者到底有什么区别](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701841&idx=3&sn=80d879500be95023883d485356b8a478&chksm=9fc9fc15a8be7503ccb094c3833368dff57b6161b148f6dddece58f795b1257eca842cd86b15#rd)
+    - 时间：2022-05-13
+    - 摘要：心理咨询精英入门课程+配套实践
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701841&idx=5&sn=37a9cadb6960d8c31f612769bcc4ee11&chksm=9fc9fc15a8be750311cc5e38615ec808650aef1c4d9b46dc2f81530cae645cd098cece306740#rd)
+    - 时间：2022-05-13
+    - 摘要：这些小tips不要错过～
+- [人人焦虑的今天，如何获得为自己减压放松的能力？「KY心理功能手账」带你排忧解难](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701841&idx=6&sn=a6cc2d9ddcfd7342f91b706849f6f1d4&chksm=9fc9fc15a8be75036d981481bb396e5b0f2a477b70eb1159512b0355e9714b9da9204bca9080#rd)
+    - 时间：2022-05-13
+    - 摘要：全新主题KY心理功能手账开放预售啦！
+- [控制不住负面情绪？来学习「冥想入门」线上课，成为情绪稳定的成年人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701841&idx=7&sn=692d34b28c62c8a57848626bac9d6890&chksm=9fc9fc15a8be7503a7028379baa57eb6c82dc2c23809c9243f461d6a176d9dea2826f9894b35#rd)
+    - 时间：2022-05-13
+    - 摘要：KY冥想线上工作坊火热招生中
+- [很容易被他人的情绪影响，该怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701841&idx=8&sn=60ccbfa3e02b02c71d3e62759285b009&chksm=9fc9fc15a8be7503eb8f1fb9c7f7ca88b71c152a4d72d39a8dbc237b72d055d734b8c87b5180#rd)
+    - 时间：2022-05-13
+    - 摘要：
+- [#Selina说不会再结婚了# 现代人的爱情还需要婚姻吗，你怎么看？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701380&idx=1&sn=f357f72499abea4b525f6209806bd5d1&chksm=9fc9fac0a8be73d6faeb9aedb76fc428234ff7dcb98c90e02da61ac474a2c3df835065dd0fc9#rd)
+    - 时间：2022-05-12
+    - 摘要：是你去选择婚姻，而不是让婚姻来选择你。
+- [“焦虑不是敌人，你并不需要打败他” 丨「KY心理功能手账」带你通过书写疗愈情绪](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701380&idx=4&sn=037b414585359a810d9fa45719a7ea35&chksm=9fc9fac0a8be73d66d90fb553146ec07652a65bd05b8b6fad84cac76d95ff36ed16b04194b86#rd)
+    - 时间：2022-05-12
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [亲密关系中，怎么样的行为就算PUA？丨周五直播，专业咨询师跟你聊聊「情感操纵」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701380&idx=5&sn=bc74b5e65bd1a6d28319d6bf89205db7&chksm=9fc9fac0a8be73d60b099b2586ef24b132f9b9dfbaf648664cf82b0b21b28941f209584dc382#rd)
+    - 时间：2022-05-12
+    - 摘要：文内预约，不错过
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701380&idx=6&sn=e0f2dab8d249d5bcff88c36f58803521&chksm=9fc9fac0a8be73d693e37e714f0b8cc7f129a7a7b533d51aba06fe6f065b1e948b8c6446be58#rd)
+    - 时间：2022-05-12
+    - 摘要：欢迎来到白日梦世界。
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247701380&idx=7&sn=8ab17efad69fc2e93cf7963e4b9465c0&chksm=9fc9fac0a8be73d6394e6530ef49904a36f0ec4d55a4649b77d88a9ee3743873903e4daeb5b9#rd)
+    - 时间：2022-05-12
+    - 摘要：为你提供专业的心理服务
+- [我仍然选择爱这个世界的12个理由](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700780&idx=1&sn=f1c3a7d3a51d153d0afd79689d9724b1&chksm=9fc9f868a8be717e69fa6068f3470ba884021bdd31407ac579a741dd700a8d035d7c99b2ca7a#rd)
+    - 时间：2022-05-10
+    - 摘要：今日推文爆哭警告
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700780&idx=4&sn=87e655e96b81cb2740d2f0b361473ece&chksm=9fc9f868a8be717ece340459673c51e8f8c6b1b1c82c4005d635c5d5b53b11ad7a5fd821b93f#rd)
+    - 时间：2022-05-10
+    - 摘要：马克，总能用到！
+- [“焦虑不是敌人，你并不需要打败他” 丨「KY心理功能手账」带你通过书写疗愈情绪](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700780&idx=5&sn=f978b03ef6ee74ff54cdf4c4b002895c&chksm=9fc9f868a8be717ea25e6dd974a3e20fa8d87776c5d46f31d1b130b7598de862b2e99f5c37de#rd)
+    - 时间：2022-05-10
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [想要睡好「美容觉」？试试用敷面膜的时间来冥想吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700780&idx=7&sn=e86708c8274391880281c96f9e1955c3&chksm=9fc9f868a8be717e49340965cf76a9cf0f9dc9cdbe62aa6603fbbdc6f0fced57b60b62b0dcd2#rd)
+    - 时间：2022-05-10
+    - 摘要：当我们在敷面膜时，还可以想些什么？
+- [“我总担心自己对男性没有吸引力”「性自卑」是一种什么样的自卑？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700710&idx=1&sn=1c357d5037a557fc4fb9a657766fb3d8&chksm=9fc9f9a2a8be70b419229cdce5080112325c603439ee1a5f1374b1c9d01dda3d3593a1495f29#rd)
+    - 时间：2022-05-09
+    - 摘要：我觉得自己没有女性魅力。
+- [疫情之下，职业危机，不如探索跨行业可能丨0基础心理学系统入门](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700710&idx=2&sn=0c76447897540b79e0d06e82684c672a&chksm=9fc9f9a2a8be70b432ccf71efbb2d6df2c0253e27ccef15223bde38f9d00b6d35287c3160c6f#rd)
+    - 时间：2022-05-09
+    - 摘要：2022，给想成为心理咨询师的你
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700710&idx=3&sn=59e732eb708aeb0a4fcec8900c5f8b35&chksm=9fc9f9a2a8be70b441f506c10b89bad3ca82b516b56e6380f65dfa18ca89a85de8ff0fa4667d#rd)
+    - 时间：2022-05-09
+    - 摘要：这些小tips不要错过～
+- [“焦虑不是敌人，你并不需要打败他” 丨「KY心理功能手账」带你通过书写疗愈情绪](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700710&idx=6&sn=e32e99ba86ba82e0c56c484bc5c964e0&chksm=9fc9f9a2a8be70b45fa3cd294f99566538d7a5f0dd079dc4b4f4a32e7869de5b719a3c6b5197#rd)
+    - 时间：2022-05-09
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [看脸就能鉴别“渣男”？来看看研究里说的“渣男脸”长什么样——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700428&idx=1&sn=f83ca5321b902de98497dab18824eefd&chksm=9fc9e688a8be6f9e90493c9a9552153b59808a26ec803e5feede0e0c9b85e97c733c69e4d7d9#rd)
+    - 时间：2022-05-08
+    - 摘要：趣味心理研究速递
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700428&idx=2&sn=e96c7b31727529280619fe28fea5299e&chksm=9fc9e688a8be6f9e83386ebc9b647249ab86c32b5657ec4d1afe2de1a45625e45aa3127e418c#rd)
+    - 时间：2022-05-08
+    - 摘要：
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700428&idx=3&sn=e9e8afbcd0dfaeae6b0d69896f4b6d4a&chksm=9fc9e688a8be6f9e4c01267a0b2aafd16f73518fc5e19cbd86bd11c8832ed975b3c7d984f008#rd)
+    - 时间：2022-05-08
+    - 摘要：我想陪你，从入睡到黎明。
+- [对未来焦虑又迷茫，在这本手账里找到你内心的答案吧丨KY心理功能手账热卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700428&idx=5&sn=c18a8582e31c90ab745792c941e953fc&chksm=9fc9e688a8be6f9ed3e9017ae3eedf6976b3bd56eb602473d357d2fa07a0b81dc4795c2e6b39#rd)
+    - 时间：2022-05-08
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700428&idx=6&sn=077324da797318aa08d53144e84a084c&chksm=9fc9e688a8be6f9e8d5a5ab39144b700c46d9ada827eba52a45b52d8a0ac40e61d36580b59cb#rd)
+    - 时间：2022-05-08
+    - 摘要：马克，总能用到！
+- [“女生之间的友谊就是小心思多。”你认同吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700353&idx=1&sn=e38f888b6945d4edbca14a3011ea2a7e&chksm=9fc9e6c5a8be6fd3459222cb9517459b2ddd974a8f3e3816fb701c2b2464b306ca676e3b062b#rd)
+    - 时间：2022-05-07
+    - 摘要：女性间的地下战争
+- [想要甜甜的恋爱吗？点进来看你的专属攻略丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700353&idx=2&sn=d1541d9839d85ee35894876f5cbeb0a9&chksm=9fc9e6c5a8be6fd3c52718526cf1811275dd15f0c28e8eee61d98c422f9c3eebff82fdac8011#rd)
+    - 时间：2022-05-07
+    - 摘要：超全爱情分析报告，点击即测！
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700353&idx=3&sn=12866a453c8c7555d2772afaa9b33e30&chksm=9fc9e6c5a8be6fd35f00fd13d3d97f055e5afe193b4a2c00a763c837f909403fa6a587a05438#rd)
+    - 时间：2022-05-07
+    - 摘要：我想陪你，从入睡到黎明。
+- [为什么说“被看见”具有治愈力量？丨你可以来书信聊愈体验看看！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700353&idx=4&sn=25e9ed4311df3cd3534643657ffe57c4&chksm=9fc9e6c5a8be6fd37ab7b1d6ea8a9165aac754394eb428f305c7d1f1dc106b746f7a81d7fa6b#rd)
+    - 时间：2022-05-07
+    - 摘要：为你提供专业的心理服务
+- [对未来焦虑又迷茫，在这本手账里找到你内心的答案吧丨KY心理功能手账热卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700353&idx=5&sn=5d24d8082a00bf770056447e7dfd5812&chksm=9fc9e6c5a8be6fd3261e0f037ab1c1404b55e4bd022e7b16e3f8d27f20ddc4c2c9086fc89257#rd)
+    - 时间：2022-05-07
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [如何尽快摆脱失恋的痛苦？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700353&idx=6&sn=c4251a00d77026147925b667e1df144e&chksm=9fc9e6c5a8be6fd37195295bae57636cd3bac85e666c622677557e4f39eaf78669b6ddc7ee84#rd)
+    - 时间：2022-05-07
+    - 摘要：
+- [爱了一个不爱自己的人，究竟要如何才能释怀？丨小姐姐的小闲话系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700278&idx=1&sn=6ba0e33d55670260c40a189e63c602bd&chksm=9fc9e672a8be6f64aa6e06f7bd67479fa7f84885477950c70bcebe069973c2df890081ef9fb4#rd)
+    - 时间：2022-05-06
+    - 摘要：你很好，但ta就是不要。怎么办？
+- [我们如何用心理咨询师的视角，重新解读人生的意义丨萌芽12期即将招生，提前礼赠免费好课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700278&idx=2&sn=eaed0f3ed76f106e15385da7eadf0a8c&chksm=9fc9e672a8be6f641afc25a8570c298526c7b84dd89e7dd5f46d94fcd590baebe477db78bcd0#rd)
+    - 时间：2022-05-06
+    - 摘要：2022，给想成为心理咨询师的你
+- [想和你分享，那些被生活突然浪漫到的瞬间丨KY粉丝精选](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700278&idx=3&sn=09a3776befe1abf6b201e3bd590c16b1&chksm=9fc9e672a8be6f64596d40b1ced4823303efaf93987e0b02a3ed59477d1d7bcedc4606fc3867#rd)
+    - 时间：2022-05-06
+    - 摘要：生活难免落俗，浪漫至死不渝
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700278&idx=4&sn=b6df69ee70a2c2340e0218a3eba4ee85&chksm=9fc9e672a8be6f64bbb954fbaab3f522550c93e71956d0bf600c074288b2340987f6cde21203#rd)
+    - 时间：2022-05-06
+    - 摘要：或许是全网最全。
+- [对未来焦虑又迷茫，在这本手账里找到你内心的答案吧丨KY心理功能手账热卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700278&idx=5&sn=34aa5e523c7e508ce2baa1a90eb0469c&chksm=9fc9e672a8be6f64fde39f5081935ed070e375677897198a721f135ebd95ea8b5d5b78b46827#rd)
+    - 时间：2022-05-06
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [假期归来提不起劲？来云端冥想工作坊学习「精神充电法」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700278&idx=7&sn=e4c872fc1a05110477bca09d1dc8b195&chksm=9fc9e672a8be6f64ffa0f35dec4b0ae000677a791ed37b90753a803fac06ebb4f01f4b2158ab#rd)
+    - 时间：2022-05-06
+    - 摘要：下周居家冥想工作坊课表来啦，更有新活动上线~
+- [“世间最好的药，就是一位耐心的爱人” 这里有20个他们被爱治愈的小瞬间。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700066&idx=1&sn=1d3adc3fdb034073c68e4177b18b19ea&chksm=9fc9e726a8be6e3029a8e45bd3f81617b9a89176f485999595716c9679057211d4a05b835895#rd)
+    - 时间：2022-05-05
+    - 摘要：这些故事里，有没有你的影子？
+- [对未来焦虑又迷茫，在这本手账里找到你内心的答案吧丨KY心理功能手账热卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700066&idx=3&sn=92ce776eb84927879cb85e3bc92c834a&chksm=9fc9e726a8be6e30b1a527d6b24be3efabaa76cd0940fb05d0b49dd0930039b57e07f4e2eda6#rd)
+    - 时间：2022-05-05
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247700066&idx=4&sn=39da701fc4c8bfcae24f47134a1ed1d6&chksm=9fc9e726a8be6e30cedde059314176c60ae7b18f7dff43748a8cbed2d9cc76108bd01a221530#rd)
+    - 时间：2022-05-05
+    - 摘要：这些小tips不要错过～
+- [人人都在聊的MBTI，到底是啥？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699978&idx=1&sn=2cd143a4af29ec0e5a4187abad648b5c&chksm=9fc9e74ea8be6e581c90d266938f25cac789e50b7f06c4851eb725e70ce6ff3442e13b401b34#rd)
+    - 时间：2022-05-04
+    - 摘要：KY终于对MBTI下手了
+- [高校、研究所、外企、大厂，我到底想要什么样的生活？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699978&idx=4&sn=bafc6d578647496a1e9cdca1b4089812&chksm=9fc9e74ea8be6e58d72e5d6cad25b77f005fcc31f0344483d18aef1badde2484925ffcc431ac#rd)
+    - 时间：2022-05-04
+    - 摘要：你的职业兴趣和优势是什么？
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699978&idx=5&sn=85b3763dad6db35f61b0980093732c8c&chksm=9fc9e74ea8be6e58ce1f291bbd225b9e284d5fcd7874b97a710f5d93e684437c7978f6f5b392#rd)
+    - 时间：2022-05-04
+    - 摘要：马克，总能用到！
+- [研究发现：42%的女生每周自慰超过一次。今天聊聊女性的“自慰自由”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699858&idx=1&sn=a27f651211ce70c37bdf9e8928b7868f&chksm=9fc9e4d6a8be6dc08e45cd3113ce82fc84165a01a77369f601a783fc1a1fd7b61ed3b38fd447#rd)
+    - 时间：2022-05-03
+    - 摘要：关于女性自慰的Q&A
+- [对未来焦虑又迷茫，在这本手账里找到你内心的答案吧丨KY心理功能手账热卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699858&idx=2&sn=47b2831f44355f81e2fa7e755802c3fb&chksm=9fc9e4d6a8be6dc088c4d86ea6059531c29c696283969f891b2f0d3514b4283fac5169c1182c#rd)
+    - 时间：2022-05-03
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [出行被取消、宅家好无聊？“拯救”假期的匹配计划来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699858&idx=4&sn=90c5ded2c4705480223a0879dbad062f&chksm=9fc9e4d6a8be6dc0bbfa92ffe076c1a90883b9b9eaa4243d9ee29bd511832e3c7d6e84d76b93#rd)
+    - 时间：2022-05-03
+    - 摘要：遇见你，居家也能快乐放假！
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699858&idx=5&sn=84e1968170f094c5623d4f40b55242f7&chksm=9fc9e4d6a8be6dc0b4c350721355c2c1f8c33a576e74478ddb7f86e2ed2cf1ea5880a1d6a7e8#rd)
+    - 时间：2022-05-03
+    - 摘要：为你提供专业的心理服务
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699858&idx=6&sn=23208b120f4c05e84b50b744e5cfa145&chksm=9fc9e4d6a8be6dc0bf3ecef83c2605846fb9334492cc3a526ad6a831a0f4cf433aa2c73c408b#rd)
+    - 时间：2022-05-03
+    - 摘要：或许是全网最全。
+- [警惕！那些自己摆烂，还见不得朋友好的人，都有这种心态——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699802&idx=1&sn=0f6d40750d9515f6d0eb8cb707e11d3e&chksm=9fc9e41ea8be6d082cad589217ab9f71f5188a80fd49b8103c3fa8016b1576ff807b6d4f9255#rd)
+    - 时间：2022-05-02
+    - 摘要：警惕！摆烂可能是传染病
+- [KY教你用MBTI谈恋爱丨点击查看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699802&idx=2&sn=ae2fb7456b4c157b2aac8cdf7b5e5c13&chksm=9fc9e41ea8be6d08a69acccbeaac71ad08bd3ca2cc72a562ccf86494ab4b1f8bab61601e5506#rd)
+    - 时间：2022-05-02
+    - 摘要：点击立测你的恋爱MBTI。
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699802&idx=4&sn=d5f1126bcecda275259f173e86ca56d2&chksm=9fc9e41ea8be6d082f440652e07f64ce44d28756d694b27e2c77d7047f17322e333800f8f83d#rd)
+    - 时间：2022-05-02
+    - 摘要：这些小tips不要错过～
+- [当代年轻人用来「治愈自己」的30件小事。你试过几个？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699683&idx=1&sn=37b397f1ad368b0b4b36a22ea6c8a5e3&chksm=9fc9e5a7a8be6cb1ddc31313edd7bfc31dcd6f3b1696d05ebfeaa672c8f203a7dc887c0f0ce3#rd)
+    - 时间：2022-05-01
+    - 摘要：希望今天的推送能安慰到你。
+- [出行被取消、宅家好无聊？“拯救”假期的匹配计划来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699683&idx=2&sn=ee7e06f937c0ab2278a2d3da76acc7e3&chksm=9fc9e5a7a8be6cb1da3c301ae4981502281dc86d34f4dda21d063d40ee452d063666d1c6c3ce#rd)
+    - 时间：2022-05-01
+    - 摘要：遇见你，居家也能快乐放假！
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699683&idx=4&sn=73c10bc5259a9e941dfbc99de2cb42e9&chksm=9fc9e5a7a8be6cb12717d51a5474c2545907ec097c5cda11817bb8db95483327a642edc39247#rd)
+    - 时间：2022-05-01
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699683&idx=5&sn=0b05439c66f61bd7017b07c93433a2ec&chksm=9fc9e5a7a8be6cb11d2bdde2043028419938ff40539c6861c65cc88ac6e2a7b5548a290bb88e#rd)
+    - 时间：2022-05-01
+    - 摘要：欢迎来到白日梦世界。
+- [对未来焦虑又迷茫，在这本手账里找到你内心的答案吧丨KY心理功能手账热卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699683&idx=6&sn=5f624ed13a37c4fac1477f44b69cf34a&chksm=9fc9e5a7a8be6cb11ae63e93265a62e59ac7b47a591774e34596f3c53ee9eb435c27ef9c89cd#rd)
+    - 时间：2022-05-01
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [只跟刘畊宏学跳操？那就亏了，真正该学的是这个——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699642&idx=1&sn=8192f08659fdaf267cca2b2058eb09b0&chksm=9fc9e5fea8be6ce8eee1d394a1279d3df3d50d38cb183438708758328e6db471baa394193e2b#rd)
+    - 时间：2022-04-30
+    - 摘要：不减肥的你，也应该看看刘畊宏
+- [对未来焦虑又迷茫，在这本手账里找到你内心的答案吧 | KY心理功能手账热卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699642&idx=2&sn=a69978d958a45570bb242f082f03e595&chksm=9fc9e5fea8be6ce8f75363d74b5a486dfc5a5a1bdfaee984cc98250925483f40af72541bb881#rd)
+    - 时间：2022-04-30
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [为什么说“被看见”具有治愈力量？丨你可以来书信聊愈体验看看！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699642&idx=4&sn=189d6122bef971aba2a9c9f7223102d3&chksm=9fc9e5fea8be6ce8667f9e690da04c6344c2904ced1294d6fade294932dbc2806072ab2027f7#rd)
+    - 时间：2022-04-30
+    - 摘要：为你提供专业的心理服务
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699642&idx=5&sn=bf127b9c3f2513216182f5a1d3709fe8&chksm=9fc9e5fea8be6ce864f239f3e392332fae48ecfd19c015a2492b6478fa3830d0e0ed3be85ef5#rd)
+    - 时间：2022-04-30
+    - 摘要：或许是全网最全。
+- [出行被取消、宅家好无聊？“拯救”假期的匹配计划来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699642&idx=6&sn=827f3093122d8ac7927a7fa809e2b50e&chksm=9fc9e5fea8be6ce8fd6a5b11d9b2f02c7f6b331fff445e55273666e8bd4a7eb9173b24227f0b#rd)
+    - 时间：2022-04-30
+    - 摘要：遇见你，居家也能快乐放假！
+- [如何才能不被他人影响，坚持自我？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699642&idx=8&sn=5b1a60765e28bd20d0df4d41863bdcb1&chksm=9fc9e5fea8be6ce8d0034b9e369dae409b2d6bb2c82f7a877906c3cfbb18f3c6c5c28485d43b#rd)
+    - 时间：2022-04-30
+    - 摘要：
+- [要想好好生活，每个人都必须学会「适度冷漠」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699420&idx=1&sn=4c9c8a8775ca7ab2fddf838bce9ee7a1&chksm=9fc9e298a8be6b8e52853ed9515185d4eb5ebf8e833538eed1f49f44fd07d6022559bffda1bd#rd)
+    - 时间：2022-04-29
+    - 摘要：冷漠也是一种人际技术
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699420&idx=5&sn=adfb72da1a48d24b49ded4aa8f095f1d&chksm=9fc9e298a8be6b8e2aeb790dd1cb058acd5bfdd3fb6903a4ed6f1833533a935c80b7638429f1#rd)
+    - 时间：2022-04-29
+    - 摘要：这些小tips不要错过～
+- [你离找到自己还有多远？KY「“找到真我”心理功能手账」帮你自我觉察与接纳](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699420&idx=7&sn=2b7939d8b9a90f97057380189bc6d3b4&chksm=9fc9e298a8be6b8edf8eb6eaf38516d5d24eb9ba4aeb53101eab2895142f3151ca4f95836e21#rd)
+    - 时间：2022-04-29
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [五一假期不能出游？来云端冥想体验课修炼灵魂的自由](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247699420&idx=8&sn=e3e2215cf3338cd60dc99c50f788e71f&chksm=9fc9e298a8be6b8ec75250c8b1b9cd77a4ab82cd49bcc70abcf4e8b5d2c898c2511f33010fff#rd)
+    - 时间：2022-04-29
+    - 摘要：多种云端冥想体验课选择，总有一款适合你！
+- [“如果他单独和女生吃晚饭我不该生气，那夜宵我能生气吗？”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698720&idx=1&sn=ae045d8b3abe99edc97382987e0eaa1d&chksm=9fc9e064a8be697292843c168bb47eebfb193f9fe1e52da9f635b8c302f40320faa3e118cc1d#rd)
+    - 时间：2022-04-27
+    - 摘要：占有欲不能太多，有一点正好。
+- [七日暖心行动：治愈自己的同时还能温暖更多人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698720&idx=3&sn=8248dc62d38a9a4bad1be20b63722212&chksm=9fc9e064a8be69720fc86db18c38d61173d8d76858745c857370f812e73a8cf979d962d317cf#rd)
+    - 时间：2022-04-27
+    - 摘要：
+- [婚姻还会是你的归宿吗？丨周四直播：咨询师和你聊聊「我可不可以不结婚」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698720&idx=6&sn=3ec4da9140a9c0186d2941cc0e63754e&chksm=9fc9e064a8be69722313d325dc12f08d45b5a151c05ce2b77640329ec2aebddb2520fa650d3f#rd)
+    - 时间：2022-04-27
+    - 摘要：文内预约，不错过
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698720&idx=7&sn=bce3874bc73e7822c7f48bd0fbee226d&chksm=9fc9e064a8be697261522122fd58c676e2b8a7c186a04edd878e68b14c7639d1e0ea00da3aac#rd)
+    - 时间：2022-04-27
+    - 摘要：欢迎来到白日梦世界。
+- [用书写「告别焦虑」、「寻找真我」，KY最新「心理功能手账」售卖中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698720&idx=8&sn=8544492813640e596acaa6f1d8a23b8f&chksm=9fc9e064a8be6972b5dbaef1cb34f66ad49f5bb4069649816a4d7bc307e6cafb1643f96c40d0#rd)
+    - 时间：2022-04-27
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [“27岁，我决定先回家养老。”当女性决定活在「自我时钟」里，会发生什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698622&idx=1&sn=123a33b25b041727dbcaab47967e4540&chksm=9fc9e1faa8be68ec62a7ca2a05f48ba451e1b571e04077408cdbc179f4b3d88999ed7cd82b18#rd)
+    - 时间：2022-04-26
+    - 摘要：“Off the clock”并不等于失败，“On the clock”也并不意味着幸福。
+- [在跟着刘畊宏跳了三天健身操后，我与自己和解了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698622&idx=3&sn=c9db7160798e8bf8a1663fcc42d24d52&chksm=9fc9e1faa8be68ec2814a6ae00058ba95bb4e44cade504ec9a8a4b6d890ae72965d75cf85067#rd)
+    - 时间：2022-04-26
+    - 摘要：反内卷，从自我接纳开始。
+- [为什么说“被看见”具有治愈力量？丨你可以来书信聊愈体验看看！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698622&idx=4&sn=173105cac4879018326eb5ae84b8a06c&chksm=9fc9e1faa8be68ec3ec570c3d06819bb59dc1408b3000f87ee9968b3dc3105080c100d136ce3#rd)
+    - 时间：2022-04-26
+    - 摘要：为你提供专业的心理服务
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698622&idx=5&sn=8abe48319c002d60b5a702e424031c42&chksm=9fc9e1faa8be68ec34a0d76221aba2d77721045e19b6c7c395f483fc5f777cd5cac26ecf501d#rd)
+    - 时间：2022-04-26
+    - 摘要：或许是全网最全。
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698622&idx=6&sn=a5ad24c6790857a211d6c6259e433409&chksm=9fc9e1faa8be68ec4777e810d1aefb4c47eed27ef69e07e6b39e3d6e27b60d0f23d00af3a5de#rd)
+    - 时间：2022-04-26
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [「无条件的爱」的4个特征——你拥有过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698254&idx=1&sn=226d69391861be2665e9ee3737334dc3&chksm=9fc9ee0aa8be671c49fdd059b13a325efd29a949cd7ebb63b86f2dc5d7b0bbeb636fd5a44ff9#rd)
+    - 时间：2022-04-25
+    - 摘要：爱可以是无条件的，关系都是有条件的。
+- [世界上有80%的人都不知道自己的天赋，你也是吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698254&idx=2&sn=ed395502fdd7b06e202079f661214433&chksm=9fc9ee0aa8be671cb3f5d451399fe2368a5c1a093570233eec85c6e3224307cad0c302aadf8b#rd)
+    - 时间：2022-04-25
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [在家待得烦闷？不安？焦躁？丨冥想直播共练：专业导师带你探索内心的平静](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698254&idx=3&sn=f820912845f33138c4d300a69c4abeeb&chksm=9fc9ee0aa8be671cd77f4567cc727f8f6d8c268cd3c081a7de9abb44e04d5b90df808cd5f8ba#rd)
+    - 时间：2022-04-25
+    - 摘要：文内预约，不错过
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698254&idx=4&sn=04b48e01c6398296f2e293a3dd842288&chksm=9fc9ee0aa8be671c44fba4a543a929b006293fde6c94b5cd8f2f5c5ff372faac02148c403681#rd)
+    - 时间：2022-04-25
+    - 摘要：或许是全网最全。
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698254&idx=5&sn=30d5908d38d1972d442f8c3006f33a07&chksm=9fc9ee0aa8be671c2705175ca6b876842f194b538f514306799dccd98aff41c3fe6d6377a520#rd)
+    - 时间：2022-04-25
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [“我爽了，我装的。”超过一半的女性都曾假装高潮？其实假装的不只女性…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698144&idx=1&sn=bf19de651e78df7a13232527d44e9203&chksm=9fc9efa4a8be66b2d915f6b92a88cb89057e9001966d403dac09b73ed50c222814df4fef5325#rd)
+    - 时间：2022-04-24
+    - 摘要：不止是异性恋群体，LGBT群体也无法幸免于“假装高潮”
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698144&idx=2&sn=ddd422b709f6986f124d1c663ebbca51&chksm=9fc9efa4a8be66b2d7a99538499f3256c5c7d74acb92e2e1dae380370cca25baf855dd08173e#rd)
+    - 时间：2022-04-24
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [七日暖心行动：治愈自己的同时还能温暖更多人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698144&idx=3&sn=55ad218c86e53f50506a4688085aaace&chksm=9fc9efa4a8be66b2a4b938889cf2b3c849fe318c86107a84b31b017300cfa02d08b4c699eab9#rd)
+    - 时间：2022-04-24
+    - 摘要：
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698144&idx=4&sn=78f3dea29c92c624f26a9e3dff200bfc&chksm=9fc9efa4a8be66b2772217345b280df058bec234d096c3a1538dc0634a09cc7cb0f436fac3ab#rd)
+    - 时间：2022-04-24
+    - 摘要：这些小tips不要错过～
+- [15个点亮心情的「一周moments」｜KY粉丝精选](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247698144&idx=6&sn=6b6497668009abc672a7454e47cdde20&chksm=9fc9efa4a8be66b29d1067e69cfbd87df9790c045e05ee5db619b463654f9a87808b4d2833fc#rd)
+    - 时间：2022-04-24
+    - 摘要：尤其适合疫情隔离期间服用
+- [“交心”关系的4个特征和9个tips。这篇推送让你想起了谁？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697837&idx=1&sn=0a2e2eeb9c5dbbd2a3317cda2fd21623&chksm=9fc9ece9a8be65ff8936061dff6bfe2f3f146583010dc288b0c103636f328c5f7dec3bb8b7ea#rd)
+    - 时间：2022-04-23
+    - 摘要：成年人的世界里没有容易二字，友谊也是
+- [专属你的【性】福生活指南丨点击查看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697837&idx=3&sn=7c52f3ad832077151eee7d7699d8fa3e&chksm=9fc9ece9a8be65ffb4bba9189c3a48e47348a7973876703f7d9c01c95a04133c9df3b6a1ebf1#rd)
+    - 时间：2022-04-23
+    - 摘要：点击立测性魅力，查看你的专属报告。
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697837&idx=4&sn=9f3a193aba1794f76573374687ce3a28&chksm=9fc9ece9a8be65ff2ee71f9a38d6c71901fc32b969127e429df2ebef5dd6525656f8779b7b9c#rd)
+    - 时间：2022-04-23
+    - 摘要：或许是全网最全。
+- [不被理解的倾诉反而会带来二次伤害！来「书信聊愈」收获支持性回应](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697837&idx=5&sn=4f80d470311ab491d858000c6176e1b5&chksm=9fc9ece9a8be65ff05691af1b037e1fcd2dad90e3b297e13a55114c10a9e80a25e21d249a0d7#rd)
+    - 时间：2022-04-23
+    - 摘要：为你提供专业的心理陪伴与支持
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697837&idx=6&sn=97dd29bfbd02c7c3531519607b7c4b89&chksm=9fc9ece9a8be65ff1d21bbfc1a1fffd5168c31374f6b2be746ab8c7a1a13aa3c5c90e23fc163#rd)
+    - 时间：2022-04-23
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [疫情三年，如何深刻改变了人们对生活的看法？我们和27位KY粉丝聊了聊。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697805&idx=1&sn=3a6c5ae2d15f3cfa051f624e7bae3de8&chksm=9fc9ecc9a8be65dfc0cabcd84cc2794c0133c96527119ad95e443e2208ace6e9978340e3c89c#rd)
+    - 时间：2022-04-22
+    - 摘要：有人更厌世，也有人更加热爱生活。哪个更像你？
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697805&idx=2&sn=687314fe2f156d21adc4b6d64d30c5ea&chksm=9fc9ecc9a8be65df33ebb15b176f36a2d45d6813766b049f81b795b286ed7d8b5acf7b013450#rd)
+    - 时间：2022-04-22
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697805&idx=3&sn=221e2cd4da8009ae1f671f108a949a61&chksm=9fc9ecc9a8be65df93c4398ff65ece7f1bdaabc3a7b8b8d59c23d5622a48fe5594ecd8d73c3a#rd)
+    - 时间：2022-04-22
+    - 摘要：我想陪你，从入睡到黎明。
+- [一个人在家太孤单？叫上你的好友来「冥想入门」班一起学习打卡！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697805&idx=6&sn=257c6c1adc33ff2e37e177e63147f0a2&chksm=9fc9ecc9a8be65df352ee7db7aa536ff2fd71254c1952eaa5ea211cd7faa13a6d29135324400#rd)
+    - 时间：2022-04-22
+    - 摘要：一起在家和专业导师学习，轻松入门冥想吧！
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697805&idx=7&sn=66454353171127a30f8f0c21ef4e2f6f&chksm=9fc9ecc9a8be65df4cde0b117b506796f027d30b91d8fd8f9461c5ad09e761b25396e4dae7df#rd)
+    - 时间：2022-04-22
+    - 摘要：或许是全网最全。
+- [无聊时就只能刷短视频？不如每天10分钟，听听心理学丨购课免费赠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697805&idx=8&sn=6ac4a4a2d1b858fefcfd71c71339321d&chksm=9fc9ecc9a8be65dff557cdd14f2976fcd8fc94c5ab8052a4b5bb8286fc6623a82e4def7dddd2#rd)
+    - 时间：2022-04-22
+    - 摘要：没时间看心理学文章，来听简单易懂的音频课吧~
+- [正确的约会，能帮你谈上「甜甜的恋爱」：来看5个错误和5个tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697579&idx=1&sn=3c18bf44dc9965d7d5647d4d4fa9de0f&chksm=9fc9edefa8be64f92d437e31426a66dc817c93134b8632e17a13b760e36cdb163f7f19ac1727#rd)
+    - 时间：2022-04-21
+    - 摘要：你一定要避免“旋转门约会”！
+- [那些经常被PUA的人，都有这些特点丨点击查看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697579&idx=2&sn=6f089526b1aadbe0c492bb15f67dd3aa&chksm=9fc9edefa8be64f91460a4feecbc959e7b208e2961d18ad77cab2bbcb2d7b5c8053a8ad95c32#rd)
+    - 时间：2022-04-21
+    - 摘要：测测你被PUA的可能性有多大？
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697579&idx=3&sn=233f60b4f3e9b07d87242c06b7397474&chksm=9fc9edefa8be64f954d27bc15aacb5bd7dc06eaebb96a45c7305444dd7cc81b7777bba13b7fc#rd)
+    - 时间：2022-04-21
+    - 摘要：我想陪你，从入睡到黎明。
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697579&idx=6&sn=df6e4733032485820a2152580b8b6e16&chksm=9fc9edefa8be64f9836dac94838131c99e93b96d872f44a34c7c4c889e0ac6ab4c26e0d760e7#rd)
+    - 时间：2022-04-21
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [见不得同龄人过得比我好，是我的嫉妒心太强吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697579&idx=7&sn=d3e82f2751f3479df36ef5221fb3e9c8&chksm=9fc9edefa8be64f91a87cd8328cfa6e83ce1f9486ec77e5e80248aea6223acc020d3ca1529f4#rd)
+    - 时间：2022-04-21
+    - 摘要：
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697579&idx=8&sn=b0e299d547b22c21e84047601ade7e48&chksm=9fc9edefa8be64f95a3023eaff3f14dddc3c8af55ba389e58284bd5e7fd5f33cc1a21792a724#rd)
+    - 时间：2022-04-21
+    - 摘要：这些小tips不要错过～
+- [上海，你正在让我们感到“被背叛”。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697324&idx=1&sn=14feb75886b8b90260f8b7071de0792d&chksm=9fc9eae8a8be63fe44a216c4063b992a53310d560b76bf20a1251338b2257e16a948a7a396ba#rd)
+    - 时间：2022-04-20
+    - 摘要：一点不得不说的“闲话”
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697324&idx=6&sn=20b4498910c66e7c4ee64c994f622630&chksm=9fc9eae8a8be63febf1a94bcc719b415b5794b1a8d4cefa81d9797814a2e8ca1b9e8e337eee0#rd)
+    - 时间：2022-04-20
+    - 摘要：或许是全网最全。
+- [想倾诉又害怕得不到回应怎么办？丨你可以来KY「书信聊愈」试试！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247697324&idx=8&sn=f9418f480f4c7c5bc23638bfa0d818a8&chksm=9fc9eae8a8be63fe406c926e9574edcc3cfd84d7551d405286d6c43dc5c720d66948fd077043#rd)
+    - 时间：2022-04-20
+    - 摘要：为你提供专业的心理陪伴与支持
+- [为什么有些爱，让人感觉特别沉重？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696910&idx=1&sn=2750451f9ccb3dd9cffc70bc1676e675&chksm=9fc9eb4aa8be625ccacb1e9ef7cec09e349a76540d4f9c19c5e11d5e301a9ac259f4d229fff1#rd)
+    - 时间：2022-04-19
+    - 摘要：被爱，可能也是一件沉重的事
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696910&idx=2&sn=25c24e44641c6f0fc5a64ed659f21ce5&chksm=9fc9eb4aa8be625c603cd7a05b821e0b429039633a581f8050a4cafa91a0e397afb7b42cdfd2#rd)
+    - 时间：2022-04-19
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [KY教你用MBTI谈恋爱丨点击查看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696910&idx=3&sn=f269675d10f546375064c476c87a4472&chksm=9fc9eb4aa8be625c7746ead1261464965241d1bf3a4f2d347ae8aa7d8ff42784dacc94a904bd#rd)
+    - 时间：2022-04-19
+    - 摘要：点击立测你的恋爱MBTI。
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696910&idx=5&sn=128243c442a6108d356e99f6894a537a&chksm=9fc9eb4aa8be625c82c625da4ced611d0e3b65a8e4323f599c64ccd1ef0656881e8f4fd7d1b6#rd)
+    - 时间：2022-04-19
+    - 摘要：马克，总能用到！
+- [为了让你在自我探索的路上少走弯路，我们带来了...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696910&idx=7&sn=87397297c1f99a777b87dd3c2872bce2&chksm=9fc9eb4aa8be625c6d78ca11e2a2da3040aeaecb5ffb50259a6025d7a984d293e9fc2bacd7d9#rd)
+    - 时间：2022-04-19
+    - 摘要：自我探索之旅，从人生必修课开始~
+- [情侣之间，必须要100%坦诚吗？研究说：不一定](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696439&idx=1&sn=e07d6c9ad48d5b310d5fdee2c1af61e0&chksm=9fc9e973a8be60656990235862fa4e4d5a710ad3e50f8ef81411d44c73fc4db4c21517ab4925#rd)
+    - 时间：2022-04-18
+    - 摘要：爱是99%的坦诚+1%的谎
+- [控制灵魂对自由的渴望，如何过好居家办公生活？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696439&idx=5&sn=22b1aef7384666827731b3e20310fadb&chksm=9fc9e973a8be606536a1cb15da303dd1c2608d79d2549134de8a35d0e3fcdf9a4354b962bdc7#rd)
+    - 时间：2022-04-18
+    - 摘要：长期居家该如何实现工作和生活的平衡呢？
+- [“处女”的100种含义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696121&idx=1&sn=b52bd07ab4051a6beb0085b786b73308&chksm=9fc9d7bda8be5eabecfb480ffb0a433fe1e9ae2439b3572c0c22a4a6f75f156d27c5e11a49b1#rd)
+    - 时间：2022-04-17
+    - 摘要：你怎么看？
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696121&idx=4&sn=55a1853f81b1de3482a76e1808d1e941&chksm=9fc9d7bda8be5eab995519b9abf7dcc0221414d28d5bd977f6e30527974c3dc59f59862d6e4e#rd)
+    - 时间：2022-04-17
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [想倾诉又害怕得不到回应怎么办？丨你可以来KY「书信聊愈」试试！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696121&idx=5&sn=d0631a10c310311b8241c719e66745c8&chksm=9fc9d7bda8be5eab999c34e10d2f0780cd15be6a68032f22bd3beb9e94f1af116baef3fdaa12#rd)
+    - 时间：2022-04-17
+    - 摘要：为你提供专业的心理陪伴与支持
+- [对伴侣之外的人心动了，如何科学处理这种“分心”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247696121&idx=6&sn=af8fe1ed2d6d1bd46b75c44bbe7c44ff&chksm=9fc9d7bda8be5eabcca951c4b4fbc61486967fb567277d878312a9523f1fc361fc3515fc731b#rd)
+    - 时间：2022-04-17
+    - 摘要：
+- [你以为自己很爱一个人，不惜付出健康和生活，其实可能只是「病态迷恋」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695381&idx=1&sn=c45d4140a4a52f3f249c67b8e0be5452&chksm=9fc9d551a8be5c475bd1a8093103ee4492f0a715cf22b36418a1e48ebbb7c318b349892d21f1#rd)
+    - 时间：2022-04-16
+    - 摘要：遇到真正的爱情，应该是一种什么样的感觉？
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695381&idx=3&sn=21c9640d84dc9eb62d5e5787a5c52780&chksm=9fc9d551a8be5c47e2d011434234c329e70b05256ca95b80cedbff5f4bdd22872cb860a36d1f#rd)
+    - 时间：2022-04-16
+    - 摘要：
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695381&idx=5&sn=3aae858a7fab4637b0e4e61cba42c01e&chksm=9fc9d551a8be5c47456d3e657e298fac930219fe11ec591998917c93c87829d16c18ab254a1f#rd)
+    - 时间：2022-04-16
+    - 摘要：这些小tips不要错过～
+- [上海「当日常被打破 」：我们都曾经轻视了日常的意义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695331&idx=1&sn=d9869481ae0a5270c552e9f78eee7686&chksm=9fc9d2a7a8be5bb1f10cf559f8900e7d17f5c9c6f049ed019f9e9dbedd493b11ff04a5521831#rd)
+    - 时间：2022-04-15
+    - 摘要：致感觉生活逐渐崩坏的你
+- [KY心理电台更新！| 心理咨询师竟然会“劝退”来访者？听真实从业者来 #看破也说破](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695331&idx=2&sn=7aab18e5936de6fd85696676458061c0&chksm=9fc9d2a7a8be5bb1e08ffd3300a7d2e573143915856130ea463407d5fc574c6b7e1bb224a2fd#rd)
+    - 时间：2022-04-15
+    - 摘要：听KYers聊聊心理咨询的那些事
+- [那些经常被PUA的人，都有这些特点丨点击查看](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695331&idx=3&sn=39537378084488cc99a9b414475534a5&chksm=9fc9d2a7a8be5bb1ad66ab1b41a6d1110bbcd0ae441a722db918e04595c8c189d7d00f50fd36#rd)
+    - 时间：2022-04-15
+    - 摘要：测测你被PUA的可能性有多大？
+- [在家只想躺平，情绪日渐低迷？来线上冥想体验课学习科学调整居家状态](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695331&idx=4&sn=7e70b54e36b6aecfdaa34626f12bbfd0&chksm=9fc9d2a7a8be5bb11af13d1c67314fc4ff0c0fd26b6e42049e19c4a0868a40140df8a5981671#rd)
+    - 时间：2022-04-15
+    - 摘要：在家也能和专业导师学习冥想？0基础、0负担的线上冥想体验课来啦
+- [寻找那个和我一样“爱无能”的你丨黑色情人节匹配活动来啦！（限免）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695331&idx=5&sn=b5383cd66295192861ce35fa94736b31&chksm=9fc9d2a7a8be5bb1635c4c1fee0d487f039bc725ea5a5f9b64d48d8fa0dee22da4d051574aca#rd)
+    - 时间：2022-04-15
+    - 摘要：这没什么，我们都一样。
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247695331&idx=6&sn=09d6a0d17c7e3deeeef3b4ce1d0ccb42&chksm=9fc9d2a7a8be5bb1259de1d016a5c0551f5c0bb01cf22c13534c862d820851f1bc164e26bb17#rd)
+    - 时间：2022-04-15
+    - 摘要：或许是全网最全。
+- [“老公召开家庭会议，只为说服我生孩子”｜直击茶会现场](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694656&idx=1&sn=cc495aec838aec4559e6d6ba6acf0cd2&chksm=9fc9d004a8be59125a8c581aca97524e1241993f0bbdf55d5db5d8f6d7df280ea1f7b6e91894#rd)
+    - 时间：2022-04-14
+    - 摘要：昆明、天津、无锡的朋友们，茶会来了！
+- [寻找那个和我一样“爱无能”的你丨黑色情人节匹配活动来啦！（限免）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694656&idx=2&sn=9eb6c139599f41e5969ca0f50d82439e&chksm=9fc9d004a8be5912d8415a0b85412a793261f0e90e69e6646b73258e628daa652318b7cd1ac9#rd)
+    - 时间：2022-04-14
+    - 摘要：这没什么，我们都一样。
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694656&idx=4&sn=65491b87ee9afe0c92d180504fa1aaa1&chksm=9fc9d004a8be59120a94a6fd51c9c94dfc797744f174db4901f216b5f769f39314782bfaa556#rd)
+    - 时间：2022-04-14
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694656&idx=5&sn=4929e1f73a80dab05d6a3514afc07b29&chksm=9fc9d004a8be59125b12a6efe69751f70fe3f33a34f9c317aeb9df5d24a075ee25b07149f2b7#rd)
+    - 时间：2022-04-14
+    - 摘要：马克，总能用到！
+- [做一个「不被忽略的内向者」的4个tip](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694230&idx=1&sn=27113c58d585611821f745d33f90027e&chksm=9fc9ded2a8be57c4727e404b2e2ddf66ce4bcdde004300e8e8d51f51ffda2dc7d3dcaed4ffc6#rd)
+    - 时间：2022-04-13
+    - 摘要：不管内向或外向，被尊重都是同等的权利
+- [一份专业的心理防护指南，KY和你一起迎战奥密克戎](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694230&idx=3&sn=f5e776f9c4224adebf70132324de49c3&chksm=9fc9ded2a8be57c4a2aac50145a3605110381f5fa709ce28cab7a6735c7ca72781ef20ae8c38#rd)
+    - 时间：2022-04-13
+    - 摘要：点击查看你的心理健康报告。
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694230&idx=4&sn=1dda6363b040027ddfb97d20619c0388&chksm=9fc9ded2a8be57c411f95d6bcb697951e20c395405ed5604bba9a60b74d753a7907d6ba46a52#rd)
+    - 时间：2022-04-13
+    - 摘要：这些小tips不要错过～
+- [如何获得交心的朋友？丨周四直播：专业心理咨询师在线答疑，和你聊聊成年人的友谊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694230&idx=5&sn=0c4c7779227e251938c72a721a0c9e52&chksm=9fc9ded2a8be57c43871c6a859568034495c9feed2e32d47b7b442c4b3f3c84acf87c8d10f7b#rd)
+    - 时间：2022-04-13
+    - 摘要：文内预约，不错过
+- [“直面死亡，让我更加看清生命的意义”｜那些关于死亡的思考，来看月食居民们怎么说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694230&idx=7&sn=021f62d4936c1b07a4f4a056ba94708f&chksm=9fc9ded2a8be57c4b8f77736993337725e189bf430ee044113d97881e7a492f66b3a3a1e6495#rd)
+    - 时间：2022-04-13
+    - 摘要：那些死亡教会我们的事。
+- [会导致出轨的5个原因，有一点你一定不知道](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694063&idx=1&sn=148cc635db98f3d363f410ca40b6fbb2&chksm=9fc9dfaba8be56bd2cf81ae98b50514edd9634eb7f5d8284106c1028b38966eb9cb4d4d26c86#rd)
+    - 时间：2022-04-12
+    - 摘要：曾经出过轨的人，后续真的会更容易出轨吗？研究说：是真的！
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694063&idx=2&sn=1e1cd7743c6b90b29a5929e0c0e4e05a&chksm=9fc9dfaba8be56bd8268cb65dc72486dd4cf14d4295df2c9d3ddc81f09a9710606cb4458bb6c#rd)
+    - 时间：2022-04-12
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694063&idx=3&sn=d7c712e81913dbd43d214090f895adf2&chksm=9fc9dfaba8be56bd241e1976592000b822df7b525a147300e5e6166f9f0fdfec80615ff4c5f0#rd)
+    - 时间：2022-04-12
+    - 摘要：或许是全网最全。
+- [谈过不止一个男朋友的我，好像爱上了闺蜜？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694063&idx=4&sn=511f9627b2c3cb7b9bdca219cd5f017a&chksm=9fc9dfaba8be56bdaa6bbc51ae08490f173cbf9f6e52d297316481deb28fba3eb59928d09c78#rd)
+    - 时间：2022-04-12
+    - 摘要：你可能没有自己想象得那么“直”......
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694063&idx=5&sn=9f37d224f96993804fa3f54a9d5f2e67&chksm=9fc9dfaba8be56bdd1e8d8eb7b93cb4ba4d385a7d621ecc3cac958f463763eb526db0645178c#rd)
+    - 时间：2022-04-12
+    - 摘要：专业心理困惑答疑
+- [防吃亏自救指南来啦！教你躲过人际交往的千层套路](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247694063&idx=6&sn=8705f4204cabfce822968711546f787a&chksm=9fc9dfaba8be56bde8687aabecb3e29be1669bfb5f9e9d85f1716f618a1d2fffdddbaf050e94#rd)
+    - 时间：2022-04-12
+    - 摘要：
+- [约会最让人“下头”的13件事，你最讨厌第几件？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693958&idx=1&sn=e3bcc85d72ede56eaaae41628d85caf2&chksm=9fc9dfc2a8be56d457c2c1626114ad92a4b8971042b383d24baddd33aa531b7153e263572302#rd)
+    - 时间：2022-04-11
+    - 摘要：想追人，就绝对不要这么做
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693958&idx=2&sn=3156df3dea57d53c3bb3b7fd54156a14&chksm=9fc9dfc2a8be56d43006d6effe8dfb0a9913d280c9985a77695743816bd98825017d5abc62cf#rd)
+    - 时间：2022-04-11
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693958&idx=4&sn=618c2b358b5f5183492c1048c1248fdb&chksm=9fc9dfc2a8be56d44e11521bae9ad20ad787d2f64f8a6bfb6e2f5766d2263aa8a1c104e5560e#rd)
+    - 时间：2022-04-11
+    - 摘要：马克，总能用到！
+- [关于「离婚」的最全Q&A，不管用不用得上都建议收藏](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693772&idx=1&sn=7cd8f49338521a9ee8679e3db91e2bb3&chksm=9fc9dc88a8be559ebd55e5b994b509ab89ee21e707cbdd1e1edc6226819899e38eaad42bca82#rd)
+    - 时间：2022-04-10
+    - 摘要：离婚对孩子不好？研究说，不对！
+- [带父母来参加KY自我探索茶会，收获两代人的高质量交流！（20城报名中）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693772&idx=2&sn=da0daa2c863cbe80f96d7612450fde84&chksm=9fc9dc88a8be559e59c954813c309e85797687366171d0032b566015687823a4f4cc64ce1e08#rd)
+    - 时间：2022-04-10
+    - 摘要：
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693772&idx=5&sn=e607f3bbf621ad764580bda65217f64f&chksm=9fc9dc88a8be559e00fa68a2b458a8ff622b5a0df44fddc05101466092fb433ab8d137bd0ec1#rd)
+    - 时间：2022-04-10
+    - 摘要：专业心理困惑答疑
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693772&idx=6&sn=baf4b945d55d23400508f1ea0f33c1d2&chksm=9fc9dc88a8be559e93c229b2efac62f8c94dd1d8eabb4bca83aadbe3ce61d936eff1af43127f#rd)
+    - 时间：2022-04-10
+    - 摘要：或许是全网最全。
+- [“哄自己”也需要技巧，来看这6个变快乐的小tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693772&idx=8&sn=e7599e95566f15d296e1111654fffc31&chksm=9fc9dc88a8be559e3679353d9f962ead8a29478188b6410e5ed0aea36b10458f7e70d7745a03#rd)
+    - 时间：2022-04-10
+    - 摘要：
+- [“和情感不成熟的人在一起，真的好累。”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693695&idx=1&sn=7f4d496b5ae5ebda8d08cdea74a5d10e&chksm=9fc9dc3ba8be552d78ccd589543e2e0b914c372b521f5034526b5c8a922020450a88460734b8#rd)
+    - 时间：2022-04-09
+    - 摘要：“要么压抑，要么爆发”你可能遇到了情感不成熟的伴侣
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693695&idx=2&sn=9ca8f2fad93934a5c7ef4e028d67eefe&chksm=9fc9dc3ba8be552d6067fb00d6331c8ccd7a87ff59e42cfb57efea3ae37b88f26e6b5642447b#rd)
+    - 时间：2022-04-09
+    - 摘要：这些小tips不要错过～
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693695&idx=3&sn=eb7eaae82d7bc5f79ba0c8a392eca762&chksm=9fc9dc3ba8be552d78caf8a8e1e29e59783f202f9d8e2b732773e55b1c1ab4e200eb798c8952#rd)
+    - 时间：2022-04-09
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [没办法承受不确定，所以我逃避了太多的选择。｜如何降低不确定带来的焦虑？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693695&idx=4&sn=1a601724f7ddc35453021a236e183f7e&chksm=9fc9dc3ba8be552da2580b252ab9f88f90d3ecdb5669a07c57b0de1d4d82ea614235f590bd08#rd)
+    - 时间：2022-04-09
+    - 摘要：
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693695&idx=7&sn=6155b7b8047144750d538965eba4b12b&chksm=9fc9dc3ba8be552da54599ea93b956cf831346870d26863e8c797ca2fbc8201edd0bb12431ad#rd)
+    - 时间：2022-04-09
+    - 摘要：马克，总能用到！
+- [被生活治愈的15个瞬间（超暖！）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693695&idx=8&sn=9e68c2222f89eded8d56b100205d0505&chksm=9fc9dc3ba8be552d07b05fe602473d4f648a6708cbfa20152e3aeba40ea79fa9fb82f7e00c30#rd)
+    - 时间：2022-04-09
+    - 摘要：“生活不在别处，当下即是全部”
+- [喜欢一个人到什么程度可以谈恋爱？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693603&idx=1&sn=d7d70c75487460561c226304e8b3255e&chksm=9fc9dc67a8be5571310b4bd2447496e8295fa84791a0fe3d7ff1084750dd884b9db7bbf0f57f#rd)
+    - 时间：2022-04-08
+    - 摘要：三个标准供你参考
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693603&idx=2&sn=e04d922b4d8ca7798655a433512d043b&chksm=9fc9dc67a8be5571bede0c39f1fff894ff15869f90a37e17a6bd8ae6a342f88a77f40eaf56f7#rd)
+    - 时间：2022-04-08
+    - 摘要：这些小tips不要错过～
+- [“我很敏感，有错吗？”丨KY测评实验室​](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693603&idx=3&sn=a5de50ac3c63286eb757a7d93af7fc4d&chksm=9fc9dc67a8be55712f13b730d6922d4470404d3d7717308d782d9c82d371baf308ca32d183ba#rd)
+    - 时间：2022-04-08
+    - 摘要：我们应该如何与敏感和谐共处？
+- [被疫情反复影响心情？在家和导师学习用冥想来调节情绪吧 | 还有更多公益云活动上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693603&idx=4&sn=f4539d49b602ce0e37140e4dceb0bb6c&chksm=9fc9dc67a8be5571d27227453423b457dc84889e6b2dac74d1d7580c3088f6acc45a7729aa51#rd)
+    - 时间：2022-04-08
+    - 摘要：快来参加线上冥想课程及公益活动一起调节身心吧！
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693603&idx=5&sn=0b0a83df4367feac668bdd09a7a3489d&chksm=9fc9dc67a8be5571e0dcfd72888a497530008f42465becf1ec7f7b3ada8f492a0ba468d883ce#rd)
+    - 时间：2022-04-08
+    - 摘要：我想陪你，从入睡到黎明。
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693603&idx=6&sn=0d9bd8f973cb8f9e978439f94f0d3776&chksm=9fc9dc67a8be55713b79d8cce51ae8e0892c57bdc28b50b7af88cf00e74e0b4d605a1be97281#rd)
+    - 时间：2022-04-08
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [跟着KY练冥想，舒缓身心，调节情绪](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247693603&idx=7&sn=6e4446917318ffe3cb0a024c4db2a34b&chksm=9fc9dc67a8be557183f27c2957c6779e6470759e83c55bf2c3c65a623b00a41e7ab61969234d#rd)
+    - 时间：2022-04-08
+    - 摘要：试试这样放空大脑，重新把握生活节律
+- [如何在日常相处中，做一个让其他人都觉得你很有趣的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692914&idx=1&sn=fe101b0fe801506efa76580eef6f6ba1&chksm=9fc9db36a8be5220f81365a24c2153ac8757dca014d9ee49dd329cad18a9708a9538cfb03cf5#rd)
+    - 时间：2022-04-07
+    - 摘要：从今天起，做一个幽默的人。
+- [你是那个愿意对我说晚安的人吗？丨KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692914&idx=2&sn=36f911665f075ee4d22b3128ee4b007f&chksm=9fc9db36a8be5220d0c4fd14c442215e9da7d7107e94fcdbc27ce26d0285fa733e00fc8a55d3#rd)
+    - 时间：2022-04-07
+    - 摘要：我想陪你，从入睡到黎明。
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692914&idx=3&sn=4f8260fdcc988708ffeb7dc644ad37d7&chksm=9fc9db36a8be52206a577e44c03d92b1be31b46483e2b98f589ee917e9e73f13faadf0ea4327#rd)
+    - 时间：2022-04-07
+    - 摘要：让真实的连接发生。
+- [5分钟心理学丨听KY说：走在"对"的人生道路上，是什么感受？#PsychologyBites](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692914&idx=5&sn=643addec01ccc6af8bff7ed70793efb0&chksm=9fc9db36a8be522059def9a9243ddd2334a458fa94761cfb38529fb162a5b1386db640447223#rd)
+    - 时间：2022-04-07
+    - 摘要：
+- [这样的追求者最终会无情地抛弃你：小心！别被“爱意轰炸（love bombing）”欺骗。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692793&idx=1&sn=8c481907f3d565d94d9ad82bfb7d45f8&chksm=9fc9d8bda8be51ab5ccfd123ebf4078018afbf70791d64545c5e8f1e7d7c811f6b18821d5213#rd)
+    - 时间：2022-04-06
+    - 摘要：有一类人的“爱”，只是“抛弃”的前奏。
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692793&idx=2&sn=08a02eeac512d521399da01a6fee10a4&chksm=9fc9d8bda8be51abacfe38bfc53ae95d8d23c159153bc48e6d18765869b22ad475de6e547b76#rd)
+    - 时间：2022-04-06
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692793&idx=6&sn=949dc41384ce4902015e20eb95fb7ce0&chksm=9fc9d8bda8be51ab8d9aa9a3f8fd7aa8cec84b4cdf4aa4c5a325b48362f845901372677a2edb#rd)
+    - 时间：2022-04-06
+    - 摘要：马克，总能用到！
+- [这个阻碍你“安心走自己的路”的因素，很普遍却很少有人知道——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692679&idx=1&sn=ad91e12bf2bb96568e6bdaf3f6878825&chksm=9fc9d8c3a8be51d560695827cad7663259d5b35ebeb7cae40901ead997fdce266512078156e8#rd)
+    - 时间：2022-04-05
+    - 摘要：这个因素会一直阻碍你专注于自我的生活
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692679&idx=3&sn=c35d15f0668b21961a09999c52db5528&chksm=9fc9d8c3a8be51d55d05e0898610746dacd00dc156b28f714146b973c4c475c964297cc42a47#rd)
+    - 时间：2022-04-05
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692679&idx=4&sn=4da0599fee3f72b845e79f074b146340&chksm=9fc9d8c3a8be51d507af1f89212266a1f773e278c9191d955320c204615b4e2c84ef0f5a2841#rd)
+    - 时间：2022-04-05
+    - 摘要：专业心理困惑答疑
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692679&idx=5&sn=26217baf1004d1c513abb261d4e98791&chksm=9fc9d8c3a8be51d5c4be2ed4b758746a5f5589a003413f0aa9786133e02ac979697a8e1d9a7a#rd)
+    - 时间：2022-04-05
+    - 摘要：这些小tips不要错过～
+- [“直面死亡，让我更加看清生命的意义”｜那些关于死亡的思考，来看月食居民们怎么说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692679&idx=7&sn=f231bc04075592cfe041cc4aaebd44b2&chksm=9fc9d8c3a8be51d58e7f67daa02181a2b1552f32bb870e4a406753a713b6f12b584b9c3f8d02#rd)
+    - 时间：2022-04-05
+    - 摘要：那些死亡教会我们的事。
+- [你一定要找一个“能做好朋友”的人结婚。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692546&idx=1&sn=cf62b6d3e7bb9674c16e59492bca8d3d&chksm=9fc9d846a8be5150ee47eaf5d3b7eed3da84001b149bef8dcd593b36e7a8ed4ca7502ef46237#rd)
+    - 时间：2022-04-04
+    - 摘要：研究显示，现代人越来越看重婚姻和爱情中的友谊了 。
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692546&idx=2&sn=c90cf2533f73236c9de6e93bda9d6868&chksm=9fc9d846a8be5150533bbff7f396842e813ae440459959da0c54c0250860d49e5015a5f0d8e1#rd)
+    - 时间：2022-04-04
+    - 摘要：
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692498&idx=2&sn=b94844cf6c5d4d5d1c3629d885fef641&chksm=9fc9d996a8be5080576c54db9f1e385ca3926b593a0767605d3b8390cb39d55d1773093c2c07#rd)
+    - 时间：2022-04-03
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [找到满意的亲密关系的关键是什么？丨KY小姐姐直播精选](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692498&idx=6&sn=fde036f6c66f04aaea4e0f74ba587576&chksm=9fc9d996a8be508043dfbd84f818919b73f04c071357cdc5542f6e0f5d7732340aff17b4c4ea#rd)
+    - 时间：2022-04-03
+    - 摘要：直播。
+- [爱情里的100件「疯狂的小事 」，你做过几件？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692436&idx=1&sn=f9830f0486a994d3e0074320eef09b3a&chksm=9fc9d9d0a8be50c6021632d60e2347eb4f8381e73a639a7fe6507ea42ea59a4cda26af681e94#rd)
+    - 时间：2022-04-02
+    - 摘要：世界末日来临之前，疯狂去爱吧。
+- [关于幸福我所想到的一切｜来月食社区，记录让你感到幸福的时刻](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692436&idx=2&sn=7781ef89f465c00a669083eedc571af0&chksm=9fc9d9d0a8be50c65a7319ed0e775734c062d962765369afbdc0f9dd2e3ee693b630c892b175#rd)
+    - 时间：2022-04-02
+    - 摘要：这些小瞬间专治不开心
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692436&idx=4&sn=01402a3517cfff661c4d6deba0eb49d9&chksm=9fc9d9d0a8be50c6cf39bc247f5114695a63c30f8e9c7761c3462ab473a9d13163587e695107#rd)
+    - 时间：2022-04-02
+    - 摘要：
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692436&idx=5&sn=c5450fd07b7acb12ff71074824d31f9d&chksm=9fc9d9d0a8be50c6d96efa0011f9d699f95bc2912c7f0e0f808cd28fea10d02a375f7f7fa78b#rd)
+    - 时间：2022-04-02
+    - 摘要：让真实的连接发生。
+- [心理灵活性不高，无法轻松适应多种场合？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692436&idx=6&sn=ca4d120075c77926edd7b1758ab6b267&chksm=9fc9d9d0a8be50c65f2733a5930c4ebaafc1135759ee04440f39b9ae5fcb1fb0a27636e625ef#rd)
+    - 时间：2022-04-02
+    - 摘要：来心理百科查查看。
+- [离真正的自己越近，生活幸福感越强 | 100堂课带你深入自我探索](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692436&idx=7&sn=089f0e0be409a9f07f161cc3dddfebcb&chksm=9fc9d9d0a8be50c6226d0a07745453521796bad78a0970c3166e7740b55cfc67614817139fb0#rd)
+    - 时间：2022-04-02
+    - 摘要：自我探索之旅，从人生必修课开始~
+- [借愚人节交换一句无人可说的真心话吧！来KY匹配活动和陌生的Ta聊聊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692222&idx=2&sn=9632f51020d4ca316bbbeafb8bb68f92&chksm=9fc9c6faa8be4fecf42d1d4bc8153142af46ddc0d075f4b32485d8e8805ac6a0ed17c78e43d3#rd)
+    - 时间：2022-04-01
+    - 摘要：想做那个听你说出心声的人。
+- [诚邀：种子计划 x KnowYourself「实习生暑期深度体验营」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692222&idx=4&sn=a889623bd26d635d245e27130c08e371&chksm=9fc9c6faa8be4fec088082f5caf4173d1bd48a2ccdad5d66fa50871383d079548d0acf3297d8#rd)
+    - 时间：2022-04-01
+    - 摘要：种子计划是一个大学生暑期深度职场体验项目，点击立即报名
+- [隔离焦虑难过？来听听公益免费的心理调节课 | 更多线上冥想活动热烈报名中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692222&idx=5&sn=b14acff7a8b5b3c7a6453676d2cf1608&chksm=9fc9c6faa8be4fecf77b218b10ccd27602c9b735756bd497fde0d7280afa716429e4fc7071cb#rd)
+    - 时间：2022-04-01
+    - 摘要：云上冥想工作坊喊你来上课啦！
+- [“性格决定命运？”你知道自己的性格局限吗？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692222&idx=6&sn=48db7cd053821c2b3d72fca7fb2e0c32&chksm=9fc9c6faa8be4fec7d7538ddcfa4e6dbf25c94216bcbdac507a6e5f410b798ca1880793322d1#rd)
+    - 时间：2022-04-01
+    - 摘要：了解自己的性格，有助于因地制宜地发挥性格优势。
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692222&idx=7&sn=c53a32bd669376d3336fe76590863cdf&chksm=9fc9c6faa8be4fecfc99401dd1a08d7e12d79197d483173e8377638c004ab1d53f9e592838cd#rd)
+    - 时间：2022-04-01
+    - 摘要：马克，总能用到！
+- [那些「很清楚自己到底要什么」的人，都有这几个心理特点——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692146&idx=1&sn=8772f7de4bcdee60151fb8b9674e4e23&chksm=9fc9c636a8be4f20857eef3b62faeb3d0c15b2a8b8c48b96df6f2f78fda1b15ff56d1ea11fd6#rd)
+    - 时间：2022-03-31
+    - 摘要：进来学习如何做“标签式自我心理侧写”
+- [借愚人节交换一句无人可说的真心话吧！来KY匹配活动和陌生的Ta聊聊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692146&idx=3&sn=ab2452dab0d19877f4da79b1d5618d94&chksm=9fc9c636a8be4f20f40a475c3a0eb0c4b962e524d1245f3a6373f927e309c6b76681502c0994#rd)
+    - 时间：2022-03-31
+    - 摘要：想做那个听你说出心声的人。
+- [“别人觉得我很好，但我内心却不相信自己” 丨 KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692146&idx=4&sn=ef1f814f47d07f0850d43f9b25c4dbb8&chksm=9fc9c636a8be4f209c76a0456083cf3bbf1e396ee5d11448851e4126b747ed8f6d166d406402#rd)
+    - 时间：2022-03-31
+    - 摘要：我们都需要知道自己的真实自尊水平。
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692146&idx=5&sn=7bfa1e58f99080b72c00c9eadb03ea6d&chksm=9fc9c636a8be4f209e527d7bb4dd4b8f205d8dabc543eaa388c938c7284cb64058145b57a32c#rd)
+    - 时间：2022-03-31
+    - 摘要：欢迎来到白日梦世界。
+- [5分钟心理学 | 听KY说：当我们情绪爆发时，内心发生了什么？#PsychologyBites](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247692146&idx=7&sn=47fda8ce7837f28c0185985eccb8f914&chksm=9fc9c636a8be4f20f603e4ef8bd6d8dd4372d05ed9724b4390344f8510b304f0060c2abfa218#rd)
+    - 时间：2022-03-31
+    - 摘要：
+- [爱情很常见，这种心理上的连接感却很罕见。你遇到过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691984&idx=1&sn=6c5752c3d6603f44b041137c92455c5f&chksm=9fc9c794a8be4e8244ae977c4a5b3e9c2affb270f7385b18b9ca146f1878a5d3f37671c44019#rd)
+    - 时间：2022-03-30
+    - 摘要：这种连接感能让你们成为「对彼此来说特别的人」
+- [跳槽前，你找准自己的职业兴趣了吗？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691984&idx=2&sn=18aeed72b8575bc40af1cf9a4ca6dbd5&chksm=9fc9c794a8be4e82675feb75bece413103aa004c6b00d324c3ccb5800421a705566ff8a9f4c8#rd)
+    - 时间：2022-03-30
+    - 摘要：你的职业兴趣和优势是什么？
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691984&idx=3&sn=d03bb86a7e7555aeaef9a66a0210fd27&chksm=9fc9c794a8be4e82d1f71db27a3de433f8cc380231870e59fb50c9a892b23c227813466d025e#rd)
+    - 时间：2022-03-30
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691984&idx=5&sn=69f7ade337e21032e16dca0ca9fd14c6&chksm=9fc9c794a8be4e8295013759acb70be3d039151314254713b2fe9af84cee596ca30ced1157da#rd)
+    - 时间：2022-03-30
+    - 摘要：让真实的连接发生。
+- [是什么让你的困惑不断，自我？工作？情绪？人生必修课一次性说明白了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691984&idx=6&sn=7341793b97286c46d862b5eda71ab1ce&chksm=9fc9c794a8be4e82f0625deef3c793181e838e76dd6f579d3af334385c78a8cceee980f80fce#rd)
+    - 时间：2022-03-30
+    - 摘要：
+- [强烈的情绪是了解自己最好的契机丨KY小姐姐直播精彩回顾](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691984&idx=7&sn=d0ee5d83c6a9cf7aacd90e0f7d4486f9&chksm=9fc9c794a8be4e82a5b4bb0985744e2c0703a7e1a8f8cd62f65f4776e5448930bb25057cab04#rd)
+    - 时间：2022-03-30
+    - 摘要：
+- [正念地「活在当下」，已经是当代人必须具备的生存技术。这里有三个小tips ——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691692&idx=1&sn=c4e9b7b578632d2e6c1db73c15397e07&chksm=9fc9c4e8a8be4dfec7c9951509fb08f707f43d74eec89b9521d7025831312e7e2cfe50fedb62#rd)
+    - 时间：2022-03-29
+    - 摘要：“活在当下”的本质，是找回对生活的控制力
+- [KY心理电台更新！丨 疫情就像一场亲密关系行为实验，你被分到了哪一组？来 #看破也说破](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691692&idx=2&sn=e71e3af8cdd418c0defb0568669d405c&chksm=9fc9c4e8a8be4dfea2ee74af5241b6211254d3bdd36db70ac42d3e81cbe9d215a88aa8671947#rd)
+    - 时间：2022-03-29
+    - 摘要：疫情下的亲密关系何去何从
+- [当我们在讨论「聪明」时，我们在讲什么？丨一起走进脑科学！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691692&idx=5&sn=87b2ecdc3de7019dc87e84fe7ba8f390&chksm=9fc9c4e8a8be4dfe24153f02813c3ad0e81ed788554cfe71ffaa1a2e7f36afe1078b1f6f7959#rd)
+    - 时间：2022-03-29
+    - 摘要：还记得读书时期，每次考试狂甩第二名十几分的超级学霸吗？
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691692&idx=6&sn=2108362041f7819c08c7d41303f63214&chksm=9fc9c4e8a8be4dfe1c5c45bb42df410498f7a5944a45f35d1bfecdaa1b9dd4d32d956a9f81fa#rd)
+    - 时间：2022-03-29
+    - 摘要：马克，总能用到！
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691692&idx=7&sn=a40c3ba84f0627d32e0239c047fdacd2&chksm=9fc9c4e8a8be4dfe919c616c2ec6aaab44b25d4222bfe1489910fe3ea68e4637c12b7325a0e3#rd)
+    - 时间：2022-03-29
+    - 摘要：专业心理困惑答疑
+- [结婚前必须讨论的11个问题](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691361&idx=1&sn=43a65c10d21085037d9be31ed9177fe4&chksm=9fc9c525a8be4c336826f5f34b5b0bc59b4cca0c1cea39af9df7c9a093db354694b6e4e05db2#rd)
+    - 时间：2022-03-28
+    - 摘要：不论结不结婚，都先收藏好这张婚前讨论清单
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691361&idx=4&sn=1506e99c83c4198b5dc6ffd6ee127529&chksm=9fc9c525a8be4c33a237b9144cd2a5e941b6d9ca52f3b766bcd5a8fddbaed2cc60cf9a3793c8#rd)
+    - 时间：2022-03-28
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691361&idx=6&sn=f958a85746ea23436f1f7fde65607f22&chksm=9fc9c525a8be4c33697ab930b51e12e333752d3d1a310c1ae8e415dc1dc70adb65b2b3fda14a#rd)
+    - 时间：2022-03-28
+    - 摘要：欢迎来到白日梦世界。
+- [被短视频消磨掉的时间，还能来做什么？ | 100堂音频课收获人格成长](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691361&idx=7&sn=b154c81b18708ccdbd9e38460d6d77da&chksm=9fc9c525a8be4c336481dbda440dde55bbde1adedf6b8f1a95a8cc44079fd335dfef3ea9a4b0#rd)
+    - 时间：2022-03-28
+    - 摘要：没时间看心理学文章，来听简单易懂的音频课吧~
+- [“能在大年初一提分手的人，不值得你掉一滴泪” 他们的父母给的人生智慧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691257&idx=1&sn=89bbecfe6bafab064f0c2dbf6817a81b&chksm=9fc9c2bda8be4bab0028b70598b2f25dae103076922cfd49b73293195729df4c773b23d27193#rd)
+    - 时间：2022-03-27
+    - 摘要：这期一定要收藏
+- [如何减少内耗？｜周一直播，心理咨询师教你识别导致「内耗的思维模式」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691257&idx=4&sn=eff1342b928c07d71b7f0c3f2cd8b021&chksm=9fc9c2bda8be4babdead987ffdcd4b6c50a45e41f19796336f116c1f7a6ec0c764099c4362b1#rd)
+    - 时间：2022-03-27
+    - 摘要：文内预约，不错过
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691257&idx=5&sn=5bcd3bb09bc05c5a003609afd719c05a&chksm=9fc9c2bda8be4bab39819cef22fb118f506b9055c42b6aabe13995a0a872c2abd5addb9969a2#rd)
+    - 时间：2022-03-27
+    - 摘要：马克，总能用到！
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691257&idx=6&sn=38b7f22f76e920c597cad0e04ff45d25&chksm=9fc9c2bda8be4babc569c7353af8cd50cb768d3cd8e06b8d696f6b17d16288a6a4f8dbe2e726#rd)
+    - 时间：2022-03-27
+    - 摘要：专业心理困惑答疑
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691257&idx=7&sn=6e06768f5a52244b250513bf04ecd43c&chksm=9fc9c2bda8be4babdc201e7f566d008570ad47f973c3c15511ba682d60f0f787eea8f84eb9a5#rd)
+    - 时间：2022-03-27
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [你以为的开放关系 Vs. 真正的开放关系](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691201&idx=1&sn=f461a0edbf6a4e60794aba7276e395c2&chksm=9fc9c285a8be4b9365b89afbe913692094ae444cbb47f4b0cb727e545d529666a6b30539dc93#rd)
+    - 时间：2022-03-26
+    - 摘要：别再打着开放式关系的名义，为欺骗、隐瞒、出轨做幌子了
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691201&idx=2&sn=a8264feade37c7aec04456262ac84ef1&chksm=9fc9c285a8be4b93a65b8a21e0f23daec3f95c0cb7c9f8eb7ff8aceb599fadd762a0672b9642#rd)
+    - 时间：2022-03-26
+    - 摘要：
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691201&idx=4&sn=d806c1bee5b39b8e988bb6830960e343&chksm=9fc9c285a8be4b93595e8cee9c24ed11a6b4860f71b6016f448807f01697e3b02a5674fef329#rd)
+    - 时间：2022-03-26
+    - 摘要：这些小tips不要错过～
+- [如何走出出轨风暴？丨KY出轨后创伤修复手册](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691201&idx=5&sn=e537e2d1b79cabd213f83ee73849dc65&chksm=9fc9c285a8be4b937cade6425488267c71eb6944b44682827e96b67faec12bc8fb43c2de4fbc#rd)
+    - 时间：2022-03-26
+    - 摘要：Ta的出轨，带走了我信任的能力
+- [控制灵魂对自由的渴望，如何过好居家办公生活？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691201&idx=6&sn=79a8d2a539a0e2fb8f1fc420ff219e6b&chksm=9fc9c285a8be4b93e20094e4904ba2dff679c95576703618e4d811b09fb54911d6455ae368db#rd)
+    - 时间：2022-03-26
+    - 摘要：长期居家该如何实现工作和生活的平衡呢？
+- [真正的成长，往往发生在最深的自我探索之后｜购课免费赠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691201&idx=8&sn=5007a194fe536d1c67f885c750f7cad2&chksm=9fc9c285a8be4b93f158d8eb98c341fb0e8f48295c4da1bab405686cb2cf49153888d2e6f9d0#rd)
+    - 时间：2022-03-26
+    - 摘要：自我探索之旅，从人生必修课开始~
+- [作为女性，你不必为“有野心”而向任何人道歉。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691071&idx=1&sn=b59827e2bc3da8d0c0990ba0bcc3473d&chksm=9fc9c27ba8be4b6dd56e8f2a276bb6f7a0626c1f92bce542c957509f16dd5a3533b8f528ff29#rd)
+    - 时间：2022-03-25
+    - 摘要：凭什么有野心的女生会被人讨厌？
+- [如何用书写缓解焦虑、找到真实自我？KY心理功能本上新啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691071&idx=2&sn=c333441457dd64b1f2d80a779e7960dd&chksm=9fc9c27ba8be4b6d8ea4b40198e09119b7dee5a6974002bc930b3ef18c7ca89267e9e71df879#rd)
+    - 时间：2022-03-25
+    - 摘要：全新主题KY心理功能本开放预售啦！
+- [KY心理电台更新！| 疫情就像一场亲密关系行为实验，你被分到了哪一组？来 #看破也说破](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691071&idx=3&sn=67b5c5ee676f8718c6c1cb8b2d83e737&chksm=9fc9c27ba8be4b6d7064afab57fec6cdee002050e4d383560ac60290e9dad30c163fd3af670d#rd)
+    - 时间：2022-03-25
+    - 摘要：疫情下的亲密关系何去何从
+- [居家不无聊，跟着专业导师来玩冥想云共练！广受好评的免费活动报名中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691071&idx=4&sn=d0d1bb6501e490fb3439bdae26444cd0&chksm=9fc9c27ba8be4b6d99786bf0e8212469b0c1e91036b4c38ce7d697e093bc48250c61787a56d9#rd)
+    - 时间：2022-03-25
+    - 摘要：一起来看看热度爆棚的居家冥想直播活动吧！更有全新公益云端冥想共练茶会开放报名中！
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691071&idx=6&sn=3e91d695d5b1ec1ec54abb50858f19d2&chksm=9fc9c27ba8be4b6dcf37966e761569e0c2810f16b5efae3475ca67a49ec077364872944ba18c#rd)
+    - 时间：2022-03-25
+    - 摘要：专业心理困惑答疑
+- [我特别害怕被拒绝。如何自信主动一点？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691071&idx=7&sn=3bb70a071ccd2ac87a54746eac8073cb&chksm=9fc9c27ba8be4b6d1ee7af95474296d3c4eda0f7a6a7608c484b32ebb927b51fec58a0b7aa09#rd)
+    - 时间：2022-03-25
+    - 摘要：
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247691071&idx=8&sn=270ea0fcb79bf057aa2eebaccbc935ef&chksm=9fc9c27ba8be4b6d8fcc8327954f90c758c3da202878b1ff440c26d12279cad40ec3f2ca28eb#rd)
+    - 时间：2022-03-25
+    - 摘要：或许是全网最全。
+- [如何学会应对“世事无常”？疫情复发带来的一些思考](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690597&idx=1&sn=6976ec72c24f639ff214eab85b7ece34&chksm=9fc9c021a8be49370470e71743565301dab2d8f8b4775f79f067f40c9bc3697a8cb54be5c5a6#rd)
+    - 时间：2022-03-23
+    - 摘要：一些特殊时期非常有必要了解的经验
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690597&idx=5&sn=9e99a27a325602c4bffab381211608b3&chksm=9fc9c021a8be493736e75813604618dd0ce38fa2145b4441a921bf260c723821294dbfa6442b#rd)
+    - 时间：2022-03-23
+    - 摘要：马克，总能用到！
+- [最简单的心理自助方式，竟然是书写？丨KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690597&idx=6&sn=5e183417ca7725cb16f4e01e64c836a7&chksm=9fc9c021a8be493778585d04fe748f4c1d8bdbbbe456cf659f37b9f6235551acb943f98357c8#rd)
+    - 时间：2022-03-23
+    - 摘要：
+- [被伴侣之外的人吸引，就是精神出轨吗？丨周四直播，专业咨询师与你聊聊「被伴侣之外的人吸引怎么办」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690597&idx=7&sn=a3db2820c6a9d3b382b985d0ea32bacf&chksm=9fc9c021a8be493779803a026a32553570da60e969567409c774a918e00a4ee98023db47fabe#rd)
+    - 时间：2022-03-23
+    - 摘要：文内预约，不错过
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690597&idx=8&sn=2229764a43d51928c5abbb072778a9a0&chksm=9fc9c021a8be4937c1983e3fee72d257b88ba3bca10f11f1fca3715ac5b2269e129c23379277#rd)
+    - 时间：2022-03-23
+    - 摘要：我想陪你，从入睡到黎明。
+- [在野外、在宿舍、在喜欢的人家里…这里有他们最难忘的“睡觉”经历。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690418&idx=1&sn=d91aa4622b8642d747314d8089e698ad&chksm=9fc9c1f6a8be48e05557000774f9183d1444d4061b29a8d7341332e6ae10f86c39392003d5b3#rd)
+    - 时间：2022-03-21
+    - 摘要：看今天的推文，睡前不emo
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690418&idx=2&sn=7aa0a403f132f2715bdc22ce7358d4b1&chksm=9fc9c1f6a8be48e0b1861e5fce521ce9f93e6d3373fdc50ee4fbead7dd16b89c87cb90b4b747#rd)
+    - 时间：2022-03-21
+    - 摘要：我想陪你，从入睡到黎明。
+- [最简单的心理自助方式，竟然是书写？丨KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690418&idx=4&sn=77966f2ade87dd09121a525d95514cdf&chksm=9fc9c1f6a8be48e0f915f16ca2b89bcfa55b5343aa326a60a44d967533d86b5b6bd0feb3d50d#rd)
+    - 时间：2022-03-21
+    - 摘要：
+- [你与冥想的距离，只差一盆植物的治愈 | 来了解一下「植物冥想」吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690418&idx=6&sn=8089526c2cb7ec21d9b3fdf89167887d&chksm=9fc9c1f6a8be48e02da55dcf1dea7dd5a239eaabcde029c763a5aa20fdd46707d0d88020a498#rd)
+    - 时间：2022-03-21
+    - 摘要：和冥想一样，大自然也有令人放松的功效。来学习和植物一起「光合作用」吧～
+- [有这种心态的人看起来弱小无助，其实享受操纵他人。建议远离！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690173&idx=1&sn=a304e3a4cab6fca6bcedc5f56472f168&chksm=9fc9cef9a8be47ef793648d2639c4d210af7304232c91eb12b711a8a789f9be5b206af3a0704#rd)
+    - 时间：2022-03-19
+    - 摘要：你叫不醒一个装睡的人
+- [学心理到底能给生活带来哪些改变？| 周日直播对谈萌芽学员，聊聊心理学是如何改变Ta们的人生故事的](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690173&idx=3&sn=6449c4dd84d916d0df0cf0ccb74c6691&chksm=9fc9cef9a8be47efc6eb5130ccd9de2c02e421038590b2e1c094dfa3c16095d9e0aeb195295a#rd)
+    - 时间：2022-03-19
+    - 摘要：预约直播，更多惊喜等你来
+- [无数个碎片时间的积累，实现自我提升质的飞跃丨笔记本赠送进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690173&idx=4&sn=c5dbee9962f278c7ed612d121b89c813&chksm=9fc9cef9a8be47efbd1ef74d5d3fc7041ef0a26cc91524abc167ece676b71b1cfe2b4168cc98#rd)
+    - 时间：2022-03-19
+    - 摘要：没时间看心理学文章，来听简单易懂的音频课吧~
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690173&idx=5&sn=7455680f61cb22e5c74795d16aa67e0f&chksm=9fc9cef9a8be47effc802dd1f0bcf0fa48a1f1fea50cf1ff377273818c9b421b0eab4878f3dd#rd)
+    - 时间：2022-03-19
+    - 摘要：在寻找一个心灵避难所？快来KY心理营吧！
+- [最简单的心理自助方式，竟然是书写？丨KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690173&idx=6&sn=a8791a40fe6735fda5b64f31cd02978a&chksm=9fc9cef9a8be47efa80158f8a557c6ecf550a6a8dc5dcab29fa40ef730d15660481327399e17#rd)
+    - 时间：2022-03-19
+    - 摘要：
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690173&idx=7&sn=8e4b816943aa0d4bafca72a950dfd372&chksm=9fc9cef9a8be47efe283db933cd36ce8fbcacca9a193a79ae71313ec8352b36eeef91bcb0612#rd)
+    - 时间：2022-03-19
+    - 摘要：或许是全网最全。
+- [「人生幸福感u型曲线」40岁是谷底。如何避免成为“不快乐的中年人”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690150&idx=1&sn=fe268e27765c7edcc3de7029d5938b43&chksm=9fc9cee2a8be47f46f3e450dc3037e874f28c83898c2ab36635df319eab87805c0e5827abb9b#rd)
+    - 时间：2022-03-18
+    - 摘要：为步入中年做好心理准备
+- [最简单的心理自助方式，竟然是书写？丨KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690150&idx=2&sn=27f470baa3f14d7549a630c70f5681ed&chksm=9fc9cee2a8be47f4f46074606d8ac1b88c40e0c128365d3a1dfa003e95eaf08f316c1bd1de9d#rd)
+    - 时间：2022-03-18
+    - 摘要：
+- [疫情居家期间，尤其要注意情绪状态丨免费云直播，一起来共练冥想吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690150&idx=3&sn=30bd9fcccae9a2961b8307fde6d4c7d8&chksm=9fc9cee2a8be47f49b3ff4469bedfe0f61c7c8b87cb99f2b273ecda79aeca516ad0cace7cfe0#rd)
+    - 时间：2022-03-18
+    - 摘要：万众期待的免费冥想直播共练来啦！
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690150&idx=4&sn=9824fc506702c7c7b415e4a0277d7ba8&chksm=9fc9cee2a8be47f4367548459d8da63c3dcf2d0b6667fa80c8db2a6950b7fce9543b5f06fc2e#rd)
+    - 时间：2022-03-18
+    - 摘要：这些小tips不要错过～
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690150&idx=5&sn=e75175615299f421a4c98d5a3761b2af&chksm=9fc9cee2a8be47f471ad270995a490fa6022b7479d057df898f8f8b73e04ce717c9df42cb803#rd)
+    - 时间：2022-03-18
+    - 摘要：专业心理困惑答疑
+- [如果你在为自己的心理困惑寻找答案，希望你听听这门人生必修课丨限量赠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247690150&idx=6&sn=923ca05a927b05a94df7e01d234f09ea&chksm=9fc9cee2a8be47f43615248d040902075330e162b265a2ace0cb203e91e3ac0493491a3a81d9#rd)
+    - 时间：2022-03-18
+    - 摘要：
+- [他们带父母参加了茶会，现场一度陷入混战battle（内含视频）丨茶会开到南昌和大连啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689996&idx=1&sn=57ea0f0343f2b08f603a9f22677293ef&chksm=9fc9ce48a8be475ec6d9fca618312f0441917afecc15a132913b1d262107e9f968cb0603ef9a#rd)
+    - 时间：2022-03-17
+    - 摘要：疫情之下，你可能更需要来茶会聊聊，看看哪些城市营业中～
+- [6个小技巧，从微信头像看穿ta的隐藏人格！（不是忽悠）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689996&idx=3&sn=b2864988573077e1218180da1c692259&chksm=9fc9ce48a8be475efa7de627614cd497c13eaf713570496d53861f8d8f1b15685960c4cb9d43#rd)
+    - 时间：2022-03-17
+    - 摘要：视频号。
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689996&idx=5&sn=0519c5527b787e0365b7eaa64a84247f&chksm=9fc9ce48a8be475eee1e5b236703790ba024db8ec2c772d6f78dd25765b39934620528fa6c38#rd)
+    - 时间：2022-03-17
+    - 摘要：或许是全网最全。
+- [如何科学地拒绝别人？既保护自己又不伤人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689996&idx=6&sn=2a076c57161eb8e0f425aef0d8e52f59&chksm=9fc9ce48a8be475e42623d55fef02f6bdfcfd2b9bfaec682029f2190faccee8f7e84122a6434#rd)
+    - 时间：2022-03-17
+    - 摘要：
+- [「分居婚」：结婚了但分开住，这种新式婚姻有哪些利与弊？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689455&idx=1&sn=8ebe5e24959371839eb5659c337b725d&chksm=9fc9cdaba8be44bd648d735d80e1084adad94e97a8c46820f44601d5ed9d6d8371db504fddc5#rd)
+    - 时间：2022-03-16
+    - 摘要：越来越多人对婚姻有了一种“取其精华、去其糟粕”的思想
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689455&idx=3&sn=af507d684710a4d77d9b245eaad393d6&chksm=9fc9cdaba8be44bd8e7e7175f54381ef391cd3d4d9180b76c8e5091ed859d8f6e82f26d15b63#rd)
+    - 时间：2022-03-16
+    - 摘要：这些小tips不要错过～
+- [如何成为自己理想中的样子？人生必修课带你深入探索自我丨限量赠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689455&idx=4&sn=679d9b595564d0925d520fcdb53b12ef&chksm=9fc9cdaba8be44bd7334f946205133d29722ddc0aea67d0df1b16880afcfe10f51d943d7b29d#rd)
+    - 时间：2022-03-16
+    - 摘要：
+- [最简单的心理自助方式，竟然是书写？丨KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689455&idx=5&sn=c56f80f3c95afce5f417bbfd170a4478&chksm=9fc9cdaba8be44bdc47aef4101d2f67b45d415d9553bf6bab80c0c87174419214b6cccdd88ab#rd)
+    - 时间：2022-03-16
+    - 摘要：
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689455&idx=7&sn=4728d85de462ee83aa1df8a40d735e95&chksm=9fc9cdaba8be44bd9ef25d67bbd642a55aa2e81df9163e0c2a3876e48459694bc94bcb9ded06#rd)
+    - 时间：2022-03-16
+    - 摘要：专业心理困惑答疑
+- [科学做到「心理强大」的5个误解和7点tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689301&idx=1&sn=2976ef20555b13061ff4f7e1dbadebe3&chksm=9fc9cd11a8be440780f36add9594e6a8016b3d9814c35c2e75eb091017da9c6c78d584e311aa#rd)
+    - 时间：2022-03-15
+    - 摘要：一文说透
+- [成为心理学工作者，可以是你为自己选择的一份副业丨萌芽课程重装升级，开课倒计时6天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689301&idx=2&sn=3f6e531591eacb0c7f8e723c481f0c4c&chksm=9fc9cd11a8be4407b99e475cca9fbf561643d35b3b6f3a790f1f16a7391891b9dae8d6e0ca26#rd)
+    - 时间：2022-03-15
+    - 摘要：心理咨询精英入门课程+配套实践
+- [找到满意的亲密关系的关键是什么？丨KY小姐姐直播精选](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689301&idx=3&sn=bf7b1ac9022719aa92378afed827a0d0&chksm=9fc9cd11a8be440762e244901e7e630bccf590f4d5a818a9fddc96078894f52bda5eb5e4ce73#rd)
+    - 时间：2022-03-15
+    - 摘要：直播。
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689301&idx=4&sn=97f75ac6ad5b964a0d4df118f633686d&chksm=9fc9cd11a8be440700a9724e4287817d8c262f19da424a94b1260440bd4897d8ab0bdc185192#rd)
+    - 时间：2022-03-15
+    - 摘要：在寻找一个心灵避难所？快来KY心理营吧！
+- [成年以后，大脑还有成长发展的空间吗？丨 一起来走进脑科学！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689301&idx=6&sn=286353137a84da0688cb3df97d1e9ae6&chksm=9fc9cd11a8be440707e6d0faf8f1636955fa8fd51579f3d36420a3cd2704ea118d59298efc03#rd)
+    - 时间：2022-03-15
+    - 摘要：成年以后，大脑还会改变吗？
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689301&idx=8&sn=37bff41ee7baf491b062f36637732ddd&chksm=9fc9cd11a8be4407f8405aa4d4526d29e9a1b9901feca17bcba5f16704a09212a5d9e8ef78d3#rd)
+    - 时间：2022-03-15
+    - 摘要：欢迎来到白日梦世界。
+- [用你在爱情中的MBTI类型，匹配适合的ta （限免）｜白色情人节活动](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689161&idx=1&sn=65edd43f85541b7859fc62d9431e8319&chksm=9fc9ca8da8be439b901cb4b532fd08f637b02eda7e55c2354b2603adf74687c27006db639bb9#rd)
+    - 时间：2022-03-13
+    - 摘要：限时免费，不要错过
+- [最简单的心理自助方式，竟然是书写？丨KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689161&idx=3&sn=c9fe346550d8cdc39afb443e7ed3e4a4&chksm=9fc9ca8da8be439bea4e61b2f2f6498d5a6199bf782f4c8bef27c858f83e3c894c190a7f7447#rd)
+    - 时间：2022-03-13
+    - 摘要：
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689161&idx=5&sn=f81c17811ed9fa1eb7bf498051418877&chksm=9fc9ca8da8be439bff1a5f5273e8e9788eac65ba90951fbf4a1ec1dcba665b0545c8f1186f9c#rd)
+    - 时间：2022-03-13
+    - 摘要：专业心理困惑答疑
+- [“我不再拼命和自己的情绪做对抗了”｜在月食社区，TA们正在尝试与焦虑和解](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689161&idx=6&sn=d9c12a4277b81191e633dd32adc91414&chksm=9fc9ca8da8be439b7ec47dbe4b9cf1da46d93385029eeaa677ef7a83accb171a9bd0b4670fff#rd)
+    - 时间：2022-03-13
+    - 摘要：送给所有焦虑明天的人。
+- [和前任分手后是好朋友？8个特点判断他们之间是不是“真友谊”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689117&idx=1&sn=aac8785ae672a8df299151852bb2aa3e&chksm=9fc9cad9a8be43cf28c5a2340b127dc171f382c33f323550dbbbad48ee580c316404e119fad4#rd)
+    - 时间：2022-03-12
+    - 摘要：旧文重推
+- [用你在爱情中的MBTI类型，寻找匹配的ta（限免）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689117&idx=2&sn=f861860f0da8d0c9dd30cab4f34077f0&chksm=9fc9cad9a8be43cfd4377bee84bbaf6c30a988cf10a756c1b5080f09df100732dc6e70ad34f0#rd)
+    - 时间：2022-03-12
+    - 摘要：白色情人节匹配活动来了！
+- [想要甜甜的恋爱吗？点进来看你的专属攻略 丨 KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689117&idx=3&sn=ceda133def6fabb4e812e20598171e12&chksm=9fc9cad9a8be43cf30dc642444eb2729b27874e57e92683e6889f9dbbf108e8a876dd5c258a5#rd)
+    - 时间：2022-03-12
+    - 摘要：超全爱情分析报告，点击即测！
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689117&idx=5&sn=7f012b1d7d8c1d0891680c475d77cb98&chksm=9fc9cad9a8be43cf08a9120bb39a79713c2a0940c0d63833dc09140608f16132a1fe0f82bbd5#rd)
+    - 时间：2022-03-12
+    - 摘要：马克，总能用到！
+- [「职场中的人际关系」如何处理？周日直播，专业咨询师在线答疑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689117&idx=6&sn=ea5dd9f0e88e3dff2d58f68751a91e89&chksm=9fc9cad9a8be43cf1f5109492ba8eaea4b6f866537c5b2214e3eb598c528e9e08de1fad7bdb0#rd)
+    - 时间：2022-03-12
+    - 摘要：文内预约，不错过
+- [和“对的人”在一起应该有的9种感觉，你有过几种？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689002&idx=1&sn=38047a9b7dbf3433e7498499aed13f91&chksm=9fc9ca6ea8be437879f1ba46ef7c059f943ca2d14c8bf848c6641c0d8c395b0005750cfaa4ff#rd)
+    - 时间：2022-03-11
+    - 摘要：这很科学
+- [如何从根本上停止内耗、恢复专注力？来一日「冥想练习进阶课」深度充电学习吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689002&idx=3&sn=28cf3e24c42166d38739f10beabb5ac7&chksm=9fc9ca6ea8be4378f79d72465da23b3afccc4b4a9cb82091e55d891f99ff442be0299984349d#rd)
+    - 时间：2022-03-11
+    - 摘要：
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689002&idx=4&sn=781cacbe279e8e811d480efa588418d6&chksm=9fc9ca6ea8be437894412ae2adda150d0ef731c0919506ca8c18d5281e2d7a5e66505ad5c65a#rd)
+    - 时间：2022-03-11
+    - 摘要：这些小tips不要错过～
+- [每天10分钟，轻松开启自我探索与成长丨人生必修100堂课赠送笔记本啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247689002&idx=5&sn=01634ff50ec460ff3c3b0aab62bb4dc5&chksm=9fc9ca6ea8be4378109bf7ffc34bbdc7a4f3a312d6c51bf5f522f57c5f5c65ed9aa27e8eb142#rd)
+    - 时间：2022-03-11
+    - 摘要：想提升心理能力，但没时间看文章，来听简单易懂的音频课吧~
+- [不知道怎么追人？这7个tips请收好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688269&idx=1&sn=80ba4542636c671181a2d74f42ea076b&chksm=9fc9c909a8be401fc5e4457d6c645a3beb99ace57d40d5d838405d901adb4581f7079bb397b9#rd)
+    - 时间：2022-03-10
+    - 摘要：用心理学研究助攻你的爱情
+- [拒绝内耗的心理小技巧：为你的内心搭建「安全岛」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688269&idx=4&sn=5ae17964a67db7de90e3bbf2b5294bfe&chksm=9fc9c909a8be401f6228c2e60ebf09299accadc1b35322c789913d3f05a6cc76f394c934291d#rd)
+    - 时间：2022-03-10
+    - 摘要：试试给自己构建一个内心的安全岛吧。
+- [5分钟心理学丨听KY说：被出轨的人，后来都怎么样了？#PsychologyBites](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688269&idx=5&sn=8edd4903cfcf6d5a674a2be0fb5c257d&chksm=9fc9c909a8be401fa7d305f84d655146e7469ca8ffb4b26c43b082601c47419fa20ec7d74190#rd)
+    - 时间：2022-03-10
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688269&idx=6&sn=adc44777aae2c128f9dcd056611d8714&chksm=9fc9c909a8be401f43c1996f0f35d987335e1da536d667ac7afc1388390edd49b55cc9fdf9a4#rd)
+    - 时间：2022-03-10
+    - 摘要：欢迎来到白日梦世界。
+- [最简单的心理自助方式，竟然是书写？丨KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688269&idx=7&sn=6f82ae4f405e62382347480cf7a50a18&chksm=9fc9c909a8be401f86967e505253a414477f8706534ae0bbb548b4050a3d6dbac945645b5248#rd)
+    - 时间：2022-03-10
+    - 摘要：
+- [两个都是直男，却甜蜜地让老婆怀疑？来了解「男性浪漫友谊」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688169&idx=1&sn=f4a1ec86a0a8714ab3489dabc699475f&chksm=9fc836ada8bfbfbb40755c264450967e5dc3a1d35165d67b7ceed7bc5ddc3d4ef4b6546e758f#rd)
+    - 时间：2022-03-09
+    - 摘要：你听说过Bromance吗？
+- [我常常感到我不知道“我是谁”｜边缘型人格障碍入门必读系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688169&idx=3&sn=371cee649d3af90f6972b2b4c2ff92ba&chksm=9fc836ada8bfbfbb4f89c5eab4ebdcabca362cf93664dfc29ab2641df63a3de2b2dedcaf5844#rd)
+    - 时间：2022-03-09
+    - 摘要：心理咨询精英入门课程+配套实践
+- [自我怀疑、情绪失控、工作麻木…如何找回生活的掌控感？KY100堂课限量赠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688169&idx=4&sn=852dc1c1ea2baaf4fbc61d286aff4c27&chksm=9fc836ada8bfbfbb222fbb37b6ca578bb2586a1cb333c1bfa18e6c569fa6de1604f41ef548d3#rd)
+    - 时间：2022-03-09
+    - 摘要：
+- [KY心理营持续招募中，快来集合吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688169&idx=5&sn=45e2ec771d2c51ed5a3ebd8947a4df22&chksm=9fc836ada8bfbfbbbe9d175d596b844db4cecd5fe9b71bf5000ba2eeb245094a62363b3e1d68#rd)
+    - 时间：2022-03-09
+    - 摘要：在寻找一个心灵避难所？快来KY心理营吧！
+- [努力想走近他，却跨不过那种疏离感。为什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688169&idx=6&sn=5de99c7129d23def2ccd8ff0ace05fa4&chksm=9fc836ada8bfbfbbebe7c6b3802c21da7800abb5d383576baa360b034ea907253d790fd0bfee#rd)
+    - 时间：2022-03-09
+    - 摘要：
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688169&idx=7&sn=6905fbc82ecd80c7eec4f4fda0e8261d&chksm=9fc836ada8bfbfbbb29a894b1d07f17f9896010f4a9bb437605d02502f5e038b6f75b746534d#rd)
+    - 时间：2022-03-09
+    - 摘要：马克，总能用到！
+- [大S闪婚：能否健康地快速进入下一段关系，取决于这种心理特质](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688056&idx=1&sn=c822cae4c43d75a75ff86442d81b03aa&chksm=9fc8363ca8bfbf2ae7a2dc9263378443122a2462399555e85fd2f6fec514ca81262600552e71#rd)
+    - 时间：2022-03-08
+    - 摘要：人生没有什么事可以一概而论。
+- [你的理想人生和现实人生之间，可能只差一个心理学 | 萌芽11期火热报名中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688056&idx=2&sn=f49356ecf2a4860f78f38d4d219e8c2a&chksm=9fc8363ca8bfbf2ac43624adae6e420b0cb2660810096e7c882284be74db3ead97dbcd9d2812#rd)
+    - 时间：2022-03-08
+    - 摘要：心理咨询精英入门课程+配套实践
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688056&idx=4&sn=9eb376375a2ebbbb86e69fe402d1d0d3&chksm=9fc8363ca8bfbf2aba3552dcf08033075c863923c0abbe026b777050f282ebb901c4cf49f779#rd)
+    - 时间：2022-03-08
+    - 摘要：这些小tips不要错过～
+- [最简单的心理自助方式，竟然是书写？| KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247688056&idx=6&sn=7a5ddd28c1094823b58ac5bcb9bc8cdd&chksm=9fc8363ca8bfbf2a1c2e16bf9571a988cedfdbe0c3af2c8e8c23c3c024cc6e2caa8c3de293d7#rd)
+    - 时间：2022-03-08
+    - 摘要：
+- [过度追求“精致”，对女性而言是一种持续的自我内耗。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687942&idx=1&sn=efcf3c0ef3e107f1eb1f04ab0fe3c9c1&chksm=9fc83642a8bfbf5490b628c4cb734587edecaa20568d82cd0bf4ea37126e94b33689377557a2#rd)
+    - 时间：2022-03-07
+    - 摘要：做女生，有比这更重要、更快乐的事情可以做。
+- [成年人友情中的嫉妒、竞争……你经历过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687942&idx=4&sn=ce49e2ac3b851781bdc193091dcd33bb&chksm=9fc83642a8bfbf54568ed6f861a9d94c5b1786fa71870e21bf6023eaa7fe2a36d5cd702b7669#rd)
+    - 时间：2022-03-07
+    - 摘要：
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687942&idx=5&sn=80f7a96a3f8c8806bea55a5e0feeda18&chksm=9fc83642a8bfbf54411fe6f47a4df052d38e35d67b5c03201f0d61038fa36f0db85cc537e357#rd)
+    - 时间：2022-03-07
+    - 摘要：专业心理困惑答疑
+- [如何提升幸福感？人生必修课助你深入认识自我 | 限量赠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687942&idx=6&sn=c991bf4a3a889b9f8078e61bd8a72d99&chksm=9fc83642a8bfbf5479984877900be6b50d6ce7b65f63e36331ab5cd588bbc12f830078a2b6f5#rd)
+    - 时间：2022-03-07
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687942&idx=7&sn=2b32b3de1aae2bacabbaeaa69fa57bab&chksm=9fc83642a8bfbf5485c4dfa815354e72034f374b083fc54378cd1636ec19f74e8be0033fb24b#rd)
+    - 时间：2022-03-07
+    - 摘要：欢迎来到白日梦世界。
+- [你有没有过一个比“恋人”更重要的朋友？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687878&idx=1&sn=f5a549d84332566236d11368d7df8ba3&chksm=9fc83782a8bfbe940e4d728d97ddc37e764d1ceb657b840a8bf4aefc64a0ee5b2a01053379d0#rd)
+    - 时间：2022-03-06
+    - 摘要：转发给你想到的这位朋友吧
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687878&idx=2&sn=389a138a27303997b9ca6d05bec0af01&chksm=9fc83782a8bfbe942f42ffadd1bbb79aff880f2fbb6602d5e9c61696a6c3e102f9cc78390004#rd)
+    - 时间：2022-03-06
+    - 摘要：让真实的连接发生。
+- [工作麻木、生活乏味…失去了对生活的兴趣怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687878&idx=3&sn=8e1d1e0e0b1a2311ccaa709013d7f218&chksm=9fc83782a8bfbe94dba4a3c7ffb270dce24020b98e9c40901813f127a3c93b4db72b1adbcae3#rd)
+    - 时间：2022-03-06
+    - 摘要：
+- [可以听的心理学知识，碎片时间不荒废丨KY人生必修课等你来~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687878&idx=6&sn=5867e929e3ec8b68324a83bfa6cdcfaa&chksm=9fc83782a8bfbe9485727246addd723101c65dd9ceea140afc05875bb30d62369e0ced512116#rd)
+    - 时间：2022-03-06
+    - 摘要：想提升心理能力，但没时间看文章，来听简单易懂的音频课吧~
+- [乐衷探索自我和生活的女生，一定要尝试这17件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687855&idx=1&sn=178359058e0ee56652b486dd4fd0649e&chksm=9fc837eba8bfbefdd03970d058f5cd51b24a34703f0d8b5526eaabd195f532d8d88afa829a68#rd)
+    - 时间：2022-03-05
+    - 摘要：通过这些尝试，我们才更了解自己想要成为什么样的人。
+- [最简单的心理自助方式，竟然是书写？| KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687855&idx=4&sn=85be4f9f30ea150b73f9f8aa856a0c6c&chksm=9fc837eba8bfbefd9de4a0035c0a003fd063ae41a2ce2a5269113682cbbd059048d758a14cc2#rd)
+    - 时间：2022-03-05
+    - 摘要：
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687855&idx=5&sn=be840dff26d88c61cfdfcb88facaa3bc&chksm=9fc837eba8bfbefdff7ecb7bd3f3deee0dafd1254d3cb0014e9b5840babc2345ed7a74192458#rd)
+    - 时间：2022-03-05
+    - 摘要：或许是全网最全。
+- [“没有安全感的我，该如何经营亲密关系？” | 免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687855&idx=6&sn=e0e24f90cd6bcbcc9e15ad4a7d08e3d5&chksm=9fc837eba8bfbefdafcf0691879132666cf6dc4fe782d8bbf8e5912cc873484ecc3d2e5c48aa#rd)
+    - 时间：2022-03-05
+    - 摘要：原价199共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [你为什么还没结婚？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687767&idx=1&sn=529da5e839c9ca54573de6d6c2e41fad&chksm=9fc83713a8bfbe058d7a365296457a456c9d1d1e88cf1eb73e9e60dc397f61cc87c6512f0052#rd)
+    - 时间：2022-03-04
+    - 摘要：来看看咨询师怎么看“不结婚”这件事
+- [研究表明：女性焦虑症病人是男性的两倍丨女性该如何缓解压力，关爱自我？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687767&idx=2&sn=42dcb61572b263b4a8c96c849d2edcba&chksm=9fc83713a8bfbe05c0d6ead4125e9a5a73e7437b3307a6a5efb5058a04f665ce8f852727d481#rd)
+    - 时间：2022-03-04
+    - 摘要：城市修行双周课表新鲜奉上！快来pick你喜欢的课程吧！
+- [十条亲密关系避坑指南，先学习再实践](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687767&idx=4&sn=774c0f1a2974725ba0f610ce56108643&chksm=9fc83713a8bfbe05ee933b4044c2dd57b3b97a145db992d5e0550ab492f6f90593dbc4299ece#rd)
+    - 时间：2022-03-04
+    - 摘要：心理咨询精英入门课程+配套实践
+- [你的“自律”可能是一种“自虐”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687767&idx=5&sn=d2da8edcd219c2a70150b083215e55ac&chksm=9fc83713a8bfbe056440bb8b690616e17e7cf9d38bc48de352666133451c524a4be96c3f62b9#rd)
+    - 时间：2022-03-04
+    - 摘要：
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687767&idx=6&sn=cc442130bdc553c4aea4192d2238cde3&chksm=9fc83713a8bfbe05a21d9842ce3ecd6c081846dbddda3958477c9925a9364dcd56627f0497fb#rd)
+    - 时间：2022-03-04
+    - 摘要：专业心理困惑答疑
+- [“我不再拼命和自己的情绪做对抗了”｜在月食社区，TA们正在尝试与焦虑和解](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687767&idx=7&sn=a4edd13765e37c7d46d25d55810513b1&chksm=9fc83713a8bfbe05a5eb9a555d526f7d141ad8ca42f7c8b3db089c0694d95ba080b3b03e1d5e#rd)
+    - 时间：2022-03-04
+    - 摘要：送给所有焦虑明天的人。
+- [这里有男人不为人知的16种样子。有你见过的吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687535&idx=1&sn=781babf29aa8728ee1e6f7e07368449b&chksm=9fc8342ba8bfbd3ddae5dc75df13dd908b0f94b2f00593cf56e9a87fc3d0bee20c1681f2ef89#rd)
+    - 时间：2022-03-03
+    - 摘要：你觉得哪种可爱一点？
+- [最简单的心理自助方式，竟然是书写？| KY心理主题功能本带你「发现自己的闪光点」「成为最佳伴侣」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687535&idx=4&sn=91b1ffcd30f8218757dd848b4596c3f9&chksm=9fc8342ba8bfbd3da8c9648c96ee061076ed4697f155530f9681704a3db4ed61b6f6bddc2d70#rd)
+    - 时间：2022-03-03
+    - 摘要：
+- [3阶段形成安全型依恋，收获甜蜜恋爱丨9天共练营限时免费解锁](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687535&idx=5&sn=44e64c23ebd968b9c7fa0f1a6f3e9a54&chksm=9fc8342ba8bfbd3d1fd919fb4a5fd1146e694b95a6d9c733930cf3f9e7d73d7737a58b66bb0f#rd)
+    - 时间：2022-03-03
+    - 摘要：原价199共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [KY心理电台第三弹 | 如何不可耻且有效地逃避焦虑 #看破也说破](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687535&idx=6&sn=6b7e554684ffc56a2e2fdfdd2fe663b5&chksm=9fc8342ba8bfbd3ddb67f2efee0ed01371f22f0ab83bbf65c32ffbbaab291de3f4774ef16087#rd)
+    - 时间：2022-03-03
+    - 摘要：
+- [成年人必备的43种心理能力，你有几种？ | 100堂课限量赠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687535&idx=7&sn=fe7396242bb453e184404aa0897e7258&chksm=9fc8342ba8bfbd3dd1e84d8fb9406b049d2671a41f686b96b75ff3b13619255ed76ecbdc9f54#rd)
+    - 时间：2022-03-03
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [小心，这种好心的行为，反而可能引起别人的讨厌。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687188&idx=1&sn=86b050ae8fb4c2a14efa9947f9776099&chksm=9fc83550a8bfbc4699a0f436dfd22efe0a09a04aff7dbba5801615442a4fb1b1cc8121afe1b6#rd)
+    - 时间：2022-03-02
+    - 摘要：有些“无私”的本质是“自私”
+- [成为心理学工作者，可以是你为自己选择的一份副业丨萌芽课程重装升级，团购价进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687188&idx=2&sn=0934ff9947496cf34846cdf763b5f4f5&chksm=9fc83550a8bfbc460454eaa36df6c0a13cad2c75bc82754ad17cb40c20a6daf76970736a32ea#rd)
+    - 时间：2022-03-02
+    - 摘要：心理咨询精英入门课程+配套实践
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687188&idx=3&sn=2468c2fb5257490c90c745805b3f383e&chksm=9fc83550a8bfbc46942a4e6f548073f603ad10196f3e26241c2d0ec08ce45f0a42618c005872#rd)
+    - 时间：2022-03-02
+    - 摘要：马克，总能用到！
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687188&idx=4&sn=1b015fcedc7debc1528c208aca0104fe&chksm=9fc83550a8bfbc4617d0fe0087f6f0a6e6e64ebd0abb35da69e957f7640a81f074f83178d1bc#rd)
+    - 时间：2022-03-02
+    - 摘要：我想陪你，从入睡到黎明。
+- [5种让你不快乐的思维模式，你有吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687188&idx=6&sn=553b05f296a616d1ba848e2193f60568&chksm=9fc83550a8bfbc46271a4a5368acc516416d2e8aa71bf23b1cccea2b41102bc2560c9e0dbb7c#rd)
+    - 时间：2022-03-02
+    - 摘要：
+- [脱单到底为什么这么难？周四直播：专业心理咨询师与你聊聊“脱单”那些事儿](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247687188&idx=7&sn=f269544347bc0ede000b67aee199d5b8&chksm=9fc83550a8bfbc4699ebf207ef72634e44807f312229c1023da732375a9740c5f3eef4b32b26#rd)
+    - 时间：2022-03-02
+    - 摘要：文内预约，不错过哦~
+- [为爱鼓掌时，前戏、正餐、后戏的比例多少才会有最佳体验？来看研究——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686979&idx=1&sn=cb6bd82cf1129c3df92eb4175c8838a4&chksm=9fc83207a8bfbb116cb306d875dadeb3448d2b8c1248ab3ecba10f3a412f6c86cf8310e28baa#rd)
+    - 时间：2022-03-01
+    - 摘要：一场满足的性爱，持久其实没那么重要
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686979&idx=4&sn=a217631a29e1aeb2c2416f0ef71ecd99&chksm=9fc83207a8bfbb1131b8ea59931fe499ba70016089d0c0e15d3794152a5fe74ea93fc7d08bcf#rd)
+    - 时间：2022-03-01
+    - 摘要：专业心理困惑答疑
+- [“没有安全感的我，该如何经营亲密关系？” | 免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686979&idx=6&sn=e4c5b76cc2ce6e81155095bc4578c62b&chksm=9fc83207a8bfbb117e41ac6895a9c8659776a9dadf64ed24631f68aa395c8a59d9207c880054#rd)
+    - 时间：2022-03-01
+    - 摘要：原价199共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [“毁灭性愤怒”：有些人只擅长用毁灭性的方式，表达情感需要。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686693&idx=1&sn=61e3412133f34993c7a7ee25826a82df&chksm=9fc83361a8bfba7746ca35a1a104ac5c3c3e9bf65a26c73d441a7f387bbe5ee0e9e568b6cf52#rd)
+    - 时间：2022-02-28
+    - 摘要：有一类人，相爱必然相杀
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686693&idx=2&sn=819d025a6852cc7fa24c354d6322f2b4&chksm=9fc83361a8bfba776a2c6ae0f4855786e452d0b7b25663a5fef4ee128477018702f2b1e46b1b#rd)
+    - 时间：2022-02-28
+    - 摘要：我想陪你，从入睡到黎明。
+- [在亲密关系中，“好好吵架”可能比“和平相处”更重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686693&idx=4&sn=990130a3375568dd55d4e9c5ed510659&chksm=9fc83361a8bfba77c340d93c06e6ce702e195c5cb58421a4ab1d4ec2f08e0ac9d637b7dccde5#rd)
+    - 时间：2022-02-28
+    - 摘要：心理咨询精英入门课程+配套实践
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686693&idx=5&sn=5754073e57ee7787b74b055b6a82fadc&chksm=9fc83361a8bfba770823ace1fc260d34a74332102690ee60d313f26c95979916beb76b79313c#rd)
+    - 时间：2022-02-28
+    - 摘要：
+- [无聊时就只能刷短视频？不如每天10分钟，听听心理学 | 100堂课8.5折，仅剩25个名额！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686693&idx=6&sn=c8951778bcea43ee4977ad8d0b58bcdc&chksm=9fc83361a8bfba77a3dc5527386088838f2defd12166e9b273fce36bc40de1f1c4a312f96345#rd)
+    - 时间：2022-02-28
+    - 摘要：想提升心理能力，但没时间看文章，来听简单易懂的音频课吧~
+- [3个实用tips，帮你建立“高质量社交”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686519&idx=1&sn=ac4b4e2e8a4eafdfdfb1e2a186dd9532&chksm=9fc83033a8bfb925fee6c988bb8350487da3c45f1e267d05cdf1eb508dd5c1e11cdb94b617ff#rd)
+    - 时间：2022-02-27
+    - 摘要：教你走出“社交困境”
+- [3阶段形成安全型依恋，收获甜蜜恋爱丨9天共练营限时免费解锁](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686519&idx=3&sn=63fd0775a7084d922ae4508e589f2cab&chksm=9fc83033a8bfb92502f14ced0ad6741f1216954eec553d5d509b80fccfe3bbea3a02bd174ad2#rd)
+    - 时间：2022-02-27
+    - 摘要：原价199共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686519&idx=4&sn=075cbf91d455fb78239e388b5b26b009&chksm=9fc83033a8bfb9257777ca8f90da23a9833b5e121ef529bf7d2e6552db59c3e6b6cf50f2bbf4#rd)
+    - 时间：2022-02-27
+    - 摘要：欢迎来到白日梦世界。
+- [高敏感的五个优点，有一个你一定不知道](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686519&idx=5&sn=712f525bb09273e141afc5be28ae59cc&chksm=9fc83033a8bfb9255b504c82f2114665b3ab4a14aff07ec6ee0447a682f3e8c5359a6c6f0813#rd)
+    - 时间：2022-02-27
+    - 摘要：
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686519&idx=6&sn=44404c491fb00b6efe621bb3c998be20&chksm=9fc83033a8bfb925c6a6f395201a5ce48264c2b6f4a3a46a0b2e1cbbaca51868d2d721b12ebb#rd)
+    - 时间：2022-02-27
+    - 摘要：
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686519&idx=7&sn=141c06d169d868977f9af9ff5eeea715&chksm=9fc83033a8bfb9255659c9057f76a82f886f961433631bb710d202a34112cceaa2bf2eed1a43#rd)
+    - 时间：2022-02-27
+    - 摘要：专业心理困惑答疑
+- [获得「容易快乐人格」的8个小tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686420&idx=1&sn=932b2e0260e7b97f384e48f4bdaa1ce0&chksm=9fc83050a8bfb9462540dc7dd92e864f4ab871fd286eebfe7eccb4d44e5b05928a2d7c84056d#rd)
+    - 时间：2022-02-26
+    - 摘要：这5种心理特质是关键，你中了几个呢？
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686420&idx=2&sn=884b3d6594d5888a0adfc69c07b0c84f&chksm=9fc83050a8bfb946bf3e510828927d65a327b1f4802437bfd71d5954d70c8420c0cb9d585f9a#rd)
+    - 时间：2022-02-26
+    - 摘要：
+- [同辈压力这么卷，我只想躺平，行不行？ | 周日直播：咨询师带你应对「同辈压力」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686420&idx=3&sn=cf9bacdacb1a6392e679f636443aa2ba&chksm=9fc83050a8bfb94636cd20b36f91e1f252823641cca56ca919d50f9532088cf6312d6948063f#rd)
+    - 时间：2022-02-26
+    - 摘要：文内预约，不错过哦~
+- [过分依赖对方或过分独立都是不健康的。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686420&idx=4&sn=f3156214f2a463d2727b1ac1939d30bb&chksm=9fc83050a8bfb946eda266fdef7d0d13747996dc7e92525249e8276598d515e7005cc776f92e#rd)
+    - 时间：2022-02-26
+    - 摘要：
+- [关于如何过好这一生的100堂课，限时8.5折（最后50名）！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686420&idx=5&sn=a15e66229fd20fd62baba2dd4e51bf69&chksm=9fc83050a8bfb9469ceb60bf652efe6abde93f3327cecfb106e4296d626928a4d21e68ffc4ff#rd)
+    - 时间：2022-02-26
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [想要睡好「美容觉」？试试用敷面膜的时间来冥想吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686420&idx=6&sn=5125e1a1a844191fedb6388593e7b5f4&chksm=9fc83050a8bfb9462014b9b7ac147f2a3b1e6c73dca9bdb1210bc87934df990b30c2d0d8f30b#rd)
+    - 时间：2022-02-26
+    - 摘要：当我们在敷面膜时，还可以想些什么？
+- [“我们最终都必须学会，把自己看得和他人一样重要。”（旧文回顾）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686410&idx=1&sn=cea6e704b1b4a71dc257f835cadcde51&chksm=9fc8304ea8bfb95831b2561ab958a1a067ff8754b6fe155cb820ec1c99a5a1deef87b9dcc9b2#rd)
+    - 时间：2022-02-25
+    - 摘要：那一天你会等到你自己的万物复苏
+- [在成为心理咨询师的道路上，为什么看书无法取代系统性课程丨萌芽11期团购价倒计时最后2天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686410&idx=2&sn=f9e93b0cc48c4e381030d11181427f4c&chksm=9fc8304ea8bfb958da4d01b6321889a2a53c695f56b70288adfb86e76e71793008e18d568eda#rd)
+    - 时间：2022-02-25
+    - 摘要：心理咨询精英入门课程+配套实践
+- [正念是每个当代人必须修炼的心理技术丨「正念入门」报名中，更有妇女节早鸟优惠！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686410&idx=3&sn=eed5b793b84e3af84c923a1be0af0dea&chksm=9fc8304ea8bfb9584b50a57fd069d97b4fb7721534efa8487885eb9b762fdbd92695d6e6f426#rd)
+    - 时间：2022-02-25
+    - 摘要：城市修行双周课表新鲜奉上！快来pick你喜欢的课程吧！
+- [来看看不同年龄的人都在烦恼什么吧？丨来月食心理社区为你答疑解惑~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686410&idx=5&sn=2baf4ebbd8214bd49b9c722452db1744&chksm=9fc8304ea8bfb9588b48a39b4fb47240531ad02346288d4a86077a9cc7e1f0cfb76f48ae3d93#rd)
+    - 时间：2022-02-25
+    - 摘要：来这里消除烦恼相遇知己~
+- [疏离型依恋，就“注孤生”了吗？丨免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247686410&idx=6&sn=655a2b478beb4a0bc8d3a1049e94b15c&chksm=9fc8304ea8bfb958db78394a83a9172c0bb31094246e8ddc297d5cb1138f26cf6b421687dee4#rd)
+    - 时间：2022-02-25
+    - 摘要：原价199共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [人可不可以跟自己不爱的人做爱？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685413&idx=1&sn=6d975297631d3e9b07fd056b4192faad&chksm=9fc83c61a8bfb5778cc26f30055df65059e5dd4105c554f834d1eb7020d9d9352d7e86f23305#rd)
+    - 时间：2022-02-24
+    - 摘要：不管你约不约，都可以看看这篇文章
+- [在书本中自学心理学，你可能只是继续活在自己的世界里 | 萌芽课程升级不涨价，团购价进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685413&idx=3&sn=f930af0263fc80234e1bfc4dfe32c573&chksm=9fc83c61a8bfb5773822f9b488033419266fe7a9446418b7f5ea67c83791e4861e1150bdaaaf#rd)
+    - 时间：2022-02-24
+    - 摘要：心理咨询精英入门课程+配套实践
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685413&idx=5&sn=eafbfd0c8e2c349c14413b0f777867a4&chksm=9fc83c61a8bfb57750cb0bb2da55cb59f2fd73df843d26dc2ef89bf84b3ab7f348bb931ee3db#rd)
+    - 时间：2022-02-24
+    - 摘要：或许是全网最全。
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685413&idx=6&sn=1392face036e64e9f342ccd02b509665&chksm=9fc83c61a8bfb57716d6bc11ad1e418d96bb98abbc3ec5b0af484ec865bff95c254640429fc4#rd)
+    - 时间：2022-02-24
+    - 摘要：
+- [28岁时的分手，会比20岁时更难吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685294&idx=1&sn=df564e0a0424895a4587ea61ea1ae5f6&chksm=9fc83deaa8bfb4fc813e99364421ad9241e31b0447927953f23ccc19343b6ff041046cf77985#rd)
+    - 时间：2022-02-23
+    - 摘要：会。
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685294&idx=2&sn=b2c6dfbb17763a16826959d1b1db95f0&chksm=9fc83deaa8bfb4fca6e62982af739230184e8ddcf17d801d944459a35bcdfd7c27eef19f0adf#rd)
+    - 时间：2022-02-23
+    - 摘要：这些小tips不要错过～
+- [真正的成长，往往发生在最深的自我探索之后｜人生必修课8.5折，最后100位！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685294&idx=4&sn=13fa9b71b57e1edf9414e28238da96aa&chksm=9fc83deaa8bfb4fc9f773f8077e061694f3871b881315bfdd23f7877b40fa4e5b91f4443b1eb#rd)
+    - 时间：2022-02-23
+    - 摘要：成为更好的自己，从学习KY的人生必修课开始～
+- [不自信？不相信会被爱？丨周四直播：心理咨询师在线答疑，提升自尊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685294&idx=6&sn=7fcb0d2f2f8bcfbef0b51ae4a91799b0&chksm=9fc83deaa8bfb4fc1526debaf0863fe285ee78c37ddf50da321f78a584f949cc0f4274f9558c#rd)
+    - 时间：2022-02-23
+    - 摘要：文内预约，不错过
+- [每位女性的一生，都是一部文明抗争史。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685105&idx=1&sn=13fc927dba5c752d6d7a28968f5450db&chksm=9fc83ab5a8bfb3a3e69bddf225fecaa89baeb5e4e9a4f713d2c3c989fd55d5751c7b5329dfe9#rd)
+    - 时间：2022-02-22
+    - 摘要：丧钟不止为她们而鸣
+- [5分钟心理学|听KY说：异性之间如何发展纯友谊？#PsychologyBites](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685105&idx=4&sn=2fb28386c58ada71bd58807eb84de0ba&chksm=9fc83ab5a8bfb3a34b7f6e2177a0df9aaf1fa1d8b5bdf05e228e1020005fc4373c3cbd0fc091#rd)
+    - 时间：2022-02-22
+    - 摘要：
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685105&idx=5&sn=067afc4a2194a469bf3cd8a25f7fc4c9&chksm=9fc83ab5a8bfb3a3292f4738b385b55dbca412eb393cf4e86f9bf18338bf1698a6ca9d6107b0#rd)
+    - 时间：2022-02-22
+    - 摘要：
+- [“Ta越爱我，我就越想逃…”丨9天免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685105&idx=6&sn=979ff0e4581fba6d61f4db1fcd69b384&chksm=9fc83ab5a8bfb3a329bea6581e728fa5fbe801b2b84ab4fda801f47f7421282c99134ee96db2#rd)
+    - 时间：2022-02-22
+    - 摘要：原价199共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [防吃亏自救指南来啦！教你躲过人际交往的千层套路](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247685105&idx=7&sn=a4ef1821731aa0803b36a3a04feaf5e4&chksm=9fc83ab5a8bfb3a3df126bc95979f9ac2e33269fa23a2ea4e17bc34f03437ef57ee45e8df038#rd)
+    - 时间：2022-02-22
+    - 摘要：
+- [男生真的喜欢找和他们“母亲”相像的女友吗？研究说：是真的。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684900&idx=1&sn=30c47f0de9867c47488accb0dba6ed50&chksm=9fc83a60a8bfb3767e546e4ca4e15d55494d9bff8d2147b9e9ab84aaf3cbd383bc4395c21357#rd)
+    - 时间：2022-02-21
+    - 摘要：“妈系女友”可能才是男人的心头好，不是妈宝的意思！
+- [所以，一切真的都是童年的错么？| 如何摆脱旧的思维定势](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684900&idx=4&sn=4b392d6807902707848ebb5b2a7a94c0&chksm=9fc83a60a8bfb3766c2d31ad8fb9f27cbb8227280ad9d8bcd68cec770af4101ae7af6e093f24#rd)
+    - 时间：2022-02-21
+    - 摘要：心理咨询精英入门课程+配套实践
+- [碎片时间如何高效利用？不如来听KY人生必修课吧！丨限量优惠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684900&idx=6&sn=23e5e11a36c8e157562991b0bc6ecc43&chksm=9fc83a60a8bfb376da37de0aa3e1661a5360aecc09ef5244088e08369202563a662d789bdd61#rd)
+    - 时间：2022-02-21
+    - 摘要：想提升心理能力，但没时间看文章，来听简单易懂的音频课吧~
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684900&idx=7&sn=ccbc33abd6f50d96e7df6b3baf60bbc6&chksm=9fc83a60a8bfb376c8c8ecb8eedf55b8888bed0c242ea55d86ebf31916c8c3ee0acc661e4549#rd)
+    - 时间：2022-02-21
+    - 摘要：专业心理困惑答疑
+- [关于“如何过上满足的生活”的终极回答。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684262&idx=1&sn=524a9861f331c0c573435c7279010623&chksm=9fc839e2a8bfb0f4eb37241f6c42a2f93be9f85be0c34ce9801bc584d9d677ac1ef87f5eaf64#rd)
+    - 时间：2022-02-20
+    - 摘要：快乐的生活关键不是“生活”，而是你自己是个什么样的人。
+- [吃沙拉不仅能减肥，还有益于情绪健康？听KY心理电台帮你#看破也说破](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684262&idx=2&sn=a8273331d23dcc7b96798abdb5f288ed&chksm=9fc839e2a8bfb0f46dba444c5b248a30ee2b27c94faf3df0736d7df1f5ec48e4a5cbed43bdd9#rd)
+    - 时间：2022-02-20
+    - 摘要：KY内部聊天：怎样才能不胖且快乐？
+- [我如何成为自己理想中的样子？人生必修课带你深入探索自我丨限量85折](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684262&idx=4&sn=34459fb9c6ba214642f525246c274bb7&chksm=9fc839e2a8bfb0f4f27b0dd0a7a2a9ffee6188a17e9c534b5b8dcbece1a28c53bdf5659ffd38#rd)
+    - 时间：2022-02-20
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [学会和自己的身体对话，能帮你「了解真实自我」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684250&idx=1&sn=f060e88353d1fe2446e9048e89c2d146&chksm=9fc839dea8bfb0c81f5cd6e4445c6a93d41289ed36697e4ceb6b05c481575b24d319a8b5e382#rd)
+    - 时间：2022-02-19
+    - 摘要：聆听自己内心的声音，实现可能性
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684250&idx=3&sn=cad3de5c11861e2725055ef05b47c604&chksm=9fc839dea8bfb0c81ba255b252986eff74eb1cc564f5be18e07a4d20111110916495ee38baa6#rd)
+    - 时间：2022-02-19
+    - 摘要：让真实的连接发生。
+- [躁郁症是抑郁症的一种么？丨精神障碍入门必读系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684250&idx=4&sn=6fb7f39a7b01cfcc54cb84a33510e61d&chksm=9fc839dea8bfb0c85b9b96aa1d77daa9fd810e792bf515838d865753d9a0481cd5e55ec127b9#rd)
+    - 时间：2022-02-19
+    - 摘要：心理咨询精英入门课程+配套实践
+- [心理咨询师与你聊聊「如何提升爱的能力」，周日直播，不要错过！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684250&idx=5&sn=1a43ad36a613c01a0db6a42bcd710ebf&chksm=9fc839dea8bfb0c85fb31276596d5821151ec97536647f5876e07b1dbf0cfb4af9a95986888f#rd)
+    - 时间：2022-02-19
+    - 摘要：相爱容易相处难：如何更好地维持亲密关系？
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684250&idx=6&sn=816345ad40a1215696a26f8487e2a231&chksm=9fc839dea8bfb0c887442f1c9748209523c8ebc355a429e5a5ef9b48d1e980f19350bdb0d92d#rd)
+    - 时间：2022-02-19
+    - 摘要：
+- [“两个人在一起，比一个人更孤单。”这种体验你有过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684200&idx=1&sn=de643f56b2bda50be7bd7f9650777e9b&chksm=9fc8392ca8bfb03a3ab9be54cef32b43c30ab1edfdb81a5db89601fe0fcf92d6c6f932a9301f#rd)
+    - 时间：2022-02-18
+    - 摘要：有3个特点的爱情，会让人比单身更孤单。
+- [与父母交流总有「代沟」？来《应对代际冲突》学习如何与家人和谐相处吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684200&idx=2&sn=e4744bf734ed7350b581590f6750327d&chksm=9fc8392ca8bfb03a6563fe821b989f6d24a0ccf98c8c4839362c62355ec85b6b41aeed6cb4c4#rd)
+    - 时间：2022-02-18
+    - 摘要：未来一周课表新鲜奉上！来城市洞穴，带你一起放松、觉察、成长。
+- [自由职业是996的避难所？丨 KY限时免费测评：你适合做自由职业者吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684200&idx=3&sn=676868c229e3d324f29266a4cdd725c6&chksm=9fc8392ca8bfb03aa2d4696dff836ee75f9604b73437d9a4148080074a0613aa545701cee011#rd)
+    - 时间：2022-02-18
+    - 摘要：想辞职的时候记得看一看
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684200&idx=4&sn=78a530335e57a428c9a4ec5ccfbe014d&chksm=9fc8392ca8bfb03a34012d7a66a9f51073a42586c037433bc74210f9f65711120d819c2c6111#rd)
+    - 时间：2022-02-18
+    - 摘要：马克，总能用到！
+- [“哄自己”也需要技巧，来看这6个变快乐的小tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684200&idx=5&sn=09fab5507b13faff7c3c461085dfbcc5&chksm=9fc8392ca8bfb03ac239781acaca40ea6f23a676aa4a779b9f9442689f5eaacf89e936233796#rd)
+    - 时间：2022-02-18
+    - 摘要：
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684200&idx=6&sn=5bd2afb85d7dcddb35fe344596fce397&chksm=9fc8392ca8bfb03af85e32e6ffd540c057b1776618123f68bcea20b8ab271dea0541be97b534#rd)
+    - 时间：2022-02-18
+    - 摘要：专业心理困惑答疑
+- [新年新气象，2022遇见全新的自己丨KY人生必修100堂课来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247684200&idx=7&sn=6805d078674c5bb2062b2e6b95753bc3&chksm=9fc8392ca8bfb03aa5f1919a19ba5f1f581b95ae4c7709c95d4a57344c99a0b98f743e2054dd#rd)
+    - 时间：2022-02-18
+    - 摘要：成为更好的自己，从学习KY的人生必修课开始～
+- [这种被称为“绿茶”的行为，可能是一种重要的关系技巧。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247682045&idx=1&sn=638d837f1e09dc24cdef5198b6af31a8&chksm=9fc82eb9a8bfa7af625e5026702762b5091a2882fb3f645ae02a576237d1b771c09b904f9c90#rd)
+    - 时间：2022-02-17
+    - 摘要：like it or not，会哭的孩子真的真的有糖吃
+- [作为互联网工作者，学习心理学让我平衡了工作和自我  | 萌芽11期团购进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247682045&idx=2&sn=f623bf0ab86286edc6c28b7d128709f0&chksm=9fc82eb9a8bfa7af5fe2eb505cd6fbafdd77a37fb05c960459699886e0e59a10905893a7b5e6#rd)
+    - 时间：2022-02-17
+    - 摘要：心理咨询精英入门课程+配套实践
+- [你猜猜：奥运会前三名，最不开心的是第几名？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247682045&idx=3&sn=f899ca3168cf988141d757ecefd64182&chksm=9fc82eb9a8bfa7af1d26702dd5894247812723bb75825b044e44becd3ad2c73f353e9adb0862#rd)
+    - 时间：2022-02-17
+    - 摘要：一边看比赛，一边涨知识！
+- [我难过时，ta都不在身边，异地恋到底该怎么谈？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247682045&idx=4&sn=670196c7d0d82c3e7383557622541d03&chksm=9fc82eb9a8bfa7afdce495e71f2df81d837368040143468a8d75258d246fc3b8e9142f55c7dd#rd)
+    - 时间：2022-02-17
+    - 摘要：
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247682045&idx=6&sn=e94155fc0c03f8fd8a8c066fc6f3a2d5&chksm=9fc82eb9a8bfa7af671e3b8e324d9d92ec6dc484e039555c2fd6fc9294c2aaf87f06ccb76462#rd)
+    - 时间：2022-02-17
+    - 摘要：
+- [“我喜欢你”的7种截然不同的含义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681823&idx=1&sn=3a821ac12f474cd2e10b741c102f3cf9&chksm=9fc82e5ba8bfa74dfa1e9c5cdd22df73291c18c3dec0afc28f501c6490bac74a982b4189b0da#rd)
+    - 时间：2022-02-16
+    - 摘要：为什么说喜欢它不是爱？
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681823&idx=3&sn=9a725a77e823e62d0a2ec27cfb9d687d&chksm=9fc82e5ba8bfa74d12f7e2f9a9415cf818c0fc19cb044b9a7f5d218783b80517eabdee5b0342#rd)
+    - 时间：2022-02-16
+    - 摘要：这些小tips不要错过～
+- [我真是一个没有用的人丨KY测试：自我批评解救指南](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681823&idx=4&sn=275a5e8e4b37acd66f4cc8bc3b8f0028&chksm=9fc82e5ba8bfa74d893fcd533479c100b56e97bd9e4885b6ca48c76fe5412d99f7a2fcb9dcb1#rd)
+    - 时间：2022-02-16
+    - 摘要：你是否会过分苛责自己？
+- [除了听音乐和听书，通勤路上还能听什么？100堂人生必修音频课限量优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681823&idx=5&sn=dad95e5490dc30f3e1bab5749a37f1f6&chksm=9fc82e5ba8bfa74d78728253ac57f5e0c6641301b34ee9dc46924c01689d92909aa540b76765#rd)
+    - 时间：2022-02-16
+    - 摘要：想提升心理能力，但没时间看文章，来听简单易懂的音频课吧~
+- [“约会是我探索自我的手段。”我们找粉丝聊了聊「不主流」的恋爱方式。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681451&idx=1&sn=c879ae843bb6676227469b48fdb482c4&chksm=9fc82cefa8bfa5f9fc2c3cafc03560a797a3b771569281e279a3b84abad6d5a5021a92a75120#rd)
+    - 时间：2022-02-15
+    - 摘要：只有自己明白，什么是自己当下需要的爱。
+- [KY创始人小姐姐请回答：你问我答，与你聊聊“如何获得更好的亲密关系”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681451&idx=2&sn=33231c8842519f4ba14caf5f37b5512b&chksm=9fc82cefa8bfa5f93c5c14ab58c76a2f694241444b9c5645574a009bec158261d044615f2374#rd)
+    - 时间：2022-02-15
+    - 摘要：文内预约不错过～
+- [好像一直在重复过去，如何改写自己的人生脚本？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681451&idx=3&sn=16f2d8155fac8735d92d74407a41c650&chksm=9fc82cefa8bfa5f96c97bfd870ed7ada9b573689c9a646eef0f31f5dc217eb98efcb88b44626#rd)
+    - 时间：2022-02-15
+    - 摘要：心理咨询精英入门课程+配套实践
+- [KY心理电台第二弹丨一份“健康不长胖且快乐”的食谱应该长什么样？#看破也说破](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681451&idx=5&sn=3f377e532325ff90b48a1c06e91357b3&chksm=9fc82cefa8bfa5f946e70eaea4d500f1c6383f3ef6a6c9d090eabd24c709673617f34281029a#rd)
+    - 时间：2022-02-15
+    - 摘要：
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681451&idx=6&sn=c45584f89267ce71b29788faa652b02f&chksm=9fc82cefa8bfa5f9ea213a7fc975ae5925414920140fe40ecc3c08fb6045197a6857b9cef505#rd)
+    - 时间：2022-02-15
+    - 摘要：
+- [真爱的4个要素和无法爱人的4种类型](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681057&idx=1&sn=de1dc914a7d067057a820dccaf7b6acf&chksm=9fc82d65a8bfa473f9c06f221112e5bf984796b7f2c88a87c1f3259434339099ddae69aab327#rd)
+    - 时间：2022-02-14
+    - 摘要：正确地去爱，从探究如何真正爱人开始。
+- [用你的「爱情人设」测试结果，寻找匹配的ta （免费）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681057&idx=2&sn=607c6c3ab51b96fa85a92dea20c032f0&chksm=9fc82d65a8bfa4739fae6191903a70beba3a93b9126b0c67ea309c4c0a1e5c124087b415535b#rd)
+    - 时间：2022-02-14
+    - 摘要：情人节匹配活动来了
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681057&idx=4&sn=415d125b93a6ec4c3cafdd5c39bf6bcb&chksm=9fc82d65a8bfa473f0ebbb3ce1fd509f833445ee1211edfc5e9b421cfe50fe6c087d9d7a243d#rd)
+    - 时间：2022-02-14
+    - 摘要：专业心理困惑答疑
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681057&idx=6&sn=74b429ef9a0b5dfcdca3a3659875878b&chksm=9fc82d65a8bfa4731f55ac47465e817d42999685d383f8c35a556b2d220a8d2999294939a0a5#rd)
+    - 时间：2022-02-14
+    - 摘要：欢迎来到白日梦世界。
+- [你在亲密关系中学会了什么？丨TA们在月食社区，探讨关于爱的100种可能](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247681057&idx=7&sn=c8f1ac1275f639a751b5fd8c6a496a53&chksm=9fc82d65a8bfa4730f8a6ac625c0d63c8049293bcbdf2221fca5cda69a1947204c90b8669257#rd)
+    - 时间：2022-02-14
+    - 摘要：爱是永恒的话题，我想和你好好聊聊
+- [研究发现：幸福的情侣，真的会有“夫妻相”！找对象可以重点关注一下](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680857&idx=1&sn=44a6789df7e19b32db7fab63319ff45d&chksm=9fc82a1da8bfa30b5e02c3d0866dbb2956a87e1d33bbaffd0a512ea630caacf5895108c4f844#rd)
+    - 时间：2022-02-13
+    - 摘要：你遇见过被人说“有夫妻相”的ta吗？
+- [新一年，别再让迷茫拖累你的成长 | 人生必修课85折优惠中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680857&idx=3&sn=681e06ffd50f956e775a1adac9bac08b&chksm=9fc82a1da8bfa30b2356000f02a3b28cad62112708fb077beb041dcead54b7bb9c209f2b3727#rd)
+    - 时间：2022-02-13
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [为什么别人夸我，我反倒不自在？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680857&idx=4&sn=cc82fbcaf2d2f81b22e616e3c75bc5a2&chksm=9fc82a1da8bfa30be67e145c70d70e7b5175b86658027fd97e28b0ece5678a8f494af1a4dca4#rd)
+    - 时间：2022-02-13
+    - 摘要：
+- [用你的「爱情人设」测试结果，寻找匹配的ta （免费）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680857&idx=5&sn=fe1067e92d595d714233b7338ff106b5&chksm=9fc82a1da8bfa30bf678680676cdaf437d0bbff84eaac3e490ad42d0f1ef9105c9754e8c85b8#rd)
+    - 时间：2022-02-13
+    - 摘要：情人节匹配活动来了
+- [当我选择做“少数人”的时候，我才明白什么是自由 丨 来月食心理社区吐露心声](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680857&idx=7&sn=e274c58dd9e9ee626dc10d1bdf4f3ba5&chksm=9fc82a1da8bfa30b2fb84f01d810198a364ca5502af5be4a274e3b00492d393fd47b2b028cb3#rd)
+    - 时间：2022-02-13
+    - 摘要：在这里偶遇温暖、治愈又有趣的灵魂
+- [有一些看起来内向的人，其实深层人格比谁都活泼](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680752&idx=1&sn=48eb5b7f99d5f8b0817fb090ee67ebc5&chksm=9fc82bb4a8bfa2a210e4423159a97e334f2a656a70ef7db5005f4556d5715bd676d2c8b8229b#rd)
+    - 时间：2022-02-11
+    - 摘要：你见过“假性内向”吗？
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680752&idx=3&sn=172f110e41afc5b3469126130e6e70f9&chksm=9fc82bb4a8bfa2a21b76d01a7cebbf706d076d57b238b63248aa283e2bd503d3d3337e6d6b1f#rd)
+    - 时间：2022-02-11
+    - 摘要：
+- [好的感情也会让人受委屈丨KY小姐姐春节直播“回放”来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680752&idx=4&sn=5bdf1b3998feb45cdb45a359f79d9992&chksm=9fc82bb4a8bfa2a2309c18e7e32ee1f7574232db9f63487d72c021a87a1ccd307844f300119e#rd)
+    - 时间：2022-02-11
+    - 摘要：
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247680752&idx=6&sn=d84b1daed1c4b2cc8d48c8c61ec8b7dd&chksm=9fc82bb4a8bfa2a2914f746185290fb006ad6f35ecfd6920d0212c78a7f4fb92522147fbf681#rd)
+    - 时间：2022-02-11
+    - 摘要：或许是全网最全。
+- [出现了这5种感觉，你们的感情就是真的走到了终点——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247679973&idx=1&sn=04e9bb5422d367ed1e582ba670d94608&chksm=9fc816a1a8bf9fb750026cebc5a9bff140e7ac7547711986c3a90575f28c2f87aaab02f01ee8#rd)
+    - 时间：2022-02-10
+    - 摘要：你中了几种？
+- [学习这门灵魂性的乐器，掌握疗愈自我新方法｜手碟体验课招新](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247679973&idx=2&sn=a638f7c29dcdab7fb4ec2678f5191c01&chksm=9fc816a1a8bf9fb7f1f36f4c58c0abd24ab1d1dd1dc29c39da1265e1c7d7bf1257c97dc84634#rd)
+    - 时间：2022-02-10
+    - 摘要：未来一周课表新鲜奉上！来城市洞穴，带你一起放松、觉察、成长。
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247679973&idx=4&sn=9b2ac973398ba86b4b37e3c9e2d17056&chksm=9fc816a1a8bf9fb71f112371dc290957b1ecbb6ca487e3a832bbf1f286bc0e8eab2153b91c79#rd)
+    - 时间：2022-02-10
+    - 摘要：这些小tips不要错过～
+- [新年你想实现哪些自我成长？KY人生必修课来帮你 丨 限量85折送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247679973&idx=5&sn=cfe88a74d5abf0d815480c45402b4cbe&chksm=9fc816a1a8bf9fb7c2d184939aaaa14829e0a69fad24aeb999e31384ce3ede7f9ab050878821#rd)
+    - 时间：2022-02-10
+    - 摘要：成为更好的自己，从学习KY的人生必修课开始～
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247679973&idx=6&sn=3f25749d266928afaf2e2d72345ab06b&chksm=9fc816a1a8bf9fb72822917ecd599bd1c03e4f8c2e81d117cdb654b31c8bb2b39610492597bd#rd)
+    - 时间：2022-02-10
+    - 摘要：专业心理困惑答疑
+- [判断是不是“不爱了”的4点小tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678731&idx=1&sn=9f116081d8c194fad46abaf3dca82101&chksm=9fc8124fa8bf9b5977249efda891cf625a2ae5b0cf15cd922314ba4a1535bbb71530d0351abe#rd)
+    - 时间：2022-02-09
+    - 摘要：决定要不要分手前，一定要先看完这篇文章
+- [作为斜杠新青年，心理咨询师是我的另一个职业身份丨萌芽早鸟价倒计时5天，即将涨价](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678731&idx=2&sn=440ac48cf7e16b82f8e87e8feedaf0c4&chksm=9fc8124fa8bf9b596303d86699835dabba9db391b3810095b5021c62dff6a6f050444abbcc6a#rd)
+    - 时间：2022-02-09
+    - 摘要：心理咨询精英入门课程+配套实践
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678731&idx=3&sn=0691b059ed9851e54b606c2d8f897104&chksm=9fc8124fa8bf9b598238854fa003f149d4ef335a5913f629618e829b06ecabab88efba137162#rd)
+    - 时间：2022-02-09
+    - 摘要：马克，总能用到！
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678731&idx=4&sn=4fae08d78103a0bc09c2c62658927d06&chksm=9fc8124fa8bf9b59647fb368b133b8158a3b24905980dd54bd037bf98b711f7df30646e07b70#rd)
+    - 时间：2022-02-09
+    - 摘要：
+- [想要轻松提升颜值？美容冥想了解一下](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678731&idx=5&sn=ee0ec2547cfefdb6d26b622f7d09c6e5&chksm=9fc8124fa8bf9b59a2dccf21c676b0544c147fac4441afa124041130a015438363a43d141955#rd)
+    - 时间：2022-02-09
+    - 摘要：了解一下最新的护肤手段「美容冥想」，不医美也能变美噢。
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678731&idx=6&sn=0bd82af7621b9ba8609bfe9993eb5b02&chksm=9fc8124fa8bf9b59c5fd1b5ea465c6006dded58d3df448c1f09ef5ec332d2c9d9aa19fd9f0c3#rd)
+    - 时间：2022-02-09
+    - 摘要：我想陪你，从入睡到黎明。
+- [女生可以成为的18种样子](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678493&idx=1&sn=b8b3e6d24309230160558177050936a8&chksm=9fc81359a8bf9a4f9d7f3fe3f5b6eb1d10fafe02f7a2fa670266f87eb6df705624e8c15e0f85#rd)
+    - 时间：2022-02-08
+    - 摘要：女孩儿应该是什么样？
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678493&idx=2&sn=0e47bfd7f3714308213f789c84a9b06b&chksm=9fc81359a8bf9a4f165676dd92a6d40ee7df36aaba5567636e9fbd92ce615d1533c55a2fcd83#rd)
+    - 时间：2022-02-08
+    - 摘要：我想陪你，从入睡到黎明。
+- [“我想家，但不想回家”丨春节如何与家人和谐相处？快来月食社区抄答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678493&idx=4&sn=3ae1d96db9da514907aab83198897321&chksm=9fc81359a8bf9a4f6959816056d214470bc7445c2da2aeebd1f543c70d00cd3df8da3738e383#rd)
+    - 时间：2022-02-08
+    - 摘要：这个假期，让我们和父母靠近一点
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678493&idx=6&sn=3a9b7d3ba7eba7d787b6b665fe231c5e&chksm=9fc81359a8bf9a4f0a52c6d9f768ab6163a08bb3d284c8c75391bb7effbb2dd215262b794c7a#rd)
+    - 时间：2022-02-08
+    - 摘要：专业心理困惑答疑
+- [你以为的关心，只会让我更讨厌你。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678364&idx=1&sn=c301ab383fbc16f00fbc6ff9e9b6e8e9&chksm=9fc810d8a8bf99ce1aaa0db99bfcda37d4ec06c9a707963cc89f96447a632abf385698cb750c#rd)
+    - 时间：2022-02-07
+    - 摘要：不要给我你想给的，请给我我想要的。
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678364&idx=2&sn=93abc019af26d803166b45b90674e7c7&chksm=9fc810d8a8bf99ce0acb40ff8e1400af23f847c7dcdd0a17b0ce7067de35646209ea6666a300#rd)
+    - 时间：2022-02-07
+    - 摘要：让真实的连接发生。
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678364&idx=3&sn=23f327c57a18fb66c36ceb4ccc9975eb&chksm=9fc810d8a8bf99ce9a141d4210c2e80db4def6b43878b7049c188f5ea8c421acddb4a4154848#rd)
+    - 时间：2022-02-07
+    - 摘要：
+- [可以听的心理学知识，碎片时间不荒废 丨 限量85折的KY人生必修课等你来~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678364&idx=4&sn=3fdc1ca2de859e19325453a07c6150ca&chksm=9fc810d8a8bf99cecdbbdc163a5a49098d8e6f294bacb7446f16e3f7265a2eae15817d32406f#rd)
+    - 时间：2022-02-07
+    - 摘要：想提升心理能力，但没时间看文章，来听简单易懂的音频课吧~
+- [经营好亲密关系的10个tips，你掌握了几个？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678362&idx=1&sn=9a9f3f6b9f23a3a2f8800e3b8c87f74e&chksm=9fc810dea8bf99c8dc23f597e52b5fe728ea2655b23c1e8dad70ae747f7d3a084ab2cea1960a#rd)
+    - 时间：2022-02-06
+    - 摘要：谈恋爱是门技术活
+- [人生中有那么多选择题，怎么做才能尽量不留遗憾？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678362&idx=3&sn=72c8bc3101d171146dc2168a9b535074&chksm=9fc810dea8bf99c8dee7b568776181482bd32544ca44cf9736a801ef02d26e98f1e25963ce19#rd)
+    - 时间：2022-02-06
+    - 摘要：
+- [你的自控能力强么？好的策略可以帮助你提升自控力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678362&idx=4&sn=2b24297b4b4c217a401bff55cf9d7e06&chksm=9fc810dea8bf99c8ed6a62f10e3be6035424099cb56f006e7e821354514a45d4a3875c951d3b#rd)
+    - 时间：2022-02-06
+    - 摘要：心理咨询精英入门课程+配套实践
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678362&idx=5&sn=621103434ee64c59de0787a79608639e&chksm=9fc810dea8bf99c8849dfc1983598ea67675cf822397e33dec43e24ebc02dbf9edecb15aebea#rd)
+    - 时间：2022-02-06
+    - 摘要：或许是全网最全。
+- [当90后，开始面临「给父母养老」的问题](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678255&idx=1&sn=c7c7152bb13f6f7361f537ecdf52a482&chksm=9fc8106ba8bf997d2aafc478f5b3bdf394670be9d675084cabe9f05a289a6033258fa7a9b042#rd)
+    - 时间：2022-02-04
+    - 摘要：来看看心理咨询师怎么说
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678255&idx=3&sn=e25287ca3212daaac94a774bc52c37f3&chksm=9fc8106ba8bf997d8db6356ab656166c5c9700f2327273899c28ee972cc9be30b3f0ea906115#rd)
+    - 时间：2022-02-04
+    - 摘要：这些小tips不要错过～
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678255&idx=4&sn=b0f75c23caf29e1a8bde93cbcc035902&chksm=9fc8106ba8bf997d87f475c3c0840a2a58becc9d8ebb0fe90c7807d7394d00b6e445635e4c58#rd)
+    - 时间：2022-02-04
+    - 摘要：
+- [新年如何提升幸福感？人生必修课助你深入认识自我 丨 新年限量85折送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678255&idx=5&sn=344e4b34240e8a2349c38d53b6ff4ef5&chksm=9fc8106ba8bf997dea2224d41890698e73647d7d05265495c333f420372fc30d06bce6a6cd1e#rd)
+    - 时间：2022-02-04
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [去年有1.6万人参加了这个活动，有人脱单，有人现场“泪失禁”｜茶会年度回顾&新年排期上线！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678247&idx=1&sn=d64197b751572bbea2bf754dce7e40cb&chksm=9fc81063a8bf99751126e00e192c29d7051e464b1397dc7e56297b259eb9f434aa772ba2f616#rd)
+    - 时间：2022-02-03
+    - 摘要：2022年茶会排期上线啦，更有新春特惠等你来！
+- [在书本中自学心理学，你可能只是继续活在自己的世界里丨萌芽课程升级不涨价，另享早鸟价](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678247&idx=2&sn=64185db17b3726c0c4d94558af905ea6&chksm=9fc81063a8bf9975d5eeef8bf4559e5396e9d181b23acdc6dce8b30e5670d767f6df6357d5b6#rd)
+    - 时间：2022-02-03
+    - 摘要：心理咨询精英入门课程+配套实践
+- [经常分心？过度焦虑？你需要学会专注在“此时此地”丨「正念入门」固定课上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678247&idx=3&sn=021c8259569cf9e4362d6116ddcb590b&chksm=9fc81063a8bf9975f6e312d82107e2c83e4ffbe72fd969318754de7f7af5adf27004d9ed66ec#rd)
+    - 时间：2022-02-03
+    - 摘要：未来一周课表新鲜奉上！来城市洞穴，带你一起放松、觉察、成长。
+- [新年致胜法宝哪里领？KY人生必修课带你深入探索自我丨限量福利85折送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678247&idx=4&sn=047275801ba7356bb5d317d037758e99&chksm=9fc81063a8bf99750bc5a828804faf2e301ab83231467c3a0f1041667c31e7eb97694c6b4ab6#rd)
+    - 时间：2022-02-03
+    - 摘要：成为更好的自己，从学习KY的人生必修课开始～
+- [“我想家，但不想回家”｜春节如何与家人和谐相处？快来月食社区抄答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247678247&idx=5&sn=3813fcab79d042ac606d5e5318fb0803&chksm=9fc81063a8bf9975403731cdc68e79e91a59b46e42fc51e85a8c899223d46f80f9473e6ed587#rd)
+    - 时间：2022-02-03
+    - 摘要：这个假期，让我们和父母靠近一点
+- [爱一个人，就是和ta一起吃好多顿饭](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677669&idx=1&sn=0039150e3bcb4f3aaf2c2910e36333f6&chksm=9fc81fa1a8bf96b7989509fb8aa48c7ce4c7421ce157f96de63a54426b52b4e8a243fb9bef52#rd)
+    - 时间：2022-02-02
+    - 摘要：17个关于爱和吃饭的故事
+- [假日陪伴活动又来啦，这个春节来KY遇见你的「72小时陪伴伙伴」吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677669&idx=2&sn=05f12fb1c915c4ac14e5f3b7edcec1ca&chksm=9fc81fa1a8bf96b7760fa3c6f238de30776e1a5bc5482ff6f98582b4a37352008e863bcc6bcc#rd)
+    - 时间：2022-02-02
+    - 摘要：很高兴遇见你。
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677669&idx=3&sn=167fa334e9c376b67d8517c7d9cf5eb6&chksm=9fc81fa1a8bf96b75637814afbcfb157e8a52991a0b5a67f2ba81250be9826dfed937673e5c7#rd)
+    - 时间：2022-02-02
+    - 摘要：马克，总能用到！
+- [静不下心、难以专注、每天都在焦虑，内卷之下我们如何找回内心的安宁？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677669&idx=4&sn=1366e46a80d3eda4dca34a204bfd6613&chksm=9fc81fa1a8bf96b76db336240811925b26a95e9579443f84b6a90fea614785d59f3443922ffb#rd)
+    - 时间：2022-02-02
+    - 摘要：心理咨询精英入门课程+配套实践
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677669&idx=5&sn=cf3b33b1306d10d3cf36e285614cbb0a&chksm=9fc81fa1a8bf96b7f3cc9ed531ffe216e8055280363625f3443dc723fb99150b871062e44f76#rd)
+    - 时间：2022-02-02
+    - 摘要：
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677665&idx=3&sn=f45f51e0ca37919108b1e8ba44adfe08&chksm=9fc81fa5a8bf96b353c83449aceadaa975c22f0a236d174d04ba21bfb423b52aefe782ee90c0#rd)
+    - 时间：2022-02-01
+    - 摘要：
+- [KY心理电台第一弹丨单身的我依然想尝尝爱情的苦 #看破也说破](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677665&idx=4&sn=cd13e170ea8f7dbbd0059e9bb65f6553&chksm=9fc81fa5a8bf96b3e52a5a1ed5663b65da3c16cbeadb159ee30ac87e25c0e68eac8a5f09abc5#rd)
+    - 时间：2022-02-01
+    - 摘要：单身真的快乐吗？听KYers怎么说~
+- [为什么有人会认为，处在婚恋中的人比单身人士“高人一等”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677647&idx=1&sn=0d5560a1eab42eb6f63102e5b33acd26&chksm=9fc81f8ba8bf969dc8ae9017598e22f8aa191b2312e76555c37d01077dac6627661c810fe35f#rd)
+    - 时间：2022-01-29
+    - 摘要：今年春节你遭受“单身歧视”了吗？
+- [找一个人陪伴独自过年的你丨春节假日陪伴计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677647&idx=2&sn=21ff1231e096d94e3d6e93ea88fa4277&chksm=9fc81f8ba8bf969dc4ccda2fb3cf147b23ad56b7f48fccfba0b35fe4af9672de47840738a729#rd)
+    - 时间：2022-01-29
+    - 摘要：新年快乐。
+- [爱的人在哭泣，我却只会说“别哭了” ｜如何成为一个有“疗愈力”的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677647&idx=3&sn=4df65ce170775d7ac53c4d168cebdc3e&chksm=9fc81f8ba8bf969d4bb93677101449d3293d9c2a292ce263032ad0636e330c45eac6ecd6bf21#rd)
+    - 时间：2022-01-29
+    - 摘要：心理咨询精英入门课程+配套实践
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677647&idx=6&sn=59fe02102e45c34e84d22d6b723751ef&chksm=9fc81f8ba8bf969d5d14d5e150901d4e092317dbbc01ec481ed2b1a1ca41b262db7d90a95136#rd)
+    - 时间：2022-01-29
+    - 摘要：或许是全网最全。
+- [“我好像有毒” 为什么每段感情都会毁在我自己手上？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677532&idx=1&sn=d8c97c561b3cfe3319c8065da97d684c&chksm=9fc81f18a8bf960e74f9462218678e5a39a3d790f8c0316a78a6bafedceb195dc6d5555315aa#rd)
+    - 时间：2022-01-28
+    - 摘要：不要做爱情里的裁判官，亲手切断你们的未来
+- [升级版大五人格测试来了！丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677532&idx=2&sn=3086f39079cc19f37c6c14a116dfe9d0&chksm=9fc81f18a8bf960ec4b42d113a82d4ad9333e8a631fe52e67da66d4bea328b6f445a95e68aca#rd)
+    - 时间：2022-01-28
+    - 摘要：帮你了解自己人格的优劣势
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677532&idx=3&sn=23b3bfa460a0898f96dfe6144b338449&chksm=9fc81f18a8bf960e7d85f3b4b611b486e96121533511bf8b0ca5a1b4b063e5ddbc91857f666c#rd)
+    - 时间：2022-01-28
+    - 摘要：
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677532&idx=4&sn=173d8eb4576129353950376803f1c4c8&chksm=9fc81f18a8bf960ecb086c2de527174349aa0a076870f2900daff1c2730cd560f2599631f12d#rd)
+    - 时间：2022-01-28
+    - 摘要：这些小tips不要错过～
+- [成年人必备的43种心理能力，你有几种？丨人生必修课限量85折送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247677532&idx=5&sn=4b43a3b8b3678b37768c16453458ef69&chksm=9fc81f18a8bf960ed0e9e3ab5439238ba446eb9087df9d71b09f27dcca539e0bd6c18c6cb9db#rd)
+    - 时间：2022-01-28
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [35岁的生活，会比25岁更好吗？我们找了一些35岁+的粉丝聊了聊。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247676836&idx=1&sn=5e1060ec05447897c7ea16eb26e26cfd&chksm=9fc81ae0a8bf93f6ae37488c35efb7288bb3bf7df7d9d6ebfed9f7eed8eec9ea1161dd9a61d8#rd)
+    - 时间：2022-01-27
+    - 摘要：会比25岁更好吗？
+- [KY创始人小姐姐又来直播间啦丨除夕、大年初四两场直播，为你答疑解惑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247676836&idx=2&sn=ef46a45fc2730c0e7e1a0ce1a6547835&chksm=9fc81ae0a8bf93f611ca6db5979495e455e0ccfa9a01d21d23ae6df93a09b5e81f458d608524#rd)
+    - 时间：2022-01-27
+    - 摘要：文内预约直播，将你的困惑告诉小姐姐吧～
+- [分手后还想着前任，如何判断能不能复合？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247676836&idx=4&sn=8f73230e8f80d1b1480ab4b5a1eecd2b&chksm=9fc81ae0a8bf93f6bd56565c0e565a8f61886ae200579c6d08df06070e3dd94608bfbfe47735#rd)
+    - 时间：2022-01-27
+    - 摘要：
+- [午休时间太短？可以平替小睡的快速放松方法来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247676836&idx=5&sn=5299513dbdf39aae3389571d65923df2&chksm=9fc81ae0a8bf93f633e624522c2888cdcae7a267f9af4d30043018a7f9f783686abbecf6bc10#rd)
+    - 时间：2022-01-27
+    - 摘要：争分夺秒的午休时间，办公桌太硬，椅子不够舒服，是不是总找不到一个可以好好休息的方法？
+- [这件春节每家都会做的事，你一定不理解它真正的意义。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247675096&idx=1&sn=4d5066fded73c2d572fbcd09ff282ce4&chksm=9fc8059ca8bf8c8a05b9b9cac6ac2efb157aa9204cceef534cb1c502f3b944604f9c22e502e5#rd)
+    - 时间：2022-01-25
+    - 摘要：这是一种“精神力”的传递
+- [从萌芽学员，到KY聊愈师，到KY全职员工，我经历了什么](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247675096&idx=2&sn=5f376368d5a52b3b27b11f01a079d2d2&chksm=9fc8059ca8bf8c8ad23b32206f643a05d16c8d87151cf679f1cb6e3e0b367ba038d438dd4da0#rd)
+    - 时间：2022-01-25
+    - 摘要：心理咨询精英入门课程+配套实践
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247675096&idx=3&sn=b728f2bfd4626f576bd86d03ff97f2ba&chksm=9fc8059ca8bf8c8a7ad36486c12ec76685cc1420b3c8c9bb562eb988b84785e64f68774f7fa9#rd)
+    - 时间：2022-01-25
+    - 摘要：马克，总能用到！
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247675096&idx=5&sn=598e2da32438f48d04db8bb05c6851cf&chksm=9fc8059ca8bf8c8a60cc1711a7b8e566dba9deb0b63b07376a1719b4d93a3dd23bd37b124e8f#rd)
+    - 时间：2022-01-25
+    - 摘要：
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247675096&idx=6&sn=0279334334357715a9085f1b407b2a19&chksm=9fc8059ca8bf8c8ab24fc39e421953b85d42a0b66f27504dedb88e71a5f68ae172141cb0d6b5#rd)
+    - 时间：2022-01-25
+    - 摘要：专业心理困惑答疑
+- [每天10分钟，开启新年自我探索与成长 | 限量85折，来听KY人生必修100堂课啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247675096&idx=7&sn=df8c3d24e71d68f2c99bfdddf90599f7&chksm=9fc8059ca8bf8c8a996fff0adfe3aa26734b634297ab0de6b937043280535ed35e98fbb8ea53#rd)
+    - 时间：2022-01-25
+    - 摘要：想提升心理能力，但没时间看文章，来听简单易懂的音频课吧~
+- [间歇性厌恶伴侣：是不爱了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247674334&idx=1&sn=767a4956169f051a98ed2ed9960c30be&chksm=9fc8009aa8bf898c5a7ae89a4120ad5a35798140a2e8b712abf00c377f728dcc3654f0c070c6#rd)
+    - 时间：2022-01-24
+    - 摘要：来看看研究怎么说
+- [拒绝内耗的心理小技巧：为你的内心搭建「安全岛」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247674334&idx=3&sn=b5aaabab479d9ebcad8a2140d842791b&chksm=9fc8009aa8bf898cde2d1d312f759345b2ee3638914ce9e078c41274b58631ebf0c2ce1a5da4#rd)
+    - 时间：2022-01-24
+    - 摘要：试试给自己构建一个内心的安全岛吧。
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247674334&idx=6&sn=de5b6c02ae68fddd975a42054a9df2be&chksm=9fc8009aa8bf898c57ad7af29d17c36e2de48e5552b9f4a87a113af4c0b27ee08d40c9b46143#rd)
+    - 时间：2022-01-24
+    - 摘要：
+- [“爱很艰难，他人也许正是你的地狱。”成年后，每个人都孤独。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673727&idx=1&sn=64a2112be945167011d37b244c93d3b3&chksm=9fc80e3ba8bf872d8584eabd558b490aaaaf5655ea0a28f55e3da9e1035accabd0a4c8baa6d5#rd)
+    - 时间：2022-01-23
+    - 摘要：孤独可能来源于这4种社交需求的不匹配
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673727&idx=2&sn=eb0a09cfa098201bafd239fb8dc4bc48&chksm=9fc80e3ba8bf872d22cd37df841e13418b5bfe23ec998bb7aab7551c83a95cab635a948ea8f2#rd)
+    - 时间：2022-01-23
+    - 摘要：马克，总能用到！
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673727&idx=3&sn=09e515bfa822a10d65167a465f441653&chksm=9fc80e3ba8bf872d8ade4a1ffe48a097f44bd4be48c98dd31f77fcdd7a66b84ab049f0e2bd55#rd)
+    - 时间：2022-01-23
+    - 摘要：
+- [“过去的伤痕无法定义今天的我。”丨心理学如何改变生活](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673727&idx=4&sn=89d94efac64bf0648ee34f1b29068ef7&chksm=9fc80e3ba8bf872dc6c537d9abed07bba8dbcdec0f9e5c75e01244754931f0d56cc80ac6497c#rd)
+    - 时间：2022-01-23
+    - 摘要：心理咨询精英入门课程+配套实践
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673727&idx=5&sn=b0566c79cdb69819813dad7400e4dc3f&chksm=9fc80e3ba8bf872d3bd4ecb517969bad843a67f647b8c0139b6621e73686fe4f476f32ea2932#rd)
+    - 时间：2022-01-23
+    - 摘要：专业心理困惑答疑
+- [你在亲密关系中学会了什么？｜TA们在月食社区，探讨关于爱的100种可能](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673727&idx=6&sn=79d887a134af8677a9e54058bb81db85&chksm=9fc80e3ba8bf872d73f43a34207659fc502ace23634146c4ea2069078d11dd95fbed3abdac53#rd)
+    - 时间：2022-01-23
+    - 摘要：爱是永恒的话题，我想和你好好聊聊
+- [请收下新年心理学通关秘籍——KY人生必修100堂课丨限量优惠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673727&idx=7&sn=277cc667867304a06c8c98d660caaeb0&chksm=9fc80e3ba8bf872d3dcfdf9b7c4bdb1691ddf290e427e4a0258a1d98b559d5c2d360b4c74926#rd)
+    - 时间：2022-01-23
+    - 摘要：成年人如何自我探索，实现人生目标，从KY人生必修课中找答案吧～
+- [“我很上头，ta却很慢热。” 解决「感情节奏不一致」的5个tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673673&idx=1&sn=058a68e9c33cde1268bb271d1dcbb4a5&chksm=9fc80e0da8bf871b78daa4e06b3779219a9921da64df80d49c9462dcf995c83c97c75a47a5fa#rd)
+    - 时间：2022-01-22
+    - 摘要：我们咨询了3位专业心理咨询师的意见
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673673&idx=3&sn=07cd2678612f5a86d4cec7ddebdc0774&chksm=9fc80e0da8bf871b8f4aa3a2f14d5df7fe3084304bc428a9bddc269efff9216e5eb73d0d71fd#rd)
+    - 时间：2022-01-22
+    - 摘要：我想陪你，从入睡到黎明。
+- [学心理到底能给生活带来哪些改变？如果你对「心理培训」有兴趣，这次直播不能错过](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673673&idx=4&sn=ab92253ee6f2f4471f64f90647679dc6&chksm=9fc80e0da8bf871b62f8db459323b83c9bcde2f8420a731dbd8711e35cad84f6a487bc07d0d2#rd)
+    - 时间：2022-01-22
+    - 摘要：直播聊聊：心理学改变我的那些瞬间
+- [心理学小游戏，一起打卡让生活变得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673673&idx=5&sn=57e852ffa93db27b80ea3626d2b84606&chksm=9fc80e0da8bf871bc44d98caeb0d7f3bf1a1bf35e400856eba47e380cb518437534e771183ff#rd)
+    - 时间：2022-01-22
+    - 摘要：这些小tips不要错过～
+- [新年新气象，2022遇见全新的自己丨KY人生必修100堂课来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247673673&idx=6&sn=79fe45eeb787425ac7d88848c6f04b1c&chksm=9fc80e0da8bf871b0b9175784e3be0c9bb712f13b8f9db45aa88d3e33531e263828457e53d8f#rd)
+    - 时间：2022-01-22
+    - 摘要：成为更好的自己，从学习KY的人生必修课开始～
+- [真正的爱自己，一定要做到这7条小tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672976&idx=1&sn=195d042736452381d4f98c72fa5e8b8a&chksm=9fc80dd4a8bf84c2d6f451f236b403b17e8d45b206e573f61220497450f51bce0e77c6608d83#rd)
+    - 时间：2022-01-21
+    - 摘要：超实用
+- [成为心理学工作者，可以是你为自己选择的一份副业 丨 萌芽11期早鸟价，课程升级不涨价](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672976&idx=2&sn=146f6ab959b0a143247a57cd3d1523c6&chksm=9fc80dd4a8bf84c28a95607a1c634411fbe38a41e634eb632f5af0a65a602dab121952d032f0#rd)
+    - 时间：2022-01-21
+    - 摘要：心理咨询精英入门课程+配套实践
+- [冥想入门难？身心压力大？好评不断的冥想封闭课又招生了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672976&idx=3&sn=18a6958140296b8c7d4202641c3bf685&chksm=9fc80dd4a8bf84c21a106b9b1b47631e6efc6d02d130f3572dbf721f94ea48107ff5d8f0fb90#rd)
+    - 时间：2022-01-21
+    - 摘要：双周课表新鲜奉上！来城市洞穴，带你一起放松、觉察、成长。
+- [马上、立刻、现在就开心起来的技巧，你知道吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672976&idx=4&sn=95462464e29b40f585ebdcba9f29f33b&chksm=9fc80dd4a8bf84c2bc1ecfea42bd3eedd80cfc0e239157a9672438fc64279d6d6cf502471c2d#rd)
+    - 时间：2022-01-21
+    - 摘要：
+- [先低头的人就容易不被珍惜吗？爱情里的输赢要如何处理？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672976&idx=5&sn=b3b29b6f3b9fc2f687364527b9ecc418&chksm=9fc80dd4a8bf84c239177b85abe3e760a513506af8e3ae489554f1254045c40ba82b862a16c0#rd)
+    - 时间：2022-01-21
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672976&idx=6&sn=744e0b968768af03da3f326d91fde365&chksm=9fc80dd4a8bf84c252a6bfd7781efe224017c9045963d883d3a4385429c2741afe4fd9217383#rd)
+    - 时间：2022-01-21
+    - 摘要：欢迎来到白日梦世界。
+- [如果你和你对象这一点不一样，再甜可能也很难修成正果……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672132&idx=1&sn=617cb430b6607d3dbbf9e7f2fbff8b33&chksm=9fc80800a8bf8116ea0b96cea9d6b65e9aa4dc71d155db9e516c750ca5aec73b56be409f1778#rd)
+    - 时间：2022-01-20
+    - 摘要：我想结婚了，ta说“还早”
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672132&idx=2&sn=bcaa3c87b9d52f48be8b5516b9df0aad&chksm=9fc80800a8bf8116e859bad2e775559dd0363f4e34aca81c970dbddfedc118fc37c43a7135ed#rd)
+    - 时间：2022-01-20
+    - 摘要：我想陪你，从入睡到黎明。
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672132&idx=3&sn=95f2290d4862f2f539ff98a9ddc956af&chksm=9fc80800a8bf8116cfd21a6b60a78e4d2ae86dd56f367e357b66a99c996aba0e8c990d58b0db#rd)
+    - 时间：2022-01-20
+    - 摘要：
+- [强烈的情绪是了解自己最好的契机丨KY小姐姐直播精彩回顾](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672132&idx=4&sn=5f29c05bf47c0dd76bc409e8764e8180&chksm=9fc80800a8bf8116c5beb789348649fc2865588292ef1181460f62df6abac755ea4daaa4c720#rd)
+    - 时间：2022-01-20
+    - 摘要：
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672132&idx=5&sn=174bdaa87604edaf3df49769a591b7af&chksm=9fc80800a8bf8116de1e2854c610428c91c309602dc4cda499fd861f10424b4a44e82064adec#rd)
+    - 时间：2022-01-20
+    - 摘要：专业心理困惑答疑
+- [碎片时间如何高效利用？不如来听KY人生必修课吧！丨限量优惠送笔记本](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247672132&idx=6&sn=18f72cb22b8d3e097a71b6c44ee6310c&chksm=9fc80800a8bf8116744b14b3b70dd698de962183f412aa1493c194d540447b27ac4591fa72ec#rd)
+    - 时间：2022-01-20
+    - 摘要：想提升心理能力，但没时间看文章，来听简单易懂的音频课吧~
+- [要，或者不要孩子的30个理由](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247671387&idx=1&sn=2dc7e3b7e708fcd6446d422b923ae1d9&chksm=9fc8771fa8bffe09dcb7b82cf370688fd05fce17c7ad5e1948f9e5ad7ebbb0beb71457e2f777#rd)
+    - 时间：2022-01-19
+    - 摘要：缓解你的生育焦虑
+- [在关系中，我们为什么不愿意谈论自己真实的感受丨什么是情绪流动性？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247671387&idx=5&sn=7339b6fbb3c83a1aabe62f715e0b4702&chksm=9fc8771fa8bffe09d8a62de9b27e1542b49bb28854b1ad832f202ff8806393c048d259fcee8f#rd)
+    - 时间：2022-01-19
+    - 摘要：心理咨询精英入门课程+配套实践
+- [怎么才能度过爱情的磨合期，长久的走下去？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247671387&idx=6&sn=d73f0a75e7966379d9d557d892602704&chksm=9fc8771fa8bffe0962f4352f4afaa27e5b82e93f1afb0bc3bdcd016f2de672d907de47df46de#rd)
+    - 时间：2022-01-19
+    - 摘要：
+- [喜欢自己，只想跟自己啪啪啪？这种性取向，你一定没听说过……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247671181&idx=1&sn=2487c57c5dfe1ef4f2160ccc3cfde872&chksm=9fc874c9a8bffddf96874e823680d36164411714acc092974340fc794a2d6e7ce5063dee1f1d#rd)
+    - 时间：2022-01-18
+    - 摘要：爱上自己，还可以有这种打开方式？！
+- [如果你不相信“第六感”，那这篇文章你就不用看了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247671181&idx=2&sn=b2363019e28fa36afed638ec7f3be49c&chksm=9fc874c9a8bffddf8337a8571f32ddff821a02919036a19b57529f9619a0510acaf6c616d3aa#rd)
+    - 时间：2022-01-18
+    - 摘要：一篇关于“直觉”的专业探讨
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247671181&idx=3&sn=bb6e9be160c79558f0747bf7b6f72bec&chksm=9fc874c9a8bffddfa1884cec39633e8a01c1eef56babc3518f3b81fcbde040f33380aa8b47ed#rd)
+    - 时间：2022-01-18
+    - 摘要：或许是全网最全。
+- [春节特约讲座：心理咨询师为你讲解「什么是健康的家庭相处模式」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247671181&idx=5&sn=254e9dcd279b3837a7a392e409cb1ee5&chksm=9fc874c9a8bffddf763046a7a747fc5a1c75529633cc82b20c971da57c3cedd419fffb32adda#rd)
+    - 时间：2022-01-18
+    - 摘要：明日直播，文内预约不错过
+- [道格汪的“拦路虎”竟是它！丨 月食物语第十三话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247671181&idx=6&sn=149fd90d0162406d6a1fe21ae97a5be4&chksm=9fc874c9a8bffddf2f73d2bc6f285471cc997f975c5efdb2b89a40825aa1c38dacd38a183bc3#rd)
+    - 时间：2022-01-18
+    - 摘要：
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247670987&idx=3&sn=6c6fd85203de6a9fefc2140db3bd17c2&chksm=9fc8758fa8bffc9927114eeb1569b196b13e8fd3ba8c37f1be1a98fff26105b185fb03fa597c#rd)
+    - 时间：2022-01-17
+    - 摘要：
+- [选择伴侣必须避免的10个错误](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669887&idx=1&sn=048f1c055ca803d2f6c5c7fd2b6b4325&chksm=9fc8713ba8bff82d7662f62b3e43ba6ac15d218fa92e607d09fccaa85d814154667c4ba9f6c1#rd)
+    - 时间：2022-01-16
+    - 摘要：一篇写于2015年的旧文新赏
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669887&idx=3&sn=890b160ca08f97c03fba23f68dfe47f2&chksm=9fc8713ba8bff82dd8a6de14e581964fa7dd602f74de32a0198c21058fa6001dd7da232ac76c#rd)
+    - 时间：2022-01-16
+    - 摘要：让真实的连接发生。
+- [总会因为一点很小的事情，吵得停不下来，要分手吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669887&idx=4&sn=d4b5dd4a82f3154ac0b50df0818d5aa0&chksm=9fc8713ba8bff82ddfc6367e0e0ad2066f988a25325062a971cd460b0708accacade7996357d#rd)
+    - 时间：2022-01-16
+    - 摘要：
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669887&idx=5&sn=1339e2db0d6a712306fe0bdc4e78a4de&chksm=9fc8713ba8bff82d707bc5ee15f5c5751e6590354ab975e7a794cb6138e68c31f34626912303#rd)
+    - 时间：2022-01-16
+    - 摘要：想做那个听你说出心声的人。
+- [有一种朋友令人窒息……你经历过这样的友情吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669707&idx=1&sn=9ffebaa9d37fde13be9fc35010714174&chksm=9fc87e8fa8bff7999927c465152472f4478cbde13bbaafb022e3a31bdd06d88503ed4fd18f04#rd)
+    - 时间：2022-01-15
+    - 摘要：一场成年人友情中操纵与愤怒的游戏
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669707&idx=2&sn=57f81d0a0816112cc54894595102e503&chksm=9fc87e8fa8bff799bd345e2bd2ee5acb666124926c3bb17c56ac8b796b4181591a57174dab1e#rd)
+    - 时间：2022-01-15
+    - 摘要：想做那个听你说出心声的人。
+- [年后跳槽，你找准自己的职业兴趣了吗？丨 KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669707&idx=3&sn=2bf7d31b6e2b40b69baca6e0d7644f4d&chksm=9fc87e8fa8bff799bcebbbe18aeea5b1de2ac51c157d3a3bd5d7285b586335d866abc3ba9031#rd)
+    - 时间：2022-01-15
+    - 摘要：你的职业兴趣和优势是什么？
+- [你是真的独立，还是“不敢依赖”？丨 来听讲座：专业心理咨询师解读关系中的「独立」与「依赖」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669707&idx=4&sn=6fcd54810f54c32b3f09e57ed9604330&chksm=9fc87e8fa8bff7995a0e6c018841f660c619f6dfb7c3c35ba9d66b447adf8341366de70aa7c8#rd)
+    - 时间：2022-01-15
+    - 摘要：明日直播，文内预约不错过
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669686&idx=5&sn=9b4db347ef0de795d3ff43c2e3fc27c8&chksm=9fc87ef2a8bff7e467dc564c3fb9642ebb144fd327de3e24cffa9cce528be24cbd4f3c3c62d4#rd)
+    - 时间：2022-01-14
+    - 摘要：
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247669686&idx=6&sn=6d1a6d7faf700fd74d83c4216b34f4ac&chksm=9fc87ef2a8bff7e411da6265319a1c6f95332cd8f52ff2daea9b2e36dda85a7b2c4c7bb10cca#rd)
+    - 时间：2022-01-14
+    - 摘要：或许是全网最全。
+- [解读《单身即地狱》：学会这5招，你能比宋姐更会撩！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247668617&idx=1&sn=427d33646253363bb684d7a59acced4d&chksm=9fc87acda8bff3dbc7cd9ad906f8c9aceb7a6995a9ed960319e57886329aea1f62fa3db03c21#rd)
+    - 时间：2022-01-13
+    - 摘要：读完这篇稿，你也能上天堂岛！
+- [学会这4个技巧，轻松应对焦虑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247668617&idx=5&sn=9c40d6f23d678e6f21ee5fdd5375a843&chksm=9fc87acda8bff3db13f9f9728cdcf5f317f3bd4bf754809efb404280e16598a9e08db319e018#rd)
+    - 时间：2022-01-13
+    - 摘要：
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247668617&idx=6&sn=d8f2e21d40243d3253da5b23520a5396&chksm=9fc87acda8bff3db43ed4a210c1851044029dee6edefda2567ede10afbfe6ce522b265e482bf#rd)
+    - 时间：2022-01-13
+    - 摘要：专业心理困惑答疑
+- [那些想过自杀的人，后来过得怎么样？来听这12个关于“幸存”的小故事。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247668437&idx=1&sn=a1c686a6b65482c3397e5676ee7fe01a&chksm=9fc87b91a8bff287b88f4c96ed30a4cfaffdd0057ae1b52a4582337c380d10a91224ca7b8198#rd)
+    - 时间：2022-01-12
+    - 摘要：“杀不死我的终将使我强大”
+- [如何变成一个擅长交朋友的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247668437&idx=3&sn=9d424301534fbf5b6b157a273e7fbe9e&chksm=9fc87b91a8bff28747f36551999246f552555d3c1e0b7f269e7c8ba651a89bf7a0987ba2d222#rd)
+    - 时间：2022-01-12
+    - 摘要：
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247668437&idx=5&sn=d1077290172fd5537f7f8debc02c089c&chksm=9fc87b91a8bff287b42f9aede6de30250058942b08e105fc8998ac364b5296fdd70a47d5ca78#rd)
+    - 时间：2022-01-12
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247668437&idx=6&sn=9cf363a47e3d2df41ccf24a35e201b6c&chksm=9fc87b91a8bff28731eefefe7335d2a6c915e50cfcc24b2068d13dbf9b08a3f369107adf4193#rd)
+    - 时间：2022-01-12
+    - 摘要：欢迎来到白日梦世界。
+- [“晚点结婚。” 我们请30+的女生分享了她们想对20+说的25句话。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667839&idx=1&sn=352aff9257459cd0052b4a93cd1b260e&chksm=9fc8793ba8bff02db05fc3e08fbbcbaf07ee29435659e3a2f8a206f04ee0e3386f9209ef4588#rd)
+    - 时间：2022-01-11
+    - 摘要：一场跨时空对话，有没有一句刚好属于你
+- [2022了,「想成为心理咨询师」的心愿不要再拖延了！丨萌芽11期即将招生，课程升级不涨价](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667839&idx=2&sn=b5af1a42aed6034aa9651890f7e1b229&chksm=9fc8793ba8bff02d166be1a79a6c41d4dc6141356e8f0b2c672182da80642178089d72653480#rd)
+    - 时间：2022-01-11
+    - 摘要：2022，给想成为心理咨询师的你
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667839&idx=3&sn=950f0befe8ac0940a2e8ae6f8fdba0ba&chksm=9fc8793ba8bff02d7045e7ac44fe32fa0fba5885453513270130ef38f40614766244866296ba#rd)
+    - 时间：2022-01-11
+    - 摘要：马克，总能用到！
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667839&idx=4&sn=318113958b10986e142dca85e5be2e3a&chksm=9fc8793ba8bff02d87af1cb7bb4650cf903c0835c8637702ac3d74e4acbd7e8d67634d8ab8bb#rd)
+    - 时间：2022-01-11
+    - 摘要：
+- [3个技巧带你快速排解负面情绪丨免费获取情绪自助工具](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667839&idx=5&sn=84808fb2e5658315db120a7578028526&chksm=9fc8793ba8bff02de46324c40e7109912d5f771ac490047ce318417fce7b914f60d65f1e3972#rd)
+    - 时间：2022-01-11
+    - 摘要：
+- [比“异地恋”更珍贵的，是“异地友谊”。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667354&idx=1&sn=360e54b55fcbbc547aaf082433478ca6&chksm=9fc867dea8bfeec843f3f6f0b175efb920c1098105c2ba21fa164fccb24c2619e02fee084c67#rd)
+    - 时间：2022-01-09
+    - 摘要：成年后没走散的朋友，都做到了以下几点
+- [谁是你的理想型女友？丨KY免费恋爱测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667354&idx=2&sn=61b28f86eac213464e5b16ca3537b764&chksm=9fc867dea8bfeec84add48ccc9d8b68d80e9f66f2ac911efcca2629cc4adda949c6e25109e33#rd)
+    - 时间：2022-01-09
+    - 摘要：春节快要来了，你还是一个人回家过年？
+- [年度放弃清单：2021年她们放弃了曾以为很重要的这22件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667267&idx=1&sn=db9fcfb54020aec54fbc42bdc06b0e75&chksm=9fc86707a8bfee11faf64ab384c347c17d5b7391a5f3a97ea0bd77f986a7ef76bfbc5bf9cab3#rd)
+    - 时间：2022-01-08
+    - 摘要：学会放弃和学会坚持一样重要。不，甚至更重要。
+- [怎么吵架，才能让感情「越吵越好」？来直播间和KY聊愈师聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667267&idx=3&sn=a664a48b746c956d689dc23fad9715cb&chksm=9fc86707a8bfee110012ea80379528cb0b5735e9f65785974d042147217efc53b46f53d09521#rd)
+    - 时间：2022-01-08
+    - 摘要：明日直播，预约不错过
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667267&idx=4&sn=7f1acb90493c7b8d5d39ff10fbca42bd&chksm=9fc86707a8bfee11a720e2d41a4b1f3d837e811b4ab9cb44238156e9c33ffb9732279ada7ba6#rd)
+    - 时间：2022-01-08
+    - 摘要：或许是全网最全。
+- [愉悦感在生活中的6个来源，有两个你一定不知道](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667084&idx=1&sn=2f9659db21e0f86ab9a3ca780e94fa3d&chksm=9fc864c8a8bfeddea7756b8ab7ba8473a59c8e1dd1add003a773db7f90dcddbeeeb8a953410b#rd)
+    - 时间：2022-01-07
+    - 摘要：学会这一期，走出emo不是梦
+- [从掌握情绪开始，掌握自我和生活 丨来「情绪」心理组合课深度学习与情绪相处](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667084&idx=3&sn=252a005d846c76c262c65fbc65fdc515&chksm=9fc864c8a8bfedde8becd41c38e908bd66ddc6d5048ed8370a08f895a374ae88d37c8a23480e#rd)
+    - 时间：2022-01-07
+    - 摘要：城市修行未来两周课表新鲜奉上！
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247667084&idx=4&sn=48e5711ab1dba474bb63265dcdbc768a&chksm=9fc864c8a8bfedde2618e150d4652582586fca45ec96d67183f142d71d9490b01e29ef40006e#rd)
+    - 时间：2022-01-07
+    - 摘要：马克，总能用到！
+- [这个充满压力的时代，这9条经验帮你活出内心的安定。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247666867&idx=1&sn=cdc6eae9cac1d8bc723d03d6b3458b3c&chksm=9fc865f7a8bfece1c9f5a4f096ace173dec918194a1598406013bde6c8fa159e1d9be8f69f27#rd)
+    - 时间：2022-01-06
+    - 摘要：新年想换一种“低压力”的活法？来听这3位过来人的经验。
+- [为什么有的人就是招人喜欢？丨KY「心理百科」为你揭晓“好人缘”的秘密](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247666867&idx=3&sn=31783398748c310ed9242b0e8ca8c629&chksm=9fc865f7a8bfece1d6388300de4a6022f8ab96de92212656fc3bc71e57dc355a46eca36ff531#rd)
+    - 时间：2022-01-06
+    - 摘要：
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247666867&idx=4&sn=8e9ae32e7023cb7023a3495478a522d5&chksm=9fc865f7a8bfece140e6f5e1dfd8ed7a6b895be21aa331c6de903730a70c53619fa9ccb7f13e#rd)
+    - 时间：2022-01-06
+    - 摘要：专业心理困惑答疑
+- [在“聊骚”盛行的时代，还会做这件事的人你一定要珍惜](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247666659&idx=1&sn=233d0cafd7b08b22d4d3dd3abcc06c0f&chksm=9fc862a7a8bfebb12fc4a65271cf33e357bb86f2b5d59d7d6da378c28fdafda214456c112b0c#rd)
+    - 时间：2022-01-05
+    - 摘要：为什么现在的男生越来越少认真表白了？
+- [从“规划人生”的视角看职业规划：来新年直播间跟心理咨询师聊聊你的困惑吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247666659&idx=3&sn=e55d3cdd1ddd2cf338fcbc599890e42c&chksm=9fc862a7a8bfebb109f2e2204dc50b76d18fc6221ef03c6dadc63d9a151043f23dbf052524bd#rd)
+    - 时间：2022-01-05
+    - 摘要：心理咨询师在线和你聊聊「职业与人生选择」
+- [有智慧的人在这7件小事上会有异于常人的表现… ｜年度15个心理学研究盘点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247666549&idx=1&sn=eae1ded6ca9bdeb7cffc04af0f796813&chksm=9fc86231a8bfeb27bdff1236c3fcb27fbe3edbf613dac3bc910f8a30e9e286ddf56e4e6656a9#rd)
+    - 时间：2022-01-04
+    - 摘要：15个「能帮你的生活过得更好」的心理学研究
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247666549&idx=3&sn=75b9d3d23b3dde7f78274b48ae032606&chksm=9fc86231a8bfeb2758788afb31afda3d2cb557d29faf5c26cc7ea4deae5cf35d0f4f1aaf220b#rd)
+    - 时间：2022-01-04
+    - 摘要：或许是全网最全。
+- [帮你判断「自己是否走在正确的人生路上」的10条小tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247665427&idx=1&sn=db334558922b1cf172be14b142092ea9&chksm=9fc86e57a8bfe7414bdf19a1ec49eeeee9de56f3591f29f9d1c6c092ceadcd5d7b320e627b83#rd)
+    - 时间：2022-01-03
+    - 摘要：2022年初，回头梳理一下走过的路
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247665427&idx=2&sn=4990b45b0f09cbe9b0f61a06c7359a1a&chksm=9fc86e57a8bfe74197b452bf33770a8a830af8041e17377c3d7e33e8e88454c74a3e179f1c7f#rd)
+    - 时间：2022-01-03
+    - 摘要：
+- [这个世界还是很可爱的，因为有这14件能照亮心灵的小事。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247665260&idx=1&sn=b46dabdd4c61b742466ecaf18218c894&chksm=9fc86f28a8bfe63e44fa25d2c04c3845a321a593eef3227aac39209f469d79865b0d8be1cd6f#rd)
+    - 时间：2022-01-02
+    - 摘要：来看看有没有一件也属于你？
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247665260&idx=3&sn=4e618a32d3b0cd9fe01941951828e80e&chksm=9fc86f28a8bfe63ea39fec3b383edd7f903e957e3bc5e96aebdbd91e600dd028acf08a266306#rd)
+    - 时间：2022-01-02
+    - 摘要：让真实的连接发生。
+- [“拧开肥宅快乐水，气泡冒出来的滋滋声。”丨KY粉丝留言：2021年最让你温暖的声音是什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247664548&idx=1&sn=a30d9ee5b7eaa49ae54102aaa8433e55&chksm=9fc86ae0a8bfe3f6157f0935d21ad5c59b48b54da3d8eb52862f1aa1a580d53f95d4158e5117#rd)
+    - 时间：2022-01-01
+    - 摘要：这是一篇看了又会哭又会笑的推送。
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247664548&idx=4&sn=2b6878158ef8e9ad86139f1ff68a0ff4&chksm=9fc86ae0a8bfe3f63565199353a75f212383e9bab6283dc17f35957c8ad716368a90690c7ec3#rd)
+    - 时间：2022-01-01
+    - 摘要：
+- [豆瓣9.3分《国王排名》大热，其实每个人都应该活得“波吉”一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247663691&idx=1&sn=76ca4c45183ea0f9dcb21278ab68382a&chksm=9fc8690fa8bfe019200abf9f53aa5fa0b595cd7264de865354eb06e27398ee6514cdffd45329#rd)
+    - 时间：2021-12-30
+    - 摘要：无常世界，温柔无价
+- [关于“好的亲密关系”的终极回答。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247663427&idx=1&sn=7f9ebce5b94eecee9b40857eff34a73e&chksm=9fc85607a8bfdf11c289afbbc40fbb3127f20c4d855e16d56ba7b393d0df9b324ff48b2c0680#rd)
+    - 时间：2021-12-29
+    - 摘要：其实“喜欢”“爱”这样的概念，有时是无效的。
+- [常感到空虚、迷茫？你可能缺失了自我的“本真性”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247663427&idx=2&sn=1bdc418d92fa65b58d524d034ae41786&chksm=9fc85607a8bfdf11578253765b4261b18e17bd3c82bf799d90afe2b3dbdf2550c37f58698ab0#rd)
+    - 时间：2021-12-29
+    - 摘要：永远不要忘记，拥抱自我的本真
+- [KY创始人小姐姐直播“回放”来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247663427&idx=3&sn=0ef8c484019571eb768882aa3d8dcec9&chksm=9fc85607a8bfdf11b2cba94213db783c8140ebae50a8a83bc7a436f7e657497c08da83a54bed#rd)
+    - 时间：2021-12-29
+    - 摘要：
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247663427&idx=4&sn=acad181342c6945d7cd1dd35c3c45d1c&chksm=9fc85607a8bfdf1164f4715646be1fdf87cbfce3cb26a5c099a6b445c35e032d98a544d5de99#rd)
+    - 时间：2021-12-29
+    - 摘要：专业心理困惑答疑
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247663427&idx=5&sn=6f9b9b36510c4e923faeac452346d31e&chksm=9fc85607a8bfdf1113aab0933fb80dee4899a9cbc2468a4315ddfa064cfda9fbe495fea7f50b#rd)
+    - 时间：2021-12-29
+    - 摘要：
+- [一个残酷的事实：所有关系都会「变坏」。如何科学处理？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247662608&idx=1&sn=01b50c32ab5f4c71ac719b74cc6988b2&chksm=9fc85554a8bfdc42e66d6ac4fc43601287f7a33f1920c295c232036a0b15628a78611bad451d#rd)
+    - 时间：2021-12-28
+    - 摘要：爱情是如何被杀死的？
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247662608&idx=3&sn=f452d1b6eb1374ebc9ae96caf3fb0450&chksm=9fc85554a8bfdc42db4a21562a644a07a33a0a65490a5c0f1887efd4bc3544e215c9a2977860#rd)
+    - 时间：2021-12-28
+    - 摘要：马克，总能用到！
+- [今年，你「自我内耗」了吗？周三直播间专业导师带练“用冥想降低内耗”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247662608&idx=5&sn=c3a36263bdc090fbb6536688b87f3f93&chksm=9fc85554a8bfdc42f495a8a2ea0888153eb1c55fdbe33cd8ea09dd47008f9804da9c2bad5f21#rd)
+    - 时间：2021-12-28
+    - 摘要：冥想直播共练来啦！
+- [“不是喜欢孤独，是和人靠近太累。”带你走出「社交缺乏」的3件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247662513&idx=1&sn=667396ff1b3216ad3667086321c3d2a1&chksm=9fc852f5a8bfdbe35a38943abd395988fec5b3ea23148b46e5b9fbeaf689fbc2db63b14c0ff3#rd)
+    - 时间：2021-12-27
+    - 摘要：比起没有质量的社交，还不如享受孤独？
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247662513&idx=4&sn=2da9f815681a65fd84c3d76a252acf11&chksm=9fc852f5a8bfdbe35d4224bdccd0cfa4e6740b8b51407f1c64e717a8657be296880cfbb37c31#rd)
+    - 时间：2021-12-27
+    - 摘要：或许是全网最全。
+- [这里是能帮你找到理想伴侣的20条小tips](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247662197&idx=1&sn=7f4857ef520142cb9be1b692cbab3fba&chksm=9fc85331a8bfda27039867c7d75697f775e9a11e869476efc0fb4dd4ec05ec637d68b5738bf4#rd)
+    - 时间：2021-12-26
+    - 摘要：我们和一万名KY读者聊了聊，总结出来的经验。
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247662197&idx=4&sn=52d05915156a099296be83b11abffc11&chksm=9fc85331a8bfda27d01cfb68adf0b527db6736774d1656e755145bea843ed13415f7541e1ecf#rd)
+    - 时间：2021-12-26
+    - 摘要：
+- [我们和《爱很美味》中的“夏梦”聊了聊她对于女性和人生的看法。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247661631&idx=1&sn=dd3d5cbf81c4aeda44c6b14fccd70bce&chksm=9fc8517ba8bfd86d548a79516b9716e20d638e0cd9a151dbb170e28c70072c8ad1560b02cb67#rd)
+    - 时间：2021-12-25
+    - 摘要：真实世界中的菊姐，对爱情持什么样的态度？
+- [周日直播预约开始：与专业心理咨询师在线聊天，带你逃离“低自尊”漩涡](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247661631&idx=5&sn=a733ba04f38a1194053fb834134494cb&chksm=9fc8517ba8bfd86de04943ba6eeae86525f814d82a4cf462aae65fc1ac5fed8503a1ca416fe7#rd)
+    - 时间：2021-12-25
+    - 摘要：与心理咨询师聊一聊“提升自尊”
+- [发生性行为前（无论是第几次），无论男女，都需要考虑清楚这4个问题](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247661208&idx=1&sn=4daed708656ca612e0096b19265e2310&chksm=9fc85fdca8bfd6ca9e9a2f179b785a1bfbdb1342e09eb8b9b648b66a9d521a8947ece726a949#rd)
+    - 时间：2021-12-23
+    - 摘要：性没有对错，但有些性发生后会让你不愉快
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247661208&idx=3&sn=bffd6e909339cdee9ce3884c29b0cbfd&chksm=9fc85fdca8bfd6caf0034ac5be634a201c1f246a73fd8c9cfaf498d4fe1e24de2d937f89e364#rd)
+    - 时间：2021-12-23
+    - 摘要：
+- [8天免费共练营，从这里走出低自尊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247661208&idx=4&sn=4ec9008461015626227553744e759172&chksm=9fc85fdca8bfd6cac86f2d9700a56f1acb3454654329a6a4c75c5b08846c09fc4643ca3e220d#rd)
+    - 时间：2021-12-23
+    - 摘要：原价99共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [1/3的人都曾在有伴侣的情况下，对其他人心动。研究建议这样处理——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247660907&idx=1&sn=f27176a01ad67c54a96962928a091d5a&chksm=9fc85c2fa8bfd539164b74b316534e6a1a4d308265d158a34f10a993a59e02d7dc434c4f5c15#rd)
+    - 时间：2021-12-22
+    - 摘要：心动是本能，忠诚是选择
+- [如何克服内卷带来的“人的异化” ？丨这期的心理百科教你反卷生活](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247660907&idx=3&sn=a4f1370291ed3e28a9e06ec10b0a0368&chksm=9fc85c2fa8bfd53991bebfb839459be2577ea637016084a7cc784efbe742f78fddd53a4dc6d3#rd)
+    - 时间：2021-12-22
+    - 摘要：
+- [建议收藏丨让你工作学习「沉浸式专注」的3组白噪音分享](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247660907&idx=4&sn=8f5fab2c7c066e732aa876ec5b86c85b&chksm=9fc85c2fa8bfd5393ab8e38b7f35a1df0daeaea05c4159a6330080bd34a0255946d58581c654#rd)
+    - 时间：2021-12-22
+    - 摘要：马克，总能用到！
+- [别人吃瓜我学习：李靓蕾的信中，有多少个专业心理知识点？（全网最全）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659600&idx=1&sn=8b52619d96b7249c721258422b3d3e3e&chksm=9fc85914a8bfd0027df86e1738fc916fdfe9eefc5eee64bfff8fd32cb9839acdc9015b19b67e#rd)
+    - 时间：2021-12-21
+    - 摘要：心理学科普工作者对李靓蕾老师的respect
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659600&idx=3&sn=e05cba6c26a874919d7c1619786e625d&chksm=9fc85914a8bfd002af665187ce0d0bb81cea491a53df3a0dcbaf3812643b8417b6212352b6b9#rd)
+    - 时间：2021-12-21
+    - 摘要：或许是全网最全。
+- [习惯性讨好朋友、同事、恋人？周四直播，和心理咨询师聊聊“用体态快速调整讨好心态”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659600&idx=5&sn=3b78f51ec6ce7830e1cb65d04f6eac8f&chksm=9fc85914a8bfd002b232e22bb982812d771fd6f4871130b9b12a93dcf481a2a9c707b196df2c#rd)
+    - 时间：2021-12-21
+    - 摘要：文中预约不错过！
+- [我们研究了四万对情侣，专门研究他们“吵架”的情况。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659116&idx=1&sn=000521576fc07f5e97f39c276753b396&chksm=9fc84728a8bfce3e885155c5d2e81d3df1d3dc30f410301bb834cf4cb6888c5cabc10165f277#rd)
+    - 时间：2021-12-20
+    - 摘要：别人家的情侣都为什么吵架？
+- [你有哪些未知的天赋？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659116&idx=2&sn=ea0359f8e02b626a4b6123d934aa6136&chksm=9fc84728a8bfce3ed16594d09b38bed37057a63a3418841c9cf1cc963528fb7a1d26d445f48c#rd)
+    - 时间：2021-12-20
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659116&idx=3&sn=29484f91a8eb0af52808c8e2ed2a6166&chksm=9fc84728a8bfce3e0c1b389433bc4b36d1cab943e1af85510fce5e9ffe6ec2ebde5afb7ce89c#rd)
+    - 时间：2021-12-20
+    - 摘要：专业心理困惑答疑
+- [“无法忍耐孤独的人，也没有能力专注爱人。”｜小姐姐的小闲话系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659061&idx=1&sn=6fb80d0d357dfd417d160175315a300c&chksm=9fc84771a8bfce677af6d482d2a2012b5321a82d6e5812e11c767b9ddf5e282b6bb5ee565d08#rd)
+    - 时间：2021-12-19
+    - 摘要：最近的思维碎片
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659061&idx=2&sn=6cf9295a2e0ac18c46a0dae55c04cce5&chksm=9fc84771a8bfce672e59ddcd588473e37f60040ef2efeff72e40e2789bd1812520828d27fd66#rd)
+    - 时间：2021-12-19
+    - 摘要：让真实的连接发生。
+- [恭喜以下朋友获得KY年度「十佳情侣」你pick第几对呢？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659009&idx=1&sn=5e6e5c1feaed464594791ac0c46ebff1&chksm=9fc84745a8bfce53d918912dcb86461eb5a13a54c42cdad5a9d4a55b67abb7569bfbb63772bd#rd)
+    - 时间：2021-12-18
+    - 摘要：来留言区票选出你心中的最佳吧！
+- [不自信、感觉自己不值得被爱、不敢争取，都与这种信念有关……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247659009&idx=2&sn=0cb474a364b545fde9906688fca24e11&chksm=9fc84745a8bfce53aa493fb28c846cff27b30b12bc943296a3f5a9c0f80132f338ada7be4589#rd)
+    - 时间：2021-12-18
+    - 摘要：原价99共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [“我连快递小哥的电话都不敢接。” 你也有电话恐惧症吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658944&idx=1&sn=fe5aa8144f169cacdb15a6bac734dbea&chksm=9fc84484a8bfcd9271f3f8a89c91696af5ca271508488ce6dc1eea804f4872fa0097aef50dae#rd)
+    - 时间：2021-12-17
+    - 摘要：害怕打电话？但我们还是鼓励你打电话！
+- [你听过「宇宙的声音」吗？来学习怎么拍打出治愈系旋律吧 丨手碟体验课上新](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658944&idx=2&sn=29b6e1205ed459110400a7af392e76d9&chksm=9fc84484a8bfcd926778377bd5223099ff412d2b6d3842eb4388fbde5ab53def152906086cf1#rd)
+    - 时间：2021-12-17
+    - 摘要：双周课表新鲜奉上！来城市洞穴，带你一起放松、觉察、成长。
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658944&idx=3&sn=61110bcd3fd16496f7450203a033d699&chksm=9fc84484a8bfcd92fe12e53e37ee37ef45b94f84571cdffe4db948a78891672c7b2d1f6156e9#rd)
+    - 时间：2021-12-17
+    - 摘要：想做那个听你说出心声的人。
+- [你有哪些未知的天赋？ 丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658944&idx=4&sn=e5bbbabbd07c706cd7fb9748d851b091&chksm=9fc84484a8bfcd92b9f8da642a902f022cceb600bcc93ce7147a37ab0698d89544c637609a83#rd)
+    - 时间：2021-12-17
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658944&idx=5&sn=cccd4619307df26756dff5af4edd885d&chksm=9fc84484a8bfcd9232cf96d18e04b53f0b7208e9d34766e8f4086eb3d3ce868dace0a44ff96c#rd)
+    - 时间：2021-12-17
+    - 摘要：
+- [“爱情是熊熊燃烧的友谊。”  从朋友到恋人，可能是最甜的打开方式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658042&idx=1&sn=6a7e371668ba4f4c9df552f29172468b&chksm=9fc8437ea8bfca6808779a3abc74d46f40af74720417048eb42196ad2a9a0b2f48bd63a6cccd#rd)
+    - 时间：2021-12-16
+    - 摘要：3步帮你判断朋友有没有可能变达令
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658042&idx=2&sn=328e93a25504ffc6d8a30df7df6bb527&chksm=9fc8437ea8bfca6850a3ce49fd3e2eefd1fd2cfe2d71bd6d74a1b9948ab5ac1fee0a0f67284d#rd)
+    - 时间：2021-12-16
+    - 摘要：想做那个听你说出心声的人。
+- [不自信、感觉自己不值得被爱、不敢争取，都与这种信念有关……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658042&idx=3&sn=1cc9a26ce9567afdfeaf759cf9b0964d&chksm=9fc8437ea8bfca68e2fa948828e99f64470712bd2424ad9723c336eabb6d2137c6d495ce8f41#rd)
+    - 时间：2021-12-16
+    - 摘要：原价99共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [敞开心去失望吧，再敞开心去爱丨 月食咖啡店vol.1](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247658042&idx=4&sn=c77c3dd5a6e67f7d7e18f8f83bace7ea&chksm=9fc8437ea8bfca68e9ba66c29ef452bae74b244a9c04461c23bc2091549aca289c0dff751b2a#rd)
+    - 时间：2021-12-16
+    - 摘要：
+- [当代年轻人逃不过的网恋错觉和背叛故事丨2022年茶会新玩法，17座城市有你的吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247657811&idx=1&sn=8e9363b7bc3b736ca41c4f0d0de6dc66&chksm=9fc84017a8bfc90102aa267de341931cade13f057810f447b280c63c6b542c7f7cadfd302545#rd)
+    - 时间：2021-12-15
+    - 摘要：南宁的小伙伴，我们如约而来！还有热腾腾的2022年茶会专属月份卡剧透以及合作场茶会预告哦~
+- [2021年最后一次免费测试，谁是你的理想型男友？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247657811&idx=2&sn=724d3bf2659e11d5e9cd281fd0f44c5a&chksm=9fc84017a8bfc901ac96edbc625980f3d818b31030bddae055268040a71a545fb5aa564f2629#rd)
+    - 时间：2021-12-15
+    - 摘要：悄悄告诉你命定的CP是？
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247657811&idx=3&sn=63c820ca62afb4861335937dca3bc65a&chksm=9fc84017a8bfc90177edc0cba3cabfab2f7b49e30368ce2cf77ad56869f214f08ff0d17c735e#rd)
+    - 时间：2021-12-15
+    - 摘要：专业心理困惑答疑
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247657811&idx=4&sn=c3d9ed139cb74c65aca706c1d4915528&chksm=9fc84017a8bfc901f585a1212065fa22ff6306f8d785868ba77dcb39017ea5bfa48ad8b5cd64#rd)
+    - 时间：2021-12-15
+    - 摘要：或许是全网最全。
+- [《女心理师》到底有多不专业？我们找3位专业心理咨询师聊了聊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247657078&idx=1&sn=68f6a9196332e8e4909110520cb46a7a&chksm=9fc84f32a8bfc624d397fa61ca48c56ed1708a8218783d6ece5b3dc61644fd202b24f1660822#rd)
+    - 时间：2021-12-14
+    - 摘要：咨询师不能“拯救”任何人
+- [防渣指南，从反PUA开始学起丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247657078&idx=3&sn=92874d664e8be5a0895818eaf5783706&chksm=9fc84f32a8bfc624478310ef5b426c1100a3d820a10fbe9d6d9e1852c2d6e7d6f58f2b729204#rd)
+    - 时间：2021-12-14
+    - 摘要：测测你被PUA的可能性有多大？
+- [3阶段摆脱低自尊，看到闪闪发光的自己丨8天共练营限时免费解锁](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247657078&idx=4&sn=a2090b69cda7f01a73a6826a814f4b6e&chksm=9fc84f32a8bfc624fda955c857898f6cd74aaa91c1fb104f74e2031ec07374667d1be542af35#rd)
+    - 时间：2021-12-14
+    - 摘要：原价99共练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [“没什么大病，但也好不到哪儿去” 乏味生活里该如何找回快乐 丨这期心理百科告诉你答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247656862&idx=3&sn=686efde0e35071a03ee6b6b29aa6fd9e&chksm=9fc84cdaa8bfc5cc9d4aeb828dd385230f82aea024a4f167f2de8326feff9f48a75da8e97a46#rd)
+    - 时间：2021-12-13
+    - 摘要：
+- [真正的“成年人”，应该满足这26条标准｜KY粉丝留言](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247656490&idx=1&sn=1d2231c442e519d805390610e2a7379a&chksm=9fc84d6ea8bfc478d687fab17fb040e698797a4b034bb42d13b1724193e5697b7442e1c47b31#rd)
+    - 时间：2021-12-12
+    - 摘要：不再追问你喜不喜欢我的时候，我是个大人了
+- [一出生就爆红：玲娜贝儿到底为什么这么让人“上头”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247656440&idx=1&sn=9fba711ea4e50126645464f02808da3b&chksm=9fc84abca8bfc3aac97ee34fb3a869392060cda157b77aeb494913f2ce6de8c1ce4bbfc536cd#rd)
+    - 时间：2021-12-11
+    - 摘要：当红女明星圈粉无数的秘密
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247656440&idx=2&sn=88aa53473cda0e3f0a7ae453d62a13ec&chksm=9fc84abca8bfc3aa58e079a3f07f3365a283abe3b4ddb645f67024613bc86916c502a17b4dd9#rd)
+    - 时间：2021-12-11
+    - 摘要：欢迎来到白日梦世界。
+- [Ta是在撩我吗？还是我多想了？科学识别的方法在这！丨KY趣味心理速递Vol.123](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247656440&idx=3&sn=994ac989866c891bc0abbcae1c616af8&chksm=9fc84abca8bfc3aa8aeadd83509a9f4173023d6a162875c1cda1cd3d193903dfc10e6c70bb8d#rd)
+    - 时间：2021-12-11
+    - 摘要：调情套路解析大全
+- [看完《令人心动的offer3》，我知道了解职业兴趣的重要性......](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247656440&idx=4&sn=b711624da0b1fe0b163e0afb1c11cbb5&chksm=9fc84abca8bfc3aa587096999b79f3943755697b74976e7db34639771fc87d5c74f6e2e555f0#rd)
+    - 时间：2021-12-11
+    - 摘要：你的职业兴趣和优势是什么？
+- [“Ta越爱我，我就越想逃…”丨9天免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247656440&idx=5&sn=62034d75df853abc4213dc9a0aca846a&chksm=9fc84abca8bfc3aa019afcd55356facb062af2e799781d76c0e955f156901d43f0da38acd947#rd)
+    - 时间：2021-12-11
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [“社会对30岁以后的女性会很残酷？”所有女孩都要警惕这种鸡汤！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247655877&idx=1&sn=d606d880b2508f0849af6c9543d0d4d6&chksm=9fc84881a8bfc19700a0a5c77e399da7a37485dd0b537fd5f92af2ca2dcc13932a2de84d00bc#rd)
+    - 时间：2021-12-09
+    - 摘要：“年龄变大以后女性会失去许多优势” 是忠言逆耳吗？
+- [KY「心理主题功能本」再贩了！！丨“成为完美伴侣”“找到自我光芒”补货预售，手慢真的无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247655877&idx=2&sn=aaff857ee97369936614e1b69bd7edc8&chksm=9fc84881a8bfc197674c9e0d65862ba320e22b88033645c8a91d28abbbb3072ea090a30c58b5#rd)
+    - 时间：2021-12-09
+    - 摘要：
+- [减少情绪内耗是一种能力丨「冥想入门」封闭课，2天掌握冥想技能](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247655877&idx=3&sn=2114eccb80f23dafcfc107fa6d05d544&chksm=9fc84881a8bfc19740725fa7f3e81a7c676757ee25b397fd6416f43a77a11b253fd400c13d37#rd)
+    - 时间：2021-12-09
+    - 摘要：双周课表新鲜奉上！来城市洞穴，带你一起放松、觉察、成长。
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247655877&idx=4&sn=7d72a6750eec366436e7343cf90aee27&chksm=9fc84881a8bfc197e7ad8c42bfff0ed898495d19f4ce0158b7abdcd682cb4ea6bcab95183b20#rd)
+    - 时间：2021-12-09
+    - 摘要：专业心理困惑答疑
+- [不要和这7种类型的人谈恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247654499&idx=1&sn=f6013a603e132944fb3e56a9a58d0e86&chksm=9fc8b527a8bf3c3143c67561bfeb175577b4811505ffa1c82fe9d81e1f3d3627c319319baf2d#rd)
+    - 时间：2021-12-08
+    - 摘要：好的关系，会让人感受到成长、支撑，而非消耗、损坏。
+- [周末新玩法！学习“性”这回事、音钵疗愈、铜锣“洗澡”？ KY年终限时活动等你打卡](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247654499&idx=2&sn=a45476c645ee60b4a4803d58bfae4b88&chksm=9fc8b527a8bf3c31ce2fca5680e40d296c2227b656caed92784ae889e3c177191149f6abd60f#rd)
+    - 时间：2021-12-08
+    - 摘要：
+- [回归人与人之间最真挚的连接丨匿名心理社区+线上互助会等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247654499&idx=3&sn=716dd9d2d6a8603ccafbd547d7edb93a&chksm=9fc8b527a8bf3c31ab1a0f2036fbd52b7c3d428d7b11b355811299981ac9971fcd13ec2cd8f5#rd)
+    - 时间：2021-12-08
+    - 摘要：让真实的连接发生。
+- [明日直播，预约不错过！KY小哥哥对谈心理咨询师，建立安全型依恋的干货都在这里~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247654499&idx=4&sn=0418ee0cb7f678a0084a4111977db3f8&chksm=9fc8b527a8bf3c318d9c10fc9105aff6b5858d4f0472aa97431de551cbd44a2ed1363a3a9fd1#rd)
+    - 时间：2021-12-08
+    - 摘要：与心理咨询师聊一聊“依恋关系”
+- [生活中缺乏这种情绪的人，往往更容易伤害别人。一定要警惕！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653929&idx=1&sn=84e46af00ee66e6d5c67d3967d4d5a29&chksm=9fc8b36da8bf3a7b6657ac5dfe4c9eb6281a1126c6df3604390ea274782e71d73487f60899fb#rd)
+    - 时间：2021-12-07
+    - 摘要：8个特征，教你识别身边的“反社会”
+- [疏离型依恋，就“注孤生”了吗？丨 免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653929&idx=3&sn=c1b8a21ee96d31573d4255ae2fb71fcd&chksm=9fc8b36da8bf3a7be8046dec548db32b2074b847eeea586e608111afe7e0cde6f8dd27adeeb1#rd)
+    - 时间：2021-12-07
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653929&idx=4&sn=133e7788ab0886f67892df2e30f0193e&chksm=9fc8b36da8bf3a7b817fcb078fcfc3906e47208e5ea80ebbab20c93e1d92b9f4b9c14deb7817#rd)
+    - 时间：2021-12-07
+    - 摘要：或许是全网最全。
+- [如何纠正不良亲密关系模式？｜心里有烦恼，马上查一查「心理百科」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653929&idx=5&sn=c0ec50e752aa2a1d309c1d5dd52df20e&chksm=9fc8b36da8bf3a7b5abdb211c9659a46c28b19d0722cfd835e8b150df1d47b533e1905a39f48#rd)
+    - 时间：2021-12-07
+    - 摘要：
+- [每个年轻人都曾害怕“从婚姻开始，走上确定的、再没有可能性的人生。”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653713&idx=1&sn=628cff06b1fec00bfc472233bdbc2eeb&chksm=9fc8b015a8bf390327a8177728641e6167a142c8af40beb08816dc34ffd9bc8153c97ce93031#rd)
+    - 时间：2021-12-06
+    - 摘要：从恐惧到不恐惧，是我们学会了背负起自己人生的责任
+- [不是所有分手都必须“翻篇” 。研究说，有时候挽回后更幸福](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653288&idx=1&sn=856cec94d52ad38934c9cfb12c078a51&chksm=9fc8beeca8bf37fa90e6b11ce3ec01e68cc3d50b5189a7096b37e344de946683788589bfad03#rd)
+    - 时间：2021-12-04
+    - 摘要：复合也会有好结果
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653288&idx=3&sn=6020f0224baf1a921c854ced4f09845d&chksm=9fc8beeca8bf37fa2975e9ad84c567d81b66a9306272cf66ae52d4721c945cea17c4049d6440#rd)
+    - 时间：2021-12-04
+    - 摘要：专业心理困惑答疑
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653288&idx=4&sn=40a211bc5e911d1b3271fd6848aca2c3&chksm=9fc8beeca8bf37fa3b7b7c8cd7879b0872e915aac043c3acbe111852e5f3095d7ec952ee774d#rd)
+    - 时间：2021-12-04
+    - 摘要：或许是全网最全。
+- [压力越大，越需要掌握高质量休息的方法 丨冥想直播](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653288&idx=5&sn=85ad41b9be067da423073dcdd265c361&chksm=9fc8beeca8bf37fa1a04685969ce58962ea860738cf9b1202ac95074acddc044df65fd14d8f7#rd)
+    - 时间：2021-12-04
+    - 摘要：冥想直播共练来啦
+- [有过这种经历的人，很难知道自己想要什么。而且它还会代代相传…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653058&idx=1&sn=b3b5425715ed67bb9b45405668feb541&chksm=9fc8bf86a8bf369047231a31bcd2c6b039d5e01407e856780ad3e4537cdd0872ee990121dc59#rd)
+    - 时间：2021-12-03
+    - 摘要：爱自己从不说“都可以”开始
+- [想来“不流行吃苦”的上海过周末？催眠放松、性讨论、声音疗愈...KY年终限定活动等你来玩！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247653058&idx=3&sn=68cfea6cc356a665b35f3b50a9264342&chksm=9fc8bf86a8bf36909b992f459e3cc6adc9f327321ecfa5560ffdbb91d7656513361ea3db33ed#rd)
+    - 时间：2021-12-03
+    - 摘要：快来看看未来两周城市修行的课表吧！
+- [25岁摄影师鹿道森的故事：你是否也经历过会“压垮生命”的「危险关系」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247652331&idx=1&sn=2f7909dab7a0e7cf54a170c50c019dc1&chksm=9fc8baafa8bf33b9e60a1dc2cf244a4dd7f3c811d5ea90ba02a6142f90ddcb873dff79bf0baa#rd)
+    - 时间：2021-12-02
+    - 摘要：谨记这8个信号，帮你识别危险关系
+- [“没有安全感的我，该如何经营亲密关系？” 丨免费共练营带你形成安全型依恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247652331&idx=2&sn=ea3a6a53bdc010e94e64e8309b37b667&chksm=9fc8baafa8bf33b9d3e61bdc68eeb41b1be4c0af982bc07a67df048d93bc9a4fb2dc2d905dd8#rd)
+    - 时间：2021-12-02
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [emo的人重拾快乐，需要几步？（进来解锁免费练习计划）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247652331&idx=3&sn=1a93c2d115c323d1e3bc8ca47e9a14b6&chksm=9fc8baafa8bf33b93195efccee2b1259e833c786a9c70b585a883b5cc64b12ac34cd19853408#rd)
+    - 时间：2021-12-02
+    - 摘要：跟我走吧，现在就出发，回到快乐老家
+- [压力越大，越需要掌握高质量休息的方法 丨专业老师带领，0基础公益冥想直播](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247652331&idx=4&sn=934d7cf09da350e27edde006f56fa374&chksm=9fc8baafa8bf33b999a8e3325224d8577172aa7c8b1993a8fb696e55857fce88055a416e1e65#rd)
+    - 时间：2021-12-02
+    - 摘要：冥想直播共练来啦
+- [不想再“选错人”，一文教会你「系统梳理」自己的择偶标准](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247651886&idx=1&sn=2423b16a563ba016443ce2d21c181fb2&chksm=9fc8bb6aa8bf327c193fff7095f508a20c9e9ebeb7edf9ecae68c2e793159f7bf135d622d5e3#rd)
+    - 时间：2021-12-01
+    - 摘要：你可以从这些维度提炼实用的择偶标准
+- [“不流行吃苦”的魔都，周末去哪儿玩？催眠、性讨论、铜锣浴...更多神秘活动等你来！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247651886&idx=2&sn=d0c50044c2fecfa8586868ff9ed68f16&chksm=9fc8bb6aa8bf327c24e7afdb76027674dc1ec852dde2d6634d89fe020786a573a8ec6c3f4dad#rd)
+    - 时间：2021-12-01
+    - 摘要：
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247651886&idx=4&sn=4a8255a9c32f42c75c9da12fc73ef921&chksm=9fc8bb6aa8bf327c076a7ff832529f9a8b0e9857ad95d99bf7ba280e44306f1ffa121c0ea7da#rd)
+    - 时间：2021-12-01
+    - 摘要：欢迎来到白日梦世界。
+- [如果可以，我愿意付出所有回到“那一刻”，改变我们之间的缘分](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247651251&idx=1&sn=ec043906f694786a75e2f5d2799e0687&chksm=9fc8a6f7a8bf2fe1b1c53309a4670307d37f8101afa028b232030378ddb1e1585b8edae0342f#rd)
+    - 时间：2021-11-30
+    - 摘要：一生中最想回去的时刻
+- [想做你的守护者，陪你走完2021丨守护者计划又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247651251&idx=2&sn=705a7308c83c07df28b2dc254b3a2959&chksm=9fc8a6f7a8bf2fe193432e9e65e062a4a3449715c0dfbf21c3efd73ccfd6b5f12baa0d35a17a#rd)
+    - 时间：2021-11-30
+    - 摘要：很高兴遇见你。
+- [3阶段形成安全型依恋，收获甜蜜恋爱丨9天共练营限时免费解锁](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247651251&idx=3&sn=342a27165d1cedcdff78884d384e40da&chksm=9fc8a6f7a8bf2fe1a27a0732a2fab2da4dcb0dd32938e2581b21dee50d85276d5d67dd6f76ae#rd)
+    - 时间：2021-11-30
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247651251&idx=4&sn=070168ea5f3c85404b36775b6e0f7cec&chksm=9fc8a6f7a8bf2fe1fe11492dc2041f4a1d442bbad2be2c119488ab73d0dece0dc5579d02d0c2#rd)
+    - 时间：2021-11-30
+    - 摘要：或许是全网最全。
+- [“我可以无所畏惧地去爱吗？” 当代年轻人爱情观白皮书](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650994&idx=1&sn=0a7a676357d35ac29868addff69ff28a&chksm=9fc8a7f6a8bf2ee09a511a0753f7cfda27bd53cf28236b3d111ea75b4c5c3a8bd677b99b8695#rd)
+    - 时间：2021-11-29
+    - 摘要：这一届年轻人真的开始“爱无力”了
+- [久等啦～2022KY手帐、「愉悦up」心理日历预售开始啦，手慢真的会无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650994&idx=2&sn=4ce498db3d19bf31cb5bbecec9eb9a77&chksm=9fc8a7f6a8bf2ee02dff5e78702783452fa39d05ebe0866531af9edc99c8ca7e6bf90f50b3d3#rd)
+    - 时间：2021-11-29
+    - 摘要：
+- [“当一个人承担起自己的使命，也就迎来了自己的黄金岁月。”｜KY新年手帐本、「愉悦up」心理日历来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650986&idx=1&sn=d67118b68badce6d1e8b7ade3ba261d5&chksm=9fc8a7eea8bf2ef8d10b19a45838b8ad8eb741b5fb609c141a9342e23475724466bb06d3d3ed#rd)
+    - 时间：2021-11-28
+    - 摘要：顺应自己的命运，然后获得平静而笃定的自我和内心
+- [全程匿名、专业带领、互助倾诉的「线上自我探索茶会」来了！全球各地都能参加](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650986&idx=2&sn=353e58f5cc20172b974ee7716bff4eae&chksm=9fc8a7eea8bf2ef87c321e52f1d6572538554f0585e84bc8143199a599d475aab9f80f083a61#rd)
+    - 时间：2021-11-28
+    - 摘要：
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650986&idx=4&sn=62501b3fc4fe2a33610ed740b3e91733&chksm=9fc8a7eea8bf2ef89413929b9e474a027bf07559fc5e243a0e1de166ae7a631ab296028f0811#rd)
+    - 时间：2021-11-28
+    - 摘要：或许是全网最全。
+- [单身女性的性生活该怎么办？今天这篇不能错过](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650832&idx=1&sn=09902af5eb459cd1d272553bb3ee0c5f&chksm=9fc8a754a8bf2e424028e3c99593a5bfa3192d8fb1d3be291d73d2949a135ddfbbe0c0bd4822#rd)
+    - 时间：2021-11-27
+    - 摘要：是科学不是开车
+- [雪花绵云、白色羽毛，想要获得漂浮一般的放松自在？来KY「白日梦游」年终party玩耍吧！早鸟限时报名中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650832&idx=2&sn=56fd53f57f5b7a2187a5d139710d23ba&chksm=9fc8a754a8bf2e423bdcb9e4ec2447aab69ad3d87ea832d421fe6592b4a6ae17006ba55bca91#rd)
+    - 时间：2021-11-27
+    - 摘要：
+- [男性分手后真的不伤心？英年早白头还有救吗？丨月小兔讲论文Vol.23](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650832&idx=3&sn=08abd93ecc866478ba6f4f0ae1834d6c&chksm=9fc8a754a8bf2e4240eb5c3054a1dd37db7d060b23505925965f6daa06ad060f47f1bc6c30a4#rd)
+    - 时间：2021-11-27
+    - 摘要：热烘烘的论文新鲜出炉～
+- [即使生活百般刁难，也不要忘记你还有造梦的能力。「白日造梦」活动进行中...](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650832&idx=4&sn=6353ae783c4eed22fb76e0dc308d83a4&chksm=9fc8a754a8bf2e42c62ac2df320257c06901af408ac8e6d1f8d97595dbd89618fd989d8d4735#rd)
+    - 时间：2021-11-27
+    - 摘要：欢迎来到白日梦世界。
+- [不想总把事情拖到最后一刻？8天免费训练营，11.29开营](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650832&idx=5&sn=81f459e4dca3f5570d4d661df4578e93&chksm=9fc8a754a8bf2e424ac0e9d39e5820143aec2f3e0ae7209400f3eca8f058c0221497799d4734#rd)
+    - 时间：2021-11-27
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [“和你在一起心好累” 高敏感的人，谈恋爱一定不能找这两种人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650499&idx=1&sn=6b1402376ff6d09e97d797665af971d1&chksm=9fc8a587a8bf2c9129a5f4102c52e216bc8ad6f338b281327285dab4fdff1ba5d154d8a683a3#rd)
+    - 时间：2021-11-26
+    - 摘要：高敏感是很珍贵的特质，只是要留给值得的人
+- [想要真正理解和体验“觉察当下”？你能找到的最精炼的「正念入门」课限时报名中（60分钟mini课）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650499&idx=2&sn=832696dd1c718c93ca69aa1bafc559ca&chksm=9fc8a587a8bf2c91e792bdace0ef4e26a49a01d7b2ca174f3e006ca5cfc54788c343f99510dd#rd)
+    - 时间：2021-11-26
+    - 摘要：快来看看未来两周城市修行的课表吧！
+- [高敏感者的世界你们不懂｜KY高敏感系列文章，专为“小敏感”们筛选来的～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650499&idx=3&sn=eef1dee4357e8809ec8fe296bf3ffe3e&chksm=9fc8a587a8bf2c918d8c12d2e102595e929649d75065fc8b0642a96239223d4ff64fa468d82a#rd)
+    - 时间：2021-11-26
+    - 摘要：
+- [你在焦虑什么？来直播间和KY专业导师聊聊你的焦虑（导师实时答疑）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650499&idx=4&sn=63313b2b82630e18e8e2151bd756a609&chksm=9fc8a587a8bf2c91525abcbac601ab71e09ca0d806b80d6e2a7521a071c8c50fef6334313332#rd)
+    - 时间：2021-11-26
+    - 摘要：KY直播来了！
+- [久等啦～2022KY手帐、「愉悦up」心理日历预售开始啦，手慢真的会无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247650499&idx=5&sn=5e6673703929384c1932562e634d602f&chksm=9fc8a587a8bf2c91c228000ca4b1a236899c308537891c3d30e5ed4c277f87c1340c3d0589d7#rd)
+    - 时间：2021-11-26
+    - 摘要：
+- [有一种卧室里的羞辱和恐惧，没办法跟别人说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247649482&idx=1&sn=38267683a0f23a9ac3756e7c367313c2&chksm=9fc8a18ea8bf28981f22b16e3edda1f3d696ed093be631147e7d5fba505efa2a1d07cf1b0cb5#rd)
+    - 时间：2021-11-25
+    - 摘要：请大家帮帮她
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247649482&idx=2&sn=72d448fcfba810a19b2cee36ef7fce20&chksm=9fc8a18ea8bf2898e1615572d2ef7fb56c5bfe2b05e6a150ac3bb7ba810ec918b9f5ea34a745#rd)
+    - 时间：2021-11-25
+    - 摘要：我想陪你，从入睡到黎明。
+- [emo的人重拾快乐，需要几步？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247649482&idx=3&sn=945da473bd6cb9e6e2e9e29dd510c89d&chksm=9fc8a18ea8bf2898864ef60c949b58221a797c160a4aee2e93acaa9342d7f721c1327424f52a#rd)
+    - 时间：2021-11-25
+    - 摘要：跟我走吧，现在就出发，回到快乐老家
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247649482&idx=4&sn=40acdff96fa9f7e4dfbab5cfad8c75c2&chksm=9fc8a18ea8bf2898cc45ca1ad340d329b158c0a0986478ed28e191c3060e00d852e6155d42cd#rd)
+    - 时间：2021-11-25
+    - 摘要：专业心理困惑答疑。
+- [“原来ta有能力爱，只是对象不是我。”  是什么让你终于放下了深爱的那个人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247648856&idx=1&sn=600dbff4054ada13c57e5ab28439ef86&chksm=9fc8af1ca8bf260a7e15d63d130ac2a9dfc4987e5cfda9d3c78751a469cfbb1250346753f428#rd)
+    - 时间：2021-11-24
+    - 摘要：放下之后，海阔天空。
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247648856&idx=4&sn=5e85e50ac942d65580c676c25a414348&chksm=9fc8af1ca8bf260a4c7382090c1725dc2f990b267cd3d381d7821f064aeac0bcfd6ca73c6295#rd)
+    - 时间：2021-11-24
+    - 摘要：我想陪你，从入睡到黎明。
+- [你有没有遇到过这样的人：看起来自卑内向，其实内心无比自恋](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247648509&idx=1&sn=b058444b0bd9009ac6bf88330eab16b4&chksm=9fc8adb9a8bf24af1ad9dc4eba203252252870cca68e2dd350cd1099f708209586dac8b2edc3#rd)
+    - 时间：2021-11-23
+    - 摘要：隐性自恋者，让人感到不舒适的王者
+- [久等啦～2022KY手帐、「愉悦up」心理日历预售开始啦，手慢真的会无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247648509&idx=2&sn=3977d3758cb1afc880e36fa012ca7787&chksm=9fc8adb9a8bf24af3321909db274c05eeaa4332e8e7eaa6d31b3c03f541315449bea66c5a651#rd)
+    - 时间：2021-11-23
+    - 摘要：
+- [搞定拖延，只要3步？8天训练营免费解锁中（11.29截止）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247648509&idx=3&sn=6d44153b8f35b8c0c481ce59d80261ac&chksm=9fc8adb9a8bf24afa419913da90fe709434a5654911592d02f1f1946227ec4d45edc9f9e58f2#rd)
+    - 时间：2021-11-23
+    - 摘要：
+- [社交回避、缺乏社交，对我们有哪些影响？我们请专业心理咨询师，教你拥有良好社交](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247648509&idx=4&sn=129776dfc186fbb8d0f652b48c5cc201&chksm=9fc8adb9a8bf24af8a9f2f43ebd54dd0bfd50d236a1add6d0c96c9de8d4cd152162ef375eb5e#rd)
+    - 时间：2021-11-23
+    - 摘要：KY直播来啦！
+- [其实“喜欢” “爱”这样的概念，有时是无效的。｜一文说透亲密关系](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247648203&idx=1&sn=80cb766670b9884a670742cf48b386b2&chksm=9fc8aa8fa8bf239925ba1b31006089b084199e718b2c1a309a9dbc48500a9024236713954124#rd)
+    - 时间：2021-11-22
+    - 摘要：关于“好的亲密关系”的终极回答。
+- [从微信头像能看出一个人的人格？研究说：真的可以！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647397&idx=1&sn=6e9d3e38efa5d3afdef5507dd9b9b7a8&chksm=9fc8a9e1a8bf20f734f56bcb26ffb9829fed57f352a5fba2199ad8b090760f312b8c4c2d9a4e#rd)
+    - 时间：2021-11-21
+    - 摘要：快来看看你的头像代表了什么吧
+- [如果你不相信“第六感”，那这篇文章你就不用看了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647397&idx=3&sn=c8f35ca21264d6c1fda4f27cd99f1f97&chksm=9fc8a9e1a8bf20f7ac2d508251b7d5dc98c9a446b60b9654c20f6d70534a7bab6151ca727039#rd)
+    - 时间：2021-11-21
+    - 摘要：一篇关于“直觉”的专业探讨
+- [改变拖延必经的3个阶段（不难），你知道吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647397&idx=4&sn=b40937fea497516e21a22847dc40c2a8&chksm=9fc8a9e1a8bf20f7ff5ab4a60a761d0ff8ee3366b5506e57d6d10eb7e3545b3cdf60a1d17519#rd)
+    - 时间：2021-11-21
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [“他始终没为我动心，我却被那时的自己迷倒了。” 为爱做过的100件疯狂的小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647266&idx=1&sn=91eeacd58e68e0147b1b85ef73af78ed&chksm=9fc8a966a8bf20700d78bd73a627ae9842fb352cb4cc3ea7fffecf046883bc75b47cfcd4d3c3#rd)
+    - 时间：2021-11-20
+    - 摘要：爱情是一场高烧，我愿为你久病不愈
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647266&idx=3&sn=694884a8de6f079200201eb1fe86ff1e&chksm=9fc8a966a8bf20709fd1fe53d77c51ff2cb55ed9fe5db0a6b4b40bdaf296b657ac1aad700c1e#rd)
+    - 时间：2021-11-20
+    - 摘要：想做那个听你说出心声的人。
+- [学会这个，你也能上《脱口秀大会》丨KY趣味心理速递Vol.122](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647266&idx=4&sn=3628be161d357f46e16b19820a97ef9c&chksm=9fc8a966a8bf207083f55858e4f4fdc7eefb1322701a501033630c50923da671d2379bbc9857#rd)
+    - 时间：2021-11-20
+    - 摘要：这种搞笑方法很高级？
+- [我们请到专业心理咨询师，直播教你应对“过度敏感”（预约直播以免错过）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647266&idx=5&sn=d36ebde79cacde2dfe4793a6beec788e&chksm=9fc8a966a8bf2070d11bf72ebe6a06fcf900044efc0387523989469e9a5ab6666003ef4afc0a#rd)
+    - 时间：2021-11-20
+    - 摘要：KY直播来啦！
+- [“想换工作，但特别怕走弯路。” 如何判断自己是否走在“对的”路上？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647117&idx=1&sn=e9b3f8164d1a8ba3edf9482903705e2c&chksm=9fc896c9a8bf1fdf8e5a1bb4378f7f9103804da25c7d10c7e9595aefc4962b8fc4214a6d9e3a#rd)
+    - 时间：2021-11-19
+    - 摘要：追求这个目标的人，能够摆脱“成功”的焦虑
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647117&idx=2&sn=7cb84b5ba00e3bb5bb4ea52cef1f9d4f&chksm=9fc896c9a8bf1fdf9fc85da8db958886fb23ea0763a7d34a89dcb5c567e462c45390f76a59ae#rd)
+    - 时间：2021-11-19
+    - 摘要：或许是全网最全。
+- [越拖延越焦虑，越焦虑越拖延。8天免费训练营帮你打破恶性循环](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647117&idx=3&sn=bcf85c2e169d53bdd4a3be26cc139911&chksm=9fc896c9a8bf1fdf4e75524f246905dcda534d6f7dabeb93675ccd5876b4c2d2cb1a7545c607#rd)
+    - 时间：2021-11-19
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [60分钟迅速学会冥想？来「冥想入门」体验课，更有限时特价限量开放中！速来！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647117&idx=4&sn=f6c5e664788949438aece85dd2fb1fcc&chksm=9fc896c9a8bf1fdf81ba8fa3ad61019d83c3aafa3c2ea25aee747711697e07464fff0fe0d39e#rd)
+    - 时间：2021-11-19
+    - 摘要：快来看看未来两周城市修行的课表吧！
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247647117&idx=5&sn=bb6d857af00d561206420a785687257b&chksm=9fc896c9a8bf1fdf4cfbfe7a746a075f18626bed5507287cc2c4249ac9cb86229a0961aa247f#rd)
+    - 时间：2021-11-19
+    - 摘要：想做那个听你说出心声的人。
+- [带货主播绝对不希望你知道的秘密](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247646481&idx=1&sn=80c69afb4820c36d216ee0fea143b98b&chksm=9fc89455a8bf1d4385ad9fbb9ddb7ca7d9f12c530a98a1d02ba66f4ecd43031c8296036487a9#rd)
+    - 时间：2021-11-17
+    - 摘要：花钱买快乐，也是个技术活。
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247646481&idx=3&sn=35324c586f4d612862d37c1625294111&chksm=9fc89455a8bf1d43db03cdb77286a67982cf90cdce606e57d4b8c359115af52bf4a0187fbe91#rd)
+    - 时间：2021-11-17
+    - 摘要：专业心理困惑答疑
+- [菅田将晖小松菜奈：“是战友也是精神支柱” 丨什么是“战友式”的爱情？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247646443&idx=1&sn=1399fa2e0f5f11351bec9370390943c8&chksm=9fc895afa8bf1cb9a43ccc44ff398a1176033c257d4892b85d30c778695865e78d2af0a4a820#rd)
+    - 时间：2021-11-16
+    - 摘要：在吗？想和你谈一场势均力敌的恋爱。
+- [久等啦～2022KY手帐、「愉悦up」心理日历预售开始啦，手慢真的会无！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247646443&idx=2&sn=622a2bf5110a5f2c0be6005efeb9cb19&chksm=9fc895afa8bf1cb90ed248bb9f1c2eb07eabb0f2eb4682ad78b618fc7f792e3ce4607f376ffc#rd)
+    - 时间：2021-11-16
+    - 摘要：
+- [越是坚强的人，内心可能就越脆弱。丨 月食物语第十二话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247646443&idx=4&sn=ea19a7650302e3719040e1c2b28ecb5d&chksm=9fc895afa8bf1cb9752888fd9c9e25b478484f8ebd70d940763709bdbbb90c675d856b068a80#rd)
+    - 时间：2021-11-16
+    - 摘要：
+- [“我一个月房租，是我闺蜜的一顿饭钱。”交朋友也需要门当户对吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645700&idx=1&sn=97580cc9ac4694f35a46d11d56c5d5e3&chksm=9fc89340a8bf1a566cdb02692aae4f49af01c5a2544adb79bd6c18022c5a3476c145895e998e#rd)
+    - 时间：2021-11-15
+    - 摘要：5点回答关于如何交友的终极问题
+- [谁来帮我分析一下该不该分手?丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645700&idx=2&sn=02d78a9d3c87fe5a0a86637b81bdeced&chksm=9fc89340a8bf1a568621c36ba417f27ddd1b91b47f90a5388fd0897dd8459db260b3edd5d651#rd)
+    - 时间：2021-11-15
+    - 摘要：你的对象还要不要留着过年？
+- [越礼貌的人，反而越会激发别人的自私？研究说：是的｜KY趣味心理速递Vol.121](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645700&idx=3&sn=0430ed801da876b2b7c45c9418543eed&chksm=9fc89340a8bf1a56ad7ed225166b38d31f32e18932b2f9908687dd53de6b17de62db7b4ff032#rd)
+    - 时间：2021-11-15
+    - 摘要：不要让你的善良，成为别人的操纵你的工具
+- [年纪越大越孤独，成年人的友情值得研究。｜KY成人友谊系列文章](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645700&idx=4&sn=ddf2c433e905a34b0e7cc9fee5b5ef36&chksm=9fc89340a8bf1a56a9a289e0d3ea39455455909744644fba80fb53fcc834a13ca9b35e300144#rd)
+    - 时间：2021-11-15
+    - 摘要：
+- [“学会去爱，但不要爱不爱自己的人。”他们从前任身上，学到了这34个人生哲理](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645272&idx=1&sn=22da84d6e053edf5e1a5734061c23feb&chksm=9fc8911ca8bf180ae3157e4c08454879d42c9db40577dd0e4de1067e584f19fea51be7d7b0b2#rd)
+    - 时间：2021-11-14
+    - 摘要：今天的推文里，有没有一条让你想起了ta
+- [研究发现，其实很多人都比自己以为的更“抢手”。丨 KY趣味心理速递Vol.120](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645272&idx=3&sn=6128fa09f7d9bb074f89d3eabc98dc60&chksm=9fc8911ca8bf180aa5ef97569fc50bb688f8464a1bbe9d0e28a894a50bda217d8a93372e5ffd#rd)
+    - 时间：2021-11-14
+    - 摘要：不要再低估自己啦！
+- [我们的生活应充满浪漫和爱：不是矫揉造作的爱，而是穿越一生的爱。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645142&idx=1&sn=fcf97f8e8ba78893a04384cc3506a2a2&chksm=9fc89e92a8bf1784a824c0023e0b0e8d12a386784d1b870ccf285431ddae92d603b00d7a15a9#rd)
+    - 时间：2021-11-13
+    - 摘要：越不相信爱，越让我们远离爱
+- [懂得这么多道理，却依然过不好这一生？KY小姐姐限时直播答疑（文内预约）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645142&idx=2&sn=91eb6b340a95dd4364441cbd38fa84a2&chksm=9fc89e92a8bf17843ce2e731cd88d5d5b1f085ebe6b52615438c8b71a51caace1589660b2102#rd)
+    - 时间：2021-11-13
+    - 摘要：如何用心理学过好生活？
+- [判断一段关系、一份工作、一种生活境遇该不该继续，看这个标准就够了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247645107&idx=1&sn=933ebc9b88ab0098afc34daffc08afd9&chksm=9fc89ef7a8bf17e1a197b19dbae16498718813ec7771e1eb36956a28e4e7bd3fda44ebd100cb#rd)
+    - 时间：2021-11-12
+    - 摘要：这种长期被忽略的心理感受，实际上才是一切幸福的基础
+- [你还会单身多久？专为单身打造的陪伴计划（内含心理测试）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247644611&idx=1&sn=5e707bc70ab6666c8b5ac41e0b3b83d3&chksm=9fc89c87a8bf15914b7719087be67079da25421ce47d21e671751a7a4facdb84d015f5068e18#rd)
+    - 时间：2021-11-11
+    - 摘要：别人都在买东西，而我在过光棍节。
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247644611&idx=2&sn=28671f9c45578c511dab1397f2cd1022&chksm=9fc89c87a8bf1591ebbfc6713339a15f9a910eb46232ab5d92da5ed587b187b6ee42ac6d3e14#rd)
+    - 时间：2021-11-11
+    - 摘要：或许是全网最全。
+- [无法确定是“人不对”、还是“要磨合”，这样做能避免不必要的分手](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247644290&idx=1&sn=3684ff0373a97082db5f5a4318584207&chksm=9fc89dc6a8bf14d0b5d80c71dedd4b855828f921d089c89796514f586cfaa3d843d854581192#rd)
+    - 时间：2021-11-10
+    - 摘要：亲密关系科学的评估方法在这里
+- [独家心理功能本文创等最低65折！KY周边史上最低价来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247644290&idx=2&sn=3264b193c0132b17119822101c2b8c6b&chksm=9fc89dc6a8bf14d04ae9a92b149c55bdb13b2f35d5d93072b14dac52e3e26b86707aebcbf887#rd)
+    - 时间：2021-11-10
+    - 摘要：
+- [夜晚更容易emo的科学原因找到了！丨KY趣味心理速递Vol.119](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247644290&idx=3&sn=f571727b5e4590ec40daf90deff9fcda&chksm=9fc89dc6a8bf14d0cc72b26ac949a26e8063ff613e0ed74d77e3e45634697b55de27921dc37a#rd)
+    - 时间：2021-11-10
+    - 摘要：
+- [情绪调节能力高、快乐又优秀的年轻人，都有这个心理特点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247643579&idx=1&sn=773d7126399ffe9cb10a9eb6be692855&chksm=9fc898ffa8bf11e9f5e9dc6dc1aa5946943f4fbf242faed623cdd1a08000498acc10da6e230d#rd)
+    - 时间：2021-11-09
+    - 摘要：经历挫折不懊恼，面对挑战不辛苦。这是什么心理超能力？
+- [助眠减压的白噪音工具，还能根据你的想象专属定制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247643579&idx=4&sn=ffb725c7f86ec78b6a4596b3e53c1f48&chksm=9fc898ffa8bf11e9de918c736ec60effc087b9ce9b4bd7b57d7e9e811b2b69066aaa7aef7526#rd)
+    - 时间：2021-11-09
+    - 摘要：或许是全网最全。
+- [“看了上百部小黄片，还是怕给不了ta最好的体验...”丨10月茶会精彩回顾（11月限时福利）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247643346&idx=1&sn=b271309a11a3b0ca9fd07dbc4972984b&chksm=9fc89996a8bf1080436e6f490a03aee731e67b0d6dc18a07b0376a405b7ffdd4386b20226e7a#rd)
+    - 时间：2021-11-08
+    - 摘要：茶会新主题上线、联名茶会回顾、校园茶会回顾还有限时独家福利......信息量爆炸，快来看看吧！
+- [升级版大五人格测试来了！丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247643346&idx=2&sn=9b02795d086f649c5ea4c2eb6d9e92ee&chksm=9fc89996a8bf1080a111c7e4459230879d50583fc632ddbab00b5867a3913c5e60eb3ab25a7c#rd)
+    - 时间：2021-11-08
+    - 摘要：帮你了解自己人格的优劣势
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247643346&idx=4&sn=ee58ecd76e4c0b9754eeb1224824265c&chksm=9fc89996a8bf1080c7798b7cd9bc25c27fcc1aa4effbc849e844fbcebd0ea6512cb2941e99be#rd)
+    - 时间：2021-11-08
+    - 摘要：专业心理困惑答疑
+- [“答应我，千万别做舔狗好吗？” 关于备胎的真相，都在这里了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642980&idx=1&sn=64ace5eee065908c550c2100cdebc8cd&chksm=9fc88620a8bf0f3647acb40f39d6276f13009635624dea3a6b4ddd444c508f1a3782fa4ebbc7#rd)
+    - 时间：2021-11-07
+    - 摘要：备胎，到底什么时候才能转正？
+- [“阴阳怪气”老板就能涨工资？！多照镜子能提升情绪？｜月小兔讲论文Vol. 22](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642980&idx=3&sn=f1b6415a80e58c0f6f56c6cea0aef231&chksm=9fc88620a8bf0f36dd7e065bfeebac189b324c2e9f1ba4ef1ec74f658affc41909b3d227848f#rd)
+    - 时间：2021-11-07
+    - 摘要：奇怪的研究又增加了！
+- [结婚到底会给人带来哪些好处和坏处？来听听已婚的他们怎么说。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642905&idx=1&sn=ef7af4e5b654f71faea89b537e80c3c0&chksm=9fc8865da8bf0f4be7e96056e1e0067afcfa60aaf8789eff6aacb970d99c68d8a37dfeb22025#rd)
+    - 时间：2021-11-05
+    - 摘要：婚姻到底适不适合你？今天的推文可能能帮你判断
+- [“维持相爱的秘密，都藏在双方相处的每个小瞬间里”丨和你的TA一起写完「KY情侣功能本」吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642905&idx=2&sn=4e9b23a195bc3e1de38ce8c5b468cfde&chksm=9fc8865da8bf0f4bff5e679c71ea41d2764585131bdcd4a05f7044d44f52b0d691207dee02d0#rd)
+    - 时间：2021-11-05
+    - 摘要：
+- [史上最低：冥想超超超低价体验！就在KY「城市修行心理冥想馆」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642905&idx=3&sn=009eddf69893ff4e71cde393248d7a58&chksm=9fc8865da8bf0f4b0545a86941aad0bc9ebc3becc5ddec0060d646aa87cfc799add1c5b9b334#rd)
+    - 时间：2021-11-05
+    - 摘要：热气腾腾的下周（11月8日-11月14日）课表奉上！
+- [除了“精致”，还有这些规训你也要警惕。丨如何摆脱不必要的规训，获得自由人生？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642501&idx=2&sn=a35a47dc41e45dc4769ba8ce11da2022&chksm=9fc884c1a8bf0dd7094f8bec6cfdba54048ec50eb084a237baadb19458f9748128914a0fc2b6#rd)
+    - 时间：2021-11-04
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [“税前年入400万，依然很焦虑。”是凡尔赛，还是掉入了“精英陷阱”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642281&idx=1&sn=4fc7b141c932497f0f326ac8a1d1a22b&chksm=9fc885eda8bf0cfb632bd58a81c0a5bc27ecbc6fbfec0b363cec5614445450faa8c777b2f7fe#rd)
+    - 时间：2021-11-03
+    - 摘要：如今越来越多人想成为精英，殊不知“精英”可能是一种陷阱
+- [好迷茫，不确定对方是不是那个对的人｜本期KY主题精选教你识别不良亲密关系](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642281&idx=3&sn=e940cbd64b9b6c24deef954f896ec54c&chksm=9fc885eda8bf0cfb5e28fb7db2851c183304388b69ed078e15d9ab93cf99c854dcf77cf58d50#rd)
+    - 时间：2021-11-03
+    - 摘要：
+- [职场必备，10分钟快速帮你舒解情绪 丨专业导师带领，0基础冥想直播共练来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642281&idx=4&sn=dd7abff3ffe037564dd065238ea1ed63&chksm=9fc885eda8bf0cfb129e8fbcf8f064883649deae3e3da236ee21076237acf2e0b1e5b00fa88f#rd)
+    - 时间：2021-11-03
+    - 摘要：KY冥想直播共练来啦！
+- [“如果人类有尾巴，见到你我就会忍不住摇起来” 这里有最喜欢一个人的50种模样。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642090&idx=1&sn=2fa350a834e5d84ec0365b2a4e501316&chksm=9fc882aea8bf0bb8fdb711adde9c414e204b8e0bb518cd9982e25e4cbc813366a78bf3198134#rd)
+    - 时间：2021-11-02
+    - 摘要：生活那么苦，来看今天的推送加点糖吧
+- [你是那个愿意对我说晚安的人吗？丨 KY晚安陪伴匹配计划又来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642090&idx=2&sn=dc64f61eee80c652b53caa3c458f9594&chksm=9fc882aea8bf0bb8e3f832e0b3900a9d4f480ecfb6450a0be6db29592664604bcda502b1412f#rd)
+    - 时间：2021-11-02
+    - 摘要：我想陪你，从入睡到黎明。
+- [测测你拥有哪种心理超能力？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247642090&idx=3&sn=7da788879ba28fa8524c51d650a53e3c&chksm=9fc882aea8bf0bb88dcb12ae236659b17679a2859e2a8f9d1364846ab149844c83a7e8de18b3#rd)
+    - 时间：2021-11-02
+    - 摘要：24种心理超能力，你是哪种？
+- [和“对的人”在一起，究竟应该是一种什么样的感觉？（这9种感觉你都有吗？）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247641014&idx=1&sn=0bac83ab09d6069efbf6c27ab89e6ef2&chksm=9fc88ef2a8bf07e4bc893b38e81233dff980ca3c856c2b8826dbe0b60d2954505b5f5b0d3e0c#rd)
+    - 时间：2021-11-01
+    - 摘要：简单易懂好代入，今天的推送不容错过
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247641014&idx=4&sn=966d47fcbfbda161d110e435928d3f49&chksm=9fc88ef2a8bf07e49124c8e4b30dd1e25e75edcf82ddf57cb2a745f7442cf683617959e67139#rd)
+    - 时间：2021-11-01
+    - 摘要：专业心理困惑答疑
+- [求婚、考试、分手、吃大闸蟹……10月，我们身边的人各自经历了哪些难忘的「月度时刻」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247640879&idx=1&sn=d0e1c61491ae669ac37383d7ab30efe0&chksm=9fc88e6ba8bf077d45077c878e71ec8e6f15db585cdaf54112df35995d6744e9b8329fa6dbb5#rd)
+    - 时间：2021-10-31
+    - 摘要：说不定，能看到世界上另一处和你相似的生活
+- [你有哪些未知的天赋？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247640879&idx=2&sn=c58e0ffe7a369145875847ddddcddf58&chksm=9fc88e6ba8bf077d9b8f9abee3e940e4458d74dbe3d52bf57ba31bb0a2761da2a4e4a3d8e164#rd)
+    - 时间：2021-10-31
+    - 摘要：10分钟，解锁你的天赋图谱。
+- [不自信的人，幸运也会更少降临在他们身上。修复自信的关键我们找到了…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247640822&idx=1&sn=d5ced5449493391cce59c056ec8ecd5c&chksm=9fc88fb2a8bf06a41b877fe1ee5b672d7081571b324ca83da7cde1f1c31b617ae9d8233cadd4#rd)
+    - 时间：2021-10-30
+    - 摘要：自信有这3个层次，看完才明白不自信的根源在这里
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247640822&idx=2&sn=bce3bf4c5d364653e7ccc61f4a18249b&chksm=9fc88fb2a8bf06a486f6e0ad4206e22947769fc604150fc88249521761a06073e909c73b396d#rd)
+    - 时间：2021-10-30
+    - 摘要：想做那个听你说出心声的人。
+- [半夜加班千万不要回头看…丨月食物语第十话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247640822&idx=4&sn=808408755568d136275678a8a94a13db&chksm=9fc88fb2a8bf06a44e9b43b65580f1596a895d851703acae5f675a4323f443827432d4f1e0f5#rd)
+    - 时间：2021-10-30
+    - 摘要：
+- [听说没有性生活的年轻人们，开始用文字doi了？！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247640775&idx=1&sn=19929708d8cc7eb044faeb67b9e8062c&chksm=9fc88f83a8bf0695ef15a684c2ea66e6ea3034aa48a756ba00ef94967cd36946cd75d7b74a4f#rd)
+    - 时间：2021-10-29
+    - 摘要：为了研究“文爱”，我们潜入了一个神秘的群体
+- [如何与“不够好”的自己和解？其实答案可以自己「写」出来丨KY定制心理主题功能本暖心上市！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247640775&idx=2&sn=1eea63e25d233a017002d5ce921b13dc&chksm=9fc88f83a8bf0695348272ca314ad5e94968167e69c622145c551a0767345f9b351293589dfc#rd)
+    - 时间：2021-10-29
+    - 摘要：来试试用书写解答自我内心的疑惑吧~
+- [越讨好，越不被看重。只有这样才能找回属于你的人生](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247640775&idx=4&sn=bf028ba218a908b6b28005fbc33e90a9&chksm=9fc88f83a8bf0695ae9a44ef160f8d925f67b5552e3cb34d855f40f65ff5c50e609d91e39f1e#rd)
+    - 时间：2021-10-29
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [一个人就能做到的最有效自我调节方法，我们帮你找到了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247639415&idx=1&sn=f9784d525a3238f2fb16004ea918b132&chksm=9fc88833a8bf0125ba04f185973a3e321330a444f98237e567099a81456063724ba8d9eed654#rd)
+    - 时间：2021-10-28
+    - 摘要：情绪不好的时候，试试这个办法
+- [很舒服，但又不至于“太舒服”，是一段关系最好的状态。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247639131&idx=1&sn=fab26670daa734baba451dcc5148a159&chksm=9fc8891fa8bf00095732a6ee28d96c07b8d25b31dd4c332cb094172cefbf1fa00ef3035d660d#rd)
+    - 时间：2021-10-27
+    - 摘要：无论友情还是爱情，舒服都特别重要
+- [有时爱自己，也会爱错方向…… 丨KY直播对谈专业心理咨询师，带你了解什么才是真正的“爱自己”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247639131&idx=3&sn=2a4276ad5b5c22f8c4fb6c4154ded0e3&chksm=9fc8891fa8bf0009a54b24896dca8c14cf5723317c839a150023412ac280657feaa0ce4214a9#rd)
+    - 时间：2021-10-27
+    - 摘要：KY直播对谈来啦！
+- [这种特殊的吸引力，能让两个人炙热相爱，却也注定了分开的结局。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247638969&idx=1&sn=c81d59d34054c94d03d39a91127cdaa4&chksm=9fc8f6fda8bf7feb31c62eb858ce8ea794d8e71f8804a58d64375be8d217ddce3bd1086f07df#rd)
+    - 时间：2021-10-26
+    - 摘要：有时候，对方身上一开始吸引我们的东西，会随着时间变得难以忍受。
+- [爱自己，这3件事你做对了吗？丨免费监督带练营，学会爱上真实的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247638969&idx=2&sn=478117b516e78914f26c9934d5e09bf3&chksm=9fc8f6fda8bf7feb633bf2ecc92eb4a4ae519a00799bce3b313b97ef5369768ec1fcf83ac64c#rd)
+    - 时间：2021-10-26
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247638969&idx=3&sn=ce4ec9b088d3f305002127faa1478f97&chksm=9fc8f6fda8bf7febba5beea82c23e9ae891e37d198acd59dcae23f6f11b73e31d56d59df3874#rd)
+    - 时间：2021-10-26
+    - 摘要：专业心理困惑答疑
+- [生活已经小心翼翼，却还是越过越糟？研究说，可能是这种心理限制了人生](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247638925&idx=1&sn=f7f7f16b045df955aa2f33bfcddc1c95&chksm=9fc8f6c9a8bf7fdf503266fde3cd5480b2dd84e6823940f274bb65c14ed12c84fc22210a4fd7#rd)
+    - 时间：2021-10-25
+    - 摘要：月食心事事务所漫画连载第二期
+- [你还记得那段拼命努力的时光吗？丨分享你的成长故事超多月亮币等你来拿！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247638925&idx=3&sn=9b05d665137c1913dce5f515a38e3463&chksm=9fc8f6c9a8bf7fdf6072355c14c9c35dc354a2194316f1c2a38c773760f1887c4c8169a4639c#rd)
+    - 时间：2021-10-25
+    - 摘要：每一段努力的时光都值得被记录
+- [8.8分《再见爱人》完结：有些人相爱却走不下去，因为他们的爱中没有“理解”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247637848&idx=1&sn=1b05dbc1de9de22d7d1b539fafb3c576&chksm=9fc8f21ca8bf7b0a92688eb293b1176c25db0da665bcc8cbaeb7a92ab21e989d3a34e27b0d4e#rd)
+    - 时间：2021-10-23
+    - 摘要：有时候，两个人在一起，真的会比一个人更孤单。
+- [心事无处诉说？来KY匹配活动和陌生的Ta聊聊吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247637848&idx=2&sn=16c66424e569e5ec65a2519794efc314&chksm=9fc8f21ca8bf7b0a571741a63b29db6edef43130f825f2a0268c3c5c2035ca04e24f1b40af16#rd)
+    - 时间：2021-10-23
+    - 摘要：想做那个听你说出心声的人。
+- [“得知前任结婚那一刻，我emo了。” 29个成年人emo瞬间，有没有你经历过的？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247637795&idx=1&sn=afa9cc80d003cb2ca1fd44a51cdcd684&chksm=9fc8f267a8bf7b717bb8061cdbef158f983d5b86d5f98e0e2aca281065fb26e4bb46b8616f99#rd)
+    - 时间：2021-10-22
+    - 摘要：成年人的体面，总是崩塌在emo的一瞬间
+- [用周末2天，和多位导师亲密交流，教你学会真诚喜欢自己丨「自我」心理组合课暖心上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247637795&idx=2&sn=954fe559bc10bb70ad6cbac04d423faa&chksm=9fc8f267a8bf7b7162bf068047e6f6154d5bcf00512b2566fbe2dd086895f9a18b85e82d246b#rd)
+    - 时间：2021-10-22
+    - 摘要：热气腾腾的下周（10月25日-10月31日）课表奉上！
+- [爱自己，这3件事你做对了吗？丨免费监督带练营，学会爱上真实的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247637795&idx=3&sn=0e42c56f90b68041aa4c33d970b92383&chksm=9fc8f267a8bf7b7150bc693312351eea2bb693c0be4687fe672e84e332644b184ae79f7457b9#rd)
+    - 时间：2021-10-22
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [你还记得那段拼命努力的时光吗？丨分享你的成长故事参与有奖征集活动！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247637795&idx=4&sn=5b0fd14e7b5cbe322f1926c6ae65af52&chksm=9fc8f267a8bf7b7173b10a2cd014a794425c117654dbf2401946b84169828cb7d84d94021d25#rd)
+    - 时间：2021-10-22
+    - 摘要：每一段努力的时光都值得被记录
+- [一次“典型”的失恋，看起来应该是什么样？男女真的不一样哦……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247637539&idx=1&sn=b9b4de1bdfd07f5ba4aa54f00299f054&chksm=9fc8f367a8bf7a71dfd4ac489de52f71d4fec64c8ff16af19c87845229fbfd5d2975d2c2f8ac#rd)
+    - 时间：2021-10-21
+    - 摘要：失恋后的反应，也包含了很多信息。
+- [你可能不知道，找不到好工作、感情坎坷，都和不够爱自己有关丨10天「爱自己」训练营免费领取中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247637539&idx=2&sn=975d05a7273dacbb3beebc30568e6699&chksm=9fc8f367a8bf7a712eba183a775d45ce3cc7317cc7a48a4d4c3ffc7bf619bb8f74c615f7f2c8#rd)
+    - 时间：2021-10-21
+    - 摘要：原价199训练营限时免费中，还有打卡奖励、抽奖活动等你来领~
+- [具备这种特征的爱情，都能够长久维持，并能成为两个人的心理支撑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636900&idx=1&sn=3147f2c504ff2169da813a79977f35a0&chksm=9fc8fee0a8bf77f687bea6d05b51e769d17961a1c7a9e35ada7ad7806b45b442e41d3ae03591#rd)
+    - 时间：2021-10-20
+    - 摘要：如何谈一场时间越长越甜蜜的恋爱？
+- [向往长久深厚的爱情，现实恋爱却总短暂结束。丨 “维持长久亲密关系”主题的系列文章给你准备好了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636900&idx=2&sn=18ac423126d5ba159786eff022e8d3d6&chksm=9fc8fee0a8bf77f629780b3b078616a49a70f2779e3a4650c3ac8c5e8652515509d4931f4ef9#rd)
+    - 时间：2021-10-20
+    - 摘要：
+- [我们一直活在情绪里，却从未真正了解过它丨KY直播读书会，与你一起共读“情绪”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636900&idx=3&sn=1cd6cb551928e7adc13fe0f772580573&chksm=9fc8fee0a8bf77f683fc2ecec1cb703caa4ab22505c4f150c3379d5ea9a5f9467ab40b82c5cc#rd)
+    - 时间：2021-10-20
+    - 摘要：KY直播读书会来啦！
+- [如果你的“好朋友”拥有这种特质，无论认识多久都要主动疏远](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636549&idx=1&sn=e2620b1f65a52913b35ca73fe7d2d962&chksm=9fc8ff01a8bf7617f3321b4e9479ce7cf9ee57050c6f25aded40387c5fbe67400f9f9bfe9a8a#rd)
+    - 时间：2021-10-19
+    - 摘要：为什么有些朋友相处起来这么累？8个特征帮你识别有毒的朋友
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636549&idx=2&sn=db0da96d30643b8f08afc8a061354af8&chksm=9fc8ff01a8bf76178f7df658992e00ef687f57181f1252eb650f3dd17168fac29687e4f34609#rd)
+    - 时间：2021-10-19
+    - 摘要：专业心理困惑答疑
+- [和喜欢的人已经很熟悉，但总感觉走不进对方内心？你可能遇上了“情感超脱者”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636483&idx=1&sn=5d32a018f606f16efc4c8830eca0309f&chksm=9fc8ff47a8bf7651b2436a9a00068724bf6df5ba36ed25663c2cdc1630374edac9e239ca4949#rd)
+    - 时间：2021-10-18
+    - 摘要：这就是传说中的“主动爱无能”
+- [“好的亲密关系，是自我被治愈后，自然结出来的果实。” 丨KY小姐姐的小闲话系列（旧文）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636353&idx=1&sn=f38a7a7a4a57cae5b197c0fc269981c5&chksm=9fc8fcc5a8bf75d3bee1860010309f4922dbaaa7b7d504eba4daa7250cdd899e028a3bcf6898#rd)
+    - 时间：2021-10-17
+    - 摘要：当一个人还没有被治愈的时候，ta在亲密关系中想要追求东西可能是混乱的。
+- [一个人吃的是饭，两个人吃的是互相监督的爱。丨KY「一起好好吃饭」陪伴匹配来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636353&idx=3&sn=8e8cc9619a456cbedb352cd5c3f74816&chksm=9fc8fcc5a8bf75d3b2bc3f6a43627f676af356b47b1ce920651ad662b5dd499691437dd60aa2#rd)
+    - 时间：2021-10-17
+    - 摘要：嘿，我们一起去吃顿好的？
+- [看起来善良，实际却可以用来操纵他人。这种最适合pua的情绪就是……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636192&idx=1&sn=41a3bbbd4508c09c307171ecdd5fe045&chksm=9fc8fda4a8bf74b2f5a4b53c6e9f37d8e604c6d633a0fe36cabf3318624dde8e2c83daef1b99#rd)
+    - 时间：2021-10-16
+    - 摘要：起码我还有能力伤害你。
+- [关于“冥想究竟有什么用”，看这次直播就够了丨KY内部对谈专业冥想导师（0基础友好）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636192&idx=2&sn=3c89a398aa10f68f84cb004fd9f3d92a&chksm=9fc8fda4a8bf74b2c9adfec67828565ca65b80749a05e2984741a48b8dcfa948e58997b449bf#rd)
+    - 时间：2021-10-16
+    - 摘要：KY直播对谈来啦！
+- [男生普通话不好更有吸引力？难怪徐志胜这么火！丨月小兔讲论文Vol.21](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636192&idx=3&sn=cb37f9476f958d00f608ecaa4568a07f&chksm=9fc8fda4a8bf74b2cbd39e9fe28f4ea2ac1c345d1f836b1f56d92c49b4315fad94bdabf60fa1#rd)
+    - 时间：2021-10-16
+    - 摘要：
+- [“和不够喜欢的人分手，我没想到那一刻影响了我一生”｜KY粉丝故事：11个改变人生的时刻](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636153&idx=1&sn=da5e68c175d0f86162536f3edaf4981a&chksm=9fc8fdfda8bf74eb1eb3768b4854fedad1f573669292e352a53122285114964865c7d49f3fa1#rd)
+    - 时间：2021-10-15
+    - 摘要：影响一生的决定，往往是在看起来很平凡的一刻做出的。
+- [周末来一次沉浸式封闭「心灵旅修」，小班和导师亲密交流，手快有](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636153&idx=2&sn=f058fa665141fae1a28e889328f68006&chksm=9fc8fdfda8bf74eb265bf4c5132d1ff64aef9d89562223d6df0f56602006bca0b6dd98992197#rd)
+    - 时间：2021-10-15
+    - 摘要：热气腾腾的下周（10月18日-10月24日）课表奉上！
+- [一个人吃的是饭，两个人吃的是互相监督的爱。丨KY「一起好好吃饭」陪伴匹配来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636153&idx=3&sn=ab8d737c773ce97608a4e36d76a8573a&chksm=9fc8fdfda8bf74ebb82acf2b535ef5263e1cb9ce998a9a842df2d0d73c68785b8aea38998285#rd)
+    - 时间：2021-10-15
+    - 摘要：嘿，我们一起去吃顿好的？
+- [关于“冥想究竟有什么用”，看这次直播就够了丨KY内部对谈专业冥想导师（0基础友好）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636153&idx=4&sn=84ef3fd99b2effa2366025adc6ffe192&chksm=9fc8fdfda8bf74eb8e8da8cb14c6a1578f0bb7d91890d2781211fc4584872b95814cb0d9bcc4#rd)
+    - 时间：2021-10-15
+    - 摘要：KY直播对谈来啦！
+- [当代年轻人选择结婚有一百种理由，“离婚”却只有一个目的丨茶会又来新城市了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636009&idx=1&sn=c0b4585d9cdf512be5cc153db334abb0&chksm=9fc8fd6da8bf747b3155226020224952b2c3293d27d7495e36aa5650adc6de2e30544e123405#rd)
+    - 时间：2021-10-14
+    - 摘要：茶会小喇叭：滴滴滴，合肥、重庆、南昌、南宁的KYer准备集合，来茶会“团建”啦！
+- [有一种人，收不到对方的回复时，会自己默默删掉对话框](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247636009&idx=2&sn=985b42572ab6b4553376d53c4fe3b06d&chksm=9fc8fd6da8bf747b02544b570a84c5e23dc2d395894979a06f8b277ecc5d8b11216329e37ffa#rd)
+    - 时间：2021-10-14
+    - 摘要：
+- [复工好讨厌？今天的推文能给你一个好心情！｜ 30件让生活惬意的小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247635597&idx=1&sn=5fae85367174eb20a60627d126c12b7f&chksm=9fc8fbc9a8bf72df901725c97ad47083d72cbc1e890c074c9c6013f7af37a61d6b5e18c3f08c#rd)
+    - 时间：2021-10-13
+    - 摘要：节后综合症患者必读
+- [想跨专业从事心理行业？这可能是离你最近的一次机会！丨 萌芽十期明天正式开课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247635597&idx=2&sn=cc3070cb5060a62c6567bd3ecbd54892&chksm=9fc8fbc9a8bf72df42a0c63b24235a74ad776a24a1bd6d55477212bf162253d1fa8b660ae69a#rd)
+    - 时间：2021-10-13
+    - 摘要：0基础入门心理咨询精英课。
+- [纹身这么疼，居然有这种神奇的心理功效？｜ KY趣味心理速递Vol.118](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247635597&idx=3&sn=5070e5a309e5afae9e262bdd907ae352&chksm=9fc8fbc9a8bf72dfeb1af429acfac02b0f2be295f8f012ba1fc7c90548f385b56287301cd5f9#rd)
+    - 时间：2021-10-13
+    - 摘要：都2021了，别再说纹身叛逆啦
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247635597&idx=4&sn=8e72c261ace42305aab58f684dbd65b9&chksm=9fc8fbc9a8bf72df51fe8734f82a8556c0503c9ff544acc831c01ffd2ded6b133081511631a2#rd)
+    - 时间：2021-10-13
+    - 摘要：专业心理困惑答疑
+- [关于“要不要和前任做好朋友”的终极回答。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247635239&idx=1&sn=d28dfef798e63e063ee0d5e7a86f9fc3&chksm=9fc8f863a8bf7175aa02ec020c25fc590c5c798f8c0ad343195c0a977d960cda4e26a4c27d70#rd)
+    - 时间：2021-10-12
+    - 摘要：真正的“分手后友谊”都有这8个特点
+- [抑郁和8种让你不容易快乐的思维模式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247635239&idx=3&sn=657e7ab4cbe3f44455fb5ac350aaa078&chksm=9fc8f863a8bf7175708a307c9900772374d84c152e9849f3ac40206b235a8b88f20f57979af7#rd)
+    - 时间：2021-10-12
+    - 摘要：改变消极的思维模式，从深入地学习开始。
+- [无法获得好的亲密关系的原因找到了！那就是人们「对亲密的恐惧」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634984&idx=1&sn=b4f83febdd0a0a0704f8a53680492917&chksm=9fc8f96ca8bf707a30cac588c1cb165aa3d2e1ed8d66146d8d0deb361210f2a1d906ffe04b50#rd)
+    - 时间：2021-10-11
+    - 摘要：渴望亲密，又恐惧亲密。
+- [越来越多人认为，这种感情不比爱情“低”，甚至可以成为一生的支柱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634895&idx=1&sn=78eee8ee1fb55b94a75b5c43eaf60a75&chksm=9fc8e68ba8bf6f9d395009c36a0cc5edf9ffb1f0472a7f73b531c6f0a0e0503ed82f0e0563ce#rd)
+    - 时间：2021-10-10
+    - 摘要：既亲密又尊重彼此的边界，这种关系才是对成年人来说最好的。
+- [从萌芽学员，到KY聊愈师，到KY全职员工，我经历了什么](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634895&idx=2&sn=c743b8c890514a1513ce4ce96304d606&chksm=9fc8e68ba8bf6f9dea62b01853bf0f195b9892716957d2f8eb1e160e9dd1ee20ca06603d59f6#rd)
+    - 时间：2021-10-10
+    - 摘要：0基础入门心理咨询精英课。
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634895&idx=3&sn=743ed4718f7fd8649e26a418a2ed839e&chksm=9fc8e68ba8bf6f9d8e4f2296a02071a74c5fe613af9efe5cd7955f524c96172c2e56ae7425ab#rd)
+    - 时间：2021-10-10
+    - 摘要：专业心理困惑答疑
+- [暧昧了很长时间，我们到底有没有可能“转正”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634851&idx=1&sn=31682b9edc0159161fdbd665ff48b815&chksm=9fc8e6e7a8bf6ff1aea78b1eef8a7c861d4a62f62fcaeada009313c0cc9489be3962a8699622#rd)
+    - 时间：2021-10-09
+    - 摘要：暧昧关系中最安全的位置，就是“坚持利己”
+- [不知道自己到底需要什么，可能是你已经失去「真诚存在的能力」太久了。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634276&idx=1&sn=e4daa14148ff1d3c837eb2fa0ff07f80&chksm=9fc8e420a8bf6d362227c6af0fa2f3d6c2c752b17567fb06eac6a72fb6278e06cabe880aab8a#rd)
+    - 时间：2021-10-08
+    - 摘要：活得真实，也是需要付出努力的。
+- [用周末2天，和封闭小班的同学一起入门冥想！（和老师亲密交流的封闭课报名中）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634276&idx=2&sn=e77c6e37f0ba21b9e1833dfb362a0b6c&chksm=9fc8e420a8bf6d369b66f59a89e68ee7157d5538c9d4af286c98a921087200a780ba3e6d6aad#rd)
+    - 时间：2021-10-08
+    - 摘要：热气腾腾的下周（10月11日-10月17日）课表奉上！
+- [“如果不是闹铃叫我，我愿在床上躺到地老天荒……” 丨不愿上班的“节后综合症”怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634276&idx=3&sn=643003dd9d005c869161f9f7a634f5c0&chksm=9fc8e420a8bf6d36a21a861c9b08a744f323ccd57460bbcf56e041b1490dd731c5cf399a4285#rd)
+    - 时间：2021-10-08
+    - 摘要：冥想直播共练来啦！
+- [不知道自己到底需要什么，可能是你已经失去「真诚存在的能力」太久了。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634276&idx=1&sn=e4daa14148ff1d3c837eb2fa0ff07f80&chksm=9fc8e420a8bf6d362227c6af0fa2f3d6c2c752b17567fb06eac6a72fb6278e06cabe880aab8a#rd)
+    - 时间：2021-10-08
+    - 摘要：活得真实，也是需要付出努力的。
+- [用周末2天，和封闭小班的同学一起入门冥想！（和老师亲密交流的封闭课报名中）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634276&idx=2&sn=e77c6e37f0ba21b9e1833dfb362a0b6c&chksm=9fc8e420a8bf6d369b66f59a89e68ee7157d5538c9d4af286c98a921087200a780ba3e6d6aad#rd)
+    - 时间：2021-10-08
+    - 摘要：热气腾腾的下周（10月11日-10月17日）课表奉上！
+- [“如果不是闹铃叫我，我愿在床上躺到地老天荒……” 丨不愿上班的“节后综合症”怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634276&idx=3&sn=643003dd9d005c869161f9f7a634f5c0&chksm=9fc8e420a8bf6d36a21a861c9b08a744f323ccd57460bbcf56e041b1490dd731c5cf399a4285#rd)
+    - 时间：2021-10-08
+    - 摘要：冥想直播共练来啦！
+- [“那是一生中最难忘、却再也不会回来的夏天”：17段假日回忆，有没有一段让你想起了谁？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634147&idx=1&sn=0b961f5e87b518a4543265412e320e6b&chksm=9fc8e5a7a8bf6cb17b8e8362dc6a5d84365f24a003da536ec41817365d56b0c18b0558a19b7c#rd)
+    - 时间：2021-10-06
+    - 摘要：难忘的是假日，更是青春。
+- [假期什么都好，就是不能想这个…… 丨专业老师带领，0基础免费冥想直播，让我们一起为身心“回血”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634147&idx=2&sn=bd3b863b6f668bd7263a1993e720d23b&chksm=9fc8e5a7a8bf6cb1745db39474583496ad94428277f63233db22bda406a6829bd6c29a887040#rd)
+    - 时间：2021-10-06
+    - 摘要：冥想直播共练来啦！
+- [我经历过的痛苦本没有意义，来到这里，我找到了意义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634147&idx=3&sn=1158c7ccc53c3976e8ae40c624478bfb&chksm=9fc8e5a7a8bf6cb1040df7fe906ac1bcfb83f9d133dc8e8aa5e16d4898ca1a00960812498ac7#rd)
+    - 时间：2021-10-06
+    - 摘要：0基础入门心理咨询精英课。
+- [长假还有3天，来匹配一个「72小时陪伴伙伴」吧！丨KY陪伴活动又来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634143&idx=1&sn=11df6e816ad313d779c2b5fc43ba0bdd&chksm=9fc8e59ba8bf6c8d27cca39be1c3d291aa40a5a2db4f63bdc2bd5fda53e74f79ab464426c4d0#rd)
+    - 时间：2021-10-04
+    - 摘要：再错过的话，KY可帮不了你咯
+- [我想要亲密无间，他想要保持距离。恋爱模式不一致如何破？｜ 来看看这次的KY主题精选](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634143&idx=3&sn=def48caff9964d0b9286f1d9c36c53e5&chksm=9fc8e59ba8bf6c8d9665c460a718ec13ed69fceec0746ad5ee6e48cbfbabf9ae43ef79fb526f#rd)
+    - 时间：2021-10-04
+    - 摘要：
+- [你在亲密关系中遭受的创伤可能比你认为的还要严重](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634143&idx=4&sn=b824105048de195253535a7286851656&chksm=9fc8e59ba8bf6c8dbce86e3b709b407e01bbabf319d098f55f3a9ae18a2fc6e83aa3e89f83fe#rd)
+    - 时间：2021-10-04
+    - 摘要：如何更好地处理亲密关系给我们带来的创伤？
+- [为什么人一穿上制服，就显得特别性感？今天这篇性感的推送你不能错过。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634127&idx=1&sn=852a995974d5291e91410ab4ed44e601&chksm=9fc8e58ba8bf6c9dc8efc85d78da4d52c77827d316d12724250eb2af2f87de8dd9f71685b3a7#rd)
+    - 时间：2021-10-03
+    - 摘要：系好安全带，出发！
+- [下一次换工作之前，这24条职场前辈的血泪经验你必须先收藏](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247634127&idx=2&sn=bb359860fea6b741042e0c11cc639914&chksm=9fc8e58ba8bf6c9df46ce76c48f6c73efb74ba64f9027641cea1172ba2ffa40b47c62d31113e#rd)
+    - 时间：2021-10-03
+    - 摘要：先养活自己，然后做自己
+- [两个高中生，开了一个地下性诊所？这部剧堪称专门处理性困惑的「性百科全书」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247633866&idx=1&sn=0d0404589206cc7339f24ed63c18155d&chksm=9fc8e28ea8bf6b982dd4cc2305f1b4ba5c594943772f62758ab117115f027a3c8583e98954c0#rd)
+    - 时间：2021-10-01
+    - 摘要：第三季热播中
+- [选择困难？这里有我们给你搭配好了的、多种活动的主题心理卡（情绪，自我，亲密关系3种）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247633866&idx=2&sn=1ec06013f5f0b73819955a3394b13967&chksm=9fc8e28ea8bf6b9802c0a432aba4c538ec1e7864bcfbe4156854dbebff0b7c900227f48407ce#rd)
+    - 时间：2021-10-01
+    - 摘要：热气腾腾的下周（10月4日-10月10日）课表奉上！
+- [“恋爱是内心体验，婚姻是权利义务” 婚姻与恋爱到底有哪些区别？我们和粉丝们聊了聊。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247633576&idx=1&sn=da011c0574e1eb27281a91dceede41ad&chksm=9fc8e3eca8bf6afa6b608c5afcebcc14a25a00a8c214c07659ef7031fea07884eac8286f0d1e#rd)
+    - 时间：2021-09-30
+    - 摘要：粉丝们总结出的33种区别，你认同几种？
+- [能帮你建立「自我存在感」的20件小事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247632584&idx=1&sn=ec97dd64f3b60c8d5a773fdcbc465e2b&chksm=9fc8ef8ca8bf669a4cea33854c4ec47c91e86f4eb17464a69efdf2482257b5a07a22f3b1b910#rd)
+    - 时间：2021-09-29
+    - 摘要：我们都需要通过一些方式，感受到自己与生活的连接。
+- [“我不怕孤独终老，却害怕开心时无人分享的落寞” 丨 KY测试：脱单自救手册](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247632584&idx=2&sn=bec425b0a0cec0b37a8c6639d27766db&chksm=9fc8ef8ca8bf669af142b25efb24bafab744d38bb735d52f6ec79da402f7fd9661114c86362f#rd)
+    - 时间：2021-09-29
+    - 摘要：是什么在阻止你脱单？
+- [躁郁症是抑郁症的一种么？｜精神障碍入门必读系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247632584&idx=3&sn=bf6bb8cdd4351b728eb6aa89b7379fb6&chksm=9fc8ef8ca8bf669ad84a99478744148f33dc8fcac517dba3098048bde1727f6dbb4696bb9e5a#rd)
+    - 时间：2021-09-29
+    - 摘要：深入理解和学习精神障碍相关的心理知识。
+- [如果一辈子都不想恋爱，应该如何过好这一生？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247631721&idx=1&sn=e1b3879aac19058c8cfcb051c0bc56cc&chksm=9fc8ea2da8bf633b7d45a6837a16959c65a94a733d2f177d91e07939d0c36ecf100961131b67#rd)
+    - 时间：2021-09-28
+    - 摘要：单身主义者必须收藏的一篇
+- [从萌芽学员，到KY聊愈师，到KY全职员工，我经历了什么](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247631721&idx=2&sn=4f741cc97e7b8d5237597ce8e4c9875a&chksm=9fc8ea2da8bf633baa40e52d8c709363512036c901fe8aca8f0efc659a1dfbbaf59ed7002cbc#rd)
+    - 时间：2021-09-28
+    - 摘要：0基础入门心理咨询精英课。
+- [想象自己有很多包，就能够降低买包的欲望？研究说：是真的！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247631721&idx=3&sn=666dd9cee26c5cc1f750ced80741d702&chksm=9fc8ea2da8bf633b5f0e064c8ea07ea305e54148272f1398ae6aa18edaa9297ebace0ded85f8#rd)
+    - 时间：2021-09-28
+    - 摘要：
+- [曾经约过炮的人，会更容易出轨吗？来看看心理学研究怎么说。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247631051&idx=1&sn=675cebb18cb8c76c659a257e182eeaaf&chksm=9fc8e98fa8bf6099e68f6046a4e4f0894aee7927b2423ab3238ffbf009293d1e27d9337c38fd#rd)
+    - 时间：2021-09-27
+    - 摘要：真的不是洗白文。
+- [每天睡醒都觉得心累，实在不想上班？你需要警惕这种破坏性的职场心理问题……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247630808&idx=1&sn=928dfa32c580c0027826640f0ef92689&chksm=9fc8d69ca8bf5f8a1099873ff2693528068e9fa3469e843ca60624c2338109f953f6f3af9e73#rd)
+    - 时间：2021-09-26
+    - 摘要：值得警惕的“累”，有这样3个特征
+- [2021年9月5日，我们全家人最爱的外婆走了。丨 小姐姐系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247630662&idx=1&sn=866daeb4bad427e7b8be5398bb235e9b&chksm=9fc8d602a8bf5f14834f86f9523d0d43e540090cfd75f73027cbd16eac15b7c9c5caaa572dd2#rd)
+    - 时间：2021-09-25
+    - 摘要：外婆让我明白，什么叫作慈悲为怀。她是个有大智慧的人。
+- [你的自控能力强么？好的策略可以帮助你提升自控力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247630662&idx=4&sn=c2fcfe17f87073836e396ae0d4a8c64e&chksm=9fc8d602a8bf5f148acff8ce7312ce84cf2380dac300e8b30b8227ddf40e5b32c4e38e22b8d9#rd)
+    - 时间：2021-09-25
+    - 摘要：听说学习心理学可以帮你提高自控能力
+- [“无条件的爱是难得的，但是有条件的爱是牢固的。” 丨 他们的精神导师说过这25句话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247630632&idx=1&sn=7c0ac8f68b5b1c1194854ae9868a46e5&chksm=9fc8d66ca8bf5f7a8a14340427bd195283abeb14c4d718cb07b188fbc50638d7608544705e29#rd)
+    - 时间：2021-09-24
+    - 摘要：一句话影响人生系列。
+- [总是“想太多”，感觉好累怎么办 丨专业导师带领，0基础免费冥想直播，守护每一颗“敏感的心”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247630632&idx=2&sn=17259f8f03b781f90b9e7862eb0984c2&chksm=9fc8d66ca8bf5f7a6de48fb18db77246b65de070946fd7f24199dfc9256db6cbc4cb50056c9d#rd)
+    - 时间：2021-09-24
+    - 摘要：冥想直播共练来啦！
+- [风靡好莱坞与硅谷，一周末上完的「正念入门」封闭课来了！小班体验更好哦～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247630632&idx=3&sn=d405ea932d6382abfd7da95cc092c79f&chksm=9fc8d66ca8bf5f7a78c960e0861dfd84b1ecdb2344e5c7e03abf06b3329f1c7ec7adc957f0a7#rd)
+    - 时间：2021-09-24
+    - 摘要：热气腾腾的下周（9月27日-10月3日）课表奉上！
+- [爱了一个不爱自己的人，究竟要如何才能释怀？丨小姐姐的小闲话系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247630446&idx=1&sn=e344470cddc239ef510b36b699aa5ad8&chksm=9fc8d72aa8bf5e3c035dad49f069024cc9f43661d6082740214a866a5d9624dd2af97cc8e989#rd)
+    - 时间：2021-09-23
+    - 摘要：两个人相爱，又看起来很般配，为何还是会走不下去？
+- [总被敏感所困？快来这获取自己的“心理盾牌”吧｜专业导师带领，0基础免费冥想直播，守护每一颗“敏感的心”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247630446&idx=3&sn=308085ba7d23285ecd65843f0cae61d3&chksm=9fc8d72aa8bf5e3cb9db04eb0f14f7d62cddba5f3d8b217839d481b6623b983253a2143ef289#rd)
+    - 时间：2021-09-23
+    - 摘要：冥想直播共练来啦！
+- [忙和累都是可以的。但如果出现了这种感受，就说明心理状况需要引起重视了……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629722&idx=1&sn=abbfea9966ae0bee977fc8c31d99d741&chksm=9fc8d2dea8bf5bc83d33e03e1cdcb8342822c872baa68e6fd0fbd30bfe3955686da58b9127d6#rd)
+    - 时间：2021-09-22
+    - 摘要：这可能是这个时代的精神危机
+- [从萌芽学员，到KY聊愈师，到KY全职员工，我经历了什么](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629722&idx=2&sn=fdb79ada416b592360a8a258b5663674&chksm=9fc8d2dea8bf5bc8cf0b9da66ccb2e8e0ba6c1aea46f8c9f964455050f1245b098f00c417b2e#rd)
+    - 时间：2021-09-22
+    - 摘要：0基础入门心理咨询精英课。
+- [一周几次才算“高质量性生活”？来看看研究怎么说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629625&idx=1&sn=a05952a4c9ac942eb885d96bb94f5db0&chksm=9fc8d27da8bf5b6b3ecf68b4e94675b7b5347ca7bb4d378bd38e1851d3f89505dcd72f99d155#rd)
+    - 时间：2021-09-21
+    - 摘要：抓紧安全带，我们这就发车啦！
+- [“太爱对方”反而更容易分手？其实好的爱情也需要“适度冷漠”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629618&idx=1&sn=2b6edded18f588e025d612180d194da2&chksm=9fc8d276a8bf5b606ef3866fa4dfbbe71f9fec6090920320628d5f5c74ed5e8b238e395208a0#rd)
+    - 时间：2021-09-20
+    - 摘要：在爱中平衡自我与对方，需要我们时而后退一步，冷静观察
+- [怎么快速学好一门语言？如何抑制吃甜食的冲动？来看研究这样说！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629618&idx=2&sn=697d6b484d4c2d2a489f7a6a3c7708b3&chksm=9fc8d276a8bf5b60bb60f5a00f5635ea20af3e034542156c3d20cfaf5d1f9f7cbc5f7edc2e5d#rd)
+    - 时间：2021-09-20
+    - 摘要：月小兔讲论文Vol.20
+- [生活无处不焦虑，我们该如何对抗](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629618&idx=3&sn=7d4f00dc3375bfcc67e6acfd675aafd9&chksm=9fc8d276a8bf5b602f2c0bb881423c26a8e2137e48cacdce96a0c209b090229ff36d9e73ecaa#rd)
+    - 时间：2021-09-20
+    - 摘要：学习心理学，帮你找回内心的安宁
+- [Ta不跟我吵架，却能让我肝疼。你见过这种“阴阳怪气人格”吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629546&idx=1&sn=35b97e4df869f3531ca204f170413f3f&chksm=9fc8d3aea8bf5ab8630cc97f590f09c8a2bb86df2088c3bed41c9e9da22d8d96706bcce8448b#rd)
+    - 时间：2021-09-18
+    - 摘要：喜欢用这种攻击的人，其实是想操控别人。
+- [从萌芽学员，到KY聊愈师，到KY全职员工，我经历了什么](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629546&idx=2&sn=0a21ad4bcc37b87dfd19c1821bdedb36&chksm=9fc8d3aea8bf5ab88f71eff2e3d0b0649e8a3a27128df593db818b7ef42db6279344118a7000#rd)
+    - 时间：2021-09-18
+    - 摘要：0基础入门心理咨询精英课。
+- [你也想拥有甜甜的恋爱吗？请不要再凭实力单身了！丨KY精选文章教你如何脱单](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247629546&idx=4&sn=52a23e62e0663bd7abf21a9e65e98c52&chksm=9fc8d3aea8bf5ab849cfa04f25935ee64d612a537b3e97ac56b82e03498bbe307033febdc744#rd)
+    - 时间：2021-09-18
+    - 摘要：
+- [如果40岁还单身，生活会怎么样？我们找这21位小姐姐聊了聊。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247628975&idx=1&sn=73102e822d0cc075d28081bb3a5e2d55&chksm=9fc8d1eba8bf58fd0e63325c9389501c361e85a2994f3c9ae073d37f8cc531e5eef67bf332da#rd)
+    - 时间：2021-09-17
+    - 摘要：大龄单身就像生活一样，注定是喜忧参半的。
+- [畅聊性平等话题、走出职业的迷茫期、干花书签DIY...| 城市修行“全日派”精彩视频](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247628975&idx=2&sn=fb58ed1ce98e78c19bbaa26bcbd790bd&chksm=9fc8d1eba8bf58fd8a3b4252de6ea67ade2b7dc53356047d831ecab8de01424899122154c6fe#rd)
+    - 时间：2021-09-17
+    - 摘要：大家好，这里是城市修行空间。
+- [两个人之间最深的感情不是“我爱你”，而是“我看见了你”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247628392&idx=1&sn=d0faf7bd7533fb680240788543feb339&chksm=9fc8df2ca8bf563aae1502e9f48a9bb776ac38b51ec9afabc1204c4e482b9b1838ee9e97e5c0#rd)
+    - 时间：2021-09-16
+    - 摘要：爱一个人，就是在对方心里找回了我们自己。
+- [KY和小红书联手搞事情了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247628392&idx=3&sn=7605587e7e0ba48dca2e51c837f46ca0&chksm=9fc8df2ca8bf563a80446e6324121f7d2f6beaa13a591db081d13c7892e79f5bf6b475f210a6#rd)
+    - 时间：2021-09-16
+    - 摘要：我们悄悄做了一件事，是时候告诉KYer了！
+- [我经历过的痛苦本没有意义，来到这里，我找到了意义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247628392&idx=4&sn=4fc4c69e672f2220a367f81b00d2a010&chksm=9fc8df2ca8bf563a0dda47d4bebeb99d29e3a6862b536c1ecb70d937930a7360e168c1681db0#rd)
+    - 时间：2021-09-16
+    - 摘要：看见真实的自己，接近那个完善自我的可能
+- [比起孤独，ta们更抗拒与人交往的“累”。｜你会主动选择“社交隐形”吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247627993&idx=1&sn=dfb66cdeaf64bf367cf2764e91956095&chksm=9fc8dd9da8bf548b98303a2807a5a08c48b18069ddfe2f3d82733a9a5682ddb006342c1ebbe6#rd)
+    - 时间：2021-09-15
+    - 摘要：我只想默默当一个社交小透明。
+- [我经历过的痛苦本没有意义，来到这里，我找到了意义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247627993&idx=2&sn=cc625d086f099f2fe7e083df939a7d42&chksm=9fc8dd9da8bf548bc352947eaf0d29cbcaf9f1f7c0ce68dec83755f74f5b76e645e7b21d932a#rd)
+    - 时间：2021-09-15
+    - 摘要：0基础入门心理咨询精英课。
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247627993&idx=3&sn=2b893481c325e27a869df33d048eff62&chksm=9fc8dd9da8bf548b18819bdc8f2c6cb84e3c03873df64cd8730de318e0dd45b8ad01cc6ee642#rd)
+    - 时间：2021-09-15
+    - 摘要：专业心理困惑答疑
+- [啪早了，他会对我不认真吗？如何面对社会的“卷”？丨茶会新开3城，看看有你吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247627876&idx=1&sn=f27f32ec6eef21442b966e95777cfcfe&chksm=9fc8dd20a8bf5436b27b11b28649de89fb4913952af583ca79688def9175462f768f8003d89f#rd)
+    - 时间：2021-09-14
+    - 摘要：滴滴—— 今天的车不去幼儿园，来看看茶会er在现场又发生了什么吧～车门焊死，谁都不许下！
+- [为什么喜欢一个人，就会想吻ta？丨KY趣味心理速递Vol. 115](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247627876&idx=2&sn=df6e574635de8458fb1ada5c6d039e57&chksm=9fc8dd20a8bf5436e8e5a0298f7d61abe259828cd4547c3e3074223d6333c64807cd1272048e#rd)
+    - 时间：2021-09-14
+    - 摘要：爱我你就亲亲我~
+- [研究发现，大多数伴侣分手都不是因为大的困难。而是因为生活中出现了它……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247627110&idx=1&sn=ff79bd888627acf87127d091421790dc&chksm=9fc8d822a8bf5134db64dd11adfc764d5a801b5f63114bbf5dbb840892e3f98065681a492e0f#rd)
+    - 时间：2021-09-13
+    - 摘要：每一对想要长久在一起的伴侣，都必须学会面对关系中的不满。
+- [我终于拥有了改变思维模式的自由丨萌芽10期报名优惠1760元最后5天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247627110&idx=3&sn=f04d5204a17cc623a1f2d98fc6e7e5ab&chksm=9fc8d822a8bf51343f09567dc913c5f9c4df7601ca1f92ecec92b8036a3605cfbff36078020f#rd)
+    - 时间：2021-09-13
+    - 摘要：0基础入门心理咨询精英课。
+- [你的咖啡成瘾是个什么水平？研究说：喝哪种咖啡，能反映人格。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626855&idx=1&sn=6fc4e08da0f9d09d64bca42e6ec5001f&chksm=9fc8d923a8bf5035f760972a68394dc538bc48453856760369f759fa12f69389b5782aa8ba4e#rd)
+    - 时间：2021-09-11
+    - 摘要：全文无广告植入，放心食用
+- [Flag总是立了就倒，如何制定有效的计划来完成目标？丨 这个主题的文章KY已经帮你选好了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626855&idx=2&sn=6aa29a284720062aa7f1267b75e9540d&chksm=9fc8d923a8bf503572cc467803250f6e48de6c291e9cf77ae003e512721c80b320dcf2dbc220#rd)
+    - 时间：2021-09-11
+    - 摘要：
+- [KY在小红书推出独家视频专栏啦！喜欢看视频的朋友速来！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626855&idx=3&sn=f269b3c527a639f7bb9088544a636e48&chksm=9fc8d923a8bf5035fcb395bf623e2ded002a3de4c8af8f8e19de56d70f92f6fc4b5d1b9134fd#rd)
+    - 时间：2021-09-11
+    - 摘要：欢迎来小红书分享更多关于心理探索、自我成长的知识或体验。
+- [我们为何而活？只追求快乐可能让你早死](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626855&idx=4&sn=9f24424cd4f62f06db5b62a9181a1a52&chksm=9fc8d923a8bf5035af72528147fb4737b964ec2cc66d0becbdf15c50dce40a32842afe626ec8#rd)
+    - 时间：2021-09-11
+    - 摘要：0基础入门心理咨询精英课。
+- [“爸爸从小就跟我说，人最重要的事，就是学会享受生活。”丨你的“精神胚胎”是什么样的？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626563&idx=1&sn=a031339735c2eaefc457a87d39191125&chksm=9fc8c607a8bf4f114bc3b7f71c98216533c0cc0f31d1d45bc4350e2b818d14d78d2dc953620c#rd)
+    - 时间：2021-09-10
+    - 摘要：18个关于从童年里长出“精神胚胎”的故事。
+- [美术馆观展和冥想竟可以这样梦幻联动？快来KY和UCCA Edge合作的「自我探索之夜」体验吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626563&idx=2&sn=b2c62319bf142865c680849fb59377ff&chksm=9fc8c607a8bf4f117f4676408750ae938601da47835dcabbf7fea48e60f43451fb846379121f#rd)
+    - 时间：2021-09-10
+    - 摘要：
+- [所以，一切真的都是童年的错么？丨如何摆脱旧的思维定势](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626563&idx=3&sn=fe1d73ae3cc0f7b272853502a1242090&chksm=9fc8c607a8bf4f114cc009322a85f2db7f1e7187f2c4e64a986071787f329bac37e83238b1d0#rd)
+    - 时间：2021-09-10
+    - 摘要：0基础入门心理咨询精英课。
+- [两个人之间一旦有了连接，就成了比恋人更特别的人。｜7条标准判断你们之间的“连接”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626332&idx=1&sn=015f558069bfa19b51672fd4e3f00a82&chksm=9fc8c718a8bf4e0e58c7c942ab52510fb9926b33f780730f614dcf92ef6362fb2ec23c329d3f#rd)
+    - 时间：2021-09-09
+    - 摘要：这7个标准，检查你们是否是真正彼此亲密的人
+- [魔法世界再次开启，快来参加分院帽测试 | KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247626332&idx=2&sn=b8e03d6fdd3ab31580244c9f3bd01b22&chksm=9fc8c718a8bf4e0ed643d9da7de952a639dbafe22c603ce9717b3c4e9481e79549e6b8d354c7#rd)
+    - 时间：2021-09-09
+    - 摘要：霍格沃茨猫头鹰来给你送信啦！
+- [《乔家的儿女》：跟不喜欢的人结了婚，然后呢？我们找了一些粉丝聊了聊。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247624822&idx=1&sn=517da42202d1f83272eaa4fd58b56133&chksm=9fc8c132a8bf482402562292a47c05b6634f057612013702a54003c45bacbdc5e467fff275ac#rd)
+    - 时间：2021-09-08
+    - 摘要：53%的男性觉得会跟不那么喜欢的人结婚，而只有33%的女性也这么想。
+- [写信给聊愈师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247624822&idx=3&sn=e2d4fff4b8321697cf291e40e0924d0d&chksm=9fc8c132a8bf4824c38b0469fd890e5fa030f3b9ea44b1eba8d2a37e344fd8b8297d0234294d#rd)
+    - 时间：2021-09-08
+    - 摘要：专业心理困惑答疑
+- [魔都周末去哪儿玩？这里有音乐疗愈、性主题讨论、视觉冥想...还有好多彩蛋等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247624822&idx=4&sn=0a01a18fe40a0438ecd3a73c04cded36&chksm=9fc8c132a8bf4824e47660c55bce64c3da52f254d6b3d661ab1c24d96d60cee80cdd23aa10ef#rd)
+    - 时间：2021-09-08
+    - 摘要：在周三这种离周末这么远，又那么近的时间，总想有点盼头。
+- [Ta的承诺是真心的，还是只是给你“画大饼”？来看心理学研究怎么说。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247624284&idx=1&sn=294e3cd733a0601e56781c89cb7dddf2&chksm=9fc8cf18a8bf460ee9778601954947ab6acfda6e5cae17f6847c905b6e6c5d7af4f833fc4730#rd)
+    - 时间：2021-09-07
+    - 摘要：不要等着对象给你画大饼，你也可以主动给对象画大饼。
+- [0基础转行入门心理咨询，只需6个月 | 兼职聊愈师机会在等你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247624284&idx=2&sn=5fb1feca87b3d2797eaec10b218440d0&chksm=9fc8cf18a8bf460e86be90a3dff060dc5c5ddffc54b99d2bd910b5e7ee2581768fadf017add1#rd)
+    - 时间：2021-09-07
+    - 摘要：心理咨询精英入门课程+配套实践。
+- [这种长期被人忽视的心理特质，能够做到“尊重”和“自我坚定”做不到的事情](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247624024&idx=1&sn=996e9211b654e0dd6c1bb2283226e4d8&chksm=9fc8cc1ca8bf450a10ba4e2b6d540649b7501d818d28bb1805724534e4f343dd01f5b8f387c4#rd)
+    - 时间：2021-09-06
+    - 摘要：这种方式不但能让关系更紧密，还能转变对方
+- [走出职业迷茫、性与爱情中的平等、沉浸视觉冥想...周末来魔都KY网红限定活动吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247624024&idx=2&sn=5225a3bf7775bbf68b466012651a86bd&chksm=9fc8cc1ca8bf450a9e79cd64058ff1466c3c8b5dc58b3d26d277ef0a755ab1846f26981f5947#rd)
+    - 时间：2021-09-06
+    - 摘要：滩上当红心理冥想馆，谁还没来打过卡？
+- [《当代年轻人爱情观调查》：这个时代，年轻人的爱情观真的更开放了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247623741&idx=1&sn=42fbcebf85799c8318113f21a3eb4fe9&chksm=9fc8cd79a8bf446f4425c3c00a9c70bbb1ee1cd8f49ec42539208cc145760315560790e5b886#rd)
+    - 时间：2021-09-05
+    - 摘要：今天的推送让我重建了对爱情的信心！
+- [我终于拥有了改变思维模式的自由丨萌芽10期早鸟价最后一天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247623741&idx=2&sn=e884befd124ded4a931a3e7ea08f3bc0&chksm=9fc8cd79a8bf446f54a564ac2f5174cc7712efb2f6a1caaa087403b72a5c47a80b01924b9d08#rd)
+    - 时间：2021-09-05
+    - 摘要：0基础入门心理咨询精英课。
+- [喜欢说“没事，不用回我”的人，才是最在乎对方回不回复的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247623709&idx=1&sn=dac44ac61d6a1d41e5bdc439584ea324&chksm=9fc8cd59a8bf444f60754f6c6e44ccea1e0a5bc430e2d16efd43f1483dc7eeca151c475d0221#rd)
+    - 时间：2021-09-03
+    - 摘要：有一种人，收不到对方的回复时，会自己默默删掉对话框
+- [找回被爱的能力，走出职业迷茫，治愈系音疗... | 来沪上网红洞穴，打卡治愈系周末](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247623709&idx=2&sn=4cd5750155da1b463e28b17389e07771&chksm=9fc8cd59a8bf444fb3375574f13e6f765ac527888ebc2f8018683accc73ad37d4ee574a28053#rd)
+    - 时间：2021-09-03
+    - 摘要：KY季节限定活动火热报名中！
+- [在关系中，我们为什么不愿意谈论自己真实的感受 | 什么是情绪流动性？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247623709&idx=3&sn=e76a8b339f4687fb7981ab85b422d499&chksm=9fc8cd59a8bf444f2b16ac04de4e94836243ca23543cd6c03d2ac5c3f62ecdf63460d607816f#rd)
+    - 时间：2021-09-03
+    - 摘要：0基础入门心理咨询精英课。
+- [《脱口秀大会4》鸟鸟：又丧又犀利，为所有“长相普通”的女孩子发声](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622563&idx=1&sn=2b72687d57fe4e5c625abbc201667234&chksm=9fc736e7a8b0bff159d0a5fd97e518a99187389ad772dd1bdb9dd342dfd8e845d4202ec8b2d7#rd)
+    - 时间：2021-09-02
+    - 摘要：我实在太喜欢这个女孩子了！
+- [想要维持心态平衡，你需要定期“精神充电”丨专业导师带领，0基础公益免费冥想直播又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622563&idx=3&sn=c880fdb87afd297887009b962cb2ae2d&chksm=9fc736e7a8b0bff13c3d6243bfd1743b1301840e7fa2100226a970fb81ae4e66a501a85b9324#rd)
+    - 时间：2021-09-02
+    - 摘要：冥想直播共练来啦
+- [作为心理学小白，如何加入KY成为聊愈师？丨萌芽10期早鸟价最后4天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622563&idx=4&sn=d390e39fdf6cdc1cac25cd93583d3ff2&chksm=9fc736e7a8b0bff12b3ff836691f55df75dd7e461fc1f5b94f085d3e870ef83a630fb6c0dbfd#rd)
+    - 时间：2021-09-02
+    - 摘要：心理咨询精英入门课程+配套实践
+- [想知道关系的走向会怎么样，心理研究说，算命居然真的靠谱？！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622408&idx=1&sn=6c5c9a5b700e8e16b364a03ddab4781e&chksm=9fc7364ca8b0bf5a25641d5b03e8806cdf1a672527a6aea337534ab1438af3696c62caf06a4e#rd)
+    - 时间：2021-09-01
+    - 摘要：今天，我们来聊一个“玄学”话题。
+- [想跨专业从事心理行业？丨心理咨询真实案例大师课，免费送！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622408&idx=2&sn=e358aab3415b44ac2440ccd6bb691836&chksm=9fc7364ca8b0bf5aee00f97aa3c93cc53eddcbca9b082533e73b3e3f42f1bf9857d320816fd0#rd)
+    - 时间：2021-09-01
+    - 摘要：0基础入门心理咨询精英课。
+- [魔都周末去哪儿玩？这里有音乐疗愈、性主题讨论、视觉冥想...还有好多彩蛋等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622408&idx=3&sn=8f43fa2210684041d1fc2bc2633441e1&chksm=9fc7364ca8b0bf5a5fed63de835a2c42785813563abde4ef3a4278430b190f2d702ba39ebb3f#rd)
+    - 时间：2021-09-01
+    - 摘要：在周三这种离周末这么远，又那么近的时间，总想有点盼头。
+- [你们的对象都是从哪儿找到的？23种脱单方式，快来抄作业了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622264&idx=1&sn=d72b2079118a87ad8fc7501992877ca2&chksm=9fc7373ca8b0be2a3bebfc1a1acfaf45d96878b1156b8a8c1281b97c50a84e09cba8d21fc765#rd)
+    - 时间：2021-08-31
+    - 摘要：想脱单？先把这6步按顺序走一遍
+- [想要维持心态平衡，你需要定期“精神充电” | 专业导师带领，0基础公益免费冥想直播又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622264&idx=2&sn=decef0c21949a87bf453838cce21e41f&chksm=9fc7373ca8b0be2a1546999e9f66a2bb0cd8d3b0ef6e4fd69a94c7cda30cd3ae5e703f17f59c#rd)
+    - 时间：2021-08-31
+    - 摘要：冥想直播共练来啦
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622264&idx=4&sn=15beff4b55efba2466eb6316c1b8f8db&chksm=9fc7373ca8b0be2af0bd22f5090590ef7bdceb79b8cb6d806084a8ae4c2ca049c5e172c15431#rd)
+    - 时间：2021-08-31
+    - 摘要：专业心理困惑答疑
+- [只有足够成熟的心智，才能产生这种最积极、最抗抑郁的情感](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622154&idx=1&sn=683c1b691eb7247ec8baf35bf6bf0ad4&chksm=9fc7374ea8b0be58595bda55ac58b1f04082963edfc1da6c0528a85c024b3fd3afe48a65363d#rd)
+    - 时间：2021-08-30
+    - 摘要：人生如逆旅，我亦是行人。
+- [有时候，爱过一个错误的人，会给我们留下“人格伤疤”。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622065&idx=1&sn=daea0450268863812816fb3befdb91dc&chksm=9fc734f5a8b0bde377766dd04635c617c0f1316c149c076e93c89ccaedb717a0f5de813927a8#rd)
+    - 时间：2021-08-29
+    - 摘要：曾经敢爱敢恨的我，活得越来越谨小慎微。
+- [“不想失去你，但更不想输给你”如何面对爱情中的输赢？你需要这些KY精选文章](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622065&idx=2&sn=a618e2236458b82f49ecd3214a4dce6d&chksm=9fc734f5a8b0bde338b85cac801fda5869feccc78a44ea8513a43ff9f7a7fadb294890a10e36#rd)
+    - 时间：2021-08-29
+    - 摘要：
+- [为什么有的人特别容易尴尬？丨KY趣味心理速递Vol. 113](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622065&idx=3&sn=674aaa2a3ce9453d6316b2854fe2bde2&chksm=9fc734f5a8b0bde3c158468d7538aea6a73f2710c6a67e3e8050850f7532c08d74b88d76b4b3#rd)
+    - 时间：2021-08-29
+    - 摘要：研究发现，“只要我不尴尬，尴尬的就是别人”居然是真的！
+- [静不下心、难以专注、每天都在焦虑，内卷之下我们如何找回内心的安宁？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622065&idx=4&sn=959cd1e5f03932a293e1202e9d85dd8d&chksm=9fc734f5a8b0bde33039041b9a1253fa2633e6302218915d6ac1de09d516fecb9c63f9725630#rd)
+    - 时间：2021-08-29
+    - 摘要：0基础入门心理咨询精英课。
+- [你一生中最快乐是什么时候？这里有27个能让人感叹“活着真好”的时刻](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622030&idx=1&sn=8ee8bc12cc46cff22a6bba9e73a9c1e5&chksm=9fc734caa8b0bddc95e1c88fa00f919ef1ee7837fa659db030430474bebf7ca9788bc58545a2#rd)
+    - 时间：2021-08-28
+    - 摘要：今天是一篇能让人看笑出来的推送。
+- [《脱口秀大会4》宁静发言惹众怒：为什么有的幽默好笑，有的却是一种冒犯？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622000&idx=1&sn=ec8aa0863e4cdce8877af672568f567b&chksm=9fc73434a8b0bd22a3c5b124d5677ff21dba8548c1b098a9d886532e87c9f5cc8eef99310258#rd)
+    - 时间：2021-08-27
+    - 摘要：5种类型的幽默梗，你认得几种？
+- [唱诵疗愈、沉浸视觉冥想、首发性平等工作坊......KY限定活动不来了解一下吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247622000&idx=3&sn=ba2eabcc670877a878e097538904c1b8&chksm=9fc73434a8b0bd222a0ea0f85ad1f93572a60812428a71460f07571898fb4d5db84e1c1c3d7c#rd)
+    - 时间：2021-08-27
+    - 摘要：老规矩，热气腾腾的下周（8月30日-9月5日）课表奉上！
+- [有这样一种人：很被人需要却又很孤独。丨你是关系中的“神使”吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247621586&idx=1&sn=153ad4989ebcec3a30d7a5922230ca2c&chksm=9fc73296a8b0bb805bac285b4c2cff0d3ae53887679fdb0f57170b7321a043b67d6d4b38c870#rd)
+    - 时间：2021-08-26
+    - 摘要：共情力过剩，有时候也是“诅咒”。
+- [从心理学小白到入驻KY成为聊愈师，我只做了这一件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247621586&idx=2&sn=c5cf5b87a1ab183326dedbe1870cb295&chksm=9fc73296a8b0bb80eb6608a9214d5d1833adb1e262ce6a43c460881559b32108d2a27a23fe5c#rd)
+    - 时间：2021-08-26
+    - 摘要：心理咨询精英入门课程+配套实践
+- [“处男”的100种含义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247621477&idx=1&sn=d7de3f52af2f6fec8edf776543cc7873&chksm=9fc73221a8b0bb3704217046cc40f0b92d558f84a903c7531c545207a1f9fa06e0fdb361f007#rd)
+    - 时间：2021-08-25
+    - 摘要：和荡妇一样“丢脸”的，是处男。
+- [性与爱情中的平等，箱鼓手碟，沉浸视觉冥想...尽在KY秋日限定活动！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247621477&idx=2&sn=68eedb259fb8f6af1018543f0958b536&chksm=9fc73221a8b0bb37d6929e4d7f484ba02e8f8647f8d08f1e009f155a7e2db4ebfbd2f4f9e9bc#rd)
+    - 时间：2021-08-25
+    - 摘要：名额有限 手慢无！
+- [天天说想谈恋爱，遇到人却总是转头跑。这4种想法，会降低你“被爱”的可能性…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247621381&idx=1&sn=96ecb1654106b36b100ae1e09c816868&chksm=9fc73241a8b0bb57828e32b6769976fb5fa22d92cf3b322800f21040ca09fa60b77854ab874f#rd)
+    - 时间：2021-08-24
+    - 摘要：“被爱”其实还是一种能力
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247621381&idx=3&sn=4e4df5754f9e2f4e7c9d011814467ac2&chksm=9fc73241a8b0bb5748ed147a85c91d301d16c300ca66083de3b5e244695d100339c4ae655dbf#rd)
+    - 时间：2021-08-24
+    - 摘要：专业心理困惑答疑
+- [这4种虚假的爱，扎痛了情侣们的心。来看看你们中枪了吗——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247621249&idx=1&sn=1f069a1c680e2844f845a939832cc75b&chksm=9fc733c5a8b0bad3a2e9ffb8ecfc114c963a1b651d28c8c779a5c2a5aa83ad33eb709ffd7ff3#rd)
+    - 时间：2021-08-23
+    - 摘要：真爱不是占有，也不是物尽其用。
+- [“过去的伤痕无法定义今天的我。” 丨心理学如何改变生活](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247621249&idx=2&sn=5e51fd8f77bc0611a1666b5b413969f4&chksm=9fc733c5a8b0bad34539da65cc2a7a4eecd495f37c1f2c91172687415094e7c23b5394c9c95b#rd)
+    - 时间：2021-08-23
+    - 摘要：0基础入门心理咨询精英课。
+- [那些被人喜欢又不会失去自我的人，靠的是这种心理特质](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247620604&idx=1&sn=bd7b529d9701f6b57904bab6b43b3bcc&chksm=9fc73eb8a8b0b7ae42f5ce9c542ac5fc7855b74d7e9fcd71dba405d4848c806bc459624b1b44#rd)
+    - 时间：2021-08-22
+    - 摘要：没有这4点，善良就只是一场自我消耗。
+- [爱的人在哭泣，我却只会说“别哭了” 丨如何成为一个有“疗愈力”的人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247620604&idx=3&sn=b2f251e66a3a3bde781a31759574d126&chksm=9fc73eb8a8b0b7aeb63a624b94d25a98deae241964ac382be7dc81cf62c13ac1f778c320f49f#rd)
+    - 时间：2021-08-22
+    - 摘要：0基础入门心理咨询精英课。
+- [如果要给孩子留一个关于婚姻的忠告，你会怎么说？来看看KY粉丝们的回答。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247620325&idx=1&sn=837173cbfab1a23735c8e695295f70f9&chksm=9fc73fa1a8b0b6b748bfc93730a3d4b3a3e92436db83ac6f826bc7a99105322db95020e995c3#rd)
+    - 时间：2021-08-20
+    - 摘要：21条婚前必读。
+- [长大后，我却对生活感到麻木了丨0基础冥想公益免费直播又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247620325&idx=2&sn=f2779e8341fba1cdc628400ff2ba2e10&chksm=9fc73fa1a8b0b6b7083cc09c7e103ea754907d532dbfafa4fc3401ed1e2ab40b0cea69c02850#rd)
+    - 时间：2021-08-20
+    - 摘要：冥想共练又来啦！
+- [又焦虑又丧，努力累了只想躺平，我该如何应对焦虑？｜来试试《逃离焦虑的生活》](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247620325&idx=3&sn=b6e786d479ca34b394eab40b555e9e99&chksm=9fc73fa1a8b0b6b7973d5e4a70f882e745d626627d61d4fdffa5560511bea990d28d46d47a12#rd)
+    - 时间：2021-08-20
+    - 摘要：老规矩，热气腾腾的下周（8月23日-8月29日）课表奉上！
+- [男人的身材之谜：一个平均体态的男人，长什么样？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247620101&idx=1&sn=5c288eda9e7cc3ad51d5c4e9380e9ecd&chksm=9fc73f41a8b0b65706cfb279b39f027f398b56f3ee06628a53eca167fd92d23456dde57af4c7#rd)
+    - 时间：2021-08-19
+    - 摘要：2021年，身边的男人也开始形体焦虑了
+- [长大后，我却对生活感到麻木了…｜专业导师带领，0基础冥想公益免费直播又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247620101&idx=3&sn=2bd5424c9e842e79ec59895f2b558961&chksm=9fc73f41a8b0b6576a5e7c54862a6b6d9d863d7e2d8f0f97241e451753ad6e60b4a9bf5fcb89#rd)
+    - 时间：2021-08-19
+    - 摘要：冥想共练又来啦！
+- [20%的已婚人士处于无性婚姻中。婚姻会让人丧失性趣吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247619701&idx=1&sn=e570779642481aebefffd52a8eb01742&chksm=9fc73d31a8b0b427b4423793d6fa1386a5a9e7076e428a3a0a61df09721c682e05b16f9bfc81#rd)
+    - 时间：2021-08-18
+    - 摘要：无性婚姻最可怕的不是无“性”，而是对性的误解。
+- [心理咨询真实案例大师课，免费送！丨萌芽十期早鸟价立减1960元](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247619701&idx=2&sn=8df1d183cc01cb59ac67f20f3ee5a849&chksm=9fc73d31a8b0b427231a9dfe091ae2283ef9a538e1820ade78f2a751378ac7381e7c5075364c#rd)
+    - 时间：2021-08-18
+    - 摘要：0基础入门心理咨询精英课。
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247619701&idx=4&sn=fe73c40611aa360493f7550fad816170&chksm=9fc73d31a8b0b427d527227fa45d8332b536156c6b89419a2f43cfc57a8cf809fa914147b534#rd)
+    - 时间：2021-08-18
+    - 摘要：专业心理困惑答疑
+- [“我以为找到了满分男友，结果对方只是拿我练手”丨KY线上茶会主题上新，手快有！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247619418&idx=1&sn=0bce62a903ded9a72accb04d0bed8b6a&chksm=9fc73a1ea8b0b3085013ba60c7dfac0d8fb1903b4fe0d03b74723fd82145418325f57929cee3#rd)
+    - 时间：2021-08-17
+    - 摘要：“离婚”“反抗内卷联盟”“我这该死的吸渣体质”等等新主题上线，来选你喜欢的主题场～ 还没线下开城的小伙伴快去月食APP报名参加线上茶话会，限时特惠9.9元哦！
+- [人类高质量冥想活动丨KY和格力高联手奉上](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247619418&idx=2&sn=ef5502ce9ed00e6db0fcbf01e97b5b98&chksm=9fc73a1ea8b0b30888b2df298bf34218a2d1cae1a8805cd3c4068bfa15fa3acba77e48afff6f#rd)
+    - 时间：2021-08-17
+    - 摘要：
+- [看完一千集柯南，我精通了几百种杀人手法。丨KY趣味心理速递Vol. 112](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247619418&idx=3&sn=a81e9055ef3d4289d27e8ad0d345af55&chksm=9fc73a1ea8b0b3087269f0e1e9ca7c561ad1f011a9dfab364b54f1996f7581366d70dd3347a1#rd)
+    - 时间：2021-08-17
+    - 摘要：令人不寒而栗的恶里，藏着温暖的理解和希望
+- [研究说，人类的本性真的是“看脸”。不过不仅仅是颜值那么简单…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247618520&idx=1&sn=cf07221fba495e2f1a4cbba52e02ed9d&chksm=9fc7269ca8b0af8a1be79ffd67b6743bb4c36296d786c93acf3df781afa7593b7285e4bab3e4#rd)
+    - 时间：2021-08-16
+    - 摘要：看脸，但又不仅仅是看脸
+- [我们终于开始科学算命了丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247618520&idx=2&sn=36b1cb22b8d25d1b586b6132ded3d19c&chksm=9fc7269ca8b0af8ab79fb9e1c7a5d85087dc73bea9a42cd779f0ceb2b2f26b2834287a55debc#rd)
+    - 时间：2021-08-16
+    - 摘要：揭露你命定的人格原型。
+- [有一种关系中的不合适，叫作“权力状态不合适”丨KY小姐姐的小闲话系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247618060&idx=1&sn=c278d00a5cfcd6d0ed23adad97f1e3d1&chksm=9fc72748a8b0ae5e33d8e0a7a38eee8749eb2b80471a79859d275f82af595a655edbe40970a3#rd)
+    - 时间：2021-08-15
+    - 摘要：两个人相爱，又看起来很般配，为何还是会走不下去？
+- [有趣的女生没对象？女性的幽默难道不讨喜吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247618060&idx=2&sn=e5d5de4c085ec3952775768c13257369&chksm=9fc72748a8b0ae5e38d74d11e373a9f6a462ae4cc2495920c0926b9dbc67f2ca15cb75f9e08c#rd)
+    - 时间：2021-08-15
+    - 摘要：
+- [霍尊冷暴力女友，为什么有些人就是没法体面分手？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247617898&idx=1&sn=37c35ce9b63fa3d5b85e07af67cf8d09&chksm=9fc7242ea8b0ad380d2d183d77f60d0b12de1afb8ead92bd08db112ac53e2a8b56deab95d183#rd)
+    - 时间：2021-08-14
+    - 摘要：5种类型的分手，你最讨厌哪种？
+- [用你的爱情测试结果匹配一个对的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247617898&idx=2&sn=3bef86995d2f9bccbd5a761dafb003a3&chksm=9fc7242ea8b0ad38fcc0a89cd7def017dbf8c212ac3c170183dfed6b1a9ad843fc28c6fa2acd#rd)
+    - 时间：2021-08-14
+    - 摘要：七夕快乐。
+- [打游戏，真的可以降低男性抑郁风险！狼人杀的科学玩法是…丨月小兔讲论文Vol.19](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247617898&idx=3&sn=6be7f93f76a6534a51eeff7c957aa0d4&chksm=9fc7242ea8b0ad38bd0dfe0d9b7b786c6d5d1cd322a966fddb93f99421ee120d2c033c1f43fa#rd)
+    - 时间：2021-08-14
+    - 摘要：
+- [“过去的伤痕无法定义今天的我。” 丨心理学如何改变生活](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247617898&idx=4&sn=fc01ec51509ca84af650849afa56b164&chksm=9fc7242ea8b0ad38bb63523d669f9020ad78d24c96d7004309fb2c4ef11fe11d5afe42fe718d#rd)
+    - 时间：2021-08-14
+    - 摘要：0基础入门心理咨询精英课。
+- [研究发现，我们的身体构造注定了“上头”是无法长久的。想长久相爱只能靠这个…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247617271&idx=1&sn=17dada6c3e939061eca9f0c263f12dcd&chksm=9fc723b3a8b0aaa5f98ef0a998196093891b63f450f795a2ba5c0ff9175e448434bc6abaa967#rd)
+    - 时间：2021-08-13
+    - 摘要：短暂的热恋是一种缘分，而长久的相爱却是一种选择。
+- [分手后总忍不住想起前任？感觉自己不会再爱了？｜来下周工作坊学习《走出失恋》吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247617271&idx=2&sn=9cd1c8cef15059518506f88654402b0b&chksm=9fc723b3a8b0aaa5aa67e5fa911416dc6d5a438529d81284e6b65c743d14ca7ca0b85785f746#rd)
+    - 时间：2021-08-13
+    - 摘要：老规矩，热气腾腾的下周（8月16日-8月22日）课表奉上！
+- [爸妈快六十了，但他们的性生活，可能比你和996男友多得多…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616891&idx=1&sn=a2f77cc6f9337d3393912daf7a94d5d3&chksm=9fc7203fa8b0a92943dbbb93d142119580a33b0caf0851721fc0ecf5f6ebb123e576940ddb0c#rd)
+    - 时间：2021-08-12
+    - 摘要：年纪大了会“不行”？不存在的。
+- [“在那之后，我终于知道了我想要什么样的爱情。”丨用KY测评找寻相似爱情观的ta](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616891&idx=2&sn=ec92bddf21cba67f4df3dbc6c5a9f781&chksm=9fc7203fa8b0a9292fcb5466ec1302eecbc1e20a6adc4d46a14a172f15d4410719e490108be7#rd)
+    - 时间：2021-08-12
+    - 摘要：用一次测试，一场活动，换一个新朋友。
+- [“我也想做到普通且自信，但我总觉得自己很差。”丨自我接纳主题的精选文章KY已经帮你选好了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616891&idx=3&sn=0467ecd8d8274b3643b38d73612ca105&chksm=9fc7203fa8b0a9298d8aef575292a0f94f601d044b69a6f7beadd4a6300962107202f0c88267#rd)
+    - 时间：2021-08-12
+    - 摘要：
+- [年纪越大越不敢投入感情？你迟迟无法确定关系的原因，我们找到了…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616431&idx=1&sn=fc32f2f5fca0f6af1a7205439f1abe45&chksm=9fc72eeba8b0a7fdff5d71e40cf752cd164b2ae6e600fa2f10028e87cf75156a223ca1204087#rd)
+    - 时间：2021-08-11
+    - 摘要：3种亲密关系的不确定性，你正在经历哪种？
+- [从心理学小白到入驻KY成为聊愈师，我只做了这一件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616431&idx=2&sn=a68531ca36eb896259ff0ef711863608&chksm=9fc72eeba8b0a7fd1f1ffb3700b7b1f04ae0c54ef4e06e1750470258246cec2b25dd79290bdc#rd)
+    - 时间：2021-08-11
+    - 摘要：心理咨询精英入门课程+配套实践
+- [研究说，床上运动之后这样做，伴侣感情会更好丨KY趣味心理速递Vol.109](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616431&idx=3&sn=2f7b191cc757b4a67a8a7d0dc4c570d9&chksm=9fc72eeba8b0a7fd728f278f872221f667e6d6bed7aa987fb87f0a009e8c9779b0aeacb87836#rd)
+    - 时间：2021-08-11
+    - 摘要：事后这样做，才是真的赛过活神仙～
+- [不够漂亮的性骚扰受害者，做受害者也不配吗？｜全季受害女主被喷“丑得安全”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616346&idx=1&sn=a6453bbb8abfe8eef4fa28b885cf447f&chksm=9fc72e1ea8b0a708123f21339af4ca1008d450e56527027f3e48b6f019615d9123562dadae57#rd)
+    - 时间：2021-08-10
+    - 摘要：不要再说“你长得很安全”了，开玩笑也不行。
+- [难熬的日子里，还好有TA的守护丨一生中最重要的4种守护，你得到过几种？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616234&idx=1&sn=86bdce1f57120005502dfb3ab33aa9d4&chksm=9fc72faea8b0a6b8da6396551ba19be7af79da8481ecb5f8e719916b727e025264b0bc1e71f6#rd)
+    - 时间：2021-08-09
+    - 摘要：刚烤出炉的面包，再涂上蜂蜜和炼乳，是守护的味道。
+- [距离你最近的0基础心理学求学、从业机会不容错过丨萌芽计划第10期开始招生啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616234&idx=2&sn=268dd11f97561a96ec913b75627cd5ab&chksm=9fc72faea8b0a6b849fcfb1d9a241c5eb61adb989cec20d37bd22450b73497cfc84e3b024473#rd)
+    - 时间：2021-08-09
+    - 摘要：0基础入门心理咨询精英课。
+- [你见过猫咪击剑、赛艇、排球、马术三项吗？丨快来领取最新的月小兔头像啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616234&idx=4&sn=f4c71d3b633265ce73742b54690d9595&chksm=9fc72faea8b0a6b896149c1a8763bae306265fb8f00e3f39f8d7e86de38f53012f88571141cb#rd)
+    - 时间：2021-08-09
+    - 摘要：
+- [爱情应该从几岁开始？30岁会变成心智完全成熟的人吗？｜KY粉丝留言：不同年纪的人，都在烦恼什么](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616145&idx=1&sn=a0605ae7209e89bef7f73a85fc2d262c&chksm=9fc72fd5a8b0a6c30060152711f62675a70e0067094b68ce4b97651c3191dce7355954afd3d2#rd)
+    - 时间：2021-08-07
+    - 摘要：我们问了比你年长的人，他们说，生活并不会变得更容易。
+- [研究说：真的有人的“不靠谱”是天生的！丨KY趣味心理速递Vol. 108](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616145&idx=2&sn=5a07b922b76a87c9223ab1c704aef5e8&chksm=9fc72fd5a8b0a6c3500640d0da5e783e0893c3ba885e9d2f3990b7176e766c345f31509a46de#rd)
+    - 时间：2021-08-07
+    - 摘要：赶不上飞机，忘记考试，总丢东西。我还有救吗？
+- [压力大到无法喘息？花一个周末的时间来按下暂停键吧丨「冥想入门」封闭课贴心加场](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247616119&idx=3&sn=45031eab8ecd703e2096b2ba53d5ddbd&chksm=9fc72f33a8b0a625ea1bcfa69bc0e0496efe2b575036fbda9e315668ba686a21a291588a3139#rd)
+    - 时间：2021-08-06
+    - 摘要：老规矩，热气腾腾的下周（8月9日-8月15日）课表奉上！
+- [人死后，真的还会跟自己爱的人交流吗？来看看研究怎么说。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615763&idx=1&sn=3964f6010b0edee0cc65ea8e45d96cb1&chksm=9fc72c57a8b0a541c8333faa71a781028a4985af64a885996fd94344420489c56a944551941e#rd)
+    - 时间：2021-08-05
+    - 摘要：我感到已经去世的爱人，再次来到我身边。这是真的吗？
+- [手机屏幕不起眼的光，居然是人类失眠的罪魁祸首！｜KY趣味心理速递Vol.107](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615763&idx=3&sn=dcd156e9f2f3476b0b6211074c9e65cc&chksm=9fc72c57a8b0a54124793c4dd96778d09fd7dd9e71939b66c272b68a327f61c604b6b939d5fe#rd)
+    - 时间：2021-08-05
+    - 摘要：是时候买一副防蓝光眼镜了
+- [想要提升对生活的掌控感，你首先需要提升专注力丨0基础公益免费冥想直播，专业导师带你共练冥想](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615763&idx=4&sn=74ea621799baefe14121d5cb473f657c&chksm=9fc72c57a8b0a541b33f40b5f8ebdb5297bb014156004b370f237f8f3df4fd030fc9dccbfa67#rd)
+    - 时间：2021-08-05
+    - 摘要：冥想直播共练来啦！
+- [当我感到被抛弃的时候，我就想自我毁灭。丨什么是爱恨极端的“边缘型”人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615648&idx=1&sn=9a682177dac3eee0490088891401ae8c&chksm=9fc72de4a8b0a4f2e0724c0abc734b1a60bffd99eca9c2cd66e6a4c1aba17f70fc931b79378e#rd)
+    - 时间：2021-08-04
+    - 摘要：严重疾病，仅做科普，请勿随意对号入座。
+- [“大碗牢饭”该怎么吃？这里有吴亦凡给我们的4大启示](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615648&idx=2&sn=e88c8a71f16bc8b4f0a5795b5c436755&chksm=9fc72de4a8b0a4f2680528937583b2a7135f516334cc59fbecb4c4b326b8b9c45b88f8a14e87#rd)
+    - 时间：2021-08-04
+    - 摘要：有时，忍耐不是美德，愤怒才是。
+- [来看看不同年龄的人都在烦恼什么吧？丨来月食心事交流中心为你答疑解惑~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615648&idx=3&sn=2416e037c802d883c6c9893258738ff1&chksm=9fc72de4a8b0a4f25e557a804ca643af784a3dba957b20981458e45bd3338594573420cfade8#rd)
+    - 时间：2021-08-04
+    - 摘要：来这里消除烦恼相遇知己~
+- [一个会让人心态失衡的思维习惯，很多人每天不知不觉都在做](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615359&idx=1&sn=8b606f4a017e6b67806593d744995946&chksm=9fc72a3ba8b0a32df01362bc7ccf96dfe0c11597dc8129a9e2da574eca8f30fae3a6b5c6b52c#rd)
+    - 时间：2021-08-03
+    - 摘要：这里有一个很危险的想法，来看看你有过吗？
+- [想要提升对生活的掌控感，你首先需要提升专注力丨0基础公益免费冥想直播，专业导师带你共练冥想](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615359&idx=2&sn=c14cf48b1e36ab0c51fbb042c644e208&chksm=9fc72a3ba8b0a32de97e41a92a798b5daebfd82203b6f76be6111111354bf25440335391b2f2#rd)
+    - 时间：2021-08-03
+    - 摘要：冥想直播共练来啦！
+- [最近负面情绪有点多，我该怎么办？丨这些KY精选文章能帮助到你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615359&idx=3&sn=7543734fab2b585097538a39908f89ef&chksm=9fc72a3ba8b0a32d466f441b3a8343e699d2b1a7b7ef5795b80f9b1baf57ee798bf139216220#rd)
+    - 时间：2021-08-03
+    - 摘要：
+- [同居有3种，只有一种通往婚姻，甚至有一种通往单身。丨KY研究：你是哪种同居？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615191&idx=1&sn=b6c0309f091890da835e517cf3f05c17&chksm=9fc72b93a8b0a2854db9174e9f61b48c288be619f0348eaf6b0998f23128178c7db253bd7c2b#rd)
+    - 时间：2021-08-02
+    - 摘要：决定同居前，你一定要做这两件事。
+- [上班之后，我没了生活，也没了头发丨限时免费：打工人身心健康自测](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247615191&idx=2&sn=06365a22b3441922ef0b07fa4bed1030&chksm=9fc72b93a8b0a285ddb7511d4f85eaafc836115dcb643ae527d250f1f782d6157f4b00dbbe2c#rd)
+    - 时间：2021-08-02
+    - 摘要：太难了。
+- [异地恋十年，每年相见40天。他们的异地恋为什么如此成功？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614781&idx=1&sn=aaa7b55126ae98e0cf9204d187a28870&chksm=9fc72879a8b0a16f98e2c28e9b6853af189928f6b41093142ec373394859ed964b9435a3f259#rd)
+    - 时间：2021-08-01
+    - 摘要：Ta们身上有这个时代需要的光
+- [最好的伴侣之间需要一点“欺骗”丨研究说：拥有以下6个特点的伴侣比较容易幸福](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614735&idx=1&sn=0aca9d432a41c57b3c5b73992b2dffff&chksm=9fc7284ba8b0a15d43b83217d29f2f6f578f39300f49a0be815bb249f88cfdc2538bf9628f0b#rd)
+    - 时间：2021-07-31
+    - 摘要：在幸福的感情中，两个人会完全真实地看见对方么？
+- [研究发现：要想爱情长久，就得棋逢对手。｜怎么样才算是势均力敌的爱情？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614646&idx=1&sn=51ce428d93a7c7ae88450216fbc9d747&chksm=9fc729f2a8b0a0e4c17ea9a8fa6290789ddd0029332d37e2671027ea135fa748118d3c1cea60#rd)
+    - 时间：2021-07-30
+    - 摘要：在吗？想和你谈一场势均力敌的恋爱。
+- [悲伤、焦虑、愤怒、“丧”，情绪总出问题怎么办？丨 KY心理练习室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614646&idx=2&sn=1f4e6afa19953163b66a2bc9f699a606&chksm=9fc729f2a8b0a0e402439199fa4d483346ff1f704b55c83bf3d85d6bc954a1b9e02d10557f22#rd)
+    - 时间：2021-07-30
+    - 摘要：情绪自助工具限时免费中
+- [高科技视觉冥想，冰川、瀑布、几何光学，快来体验吧！丨 新课上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614646&idx=3&sn=28adf64de6153c5c41b2cae4fdf0ac64&chksm=9fc729f2a8b0a0e4bde473bd5784aabfb83c7bb2d8ad6085bc775cfdb97fd21988101aa4e079#rd)
+    - 时间：2021-07-30
+    - 摘要：老规矩，热气腾腾的下周（8月2日-8月8日）课表奉上！
+- [就算大雨让整座城市倾倒，我们还可以彼此拥抱。丨KY粉丝留言：17个温暖的小故事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614472&idx=1&sn=ffe6a939019f92ab44c457956635c3b6&chksm=9fc7294ca8b0a05a8d21518844048dcc42dd10222dfb05ec4d9e40b8a89c2447a641fae68675#rd)
+    - 时间：2021-07-29
+    - 摘要：如果你也感到沮丧难过，来看今天的推送吧～
+- [睡前不能听音乐的原因找到了！丨KY趣味心理速递Vol.105](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614472&idx=3&sn=7d42e9154f686f908e7d8f00af9aca51&chksm=9fc7294ca8b0a05adc58329113fd64e275b93ef13f5eef1e34acdf3d13ae3bcc9eb82133eb32#rd)
+    - 时间：2021-07-29
+    - 摘要：耳朵里总是听见一首歌的单曲循环，是怎么回事？
+- [健康可是比礼品重要啊丨月食物语第八话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614472&idx=4&sn=d34a8ed0125a4d8ebbeadaedd2f7c9d2&chksm=9fc7294ca8b0a05a5dc4b2a8e2592b8b012ecd5675637e07c40dc8216fc56f7ffa70b168df19#rd)
+    - 时间：2021-07-29
+    - 摘要：重视疫情，及时疫苗，做好防护哦。
+- [有些爱让我们变强大，而有些爱却会使我们变虚弱。｜“被偏爱”和“被溺爱”有什么区别？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614408&idx=1&sn=5b2cdb7217d229f7af39b34524ec6cd2&chksm=9fc7168ca8b09f9a4128d138ed9815ad1c55ca2a65be34f5935770e07c321f3b8d72e6b3df11#rd)
+    - 时间：2021-07-28
+    - 摘要：为什么说——看起来千依百顺，可能也不是真的爱你？
+- [心里有困惑？聊愈24小时内给你专业解答！新用户可免费体验](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614408&idx=3&sn=28a7c797e4b91441d5b6df51208e89a4&chksm=9fc7168ca8b09f9ad6b28ed8a2328275faad3869d1ee63984041778cb58b450937b03bd508ed#rd)
+    - 时间：2021-07-28
+    - 摘要：专业心理困惑答疑
+- [两个原生家庭有问题的人在一起，会更难还是更容易？（旧文）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614382&idx=1&sn=42b358288eeea66f14ae9290e256833e&chksm=9fc716eaa8b09ffcc9fa2d5c4211bee8383a90b5342ca5aa661d25eebf73767fbc9000cd41c6#rd)
+    - 时间：2021-07-27
+    - 摘要：原生家庭不会决定你的亲密关系 ，只要你……
+- [为讨小三欢心，他亲手把亲生子女从15楼扔下。丨隐藏在我们身边的心理变态者，有哪些特征？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614264&idx=1&sn=c33869737284a3a3c5ad784252e4715e&chksm=9fc7167ca8b09f6a61ee3f01615ce094f8cff667cd6447ddeea50e3eb0d73aa3575324103616#rd)
+    - 时间：2021-07-26
+    - 摘要：重庆幼童坠楼案今日庭审。
+- [这个世界正在发生的事，已经足以让我们每个人的心灵受伤。丨KY小姐姐的小闲话系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614212&idx=1&sn=eb1ebf7a2fed3298ac23480ac203c5d1&chksm=9fc71640a8b09f5627468c155cf463dae23f7d365280384a01298b5fd1a1a78204588d763951#rd)
+    - 时间：2021-07-25
+    - 摘要：我豆友说，诺亚方舟是农村铲车的样子。
+- [在7个夜晚，用7首不同颜色的歌陪伴你丨KY“一周晚安陪伴”上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614212&idx=2&sn=2494a56248b9dbbcd19546bb761480bb&chksm=9fc71640a8b09f560fdce101c0330dcc9c1fcc95a3c794cb33e0e0a5257ccd9e10e3d404271e#rd)
+    - 时间：2021-07-25
+    - 摘要：很高兴认识你，从今天的晚安开始。
+- [自控力强的人对伴侣更挑剔！什么粉色饮料能让你更持久？丨月小兔讲论文Vol.18](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614212&idx=3&sn=6be556be8b287480c6780814ee1cfd47&chksm=9fc71640a8b09f56868b3b320cdb536c563dccb705b6d889eb57d1be296cd99d2c2692d9b045#rd)
+    - 时间：2021-07-25
+    - 摘要：
+- [“你要显得难追，才会更被珍惜” 研究说：这居然可能是真的，但是…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614153&idx=1&sn=a5913253f272d2df6e385cb02004b0b7&chksm=9fc7178da8b09e9b6fd86005eec97d5129e7b59d23dda70f615e2981e3aca0e0646b9f44a4cd#rd)
+    - 时间：2021-07-23
+    - 摘要：爱情也分长期和短期游戏。
+- [掌握这些方法，摆脱“有毒”的沟通模式丨来新课《正念人际沟通》带你提升沟通能力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614153&idx=2&sn=ec0354227baace0166c0c255630b6386&chksm=9fc7178da8b09e9bca60a1390c151fd575125159204b52b34db381d6082c1aeae8f880602399#rd)
+    - 时间：2021-07-23
+    - 摘要：热气腾腾的下周（7月26日-8月1日）课表奉上！
+- [在7个夜晚，用7首不同颜色的歌陪伴你丨KY“一周晚安陪伴”上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247614153&idx=3&sn=00c80f001a5e4ca4083014491f0dda8b&chksm=9fc7178da8b09e9b782fc880f9eb693d37655229953a32a7c483e12acd409b7c78d8c5b2917b#rd)
+    - 时间：2021-07-23
+    - 摘要：很高兴认识你，从今天的晚安开始。
+- [“一辈子只睡一个人，不觉得无聊吗？”丨如何面对爱情失去新鲜感的那一天？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613914&idx=1&sn=6c3e43097da390ea6ea8fcbc791f2623&chksm=9fc7149ea8b09d885b9e64a4fffdee15cd646ce4c7fb5e21e067e926cd5cbc09ad03c048254b#rd)
+    - 时间：2021-07-22
+    - 摘要：永远的爱到底是怎么发生的？
+- [冥想是流传于现代的传说？丨专业导师带领，0基础冥想公益免费直播又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613914&idx=4&sn=a8ca19318fa73b9e2bd8087366c8e860&chksm=9fc7149ea8b09d8880b8b7165eda1a68ffecc5a69b8a7fbdf773483acd78a9df9cb54260601e#rd)
+    - 时间：2021-07-22
+    - 摘要：冥想直播共练来啦～
+- [性同意、权势性侵、关系内强奸……吴亦凡事件引发的值得被讨论的话题有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613621&idx=1&sn=d1a0c4c3179379b3bfa39e7673780c0c&chksm=9fc715f1a8b09ce731c651c0271aed989cc3272d861fac043bb7d5b06e6c0a561072cf643423#rd)
+    - 时间：2021-07-21
+    - 摘要：什么是健康的、不构成犯罪的性行为？
+- [冥想是流传于现代的传说？丨专业导师带领，0基础冥想公益免费直播又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613621&idx=2&sn=8be05b9d3fc447658187ca78b6a1d719&chksm=9fc715f1a8b09ce73d6664c58fe84ee4ca41c0bf960135edf713f632671b4dce3eb96e7dec9f#rd)
+    - 时间：2021-07-21
+    - 摘要：冥想直播共练来啦～
+- [工作没意思，不工作又无法生存...“打工人”该如何好好生活？丨 快来看看这个主题的KY精选文章吧](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613621&idx=3&sn=cf358608d08f1ff858d22eb57c73e16b&chksm=9fc715f1a8b09ce76a145b2268ae7c48ebbc73cf9bb1c8367fc70b8fd66d64e501585ae4b75f#rd)
+    - 时间：2021-07-21
+    - 摘要：空虚、疲惫、压力大、对职业迷茫……你需要看看这4篇文章。
+- [特别讨厌有的人说“谢谢”，根本就是在炫耀丨KY趣味心理速递Vol.103](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613621&idx=4&sn=9e22595fae906f19f1e30eca6e2ddf12&chksm=9fc715f1a8b09ce7b8b02921ea97c2fcdda21c4e940cf1acd7c042965eaf9c3f45bd7c351291#rd)
+    - 时间：2021-07-21
+    - 摘要：研究发现，“谢谢”说得不当反而会被对方讨厌！
+- [研究说，在你认为是朋友的人里，有一半的人并不把你当朋友。｜成年人的交友困境](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613278&idx=1&sn=224fca5000e8535ec55164416c3d3827&chksm=9fc7121aa8b09b0cfc61fe7da8420805ff3e8ab2b749c7ad0552592723c91c6ef766f4d04011#rd)
+    - 时间：2021-07-20
+    - 摘要：长大了最伤感的事，可能就是朋友越来越少
+- [哇哦！月食小伙伴还有这一面呢~丨快来领取微信头像啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613278&idx=4&sn=bb61217796627fdf87c7e3a4b3cf32a3&chksm=9fc7121aa8b09b0c2ce1fae6a6c3af8767781abb5a41c414d23d46a12606e6cce8ac15aff9a4#rd)
+    - 时间：2021-07-20
+    - 摘要：
+- [“我曾在海王的鱼塘，他的微信签名是：洁身自好。”｜100个微信签名的故事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613228&idx=1&sn=b8cb0a521d4f5645b45326ab4c60358b&chksm=9fc71268a8b09b7e327d0cec2ebbd0fc4995451a2da1d7de6f029eb4840b84376548c6898f1d#rd)
+    - 时间：2021-07-19
+    - 摘要：每次看到一句很好的话，都想换成微信签名给ta看。
+- [他担心在一起后自己会变渣。我该怎么办？丨 月食君答读者问Vol.25](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613228&idx=2&sn=2674dfde52dbb54aa09db18fa407b71d&chksm=9fc71268a8b09b7e25ad2537a4415f86300a14969f5df7c224b18ee846d58d3b13671c0dc08a#rd)
+    - 时间：2021-07-19
+    - 摘要：你有一封来自月食君的信件，请注意查收~
+- [当我选择做“少数人”的时候，我才明白什么是自由 丨 来月食心事交流中心吐露心声](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247613228&idx=4&sn=6604fbb234fb6c02e986fd788fea04ee&chksm=9fc71268a8b09b7e6f4e340a8e2820bfa7a3a8aa0004112fcc08e4103c5bddd19bf99e08153d#rd)
+    - 时间：2021-07-19
+    - 摘要：在这里偶遇温暖、治愈又有趣的灵魂
+- [出生时身份证上可以写“性别未定”？｜又一明星出柜，这个柜有点特别](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612857&idx=1&sn=2811fe429fddb4d5d753857776c72c8e&chksm=9fc710fda8b099ebdc4fcaad68d8a53f3a93d452a27ee15d72dd14ab3326a3fc4cea9306eab0#rd)
+    - 时间：2021-07-18
+    - 摘要：除了男和女，居然还有五十多种性别。
+- [用一首歌找一个懂你的人丨KY「晚安陪伴」活动全新上线！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612857&idx=2&sn=a50b4424647ea6d84bea5c46522567aa&chksm=9fc710fda8b099eb9639050268f7f4d6b72a3d94a07242b83120b51394a1ebe92d66d39f8df7#rd)
+    - 时间：2021-07-18
+    - 摘要：很高兴认识你，从今天的晚安开始。
+- [“你人太好了，所以我不喜欢你。”｜“好人更容易被排挤”的科学原因找到了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612821&idx=1&sn=af4b2e843bf4e945dd3ec9c5c56030e9&chksm=9fc710d1a8b099c774d8bf163b75a852023ac55594880808184d633abb338077459a8f807f18#rd)
+    - 时间：2021-07-16
+    - 摘要：现实是，人们宁可损害自己的利益，也要排挤好人。
+- [你对衰老的态度可能正影响你的生活... 丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612821&idx=2&sn=1fb21c5723182c018c0c694684182ad7&chksm=9fc710d1a8b099c748fb3e965d4589d7a2da3752ed404713bb1251b8b8aa6b621fa10d712c5d#rd)
+    - 时间：2021-07-16
+    - 摘要：你对衰老的恐惧还健康吗？
+- [对职业生涯感到迷茫，除了求助锦鲤还可以做些什么？｜《走出职业规划的迷茫》新课上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612821&idx=3&sn=f74796b146522ef57b42dfdc1a9e5a29&chksm=9fc710d1a8b099c7c03c94ce048c18993b3aea282537db148ff44103ad8fac16c60469bf7f21#rd)
+    - 时间：2021-07-16
+    - 摘要：热气腾腾的下周（7月19日-7月25日）课表奉上！
+- [用一首歌找一个懂你的人丨KY「晚安陪伴」活动全新上线！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612821&idx=4&sn=278f5d60d7c5f025c32a5b94e28a8e83&chksm=9fc710d1a8b099c7ce0508e1d4b9e4d081235731a879557ab58921c6714edff516b43c7d1bca#rd)
+    - 时间：2021-07-16
+    - 摘要：很高兴认识你，从今天的晚安开始。
+- [比内卷更可怕的，是“自我内耗”。丨你是如何把自己掏空的？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612579&idx=1&sn=09b3743dc23e2a9c80d709df83880550&chksm=9fc711e7a8b098f112387a895883b3feb467d19521b226a1f08f69fb03a3b3869993f00e2d94#rd)
+    - 时间：2021-07-15
+    - 摘要：自我内耗，使心灵陷入混乱的“精神熵 ”。
+- [好奇不仅害死猫也害死狗丨月食物语第七话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612579&idx=3&sn=4f09e1ecaf24f900d480be55297c424e&chksm=9fc711e7a8b098f1e47a11f4d0066601ef8b98165eea17b2e1d6a65785dc888406139049ae18#rd)
+    - 时间：2021-07-15
+    - 摘要：
+- [“为了多跟人聊天，我去申请了网约车司机” 这届年轻人的社交太野了｜KY茶会6月盘点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612053&idx=1&sn=6a5473bf8f7e7f2137db39eea1bc1536&chksm=9fc71fd1a8b096c74ee528f39aabe9d873bce3906a8d42c382c6769550eedd981eb3fa1e29b9#rd)
+    - 时间：2021-07-14
+    - 摘要：广州、深圳的朋友们，我们回来啦！还有更多新城市等你来解锁~
+- [“小时候，我真的好纠结以后上清华还是上北大。” 丨KY趣味心理速递Vol.101](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247612053&idx=3&sn=4f09d50a5d6919f76121a41262361e6c&chksm=9fc71fd1a8b096c72a1ce9307ca94f739d403e1ec15f4731ba5933874e4c876207069ce00f9d#rd)
+    - 时间：2021-07-14
+    - 摘要：这次的标题选了好久也决定不了。
+- [男人是下半身思考的动物？NoNoNo，你对男性的性需求可能已经误解了很久](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611335&idx=1&sn=639cc0de5247bc415250bd1e64b9356f&chksm=9fc71a83a8b093958bb401ef94812af93dbb684df09395a1a439e41851de43b801ee59827a32#rd)
+    - 时间：2021-07-12
+    - 摘要：如何正确理解男性在亲密关系中的性需求
+- [自由职业是996的避难所？丨 KY限时免费测评：自由职业从业评估](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611335&idx=2&sn=6c86d2578e4f3da2248f54ac89bf81d4&chksm=9fc71a83a8b09395989542ff905e99b18cdf9c473d9d7a20342774973f6747d48ba23a4f9df2#rd)
+    - 时间：2021-07-12
+    - 摘要：想辞职的时候记得看一看
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611335&idx=3&sn=eabdd74ea48fb46c4cb32873cd8e2255&chksm=9fc71a83a8b09395f11798defb14e1bdbe92f16a16de02c0331dd38c3f89fe9def4cbafd52d6#rd)
+    - 时间：2021-07-12
+    - 摘要：专业心理困惑答疑
+- [婚姻还会是我们每个人的归宿吗？｜KY研究：这个时代的婚姻是更好，还是更坏了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611252&idx=1&sn=f3bc646012f34e33cf78a693ef928656&chksm=9fc71a30a8b093261b99190d77b5a475657ffe9bae924f32c4f8be9e06505b9ef4af4608fe31#rd)
+    - 时间：2021-07-11
+    - 摘要：成功的婚姻，需要在这三个层面成功
+- [那些只想偷偷告诉陌生人的小确幸丨来心事空间站交换心情吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611252&idx=2&sn=f56625df7297ccb574db2027e0fbb450&chksm=9fc71a30a8b09326602b5d6145204cb16b1afdca2c8929f362ce30c326c3d858785f19cad96e#rd)
+    - 时间：2021-07-11
+    - 摘要：你的小确幸，可能点亮一个陌生人的夜空。
+- [“我都不知道自己喜欢什么，怎么做选择？”丨这个主题的精选文章KY已经帮你挑好了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611252&idx=3&sn=a60e32b2a7471aa8cba60d9cab0423cf&chksm=9fc71a30a8b09326270f604a77e78a835d2396841dc644a718948f94355c82e7edcbb93a5c25#rd)
+    - 时间：2021-07-11
+    - 摘要：还不了解自己，如何做出人生的重要选择？
+- [“每次长时间拥抱后，都感觉自己充满了电”丨KY粉丝留言：爱该有和不该有的100种样子](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611173&idx=1&sn=1ed42caa7a7f227d4169bad9a6314949&chksm=9fc71a61a8b09377df5390e5ebba3fc2172d8cd8978ac91cb78b93cc87d3cf3ec2271c989f80#rd)
+    - 时间：2021-07-09
+    - 摘要：有没有一种刚好是你们的样子？
+- [还在焦虑吗？用游戏、绘画和互动来摆脱吧！丨《停止产生焦虑的思维》课程上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611173&idx=2&sn=851e6fbd436127c461e82913d6e9332a&chksm=9fc71a61a8b0937725f5b9d03ec087d8f1c18bf688ebdca6830e024dcede41c0ee06596a2d5e#rd)
+    - 时间：2021-07-09
+    - 摘要：一周一度的课表来啦！
+- [那些只想偷偷告诉陌生人的小确幸丨来心事空间站交换心情吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611173&idx=3&sn=ed3a5e6b99a49c3331b8abf8d944bbd8&chksm=9fc71a61a8b09377362ac8d6d08b25f03d6d6cf4e5022404c2a7b40c3f6d2b38c9012d955afa#rd)
+    - 时间：2021-07-09
+    - 摘要：你的小确幸，可能点亮一个陌生人的夜空。
+- [用一个周末夜晚，来一次情绪排毒丨专业导师带领，0基础冥想公益免费直播又又又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247611173&idx=4&sn=b8ce85535aa836e2b6b702fc4c55acf0&chksm=9fc71a61a8b093775113f7b05fb65f85e20c8220b601beb99b74b46f7005e6a71241d9e32056#rd)
+    - 时间：2021-07-09
+    - 摘要：冥想直播共练来啦~
+- [“我就想逃避现实，不行吗？” 研究发现，逃避投入生活，反而会让我们更累。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247610144&idx=1&sn=3f6bc2dca49c02d7ca7bc09933e42958&chksm=9fc70664a8b08f7293c15a7344a8110d101e2be442b426e4751f45c7e54ad37313f0b245821a#rd)
+    - 时间：2021-07-08
+    - 摘要：只有这样做，才能觉得不那么累…
+- [“我羡慕那些总是开心的人，因为我自己不是那种人。” 丨KY研究：快乐其实很简单](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247610063&idx=1&sn=4a5d19589530ef3b2d6bee81b4545fcb&chksm=9fc7078ba8b08e9d5c687f4983c8e4ad4d5df75d2aa1a3a0bb4b88d6c93b3055443986ece6d7#rd)
+    - 时间：2021-07-07
+    - 摘要：做人呢，最重要的就是开心啦。
+- [Ta说对我没感觉。“感觉”到底是什么?  怎么才能让“感觉”发生？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247609991&idx=1&sn=2ef91f66ceedc7de1a311d7d4ca4661d&chksm=9fc707c3a8b08ed58ad1865ca1f133b1902b638ac9243f1dbf8f20c16fc1339a52eda73872d5#rd)
+    - 时间：2021-07-06
+    - 摘要：如果你有感觉，就转发这篇文章给ta吧~
+- [为什么男性不喜欢和伴侣敞开心扉？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247609921&idx=1&sn=65ba03e9aa7a29409c3e5c029aef7924&chksm=9fc70705a8b08e133aa1e1a035d8fa01760c025a45824519c6dd460fb8fecbed795fcbda2a4b#rd)
+    - 时间：2021-07-05
+    - 摘要：是不想，还是不会？
+- [下定决心和ta共度余生，需要经历多少个爱的瞬间？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247609446&idx=1&sn=e09e22af6e1edf8c1f8687e9c82fe962&chksm=9fc70522a8b08c346178ae370cbf716869f14214b2d36bc8c2f69c81f2d3c065ef06fad44fa6#rd)
+    - 时间：2021-07-04
+    - 摘要：就这么一直在一起吧。
+- [“大家觉得我很social，其实与人接触让我很累。” 你是这样的假性外向者吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247609415&idx=1&sn=d35e3c99e9f5435761445da523474bcb&chksm=9fc70503a8b08c15e66d84a524fd745aec0363e5eb50514f8cd0e8a1f732240459fc00017290#rd)
+    - 时间：2021-07-02
+    - 摘要：我把外向作为自己的保护色
+- [“我觉得自己不需要爱情，这正常吗？” ｜ KY限时免费测](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247609415&idx=2&sn=31b261297b78b8cf7ee6ee04ce0d48be&chksm=9fc70503a8b08c15de3c22d9273567fb2424705f20c817382a17d0fff2f5d29617a2b0a2c9f9#rd)
+    - 时间：2021-07-02
+    - 摘要：是时候重新思考爱情这件事情了。
+- [不想做一颗又卷又菜的“卷心菜”？来试试摆脱焦虑的思维｜新课上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247609415&idx=3&sn=641a5feadf098531796117a00eb5cc98&chksm=9fc70503a8b08c15cb7a0efd230fe557097fd2801388f167ee4313790eb42a87208f445dcb5f#rd)
+    - 时间：2021-07-02
+    - 摘要：一周一度的课表来啦！
+- [“你要悄悄地相亲，然后大声地脱单。”｜高达37.1%的人居然在相亲中找到了对象](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247608275&idx=1&sn=df6c93940bc83289faed66a80505c354&chksm=9fc70e97a8b087814bf106fce25732fc843173ccbb266bcf80869bde21a7210584974e9a8fd8#rd)
+    - 时间：2021-06-30
+    - 摘要：谁说相亲角里没真爱，红娘手里没姻缘？
+- [我终于拥有了改变思维模式的自由丨萌芽9期即将开课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247608061&idx=2&sn=f0d7ae55dd32916a07562adcd6efc24b&chksm=9fc70fb9a8b086af688095a5e4e84ec6f54386aa8d3649685da512e68145a70cc3f7674db04f#rd)
+    - 时间：2021-06-29
+    - 摘要：加入还可享有萌芽专属校友福利哦~
+- [为什么每次我想跟男朋友好好沟通，他都要跟我拼命辩论？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247607914&idx=1&sn=428a46d8fdf802f52caf5e62e0f3bee4&chksm=9fc70f2ea8b08638d2b3521a9f95c7ad60592ee8c5b77b7d7a84d18ff3d532e27d1dd0182560#rd)
+    - 时间：2021-06-28
+    - 摘要：如果你也有一个辩论型伴侣，你一定懂“每对相爱的情侣都有过想掐死对方的时刻”
+- [“有些人经常活在对自身的误读中”丨KY小姐姐的小闲话系列](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247607859&idx=1&sn=f47118393a4fc57c81540e16c3f1e92c&chksm=9fc70f77a8b08661794627f4cfd03cc9e1eb2d1d5abdebc4f41cbc04dae335a26984efc61bde#rd)
+    - 时间：2021-06-27
+    - 摘要：一个人可能是另一个人的魔，一个人也有可能是另一个人的佛——人间就是这么的有趣。
+- [想跨专业从事心理行业？丨心理咨询真实案例大师课，免费送！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247607859&idx=2&sn=a810f7aba5882fac89fb2681263899ab&chksm=9fc70f77a8b086618b94218252b5ca8ff43e147cadab667e73c06d08a180ac899b31b02006ef#rd)
+    - 时间：2021-06-27
+    - 摘要：0基础入门心理咨询精英课
+- [既外向又社恐？研究说：真的不矛盾！丨月小兔讲论文Vol.17](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247607859&idx=3&sn=2ca238039703e73fc4f1fbc218baf84b&chksm=9fc70f77a8b086617cb0ec44659ee10a65960f61567a4e260e3d108e6c5de03d7fbef8b0ba48#rd)
+    - 时间：2021-06-27
+    - 摘要：吃东西不一定可以减压，吃这种东西才可以 。
+- [“KY，我突然知道老同学是基佬”——直男和gay应该如何正确地做朋友？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247607780&idx=1&sn=9ffa472a8f7fd0a99bb76a0072c9b7c9&chksm=9fc70ca0a8b085b629f7c45dc25612072806c3902d11ef81047ef4822a3a19417a1cb1592f9f#rd)
+    - 时间：2021-06-25
+    - 摘要：首先，你要停止叫ta“基佬”
+- [风靡全美的正念，在网红洞穴2天零基础入门 丨 每周五放送下周课表](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247607780&idx=2&sn=5e71f13135b568a0cdef458316406844&chksm=9fc70ca0a8b085b621a7ba158cb66c5373d186a076b51ea790fb4ed053de673180312ab0f6b5#rd)
+    - 时间：2021-06-25
+    - 摘要：你能找到的最简单易懂的正念入门
+- [“闺蜜出柜后，我不好意思再跟她睡一张床了…” 丨和性少数人群应该怎么相处？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247606690&idx=1&sn=eff864ac235cefb1dcb111cd5047187a&chksm=9fc708e6a8b081f0e0e6ebe5ab9478c0b03ea6c72b131cfc168a38b1b7e401b64c4f6dee15a9#rd)
+    - 时间：2021-06-24
+    - 摘要：直人气死性少数群体的100个瞬间。
+- [心里有事想听专业解答？聊愈师24小时内给你回复！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247606690&idx=4&sn=6ff304355bf5c453024d6945cbbf53f1&chksm=9fc708e6a8b081f0b465ef6d5e23ff59b4933119ca2d42e9f843042a6eb6f7c684a77ac363bb#rd)
+    - 时间：2021-06-24
+    - 摘要：专业心理困惑答疑
+- [今天推送的这40个瞬间，能让你觉得“人间还是值得”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247606180&idx=1&sn=da7dc265bde5ef47c545ebd151a84f24&chksm=9fc776e0a8b0fff615ea6f6347314feb8de8c9bcde4f0497f76d08a87fc384e865d3fade0e9d#rd)
+    - 时间：2021-06-23
+    - 摘要：如果你感觉不够快乐，一定要看看今天的推送。
+- [一谈恋爱就变了个人？研究说，这可能是Ta“恋人人格”的锅！丨KY趣味心理速递Vol.99](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247606180&idx=2&sn=e9a859b7cc024c80af756bfae6c8c8c9&chksm=9fc776e0a8b0fff6d5ff236f24d74796b238ec40e69711223f91e73dbd3e005655d719cd4a24#rd)
+    - 时间：2021-06-23
+    - 摘要：你也是有恋爱人格的小可爱吗？
+- [从心理学小白到入驻KY成为聊愈师， 我只做了这一件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247606180&idx=3&sn=5e7355e2d76d220ba15b8ca474ef8156&chksm=9fc776e0a8b0fff6dbfb5abfaad0cccfe90ebee05ed543ef2a0a16d6fe45ac323621b7eda131#rd)
+    - 时间：2021-06-23
+    - 摘要：心理咨询精英入门课程+配套实践
+- [如何优雅地面对生活的压力？丨专业导师带领，0基础冥想直播共练又来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247606180&idx=4&sn=914731c92ce8d1b7c1619aff7dc57d78&chksm=9fc776e0a8b0fff60ec6a7ade55cf7d1fbfcb514a010c795269079897219f30b488d29e59d43#rd)
+    - 时间：2021-06-23
+    - 摘要：冥想直播共练来啦~
+- [如何确定是真的不爱了，还是暂时的情绪？｜KY研究：“不爱了”也有它的价值（下）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247605819&idx=1&sn=47671b25fae750185de6bc792aef414a&chksm=9fc7777fa8b0fe69cff6d9fa21016c36f0275346ee59c1728489d66736a4953397cdb2e78787#rd)
+    - 时间：2021-06-22
+    - 摘要：我们能从“不爱了”的时刻中收获一些什么？
+- [约会软件上的肉体与灵魂——茶会来成都了，全国十城有你吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247605819&idx=2&sn=41873f2fb62258a6fb5d413c97169ca6&chksm=9fc7777fa8b0fe69820cb117f8646df4038f9b164c828b68d45dfc791a4a949730afd382e772#rd)
+    - 时间：2021-06-22
+    - 摘要：6月、7月茶会活动所有城市最新排期已更新，新主题「约会软件上的肉体与灵魂」、「被讨厌的勇气」上线！快来报名你喜欢的主题场吧～
+- [如何优雅地面对生活的压力？丨专业导师带领，0基础冥想直播共练又来啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247605819&idx=3&sn=b59dfe1c01d1d297b8ef481e21793aa9&chksm=9fc7777fa8b0fe69f52e9c69876e5d03609ccd9dbb25d6eadbee9a1960455afaf7fff3331d69#rd)
+    - 时间：2021-06-22
+    - 摘要：冥想直播共练来啦~
+- [不爱了，但狠不下心分手，也怕找不到更好的。怎么办？丨KY研究：当人们“fall out of love”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247604428&idx=1&sn=c7bed572fccdc1847209283bfd2fc748&chksm=9fc77188a8b0f89eec7375bb817883f288925c7405eebb73346a03abbd328da16e17e79fe039#rd)
+    - 时间：2021-06-21
+    - 摘要：真的不爱了，不是一个瞬间，而是一个过程。
+- [从心理学小白到入驻KY成为聊愈师， 我只做了这一件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247604428&idx=2&sn=aa001c7d2272fc385c07e66d249bcd2e&chksm=9fc77188a8b0f89ef9b2b4e6ad68385c53aa28a385aaafbbe9e4983c2bfea64ae26df1d0e224#rd)
+    - 时间：2021-06-21
+    - 摘要：心理咨询精英入门课程+配套实践
+- [一个充满希望感、快乐的年轻人，看起来应该什么样？丨KY研究：Languishing VS Flourishing](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247603768&idx=1&sn=c7aa6edcd67249ebaae43ecd61b11d33&chksm=9fc77f7ca8b0f66aab3ab92201613f2e7da93a3da44feb8f2976df85291aef9068925d5fa39e#rd)
+    - 时间：2021-06-19
+    - 摘要：心理学家发现了2021年人类的主导情绪。
+- [想结识心理学同好，0基础从业？加入萌芽精英校友群丨转发优惠最后一天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247603768&idx=2&sn=f60887debdaceea38f70ac612fff239c&chksm=9fc77f7ca8b0f66a18add5aa03539973b2695428f46359c4ab8c01219cf46a93e3b410ee745e#rd)
+    - 时间：2021-06-19
+    - 摘要：加入还可享有萌芽专属校友福利哦~
+- [《当代年轻人下班后的100种快乐生活》](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247603747&idx=1&sn=787e0e6edf56ae714f6f732e7bbfa31e&chksm=9fc77f67a8b0f671b7603ea421010b5405101786271c6a7686d958b20d6a207ff570dab2def2#rd)
+    - 时间：2021-06-18
+    - 摘要：打工人必看
+- [鼓的冥想、“学会真诚地喜欢自己”、LGBTQ丨这样的夏日限定活动不来了解一下？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247603747&idx=2&sn=3e7c107f63672a836c5317299e3acb2e&chksm=9fc77f67a8b0f671b79b2e0d2365a0d2400deee1603e46ef222f5c268684d61476e3fe31bdc9#rd)
+    - 时间：2021-06-18
+    - 摘要：老规矩，热气腾腾的下周课表奉上！
+- [遇到杠精，我今天吵架又没发挥好丨免费趣味测试你吵架水平有多高？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247603747&idx=3&sn=29b81b9bc7dc11992073f35034a311ac&chksm=9fc77f67a8b0f6713e91913581c7eac9cf23ef5830a14016b8c44b340f4508da42e469cb8778#rd)
+    - 时间：2021-06-18
+    - 摘要：我该怎样反杀杠精？
+- [漫画丨用心去爱吧，像不曾受过伤害那样。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247603260&idx=1&sn=d079633a5a2a8f2ab9e2eb36587b419a&chksm=9fc77d78a8b0f46eedd416e7b8f65b4fc8806278baa6403caf08c9bdfd224a783ad3ac3da381#rd)
+    - 时间：2021-06-17
+    - 摘要：你有没有用心爱过一个让你受伤的人？
+- [想结识心理学同好，0基础兼职心理从业？加入萌芽学院精英校友群](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247603260&idx=3&sn=a33a29bd1ffc4d84608cb977a88b34bf&chksm=9fc77d78a8b0f46e8fec69fcd119b3bfdb7b24687f150ed9bbc4b16948b68c2c0577457d6666#rd)
+    - 时间：2021-06-17
+    - 摘要：加入还可享有萌芽专属校友福利哦~
+- [“我是女生，我分不清对闺蜜是友情还是爱情。” 友情和爱情的界线是什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247603002&idx=1&sn=c5e850118d5c7fb0f6dfe3265d4ba6a7&chksm=9fc77a7ea8b0f368f03fd30481c6d57ea6e9ceabbe7dd8eae5391be4700bdd147ab30fb660bd#rd)
+    - 时间：2021-06-16
+    - 摘要：女性相“侵” ，还是女性相“亲”？
+- [我们是如何学会了正确地期待爱情 ？丨KY粉丝留言：他们曾对亲密关系有过这些错误的认识](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247602858&idx=1&sn=45a9289676be04c9b0b30ee642a18a3f&chksm=9fc77beea8b0f2f8b67f418c8cb87580301f521ca12e1756b31fa141aade57e56bf78f422070#rd)
+    - 时间：2021-06-15
+    - 摘要：当错误的期待破灭，真实的关系就开始发生了。
+- [我们为何而活？只追求快乐可能让你早死](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247602858&idx=2&sn=393989918dabff11c499d4b5be365506&chksm=9fc77beea8b0f2f8a82a27cbffeaf056453a7223e325312f7a388aff542bddc33545efecbd41#rd)
+    - 时间：2021-06-15
+    - 摘要：享乐主义的生活可能给你造成无法想象的伤害。
+- [爱是因为道德、责任和深深的共情而自愿给自己戴上的枷锁。丨 KY小姐姐的小闲话：关于爱和自我的几则（旧文）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247602729&idx=1&sn=5a5fa5cad04a1f9cb7f9ef161e729c3d&chksm=9fc77b6da8b0f27bfbd6e9b2b8218c9fe5f198c9e5eb1ce997910d28599dd0a555a1cedbdd89#rd)
+    - 时间：2021-06-14
+    - 摘要：不要为了他人停下、改变、甚至是损毁你自己，在世间你要安静地走你该走的路。
+- [荧光冥想、LGBT、提升性魅力…尽在KY夏日限定周末活动，马上预约吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247602729&idx=2&sn=970a0e693d44824541313937dc38ddd1&chksm=9fc77b6da8b0f27bd6d8a5c2650891e0bb33c0a60589936537c9514f9d54ab73186335fdb86a#rd)
+    - 时间：2021-06-14
+    - 摘要：名额有限 手慢无！
+- [你需要的不是新鲜刺激，而是找回自己对生活的“味觉”。丨 慢性乏味怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247602317&idx=1&sn=56f776ae3286cb00abe2841a81468069&chksm=9fc779c9a8b0f0dfa5c7c8c2033dfcc6270b05f6280a0fb4be84273255ceb69cc8581e35fd98#rd)
+    - 时间：2021-06-12
+    - 摘要：学会品味乏味，就是学会品味生活。
+- [0基础转行入门心理咨询，只需6个月｜兼职聊愈师机会在等你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247602317&idx=2&sn=8a8aa5bac1e216626963f7f2d06ec6d1&chksm=9fc779c9a8b0f0df59938322a8674717a9f9234fa3f638d1ae0fea5bdf83d6d478fbcf0aeae2#rd)
+    - 时间：2021-06-12
+    - 摘要：0基础入门心理咨询精英课
+- [连续换了3个工作都觉得无聊和厌恶，我这是怎么了？｜关于"慢性乏味"症状你需要了解](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247601398&idx=1&sn=e9c8fdb18a5a346d5ca985cc0ae3f78c&chksm=9fc765b2a8b0eca44974db0e1fd890b5bbe08ef6598454eec2c6ca5d501898e0d6384888c881#rd)
+    - 时间：2021-06-11
+    - 摘要：来看看你有出现过“慢性乏味”的症状吗？
+- [0基础系统入门冥想，不难！不痛苦！丨来上海「城市修行」，周五课表放送](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247601398&idx=3&sn=3e262532d5f0c00367b2d610f73fb6ef&chksm=9fc765b2a8b0eca4a17cc15e4999eede7eff3cec3dd39c78475e1e82fee04ea35c056f87246d#rd)
+    - 时间：2021-06-11
+    - 摘要：老规矩，热气腾腾的下周（6月14日-6月20日）课表奉上！
+- [脱单到底为什么这么难？调研结果显示，择偶标准的影响非常大。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247600771&idx=1&sn=7f5e29ae3d55debb6c5266b22e8b2c17&chksm=9fc763c7a8b0ead1bf40159aeea3f67274e7e9f5415ede6e8b70c63e4ea5d935f0fe9239289c#rd)
+    - 时间：2021-06-10
+    - 摘要：这届年轻人可能已经不想脱单了
+- [每一对真心爱过的情侣，都会有一首他们之间的歌。丨 KY趣味心理速递Vol.98](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247600771&idx=3&sn=70334469e0cdabdaae31042a1de1e03d&chksm=9fc763c7a8b0ead13a1ccf144f1a56cf6b299590c7001c2dc62be4bc7a9c7876403819f2c3f1#rd)
+    - 时间：2021-06-10
+    - 摘要：有没有一首歌，包含着你们爱的回忆？
+- [准备好你每年开支25倍的钱，就可以提前退休了？丨FIRE生活的心理可行性研究](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247600470&idx=1&sn=cbaf1e0c6276fc063392116346ead2f4&chksm=9fc76012a8b0e90418c88ef3e578ba349b53a5005e0ca0372309c04dee19d1a6a5e61aa5aa62#rd)
+    - 时间：2021-06-09
+    - 摘要：提前退休需要哪些准备？
+- [想跨专业从事心理行业？丨心理咨询真实案例大师课，免费送！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247600470&idx=2&sn=f4bb4554daa4ae8327a6215930893e50&chksm=9fc76012a8b0e9049e3c0c415d94f5eeeeb27e55556363c1de9ec06cd4c1d905a57c504d4806#rd)
+    - 时间：2021-06-09
+    - 摘要：0基础入门心理咨询精英课
+- [心里有事？聊愈师帮你分析问题！首单免费进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247600470&idx=3&sn=139e0a3d4b8278d24f8cf65a1813b48a&chksm=9fc76012a8b0e90404b08d44bac6143e9a26a45822b3cdbf12039361aa3b1d1315f2d503a610#rd)
+    - 时间：2021-06-09
+    - 摘要：聊愈服务是什么？
+- [“能在一起安稳睡觉的关系，远比性关系更亲密。”丨KY研究：当代年轻人的睡眠关系](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247599945&idx=1&sn=c7ae85372703540c659516a3a4777b62&chksm=9fc76e0da8b0e71be56a2f2d4f5e099a9a3c6ea478751fe121433506ee43548c8b9044ec7861#rd)
+    - 时间：2021-06-08
+    - 摘要：有人一起睡觉，却从不发生性关系？
+- [他手机里有前任的照片？研究说：这恰恰是放下了的表现。丨 KY趣味心理速递Vol.97](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247599945&idx=2&sn=5052329eecf8ddc4c7b555a3905431a8&chksm=9fc76e0da8b0e71b2b2bcce8262e909cd9ff7438245ab3ffffaff95a561a8cbb175cfa9287a8#rd)
+    - 时间：2021-06-08
+    - 摘要：能让你从对象手机里活着出来的研究
+- [“我并不需要通过婚姻这种大众方式来证明我的爱情”丨KY茶会六月又新开一城，来看看有没有你的城市～](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247597780&idx=1&sn=f8c5cb7ba973de05a581503b54103dfb&chksm=9fc75790a8b0de86d40ca03568d68e496b50f7fa6a69881382f3718c09cef8a76502ae5e565a#rd)
+    - 时间：2021-06-07
+    - 摘要：有人恋爱无能，有人分手无能，来茶会通通解决！
+- [“性格决定命运？”你知道自己的性格局限吗？丨KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247597780&idx=2&sn=51e234ae49b88cc9758bfc378d717a8f&chksm=9fc75790a8b0de86d562cdf2d8b7c30edbc63df762f099de8d76d85a6706f22ebed00b346e62#rd)
+    - 时间：2021-06-07
+    - 摘要：了解自己的性格，有助于因地制宜地发挥性格优势。
+- [“无条件的爱是难得的，但是有条件的爱是牢固的。” 丨 他们的精神导师说过这25句话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596846&idx=1&sn=52f207695ceebc847831063d5d2a80ef&chksm=9fc7526aa8b0db7cb100ecd389f4da47b76d84ff1360c0ac702e84c2f44272867a8234976c50#rd)
+    - 时间：2021-06-05
+    - 摘要：一句话影响人生系列
+- [0基础想兼职心理从业？想结识互联网等行业的心理学同好？｜ 早鸟价最后一天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596846&idx=2&sn=1f2e4cbc838e2e406b5098b568761380&chksm=9fc7526aa8b0db7cebb8dfe83a953895ed4f90c4a9cd4b9987ba2bfc0a26de907f73f129d3c9#rd)
+    - 时间：2021-06-05
+    - 摘要：加入还可享有萌芽专属校友福利哦。
+- [自我接纳了是不是就会躺平了？｜可为了心理健康，你必须学会这个](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596719&idx=1&sn=6ecee8f73c1b4658e137ae2b6831892f&chksm=9fc753eba8b0dafd16e98cd466c528167843451cc1b3ffc76e2d331c417567b1d7093434ea3e#rd)
+    - 时间：2021-06-04
+    - 摘要：谁说躺下来的年轻人内心不想进取？
+- [手绘扇、折纸粽、专属探索茶会......KY会员日免费活动来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596719&idx=2&sn=c01bae3bf579640b835e28fac4b5b4bf&chksm=9fc753eba8b0dafdccddabec9fba06977eefc6a7e21e193b2fcf5dbee9ee7204a4084e7e903c#rd)
+    - 时间：2021-06-04
+    - 摘要：每周五规律推送下周课表。
+- [那些独特而深刻的关系，无论是不是爱情，都有这样一个重要的心理特点。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596599&idx=1&sn=453095aa551811e914474934e4ed8abe&chksm=9fc75373a8b0da653a9119c3f9c470b4e7d65e7b49fee52f30bd18441963ace37ed2bb473805#rd)
+    - 时间：2021-06-03
+    - 摘要：他们隐秘的内在世界，向对方深深地敞开。
+- [被打动到“浑身起鸡皮疙瘩”：这是一种皮肤高潮丨KY趣味心理速递Vol.96](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596599&idx=2&sn=5ce49967bb8f5e40e18ad89613a6113a&chksm=9fc75373a8b0da65adb3d49079e83d92f21bb42ab3d0fb65aedaf8929f4fba7dbbc4a36c41ed#rd)
+    - 时间：2021-06-03
+    - 摘要：被打动了的感觉，就是浑身起鸡皮疙瘩！
+- [萌芽学院校友群：快来建立你的精英心理社交圈丨早鸟价倒数3天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596599&idx=3&sn=ba1b9e6c9851bde01a43d4dfb02ad39a&chksm=9fc75373a8b0da651a468b3423f588101ac9a6054fff482b6c307908c80c33d7c85a02605d55#rd)
+    - 时间：2021-06-03
+    - 摘要：加入还可享有萌芽专属校友福利哦。
+- [认识彼此的“内在世界”，才能真正加深关系和情感。丨 如何沟通彼此的“内在世界”？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596490&idx=1&sn=8af57f851e4550564671763a53575827&chksm=9fc7508ea8b0d99842324adfc95a58a0a71368951cf004bb57b8754f4b8c83542f798b8c2f61#rd)
+    - 时间：2021-06-02
+    - 摘要：内在世界的相互认识，才是真的认识
+- [想谈恋爱，又怕麻烦。怎么办？丨 月食君答读者问Vol.24](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596490&idx=2&sn=0f2fe3324dcd49b6585b6ba15e0a690e&chksm=9fc7508ea8b0d998497fbe65fd74b0fcbaec0faa8e61e00ed3db4857d4e2c851f48bdab7bc40#rd)
+    - 时间：2021-06-02
+    - 摘要：你有一封来自月食君的信件，请注意查收~
+- [“如果我很可爱你会喜欢我吗？” ｜ 揭秘“可爱操控术”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596422&idx=1&sn=3d1b37737d0d53524a86f88a2568db62&chksm=9fc750c2a8b0d9d44c78a5b61c37e290ed73246cf5ec020b122892aba5e5657878e1a79ee798#rd)
+    - 时间：2021-06-01
+    - 摘要：今天是一篇严肃的可爱研究。
+- [想要兼职从事心理行业，我该怎么办？丨 萌芽计划立减1960元最后6天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596422&idx=2&sn=f986a0cbc9498e9761c78e30e30697c3&chksm=9fc750c2a8b0d9d47a89e4b3736353302977f5832b5274477fa2c6c57ecedad73f71929a008d#rd)
+    - 时间：2021-06-01
+    - 摘要：毕业学员有机会接受进一步职业培训，探索从业可能性。
+- [小时候觉得1小时很漫长，长大后为什么会感觉“时间变短了”？丨 KY趣味心理速递Vol.95](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247596422&idx=3&sn=96f29047722132e8c62539a45b4768dc&chksm=9fc750c2a8b0d9d4fcf6941941da893738ed7667c4eea2a997a8e16510fab9997be6586d45d8#rd)
+    - 时间：2021-06-01
+    - 摘要：一篇教你让时间慢下来的推送
+- [“我最相信的人，教会了我不要相信任何人” ｜76句生活的真相，哪句适合今天的你？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595910&idx=1&sn=68d74518ca312362af116163e2d8a0c4&chksm=9fc75ec2a8b0d7d43879d58f10c820e5c1939bfa505eae2951d36e02a6806ad14c4937b6907c#rd)
+    - 时间：2021-05-30
+    - 摘要：没事儿看看别人处世的智慧，很有趣
+- [为什么说男性需要解锁“叫床自由”？丨KY趣味心理速递Vol.94](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595910&idx=2&sn=3fdc9f49549e94162644c2692fdab9fa&chksm=9fc75ec2a8b0d7d40a6f8c1ab038600fe04d7ee862ffec1b9ac929dbd7619dfd9c5be4a352b9#rd)
+    - 时间：2021-05-30
+    - 摘要：系好安全带，KY发车了～
+- [这个六一来KY匹配计划，交换童年趣事，「认领一个小朋友」吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595910&idx=3&sn=eea4a499372b7513dcda2e635b7514ea&chksm=9fc75ec2a8b0d7d418beb9741e2466810f056ada31fd9db09afb39eab6eae1c09e2ee4d7c397#rd)
+    - 时间：2021-05-30
+    - 摘要：KY儿童节特别匹配计划上线。
+- [“我最相信的人，教会了我不要相信任何人” ｜76句生活的真相，哪句适合今天的你？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595909&idx=1&sn=a0a2bee9818b071c686306e3852a71bb&chksm=9fc75ec1a8b0d7d715b91aaad99f5f2eed1f7b9cdc0fb063c7d91dd22dc7af18fe6ccff812fd#rd)
+    - 时间：2021-05-30
+    - 摘要：没事儿看看别人处世的智慧，很有趣
+- [为什么说男性需要解锁“叫床自由”？丨KY趣味心理速递Vol.94](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595909&idx=2&sn=bb14f2f8b6819b988cb6cc676a25bad1&chksm=9fc75ec1a8b0d7d75ddeaaeaf86aa63aceb4d4433620c81f27662af927e71cb94e7fda7e5f01#rd)
+    - 时间：2021-05-30
+    - 摘要：系好安全带，KY发车了～
+- [这个六一来KY匹配计划，交换童年趣事，「认领一个小朋友」吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595909&idx=3&sn=fe19d95aeaffce9d71ef170419ecfd9b&chksm=9fc75ec1a8b0d7d763571b2c4d7c4788e0b83cdf8c7c932c29ab6132f07d83898a09f35e850c#rd)
+    - 时间：2021-05-30
+    - 摘要：KY儿童节特别匹配计划上线。
+- [你要找到并居住在自己“最舒服的体重”里。丨“自律即自由”它是个谎言](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595844&idx=1&sn=e03dbee49ba79164f805193bb873b655&chksm=9fc75e00a8b0d7165d3f80bd64ad8c3a955b1917fde88775607667f6a7b68b82fbf7de8997c7#rd)
+    - 时间：2021-05-29
+    - 摘要：体重，是一个公共卫生议题
+- [冥想是个流于现代的传说？丨专业导师带领，0基础冥想直播共练来辣](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595844&idx=2&sn=4c59ca7af48d28edc0a609363e2e9256&chksm=9fc75e00a8b0d71627d98ff40e4b18058760ab9979ac91d7a861c2564670d73d50ef0bcdc4d1#rd)
+    - 时间：2021-05-29
+    - 摘要：体验“传说”中的冥想大法
+- [声音性感的人更容易出轨？社恐人士未来可以找机器人做伴侣？丨月小兔讲论文Vol.16](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595844&idx=3&sn=7a15f77385ed87968d19d791a7f6d153&chksm=9fc75e00a8b0d7165482dfa3f87fc8f9390c72030bc3304b63a35998ccb00e364389ede6c565#rd)
+    - 时间：2021-05-29
+    - 摘要：
+- [没有安全感的我，该如何经营亲密关系？丨免费训练营，帮你成为安全型](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595844&idx=4&sn=b6f842c63e3dad20967935a78fdabdad&chksm=9fc75e00a8b0d7167311a3eb501707af0dd55d0953ab4fda30e91f72f1cc8427a8864dc01011#rd)
+    - 时间：2021-05-29
+    - 摘要：
+- [想到谁，会让你感到人与人之间的连接？丨 21个感到灵魂彼此映照了的瞬间](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595786&idx=1&sn=71ed38793f24797edb8a03a779db80b4&chksm=9fc75e4ea8b0d75800a4d21049429ed5a574d282c6cc4bacffb92837c3f115f56164537e6c93#rd)
+    - 时间：2021-05-28
+    - 摘要：如果你也刚好情绪低落，今天的推送能让你一边哭一边笑出来。
+- [性魅力 ≠ 漂亮的脸蛋 + 性感的身材｜城市修行工作坊：科学提升性魅力！（女性专属）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595786&idx=2&sn=3ff060cc6aca4905afab5f627842edc2&chksm=9fc75e4ea8b0d75897d73a0f26c635bde85338b262b6cb4014ce0ab3e216181788c0e5886d36#rd)
+    - 时间：2021-05-28
+    - 摘要：科学开车
+- [成年后还能转变不安全型依恋吗？丨活动免费领取 9天训练营](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595786&idx=3&sn=59ab36eb816db031fdd699b9084d47cc&chksm=9fc75e4ea8b0d758f27fda23a44d3a0745e460d954dc41c8c626f1d95f3838e9954ce44c6a64#rd)
+    - 时间：2021-05-28
+    - 摘要：
+- [痴迷型的我，恋爱屡战屡败。丨 成年后还有机会转变为“安全型”恋人吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595067&idx=1&sn=9c965480d371f3fcc0407931e9ac07ff&chksm=9fc75d7fa8b0d46927d8b74ad83e4cd441131167394693528d76d2ea7b3bf8b9c4803c4aa346#rd)
+    - 时间：2021-05-27
+    - 摘要：靠自己的努力，我能否转变不良依恋类型？
+- [写信给咨询师，24小时内收获专业分析。首单免费进行中！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247595067&idx=3&sn=85acea4cdc9ec0182004ab64b0ddbca7&chksm=9fc75d7fa8b0d46977d805ab7d5eb487a9c08638fec9a39f213d749afda2a0c4cdc033cd7094#rd)
+    - 时间：2021-05-27
+    - 摘要：聊愈服务是什么？
+- [“母胎单身又不是我选的。” 丨 母胎脱单为什么难？（520谨慎系列最终弹：母单需谨慎）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247594798&idx=1&sn=2e70be0025978dc309ed42bc630e128d&chksm=9fc75a6aa8b0d37c027193e3b61334373df5a4cfc80fabda35df119696de860702599a419f53#rd)
+    - 时间：2021-05-26
+    - 摘要：研究证实，单身越久，脱单真的越难。
+- [长胖、抑郁、压力大……30岁备孕有多难？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247594798&idx=2&sn=fe825be39a4174b258dce5a6e39269e3&chksm=9fc75a6aa8b0d37c2d36056d65f2300052e88b321eb34f4d526574ce1a3b36f682c21694813d#rd)
+    - 时间：2021-05-26
+    - 摘要：备孕期的心理健康，和产后同样重要。
+- [6个月学习+2个月实践，心理学入门精品课 丨 萌芽计划第9期早鸟价进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247594798&idx=3&sn=00dd94e043e3d2d0b78f603a7c5a52a8&chksm=9fc75a6aa8b0d37c2c069f9e7aa2003243a16cac98ebd8c8f17e628b1ba6c0a51d0563453133#rd)
+    - 时间：2021-05-26
+    - 摘要：毕业学员有机会接受进一步职业培训，探索从业可能性。
+- [“你会和不喜欢的人结婚吗？”“不会，但我确实结了”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247594798&idx=4&sn=13e07cc04b821daeaecde661adaf858e&chksm=9fc75a6aa8b0d37cc93df2246031edcc4fc49624076f4cc379fee84ca06783ec02c3f288c741#rd)
+    - 时间：2021-05-26
+    - 摘要：最终维系婚姻的，是比喜欢更深、更韧、更复杂的感情。
+- [什么样的分手可以复合？回头草能吃吗？丨 520谨慎系列第五弹：复合需谨慎](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247594694&idx=1&sn=a9f0fb924fb892f13be6f3d030ada5c8&chksm=9fc75b82a8b0d294d2a3324e81faf985d9ff9ae3d432c77b34f784e52bb13430b9a49d62c134#rd)
+    - 时间：2021-05-25
+    - 摘要：4道题，帮你做出判断。
+- [当自我被惯性劫持：如何打破旧生活，做出新的选择与改变？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247594694&idx=2&sn=27c193421a779eb97fd92a5f3a8b59a4&chksm=9fc75b82a8b0d2946a2cccc59390e8e889578f461bef000fc33947483ccb18799168e1894a1d#rd)
+    - 时间：2021-05-25
+    - 摘要：这种状态下，人容易上头而不自知。
+- [525心理健康节免费发放心理自检小工具~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247594694&idx=3&sn=c086bb97e79cfdeb33a33b68f0ed9c46&chksm=9fc75b82a8b0d294c7bd318153e303936819222ce27c4f127a5497ea9ee8dae7cd3416aaae92#rd)
+    - 时间：2021-05-25
+    - 摘要：关爱心理健康，我们一起行动！
+- [有些“无缝衔接”是渣，但也有一些是健康的自我疗愈。｜520谨慎系列第四弹：无缝衔接需谨慎](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593947&idx=1&sn=1a1304372aee335b0de99b5280f8cb38&chksm=9fc7469fa8b0cf891dd330f6da4753ee528d6a369cd9258d52455e867acff4f45937ae1f9ed7#rd)
+    - 时间：2021-05-24
+    - 摘要：能利用自我复杂性无缝衔接的人，反而拥有健康的爱情观。
+- [“抑郁时不想动，因为狗子要吃饭才爬了起来。”｜100个被宠物治愈的瞬间](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593947&idx=2&sn=51629a758a094d43038b8691818ebdab&chksm=9fc7469fa8b0cf89b2a9a4bcfbf41684cef133fa095fff3bf36769f998d4f0d1a94f610c75f6#rd)
+    - 时间：2021-05-24
+    - 摘要：爱人会走，“毛孩子”永远都在。
+- [有些分手并不必要，反而可能失去一个合适的人。丨 520谨慎系列第三弹：分手需谨慎](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593881&idx=1&sn=7491f5cf52c9dec72259ae7506180826&chksm=9fc746dda8b0cfcbf441fd0ed5406bb0489052d67590a70ce36679fbe0a98aee69ea7257defa#rd)
+    - 时间：2021-05-23
+    - 摘要：如何判断分手才不会后悔？
+- [成年后还能转变不安全型依恋吗？ 丨 9天训练营，参与活动免费领取](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593881&idx=2&sn=16bcc7c674484f35c69ef7528fc081c4&chksm=9fc746dda8b0cfcba6c6bdf92457fd4170c5f6907ec398dc6433aa4924a45a1345d896d9ebd2#rd)
+    - 时间：2021-05-23
+    - 摘要：520活动限时开放中，手慢无~
+- [Ta时冷时热，关键时刻还总做“爱的逃兵。” 丨 如果你也爱过一个恐惧型 （520谨慎系列第二弹）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593745&idx=1&sn=f07b0c9f652533f804d6f59bf0d8ab01&chksm=9fc74655a8b0cf43fd1b40ab6ff133470ccf4fd7d1a46ff0596e147e71d90f70ae6a1d444cb6#rd)
+    - 时间：2021-05-22
+    - 摘要：恋爱需谨慎，爱上恐惧型更需要谨慎。
+- [「互换小哥哥」恋爱互助正在火热开展！更有姐妹相互支持陪伴](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593745&idx=2&sn=ce5c86061a1880193881b0dfdc4b21f1&chksm=9fc74655a8b0cf43bd85d9698bf3953da092f95664aeae4cb2608013d7afef1102e9a84fba20#rd)
+    - 时间：2021-05-22
+    - 摘要：快来看看
+- [0基础入门心理学，10000+人的共同选择 丨 萌芽计划第9期早鸟价进行中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593745&idx=3&sn=011c381a0509134312546dd7881090c7&chksm=9fc74655a8b0cf431ce97a1e5cf8dac7dc2d3c1969c0043102bf36c56f4e8cc3b4a33acc4374#rd)
+    - 时间：2021-05-22
+    - 摘要：心理咨询精英入门课，现在报名可享早鸟价哦！
+- [约会前先搞清楚：ta对你是喜欢还是征服欲？｜ 520KY谨慎系列第一弹：约会需谨慎](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593681&idx=1&sn=257d28ecc2ec59fb5e90bf496786ca36&chksm=9fc74795a8b0ce83a6e9112d2ad902b0d5eff346b0db1c002cd8094dc8e5087cea2d77cc5eab#rd)
+    - 时间：2021-05-21
+    - 摘要：亲密关系需谨慎
+- [恋爱不靠塔罗占卜，KY测评答疑解惑｜520恋爱测评免费测](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593681&idx=2&sn=9b8fb803268b2123d46ab181ef1cf7aa&chksm=9fc74795a8b0ce838695cef27ebaaeb73a35f2a6926ba069851c51dcbfc5144757a92bfbcfa8#rd)
+    - 时间：2021-05-21
+    - 摘要：为了让你谈好恋爱，这次我们真的拼了。
+- [“我爱你，但是我更爱我自己。”丨《学会真诚地喜欢自己》新课上架](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593681&idx=3&sn=feb355489279274d705259ee5e43ff4f&chksm=9fc74795a8b0ce83c60f0d1d59e3f285294cb2e5bcd17a7770be9e2e8ac67b15480f75153873#rd)
+    - 时间：2021-05-21
+    - 摘要：每周五规律推送下周课表。
+- [佟丽娅离婚：所有的离开，都早有预兆 ｜ 判断关系好坏的6个标准](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593040&idx=1&sn=dceb54c52a90fe5118a8cf75f25af68e&chksm=9fc74514a8b0cc022ec6553e673123c874cec72d0fb31d93b0dfca470ecce04b9638fb84851d#rd)
+    - 时间：2021-05-20
+    - 摘要：不是所有人都值得一起走下去
+- [有心理困惑，想寻求专业意见？丨 聊愈首单免费福利来了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247593040&idx=2&sn=76692f2217e69ad8bc778e1c18c9a422&chksm=9fc74514a8b0cc029bcb67e64226bf13f0056f74abc07a762820c0e6b0b0d1f774cc4f8ad3ca#rd)
+    - 时间：2021-05-20
+    - 摘要：你有一封来自月食君的信件，请注意查收~
+- [Ta说虽然没有确定关系，但我们有着特别的连接。我是被养鱼了吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247592516&idx=1&sn=5d551c5532ec04b43a3cd8ec71d58a33&chksm=9fc74300a8b0ca169de18e47063cb958c23923aaa484d321884b9114eaa6f40bf33e7b9d88de#rd)
+    - 时间：2021-05-19
+    - 摘要：在形式上建立亲密关系很容易，真正产生独一无二的连接却很难
+- [听说你朋友缺对象，巧了我也是！丨带一位小哥哥一起参加KY「异性匹配」计划](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247592516&idx=2&sn=87d187164ba12a97378e39a8fe793b72&chksm=9fc74300a8b0ca1629eaf99408682694769064ab881da9edfbf017cd15d0ffef7fa26bfd98fb#rd)
+    - 时间：2021-05-19
+    - 摘要：快来互换你认识的小哥哥吧，造福自己又造福姐妹的机会来啦！
+- [奇妙的夏日：最容易感到孤独和被世界抛弃的季节。丨 KY趣味心理速递Vol. 93](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247592516&idx=3&sn=47d8e5f04a3134c550cb72853b93599f&chksm=9fc74300a8b0ca16f916c2ff58e4a60a0ebe304dfb33186d7faba5da67e0339f6e925e9c269f#rd)
+    - 时间：2021-05-19
+    - 摘要：孤独也是夏日浪漫的另一种形式呀～
+- [中国单身成年人口超2.4亿，这种孤独的解决方案可能是这个…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247592399&idx=1&sn=9d570e96c525559b8f813678fb635f0a&chksm=9fc7408ba8b0c99db1ecf5f97db3de242ceb787493c1ae331890a267de909bc3b9c76c4ba46b#rd)
+    - 时间：2021-05-18
+    - 摘要：（无聊的）心理学家曾让一位英俊男士，搭讪240位陌生女性。然后……
+- [“我在空窗期找个人抱着睡觉有问题吗？”｜520茶会现场，直击你的情感深处](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247592399&idx=2&sn=2cac94b032826518fdc78aa066443793&chksm=9fc7408ba8b0c99d08ebcb55037aaee07e2b28ed2d805a132a25a55feef16185a400b75692ac#rd)
+    - 时间：2021-05-18
+    - 摘要：不知道要几年才有一次的茶会特惠活动，全国9城、线上线下一起哦！这个520，快来加入我们吧～
+- [不是所有的忙碌都是内卷。｜如何在忙碌的同时，依然守住我们自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247592173&idx=1&sn=d8c55aec2562afd20067e19a8f219b83&chksm=9fc741a9a8b0c8bf484c668986374b38f4e0f0fb57f172c7da8ea1515396f1541ff8e13b9429#rd)
+    - 时间：2021-05-17
+    - 摘要：用错误的方式追赶生活，则会失去自我。
+- [谈过不止一个男朋友的我，好像爱上了闺蜜？丨  “国际不再恐同日”特别推送](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247592173&idx=3&sn=91766abbd171d20e7ec9b857ea62a534&chksm=9fc741a9a8b0c8bfb7d7300e125e170489ac4023bb9b4478f0728aa54ba7676ef3b1798c4cae#rd)
+    - 时间：2021-05-17
+    - 摘要：你可能没有自己想象得那么“直”……
+- [恐惧同性恋的人，是因为觉得他们变态吗? 丨 世界不再恐同日：关于同性恋的6种常见误解](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247592173&idx=4&sn=571eb750e9e884a8b02d24fff0b9b704&chksm=9fc741a9a8b0c8bf38a649e92c461480fd28f05a0b575e8328a824cbda156d1489931aac85a9#rd)
+    - 时间：2021-05-17
+    - 摘要：同性恋可怕吗？
+- [如果爱不能双向奔赴，你还会心甘情愿吗？丨KY粉丝留言精选](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591790&idx=1&sn=3c0781eeaf0fbc5f3fe7b7a68c3fe97e&chksm=9fc74e2aa8b0c73cd70834b7e95fb51061a03174691576fe92226817d45010c5ad95193e306e#rd)
+    - 时间：2021-05-16
+    - 摘要：哪有什么天赋少女，多的是背地里一边哭一边努力。
+- [距离你最近的心理学求学、从业机会不容错过丨萌芽计划第9期开始招生啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591790&idx=2&sn=dc83edb31d71569fc6d133cac170b6cd&chksm=9fc74e2aa8b0c73c17baf2887e45366499c2a95630c9d6a8c99931eaac2cfe66163bdab4613d#rd)
+    - 时间：2021-05-16
+    - 摘要：心理咨询精英入门课，现在报名可享早鸟价哦！
+- [你是那个愿意对我说晚安的人吗？丨 KY周末「异性匹配」计划全新上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591674&idx=1&sn=23d20d9451f59f20fb6693e50c4d6bed&chksm=9fc74fbea8b0c6a82dfb8fbfa27334f0f5da82248cbc56b7ec7052f7a8959144f885bdb815ed#rd)
+    - 时间：2021-05-15
+    - 摘要：我想陪你，从入睡到黎明。
+- [不被爱，不是因为你不够好，而是……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591674&idx=3&sn=b60270a5a4b3b9a36db0f0ded6f4c140&chksm=9fc74fbea8b0c6a8c52756f5aed7457bae5f437b16b5aea4a027e64d54e59c40ee4eccaa3353#rd)
+    - 时间：2021-05-15
+    - 摘要：
+- [这5种感觉，可以用来判断你的ta是不是一个“对的人”。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591608&idx=1&sn=ce46f1c7cec2ee566889fd6e55e9c15a&chksm=9fc74ffca8b0c6eaabcdfcf98024b9464f93f4b41f1a4991c96eee4f4ca9f27670ea36722cad#rd)
+    - 时间：2021-05-14
+    - 摘要：如果ta是，记得把这篇文章发给ta！
+- [DIY个人杂志、手作花、冥想共练、止语自习……全免费！KY会员日等你来体验！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591608&idx=2&sn=8b138aa16ff6d2f231808da4016525c7&chksm=9fc74ffca8b0c6eaf1ec08c3b7ed91cff388b0a71fbe73b189c90549e8bdc682d4a36dbd218e#rd)
+    - 时间：2021-05-14
+    - 摘要：准备好了见到志同道合的小伙伴吗？
+- [你是那个愿意对我说晚安的人吗？丨 KY周末「异性」匹配计划全新上线](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591608&idx=4&sn=5096672416dae2bf49149a59b9f04e4b&chksm=9fc74ffca8b0c6ea083d3b9a082f7cb82f6d50fadfb6d0716143a30507263ef76912d6b1f521#rd)
+    - 时间：2021-05-14
+    - 摘要：我想陪你，从入睡到黎明。
+- [为什么前任们和我分手后，转头就找到了真爱？ ｜你是“血亏”的抚育型恋人吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591035&idx=1&sn=353928d69425007a783a4c0aa7dbd052&chksm=9fc74d3fa8b0c429f6bdbd86789a693ce7a6585d636ebe54557ab52b8797fe9b185a6486d152#rd)
+    - 时间：2021-05-13
+    - 摘要：前任通过我变成了更好的人，然后就去拥抱了别的女人
+- [8天免费训练营，从这里走出低自尊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247591035&idx=3&sn=929caa7b965363f0e711c87534551888&chksm=9fc74d3fa8b0c4299d589ae48e1113462de51821b1275afeca1694f2e01da4f5ea65b4e3c469#rd)
+    - 时间：2021-05-13
+    - 摘要：
+- [“降低对婚姻生活的期待，会更容易幸福吗？”  丨 8城开放520专题自我探索茶会，抢票开始](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247590875&idx=1&sn=98752f222dce30ef6cd8b7830f62338d&chksm=9fc74a9fa8b0c389073c27f36316c3872171f5bf1f01bc17d262142703c0f3a3da66a4bd0d40#rd)
+    - 时间：2021-05-11
+    - 摘要：原来大家都有相似的困惑，不止是我
+- [Ta说工作忙影响谈恋爱—别怀疑那就是借口！丨 KY趣味心理速递Vol.92](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247590875&idx=2&sn=8f88c2316dc0179284bdc28ba6747cd6&chksm=9fc74a9fa8b0c38941a3fec2401c5faa6a2abcf6335223f3e9b48eaa99b1cd331d0a8805e1af#rd)
+    - 时间：2021-05-11
+    - 摘要：
+- [容易陷入迷恋，甚至不能正常工作生活。这样的人是不是不适合谈恋爱？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247590321&idx=1&sn=2d9ce89ff30449fb171ef4a8e9527a8e&chksm=9fc748f5a8b0c1e330bd6f8831165823fc5765f20b0de9fea20c3423b7482770cd7e1fb8c3ed#rd)
+    - 时间：2021-05-10
+    - 摘要：这可能不是真爱，而是“病理性迷恋”
+- [不曾被偏爱过的孩子，长大后也不容易被偏爱。丨 如何找回被爱的信心？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589710&idx=1&sn=55d6f811134c0cc8e71ef56dae0aa78f&chksm=9fc7b60aa8b03f1ca1e72fff2aa35707c89138b2efd4961233739edbc38cf76347faf4bd9e30#rd)
+    - 时间：2021-05-09
+    - 摘要：希望在未来，你能获得过去不曾得到过的爱。
+- [有对象的人不会懂，单身才能有令人羡慕的神仙友情！ 丨 月小兔讲论文Vol.15](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589710&idx=2&sn=661774aba3e11c0a20c00eac6ada8a84&chksm=9fc7b60aa8b03f1c2e5206fb3edd819d85dccb2b85a98d9e9a78e6ab0c7a78cef46441a5945f#rd)
+    - 时间：2021-05-09
+    - 摘要：
+- [“我长期在拉斯维加斯赌场生活。” 丨 KY粉丝故事：不按常理出牌的人生](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589706&idx=1&sn=4e68d065592b0c3738c8c1f5e87fa42d&chksm=9fc7b60ea8b03f184ffc08d7fb3695226085bd3ba6eff22df57bfac769220673e4d61dd9ca77#rd)
+    - 时间：2021-05-08
+    - 摘要：“能自主选择并实现自己喜欢的生活方式，是成年人最大的自由。”
+- [为什么在恋爱中小心翼翼的人，反而更不被珍惜？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589526&idx=1&sn=7510a04c95bf42678febd1d14a369013&chksm=9fc7b7d2a8b03ec4a3af67ebf3e5178be411a3f7844b1b199cb1b04d2dcd6bede3196e62b316#rd)
+    - 时间：2021-05-07
+    - 摘要：如何看待自己，决定了你被爱的能力
+- [保持正确的头脑状态，才能真正好好工作与生活。｜《正念工作与生活》新课上架](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589526&idx=2&sn=9b2dc9f833bc31f8b97d665cead1bac7&chksm=9fc7b7d2a8b03ec40dd189443390e33b65e7da0830c127215dd4c64ffa7962abe71a55cd5b3a#rd)
+    - 时间：2021-05-07
+    - 摘要：专为都市人定制
+- [情侣之间，比Sex Talk更刺激的大概是Ex Talk丨KY趣味心理速递Vol.91](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589201&idx=1&sn=6810ce832054b49d1d091197eac02bca&chksm=9fc7b415a8b03d037b3e5b34edc4c6635f661f124b68b2e147c45a818e89672d5547fda31d4b#rd)
+    - 时间：2021-05-06
+    - 摘要：聊不聊都是问题。
+- [人为什么会扛不住压力结婚？ | 小姐姐的小闲话：关于婚姻的一则  （旧文）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589069&idx=1&sn=a0876167ea538178d91f7c98861d64fc&chksm=9fc7b589a8b03c9f6666e95c144df178ef1c58606f6d0dfbada342ef0eaa2f03fe1aea0befcc#rd)
+    - 时间：2021-05-04
+    - 摘要：我们一定需要婚姻么
+- [你本来也可以升职加薪……无数次错过机会只是因为它](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589069&idx=2&sn=270a91b3a6cc10c30c1fb02782f7cfc5&chksm=9fc7b589a8b03c9f34177aca89d194af9768435ca8c95f42ca755fb33177231ce0dfe49ec554#rd)
+    - 时间：2021-05-04
+    - 摘要：免费线上训练营，每天15分钟，8天摆脱低自尊
+- [我们一见面就像认识了很久，这是“命中注定”该有的感觉吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589042&idx=1&sn=ca3ce340a0a3b1db5f9a0fda1e093da0&chksm=9fc7b5f6a8b03ce01784f0a911790b5059dbd86cc8a85484c9238e0985da249ed4640b75e680#rd)
+    - 时间：2021-05-03
+    - 摘要：一拍即合的爱，有可能带来伤害。
+- [如果你想知道什么是快乐星球，就来看看我们的研究！（视频）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247589042&idx=2&sn=1676e87c9ee85ff71e715eadf7d5c302&chksm=9fc7b5f6a8b03ce02d7fa5a37614b722656c28bf1ab63028119f16794bdd202856d69c93b972#rd)
+    - 时间：2021-05-03
+    - 摘要：还不快打开~~
+- [常常吵架、无法沟通、感觉渐行渐远... 你们之间可能缺乏了“情绪流动性”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247588953&idx=1&sn=cc38af1f623b8e2111b9c6b2acdc53ee&chksm=9fc7b51da8b03c0b185fe5546bb358188ca75fc428d50687f824cca773c470368095e32dc573#rd)
+    - 时间：2021-05-02
+    - 摘要：学会这5步，掌握情感性沟通
+- [“也许，我就是不值得被爱吧。” 丨 低自尊者如何找回被爱的信心？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247588953&idx=2&sn=4bd9c01c5e12fa3be9fed3946eddb832&chksm=9fc7b51da8b03c0b670bbf16a10602aa7a4b9d37c43596ace8fa1f9b98e21aed1c3fd3b2de3d#rd)
+    - 时间：2021-05-02
+    - 摘要：免费线上训练营，8天摆脱低自尊，找回被爱的信心。
+- [研究显示，情侣起冲突的最常见原因，原来是这个！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247588825&idx=1&sn=9f258e293d6772040e6e9a48584decab&chksm=9fc7b29da8b03b8b73a735f4c037cb59ee747a19d2cf966a5078f76134a1df908ef48a8b952d#rd)
+    - 时间：2021-05-01
+    - 摘要：为什么我们找不到相爱的感觉？
+- [五一小长假太无聊？KY分配48h限时伙伴啦！丨 KY匹配计划又双叒来啦~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247588825&idx=3&sn=d66433e382260ccec907538a29b331da&chksm=9fc7b29da8b03b8b8c0510cde341ec8491d7eba55fcc9d43ef1390e9171a393abbed1add43f9#rd)
+    - 时间：2021-05-01
+    - 摘要：请查收你的KY五一特别企划。
+- [很多人不知道，越讨好，人际关系会越差。｜低自尊者为何不讨人喜欢？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247588710&idx=1&sn=4f4d1d143cc6a7fb05c9eb4979a2d97e&chksm=9fc7b222a8b03b3436c56bc1d04f082d6d78a7c4b8fa036bcb95c38ef5494960424cf6e4bb48#rd)
+    - 时间：2021-04-30
+    - 摘要：不迁就别人，更讨人喜欢。
+- [想不想来一次仅限女性的「性畅聊」？｜每周五放送下周课表](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247588710&idx=2&sn=c24a7a47a07e8544385cf1d73d8924ea&chksm=9fc7b222a8b03b345ff53647905f51339a17bf413108bf3cddd9632467baedaa66774b71fb53#rd)
+    - 时间：2021-04-30
+    - 摘要：每周五规律推送下周课表
+- [南俪逐渐田雨岚化？蔡菊英是“老绿茶”？这部看哭了中国家庭的剧给我们的启示](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247588174&idx=1&sn=53fd2ce894e72bb5ac4f01faf5d3fa4b&chksm=9fc7b00aa8b0391c40ab25abed86813ceaf9f6ccec6d95a3a54fd863e03e30590ccff15512f6#rd)
+    - 时间：2021-04-29
+    - 摘要：内卷从娃娃抓起？
+- [因为不敢争取，我又双叒叕错过了晋升机会…… 丨 卑微职场人的发展困局怎么破？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587785&idx=2&sn=6f67ad51a7999b692cf4c9f040723357&chksm=9fc7be8da8b0379b6b38ead011eb3c26e8cd4a2b8374a5941e38923f552a6d6e1408e326a3c3#rd)
+    - 时间：2021-04-28
+    - 摘要：免费线上训练营，每天15分钟，8天摆脱低自尊。
+- [你们之间是真正的连接，还是只是你的“执念”？丨 深度：为什么有的人越爱越会失去？（下）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587454&idx=1&sn=0a9ff23ff24bd05bfe8d7afdebb9e86d&chksm=9fc7bf3aa8b0362c8638005edfe64c5ce32f7ed769cae39e5818daa5196ef5bbb4ce39f192e7#rd)
+    - 时间：2021-04-27
+    - 摘要：他们说爱是手中的流沙，抓得越紧、失得越快。
+- [你们之间是真正的连接，还是只是你的“执念”？｜深度：为什么有的人越爱越会失去？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587351&idx=1&sn=0feae94bd489ba0fe4e98cb7200d00e3&chksm=9fc7bf53a8b0364529fa4c8b106f9b134177d2369025573c8329360f7cd28acc5d3d3d7c1d22#rd)
+    - 时间：2021-04-26
+    - 摘要：他们说爱是手中的流沙，抓得越紧、失得越快。
+- [和伴侣一起睡，到底是会睡得更差还是更好？丨 KY趣味心理速递 Vol. 90](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587351&idx=2&sn=aed99256b243eabcc7f2b378fb523d5a&chksm=9fc7bf53a8b03645eddc50ba8ff2575b982e8e32af5b6f7363fdbf01b1ca6e9ef8170501f4fd#rd)
+    - 时间：2021-04-26
+    - 摘要：能不能睡好，关键看这一点。
+- [不心动的人在一起后会好吗？恋爱容易上头怎么办？丨 KY亲密关系诊断室开业啦~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587351&idx=3&sn=9beb337d5ee0ee046dbebd1be963259a&chksm=9fc7bf53a8b036457ffc259b746bda67cf12b5393383e69c1c9f704b0c19775c3f1f00eeb42b#rd)
+    - 时间：2021-04-26
+    - 摘要：当问题换一种解法，或许你会有不一样的感受。
+- [分手后睡眠关系：我馋对方身子但不想复合，怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587228&idx=1&sn=407c6c29ace7d39b743225e1a5bf4dfb&chksm=9fc7bcd8a8b035ce5ff6faf4cad607f149c4e1726654cbb04378ca1bfc7f9d11de351841c90d#rd)
+    - 时间：2021-04-25
+    - 摘要：我们能复合吗？
+- [内心敏感的人身体更好？吃夜宵对工作竟然有这样的效果？丨 月小兔讲论文Vol.14](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587228&idx=3&sn=d3e0fb7a49bd66e8f4f964b860661dc5&chksm=9fc7bcd8a8b035ce6c1612567a58170fafd3947535799a65f4e19b072b263c103a28f923ef73#rd)
+    - 时间：2021-04-25
+    - 摘要：
+- [赵丽颖冯绍峰官宣离婚丨离婚后，人们想给未婚者的4个建议](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587086&idx=1&sn=3b3212c66803a9879e27e866fdbe2236&chksm=9fc7bc4aa8b0355cc1d28eb9ced129a340532dc571e6f30801a3440745daa1a666c09f13ef01#rd)
+    - 时间：2021-04-23
+    - 摘要：离婚后可能才开始理解婚姻。
+- [冥想都已经流行这么久了，你还没试过？！out拉 丨每周五放送下周课表](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247587086&idx=2&sn=b23dc06ecd79e99435ac0d9bd7859ec2&chksm=9fc7bc4aa8b0355ca79a3d491b6814b000252c55b394488c5098d214709210de362657ca254d#rd)
+    - 时间：2021-04-23
+    - 摘要：
+- [豆瓣热搜“空心病”：活得很累又很徒劳 丨 中国年轻人的流行心理病，你有吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247586556&idx=1&sn=632a69ffc513255ae8f301f9cc971df1&chksm=9fc7bbb8a8b032aea3c6b27b649d43e82811ad741f9609c85e268df239a35506b8b829eedf40#rd)
+    - 时间：2021-04-22
+    - 摘要：大批年轻人觉得自己是一具空壳。
+- [知道在意外界的评价不对，但又没法不在意。该怎么办？丨 月食君答读者问Vol.23](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247586556&idx=2&sn=76cf412aa5117004579f6152b41ad227&chksm=9fc7bbb8a8b032aeffd6ae399395fe12ecc023b03b396e7236675abccb7c7d5b0b2532557326#rd)
+    - 时间：2021-04-22
+    - 摘要：你有一封来自月食君的信件，请注意查收~
+- [当代年轻人的新“友谊”方式 ——「睡眠关系」丨又在KY茶会涨姿势了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247586505&idx=1&sn=e801d32e5563a9f5fac694758c675529&chksm=9fc7bb8da8b0329bf22772f3d6d1411dcb681be2497ff4f02e5f430c65fe0843ead82eee1331#rd)
+    - 时间：2021-04-21
+    - 摘要：由于本文内容过于丰富，需要大家细细品味、仔细阅读。
+- [“我的男朋友像个小姑娘。”｜爱情中性别互换的100个甜蜜时刻](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247585910&idx=1&sn=8775dc1af388ea13618f11f44ad574b5&chksm=9fc7b932a8b03024bedabbd23eee1a70beb6dcf8f3ae396703d3bf25305d66ec0d1548dcedb6#rd)
+    - 时间：2021-04-20
+    - 摘要：那天，我向我男朋友求婚了
+- [这年头的年轻人，连性生活都开始内卷了...丨 KY趣味心理速递Vol.89](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247585910&idx=2&sn=3a0519876ecb5032a0778f79f3c9e579&chksm=9fc7b932a8b03024ca3825b76d6ada51d9664bbc42bc62e2e9f460099982660ca0d4cbbf7f9d#rd)
+    - 时间：2021-04-20
+    - 摘要：在性生活排行榜上，你能排第几位？
+- [如何做到“活在此时此刻”，又追求“未来的目标”？关于“活在当下”的误解与澄清。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247585603&idx=1&sn=c5c718aa95a3fe137c6905992700e722&chksm=9fc7a607a8b02f118423c48e2aeeeee856e0a706ddafdd958fb9c7377c49021d8c8281e0047b#rd)
+    - 时间：2021-04-18
+    - 摘要：“活在当下”可能是最容易被人误解的概念之一了。
+- [谁是你的理想型女友？| KY免费恋爱测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247585603&idx=2&sn=10488cc92be375d3791592c265988aa6&chksm=9fc7a607a8b02f11bd1af7af9b293de7aa2d218607b4bbb2f183998b93ad30b346b1a9ee9568#rd)
+    - 时间：2021-04-18
+    - 摘要：春天都要结束了，你还是独自入眠吗？
+- [总感觉被世事绑架、没有自由，你需要今天的文章。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247585598&idx=1&sn=7fa8f85d662075da8bb238cc68588079&chksm=9fc7a67aa8b02f6ceffb9b65244f568ce222db59dfe8e2bf78acabcfda74375f2d3004b04b4a#rd)
+    - 时间：2021-04-17
+    - 摘要：“活在当下”可能是最容易被人误解的概念之一了。
+- [KY招聘丨线下空间、市场、内容运营、UI设计师，15+热门岗位等你来投](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247585598&idx=2&sn=76f0b61e070e476a4ae2701bee509906&chksm=9fc7a67aa8b02f6cd7cf49e914e3655b36fa4eba4b589bf9f411682d9421efc4793cb0b865ca#rd)
+    - 时间：2021-04-17
+    - 摘要：我们等着你～
+- [在爱情中经历的卑微，不应当被指责。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247585595&idx=1&sn=2893da0d8b01bd6a7dcc13013b577c89&chksm=9fc7a67fa8b02f698e440afadca1b911603749b23fdc146936b7b47172326ffc90e7346da6b4#rd)
+    - 时间：2021-04-16
+    - 摘要：舔狗舔到最后，也不一定一无所有
+- [一年一度的线下派对来了！网红打卡、免费手工、心理工作坊丨魔都周末](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247585595&idx=2&sn=860a643812d65a1e89252422057ae8d2&chksm=9fc7a67fa8b02f6975e2bea3f438a76a244d587a5e2476bccd871606377b83f517133b02be53#rd)
+    - 时间：2021-04-16
+    - 摘要：每周五规律推送下周课表
+- [网红瞒着男友和别人订婚：哪些女性可能是关系中的狩猎者？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247584686&idx=1&sn=99f41baa4b69656b76a59c3709f7dbd1&chksm=9fc7a2eaa8b02bfc6d78fe95a76dc6e00b7d31ba993d36bf5fde779054641f4a81bcd1d3547c#rd)
+    - 时间：2021-04-15
+    - 摘要：原以为进了姐姐的心房，没想到进了渣女的鱼塘
+- [3-2-1，茶会开票啦！来看看有没有你的城市和喜欢的主题吧~](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247584686&idx=2&sn=9df4f7e067f21956e165c48b4e73f69f&chksm=9fc7a2eaa8b02bfc2a0d6883833eaf01115f27f81e3ca965b140a877cab203a9061c36d65aab#rd)
+    - 时间：2021-04-15
+    - 摘要：本月茶会排期（线下城市+云端）、最新动态资讯都在这里咯。
+- [中国2亿成年人都曾因为这个熬夜到六亲不认……你经历过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247584225&idx=1&sn=907214316856407e5a5953e22ed7a16f&chksm=9fc7a0a5a8b029b30ceed00ddc98f076e1f1aedd1a5e324eb9a52ddc6d9fd92345463dc2745c#rd)
+    - 时间：2021-04-14
+    - 摘要：你一定没想到它这么容易解决
+- [为什么我的crush亲切地管我叫“大兄弟” 丨 KY趣味心理速递Vol.88](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247584225&idx=2&sn=6cb553cd2b598ee9f1b87d5062ea0787&chksm=9fc7a0a5a8b029b379c928e7a4fa1e8b4e1dd9e485b4c7a16dc32f6fc5d02fa60cb328082dc9#rd)
+    - 时间：2021-04-14
+    - 摘要：我想做他的honey，他却当我是兄弟。
+- [我是一个理想主义者，但现实让我愤怒，怎么办？丨 月食君答读者问Vol.22](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247584225&idx=3&sn=d14a14d9a9ac4ed48d492cd7f77a8217&chksm=9fc7a0a5a8b029b373e260c476da274d4c89e7019b0ab5a7b560f4f8610edcfef4d6e1eda033#rd)
+    - 时间：2021-04-14
+    - 摘要：你有一封来自月食君的信件，请注意查收~
+- [对一个女生最坏的教育，就是“必须听话”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247584161&idx=1&sn=bbd06237f9cc5cc6e591a5de3f01c1f6&chksm=9fc7a0e5a8b029f30eab2591a4ad1cce1da30e90cff76053fc472624a0af5897bfb80fd4fc36#rd)
+    - 时间：2021-04-13
+    - 摘要：如果到了平均年龄就要嫁人的话，那是不是到了平均寿命就得去死？
+- [在最好的春光里，遇见更好的自己——“春日原野”派对邀请函，请查收！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247584023&idx=1&sn=f2e98a0d878cd9cbf394c8a8c6773029&chksm=9fc7a053a8b02945cc698010c07b9e9fbb0774c248da2d0f7bc108b1dae972b436eeea4a2246#rd)
+    - 时间：2021-04-12
+    - 摘要：春日新玩法，等你来参与
+- [好朋友却在我幸福的时候阴阳怪气，是因为ta有这个特质](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247583573&idx=1&sn=845b1dd0f14a5d344de82d979ac09075&chksm=9fc7ae11a8b0270706ee73af5f10193bc65a024ecb87f6b76007e884289333757fd62c6c959a#rd)
+    - 时间：2021-04-10
+    - 摘要：自尊心太强也要治。
+- [婚姻成功的关键……居然是基因？！丨 月小兔讲论文Vol.13](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247583573&idx=3&sn=51e069066353163227a3ee0f74d80242&chksm=9fc7ae11a8b02707efa84cc147a93ea9e8cbfa77cab371a3f609d14d6a3aac8d1a3a709ee94f#rd)
+    - 时间：2021-04-10
+    - 摘要：
+- [《我的姐姐》结局惹争议：要不要扶养幼弟？这其实是个和独生子女也有关的问题……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247583427&idx=1&sn=88188429bb76d34b1a5b33acff06e6e1&chksm=9fc7af87a8b02691f56bf3c9c68e7de1ae246f743eeaece20769e0bea47e4070f1028310761c#rd)
+    - 时间：2021-04-09
+    - 摘要：并不只和姐姐有关
+- [因为拖延，这个标题是发之前1秒钟想的丨（全免费）抱团“战拖”的机会来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247583427&idx=2&sn=815f98a828065f7f8f53047d84d99850&chksm=9fc7af87a8b026916172caf55946f1500771ebfd5a9e6069bb1a57bc937b411185888b74da24#rd)
+    - 时间：2021-04-09
+    - 摘要：8天打卡互助
+- [大好春光里和朋友结伴来网红店打卡吧！丨城市修行每周五放送下周课表](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247583427&idx=3&sn=23c87b30eadac428212230a79e87f18f&chksm=9fc7af87a8b0269128212c537c696f9fd5ca5b32cdf79c9c8d158e6cdfddaee9608514553af8#rd)
+    - 时间：2021-04-09
+    - 摘要：每周五规律推送下周课表
+- [“准确的自我觉察可能是令人痛苦的。” 而这却是突破自我的第一步](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247582696&idx=1&sn=3b6c16b0974a16dd2a07caed6f00b92b&chksm=9fc7aaaca8b023ba23e41cd5b369c9bdfa7c84476d1c76a59b0a91672259bca5c550bcd90b1b#rd)
+    - 时间：2021-04-08
+    - 摘要：为什么有的人在压力下会失败，另一些人却反而能因此突破自我？
+- [「萌芽计划」开课啦丨报名立减1460元，支持花呗付款](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247582696&idx=2&sn=cdb860ad52ed5802e94fbde92e16220d&chksm=9fc7aaaca8b023ba5abf2dae7be9a33d07e3a44d8c4637246cdf17d8a9658a9766a497c11950#rd)
+    - 时间：2021-04-08
+    - 摘要：哈佛、北大、复旦、东京大学专家亲自授课的「心理咨询精英入门课」。
+- [王菲谢霆锋时隔7年再现“世纪牵手”：如何让相爱不输给相处？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247582186&idx=1&sn=351f62e769950a42eb55e9e702f84008&chksm=9fc7a8aea8b021b8b63c0b7f62e6be9f85108283d31cb3b1c4dc1f65ef6f4c5b861274c10b4a#rd)
+    - 时间：2021-04-06
+    - 摘要：如何才能在相处很多年后，每次出门还想要甜甜地牵手？
+- [“It's not enough.” 人在亲密关系中需要学会的一句话丨小姐姐的小闲话：关于实习医生格蕾的一则](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581723&idx=1&sn=7f139bc699f57dda7840820aff06b128&chksm=9fc7a95fa8b0204936ad57d504819424f3d99517e6d982bfa0107595173c609c31a93ffd590b#rd)
+    - 时间：2021-04-05
+    - 摘要：尊重自己，是赢得他人好好的对待的基本前提。
+- [「萌芽计划」开课倒计时3天丨报名立减1460元，支持花呗付款](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581723&idx=2&sn=a44ddf8ab900c5bc9e200bafb8c6195b&chksm=9fc7a95fa8b02049d37a1bbe421d8284a0f285079e5ea7016cf216e185e471dbdbfdccacd36d#rd)
+    - 时间：2021-04-05
+    - 摘要：哈佛、北大、复旦、东京大学专家亲自授课的「心理咨询精英入门课」。
+- [“我们终将学会与自己的阴暗面合作。” 丨《司藤》这整部剧，都在讲这个心理学原理](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581549&idx=1&sn=9792039de746c226c141782706158022&chksm=9fc79629a8b01f3fa316bd1b09a429993b52b89369f15a5eb0f159080af26ae22e2a18b588a1#rd)
+    - 时间：2021-04-04
+    - 摘要：没有人能永远天真无邪，这是生存对我们的要求。
+- [和哈佛、北大心理专家面对面，开课倒计时4天丨离你最近的心理学从业机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581549&idx=2&sn=25a35fdb90d84e662068c876b055e411&chksm=9fc79629a8b01f3fa34a0d39c3f55db4a60721c85a49b5162b3e8e7c28e4e6b7eed29016a138#rd)
+    - 时间：2021-04-04
+    - 摘要：李松蔚、动机在杭州、刘亮博士鼎力推荐的「心理咨询精英入门课」
+- [黄奕“实力不允许男友坐经济舱”：经济差异如何影响我们的爱情？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581258&idx=1&sn=e42bcfbde43be43738109892301e34c6&chksm=9fc7970ea8b01e18fcccef7c1c2bd9556d0e4f6e706734b5e846249d9b1945eb5aa9245a0d8a#rd)
+    - 时间：2021-04-03
+    - 摘要：谈钱伤感情吗？
+- [你的亲密关系为什么总是不成功？你需要今天的“爱无能诊断”丨免费趣味测试](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581258&idx=2&sn=e2d7ae7ca5311d257d7ae29c4d962be2&chksm=9fc7970ea8b01e18d7aa947bd69b53652867dfe59907e2bf62db91cd51a5043c43ef3c33fe5f#rd)
+    - 时间：2021-04-03
+    - 摘要：来看看你是哪种“爱无能”？
+- [全球绝大多数女性都会经历的这件事，却有可能让女性失去自己。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581191&idx=1&sn=c5d468421a8589a6fc0fac507f6eda29&chksm=9fc79743a8b01e55948ef84b80e8b944c114ca43a83df9437c1717d7e88e2e8895ec934971a2#rd)
+    - 时间：2021-04-02
+    - 摘要：今天我们选择真实呈现
+- [听敲锣也能让你浑身放松？声音疗愈告诉你，这是真的丨城市修行音疗冥想工作坊全新上架！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581191&idx=2&sn=9ce5619a8b75d539cde34fb71fe46b01&chksm=9fc79743a8b01e557146e1add213b9adac9e97e485a1c36b28047998b7f832eb1573583c7389#rd)
+    - 时间：2021-04-02
+    - 摘要：每周五规律推送下周课表
+- [和哈佛、北大心理专家面对面，开课倒计时7天丨离你最近的心理学从业机会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247581191&idx=3&sn=138919a6ffef1bd07cb90f03bd332585&chksm=9fc79743a8b01e55d6b8261dc496921e4fe8e2c2668155be5fa62ff993aac9823babe9912704#rd)
+    - 时间：2021-04-02
+    - 摘要：李松蔚、动机在杭州、刘亮博士鼎力推荐的「心理咨询精英入门课」
+- [迅速上头，又会迅速下头。恋爱中情绪总是反复无常，可能是这个原因…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580997&idx=1&sn=d986dea21a792a699183f76b95a7a533&chksm=9fc79401a8b01d170522177946d71ef429d094037fb58cd690561d03153b2f926f79acaf5ad4#rd)
+    - 时间：2021-03-31
+    - 摘要：恋爱中总因为一点小事就失控，真的很讨厌这样！
+- [我们终于开始科学算命了 丨 KY测评实验室](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580997&idx=2&sn=cc43c02b3d52e35e64ce00452e37c5b4&chksm=9fc79401a8b01d1759fcb49e12d34c22a2f24cd49524e6ccd7b83ee07e01eb8e2699d52a3f9c#rd)
+    - 时间：2021-03-31
+    - 摘要：揭露你命定的人格原型。
+- [这种择偶标准虽然有道理，但也可能令你付出惨痛代价……快来看看你中招没！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580862&idx=1&sn=0626ebc8d9d3bf2c36276771b0fb3588&chksm=9fc795faa8b01cec99360741b956601ad538951d70093f05796793634a833cb215b1e0f56217#rd)
+    - 时间：2021-03-30
+    - 摘要：只喜欢比自己强的人，有错吗？
+- [想成为在家办公的KY聊愈师吗？ 丨 哈佛、北大、复旦、东京大学、上海精卫中心专家亲自授课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580862&idx=2&sn=87f373abf26b143ba8ac772cd5893016&chksm=9fc795faa8b01cec817b4f261b4fdc6563f60f00bc214a497f2e17076ea96c4610f9dc4ae106#rd)
+    - 时间：2021-03-30
+    - 摘要：李松蔚、动机在杭州、刘亮博士鼎力推荐的「心理咨询精英入门课」。
+- [“对于抑郁/躁郁症，看见和了解是改变的开始” 丨 世界双相障碍日特辑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580862&idx=3&sn=e2f0054eaa3a873be7ea08ccac9f3826&chksm=9fc795faa8b01cecdc69dbac8f2295f5431649784dcc7f029db5ae320cfdeec344e0548e349e#rd)
+    - 时间：2021-03-30
+    - 摘要：关爱心理健康，我们一起行动！
+- [马思纯择偶标准被吐槽：来看KY读者们建议的「选择伴侣的42条标准」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580719&idx=1&sn=008709465b78b3906ccd6fba26d56b18&chksm=9fc7956ba8b01c7dfcc2d7f38d11066b2284d3cb5bca0bc7634f28b23f2e2e11fcd2b1bf883c#rd)
+    - 时间：2021-03-29
+    - 摘要：幸福的伴侣们送给单身朋友的礼物。
+- [两个原生家庭有问题的人在一起，会更难还是更容易？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580546&idx=1&sn=982992db857d4624198c2a6147a41b3e&chksm=9fc792c6a8b01bd0003875057b9b5d3b1feccce5d8eef12be99f55b795b01a5919878c477b09#rd)
+    - 时间：2021-03-28
+    - 摘要：原生家庭不会决定你的亲密关系 ，只要你……
+- [想通过自己做饭控制饮食？你可能适得其反… 丨 月小兔讲论文Vol.12](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580546&idx=3&sn=088dfa400e42755466503091a099447c&chksm=9fc792c6a8b01bd0a1ed4bc8cc38f7280279275d943fddd6a7fcdf176948c8995480d863fd23#rd)
+    - 时间：2021-03-28
+    - 摘要：
+- [（旧文）持续不断的爱是不存在的，爱是一个个不连续的微小瞬间。丨KY研究：持续相爱的秘密](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580473&idx=1&sn=248e014fd3779deae8038a8ac848840a&chksm=9fc7927da8b01b6b32ca9826a5e930bdfa552b0cb0e4a4958d902896928ab6b2890ffc1f1769#rd)
+    - 时间：2021-03-27
+    - 摘要：爱的本质就是不连续的。这能给我们什么样的亲密关系启示？
+- [生活不是你活过的样子，而是你记住的样子丨KY粉丝故事：你手机里最美的一张照片](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580473&idx=2&sn=059da633826f2c2ca4a10098441303f5&chksm=9fc7927da8b01b6b312dd70d19f18b6563235bb52915913e39996cfc1b38bf10f7070b05202c#rd)
+    - 时间：2021-03-27
+    - 摘要：你最喜欢哪张照片？
+- [“超越友情而不是浪漫的爱”｜当一个女孩决定守护另一个女孩](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580393&idx=1&sn=45c0601199ce562d64754484c3caa7fa&chksm=9fc793ada8b01abbd492793f0d8f6cfcbb501268a60a0044d7310ab9e56feee8258623e2849e#rd)
+    - 时间：2021-03-26
+    - 摘要：成年人的世界里特别罕见的关系。
+- [负面情绪挥之不去，你需要先与它“交朋友” 丨 城市修行情绪系列工作坊最新上架！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580393&idx=2&sn=1fbdce120dec6d1ba1d1b7aab28c4ef4&chksm=9fc793ada8b01abb7b485d5f5d4a99f326199177f3a29b623609f99528788482967a2047f76a#rd)
+    - 时间：2021-03-26
+    - 摘要：每周五规律推送下周课表
+- [冲突回避型人格：ta永远敷衍我的严肃的提问 丨KY人际练习室：不想面对冲突怎么办？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580217&idx=1&sn=27628044d8f92bd6250bae85ff962dce&chksm=9fc7937da8b01a6b8bc81eeed3896c1cd7d4087c5c6c36773ad2869133a4ccd1e33c4f70cbdb#rd)
+    - 时间：2021-03-25
+    - 摘要：ta敷衍你可能不是不爱你，只是不知道如何面对冲突。
+- [离你最近的心理学从业机会来啦 丨 优秀学员享全额奖学金](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580217&idx=2&sn=fae355e28fafb3cedad0753fe2d82c4c&chksm=9fc7937da8b01a6ba254841d355e55f5185f0aeb6f020fdee88cfabdb1662dd79a84d0b64bb8#rd)
+    - 时间：2021-03-25
+    - 摘要：心理咨询精英入门课，开课在即，支持花呗付款～
+- [“过普通的人生，也已经是幸事了。” ｜KY粉丝留言：你在哪一刻接受了自己的普通？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580048&idx=1&sn=8a8ea76c16667cfd4a9c8747ea3afc12&chksm=9fc790d4a8b019c25a51d19e5e004558f85fce070a4a7b382aa5ac5c791b7f8032195026778b#rd)
+    - 时间：2021-03-24
+    - 摘要：也许我最擅长的，就是什么都不擅长。
+- [艾瑞巴蒂，KY线下茶会恢复营业啦; ) 看看有没有你的城市吧！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247580048&idx=2&sn=5ebfe3105dab450fbcd2b746d1caa490&chksm=9fc790d4a8b019c26ab2269bbc32c05f4d72345fda57c0ff399145b01e5371463c4b4f553b75#rd)
+    - 时间：2021-03-24
+    - 摘要：上海、北京、广州、深圳、杭州、苏州、南京、厦门的KYer看过来！
+- [性爱捕食者：他们的爱情只是征服的游戏。丨 8种信号帮你识别这种PUA](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247579842&idx=1&sn=c23d3df564effdbc4daa2cbc47113077&chksm=9fc79186a8b01890f668e866caf229165891d99bda6a3221ead99b5a6d422b35085e420f41fc#rd)
+    - 时间：2021-03-23
+    - 摘要：你遇到过性爱捕食者吗？
+- [别人约炮都很快乐，为什么我约完想哭？丨 KY趣味心理速递Vol.87](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247579842&idx=2&sn=c61de4788235575816fc4c06444cb181&chksm=9fc79186a8b01890278260c9eda729e23d5e80053b112b57fd06f6554e4124f4b0f5aa60197f#rd)
+    - 时间：2021-03-23
+    - 摘要：因为你打开方式不对。
+- [人缘是门玄学吗？ 其实符合这一特质的人，都会很招人喜欢](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247579777&idx=1&sn=c201452284a63a15b5340841385e0e33&chksm=9fc791c5a8b018d35df1cf3847d43a84f0eaa5673878353cdef7a7b276edf19f92fba4502a77#rd)
+    - 时间：2021-03-22
+    - 摘要：“气场”是科学存在的。
+- [自己都睡不好，还怎么睡别人？（划掉）丨 KY家的神仙睡眠产品，免费发放中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247579777&idx=2&sn=73f7cf62117073e1b96029fd9d7d8e97&chksm=9fc791c5a8b018d34be4850a3de9f02a532eb19fcc79c07d1c6bb1030a897af46c68bb9f366f#rd)
+    - 时间：2021-03-22
+    - 摘要：免费工具+免费社群服务，帮你锻炼睡好觉的能力。
+- [“我觉得我的人生本应更好” 丨 你不快乐，可能是向人生索取得太多](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578831&idx=1&sn=23562e92ebd7ae07d38b6cf6a61a1dde&chksm=9fc79d8ba8b0149d3ee5f5016e9087fe306fce700746bb3ea0300de5e2e8d5e39bebcb512a5d#rd)
+    - 时间：2021-03-20
+    - 摘要：极端的“好”可能不是好，反而是一种惩罚与考验。
+- [萌芽计划报名立减1760元最后1天 丨 优秀学员享全额奖学金](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578831&idx=2&sn=e29bac1c5755d1ce72cfa8099e3ec07a&chksm=9fc79d8ba8b0149d19f21a78bb9a51220c95ef6fa68a464d6b6b37de8284e6416ef5098e1f5a#rd)
+    - 时间：2021-03-20
+    - 摘要：心理咨询精英入门课，支持花呗付款～
+- [想要睡得更好？想要更好的体态？一切要从建立好的身心关系开始](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578808&idx=1&sn=917468ecaba708f071f87f972eedf318&chksm=9fc79dfca8b014ea68632022710648d51a8182c1fc56ec12965b2859d31491830296e72a12d2#rd)
+    - 时间：2021-03-19
+    - 摘要：一个你从没想到过的角度。
+- [每天“带薪打哈欠”？中国超3亿人存在睡眠障碍... 丨「用冥想帮你睡个好觉」系列工作坊来了！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578808&idx=2&sn=277097368cdbf8711cbe7775224d29c5&chksm=9fc79dfca8b014ea2e4f5ed620c0038d3fbd5cb93a70ea48bdccfedfbf4abc627338fb3b429a#rd)
+    - 时间：2021-03-19
+    - 摘要：每周五规律推送下周课表
+- [“遇事别急，人这一辈子等不到富有，难道还等不到太阳吗?” 丨 KY粉丝留言：爸妈留下的82条改变一生的生活哲学](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578333&idx=1&sn=454026ad0df6211fb70ced2774fe628f&chksm=9fc79b99a8b0128fce6908268a29113d7a11aa423837e68af0ebc2552601f2950c355d7174e4#rd)
+    - 时间：2021-03-18
+    - 摘要：关于应该如何自处、与他人相处，以及如何在世界上找到自己位置的82句话。
+- [3招用于培训专业人士的测谎技术，帮你快速有效地识别谎言丨 KY趣味心理速递Vol. 86](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578333&idx=3&sn=f5925ea6a39a96d338b03de3eebb83ee&chksm=9fc79b99a8b0128f91bd0d7d3840717ed5e7bfc9d45f7014089bc1e7c521a8d5fdd94d0d36cb#rd)
+    - 时间：2021-03-18
+    - 摘要：微表情真的不靠谱！
+- [当我们谈论男人最在意的部位，我们在谈论些什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578309&idx=1&sn=b5ff297af8c2fb25a82287be4d321301&chksm=9fc79b81a8b012976883c4ba1ed08407d534634d214a85ecf147a92ab0c78a503d2210498dd5#rd)
+    - 时间：2021-03-17
+    - 摘要：如题。
+- [爱情猝不及防地发生了，但是他结过婚也有孩子。我该怎么办？ 丨 月食君答读者问Vol.21](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578309&idx=2&sn=50d9d195d141bcd7e57e859cf23e62eb&chksm=9fc79b81a8b012976784fc2967412fe90b6f402dc16cf30322d3614d6db98eb682d1c4bcc202#rd)
+    - 时间：2021-03-17
+    - 摘要：你有一封来自月食君的信件，请注意查收~
+- [“自卑到骨子里的人也可以拥有光” 丨 解锁爱自己的正确方式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578217&idx=1&sn=1e3b6e69068d1975407a9c010eb48837&chksm=9fc79b2da8b0123b78e211058b5376a3e5ed3f47d8fb1d4d5db49fbf12a96fec8fdfab180340#rd)
+    - 时间：2021-03-16
+    - 摘要：都说要爱自己，但你很可能不知道什么是真正的爱自己。
+- [成年人的生活总是有委屈，如何维持情绪稳定？ ​](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578217&idx=2&sn=d3b43da43799197120342e1409e31743&chksm=9fc79b2da8b0123b5da4b2abc171db750b759ba809e15cf2675a4270ad23608a635dae54df91#rd)
+    - 时间：2021-03-16
+    - 摘要：压抑情绪，只会带来崩溃而不是稳定。
+- [想要跨专业从事心理行业，我该怎么办？丨萌芽计划立减1760元最后5天](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578217&idx=3&sn=161e1d5a1525ecb9d978fd983da0d938&chksm=9fc79b2da8b0123ba193b348947663c1857df6d848b7b29b3191ba385f5d400045a452e5b662#rd)
+    - 时间：2021-03-16
+    - 摘要：心理咨询精英入门课，优秀学员享全额奖学金，报名立减1760元最后5天～
+- [你如何知道，自己会爱上什么样的人？丨 研究：爱情发生的根本原因是什么](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578147&idx=1&sn=9d3c11589a64025a070502dc93ef53ef&chksm=9fc79b67a8b01271e05589f7c9c82050ec676c5494f497c0c872423c0f97b60e9bbb87ed65b4#rd)
+    - 时间：2021-03-15
+    - 摘要：想要获得持久的爱情，你必须克服这3个挑战
+- [“越想自律，却越无法自拔地放纵”｜实现目标的道路注定痛苦吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578147&idx=2&sn=2e48e97f266add610cbc2b375c774bc1&chksm=9fc79b67a8b01271b19debaa1cf96e08ec8fe1a4c7416793e6c4257bbb1c3e6ee8b3f7038b58#rd)
+    - 时间：2021-03-15
+    - 摘要：和自己达成快乐的合作关系，才能实现目标。
+- [研究发现，不止女性喜欢八卦，男性也喜欢！丨 KY趣味心理速递Vol.85](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247578147&idx=3&sn=446735e526bf9f91ac70cddef0c575f4&chksm=9fc79b67a8b012713febffcf9002c3b8008d2a1211155f110ed81eb82736e3aca3853f3ad821#rd)
+    - 时间：2021-03-15
+    - 摘要：“种瓜”“吃瓜”也是一门学问～
+- [“7天，我见了20个相亲对象，真的累了。” 丨KY茶会有大事件!](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247577989&idx=1&sn=03fd6d082b1448331fb0ea5b12484f87&chksm=9fc798c1a8b011d75b970e1645529671c83fef483415d56d210d48b63341a0431207714c8287#rd)
+    - 时间：2021-03-14
+    - 摘要：南京、厦门KYer看过来，线下面基的机会和春天一起来啦！
+- [身边有人总是只在乎自己？这样的相处方式能避免被ta们伤害哦！丨 KY趣味心理速递Vol. 84](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247577989&idx=2&sn=8fa3c5a81c8052f9d452d083f91f3233&chksm=9fc798c1a8b011d789e74c7a33756d90c707020f06a3287334d8797183a0bb66edacfd6b9aae#rd)
+    - 时间：2021-03-14
+    - 摘要：自私的人可能不会改变，但我们可以改变对待他们的方式
+- [这个日常的小习惯，能够帮你抵达生命的深处 丨 KY小姐姐的随笔集序言](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247577980&idx=1&sn=5bf74eaace1ba748e70600da0859df9c&chksm=9fc79838a8b0112e3f5bb6a5f5c0dd573d0ef5872015d78c77370d9901d58f79f8a0fd2f28df#rd)
+    - 时间：2021-03-13
+    - 摘要：与遥远而相似的灵魂共鸣。
+- [“如何判断ta爱不爱我？”（下集）｜这样做，能让ta舒服地感受到你的爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247577951&idx=1&sn=a3ad6ad3d43242a27382cade15227ce4&chksm=9fc7981ba8b0110dadc4dc7424f7cd326ac12f26bc8bb673a7d1b593d4b45b228112e694bff9#rd)
+    - 时间：2021-03-12
+    - 摘要：想感受到爱与被爱，这件事你必须要知道。
+- [「正念入门」线上工作坊来了！想提升效率、改善情绪、享受生活的你不容错过](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247577951&idx=2&sn=f132be531a3608a4d3501be8a1723424&chksm=9fc7981ba8b0110dacee973c07a2dd43e57d3d83196fba2b4e2b1134c287c3a233d485fc1059#rd)
+    - 时间：2021-03-12
+    - 摘要：每周五规律推送下周课表
+- [“我想知道如何判断ta爱不爱我？”｜有时候，就算你没感受到，ta其实还是爱你的。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247576602&idx=1&sn=4a1c8a16cbc852c3fb4829d26edfbf8f&chksm=9fc7855ea8b00c48861f39dfca316d6ee9d8a29483c475c9946bebc98f2931f4b06669435b71#rd)
+    - 时间：2021-03-11
+    - 摘要：3个特征，教你识别关系中的爱
+- [距离你最近的心理学求学、从业机会不容错过｜萌芽计划团购价报名中](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247576602&idx=2&sn=6fab5b0ab8c68921091b4460495b0e0e&chksm=9fc7855ea8b00c4852697d6fa361f7f954adc3bb0650bd511d884afd0edca63e1e83cd34f065#rd)
+    - 时间：2021-03-11
+    - 摘要：心理咨询精英入门课，现在报名立减1960元，支持花呗付款哦～
+- [1/5的情侣都会遇到：有一种不匹配，叫“性生活不匹配”。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247576502&idx=1&sn=3161a07aec1cce34c0f27028bba9406c&chksm=9fc782f2a8b00be4afe87877c0aa9908fea1911c2abdc0e2720e07bf6274aba77fddfc21d19f#rd)
+    - 时间：2021-03-10
+    - 摘要：什么是性生活不和谐？不和谐能怎么办？
+- [“难过的时候，一定要喝一碗热汤。”｜KY粉丝留言：18个值得铭记终生的温暖时刻](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575982&idx=1&sn=96b8efae5153460e26f9203dbc5e02f8&chksm=9fc780eaa8b009fc4f02e06ea8bcd3927f790321e84625ae2a04f262e4e867ec465eb3235c95#rd)
+    - 时间：2021-03-09
+    - 摘要：身处低谷的时候，记得再来看看这18个关于温暖的小故事
+- [总说成年人要学会与自己和解，但“与自己和解”到底是什么意思？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575902&idx=1&sn=cabb2510766f0ab90f329b2ce2d869f5&chksm=9fc7801aa8b0090c751e19485272df2ccb6dfbfac5ef7364c9291a75e60116727d255f0ec614#rd)
+    - 时间：2021-03-08
+    - 摘要：3个步骤，让你和自己的关系变好。
+- [想要获得尊重，就得付出努力证明自己。｜ 哪个瞬间你发现，你已经变成了一个新的自己？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575778&idx=1&sn=964cc8756291a9f892e6d6ca606e05aa&chksm=9fc781a6a8b008b061e15618ebd14436ef7b5aa88c5e0289edd3e9ceb1b00022928e13d2410e#rd)
+    - 时间：2021-03-07
+    - 摘要：5个关于改变自我的故事。
+- [吃巧克力会降低性欲？树却能抗抑郁？｜ 月小兔讲论文Vol.11](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575778&idx=3&sn=7e0da29d99e6559b79b17538e5cb867f&chksm=9fc781a6a8b008b0cadd465ff3516e72831bd33383634f2823060e706e17567710ffd9408769#rd)
+    - 时间：2021-03-07
+    - 摘要：吃论文有益身心健康。
+- [“同龄人都结婚生子了，我连对象都没有”丨所以，不遵循社会时钟的人会过得幸福吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575752&idx=1&sn=42753c33b8e446a3850a9c96927fa42f&chksm=9fc7818ca8b0089a672ac445a385ee646dae8dbdef96c02474212e1099d8d25f0f906604f58a#rd)
+    - 时间：2021-03-06
+    - 摘要：和社会主流有时差的人生，该怎么过？
+- [萌芽早鸟价立减1960元最后20小时丨距离你最近的心理学求学、从业机会不容错过](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575752&idx=2&sn=23b0b1beeacb65400b53a7f73487a850&chksm=9fc7818ca8b0089a10c53a6aee47eed8200be94e299db956a6c6a71c1f149163c48bb5bfb937#rd)
+    - 时间：2021-03-06
+    - 摘要：心理咨询精英课报名立减1960元3月7日18:00截止，支持花呗付款哦～
+- [“我觉得没有人爱我” ｜ 很少人知道，“被爱”也是一种能力。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575695&idx=1&sn=9dcf02d8b115f4d76bbcbe98aec51d77&chksm=9fc781cba8b008ddc7a6157906147305fbf1548a13db5949f751d04262cb884ca3a6f4cb01fc#rd)
+    - 时间：2021-03-05
+    - 摘要：总在亲密关系中感到不被爱，可能是因为你缺少了被爱的能力。
+- [性主题心理工作坊，激情上架！（女生专属）｜城市修行工作坊上新啦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575695&idx=2&sn=29151a9816f2877349a9baba00680ee5&chksm=9fc781cba8b008dd5c61bd955756ea290e3aea9afce25c3f288631a07910bd8827336bdfa72e#rd)
+    - 时间：2021-03-05
+    - 摘要：每周五规律推送下周课表
+- [为工作努力付出，却得不到公平的待遇和认可。怎么办？ | 月食君答读者问Vol.20](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247575695&idx=3&sn=c623101be8b2913645f9b4534dee4a3c&chksm=9fc781cba8b008dd8ab4f31ade8fd900b198c21dada6f89b1cf97465175ae50e3fa411eaed92#rd)
+    - 时间：2021-03-05
+    - 摘要：你有一封来自月食君的信件，请注意查收~
+- [那些美化自己伴侣的人，比客观认识伴侣的人更恩爱？来看研究。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247574428&idx=1&sn=593b365f8d35f0c614d8f8b632034210&chksm=9fc78ad8a8b003ce6783861ca07a37654f288c010620489d3b0359faa2b3cf618d7d094330df#rd)
+    - 时间：2021-03-04
+    - 摘要：如果ta看你的时候已经没有滤镜了，别怀疑，就是不爱了。
+- [KY招聘 | 心理内容编辑、插画平面设计师、安卓开发工程师等你来](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247574428&idx=2&sn=a584752f9da0c72d017e48c61ee07b66&chksm=9fc78ad8a8b003ceea67ad1b3b945c215db0f4284cf1fafb889b138356cf20e816b75436fa1f#rd)
+    - 时间：2021-03-04
+    - 摘要：引领身心健康的生活方式。
+- [萌芽早鸟价立减1960元最后4天｜免费赠送心理咨询大师课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247574428&idx=3&sn=ede9982fe9d3b1a05255ab6816f4fd23&chksm=9fc78ad8a8b003ceef0e1159b58f02bdb009f6e056ccb45d6a67ddc8c8e426f02fcd796bede8#rd)
+    - 时间：2021-03-04
+    - 摘要：心理咨询精英课报名立减1960元倒计时4天，支持花呗付款哦～
+- [掌握这个知识点，平衡工作与生活不是梦。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247574275&idx=1&sn=08dfd13eadc4c8fddb6bbb7991bea73c&chksm=9fc78a47a8b003519e862114570d57448cb362b63e8f322bac9da2f4d299832a461ec2568921#rd)
+    - 时间：2021-03-03
+    - 摘要：我就是成为我的过程。
+- [距离你最近的心理学从业机会不容错过｜免费赠送心理咨询大师课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247574275&idx=2&sn=8edf939125eb28ed5f011498b5b98575&chksm=9fc78a47a8b003514135301723d60b49568778bdfbf99e7e71efa544a162a49bce95a0d5ce7d#rd)
+    - 时间：2021-03-03
+    - 摘要：萌芽计划早鸟价最后5天，报名立减1960元，支持花呗付款哦～
+- [好的亲密关系，不但能治愈心理创伤，还能使人不发胖？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247574166&idx=1&sn=2d516d84bd11a95b141ca32b9dfd3887&chksm=9fc78bd2a8b002c401d671a218de075ff449ae3f4b0630d7b39c8072afc4c447d5245e0d4f21#rd)
+    - 时间：2021-03-02
+    - 摘要：关系能摧毁我们，也能使我们重生。
+- [忘不了一个人，可能是因为忘不了ta的气味。但这没关系！| KY趣味心理速递Vol.83](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247574166&idx=3&sn=4058d87a63ebdeca021c6940b86a99f7&chksm=9fc78bd2a8b002c418a12df723d6c8d23d641b40a6e50d6953c65581ddae7699a3963bdee28c#rd)
+    - 时间：2021-03-02
+    - 摘要：对过去的记忆，可以帮我们在当下的生活中找到勇气。
+- [静不下心、难以专注、每天都很焦虑……内卷之下我们如何自我治愈？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247573940&idx=1&sn=06d0cc93bd76411525cbb8b64036e087&chksm=9fc788f0a8b001e6ee80fbee083e0aac6987c6346ec8a45ddbceaed3530815158edfc876d554#rd)
+    - 时间：2021-03-01
+    - 摘要：这个时代，我们格外需要培养出“宁静的自我”。
+- [想跨专业从事心理行业，我该怎么办？｜萌芽新福利：赠送心理咨询大师课](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247573940&idx=2&sn=f0381df814925526a7c83bb0b752b1a7&chksm=9fc788f0a8b001e6b977b749c83b6e3bd34b0864ce960f8c96517bfe329ea60eb782af0a69ed#rd)
+    - 时间：2021-03-01
+    - 摘要：心理咨询精英入门课，报名立减1960元倒计时7天，支持花呗付款哦～
+- [会谈恋爱真的是一种能力！到底是什么样的能力呢？| KY趣味心理速递Vol. 82](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247573002&idx=1&sn=22419e16c89816319b35d7d80e9b7a80&chksm=9fc7f74ea8b07e58f652c4a2588725147c29e752f5f2a2df2750ab447015d7b80d6c7cd318ff#rd)
+    - 时间：2021-02-27
+    - 摘要：这3种能力，决定了你的爱情能有多顺利 。
+- [想提升自尊与魅力，唤醒自己内心精神的力量？｜三八节特惠工作坊预售开启！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247573002&idx=3&sn=00797d432919c0800c31934a55c4a4ce&chksm=9fc7f74ea8b07e582bfe0921efc0eb216ec8f49b7ee4e9878e95606a092db8661127798b87a7#rd)
+    - 时间：2021-02-27
+    - 摘要：城市修行三八节特惠工作坊预售开启！
+- [“有时很开朗、有时很内向，觉得自己好分裂。” | 如何发展出成熟而灵活的多元自我？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247572495&idx=1&sn=4af4a87a556657878ed68f2379e3c62b&chksm=9fc7f54ba8b07c5d167bb4a5e5282863a7794ea7d8ad593d3ea1cdd4d37385c78a68ae6dd4aa#rd)
+    - 时间：2021-02-25
+    - 摘要：人太忠于自我，也可能变成自我设限。
+- [这件事好像很普通，大多数人都忽略了它在关系中的重要性](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247572281&idx=1&sn=7ca8f93144805d0b0f4cfd646583dc3b&chksm=9fc7f27da8b07b6b0cb4d43a72e4891c1318930761d0ffad23cbd95cdea8bc8fbc904feb92e8#rd)
+    - 时间：2021-02-24
+    - 摘要：我们可以爱一个不爱自己的人，但一定不能爱一个不尊重自己的人。
+- [如何成为在家办公的KY心理聊愈师？｜萌芽计划早鸟价即将截止咯](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247572281&idx=2&sn=ea3f79fe244da41f5446425eb1a22e07&chksm=9fc7f27da8b07b6b54421bed114fdc135c08754e6c56aa9b2c2df0fc5767908d5b796fa419ad#rd)
+    - 时间：2021-02-24
+    - 摘要：心理咨询精英入门课，现在报名立减1960元，支持花呗付款哦～
+- [“通过ta的眼睛我重塑了自己。”｜有一个支持型伴侣，是怎样的体验？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247571981&idx=1&sn=c83007cd28d3c960774a58a3174edccd&chksm=9fc7f349a8b07a5fd20bc8f244b8ab4143480d2319f56276bc4a1f376735a2b548f3ece7a440#rd)
+    - 时间：2021-02-22
+    - 摘要：世界上大部分的真爱，不是等来的，而是“培养”来的。
+- [男性是怎么假装高潮的？ | KY趣味心理速递Vol.81](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247571981&idx=3&sn=d11b798fdef0a2e3af9f5d27878e1f9a&chksm=9fc7f349a8b07a5fe316f0943eb94c2bcec5ffd9e415b497dac9e3a04b3ef5585a025d785fd4#rd)
+    - 时间：2021-02-22
+    - 摘要：谁还不能拿个奥斯卡了咋滴。
+- [长期睡不好，会导致肥胖、抑郁情绪等。想要睡得好，这3点你必须知道](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247571675&idx=1&sn=e802ae438d280dc49757a5297c139862&chksm=9fc7f19fa8b078892dd3f4aa014c11d4208b88d26e807e32d8898d335b44917bdaaf9f7d160d#rd)
+    - 时间：2021-02-21
+    - 摘要：中国有3亿人存在睡眠问题，你是其中之一吗？
+- [PUA的手段不只有贬低：“间歇式奖惩”如何让人在不良关系中难以自拔？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247571649&idx=1&sn=a91a284342d5ca3e368ca745612a03b1&chksm=9fc7f185a8b0789305b921941e1b0343728503725c2e7171d26ca021fb3899431d99781f6763#rd)
+    - 时间：2021-02-20
+    - 摘要：每个人都可能遭遇过的隐秘的背叛
+- [想跨专业从事心理行业，我该怎么办？｜萌芽计划早鸟价立减1960元](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247571649&idx=2&sn=22bcae57b74a05868a7e331f63008612&chksm=9fc7f185a8b07893f78712f5b5dfab5269c281cf5cbbfd567218be1e3a5f0106e5613f1406a8#rd)
+    - 时间：2021-02-20
+    - 摘要：心理咨询精英入门课，现在报名立减1960元，支持花呗付款哦～
+- [姐妹都说ta不爱我，劝我分手。我该听从吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247571100&idx=1&sn=69a16ddf2592e610f9ac1351ea1f57f2&chksm=9fc7ffd8a8b076ce06ce35d948d7164c62fc766c79110f3a8f9b0ac76757c9a168270fa329e6#rd)
+    - 时间：2021-02-19
+    - 摘要：小心恋爱范本对你亲密关系的影响
+- [生命中的那些TA，如何造就了现在的你？来「心灵游乐园」分享你的人生故事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247571100&idx=2&sn=024c75e2dbb7875e8a0d52c7c376b256&chksm=9fc7ffd8a8b076ceb0a4713536dd1ad1a4dec843596890040cbe00aead688d3b6f04da84ad97#rd)
+    - 时间：2021-02-19
+    - 摘要：每周五课表固定更新。
+- [2021开年流行词：“原年人”，你听过吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570687&idx=1&sn=7c6bb0813b2d3c817e959731c63823af&chksm=9fc7fdbba8b074ada1aba3820f220948d1adf75ee298ba058eaf5eee8ced59d59d1a5b406362#rd)
+    - 时间：2021-02-18
+    - 摘要：2021的春节，有一亿人做出了这个选择。
+- [KY打造的线下「心灵游乐园」，来体验“关照自我与内心”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570687&idx=2&sn=64e3c28f1fb4556261bfd02528387b6e&chksm=9fc7fdbba8b074adfb3dd40bf5a8cbf6b9c2e7284e5a725871068e6cd878eafc5b6d6211dd2e#rd)
+    - 时间：2021-02-18
+    - 摘要：一个凝视着你的灵魂的空间。
+- [我们组织了大型网友“奔现”活动，没想到…](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570319&idx=1&sn=c41b1a6ba57d5b0440a5aab169cd81a5&chksm=9fc7facba8b073dd87a442f68b6b1631a902960300254c5da2009e427463d71211559545e593#rd)
+    - 时间：2021-02-17
+    - 摘要：这里有人大笑、有人泪奔，他们有故事、有酒。你来吗？
+- [如果迟早会分开，感情还有必要继续吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570319&idx=2&sn=dc21a4f669acb878df76b00af5966339&chksm=9fc7facba8b073dd83f7c40794f66f995b56f0c4cddce82e5f8721100c6c79004692ce6ebada#rd)
+    - 时间：2021-02-17
+    - 摘要：如果你也有困惑想被解答，欢迎写信给我。
+- [这件被中国文化长期忽略的事，阻碍了很多家庭走向真正的幸福](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570313&idx=1&sn=f17969f410f0263ecd8fe90bab748dc9&chksm=9fc7facda8b073db158be0b42d95b96b6cb1dd3faac49ceaa880539dfce3dedf5d696332fdb8#rd)
+    - 时间：2021-02-16
+    - 摘要：春节被亲戚盘问人生，你需要把这篇推文发给她们。
+- [遇到杠精，我今天吵架又没发挥好 ｜ 免费趣味测试：你吵架水平有多高？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570313&idx=2&sn=9d559528260735dff381030f93095a93&chksm=9fc7facda8b073db0d6303e049722f11cdb073104466ba1aeb51b55cecb5c3a02545233c6cc8#rd)
+    - 时间：2021-02-16
+    - 摘要：我该怎样反杀杠精？
+- [想搞定一个喜欢的人，一定不能秒回？| 关于“撩人套路”的严肃分析](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570279&idx=1&sn=bb478138e2e6a1a10efc4a9a77e3c44e&chksm=9fc7fa23a8b073353612d4fc6b3e7500679483c3b73aaf37820021085d82adbf846862afe2bd#rd)
+    - 时间：2021-02-13
+    - 摘要：在爱这件事上，策略该怎么用？
+- [我们应当竭力维护私人性，以对抗“宏大”对我们生活的入侵｜KY小姐姐写给2021春节的新年寄语](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570275&idx=1&sn=f4decfefc23e43e6945d66cc04ce7759&chksm=9fc7fa27a8b0733111e75b77403724edf01d69c9dea8a00a8fe58be1680db2a88e0cfe40478a#rd)
+    - 时间：2021-02-12
+    - 摘要：做一个和自己的人性紧密相连的人。
+- [新的一年，我想要学会照顾自己的内心 | 新春城市修行工作坊课表更新](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570275&idx=2&sn=791a696297e425ecfc8c87c6c916d731&chksm=9fc7fa27a8b073310e1a2e81d49bff68c1ef05155c4713ea43d930c31e0261fbc3c9c0fec748#rd)
+    - 时间：2021-02-12
+    - 摘要：每周五课表固定更新。
+- [已婚说：婚姻是幸福的起点 vs. 未婚说：它终结爱情｜KY「云端茶话会」春节不打烊](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570248&idx=1&sn=91cee9c3fceae86803a0a63e7532c360&chksm=9fc7fa0ca8b0731a1e4a038825aca6d13a382ab299639bf996a388b6fce898121fc38e8becc5#rd)
+    - 时间：2021-02-10
+    - 摘要：返乡？疫情？春节？风里雨里，茶会总在等你。
+- [情人节送礼物是消费主义洗脑？科学说，不！｜KY趣味心理速递 Vol. 80](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570248&idx=2&sn=0c93db43f4e198aa8f51007c4eb0567c&chksm=9fc7fa0ca8b0731a26b2e4c3be0e7ade8c9b61f68b1092f9bd35ed0a531215511ce883075787#rd)
+    - 时间：2021-02-10
+    - 摘要：亲密关系中的仪式感的确能提升亲密度。
+- [大部分人越忙乱越崩溃。那些能够在忙乱中取得成就的人，秘诀是这个……](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570247&idx=1&sn=a4d7805ac73df0244815834108fd6653&chksm=9fc7fa03a8b07315e3967be1675a6755cd6f51a6a479f3e774b7de7d1306a45805c801da8f6b#rd)
+    - 时间：2021-02-09
+    - 摘要：混乱无序，也是潜能和机遇。
+- [KY喊你一起云过年：请查收这封邀请函](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570247&idx=2&sn=ea25d0c65c40319097bb692bbfcfe12f&chksm=9fc7fa03a8b073151ca3887e3bf71220de2530af6481524ca759eb52954d58c8d68e08b5c645#rd)
+    - 时间：2021-02-09
+    - 摘要：这里是一份来自KY的“云过年”邀约。
+- [“追爱是勇敢。而放弃没有回馈的爱，是一种更大的勇敢” 2020年他们收获了这21条感悟](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570224&idx=1&sn=90a04291aa4b318112ac8547de5c46c0&chksm=9fc7fa74a8b07362c51200215344f53842d9f2cd5d42bb30330be7bff734fa548c96a9af46dc#rd)
+    - 时间：2021-02-08
+    - 摘要：我们不可能跳过生活就获得领悟。
+- [春节应对七大姑八大姨终极指南| KY趣味心理速递Vol.79](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570224&idx=3&sn=16e4072ec10b4f9d692502f7447ca492&chksm=9fc7fa74a8b07362f5d5a7665729d27b9aad0f11eae30015fbec19637e144363f71fb55db03c#rd)
+    - 时间：2021-02-08
+    - 摘要：一文在手，回家不愁～
+- [2020年TOP3粉丝扎心提问，来看KY的回答](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247570097&idx=1&sn=c15215b6faf9781d39728fc725991d79&chksm=9fc7fbf5a8b072e37d292dab7c383d816a74dbfdd0aa44987ddebbb1827508360eb246210cea#rd)
+    - 时间：2021-02-07
+    - 摘要：如果你也有困惑想被解答，欢迎写信给我。
+- [我自己一个人过得挺好，为什么还需要别人？我们在10个故事里找到了答案](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247569146&idx=1&sn=7f26f45fed01c65b41be5451797225f4&chksm=9fc7e7bea8b06ea87a42874bce9b6e5e0d1c4cad2992225fa0e0cc606e138db35cc2afd2b383#rd)
+    - 时间：2021-02-06
+    - 摘要：看这篇文章时，你想到了谁？
+- [为什么说只有先懂得分离，才能达到真正的亲密？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247569012&idx=1&sn=2d5821876835e96f651136feee50df66&chksm=9fc7e730a8b06e2600d5503bbbfd63ad6aefce66570c5561425032d0905fb9552c34a982a9d1#rd)
+    - 时间：2021-02-05
+    - 摘要：“仿佛永远分离，却又终身相依。”
+- [春节和KY一起云冥想 | 城市修行首次线上课来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247569012&idx=2&sn=c39edbe8619a8de917a9453273354738&chksm=9fc7e730a8b06e2635f66b5d1e56ec90676e71a07aa9115b4220625e1622e0368534e66ebd86#rd)
+    - 时间：2021-02-05
+    - 摘要：春节来和我们一起云冥想吧
+- [人生的这个阶段，我们最有机会做回纯粹的自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247568089&idx=1&sn=340455ef767b7f2802781c84305e953d&chksm=9fc7e39da8b06a8b2075d2d900e811f2201f5b3638f3dd95ad7e183e902118fc4f68e6bc9ed9#rd)
+    - 时间：2021-02-04
+    - 摘要：成为一个你可能成为的人，永不嫌晚。
+- [什么是打工人减压必备的“蝙蝠侠效应”？| KY趣味心理速递Vol.78](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247568089&idx=2&sn=a677ee47a3a09dddb38557e2278f6877&chksm=9fc7e39da8b06a8bd9d09706781d247351baa4b5245d51fe86522f569494ad42c0f55fd9c94f#rd)
+    - 时间：2021-02-04
+    - 摘要：快乐上班不是梦！
+- [爱上了炮友怎么办？在线等，挺急的！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247567895&idx=1&sn=2d17b2720ed27a952a9a4cbdcaaf80ab&chksm=9fc7e353a8b06a4536731bf979b4b2a03a676b30048e0da0876e0bcb4567caadce3a0aeff475#rd)
+    - 时间：2021-02-03
+    - 摘要：炮友到底能不能转正？
+- [“很久没有过快乐的感觉了。” 内卷之下的空虚与不快乐，如何改变？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247567780&idx=1&sn=162a06e47fd434f164e74e9c6e82d3b6&chksm=9fc7e0e0a8b069f68a60658467bb5aacabebac101c098993dc3ae5ad6927dc794a08f4321f35#rd)
+    - 时间：2021-02-02
+    - 摘要：真实地作为人存在，坚持生命的真实性，是对抗内卷的唯一出路。
+- [喜欢聪明的人就是智性恋吗？太天真啦！4步鉴定你是不是真的“智性恋”](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247567750&idx=1&sn=238e091f04c6536a59fdec2da41d6c2e&chksm=9fc7e0c2a8b069d47e3a9444c449a3de19eda3ba137083d7163467d9235468efad4e56ca7bdb#rd)
+    - 时间：2021-02-01
+    - 摘要：他聪明的头脑可以让我忘记他的脸。
+- [和弟弟谈恋爱到底有多香？| KY趣味心理速递Vol.77](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247567750&idx=2&sn=0db4177e0231c6d09bcbcb7ceba054dc&chksm=9fc7e0c2a8b069d45449e2887c955e88cf242c57b92ed5647dd18cfdd4b56cf08f77ab031bf6#rd)
+    - 时间：2021-02-01
+    - 摘要：爱弟弟的姐姐们必须转发这一篇。
+- [没有“阳刚之气”就“不像个男人”？out了！新型男性气质正在流行](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247567339&idx=1&sn=95dac8632f422a071730ed99e8c565c2&chksm=9fc7eeafa8b067b987b14244188111b8e07a75571a6df793b95632185607300fb615988dd13c#rd)
+    - 时间：2021-01-30
+    - 摘要：这个时代了，“女性化”还是一个贬义词？
+- [我们找到了减肥成功的新秘诀！但可能会因此没朋友了…… | 月小兔讲论文Vol.10](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247567339&idx=2&sn=54afbbde7c56e4774eb4b882f2c38f35&chksm=9fc7eeafa8b067b9f9c9d68884aa7db033ac9f5f899c34b776e2aff42c405ed26494bab7f65e#rd)
+    - 时间：2021-01-30
+    - 摘要：新年新paper，有趣的科学研究又来啦！
+- [“我爱着你，但同时也痛恨爱你的自己” | 研究发现：不是矫情，“疼痛的情绪”真的存在](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247566994&idx=1&sn=5990213bec03ea404f7285cc8518080c&chksm=9fc7efd6a8b066c08ba84271d006482928008dd00a48ff362987096c0645e949240325210e39#rd)
+    - 时间：2021-01-29
+    - 摘要：这就是我忧郁的全部原因。
+- [焦虑？睡不好？ 来试试超人气零基础冥想吧 | 每周五放送下周课表](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247566994&idx=2&sn=aaf52f12400bc6882cf0771264ad709f&chksm=9fc7efd6a8b066c0ed3578b1fb66fa07593fbd42832254efac498835001c4223511898a89d57#rd)
+    - 时间：2021-01-29
+    - 摘要：每周五课表固定更新。
