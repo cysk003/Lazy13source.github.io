@@ -4,7 +4,17 @@
 
 ***
 
-已整理，点击直达列表页
+> 整理一些优质公众号，将其原创文章做出列表
+>
+> 方便群友和粉丝们筛选和查看，作为大家的优质信息源
+>
+> 👍懒人专属最新的[更新记录点击跳转](/blog/record2)
+
+***
+
+## 已整理
+
+> 点击直达文章列表页，使用脚本，自动更新~
 
 - [记忆承载](/gzh/记忆承载)
 - [记忆承载3](/gzh/记忆承载3)
@@ -18,11 +28,11 @@
 
 ***
 
-下面的还没整理啦~
-
-槽边往事
+## 待整理
 
 南风窗
+
+刘润
 
 人物
 
@@ -30,6 +40,12 @@
 
 虎嗅app
 
-
-
 新周刊
+
+***
+
+
+
+***
+
+<figure class="notion-asset-wrapper notion-asset-wrapper-embed notion-block-1c5fa359e4d443798dfa7bc86198900a"><div style="position:relative;display:flex;justify-content:center;align-self:center;width:100%;max-width:100%;flex-direction:column;height:106.99510955810547px"><iframe class="notion-asset-object-fit" src="https://cn.widgetstore.net/view/index.html?q=5b049cc8622189440f31d6307d40e568.41d77edc6507a37202b75520258dcf2d" title="iframe embed" frameborder="0" allowfullscreen="" loading="lazy" scrolling="auto"></iframe></div></figure>
