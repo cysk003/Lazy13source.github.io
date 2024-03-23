@@ -14,6 +14,7 @@
 - [三联生活周刊](/gzh/三联生活周刊)
 - [懒人搜索](/gzh/懒人搜索)
 - [懒人手册](/gzh/懒人手册)
+- [KnowYourself](/gzh/KnowYourself)
 
 ***
 
@@ -29,6 +30,6 @@
 
 虎嗅app
 
-KnowYourself
+
 
 新周刊
