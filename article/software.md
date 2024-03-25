@@ -9,6 +9,117 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-25 更新
+
+ - [360软件管家独立版.zip](https://www.lanzoui.com/ifCF41sh5spa)
+
+ - [吾爱算电阻手机版 V2.0.3.apk](https://www.lanzoui.com/iSRhK1sh5lha)
+
+ - [吾爱算电阻 V2.0.0 Windows版_.rar](https://www.lanzoui.com/ir1FL1sh5dlg)
+
+ - [金麦客专业K歌_2.6.7.0_完整解锁_非几首会员过期_修复部分判断问题_修复超清曲库.apk](https://www.lanzoui.com/i1Ou91s8md0d)
+
+ - [夸克v3.1.6.1绿色版.txt](https://www.lanzoul.com/izcFY1sdd6qd)
+
+ - [橘子视频5.0.7(20)-Mod-(微信公众号：曙光明亮科技)@帝落.apk](https://www.lanzoul.com/iLFsA1sdcxkd)
+
+ - [WPS_Office-Premium-v18.8_build_1502-Mod@balatan.txt](https://www.lanzoul.com/ipOo81sdclab)
+
+ - [百度贴吧_12.57.1.2(205062410)_基础版-Mod-(微信公众号：曙光明亮科技)修@帝落.apk](https://www.lanzoul.com/ihnUu1sdc2bi)
+
+ - [百度贴吧_12.57.1.2(205062410)_去除首页视频推荐版-Mod-(微信公众号：曙光明亮科技)修@帝落.apk](https://www.lanzoul.com/iOASN1sdbp5e)
+
+ - [百度贴吧_12.57.1.2(205062410)_去除首页版-Mod-(微信公众号：曙光明亮科技)修@帝落.apk](https://www.lanzoul.com/iNy2F1sdb92f)
+
+ - [WinRAR v7.00 x64 SC@烈火-240322.exe](https://www.lanzoul.com/iwogs1sda8qh)
+
+ - [Speedtest-Premium-v5.3.4_build_209150-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iknOB1sda0oh)
+
+ - [RAR_7.00.build122@liu.apk](https://www.lanzoul.com/iBSDO1sd9vha)
+
+ - [office卸载系列工具集.zip](https://www.lanzoul.com/iLSHG1sd9nid)
+
+ - [Inet Download Manager v6.42 Build 5 Retail@烈火.rar](https://www.lanzoul.com/ib8eM1sd8y7c)
+
+ - [Inet Download Manager v6.42 Build 5 Retail 绿色特别版（去更新）@烈火.rar](https://www.lanzoul.com/irF4m1sd8xgf)
+
+ - [alixby-3.24.32217-win-x64@odomu.exe](https://www.lanzoul.com/ipcet1sd8rbe)
+
+ - [360软件管家独立版240322@YZM23333.zip](https://www.lanzoul.com/iZbQG1sd50cf)
+
+ - [360软件管家独立版安装包240322@YZM23333.exe](https://www.lanzoul.com/idC1h1sd4xyj)
+
+ - [64Gram_1.1.15_x64.zip](https://www.lanzoul.com/ingW91sd49of)
+
+ - [新魔法抢购 Ver.1.0.5 多平台自动抢购 会员解锁版@zhou45.apk](https://www.lanzoul.com/igtQ41s7lkib)
+
+ - [饿了么红包助手 Ver.3.3.8 去广告版@zhou45.apk](https://www.lanzoul.com/iaGLD1s7lipg)
+
+ - [抖音-29.2.0-lsp-fplus_@tkjiku.txt](https://www.lanzoul.com/iQnLP1s7lgih)
+
+ - [笔趣阁完美版 Ver.2.7.0 去广告版@zhou45.apk](https://www.lanzoul.com/i7d121s7kw6f)
+
+ - [ ReVanced Advanced v19.11.36 Root arm64 by youarefinished.apk](https://www.lanzoul.com/ijEr91s7krfe)
+
+ - [ ReVanced Advanced v19.11.36 MYou Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/itWLw1s7kl9c)
+
+ - [ ReVanced Advanced v19.11.36 MYou Original Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ijtGX1s7kihc)
+
+ - [ ReVanced Advanced v19.11.36 Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/igHUN1s7kfuh)
+
+ - [ ReVanced Advanced v19.11.36 Original Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iVpWV1s7kcrg)
+
+ - [ ReVanced Advanced v19.11.36 MYou Root arm64 by youarefinished.apk](https://www.lanzoul.com/imju51s7k8xi)
+
+ - [ ReVanced Advanced v19.10.39 Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iG3Eg1s7k5jg)
+
+ - [ ReVanced Advanced v19.10.39 Red MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iXXnF1s7k4cd)
+
+ - [ ReVanced Advanced v19.11.36 MYou Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/id4RR1s7k1ad)
+
+ - [ ReVanced Advanced v19.11.36 Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iD4ci1s7jx5e)
+
+ - [ ReVanced Advanced v19.10.39l Root arm64 by youarefinished.apk](https://www.lanzoul.com/i9IW31s7jtsd)
+
+ - [ ReVanced Advanced v19.10.39 Blue MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i19Mv1s7jkri)
+
+ - [ ReVanced Advanced v19.10.39 Original Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iPc2x1s7jh7a)
+
+ - [ ReVanced Advanced v19.10.39 Original MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iMD241s7jdti)
+
+ - [ ReVanced Advanced v19.10.39 MYou Root arm64 by youarefinished.apk](https://www.lanzoul.com/iQz6B1s7jbah)
+
+ - [ ReVanced Advanced v19.10.39 Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i5RGk1s7j7wf)
+
+ - [RAR-Premium-v7.00.build122_build_122-Dark-Mod@balatan.apk](https://www.lanzoul.com/ie9vR1s7izvg)
+
+ - [Question.AI_v2.2.0_(264)_Mod@辰夕.apk](https://www.lanzoul.com/iIq2P1s7ixdg)
+
+ - [MyRadio v1.1.88.0320 modded by Mixroot.apk](https://www.lanzoul.com/iAoZe1s7isra)
+
+ - [AI Retouch - 移除杂物_1.164.35@liu.apk](https://www.lanzoul.com/iVJdE1s7ipza)
+
+ - [360SE-15.1.1492.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/iWyDF1s7iifi)
+
+ - [360安全浏览器_15.1.1492.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iLrQo1s7iicf)
+
+ - [ ReVanced Advanced v19.9.37 Red MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ir1GS1s79lpc)
+
+ - [ ReVanced Advanced v19.9.37 Blue MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iC13D1s79j8d)
+
+ - [ ReVanced Advanced v19.9.37 Red Black Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i6vM81s79hzi)
+
+ - [ ReVanced Advanced v19.9.37 Original MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iW6ep1s79gif)
+
+ - [ ReVanced Advanced v19.9.37 Original Black Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iWM5Y1s79eid)
+
+ - [ ReVanced Advanced v19.9.37 MYou Original Root arm64 by youarefinished.apk](https://www.lanzoul.com/iL09X1s79cib)
+
+ - [ ReVanced Advanced v19.8.36 Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/izsxq1s799kf)
+
+ - [ ReVanced Advanced v19.8.36 Original Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ipdDk1s7947c)
+
+
 ## 2024-03-22 更新
 
  - [影视仓_5.0.25.apk](https://www.lanzoul.com/iRCgz1s6kbjg)
