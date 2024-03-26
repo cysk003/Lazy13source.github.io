@@ -17,6 +17,22 @@
 
 ***
 
+- 240326：
+
+  - 240326群分享《聚焦 “新质生产力”，理解 2024 的中国经济》
+  
+  - 更新《财新周刊》第12期
+  
+  - <details>
+    <summary>更新《240326懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIiaeCaKxmTrHbhPmXK7k9z0kTrOxjc21Z5A51icBuPoc8dytInsd5oXWibFEayOMU0oghvSlN0XRVvw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240326懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIiaeCaKxmTrHbhPmXK7k9z0ZgdKVEpc6zXQ4icJUCPj6RqdnibFUjxY5vrl9bggKZT1kuves94PEg6A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240325：
 
   - 240325屠龙有术《解密社会中升官发财的经济学规律》
