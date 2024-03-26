@@ -9,6 +9,21 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-26 更新
+
+ - [Word必备工具箱11.63.rar](https://www.lanzoui.com/ioZX91slupbc)
+
+ - [EXCEL必备工具箱18.30.exe](https://www.lanzoui.com/ivgJZ1slup2d)
+
+ - [文件转换器File Converter v2.0.2 ——支持音视频、图及文档等格式转换及功能改进x64.zip](https://www.lanzoui.com/iusvv1sluaab)
+
+ - [Win10一键优化 v1.2.rar](https://www.lanzoui.com/iiXDo1sltx4h)
+
+ - [跑马编辑软件仿LED 跑马 v1.4.1.1.apk](https://www.lanzoui.com/ikp9O1sltnve)
+
+ - [翡翠视频_V3.2.0删减版.apk](https://www.lanzoui.com/igVLF1sltb2d)
+
+
 ## 2024-03-25 更新
 
  - [360软件管家独立版.zip](https://www.lanzoui.com/ifCF41sh5spa)
