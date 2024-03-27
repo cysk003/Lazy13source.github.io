@@ -9,6 +9,23 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-03-27 更新
+
+ - [微信3.9.10.10补丁.zip](https://www.lanzoui.com/iWi6t1sphxaf)
+
+ - [win10及以上课本下载器.7z](https://www.lanzoui.com/inObj1sphrgf)
+
+ - [win7版课本下载器.7z](https://www.lanzoui.com/i716i1sphpob)
+
+ - [mac版课本下载器-3.1.0.dmg](https://www.lanzoui.com/i2UY61sphnpa)
+
+ - [电视盒子切换系统APP切换系统.zip](https://www.lanzoui.com/ia3WX1sphaqd)
+
+ - [电视盒子切换系统APP切换系统.zip](https://www.lanzoui.com/i4Xvm1spha6d)
+
+ - [桌面硬件信息显示工具 v8.2024.3.2301 便携版.rar](https://www.lanzoui.com/iFMGq1sph7hg)
+
+
 ## 2024-03-26 更新
 
  - [Word必备工具箱11.63.rar](https://www.lanzoui.com/ioZX91slupbc)
