@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [当一生都在打压控制我的妈妈，只剩下我可以依赖时](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247847824&idx=1&sn=fce08ceb1caf5ac61e358fc9117efa03&chksm=9fcba6d4a8bc2fc2e8a684cfb29da4142570d3a552969383a6728608b591d752f2047607c57c#rd) |  [备份查看](/gzh/backup/KnowYourself/当一生都在打压控制我的妈妈，只剩下我可以依赖时)
+    - 时间：2024-03-29
+    - 摘要：“我爱她，我恨她。”
+- [有时候，你可以理直气壮地说「不原谅」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247847518&idx=1&sn=643192c4bd61d4fb30ed9a6b97916a2a&chksm=9fcba71aa8bc2e0c0610a9cd59e84a54a5fc9636e30973572faa4baeecad93919e8102511e7e#rd) |  [备份查看](/gzh/backup/KnowYourself/有时候，你可以理直气壮地说「不原谅」)
+    - 时间：2024-03-28
+    - 摘要：轻易原谅也是一种自我伤害。
+
 
 
 
