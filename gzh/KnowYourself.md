@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [有时候，你可以理直气壮地说「不原谅」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247847518&idx=1&sn=643192c4bd61d4fb30ed9a6b97916a2a&chksm=9fcba71aa8bc2e0c0610a9cd59e84a54a5fc9636e30973572faa4baeecad93919e8102511e7e#rd) |  [备份查看](/gzh/backup/KnowYourself/有时候，你可以理直气壮地说「不原谅」)
+    - 时间：2024-03-28
+    - 摘要：轻易原谅也是一种自我伤害。
+
 
 
 
