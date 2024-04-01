@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-01 更新
+
+ - [阿里云盘 小白羊网盘v3.13.1.exe](https://www.lanzoui.com/ihU2E1tazjje)
+
+ - [一点红语音合成2.0(吾爱专版)-x64.zip](https://www.lanzoui.com/iPIkD1taz5kb)
+
+
 ## 2024-03-29 更新
 
 
