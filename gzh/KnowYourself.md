@@ -14,6 +14,7 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+
 - [“钝感力”并不会让高敏感人过得更好，真正该做的是这一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247847844&idx=1&sn=b4ea2675c4cd38f7264d13fdbc822c9f&chksm=9fcba6e0a8bc2ff6c2b85f4e8b186d14adeeffc6915898c84263a47bf25136281e6b3f191012#rd) |  [备份查看](/gzh/backup/KnowYourself/“钝感力”并不会让高敏感人过得更好，真正该做的是这一点)
     - 时间：2024-03-31
     - 摘要：钝不了一点！
