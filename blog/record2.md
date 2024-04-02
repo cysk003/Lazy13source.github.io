@@ -25,12 +25,12 @@
   
   - <details>
     <summary>更新《240402懒人赚钱周报》，点击展开目录：</summary>
-    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIiaeCaKxmTrHbhPmXK7k9z0kTrOxjc21Z5A51icBuPoc8dytInsd5oXWibFEayOMU0oghvSlN0XRVvw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIGw6ibtIHvzOa4Y6LrqVAQeficLotfnSSlRgSB2qogFdOgaWYVX52HF7NEicDdTA2ZF5xYyiaUdVBfvQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
   
   - <details>
     <summary>更新《240402懒人风向标》，点击展开目录：</summary>
-    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIiaeCaKxmTrHbhPmXK7k9z0kTrOxjc21Z5A51icBuPoc8dytInsd5oXWibFEayOMU0oghvSlN0XRVvw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIGw6ibtIHvzOa4Y6LrqVAQe3qewE6ZFicm9Zxtegcall3dM1YFrcctPicdeldibeELAIn37tVcEo8Klw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
   
 - 240401：
