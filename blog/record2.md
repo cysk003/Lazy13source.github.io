@@ -17,6 +17,29 @@
 
 ***
 
+- 240402：
+
+  - 240402群分享《来自“能源圣杯”首席科学家的三个行动建议》
+  
+  - 240402卢克文星球《中东资本看中的，只是万达么？》
+  
+  - <details>
+    <summary>更新《240402懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIiaeCaKxmTrHbhPmXK7k9z0kTrOxjc21Z5A51icBuPoc8dytInsd5oXWibFEayOMU0oghvSlN0XRVvw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240402懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIiaeCaKxmTrHbhPmXK7k9z0kTrOxjc21Z5A51icBuPoc8dytInsd5oXWibFEayOMU0oghvSlN0XRVvw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240401：
+
+  - 240401卢克文星球《日本和朝鲜，谈崩了》
+  - 240401群分享《GPT 时代，怎样不拖孩子的后腿？》
+  - 240401NEO付费文《破美元者，黄金：推动黄金上涨，会远比“人造股票牛市”好得多》
+  - 240401极限之外付费文《炒房遇到通缩与M2在膨胀》
+  
 - 240329:
 
   - 240329卢克文星球《小米su7正式上市，能在“红海”闯出一片天吗？》
