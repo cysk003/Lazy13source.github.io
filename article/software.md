@@ -9,6 +9,15 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-02 更新
+
+ - [电脑装机检测必备 cpu-z_2.09 官方中文单文件版.zip](https://www.lanzoui.com/iqkr71tgdn2f)
+
+ - [今日课表.zip](https://www.lanzoui.com/idqj51tgbj2j)
+
+ - [今日课表.zip](https://www.lanzoui.com/iboaK1tgbfoh)
+
+
 ## 2024-04-01 更新
 
  - [阿里云盘 小白羊网盘v3.13.1.exe](https://www.lanzoui.com/ihU2E1tazjje)
