@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-03 更新
+
+ - [美图秀秀play版6.9.9.6.apk](https://www.lanzoui.com/ikhWt1tmrehg)
+
+ - [微软常用运行库合集 2024.03.29.exe](https://www.lanzoui.com/iS6hu1tmqdah)
+
+
 ## 2024-04-02 更新
 
  - [电脑装机检测必备 cpu-z_2.09 官方中文单文件版.zip](https://www.lanzoui.com/iqkr71tgdn2f)
