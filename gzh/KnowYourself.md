@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [过上“我想要的生活”，做到这一点最重要（不是有钱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848115&idx=1&sn=5337ec0387ccb1c3e514f664de266516&chksm=9fcbb9f7a8bc30e1abda914906d7c04df0c79ad06195f4244d79813f2af3fa917be0aa9a7033#rd) |  [备份查看](/gzh/backup/KnowYourself/过上“我想要的生活”，做到这一点最重要（不是有钱)
+    - 时间：2024-04-03
+    - 摘要：你的人生是否幸福，取决于这个前提
+
 
 
 - [不爱了请直说！5种分手方式，你最讨厌哪一种？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247847935&idx=1&sn=023bb3c1fbedd9c34ee6858976eb614b&chksm=9fcba6bba8bc2fad65c59b8a0f72da6fd58da8af9f2a4b6319aa18f49332c9cf87d0214ff0e7#rd) |  [备份查看](/gzh/backup/KnowYourself/不爱了请直说！5种分手方式，你最讨厌哪一种？)
