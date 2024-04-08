@@ -9,6 +9,15 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-08 更新
+
+ - [火星搜题APP v1.2.24.apk](https://www.lanzoui.com/iZaEi1u95nba)
+
+ - [快捷方式备份希沃零度.zip](https://www.lanzoui.com/irneK1u95dyd)
+
+ - [零度还原v1.2.6.1294_1.2.6.1294.exe](https://www.lanzoui.com/iK2z61u95dnc)
+
+
 ## 2024-04-05 更新
 
 
