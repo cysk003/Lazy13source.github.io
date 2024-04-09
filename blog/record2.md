@@ -17,6 +17,27 @@
 
 ***
 
+- 240409：
+
+  - 240409卢克文星球《预算10万亿，转移支付到底是什么？》
+  
+  - 240409专属群分享《邻近可能：怎样完成一次近处的创新？》
+  
+  - <details>
+    <summary>更新《240409懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKSpj94pbnPPyCMwd4QeUmgAfoogdYQ0Ul3icq5ecz1icibapibyRX713wxL0ricOeTIrUlL0pcXF7ojoA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240409懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKSpj94pbnPPyCMwd4QeUmg2sjtzFXzspUqfCf8q6bT11YwB34sES5ic9HCcyp9CicFCj55t1ohx7xw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240408：
+
+  - 240408卢克文星球《耶伦访华，具体谈了什么？》
+  - 240408群分享《“泼天的富贵”，下一个轮到谁？》
+  
 - 240407:
 
   - 240407专属群分享《美味的科学：为什么樱花味的东西普遍 “不好吃”？》

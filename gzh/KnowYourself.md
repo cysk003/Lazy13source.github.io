@@ -14,6 +14,22 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848445&idx=1&sn=6b75938fa8e8b56bfca688ba8a4410f8&chksm=9fcbb8b9a8bc31af6b4b0be236096c322143e006c04a272dd4e1dfbdde322a8ff2dea4bd6cd3#rd) |  [备份查看](/gzh/backup/KnowYourself/致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？)
+    - 时间：2024-04-08
+    - 摘要：盖子盖了吗？衣服叠了吗？碗刷了吗？垃圾扔了吗？
+- [为KYer诚意打造的专业心理服务平台——「知我心理」来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848445&idx=2&sn=8ddea3443df461f8f89a9d1774a03568&chksm=9fcbb8b9a8bc31af2ef758c44d91a1226fd509e54536747085cd23dfdc019a11dce2dc2d5452#rd) |  [备份查看](/gzh/backup/KnowYourself/为KYer诚意打造的专业心理服务平台——「知我心理」来啦！)
+    - 时间：2024-04-08
+    - 摘要：专业、优质、具有安全感的心理服务。
+- [致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848444&idx=1&sn=9a270f8ed6ea0bf477e4974dd1dace8e&chksm=9fcbb8b8a8bc31ae6da9957fe5a085ab5f4e421bfb9de16922e638a9f432ab7f9e92c5ca00bf#rd) |  [备份查看](/gzh/backup/KnowYourself/致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？)
+    - 时间：2024-04-08
+    - 摘要：盖子盖了吗？衣服叠了吗？碗刷了吗？垃圾扔了吗？
+- [为KYer诚意打造的专业心理服务平台——「知我心理」来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848444&idx=2&sn=008191790eb28285ccb5aa428993cbde&chksm=9fcbb8b8a8bc31ae8d66758224d13da4bdf2d950eeaac9a6c1f0bc5f7923e0f0781d70fc5d4e#rd) |  [备份查看](/gzh/backup/KnowYourself/为KYer诚意打造的专业心理服务平台——「知我心理」来啦！)
+    - 时间：2024-04-08
+    - 摘要：专业、优质、具有安全感的心理服务。
+- [这 6 句不起眼的话，只要经常说就一定能毁掉自己](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848176&idx=1&sn=a8ea95966783a234509b424932bd5d5a&chksm=9fcbb9b4a8bc30a2004e2c8da430cba0f3680c2a2d7cc4360e0b6a5188ca80dd24da291813d7#rd) |  [备份查看](/gzh/backup/KnowYourself/这 6 句不起眼的话，只要经常说就一定能毁掉自己)
+    - 时间：2024-04-07
+    - 摘要：语言帮助我们构建我们的世界并使之有意义。
+
 
 
 
