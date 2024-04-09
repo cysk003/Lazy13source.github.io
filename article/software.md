@@ -9,6 +9,111 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-09 更新
+
+ - [3.9.10.19多开防撤补丁.rar](https://www.lanzoui.com/iTBRf1uctskb)
+
+ - [柚子fun_v5.0.1_NoAd@黑鹰.apk](https://www.lanzoul.com/iqbks1udquvc)
+
+ - [扫描全能王_6.62.1.2403290000(66212)-Mod-(微信公众号：曙光明亮科技)@鹿蜀.txt](https://www.lanzoul.com/i7iqc1udqtuf)
+
+ - [扫描全能王_6.62.1.2403290000_Mod_dccPro@辰夕.txt](https://www.lanzoul.com/ia7yT1udqtte)
+
+ - [清浊_2.0.8(108)-Mod-(微信公众号：曙光明亮科技)@鹿蜀.apk](https://www.lanzoul.com/iFIGE1udqpbc)
+
+ - [墨迹天气_9.0859.02(1009085902)-Mod-(微信公众号：曙光明亮科技)@鹿蜀.apk](https://www.lanzoul.com/i6Jgo1udqomh)
+
+ - [李跳跳日常使用规则@百分之千分享.txt](https://www.lanzoul.com/i24861udqjyj)
+
+ - [李跳跳终极规则一二段合并.txt](https://www.lanzoul.com/iIotk1udqjvg)
+
+ - [李跳跳终极规则第一段@百分之千分享.txt](https://www.lanzoul.com/iCpD61udqjrc)
+
+ - [李跳跳终极规则第二段@百分之千分享.txt](https://www.lanzoul.com/iLFD51udqjqb)
+
+ - [倒数日_1.19.0_Mod@辰夕.apk](https://www.lanzoul.com/ii3e01udqipe)
+
+ - [WPS_Office_v18.8.1_(1503)_Mod@辰夕.txt](https://www.lanzoul.com/iBlTq1udqhha)
+
+ - [WPS Office_18.8.1(1503)-Mod-(微信公众号：曙光明亮科技)@鹿蜀.txt](https://www.lanzoul.com/iROrS1udqhgj)
+
+ - [ES文件浏览器_4.4.2.5(10328)-Mod-(微信公众号：曙光明亮技)@鹿蜀.apk](https://www.lanzoul.com/ijpuN1udqg8f)
+
+ - [Chat Smith_3.6.3(553)-Mod-(微信公众号：曙光明亮科技)@鹿蜀.apk](https://www.lanzoul.com/i9c2U1udqd7g)
+
+ - [AI助手_1.8.5(185)-Mod-(微信公众号：曙光明亮科技)@鹿蜀.apk](https://www.lanzoul.com/iONa91udqc7a)
+
+ - [AI Chat_3.0.5.6(71)-Mod-(微信公众号：曙光明亮科技)@鹿蜀.apk](https://www.lanzoul.com/iBDwV1udqane)
+
+ - [Windows系统调校_20240328.zip](https://www.lanzoul.com/ipQ0O1udq2zi)
+
+ - [Via_5.5.0_beta_Unlimited@辰夕.apk](https://www.lanzoul.com/iDC0E1udq1kh)
+
+ - [Telegram_v10.10.1_(45839)_Mod@辰夕.apk](https://www.lanzoul.com/iSyT11udq11i)
+
+ - [SD_Maid_SE-Pro-v0.23.0-beta0_Mod@辰夕.apk](https://www.lanzoul.com/iaVmj1udpz9e)
+
+ - [SD_Maid_SE-Pro-v0.23.0-beta0_Viva.Magenta_Mod@辰夕.apk](https://www.lanzoul.com/i02Ep1udpz5a)
+
+ - [Question.AI-2.2.2@辰夕.apk](https://www.lanzoul.com/iBeN31udpweb)
+
+ - [IDM_6.4x_Crack_v19.5@烈火分享.zip](https://www.lanzoul.com/ii18I1udpt9i)
+
+ - [Inet Download Manager v6.42 Build 7 绿色特别版（去更新）2024.04.07)@烈火.rar](https://www.lanzoul.com/iMLTp1udpt2b)
+
+ - [GPU-Z 显卡检测 v2.58.0 汉化版@th_sjy.rar](https://www.lanzoul.com/iH5hX1udprsf)
+
+ - [GPU-Z 显卡检测 v2.58.0 汉化版 (华硕 ROG 皮肤)@th_sjy.rar](https://www.lanzoul.com/iWipG1udprkh)
+
+ - [ChatOn-1.36.334-367@辰夕.apk](https://www.lanzoul.com/iU6eE1udpr7e)
+
+ - [Chatbot_AI_v5.0.23_(526)_Mod@辰夕.apk](https://www.lanzoul.com/itntg1udpqpg)
+
+ - [CapCut_v11.5.0_(11500100)_Mod@辰夕.txt](https://www.lanzoul.com/iFAUh1udppgb)
+
+ - [2345看图王_11.3.0.10162_mefcl_x64_Setup_v4.exe](https://www.lanzoul.com/iA4yk1udpnzi)
+
+ - [360安全浏览器_15.3.1002.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iJlIA1udpmkh)
+
+ - [360csex_22.3.1010.64_Flash_mefcl_Setup.txt](https://www.lanzoul.com/ipznr1udpmjg)
+
+ - [影视TV-ok-v2.3.2-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iu4DD1udlbna)
+
+ - [影视TV-ok-v2.3.2-A4.x-leanback.apk](https://www.lanzoul.com/iBjht1udla0b)
+
+ - [影视TV-ok-v2.3.2-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/ifkbH1udl86f)
+
+ - [影视TV-ok-v2.3.2-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iZzUD1udl6pc)
+
+ - [影视TV-ok-v2.3.2-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iOA3B1udl4di)
+
+ - [影视-ok-v2.3.2-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/ibfoF1udl1ob)
+
+ - [影视-ok-v2.3.2-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iKchf1udkykj)
+
+ - [影视-ok-v2.3.2-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iWydv1udkxoh)
+
+ - [影视-ok-v2.3.2-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i5ZHi1udkxcf)
+
+ - [蚂蚁森林收能量脚本-Ant-Forest-1.4.4.1.zip](https://www.lanzoul.com/ic6ZE1udku3i)
+
+ - [*签到-薅羊毛-Unify-Sign-2.1.0.zip](https://www.lanzoul.com/irs7z1udku0f)
+
+ - [当贝播放器-dbbfq_1.4.6_dangbei.apk](https://www.lanzoul.com/iNtbk1udkrsf)
+
+ - [VisualCppRedist_AIO_x86_x64_80@abbodi1406.zip](https://www.lanzoul.com/iQ0kZ1udklqh)
+
+ - [uBlock Origin 1.57.0.crx](https://www.lanzoul.com/i8MJd1udkixg)
+
+ - [Nekogram-10.10.1-4583-arm64-v8a.apk](https://www.lanzoul.com/ijsyR1udk6sj)
+
+ - [Nagram-v10.9.1.1165.-arm64-v8a.apk](https://www.lanzoul.com/icdrS1udk3pi)
+
+ - [my-tv-v1.7.6-通用.apk](https://www.lanzoul.com/iTKnC1udjyha)
+
+ - [my-tv-v1.7.4-通用.apk](https://www.lanzoul.com/iLVs71udjxcj)
+
+
 ## 2024-04-08 更新
 
  - [火星搜题APP v1.2.24.apk](https://www.lanzoui.com/iZaEi1u95nba)
