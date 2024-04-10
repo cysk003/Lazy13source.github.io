@@ -14,6 +14,7 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+
 - [致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848445&idx=1&sn=6b75938fa8e8b56bfca688ba8a4410f8&chksm=9fcbb8b9a8bc31af6b4b0be236096c322143e006c04a272dd4e1dfbdde322a8ff2dea4bd6cd3#rd) |  [备份查看](/gzh/backup/KnowYourself/致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？)
     - 时间：2024-04-08
     - 摘要：盖子盖了吗？衣服叠了吗？碗刷了吗？垃圾扔了吗？
