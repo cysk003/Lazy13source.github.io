@@ -9,6 +9,113 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-10 更新
+
+ - [一念桌面V1.0.6.7z](https://www.lanzoui.com/i8oIE1ugov2f)
+
+ - [显卡检测工具 GPU-Z 2.58.0 简体中文汉化单文件版.exe](https://www.lanzoui.com/iZ1bE1ugotzg)
+
+ - [新魔法抢购 Ver.1.0.6 会员解锁版@zhou45.apk](https://www.lanzoul.com/iuz9I1uhosof)
+
+ - [小猿搜题_11.45.1@[MT].txt](https://www.lanzoul.com/i0UfV1uhopyh)
+
+ - [小鸡模拟器 1.8.8纯净版@[SN-265a14d7].txt](https://www.lanzoul.com/iPrCP1uhokle)
+
+ - [小红书 v7.97.0内置模块@[SN-7fedefb6].txt](https://www.lanzoul.com/iBjre1uho2je)
+
+ - [小红书 官方内部版 v8.28.0.5@百分之千分享.apk](https://www.lanzoul.com/ilukF1uho2gb)
+
+ - [微商助手 3.2.4会员版_LEWLY.apk](https://www.lanzoul.com/iCxyt1uhnlmf)
+
+ - [微商助手 Ver.3.2.4 会员解锁版@zhou45.apk](https://www.lanzoul.com/idRE41uhnj2d)
+
+ - [微商工具箱 1.7.4会员版_LWELY.apk](https://www.lanzoul.com/iybV41uhnbwf)
+
+ - [微商大师 3.3.2会员版_LWELY.apk](https://www.lanzoul.com/i3zDS1uhn89e)
+
+ - [微粉猫 2.2.4会员版_LWELY.apk](https://www.lanzoul.com/irimZ1uhmyza)
+
+ - [微粉管家 2.2.8会员版_LWELY.apk](https://www.lanzoul.com/iolLB1uhmumd)
+
+ - [微粉大师 Ver.2.1.9 微商营销工具 会员解锁版@zhou45.apk](https://www.lanzoul.com/iTjM71uhmqgd)
+
+ - [微博猪手 2.2.9-(266-20240401)xp模块.apk](https://www.lanzoul.com/icMBB1uhljyd)
+
+ - [微博猪手 2.2.9-(268-20240406)xp模块.apk](https://www.lanzoul.com/iZGpP1uhljuj)
+
+ - [微博猪手 2.2.9-(267-20240402)xp模块.apk](https://www.lanzoul.com/iF3aU1uhljrg)
+
+ - [微博 14.3.3-内置猪手2.2.9-267模块.txt](https://www.lanzoul.com/iggLf1uhlalg)
+
+ - [微博 14.3.2-内置猪手2.2.9-267模块.txt](https://www.lanzoul.com/iszxC1uhla6b)
+
+ - [微博 14.3.2-内置猪手2.2.9-266模块.txt](https://www.lanzoul.com/iCfIr1uhl9rg)
+
+ - [微博 14.3.2-内置猪手2.2.8-265模块.txt](https://www.lanzoul.com/iyTNs1uhl9aj)
+
+ - [微博 14.3.3-内置猪手2.2.9-268模块.txt](https://www.lanzoul.com/iRB6U1uhl99i)
+
+ - [万题库 5.6.3.0会员版_青帝.txt](https://www.lanzoul.com/iGTTI1uhkdwj)
+
+ - [万题库 5.6.3.0会员版-安卓14_青帝.txt](https://www.lanzoul.com/iWtWu1uhkdvi)
+
+ - [搜狗输入法_11.42解锁限制版@[SN-28096f16].apk](https://www.lanzoul.com/iw9CF1uhivtc)
+
+ - [搜狗输入法 Nubia定制版 v10.32.27.202402041143@百分之千分享.apk](https://www.lanzoul.com/i3w1f1uhii2h)
+
+ - [搜狗输入法 小米定制版 v10.32.21.202402240827@百分之千分享.apk](https://www.lanzoul.com/i7ANB1uhigib)
+
+ - [搜狗输入法 vivo定制版 v10.32.14023.2402261946(5055)@百分之千分享.apk](https://www.lanzoul.com/i0HiL1uhieqh)
+
+ - [搜狗输入法 OPPO定制版 v10.32.0422.2403201405@百分之千分享.apk](https://www.lanzoul.com/iyDYr1uhiaqd)
+
+ - [识货_7.15.1Force.Dark@AWAvenue.apk](https://www.lanzoul.com/iete61ugcrbi)
+
+ - [清浊_2.0.7-1@AWAvenue.apk](https://www.lanzoul.com/iYDBg1ugco7g)
+
+ - [七猫免费小说v7.45无金币版@[SN-8a26623].apk](https://www.lanzoul.com/iwMZZ1ugcnxg)
+
+ - [七猫免费小说v7.45金币版@[SN-8a26623].apk](https://www.lanzoul.com/iiBaO1ugclef)
+
+ - [拼多多 官方内部版 v7.2.0@百分之千分享.apk](https://www.lanzoul.com/ieIUF1ugcbub)
+
+ - [墨迹天气_9.0859 UlockVIP版@LWELY.apk](https://www.lanzoul.com/ioakA1ugcasd)
+
+ - [墨迹天气_9.0858 VIP尊享版@LWELY.apk](https://www.lanzoul.com/irx891ugcafa)
+
+ - [秒看电视TV-v9.2.6-免费纯净版.apk](https://www.lanzoul.com/i67TZ1ugc5ej)
+
+ - [卜头文档下载器.rar](https://www.lanzoul.com/imDH51ugc0xi)
+
+ - [梨园行戏曲_5.7.4.0 VIPTV版@LWELY.apk](https://www.lanzoul.com/iFbGa1ugbyud)
+
+ - [懒人驾考_2.12.2 VIP尊享版@LWELY.apk](https://www.lanzoul.com/iimuA1ugbwlc)
+
+ - [酷我音乐_10.7.6.6修改版@暗猎魂殇.txt](https://www.lanzoul.com/iKpQi1ugbqsd)
+
+ - [酷我音乐 10.7.6.6会员版_辰夕.txt](https://www.lanzoul.com/iU0Vr1ugbqlg)
+
+ - [考霸题_1.4.6 VIP解锁版@LWELY.apk](https://www.lanzoul.com/iO9jc1ugbg8d)
+
+ - [橘子视频 v5.0.9 纯净版@王强.apk](https://www.lanzoul.com/iArZH1ugbfcb)
+
+ - [今日头条 9.3.3 去广告版_LWELY.apk](https://www.lanzoul.com/iCi8Y1ugbd8f)
+
+ - [今日头条v9.7.5@[SN-27dee8e7].apk](https://www.lanzoul.com/iW4xp1ugbchi)
+
+ - [家常菜做法_3.3.69@liu.apk](https://www.lanzoul.com/i0pFe1ugb8ah)
+
+ - [抖音-29.4.0-lsp-fplus_@tkjiku.txt](https://www.lanzoul.com/iCvh81ugb6id)
+
+ - [抖音_29.3.0_fplus1.2.8_@tkjiku.txt](https://www.lanzoul.com/imxaK1ugb6hc)
+
+ - [抖音红米note12T提取v17.6.2.apk](https://www.lanzoul.com/iXxrD1ugazfi)
+
+ - [大学搜题酱_2.17.0 VIP纯净版@LWELY.apk](https://www.lanzoul.com/izKd31ugardi)
+
+ - [大学搜题酱_2.16.4(455)@鹿蜀.apk](https://www.lanzoul.com/iW45r1ugaqji)
+
+
 ## 2024-04-09 更新
 
  - [3.9.10.19多开防撤补丁.rar](https://www.lanzoui.com/iTBRf1uctskb)
