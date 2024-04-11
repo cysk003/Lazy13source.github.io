@@ -9,6 +9,67 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-11 更新
+
+ - [_v19.11.43_arm64-v8a_@tkjiku.apk](https://www.lanzoul.com/iuOaC1uj4f9e)
+
+ - [_v19.11.43_@tkjiku_arm64-v8a.apk](https://www.lanzoul.com/imUBi1uj4f1g)
+
+ - [_19.04.37 [Premium]@Alexa.txt](https://www.lanzoul.com/iMkRI1uj46of)
+
+ - [ RV ARM64_19.09.38_Black - ANiK555.apk](https://www.lanzoul.com/iNist1uj44va)
+
+ - [ ReVanced Advanced v19.11.43 Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i71aQ1uj44ih)
+
+ - [ ReVanced Advanced v19.11.43 Stock Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iuPIw1uj449i)
+
+ - [ ReVanced Advanced v19.11.43 Root arm64 by youarefinished.apk](https://www.lanzoul.com/iWOh81uj43zi)
+
+ - [ ReVanced Advanced v19.11.43 MYou Stock Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/im7z91uj43jc)
+
+ - [ ReVanced Advanced v19.11.43 MYou Root arm64 by youarefinished.apk](https://www.lanzoul.com/iDeyX1uj430d)
+
+ - [ ReVanced Advanced v19.11.43 MYou Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ib8cA1uj42mj)
+
+ - [ ReVanced Advanced v19.11.43 MYou Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iDwP71uj427e)
+
+ - [ ReVanced Advanced v19.11.43 Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iytBn1uj41ij)
+
+ - [ ReVanced Advanced v19.11.38 Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i0iJq1uj40oj)
+
+ - [ ReVanced Advanced v19.11.38 Stock Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iY4p11uj40ej)
+
+ - [ ReVanced Advanced v19.11.38 MYou Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ij0St1uj3zuj)
+
+ - [ ReVanced Advanced v19.11.38 MYou Stock Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iX0CG1uj3zla)
+
+ - [ ReVanced Advanced v19.11.38 MYou Root arm64 by youarefinished.apk](https://www.lanzoul.com/iHSCE1uj3zdc)
+
+ - [ ReVanced Advanced v19.11.38 MYou Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iKZUY1uj3z0j)
+
+ - [ ReVanced Advanced v19.11.38 Black Root arm64 by youarefinished.apk](https://www.lanzoul.com/i52fO1uj3y9c)
+
+ - [ ReVanced Advanced v19.11.38 Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ifQkz1uj3xre)
+
+ - [microG Services_240913006 (Lite) by ANiK555.apk](https://www.lanzoul.com/iumsx1uj3wgh)
+
+ - [知乎 10.1.0-内置知了24.04.06模块.apk](https://www.lanzoul.com/iiJ5m1uixx6h)
+
+ - [知了Zhiliao_24.04.06.apk](https://www.lanzoul.com/i9ClV1uixv1a)
+
+ - [知乎(国内版)-10.2-v8a-with-知了24.04.06.apk](https://www.lanzoul.com/iM6P91uixuzi)
+
+ - [知乎(谷歌版)-10.1-v8a-with-知了24.04.06.apk](https://www.lanzoul.com/ixryB1uixtvi)
+
+ - [有道云笔记_7.4.360 VIP高级版@LWELY.apk](https://www.lanzoul.com/iNGvM1uixewj)
+
+ - [酷视频 荣耀定制版 v11.0.43.3452312@百分之千分享.apk](https://www.lanzoul.com/iEYsV1uixaeh)
+
+ - [修改水印相机v2.4.5@[SN-348bc0ff].txt](https://www.lanzoul.com/iWjoU1uix4fc)
+
+ - [新小苹果影视盒子 1.3.5.apk](https://www.lanzoul.com/igEd11uiwg5i)
+
+
 ## 2024-04-10 更新
 
  - [一念桌面V1.0.6.7z](https://www.lanzoui.com/i8oIE1ugov2f)
