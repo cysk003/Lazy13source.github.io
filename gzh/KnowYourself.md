@@ -14,16 +14,6 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
-- [对你好并不是在「讨好」，是因为我本来就是一个很好的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849123&idx=1&sn=3f76135e77739bb0e18894207e86541f&chksm=9fcbbde7a8bc34f126d3c827b725b823ae6ec92761e62c04630cc2fe0505ebee3eb862001c52#rd) |  [备份查看](/gzh/backup/KnowYourself/对你好并不是在「讨好」，是因为我本来就是一个很好的人)
-    - 时间：2024-04-10
-    - 摘要：或许，利他其实是我们的天性。
-
-- [致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848445&idx=1&sn=6b75938fa8e8b56bfca688ba8a4410f8&chksm=9fcbb8b9a8bc31af6b4b0be236096c322143e006c04a272dd4e1dfbdde322a8ff2dea4bd6cd3#rd) |  [备份查看](/gzh/backup/KnowYourself/致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？)
-    - 时间：2024-04-08
-    - 摘要：盖子盖了吗？衣服叠了吗？碗刷了吗？垃圾扔了吗？
-- [为KYer诚意打造的专业心理服务平台——「知我心理」来啦！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848445&idx=2&sn=8ddea3443df461f8f89a9d1774a03568&chksm=9fcbb8b9a8bc31af2ef758c44d91a1226fd509e54536747085cd23dfdc019a11dce2dc2d5452#rd) |  [备份查看](/gzh/backup/KnowYourself/为KYer诚意打造的专业心理服务平台——「知我心理」来啦！)
-    - 时间：2024-04-08
-    - 摘要：专业、优质、具有安全感的心理服务。
 - [致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247848444&idx=1&sn=9a270f8ed6ea0bf477e4974dd1dace8e&chksm=9fcbb8b8a8bc31ae6da9957fe5a085ab5f4e421bfb9de16922e638a9f432ab7f9e92c5ca00bf#rd) |  [备份查看](/gzh/backup/KnowYourself/致我亲爱的「烂尾人」：你为什么做事情总是有头没尾啊？)
     - 时间：2024-04-08
     - 摘要：盖子盖了吗？衣服叠了吗？碗刷了吗？垃圾扔了吗？
