@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [“我每天都很累，睡觉时总是浑身紧张”  学会这 5 招，你才能好好休息](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849334&idx=1&sn=1408135f4c26488280dfc6428eca5dbc&chksm=9fcbbc32a8bc352440a928788c10ebb6ef9f4ab61bac32ac9d1e745c962da085df6f12edafc2#rd) |  [备份查看](/gzh/backup/KnowYourself/“我每天都很累，睡觉时总是浑身紧张”  学会这 5 招，你才能好好休息)
+    - 时间：2024-04-13
+    - 摘要：高质量休息的秘诀
+- [一种能够「加深关系」的行为，却常常被认为没有意义](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849333&idx=1&sn=594dd677d3ff981584b73664040723b9&chksm=9fcbbc31a8bc35272406e825bdd87175e037ef5923c3d2559710dcd395b713402896eedccfc0#rd) |  [备份查看](/gzh/backup/KnowYourself/一种能够「加深关系」的行为，却常常被认为没有意义)
+    - 时间：2024-04-12
+    - 摘要：关系真正需要的是「劝与陪伴」。
+
 
 - [对你好并不是在「讨好」，是因为我本来就是一个很好的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849123&idx=1&sn=3f76135e77739bb0e18894207e86541f&chksm=9fcbbde7a8bc34f126d3c827b725b823ae6ec92761e62c04630cc2fe0505ebee3eb862001c52#rd) |  [备份查看](/gzh/backup/KnowYourself/对你好并不是在「讨好」，是因为我本来就是一个很好的人)
     - 时间：2024-04-10
