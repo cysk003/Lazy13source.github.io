@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [一个延长快乐的简单技巧，却常常被我们忽视](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849728&idx=1&sn=40877cd4ee31d0c99b5c7b656b8f3e57&chksm=9fcbbe44a8bc3752cbf5d31d046e1f6c1b3e9971cd91026bef1d38ff217fba35a9311bfe835e#rd) |  [备份查看](/gzh/backup/KnowYourself/一个延长快乐的简单技巧，却常常被我们忽视)
+    - 时间：2024-04-15
+    - 摘要：想得美，不是玄学
+
 
 
 - [“我每天都很累，睡觉时总是浑身紧张”  学会这 5 招，你才能好好休息](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849334&idx=1&sn=1408135f4c26488280dfc6428eca5dbc&chksm=9fcbbc32a8bc352440a928788c10ebb6ef9f4ab61bac32ac9d1e745c962da085df6f12edafc2#rd) |  [备份查看](/gzh/backup/KnowYourself/“我每天都很累，睡觉时总是浑身紧张”  学会这 5 招，你才能好好休息)
