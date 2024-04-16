@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-16 更新
+
+ - [LenovoLegionToolkit 2.21.1 联想拯救者工具集.exe](https://www.lanzoui.com/i54WD1v8ox8b)
+
+
 ## 2024-04-15 更新
 
 
