@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [快被焦虑淹没时，是这两个字拯救了我](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849779&idx=1&sn=5399efeea455301566e22683463b4de8&chksm=9fcbbe77a8bc3761e0f8f4f293614280f4c155d45e71bb4fd68f65e8f051212a399b03ba2b7c#rd) |  [备份查看](/gzh/backup/KnowYourself/快被焦虑淹没时，是这两个字拯救了我)
+    - 时间：2024-04-16
+    - 摘要：我们无法打败一个没有名字的恶魔。
+
 
 - [一个延长快乐的简单技巧，却常常被我们忽视](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849728&idx=1&sn=40877cd4ee31d0c99b5c7b656b8f3e57&chksm=9fcbbe44a8bc3752cbf5d31d046e1f6c1b3e9971cd91026bef1d38ff217fba35a9311bfe835e#rd) |  [备份查看](/gzh/backup/KnowYourself/一个延长快乐的简单技巧，却常常被我们忽视)
     - 时间：2024-04-15
