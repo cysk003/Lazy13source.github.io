@@ -9,6 +9,81 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-18 更新
+
+ - [印章设计制作软件v3.1.2.rar](https://www.lanzoui.com/iSs1d1vhn37i)
+
+ - [印章设计工程及模板下载地址.rar](https://www.lanzoui.com/iFZd71vhn34f)
+
+ - [影视TV-fongmi-v2.3.2-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/i9Dh21vhfoxc)
+
+ - [影视TV-fongmi-v2.3.2-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/itX8j1vhfn8b)
+
+ - [影视TV-fongmi-v2.3.2-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/ikbfl1vhflcd)
+
+ - [影视TV-fongmi-v2.3.2-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/ijktw1vhfj3c)
+
+ - [影视-fongmi-v2.3.2-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iGagA1vhfgkb)
+
+ - [影视-fongmi-v2.3.2-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iIoBM1vhff5a)
+
+ - [影视-fongmi-v2.3.2-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iFavr1vhfcjg)
+
+ - [影视-fongmi-v2.3.2-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iBVJb1vhf9fe)
+
+ - [VisualCppRedist_AIO_x86_x64_81@abbodi1406.zip](https://www.lanzoul.com/ixkQ71vhesgd)
+
+ - [open2share-v1.7.apk](https://www.lanzoul.com/iEoDQ1vhekze)
+
+ - [lx-music-mobile-v1.3.0-arm64-v8a.apk](https://www.lanzoul.com/iyqNA1vhejtc)
+
+ - [lx-music-desktop-v2.7.0-win_x64-green.7z](https://www.lanzoul.com/izTex1vhefkj)
+
+ - [lx-music-desktop-v2.7.0-win7_x64-green.7z](https://www.lanzoul.com/itt7H1vhe9jc)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.81.apk](https://www.lanzoul.com/i5FyJ1vhe39g)
+
+ - [alixby-3.24.41217-win-x64@odomu.zip](https://www.lanzoul.com/iUcDT1vhdxwd)
+
+ - [AfuseKt-arm64-1.1.4-fix.apk](https://www.lanzoul.com/iZfmA1vhdqxc)
+
+ - [小白云盘-1.5.2-windows-x64.exe](https://www.lanzoul.com/iD1Ep1vh8g3c)
+
+ - [Bmap-7.240415.Final-64位.apk](https://www.lanzoul.com/iLjGt1vflyle)
+
+ - [海阔视界_V8.36_C4817_db53-64位.apk](https://www.lanzoul.com/iOL0K1vflo1e)
+
+ - [野草音源.zip](https://www.lanzoul.com/iXXvC1vfkfcf)
+
+ - [野花音源.zip](https://www.lanzoul.com/i0zpl1vfkf9c)
+
+ - [XBYDriver-3.13.4-win-x64@gaozhangmin.exe](https://www.lanzoul.com/isDNk1vfk33e)
+
+ - [Windows系统调校_20240415_08f134a4.exe](https://www.lanzoul.com/iMK6h1vfi5ne)
+
+ - [微软常用运行库合集 2024.04.11@Dreamcast.exe](https://www.lanzoul.com/ijWc51vfi4id)
+
+ - [AnyTXT.Searcher.1.3.1373.Win32_Win64.OCR.txt](https://www.lanzoul.com/i8B9m1vfhlri)
+
+ - [AnyTXT.Searcher.1.3.1373.Win32_Win64.exe](https://www.lanzoul.com/iBkiO1vfhbyf)
+
+ - [mpv-x86_64-20240414-git-6a8b130.7z](https://www.lanzoul.com/iIsrW1vfgula)
+
+ - [leanback-python-armeabi_v7a-dev-2.3.3-108d35e.apk](https://www.lanzoul.com/iZK1G1vgmz2d)
+
+ - [安卓4.x-OK影视TV-2.3.3-X5离线.apk](https://www.lanzoul.com/ioNLe1vgmu1c)
+
+ - [音盒TV_2.0.apk](https://www.lanzoul.com/i0Xqi1vgmfkb)
+
+ - [KTV_40.0.0.apk](https://www.lanzoul.com/iBkj51vgmfab)
+
+ - [想唱就唱_2.15.63.apk](https://www.lanzoul.com/iJ1wy1vgm8pe)
+
+ - [网易云音乐TV版.apk](https://www.lanzoul.com/icOI51vgm6tg)
+
+ - [悦直播.apk](https://www.lanzoul.com/iPPcn1vgm4kf)
+
+
 ## 2024-04-17 更新
 
 

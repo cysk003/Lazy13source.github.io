@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [一遇到问题就逃避？有一种心理模式最能暴露人的成熟度](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849878&idx=1&sn=6f2f9da37f547a6c65bfce6018db32ed&chksm=9fcbbed2a8bc37c495ccf7f826a2da6301981eaa8c28a81bc5547977c323122ec6c691a17c7b#rd) |  [备份查看](/gzh/backup/KnowYourself/一遇到问题就逃避？有一种心理模式最能暴露人的成熟度)
+    - 时间：2024-04-17
+    - 摘要：一起勇敢而真实。
+
 - [快被焦虑淹没时，是这两个字拯救了我](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849779&idx=1&sn=5399efeea455301566e22683463b4de8&chksm=9fcbbe77a8bc3761e0f8f4f293614280f4c155d45e71bb4fd68f65e8f051212a399b03ba2b7c#rd) |  [备份查看](/gzh/backup/KnowYourself/快被焦虑淹没时，是这两个字拯救了我)
     - 时间：2024-04-16
     - 摘要：我们无法打败一个没有名字的恶魔。
