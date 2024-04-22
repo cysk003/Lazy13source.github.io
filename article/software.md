@@ -9,6 +9,21 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-19 更新
+
+ - [医保基本药品目录查询-在线更新 1.0.1.rar](https://www.lanzoui.com/ic1B41vlnmaj)
+
+ - [医保4月2日数据库.rar](https://www.lanzoui.com/igQ1F1vlnlve)
+
+ - [360系统盘瘦身v10.1.zip](https://www.lanzoui.com/icMyl1vlncba)
+
+ - [经典本地影音播放器MPC-BE 1.7.0x86x64便携版.exe](https://www.lanzoui.com/iL0891vln9vc)
+
+ - [语音叫号器V1.1.exe](https://www.lanzoui.com/i161K1vlmtgb)
+
+ - [Bypass分流抢票 v1.16.25.zip](https://www.lanzoui.com/iDeyL1vlmp2d)
+
+
 ## 2024-04-18 更新
 
  - [印章设计制作软件v3.1.2.rar](https://www.lanzoui.com/iSs1d1vhn37i)
