@@ -9,6 +9,127 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-22 更新
+
+ - [件卸载工具HiBitUninstaller v3.2.10 单文件版.exe](https://www.lanzoui.com/igZbU1vzy1ad)
+
+ - [计算机名称修改工具.zip](https://www.lanzoui.com/iEI7X1vzxjmh)
+
+ - [计算机名称修改工具20240421更新计算机名可以是任意字符.zip](https://www.lanzoui.com/iiO4L1vzxbob)
+
+ - [系统激活状态查询（激活工具激活可看到期日期）和激活码查询.rar](https://www.lanzoui.com/i2joU1vzwv6h)
+
+ - [桌面蝴蝶 Butterfly On Desktop 1.0 汉化版.exe](https://www.lanzoui.com/ihm3x1vzwi3g)
+
+ - [桌面蟑螂 Cockroach on Desktop 1.2 汉化版.exe](https://www.lanzoui.com/ik7AK1vzwi1e)
+
+ - [桌面苍蝇 Fly on Desktop 1.3 汉化版.exe](https://www.lanzoui.com/il7bU1vzwhvi)
+
+ - [无用倒计时2.2吾爱专版.zip](https://www.lanzoui.com/id1pE1vzw86j)
+
+ - [360清理ProSysCleanPro.zip](https://www.lanzoui.com/iH5J81vzw6ne)
+
+ - [资源猫 Ver.3.0.4 多影视源 去广告版@zhou45.apk](https://www.lanzoul.com/i40JL1vy598j)
+
+ - [柚子影视 Ver.5.0.1 去广告 修复版@zhou45.apk](https://www.lanzoul.com/inKaJ1vy55mj)
+
+ - [小红书_8.28.0.5@rikkati.apk](https://www.lanzoul.com/icXOH1vy516j)
+
+ - [小白云盘-1.5.4-windows-x64.exe](https://www.lanzoul.com/i3rHU1vy4xba)
+
+ - [微商助手 Ver.3.2.5 会员解锁版@zhou45.apk](https://www.lanzoul.com/ind9K1vy4tvg)
+
+ - [淘宝_10.35.10-OPPO定制版@rikkati分享.apk](https://www.lanzoul.com/ioLBo1vy4omh)
+
+ - [酷我音乐_10.7.6.7_s@会废的鱼.txt](https://www.lanzoul.com/iPDXX1vy3v3e)
+
+ - [七猫免费小说_7.46修改版@暗猎魂殇.apk](https://www.lanzoul.com/iXLhB1vy3mtg)
+
+ - [美团红包助手 Ver.1.9.4 去广告版@zhou45.apk](https://www.lanzoul.com/ixk251vy3cif)
+
+ - [橘子视频_5.0.9@rikkati.apk](https://www.lanzoul.com/idE0i1vy37jg)
+
+ - [阿里云盘 4.9.14去更新v2版.txt](https://www.lanzoul.com/iDFQY1vy2wpg)
+
+ - [剪映_10.7.0(10700300)@帝落TG.txt](https://www.lanzoul.com/ihN3z1vy2bqb)
+
+ - [饿了么红包助手 Ver.3.3.9 去广告版@zhou45.apk](https://www.lanzoul.com/iJnJz1vy1hxi)
+
+ - [当贝助手v93.9.1去广告去更新版@yoyodadada（基于网传v3.9.1清爽版调整版本号去更新）.apk](https://www.lanzoul.com/iF8oR1vy158b)
+
+ - [别哭宝贝_1.5.6@liu.apk](https://www.lanzoul.com/i7WiU1vy0zyb)
+
+ - [X-plore v4.37.22 _ed by youarefinished.apk](https://www.lanzoul.com/iZRt51vy0g0d)
+
+ - [X-plore v4.37.28 Beta Black _ed by youarefinished.apk](https://www.lanzoul.com/ikwRj1vy0ezg)
+
+ - [X-plore v4.37.28 Beta _ed by youarefinished.apk](https://www.lanzoul.com/iUdCF1vy0dhc)
+
+ - [X-plore v4.37.22 Black _ed by youarefinished.apk](https://www.lanzoul.com/iQiZ31vy0c1a)
+
+ - [Telegram Ver.10.10.1 Mod_TMoe@zhou45.apk](https://www.lanzoul.com/im7pk1vy05yb)
+
+ - [Telegram_v10.11.0_(46609)_Mod@辰夕.apk](https://www.lanzoul.com/ieRK21vy012f)
+
+ - [Speedtest v5.3.6 arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/idMwZ1vxzuri)
+
+ - [Speedtest v5.3.6 [Premium]@piemods.apk](https://www.lanzoul.com/i1Mh21vxzqzc)
+
+ - [QAuxv-v1.5.0.r2001.597cbf1-arm64.apk](https://www.lanzoul.com/iSMmc1vxzize)
+
+ - [Nagram-v10.10.1(1168)-arm64-v8a.apk](https://www.lanzoul.com/i5K7C1vxzcha)
+
+ - [MyRadio v1.1.89.0408 modded by Mixroot.apk](https://www.lanzoul.com/iLjct1vxz71e)
+
+ - [Instagram-revanced_v4.6.0_@tkjiku.apk](https://www.lanzoul.com/ifWCC1vxyp8d)
+
+ - [Instagram_v4.6.0_@tkjiku_clone.apk](https://www.lanzoul.com/iM41W1vxynha)
+
+ - [GreenTuber_0.1.4.0@takklong.apk](https://www.lanzoul.com/i2VFK1vxyfyj)
+
+ - [GreenTuber_0.1.4.0_@takklong.apk](https://www.lanzoul.com/iYt221vxyfrc)
+
+ - [CamScanner - PDF Scanner App v6.63.0.2404140000 Clean _ed by youarefinished.txt](https://www.lanzoul.com/iOnMy1vxycyb)
+
+ - [CamScanner - PDF Scanner App v6.63.0.2404140000 ad support _ed by youarefinished.txt](https://www.lanzoul.com/imdGu1vxycxa)
+
+ - [CamScanner - PDF Scanner App v6.63.0.2404140000 Offline _ed by youarefinished.txt](https://www.lanzoul.com/iMooD1vxycvi)
+
+ - [AI助手_1.8.9@takklong.apk](https://www.lanzoul.com/i66t71vxy3ng)
+
+ - [AI助手_1.8.8@takklong.apk](https://www.lanzoul.com/iiOWA1vxy2li)
+
+ - [ADM_14.0.29@liu.apk](https://www.lanzoul.com/igRCk1vxxzti)
+
+ - [AdGuard Ad Blocker v4.4.159 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i0DZN1vxxy3g)
+
+ - [AdGuard-Premium-v4.4.159_build_10171591-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/irJa91vxxw6h)
+
+ - [AdGuard Ad Blocker v4.4.161 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i8BP01vxxuze)
+
+ - [64Gram_1.1.19_x64.zip](https://www.lanzoul.com/iqs9W1vxxspc)
+
+ - [64Gram_1.1.18_x64.zip](https://www.lanzoul.com/isd7W1vxxrab)
+
+ - [64Gram_1.1.17_x64.zip](https://www.lanzoul.com/idCTH1vxxqid)
+
+ - [[LSPatch]Bilibili-Blue-7.76.1-b14639096-漫游b55430ead6.txt](https://www.lanzoul.com/i37Qy1vxxoud)
+
+ - [[LSPatch]Bilibili-Blue-7.76.0-b14632726-漫游b55430ead6.txt](https://www.lanzoul.com/itKGy1vxxosb)
+
+ - [[LSPatch]Bilibili-Blue-7.76.0-b14624456-漫游b55430ead6.txt](https://www.lanzoul.com/iIBv11vxxora)
+
+ - [[LSPatch]Bilibili-Blue-7.76.0-b14609927-漫游b55430ead6.txt](https://www.lanzoul.com/i1RRS1vxxopi)
+
+ - [[LSPatch]Bilibili-Blue-7.74.0-b14588571-漫游b55430ead6.txt](https://www.lanzoul.com/iJj851vxxooh)
+
+ - [[LSPatch]Bilibili-7.75.0-b14607238-漫游b55430ead6.txt](https://www.lanzoul.com/iVZEl1vxwn1c)
+
+ - [[LSPatch]Bilibili-7.75.0-b14592477-漫游b55430ead6.txt](https://www.lanzoul.com/i0kU51vxwmza)
+
+ - [[LSPatch]Bilibili-7.74.0-b14539200-漫游b55430ead6.txt](https://www.lanzoul.com/ianUO1vxwmyj)
+
+
 ## 2024-04-19 更新
 
  - [医保基本药品目录查询-在线更新 1.0.1.rar](https://www.lanzoui.com/ic1B41vlnmaj)
