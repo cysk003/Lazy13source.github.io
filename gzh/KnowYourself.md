@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [越是厉害的人，回答这个问题时就越干脆——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850171&idx=1&sn=d11d16daa497dff0baa159d37af37ce9&chksm=9fcbb1ffa8bc38e99de865dbdc9a7e1028727454cfe81009224d296c9d2402b9a6e334657817#rd) |  [备份查看](/gzh/backup/KnowYourself/越是厉害的人，回答这个问题时就越干脆——)
+    - 时间：2024-04-21
+    - 摘要：高行动力的关键
+- [有一种「坚持」不仅没用，还会阻碍我们的生活。](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850114&idx=1&sn=00b7a22780aa651603b9237196265f79&chksm=9fcbb1c6a8bc38d0e4251c23a3eb030c9e16013e38de3641bb1c9628e9f1f8d24f2aa190cc21#rd) |  [备份查看](/gzh/backup/KnowYourself/有一种「坚持」不仅没用，还会阻碍我们的生活。)
+    - 时间：2024-04-19
+    - 摘要：为什么说有些坚持是不必要的？
+- [大方承认自己很弱以后，我活得更好了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849940&idx=1&sn=9ae7b30131e2da829a599b940a48004e&chksm=9fcbbe90a8bc3786477db6e705229bcceb668afcee86b2e5b29ec67c73295071a510ace5ac8f#rd) |  [备份查看](/gzh/backup/KnowYourself/大方承认自己很弱以后，我活得更好了)
+    - 时间：2024-04-18
+    - 摘要：爱谁强谁强。
+
 - [一遇到问题就逃避？有一种心理模式最能暴露人的成熟度](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247849878&idx=1&sn=6f2f9da37f547a6c65bfce6018db32ed&chksm=9fcbbed2a8bc37c495ccf7f826a2da6301981eaa8c28a81bc5547977c323122ec6c691a17c7b#rd) |  [备份查看](/gzh/backup/KnowYourself/一遇到问题就逃避？有一种心理模式最能暴露人的成熟度)
     - 时间：2024-04-17
     - 摘要：一起勇敢而真实。
