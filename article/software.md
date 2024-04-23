@@ -9,6 +9,105 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-23 更新
+
+ - [ ReVanced Advanced v19.15.36 Red MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ixhFZ1w6owcd)
+
+ - [ ReVanced Advanced v19.15.36 Red Black  Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/itvHZ1w6oref)
+
+ - [ ReVanced Advanced v19.15.36 Original MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iBekJ1w6onfc)
+
+ - [ ReVanced Advanced v19.15.36 Original Black  Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iBF571w6ok1a)
+
+ - [ ReVanced Advanced v19.15.36 Black Root arm64 by youarefinished.apk](https://www.lanzoul.com/ieZXf1w6ojle)
+
+ - [ ReVanced Advanced v19.15.36 MYou Root arm64 by youarefinished.apk](https://www.lanzoul.com/iN8lE1w6ojcf)
+
+ - [ ReVanced Advanced v19.15.36 Blue MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/imxfw1w6ohsj)
+
+ - [ ReVanced Advanced v19.15.36 Blue Black  Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iRUxx1w6oe9c)
+
+ - [Xmind_ Mind Map & Brainstorm v24.01.14282 _ed by youarefinished.apk](https://www.lanzoul.com/igDgT1w6o4ib)
+
+ - [[LSPatch]Bilibili-7.76.0-b14663577-漫游b55430ead6.txt](https://www.lanzoul.com/iEHoO1w6o2sj)
+
+ - [Resume Builder v1.01.45.0419 modded by Mixroot.apk](https://www.lanzoul.com/iwCFz1w6nzcf)
+
+ - [AI助手_1.9.0@takklong.apk](https://www.lanzoul.com/iOyr21w6nypc)
+
+ - [搜狗输入法v14.4.0.9307去广告精简优化版@zd423.exe](https://www.lanzoul.com/iFkyV1w6nwdi)
+
+ - [扫描全能王_6.63.0.2404140000_Mod@辰夕.apk](https://www.lanzoul.com/i33YF1w6nuud)
+
+ - [今日头条_9.7.6_Mod_NoAd_NoUpdate@辰夕.apk](https://www.lanzoul.com/i5htt1w6ns4f)
+
+ - [Question.AI_v2.2.9_ChatGPT软件_Mod@辰夕.apk](https://www.lanzoul.com/iANHs1w6npud)
+
+ - [MyRadio_v1.1.89.0408_(10310)_Mod@辰夕.apk](https://www.lanzoul.com/ibfSN1w6nmwh)
+
+ - [Google-Play-Store-40.6.31-29-A10 All.apk](https://www.lanzoul.com/iCZaT1w6nm0f)
+
+ - [dolby_beta_3.5.4_20240422-release.apk](https://www.lanzoul.com/inMTR1w6nlhg)
+
+ - [CapCut_v11.7.0_(11700100)_Mod@辰夕.txt](https://www.lanzoul.com/iN3ZQ1w6nkbe)
+
+ - [B612_v13.1.11_(91130111)_Mod@辰夕.txt](https://www.lanzoul.com/i0mr51w6nj0h)
+
+ - [ChatBot_v1.3.6_Mod@辰夕.apk](https://www.lanzoul.com/it8p51w6ngqf)
+
+ - [Autox-v6-arm64-v8a-release-6.6.0.apk](https://www.lanzoul.com/i8mEX1w6ndsj)
+
+ - [AfuseKt-arm64-1.2.0.apk](https://www.lanzoul.com/iVqXK1w6naxg)
+
+ - [TikTokAsia_v34.3.3_@tkjiku_lite.txt](https://www.lanzoul.com/iaHVG1w6mqgj)
+
+ - [TikTokAsia_v34.2.3_@tkjiku_multi.txt](https://www.lanzoul.com/ieXTh1w6mqfi)
+
+ - [TikTokAsia_v34.2.3_@tkjiku_lite.txt](https://www.lanzoul.com/ioWOA1w6mqeh)
+
+ - [TikTok_v34.3.3_@tkjiku_multi.txt](https://www.lanzoul.com/iPLbb1w6m7cb)
+
+ - [TikTok_v34.3.3_@tkjiku_lite.txt](https://www.lanzoul.com/i3Ugq1w6m7ba)
+
+ - [TikTok_v34.2.3_@tkjiku_lite.txt](https://www.lanzoul.com/i5ksA1w6lm0d)
+
+ - [TikTok_v34.2.3_@tkjiku_multi.txt](https://www.lanzoul.com/iUkqV1w6llyb)
+
+ - [TikTokMod-34.3.3-universal@Dmitry.txt](https://www.lanzoul.com/iDVbM1w6lfij)
+
+ - [TikTokMod-34.2.3-universal@Dmitry.txt](https://www.lanzoul.com/iEDxJ1w6lfgh)
+
+ - [TikTok Plugin 1.33@.apk](https://www.lanzoul.com/iKKi91w6l7xg)
+
+ - [TikTok Plugin 1.32@.apk](https://www.lanzoul.com/izfM91w6l7ra)
+
+ - [_19.11.38 [Premium]@alexa.apk](https://www.lanzoul.com/iNoqa1w6l58j)
+
+ - [ ReVanced Advanced v19.14.42 Stock Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ii11G1w6l24h)
+
+ - [ ReVanced Advanced v19.14.42 Stock MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ilhFS1w6l03e)
+
+ - [ ReVanced Advanced v19.14.42 Red MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/izGOV1w6kwbi)
+
+ - [ ReVanced Advanced v19.14.42 Root arm64 by youarefinished.apk](https://www.lanzoul.com/ieaBz1w6kuyj)
+
+ - [ ReVanced Advanced v19.14.42 Red Non-Root arm64 by youarefinished..apk](https://www.lanzoul.com/iM9da1w6ku6b)
+
+ - [ ReVanced Advanced v19.14.42 Blue MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/idHRv1w6ks6j)
+
+ - [ ReVanced Advanced v19.14.42 MYou Root arm64 by youarefinished.apk](https://www.lanzoul.com/iBMkh1w6knud)
+
+ - [ ReVanced Advanced v19.14.42 Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iCGbT1w6klja)
+
+ - [Revanced_v19.11.43_MustHave@MarcaD.apk](https://www.lanzoul.com/iJxvj1w6kglc)
+
+ - [microG Services v0.3.1.4.240913.apk](https://www.lanzoul.com/ikMOR1w6keti)
+
+ - [microG_v0.3.1.3.240913_MustHave.apk](https://www.lanzoul.com/iOT6w1w6kcpc)
+
+ - [microG Services v0.3.1.4.240913-hw.apk](https://www.lanzoul.com/i5nOq1w6kagb)
+
+
 ## 2024-04-22 更新
 
  - [件卸载工具HiBitUninstaller v3.2.10 单文件版.exe](https://www.lanzoui.com/igZbU1vzy1ad)

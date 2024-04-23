@@ -17,11 +17,26 @@
 
 ***
 
+- 240423：
+
+  - 240423群分享《怎样读书，才算对得起自己？》
+  
+  - 240423卢克文星球《如何看待“信息支援部队成立”？》
+  
+  - <details>
+    <summary>更新《240423懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK2ibTXQULN0vekg0Md2szibFic6TQrxqW0nltHXU7kS4kTCtAHVRW9ibLdOt7QcicBxoxlHr10pwTiceRw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240416懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK2ibTXQULN0vekg0Md2szibFb6icaiayNXrXNP95xoYkJ41cCyAOn3MVNiaKfiaVo4ORDMmcQKNsljmywQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240422:
 
   - 240422卢克文星球《一季度GDP增长5.3%，如何解读？》
   - 240422卢克文星球《全球经济动荡下，美国经济到底行不行？》
-  - 
   
 - 240419：
 
