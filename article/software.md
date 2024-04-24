@@ -9,6 +9,85 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-24 更新
+
+ - [小猿口算 3.81.2会员版_青帝.txt](https://www.lanzoul.com/iv0Ld1wab37a)
+
+ - [小红书 8.32.0去广告去水印版_坤坤.txt](https://www.lanzoul.com/i3n0y1wab0je)
+
+ - [下厨房_8.8.31 Ulock纯净版@LWELY.apk](https://www.lanzoul.com/iRkbf1waay9c)
+
+ - [微商助手_3.2.5 VIP修复版@LWELY.apk](https://www.lanzoul.com/iNSJy1waawlc)
+
+ - [微商团长 1.7.4会员版_青帝.txt](https://www.lanzoul.com/iY3fF1waaqqb)
+
+ - [微粉大师 2.1.9会员版_LWELY.apk](https://www.lanzoul.com/iOuWU1waaopi)
+
+ - [微博猪手 2.2.9-(269-20240411)xp模块.apk](https://www.lanzoul.com/ihziu1waan1i)
+
+ - [微博猪手 2.2.9-(271-20240422)xp模块.apk](https://www.lanzoul.com/ifFQ61waamwd)
+
+ - [微博猪手 2.2.9-(270-20240420)xp模块.apk](https://www.lanzoul.com/iopOX1waamub)
+
+ - [微博 14.4.1-内置猪手2.2.9-270模块.txt](https://www.lanzoul.com/iePwh1waak8h)
+
+ - [微博 14.4.1-内置猪手2.2.9-269模块.txt](https://www.lanzoul.com/ikyMR1waak1a)
+
+ - [微博 14.4.0-内置猪手2.2.9-269模块.txt](https://www.lanzoul.com/iVDZh1waajra)
+
+ - [微博 14.4.1-内置猪手2.2.9-271模块.txt](https://www.lanzoul.com/iBxgr1waajoh)
+
+ - [万词王 3.9.0会员版_青帝.txt](https://www.lanzoul.com/im20H1waacne)
+
+ - [搜狗输入法联想平板定制版_10.19.113.apk](https://www.lanzoul.com/ipYwb1waabfa)
+
+ - [手机性能排行v5.1.8.apk](https://www.lanzoul.com/ifchI1waa9mf)
+
+ - [墨迹天气_9.0862 VIP尊享版@LWELY.apk](https://www.lanzoul.com/iXC5d1waa76h)
+
+ - [懒人驾考 2.12.8会员版@[SN-65773acb].txt](https://www.lanzoul.com/iShrx1waa4gj)
+
+ - [酷我音乐 10.7.6.6会员版_童鞋-240411涨姿势好料亲测可用.txt](https://www.lanzoul.com/irLk71waa0nc)
+
+ - [酷我音乐 10.6.6.1会员版_童鞋-240411涨姿势好料亲测可用.txt](https://www.lanzoul.com/iRX6A1waa0la)
+
+ - [酷我音乐车机版 6.2.6.10(手机可用)会员版_LWELY.apk](https://www.lanzoul.com/iKILg1wa9vgf)
+
+ - [驾考宝典 8.53.0会员版_青帝.txt](https://www.lanzoul.com/irLLx1wa9o9g)
+
+ - [车学堂 5.7.6会员版_坤坤.txt](https://www.lanzoul.com/iXWsH1wa9o8f)
+
+ - [考霸题 1.4.6会员版_LWELY.apk](https://www.lanzoul.com/iXDiN1wa9juh)
+
+ - [贝乐虎儿歌 6.8.0会员版_LWELY.apk](https://www.lanzoul.com/ihvkn1wa9h8d)
+
+ - [Tik-Tok_v34.4.3解锁限制-多语言-含配套插件.txt](https://www.lanzoul.com/iVuGn1wa9fle)
+
+ - [斑马驾考v2.2.1@[SN-348bc0ff].apk](https://www.lanzoul.com/i5o1H1wa9cdi)
+
+ - [爱奇艺_15.4.0_sign.apk](https://www.lanzoul.com/iWXKj1wa9b2b)
+
+ - [Speed-test网速测试 5.3.6高级版_Balatan.apk](https://www.lanzoul.com/i4FqG1wa980b)
+
+ - [AdGuard_v4.4.161-Nightly-高级版_derrin.apk](https://www.lanzoul.com/iCiSJ1wa96dc)
+
+ - [123云盘_2.3.13 深度纯净版@LWELY.apk](https://www.lanzoul.com/ipc551wa94ah)
+
+ - [Telegram_10.11.2(46659)-Tmoe@帝落.apk](https://www.lanzoul.com/iDv3r1wa4p3g)
+
+ - [Telegram_10.11.2(46659)@帝落.apk](https://www.lanzoul.com/iWIg71wa4o4b)
+
+ - [123云盘_2.3.12@rikkati.apk](https://www.lanzoul.com/irBF31wa4mrc)
+
+ - [my-tv-v1.8.2.apk](https://www.lanzoul.com/ijwhm1wa4ipg)
+
+ - [Inet Download Manager v6.42 Build 8 Retail@烈火分享.rar](https://www.lanzoul.com/ipKcz1wa4g0j)
+
+ - [Inet Download Manager v6.42 Build 8 Retail 绿色特别版（去更新）@烈火.rar](https://www.lanzoul.com/iev511wa4ftc)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.83.apk](https://www.lanzoul.com/iw17s1wa4eli)
+
+
 ## 2024-04-23 更新
 
  - [ ReVanced Advanced v19.15.36 Red MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ixhFZ1w6owcd)
