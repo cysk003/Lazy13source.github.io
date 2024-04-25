@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [总是莫名不开心，你不是情绪化，只是「情绪颗粒度」太低](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850495&idx=1&sn=226775a09e394b4562e21247388984f8&chksm=9fcbb0bba8bc39ad9f35ad5be3c1b11cd05d04fae92ef329a35e7b25608b8c8f4ab7fcc78a32#rd) |  [备份查看](/gzh/backup/KnowYourself/总是莫名不开心，你不是情绪化，只是「情绪颗粒度」太低)
+    - 时间：2024-04-24
+    - 摘要：来测测你的情绪颗粒度怎么样
+- [越是善良的人，越需要「适度冷漠」的保护](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850423&idx=1&sn=9f6d6a4eb721ec60128b26f8df4463d4&chksm=9fcbb0f3a8bc39e5a5d5ef81ad6e46e383e2668a739f379eefa8ab502509408a1e47acb4c4f3#rd) |  [备份查看](/gzh/backup/KnowYourself/越是善良的人，越需要「适度冷漠」的保护)
+    - 时间：2024-04-23
+    - 摘要：适度冷漠，实质上只是一种情绪上的休息。
+- [这个看似羞耻的小习惯，其实是最简单的解压术](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850324&idx=1&sn=ba9028f252989fcb37f90c09b046ffd1&chksm=9fcbb010a8bc39069a449dc48bc29efc38356ca6332e7fc7c3d0a9a43b8319bf48075629dd6f#rd) |  [备份查看](/gzh/backup/KnowYourself/这个看似羞耻的小习惯，其实是最简单的解压术)
+    - 时间：2024-04-22
+    - 摘要：赶走内耗的好方法
+
 - [越是厉害的人，回答这个问题时就越干脆——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850171&idx=1&sn=d11d16daa497dff0baa159d37af37ce9&chksm=9fcbb1ffa8bc38e99de865dbdc9a7e1028727454cfe81009224d296c9d2402b9a6e334657817#rd) |  [备份查看](/gzh/backup/KnowYourself/越是厉害的人，回答这个问题时就越干脆——)
     - 时间：2024-04-21
     - 摘要：高行动力的关键
