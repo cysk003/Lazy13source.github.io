@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [MBTI的流行，救了多少人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850547&idx=1&sn=5aa9a4c85b0b3cf834c2b703065b8f34&chksm=9fcbb377a8bc3a6141d1edd6e3af103ab293b9207866688f192a92101c91179119772d78b718#rd) |  [备份查看](/gzh/backup/KnowYourself/MBTI的流行，救了多少人？)
+    - 时间：2024-04-25
+    - 摘要：也许MBTI最大的价值，本就不在于它科不科学。
+
 - [总是莫名不开心，你不是情绪化，只是「情绪颗粒度」太低](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850495&idx=1&sn=226775a09e394b4562e21247388984f8&chksm=9fcbb0bba8bc39ad9f35ad5be3c1b11cd05d04fae92ef329a35e7b25608b8c8f4ab7fcc78a32#rd) |  [备份查看](/gzh/backup/KnowYourself/总是莫名不开心，你不是情绪化，只是「情绪颗粒度」太低)
     - 时间：2024-04-24
     - 摘要：来测测你的情绪颗粒度怎么样
