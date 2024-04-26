@@ -14,6 +14,7 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+
 - [MBTI的流行，救了多少人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850547&idx=1&sn=5aa9a4c85b0b3cf834c2b703065b8f34&chksm=9fcbb377a8bc3a6141d1edd6e3af103ab293b9207866688f192a92101c91179119772d78b718#rd) |  [备份查看](/gzh/backup/KnowYourself/MBTI的流行，救了多少人？)
     - 时间：2024-04-25
     - 摘要：也许MBTI最大的价值，本就不在于它科不科学。
