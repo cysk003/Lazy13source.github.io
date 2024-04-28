@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [做到这4点，他人的批评就无法伤害到你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247851110&idx=1&sn=497808ace1b28d86fe53380ea83f2708&chksm=9fcbb522a8bc3c344eaf5993e72b9be56b29383c711fef65792af0f1903365789c03469a1228#rd) |  [备份查看](/gzh/backup/KnowYourself/做到这4点，他人的批评就无法伤害到你)
+    - 时间：2024-04-27
+    - 摘要：你犯过的错误、缺点，都不等于你。
+- [简庆芬，你永远无法战胜那个想象中的 Rebecca](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247851039&idx=1&sn=4fd41ae55989e9aa1350d6fd2902f7e6&chksm=9fcbb55ba8bc3c4d4940e2a45095dba5bfbe9380484bfd475faa90dd06075b55962d96811508#rd) |  [备份查看](/gzh/backup/KnowYourself/简庆芬，你永远无法战胜那个想象中的 Rebecca)
+    - 时间：2024-04-26
+    - 摘要：当不够善良的我们，因为看向别人而被跌倒。
+- [重养渴望爱的自己，学会被关系滋养  KY「亲密关系课」重磅上新——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247851039&idx=4&sn=78422f98275ecf4b02fac1578f051b35&chksm=9fcbb55ba8bc3c4d5cb51fec27e6d6613262d070bb4d7b6b340425bec88873fd4227017a9c02#rd) |  [备份查看](/gzh/backup/KnowYourself/重养渴望爱的自己，学会被关系滋养  KY「亲密关系课」重磅上新——)
+    - 时间：2024-04-26
+    - 摘要：掌握爱的建构力，幸福一定没问题
+
 
 - [MBTI的流行，救了多少人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247850547&idx=1&sn=5aa9a4c85b0b3cf834c2b703065b8f34&chksm=9fcbb377a8bc3a6141d1edd6e3af103ab293b9207866688f192a92101c91179119772d78b718#rd) |  [备份查看](/gzh/backup/KnowYourself/MBTI的流行，救了多少人？)
     - 时间：2024-04-25
