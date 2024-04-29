@@ -9,6 +9,121 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-04-29 更新
+
+ - [小小五笔 yong-2.8.0-0.7z](https://www.lanzoui.com/iugT01wpvbpg)
+
+ - [小小五笔 yong-2.8.0-0.exe](https://www.lanzoui.com/idxwP1wpvb6h)
+
+ - [暴风影音BaoFeng5.55.1130.1111_Net_3000Yuan.exe](https://www.lanzoui.com/idMWC1wpu88f)
+
+ - [网络管理工具 NETworkManager 2024.4.21.0.zip](https://www.lanzoui.com/igZkJ1wptz3g)
+
+ - [微信多开 (1).zip](https://www.lanzoui.com/iMWJU1wptx7i)
+
+ - [酷狗概念版 v2.5.5 最后一个支持听歌自动领取会员.apk](https://www.lanzoui.com/iD1po1wptuad)
+
+ - [知乎 8.59.0提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/iVIa31wto75e)
+
+ - [支付宝 v10.2.33.8850 红米Turbo3内置版@百分之千分享.txt](https://www.lanzoul.com/iaR6y1wto11e)
+
+ - [支付宝 10.2.33.9160提取版 华为P70内置@百分之千分享.txt](https://www.lanzoul.com/iYBlO1wto10d)
+
+ - [柚子fun_5.0.1(31)-Mod-(微信公众号：曙光明亮科技)@帝落&鹿蜀.apk](https://www.lanzoul.com/iUfli1wtnuqh)
+
+ - [酷视频 10.2.34.202207提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/i41pl1wtnsqf)
+
+ - [应用管家v1.3.4(1342).apk](https://www.lanzoul.com/iV6Hy1wtnpub)
+
+ - [小薇电视TV-v2.5.0.4@百分之千分享.apk](https://www.lanzoul.com/ipJ0k1wtnf4f)
+
+ - [小红书 7.68.0.2提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/i1Cu01wtnc3g)
+
+ - [喜马拉雅 9.0.41.9提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/iC97y1wtn9pa)
+
+ - [微博猪手 2.2.9-(272-20240424)xp模块.apk](https://www.lanzoul.com/im7H51wtmzje)
+
+ - [微博 14.4.2-内置猪手2.2.9-272模块.txt](https://www.lanzoul.com/i1WRZ1wtmzaf)
+
+ - [微博 13.2.0提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/igMg81wtmvbc)
+
+ - [微博 v13.2.0红米Turbo3内置版@百分之千分享.apk](https://www.lanzoul.com/iVg3T1wtmu0f)
+
+ - [淘宝 OPPO定制版 v10.24.0.3000@百分之千分享.apk](https://www.lanzoul.com/ik2IU1wtmrda)
+
+ - [淘宝 荣耀 Magic 6 Pro 定制版 v10.32.33@百分之千分享.apk](https://www.lanzoul.com/ilhhA1wtmrbi)
+
+ - [淘宝 v10.27.40.806红米Turbo3内置版@百分之千分享.apk](https://www.lanzoul.com/inRJt1wtmppa)
+
+ - [唐诗三百首_2.2.5@liu.apk](https://www.lanzoul.com/iMkDu1wtmmif)
+
+ - [搜狗输入法 vivo定制版 v10.32.14023.2403221144@百分之千分享.apk](https://www.lanzoul.com/iJr3O1wtmjed)
+
+ - [搜狗输入法 OPPO定制版 v10.32.0422.2404021800@百分之千分享.apk](https://www.lanzoul.com/iyLxQ1wtmh0h)
+
+ - [七猫免费小说v7.47@[348bc0ff].apk](https://www.lanzoul.com/iqmZU1wtmdcf)
+
+ - [拼多多 v6.6.1红米Turbo3内置版@百分之千分享.apk](https://www.lanzoul.com/iPDuG1wtm4rg)
+
+ - [拼多多 提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/i64rh1wtm3sb)
+
+ - [拼多多 官方内部版 v7.5.0@百分之千分享.apk](https://www.lanzoul.com/iYeGI1wtm2re)
+
+ - [魔法茅台助手 Ver.2.4.8 会员解锁版@zhou45.apk](https://www.lanzoul.com/i6O7f1wtlxjg)
+
+ - [美团 12.10.200提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/irc3O1wtlq1g)
+
+ - [美团 v12.10.204红米Turbo3内置版@百分之千分享.apk](https://www.lanzoul.com/i2c5b1wtlpcb)
+
+ - [懒人驾考_2.12.8@[65773acb].txt](https://www.lanzoul.com/i07CA1wtlgwh)
+
+ - [酷我音乐 10.8.0.1会员版_辰夕.txt](https://www.lanzoul.com/iELNH1wtkouh)
+
+ - [酷我音乐_10.8.0.0 会员版@[匿名].txt](https://www.lanzoul.com/ieraa1wtkore)
+
+ - [快手 v10.8.30.6592红米Turbo3内置版@百分之千分享.apk](https://www.lanzoul.com/ib3Bq1wtkekh)
+
+ - [快手 10.8.30.6592提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/iGGMF1wtkb3c)
+
+ - [九州TV-v1.3.1@百分之千分享.apk](https://www.lanzoul.com/ijaD01wtjsni)
+
+ - [京东 11.2.3提取版 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/ip7hP1wtjqeh)
+
+ - [头条搜索极速版 v9.4.8.9红米Turbo3内置版@百分之千分享.apk](https://www.lanzoul.com/ik1Wi1wtjkre)
+
+ - [今日头条 提取版9.3.3 华为P70内置@百分之千分享.apk](https://www.lanzoul.com/iEfDV1wtjg6j)
+
+ - [今日头条 v9.3.3红米Turbo3内置版@百分之千分享.apk](https://www.lanzoul.com/i4SXz1wtjc8h)
+
+ - [驾考无忧_1.3.5 SVIP付费版@LWELY.apk](https://www.lanzoul.com/iqqi11wtizta)
+
+ - [抖音 v23.7.2红米Turbo3内置版@百分之千分享.txt](https://www.lanzoul.com/iyhH31wtiv1i)
+
+ - [抖音 23.7.2提取版 华为P70内置@百分之千分享.txt](https://www.lanzoul.com/i3QOQ1wtiuyf)
+
+ - [WPS_Office_v18.9_(1505)_Mod@辰夕.txt](https://www.lanzoul.com/i3Mgz1wths5i)
+
+ - [WPS Office v13.37.0红米Turbo3内置版@百分之千分享.apk](https://www.lanzoul.com/i8U8X1wths2f)
+
+ - [WPS_Office-Premium-v18.9_build_1505-Mod@balatan.txt](https://www.lanzoul.com/iUWdC1wthntc)
+
+ - [TikTokAsia_v34.5.3_@tkjiku_multi.txt](https://www.lanzoul.com/irtqI1wtgufe)
+
+ - [TikTokAsia_v34.5.3_@tkjiku_lite.txt](https://www.lanzoul.com/iGAIg1wtgtng)
+
+ - [TikTok_v34.5.3_@tkjiku_multi.txt](https://www.lanzoul.com/i3aNG1wtgtkd)
+
+ - [TikTok_v34.5.3_@tkjiku_lite.txt](https://www.lanzoul.com/iOQLb1wtgtib)
+
+ - [TikTok Plugin 1.35@Dmitry.apk](https://www.lanzoul.com/ip0Tq1wtgtfi)
+
+ - [TikTokMod-34.5.3-universal@Dmitry.txt](https://www.lanzoul.com/iXZrP1wtgtad)
+
+ - [华数TV-v9.0.1.99@百分之千分享.apk](https://www.lanzoul.com/iSnhL1wtfw9e)
+
+ - [海阔视界_V8.38_C4847_db53-64位.apk](https://www.lanzoul.com/i3MlY1wtfs3e)
+
+
 ## 2024-04-26 更新
 
 
