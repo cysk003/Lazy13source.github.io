@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [拥抱比亲吻更让人心动（建议反复观看）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247851671&idx=1&sn=5919e769de7754c5be90023e3efc23b3&chksm=9fcbb7d3a8bc3ec54f8503813c643949f7a8fb3211acee62d1655dc943fc38b5857bef1bd036#rd) |  [备份查看](/gzh/backup/KnowYourself/拥抱比亲吻更让人心动（建议反复观看）)
+    - 时间：2024-04-29
+    - 摘要：现在立刻马上，去抱一抱身边人~
+- [情绪快要崩掉的时候，是这 7 个小动作稳住了我（做到第二步就会好很多](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247851243&idx=1&sn=5f4eabcda8ea009d393da115e96125d0&chksm=9fcbb5afa8bc3cb97a0921374c8d9b6e6b19b006191ea87da17ec14703f350da456ce8a5002a#rd) |  [备份查看](/gzh/backup/KnowYourself/情绪快要崩掉的时候，是这 7 个小动作稳住了我（做到第二步就会好很多)
+    - 时间：2024-04-28
+    - 摘要：困住你的不是事情，而是情绪。
+
 - [做到这4点，他人的批评就无法伤害到你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247851110&idx=1&sn=497808ace1b28d86fe53380ea83f2708&chksm=9fcbb522a8bc3c344eaf5993e72b9be56b29383c711fef65792af0f1903365789c03469a1228#rd) |  [备份查看](/gzh/backup/KnowYourself/做到这4点，他人的批评就无法伤害到你)
     - 时间：2024-04-27
     - 摘要：你犯过的错误、缺点，都不等于你。

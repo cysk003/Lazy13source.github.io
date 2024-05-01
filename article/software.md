@@ -9,6 +9,14 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-01 更新
+
+ - [实时翻译Real-time-translation-typing3.0.zip](https://www.lanzoui.com/iODlV1x5hw7g)
+
+
+## 2024-04-30 更新
+
+
 ## 2024-04-29 更新
 
  - [小小五笔 yong-2.8.0-0.7z](https://www.lanzoui.com/iugT01wpvbpg)
