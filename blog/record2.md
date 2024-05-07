@@ -17,6 +17,32 @@
 
 ***
 
+- 240507：
+
+  - 240507局外人的视界付费文《五月必看：港股提前走牛，大A也能行了！》
+  
+  - 240507群分享《“弱智吧” 与 “大模型”：怎样像 AI 一样快速进化？》
+  
+  - 240507卢克文星球《取消公摊！房地产被迫良心发现？》
+  
+  - 240507卢克文星球《胖猫事件，女主能受到法律的惩罚吗？》
+  
+  - 240507卢克文星球《布林肯访华，中美大摊牌？》
+  
+  - <details>
+    <summary>更新《240507懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJN9mb0K7ht0djONRuib3Km05ZfV6OaFe0w2LNarQ1U4FC72yRKul3DunvL6nnJVgZSfoVxicvAIc2g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240507懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJN9mb0K7ht0djONRuib3Km0FVkKiacG9RALkeCT7nlLbqR9oSpCug9dajgVYXojBztZq4AN8j7zx9g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240430-240506：
+
+  - 小懒五一回家休息~
+  
 - 240429：
 
   - 240429群分享《企业家的 “网红剧本” 是怎么设计出来的？》
