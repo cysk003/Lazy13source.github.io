@@ -9,6 +9,37 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-03 更新
+
+## 2024-05-06 更新
+
+## 2024-05-07 更新
+
+ - [高德地图 V12.10.61.3021 小米14Pro定制版.apk](https://www.lanzoui.com/iSMkd1xs3hwf)
+
+ - [高德地图-华为Pura_70_Ultra内置版.apk](https://www.lanzoui.com/iVyT91xs3cbe)
+
+ - [雪豹视频_2.1.1.去广告.apk](https://www.lanzoui.com/iKPjZ1xs2m4b)
+
+ - [IKTV_50.0.0_永久免费版_修复USB识别_修复扫码点歌_可正版更新 点歌助手(ZIP).zip](https://www.lanzoui.com/ijZvL1xnuzkd)
+
+ - [WinToHDD Technician_V 5.9 单文件PE版演示.exe](https://www.lanzoui.com/iLBS71xjr5ri)
+
+ - [5.9单文件双版 系统安装利器.exe](https://www.lanzoui.com/iSrkf1xjqu5a)
+
+ - [离线OCR工具-识字精灵1.0.0.2.rar](https://www.lanzoui.com/icpRr1xjql1c)
+
+ - [5.9单文件双版 系统安装利器.exe](https://www.lanzoui.com/iJHiJ1xjq4cb)
+
+ - [央视影音CBox-6.0.0.5单文件版.exe](https://www.lanzoui.com/iWhDY1xjo89a)
+
+ - [我要查题 3.1.apk](https://www.lanzoui.com/iO7GE1xjo3ij)
+
+ - [黄狗五笔输入法 v423.277.exe](https://www.lanzoui.com/ihZeq1xjo11a)
+
+ - [dy助手_1.6.apk](https://www.lanzoui.com/iFtK81xjnn6b)
+
+
 ## 2024-05-02 更新
 
  - [蓝奏云直链解析.zip](https://www.lanzoui.com/ix2dz1xb0yvg)
