@@ -9,6 +9,15 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-02 更新
+
+ - [蓝奏云直链解析.zip](https://www.lanzoui.com/ix2dz1xb0yvg)
+
+ - [抖音福袋_6.5.3.apk](https://www.lanzoui.com/iBDOe1xb0qvi)
+
+ - [喜马拉雅极速版_3.2.69.3_kill.apk](https://www.lanzoui.com/idMrG1xb0kja)
+
+
 ## 2024-05-01 更新
 
  - [实时翻译Real-time-translation-typing3.0.zip](https://www.lanzoui.com/iODlV1x5hw7g)
