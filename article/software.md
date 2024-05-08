@@ -9,6 +9,15 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-08 更新
+
+ - [关闭所有 Windows 扰人广告的免费工具.zip](https://www.lanzoui.com/ifefn1y0bboh)
+
+ - [四川中兴电视盒子ZXV10 B8602.1-T 开二维码 ADB telnet 解第三方app限制 保留IPTV带注册.zip](https://www.lanzoui.com/i2jTm1y0b4ef)
+
+ - [476个电脑美化图标及硬盘图标修改工具.rar](https://www.lanzoui.com/itjdP1y0arkd)
+
+
 ## 2024-05-03 更新
 
 ## 2024-05-06 更新
