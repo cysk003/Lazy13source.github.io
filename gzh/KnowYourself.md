@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [空有想法却难以行动，你不是懒，而是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247852792&idx=1&sn=581c0306fa4ffd397c65cbf908d915a9&chksm=9fcb4bbca8bcc2aa2d796b2f0bffa8af53aaf3a77edd606859bb341d8a36721858eb8508941e#rd) |  [备份查看](/gzh/backup/KnowYourself/空有想法却难以行动，你不是懒，而是——)
+    - 时间：2024-05-08
+    - 摘要：比起迷恋口号，关注具体行为才是改变的根本
+
 
 
 - [9.2分综艺、哲理短篇、好读闲书｜编辑部五一宅家推荐](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247852306&idx=1&sn=bd12bae2bed745c5e4f1e1b2a3e28557&chksm=9fcb4856a8bcc140cb149423324b518e0d442b0b81a6caa4f37fec78499ad9509c5c80ea5723#rd) |  [备份查看](/gzh/backup/KnowYourself/9.2分综艺、哲理短篇、好读闲书｜编辑部五一宅家推荐)
