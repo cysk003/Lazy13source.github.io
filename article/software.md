@@ -9,6 +9,17 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-09 更新
+
+## 2024-05-10 更新
+
+ - [小云天气.rar](https://www.lanzoui.com/iP4n91y771ef)
+
+ - [IKTV_50.0.0_永久免费版_修复USB识别_修复扫码点歌_可正版更新.apk](https://www.lanzoui.com/izr5q1y76wxe)
+
+ - [打印机无响应修复工具.exe](https://www.lanzoui.com/iJexP1y3yfra)
+
+
 ## 2024-05-08 更新
 
  - [关闭所有 Windows 扰人广告的免费工具.zip](https://www.lanzoui.com/ifefn1y0bboh)
