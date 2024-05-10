@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [现在的我们，比以前更需要「菲比精神」｜《老友记》开播 30 年](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247853145&idx=1&sn=170ad9f91e8cdb6c88eff2864805f7f6&chksm=9fcb4d1da8bcc40bdbf6cf26ebfcf3cbee3195e029d93c2651ba69f4b48fb87e5c11258afc81#rd) |  [备份查看](/gzh/backup/KnowYourself/现在的我们，比以前更需要「菲比精神」｜《老友记》开播 30 年)
+    - 时间：2024-05-09
+    - 摘要：很直，很怪，很健康。
+
 - [空有想法却难以行动，你不是懒，而是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247852792&idx=1&sn=581c0306fa4ffd397c65cbf908d915a9&chksm=9fcb4bbca8bcc2aa2d796b2f0bffa8af53aaf3a77edd606859bb341d8a36721858eb8508941e#rd) |  [备份查看](/gzh/backup/KnowYourself/空有想法却难以行动，你不是懒，而是——)
     - 时间：2024-05-08
     - 摘要：比起迷恋口号，关注具体行为才是改变的根本
