@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [原来爱怀旧真的能过得更好](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247853231&idx=1&sn=91d7ba685a8b684183e403565ccaa25f&chksm=9fcb4deba8bcc4fdcf3c2eee2c1ea62274b4a78316956539af72262e9b7a908bd4b7d755d13f#rd) |  [备份查看](/gzh/backup/KnowYourself/原来爱怀旧真的能过得更好)
+    - 时间：2024-05-10
+    - 摘要：「回不去的昨日」正在复苏我的生活。
+
 - [现在的我们，比以前更需要「菲比精神」｜《老友记》开播 30 年](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247853145&idx=1&sn=170ad9f91e8cdb6c88eff2864805f7f6&chksm=9fcb4d1da8bcc40bdbf6cf26ebfcf3cbee3195e029d93c2651ba69f4b48fb87e5c11258afc81#rd) |  [备份查看](/gzh/backup/KnowYourself/现在的我们，比以前更需要「菲比精神」｜《老友记》开播 30 年)
     - 时间：2024-05-09
     - 摘要：很直，很怪，很健康。
