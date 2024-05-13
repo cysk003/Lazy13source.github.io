@@ -9,6 +9,133 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-13 更新
+
+ - [清风DJ车机版 v1.0.9 不适合手机使用.apk](https://www.lanzoui.com/iZlZQ1yilv4f)
+
+ - [清风DJ大屏安卓手机版 v2.9.33.apk](https://www.lanzoui.com/iww2d1yilu3i)
+
+ - [文件快速复制工具5.7.10_x64（绿色版）.7z](https://www.lanzoui.com/iBBT71yerkuh)
+
+ - [文件快速复制工具_x64_V5.7.10（单文件）.zip](https://www.lanzoui.com/iM5Aj1yerkli)
+
+ - [电子发票批量合并打印2024.rar](https://www.lanzoui.com/i2gup1yerd0f)
+
+ - [获取麒麟系统序列号1.0.2-arm64.deb](https://www.lanzoui.com/i6TPs1yer7aj)
+
+ - [获取麒麟系统序列号1.0.2-amd64.deb](https://www.lanzoui.com/iYXoN1yer79i)
+
+ - [关闭win11广告OFGB.exe](https://www.lanzoui.com/ils6H1yeqy4j)
+
+ - [.net8.0.4-win-x64.exe](https://www.lanzoui.com/i65K11yeqy3i)
+
+ - [系统安装器 WinNTSetup v5.3.5 官方绿色版 绿色版.7z](https://www.lanzoui.com/i864R1yeqs8h)
+
+ - [系统安装器 WinNTSetup v5.3.5 单文件版.exe](https://www.lanzoui.com/ixmbW1yeqs7g)
+
+ - [电脑便签 V3.93 X64.zip](https://www.lanzoui.com/it7EQ1yeqnva)
+
+ - [今日水印相机_v3.0.118.4@帝落.txt](https://www.lanzoul.com/iNMXa1yiim4d)
+
+ - [喜马拉雅极速版_3.2.69.3_kill@[SN-69164a91].apk](https://www.lanzoul.com/iMBCL1yiikgd)
+
+ - [99手游_1.6.6 ModVIP版@[MT签名].apk](https://www.lanzoul.com/itGs11yiii9e)
+
+ - [Reface_v4.10.0_403_PRO_iHackedit.com@derrin.apk](https://www.lanzoul.com/iANBT1yi9vrg)
+
+ - [有道云笔记 7.4.361会员版_坤坤.txt](https://www.lanzoul.com/ior2t1yi9kjc)
+
+ - [小红书 8.33.0去广告去水印版_坤坤.txt](https://www.lanzoul.com/ivWXt1yi9g3c)
+
+ - [小红书 8.33.0-内置猪手1.2.4模块.txt](https://www.lanzoul.com/iOYep1yi9g2b)
+
+ - [红薯猪手 1.2.4-(29-20240501)xp模块.apk](https://www.lanzoul.com/iEynQ1yi8fwj)
+
+ - [喜马拉雅极速版 3.2.69.3会员版@小二.apk](https://www.lanzoul.com/iPc5B1yi8e2d)
+
+ - [微商助手 3.2.8会员版_青帝.txt](https://www.lanzoul.com/i73Hn1yi88sd)
+
+ - [微商助手 3.2.8 会员版_zhou45.apk](https://www.lanzoul.com/if7B51yi85mj)
+
+ - [微粉大师 2.2.3 会员版_zhou45.apk](https://www.lanzoul.com/i4Zyo1yi805c)
+
+ - [微博 14.4.3-内置猪手2.2.9-274模块.txt](https://www.lanzoul.com/irpCO1yi7qmj)
+
+ - [微博 14.4.2-内置猪手2.2.9-274模块.txt](https://www.lanzoul.com/ibRPO1yi7qli)
+
+ - [微博 14.4.2-内置猪手2.2.9-272模块.txt](https://www.lanzoul.com/iteXj1yi7qkh)
+
+ - [微博猪手 2.2.9-(274-20240427)xp模块.apk](https://www.lanzoul.com/iRVNd1yi789i)
+
+ - [微博猪手 2.2.9-(272-20240424)xp模块.apk](https://www.lanzoul.com/iQksZ1yi788h)
+
+ - [七猫免费小说 7.48会员版(华为专版)_喜凤.apk](https://www.lanzoul.com/iCsww1yi73ba)
+
+ - [七猫免费小说 7.48会员版_喜凤.apk](https://www.lanzoul.com/ikppz1yi6zte)
+
+ - [墨迹天气 9.0864.02会员版_LWELY.apk](https://www.lanzoul.com/iTV4i1yi6tih)
+
+ - [墨迹天气 9.0863.05会员版_喜凤.txt](https://www.lanzoul.com/izGhV1yi6reb)
+
+ - [梨园行戏曲 3.0.2会员版_LWELY.apk](https://www.lanzoul.com/iu1Er1yi6iib)
+
+ - [今日头条 9.4.8.9去广告版_LWELY.apk](https://www.lanzoul.com/iAfwC1yi6bvc)
+
+ - [Tik-Tok_v34.5.5解锁限制-多语言-含配套插件.txt](https://www.lanzoul.com/iDNye1yi67eb)
+
+ - [Tik-Tok_v34.5.4解锁限制-多语言-含配套插件.txt](https://www.lanzoul.com/iOs6b1yi67da)
+
+ - [X-plore文件管理 4.37.25优化版_LWELY.apk](https://www.lanzoul.com/iUJgC1yi623a)
+
+ - [WiFi万能钥匙 5.0.9会员版_LWELY.apk](https://www.lanzoul.com/iN2v41yi5zed)
+
+ - [WiFi万能钥匙 5.0.10会员版_LWELY.apk](https://www.lanzoul.com/iLOoE1yi5y0d)
+
+ - [PS海报设计 2.7.3会员版_LWELY.apk](https://www.lanzoul.com/iVPl11yi5uhg)
+
+ - [IDM_v6.42.9绿色特别版_zd423.exe](https://www.lanzoul.com/iRs9S1yi57sj)
+
+ - [忧酷视频 华为深度定制版 v11.0.77.apk](https://www.lanzoul.com/id9H41yhzn3e)
+
+ - [讯飞输入法 小米电视定制版 v6.0.2649.apk](https://www.lanzoul.com/i0wCR1yhzj0h)
+
+ - [网易云音乐 荣耀定制版 v1.3.40.apk](https://www.lanzoul.com/iqM9S1yhzi6h)
+
+ - [淘宝 OPPO 定制版 v10.35.10.apk](https://www.lanzoul.com/iKMgk1yhzfjc)
+
+ - [拼多多 官方内部版 v7.7.0.apk](https://www.lanzoul.com/iPNIs1yhzcqb)
+
+ - [QQ音乐 小米定制版 v4.24.0.2.txt](https://www.lanzoul.com/ixH7s1yhzasb)
+
+ - [QQ音乐 魅族定制版 v11.2.4.txt](https://www.lanzoul.com/igcBE1yhzapi)
+
+ - [百度文库下载.exe](https://www.lanzoul.com/iCsEW1yhz7xi)
+
+ - [XX文库下载器1.0.zip](https://www.lanzoul.com/iltC01yhz6ze)
+
+ - [WPS Office 小米深度定制版 v3.7.0.apk](https://www.lanzoul.com/iNq9Z1yhz5dg)
+
+ - [360清理ProSysCleanPro.zip](https://www.lanzoul.com/i9K4P1yhz48f)
+
+ - [哔哩哔哩_7.75.0_V3_2405041@msm8976.txt](https://www.lanzoul.com/iTzQW1yhy1sb)
+
+ - [哔哩哔哩_7.75.0_V2_2405031@msm8976.txt](https://www.lanzoul.com/imoAO1yhy1ra)
+
+ - [哔哩哔哩_7.75.0_V1_2405021@msm8976.txt](https://www.lanzoul.com/ilEvx1yhy1pi)
+
+ - [Bili-v7.77.0-patched1.20.3@BBShow.txt](https://www.lanzoul.com/iqBoA1yhy1ad)
+
+ - [BiliPlay-v3.19.0-patched1.20.3@BBShow.txt](https://www.lanzoul.com/i7Tya1yhy19c)
+
+ - [BiliHD-v1.46.0-patched1.20.3@BBShow.apk](https://www.lanzoul.com/ibY8L1yhy17a)
+
+ - [[LSPatch]Bilibili-HD-1.46.1-b14761190-漫游e3c23ff223.apk](https://www.lanzoul.com/igamM1yhxwyh)
+
+ - [[LSPatch]Bilibili-HD-1.46.0-b14270523-漫游e3c23ff223.apk](https://www.lanzoul.com/iiX201yhxsih)
+
+ - [[LSPatch]Bilibili-Blue-7.78.0-b14745274-漫游e3c23ff223.txt](https://www.lanzoul.com/iIskR1yhxk8j)
+
+
 ## 2024-05-09 更新
 
 ## 2024-05-10 更新
