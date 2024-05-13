@@ -123,7 +123,7 @@
 
 ## 其他AI工具
 
-- [万知（AI生成PPT，效果不错）](https://www.wanzhi.com/)| 介绍看推文，截止推文时免费使用
+- [万知（AI生成PPT，效果不错）](https://www.wanzhi.com/)| [介绍看推文，截止推文时免费使用](https://mp.weixin.qq.com/s/Yc4UJ_5db_JYNAg5FaHlOg)
 
 - [AIPPT（AI一键生成高质量PPT／免费体验）👍](https://www.aippt.cn/)
 
