@@ -17,6 +17,24 @@
 
 ***
 
+- 240514：
+
+  - 240514群分享《怎样成为“征服市场的人”？》
+  
+  - 240514卢克文星球《绍伊古被明升暗降，普京要干什么？》
+  
+  - 《征服市场的人》豆瓣7.6（多格式电子书）
+  
+  - <details>
+    <summary>更新《240507懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/RDnsI9KkLHViaxXMj0HzjMjpfZ6p16ZmCD2aIJmtR7DfTGqkebz12Nu9odvNoicObaDta13pIxaeD0lI9CSC6BLw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240507懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/RDnsI9KkLHViaxXMj0HzjMjpfZ6p16ZmCwOV5Kc7nMzMglV6Ojnmwib0zOVG301jNjcyxicN8ibjvUznvxGhbThyaQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240513：
 
   - 得到新书《新质生产力：中国创新发展的着力点与内在逻辑》
