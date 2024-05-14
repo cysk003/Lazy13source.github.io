@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-14 更新
+
+ - [电脑输入法删除工具.exe](https://www.lanzoui.com/iof8Z1ym00wf)
+
+ - [martplayer990-8071-tup超市播音系统.zip](https://www.lanzoui.com/iAWKS1ylzxoj)
+
+
 ## 2024-05-13 更新
 
  - [清风DJ车机版 v1.0.9 不适合手机使用.apk](https://www.lanzoui.com/iZlZQ1yilv4f)
