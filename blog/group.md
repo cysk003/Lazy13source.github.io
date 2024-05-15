@@ -12,7 +12,7 @@
 
 👍懒人专属最新的[更新记录点击跳转](/blog/record2)
 
-👍进群后[资源介绍和分布查看这篇文章](https://mp.weixin.qq.com/s/XAHDpC5DhhDCX5efugMORg)
+👍进群后[资源介绍和分布查看这篇文章](https://mp.weixin.qq.com/s/swgQgwJ1qhy0MBqWUZya2Q)
 
 - [专属群历史文档备份目录](https://lazybook.fun/#/blog/record3)
 
@@ -22,10 +22,10 @@
 
 1. 每周两份周报：
 
-   - 周二《懒人生财周报》，来源年费3000多的生财社群。[生财专栏点击查看](/article/money_col)。
+   - 周二《懒人生财周报》，来源年费3000多的生财社群。第八季精华文档同步更新中。
 
    - 周五《懒人专属群周报》，来源懒人付费订阅和精心整理的各类文章和课程
-2. **懒人找资源**付费文章免费查看，小懒自制的精美电子书分享。
+2. 群共享资源免费查看，小懒自制的精美电子书分享。
 3. 公众号分享过的全部软件资源，进群即可下载懒人整理分享过的三千份精品文档（[点击 查看目录](/blog/record3)）
 4. 《[懒人专属群通才计划](/data/13_course)》（点击跳转）：懒人自制文档和付费课程分享（含在线版和离线精美电子书）
 
@@ -49,6 +49,6 @@
 
 真正需要的直接添加小懒（微信号：**lazyhelper**）咨询，付费进群
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/Rmd3GnW8BRu4krRTu0icUOic3FUSvBkg2uvKV0m0FgmJf9eibe9yibwafAkbC9D16Rz5jegLMDDDiabNNmXyvv3Z8ng/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKM05FRhtNu3vQpdIiaHlobNqkZuLCpQH2qWwLAT9dz8Y1exoM5HolgEtgaNxE7lYRRolKgCia5fkiaw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 希望懒人群可以成为一个共同成长的社群，非诚勿扰~
