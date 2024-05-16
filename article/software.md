@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-16 更新
+
+ - [WPS免登录一键修改器V2024.5.14.zip](https://www.lanzoui.com/i8dtO1ytie3a)
+
+ - [爱奇艺极速版_4.5.10_去广告版.apk](https://www.lanzoui.com/iRGLO1ythzna)
+
+
 ## 2024-05-15 更新
 
 
