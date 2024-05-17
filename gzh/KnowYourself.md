@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [「你居然还有这一面！」｜我们的人格，至少都有三个层次](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247854936&idx=1&sn=a2df1a27ffca798dc9398703c5ccfa91&chksm=9fcb421ca8bccb0a598b7744de7276acabbb7fc8d09bfd4dbd359037eb6e3f6cc9be80e415e9#rd) |  [备份查看](/gzh/backup/KnowYourself/「你居然还有这一面！」｜我们的人格，至少都有三个层次)
+    - 时间：2024-05-16
+    - 摘要：我的人生，层层精妙。
+- [做到高管仍被骂“疯女人”，职场女性会经历哪些污名化？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247854676&idx=1&sn=e9ca2311ce640c91f3d48fb171af8bf0&chksm=9fcb4310a8bcca06c531039268fd336119e24a7a15f01c0310f4e599a1e130406668c9ac38f1#rd) |  [备份查看](/gzh/backup/KnowYourself/做到高管仍被骂“疯女人”，职场女性会经历哪些污名化？)
+    - 时间：2024-05-15
+    - 摘要：拒绝污名化，是为了每一个职场人。
+
 
 - [为什么说「momo」们，可能都很孤独？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247854602&idx=1&sn=2839568026f509ec1f9870ed4846a3d9&chksm=9fcb434ea8bcca58d9bbde3cccbdfd6ff6b22e401aa5a48450d869043521706cf1a9096e4c12#rd) |  [备份查看](/gzh/backup/KnowYourself/为什么说「momo」们，可能都很孤独？)
     - 时间：2024-05-14

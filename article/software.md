@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-17 更新
+
+ - [打印机共享修复三件套.rar](https://www.lanzoui.com/is8Fa1yxjyqd)
+
+
 ## 2024-05-16 更新
 
  - [WPS免登录一键修改器V2024.5.14.zip](https://www.lanzoui.com/i8dtO1ytie3a)
