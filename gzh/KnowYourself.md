@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [会谈恋爱究竟是一种什么样的能力？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247855497&idx=2&sn=d7107b4fe4f6500a1c820152188cb375&chksm=9fcb44cda8bccddb6900cc1e10012bc3c86d32ce0f37df7288785f4c08a5359e22f9546aab3b#rd) |  [备份查看](/gzh/backup/KnowYourself/会谈恋爱究竟是一种什么样的能力？)
+    - 时间：2024-05-18
+    - 摘要：哲学家阿兰·巴迪欧：爱是一种持之以恒的建构。
+- [这个被认为很不靠谱的思维方式，在关键时候超好用](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247855448&idx=1&sn=e4dbecbd6149d4961f530a4ad170b8dd&chksm=9fcb441ca8bccd0adfbd681c9220befb699faa77b54ff5c84dcdd61d1f3ca35ca94f7d12457d#rd) |  [备份查看](/gzh/backup/KnowYourself/这个被认为很不靠谱的思维方式，在关键时候超好用)
+    - 时间：2024-05-17
+    - 摘要：它被误会了好久。
+
 - [「你居然还有这一面！」｜我们的人格，至少都有三个层次](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247854936&idx=1&sn=a2df1a27ffca798dc9398703c5ccfa91&chksm=9fcb421ca8bccb0a598b7744de7276acabbb7fc8d09bfd4dbd359037eb6e3f6cc9be80e415e9#rd) |  [备份查看](/gzh/backup/KnowYourself/「你居然还有这一面！」｜我们的人格，至少都有三个层次)
     - 时间：2024-05-16
     - 摘要：我的人生，层层精妙。

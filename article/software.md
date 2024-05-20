@@ -9,6 +9,29 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-20 更新
+
+ - [单文件制作工具 7.0.2.3851_x86_x64.zip](https://www.lanzoui.com/iSNl81z6z2ch)
+
+ - [音乐格式转换全能工具um-web.legacy.v1.10.6.zip](https://www.lanzoui.com/i5zgs1z6xyoj)
+
+ - [IKTV_50.0.4_永久免费版_修复USB识别_修复扫码点歌_可正版更新 点歌助手(ZIP).zip](https://www.lanzoui.com/i9Qb61z6xkxe)
+
+ - [音乐识别 v13.0_专业版.apk](https://www.lanzoui.com/iKbSv1z6xc7a)
+
+ - [WinRAR 7.01简体中文汉化版【含x86_x64_2in1】.zip](https://www.lanzoui.com/iOrRa1z3y2ta)
+
+ - [YUYU助手v1.9.exe](https://www.lanzoui.com/iFyCu1z0tgxa)
+
+ - [华为手机助手去更新.7z](https://www.lanzoui.com/iRSTB1z0l1ti)
+
+ - [华为手机助手去更新免安装版.7z](https://www.lanzoui.com/iJ2gx1z0l0kd)
+
+ - [华为手机助手去更新安装版_9.1.0.309.exe](https://www.lanzoui.com/iwlV01z0kypg)
+
+ - [HarmonyOS一键优化 吾爱版.zip](https://www.lanzoui.com/ixyLe1z0k9md)
+
+
 ## 2024-05-17 更新
 
  - [打印机共享修复三件套.rar](https://www.lanzoui.com/is8Fa1yxjyqd)
