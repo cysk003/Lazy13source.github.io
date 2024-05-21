@@ -17,6 +17,26 @@
 
 ***
 
+- 240521：
+
+  - <details>
+    <summary>更新《240521懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKWF59EgGA2dPxnogg9O87mbhbrSjlsI8brIc0ugjNzlJ3BGNibbrxRK5ibjDc6rQHbRF1hibqtnjX0g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240521懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKWF59EgGA2dPxnogg9O87mvX2RANeupoAq5vHZf4EjOicAwzQL1Cmy0ZMhNHefYIfN343P1JnXoicw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 240521守夜人总司令《全面放开是政策核弹？！》
+  
+  - 240521群分享《中国“河豚之乡”，是怎样练成的？》
+  
+  - 240521卢克文星球《关于福建号首次海试那些事儿（上）》
+  
+  - 240521卢克文星球《新加坡：一个岛国的生存之道》
+  
 - 230520：
 
   - 240520卢克文星球《拜登搞个美日韩同盟，把自己搞成拜振华？》

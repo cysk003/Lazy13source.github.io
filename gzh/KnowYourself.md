@@ -14,6 +14,7 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+
 - [会谈恋爱究竟是一种什么样的能力？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247855497&idx=2&sn=d7107b4fe4f6500a1c820152188cb375&chksm=9fcb44cda8bccddb6900cc1e10012bc3c86d32ce0f37df7288785f4c08a5359e22f9546aab3b#rd) |  [备份查看](/gzh/backup/KnowYourself/会谈恋爱究竟是一种什么样的能力？)
     - 时间：2024-05-18
     - 摘要：哲学家阿兰·巴迪欧：爱是一种持之以恒的建构。
