@@ -17,26 +17,37 @@
 
 ***
 
+- 240523:
+  - 更新199元付费课程《吴军·逻辑思维训练50讲》，已加入《[通才计划课程](/data/13_course)》
+  - 240523群分享《世界B级片之王：怎样在“大俗”中完成创新？》
+  - 240523卢克文星球《关于福建号首次海试那些事儿（下）》
+- 240522:
+  - 240522子明戏说三国（5）诸葛亮《出师表》的秘密
+  - 240522子明戏说三国（3）蜀汉为何不著史？
+  - 240522群分享《一款“剩菜盲盒”，怎样做出情绪价值？》
+  - 240522卢克文星球《伊朗总统坠机身亡，世界要乱了？》
+  - 240522卢克文星球《关于福建号首次海试那些事儿（中）》
+
 - 240521：
 
   - <details>
     <summary>更新《240521懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKWF59EgGA2dPxnogg9O87mbhbrSjlsI8brIc0ugjNzlJ3BGNibbrxRK5ibjDc6rQHbRF1hibqtnjX0g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240521懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKWF59EgGA2dPxnogg9O87mvX2RANeupoAq5vHZf4EjOicAwzQL1Cmy0ZMhNHefYIfN343P1JnXoicw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 240521守夜人总司令《全面放开是政策核弹？！》
-  
+
   - 240521群分享《中国“河豚之乡”，是怎样练成的？》
-  
+
   - 240521卢克文星球《关于福建号首次海试那些事儿（上）》
-  
+
   - 240521卢克文星球《新加坡：一个岛国的生存之道》
-  
+
 - 230520：
 
   - 240520卢克文星球《拜登搞个美日韩同盟，把自己搞成拜振华？》
@@ -46,15 +57,15 @@
   - 240520生财精华《生财思维让我一天之内跑通mvp，小红书引流雅思督学成交四位数》
   - 240520生财精华《怎么快速在小红书上铺1000篇笔记》
   - 240520生财精华《LBS即时零售--美团闪电仓通过差异化供给强时效性，解决供需错配实现单店利润3-10万-月》
-  
+
   - 240520生财精华《如何用一年时间打造一支12人年营收600w的婚恋团队？》
-  
+
 - 240517：
 
   - 240517群分享《情绪排毒：中年男人为何“痴迷”钓鱼？》
   - 240517卢克文星球《斯洛伐克总理遇刺，幕后黑手是谁？》
   - 懒人专属群周报（第82期）
-  
+
 - 240516：
 
   - 240516生财精华《2024巴菲特股东大会：减持苹果的原因，明年美政府巨变》
@@ -62,7 +73,7 @@
   - 240516卢克文星球《后普京时代开启，俄罗斯未来会怎样？》
   - 万物皆模型之《孙子兵法》72篇
   - 万物皆模型《三十六计》完整版
-  
+
 - 240515：
 
   - 240515卢克文星球《椰树“擦边”再次被罚，背后似乎大有文章？》
@@ -70,25 +81,25 @@
   - 240515群分享《科幻级大模型发布，与AI“交个朋友”？》
   - 240515生财精华《抖音水行业的运营拆解【适合流量团队的长线项目】》
   - 240515生财精华《比底线高一点点好不好？》
-  
+
 - 240514：
 
   - 240514群分享《怎样成为“征服市场的人”？》
-  
+
   - 240514卢克文星球《绍伊古被明升暗降，普京要干什么？》
-  
+
   - 《征服市场的人》豆瓣7.6（多格式电子书）
-  
+
   - <details>
     <summary>更新《240507懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/RDnsI9KkLHViaxXMj0HzjMjpfZ6p16ZmCD2aIJmtR7DfTGqkebz12Nu9odvNoicObaDta13pIxaeD0lI9CSC6BLw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240507懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/RDnsI9KkLHViaxXMj0HzjMjpfZ6p16ZmCwOV5Kc7nMzMglV6Ojnmwib0zOVG301jNjcyxicN8ibjvUznvxGhbThyaQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240513：
 
   - 得到新书《新质生产力：中国创新发展的着力点与内在逻辑》
@@ -96,13 +107,13 @@
   - 240513群分享《新质生产力：从“新答案”到“新卷子”》
   - 240513卢克文星球《ST美尚公开承认造假，给散户什么警示？》
   - 财新周刊第19期
-  
+
 - 240511：
 
   - 240511群分享《周鸿祎，是怎么成为 “车圈 C 位” 的？》
   - 240511群分享《县城旅游，是怎么成为“五一”赢家的？》
   - 240511卢克文星球《中方连访欧洲三国，达成了哪些成果？》
-  
+
 - 240510:
 
   - 240510卢克文星球《缅北歼灭克钦军三个营，是真的吗？》
@@ -112,7 +123,7 @@
   - 240510生财精华《新手如何做读书写作博主，一年多涨粉4.4万，变现二十多万？》
   - 240510群分享《导演陆川：当你 “拼命搞钱” 时，能收获什么？》
   - 240510记忆承载付费文《如何一步一步成为投资人？》
-  
+
 - 240509:
 
   - 240509卢克文星球《阿根廷天团访华，米莱到底作何打算？》
@@ -120,139 +131,139 @@
   - 240509群分享《华强北往事：山寨、雄心与创新启示》
   - 240509群分享《巴菲特 2024 股东大会：能学什么？不能学什么？》
   - 240509守夜人司令付费文《公共服务涨价！》
-  
+
 - 240508:
 
   - 240508卢克文星球《某音狂推外国美女，是怎么回事？》
   - 240508群分享《怎样抓住生活中的 “关键 15 秒”？》
-  
+
 - 240507：
 
   - 240507局外人的视界付费文《五月必看：港股提前走牛，大A也能行了！》
-  
+
   - 240507群分享《“弱智吧” 与 “大模型”：怎样像 AI 一样快速进化？》
-  
+
   - 240507卢克文星球《取消公摊！房地产被迫良心发现？》
-  
+
   - 240507卢克文星球《胖猫事件，女主能受到法律的惩罚吗？》
-  
+
   - 240507卢克文星球《布林肯访华，中美大摊牌？》
-  
+
   - <details>
     <summary>更新《240507懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJN9mb0K7ht0djONRuib3Km05ZfV6OaFe0w2LNarQ1U4FC72yRKul3DunvL6nnJVgZSfoVxicvAIc2g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240507懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJN9mb0K7ht0djONRuib3Km0FVkKiacG9RALkeCT7nlLbqR9oSpCug9dajgVYXojBztZq4AN8j7zx9g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240430-240506：
 
   - 小懒五一回家休息~
-  
+
 - 240429：
 
   - 240429群分享《企业家的 “网红剧本” 是怎么设计出来的？》
   - 240429卢克文星球《镇压抗议大学生，美国在担心什么？》
-  
+
 - 240428：
 
   - 240428卢克文星球《上百名校学子被捕，美高校“反犹风波”越闹越大》
   - 240428卢克文星球《欧美为什么拒绝不了大麻？》
-  
+
 - 240426：
 
   - 240426卢克文星球《内蒙古阻挠耕地事件，真相到底如何？》
   - 240426群分享《到场力：“996之父”眼中的“996哲学”》
   - 更新懒人专属群周报（第80期）
   - 更新《吴军·逻辑思维训练50讲》
-  
+
 - 240425：
 
   - 240425守夜人总司令觉悟社《针锋相对》
   - 240425专属群分享《脆弱的力量：怎样让情绪 “绝对稳定”？》
   - 240425卢克文星球《美国发起301调查，剑锋直指中国造船业？》
   - 240425专属群分享《几万人都在看的台剧，豆瓣 9.0》
-  
+
 - 240424:
 
   - 240424卢克文星球《成都重庆等多地燃气费暴涨，背后是人性的恶么？》
   - 240424觉悟社问答《做好至少5年的打算》
   - 240424专属群分享《“既穷又富”的年轻人，都是怎么花钱的？》
   - 240424西风付费文《改变命运，指望胜天半子，不如女人四招》
-  
+
 - 240423：
 
   - 240423群分享《怎样读书，才算对得起自己？》
-  
+
   - 240423卢克文星球《如何看待“信息支援部队成立”？》
-  
+
   - <details>
     <summary>更新《240423懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK2ibTXQULN0vekg0Md2szibFic6TQrxqW0nltHXU7kS4kTCtAHVRW9ibLdOt7QcicBxoxlHr10pwTiceRw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240416懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK2ibTXQULN0vekg0Md2szibFb6icaiayNXrXNP95xoYkJ41cCyAOn3MVNiaKfiaVo4ORDMmcQKNsljmywQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240422:
 
   - 240422卢克文星球《一季度GDP增长5.3%，如何解读？》
   - 240422群分享《减肥市场，还有哪些想象空间？》
   - 240422卢克文星球《全球经济动荡下，美国经济到底行不行？》
-  
+
 - 240419：
 
   - 更新懒人专属群周报第79期
   - 240419群分享《怎样用 “吃” 来提升幸福感？》
   - 240419卢克文星球《美军在菲部署中程导弹，菲律宾为什么跳这么高？》
-  
+
 - 240418：
 
   - 240418群分享《2024 年的 100 个趋势：“诗意躺平” 与 “百岁期货”》
   - 240418九边《中东乱局会演变成第三赛季吗？》
   - 《亦仁百问百答》生财有术星球问答_2017-2024合集
-  
+
 - 240417：
 
   - 更新生财3月大航海2024（完美样式）
   - 240417卢克文星球《党政代表团访问朝鲜，背后暗藏玄机？》
   - 240417专属群分享《成功背面：怎样提升你的 “容错力”？》
-  
+
 - 240416：
 
   - 240416群分享《掼蛋和马面裙，都是怎么火的？》
-  
+
   - 240416卢克文星球《新“国九条”的发布，牛市到来的前奏？》
-  
+
   - <details>
     <summary>更新《240416懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIvDsgFWeyHuD2CibibKbUW889LY2AcNyZAicPYwkhKKISnIiabIg1y7Lq2q19jELOSJ4O5oPfTm46mXg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
     <details>
     <summary>更新《240416懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIvDsgFWeyHuD2CibibKbUW88PkMd0AMexJ8Ge30tWz9DjACIWpl0h8XX0GlULbxjyasnVNSrdSAtZA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240415：
 
   - 240415卢克文星球《国会选举惨败，尹锡悦会不会被弹劾下台？》
   - 240415专属群分享《公园 20 分钟效应：怎样获得高级的松弛感？》
   - 240415咩咩说付费文《认真学习》
   - 240415顾子明付费文《开启十年新周期的《国九条》》
-  
+
 - 240412：
 
   - 240412卢克文星球《昆明“根浴治疗”背后，可不止那点事》
   - 240412群分享《阿里 “折腾的”400 天：聚焦、反思与方向》
   - 更新《懒人专属群周报》第78期
   - 更新《吴军·逻辑思维训练50讲》
-  
+
 - 240411:
 
   - 240411西风付费文《十年后的终局是什么？》
@@ -260,35 +271,35 @@
   - 《亦仁百问百答》——生财有术星球问答_2017-2024合集
   - 240411群分享《格雷厄姆给中学生的创业三板斧》
   - 更新生财大航海24年3月
-  
+
 - 240410：
 
   - 240410司令付费文《烂掉的白月光！》
   - 240410九边文章《快要当老赖了，还有救吗？》
   - 240410群分享《器官移植新进展：猪是怎么成为 “救世主” 的？》
   - 240410卢克文星球《男孩想当行长，背后是县城“婆罗门”？》
-  
+
 - 240409：
 
   - 240409卢克文星球《预算10万亿，转移支付到底是什么？》
-  
+
   - 240409专属群分享《邻近可能：怎样完成一次近处的创新？》
-  
+
   - <details>
     <summary>更新《240409懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKSpj94pbnPPyCMwd4QeUmgAfoogdYQ0Ul3icq5ecz1icibapibyRX713wxL0ricOeTIrUlL0pcXF7ojoA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240409懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKSpj94pbnPPyCMwd4QeUmg2sjtzFXzspUqfCf8q6bT11YwB34sES5ic9HCcyp9CicFCj55t1ohx7xw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240408：
 
   - 240408卢克文星球《耶伦访华，具体谈了什么？》
   - 240408群分享《“泼天的富贵”，下一个轮到谁？》
-  
+
 - 240407:
 
   - 240407专属群分享《美味的科学：为什么樱花味的东西普遍 “不好吃”？》
@@ -299,36 +310,36 @@
   - 240407灏泽神棍付费文《刻入骨髓的天机 警告，本文向你揭露了 “普通人的翻身路” 这件通天大事》
   - 240405群分享（5000字）创始人CEO怎么理解雷军
   - 愚公掘金精华电子书·第一期 ，第二期，第三期，第四期
-  
+
 - 240403:
 
   - 240403卢克文星球《ASML要离开荷兰，是怎么回事？》
   - 240403群分享《小米汽车：怎样磨炼你的 “肘后技能”？》
   - 240403局外人的视界付费文《四月必看》
-  
+
 - 240402：
 
   - 240402群分享《来自“能源圣杯”首席科学家的三个行动建议》
-  
+
   - 240402卢克文星球《中东资本看中的，只是万达么？》
-  
+
   - <details>
     <summary>更新《240402懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIGw6ibtIHvzOa4Y6LrqVAQeficLotfnSSlRgSB2qogFdOgaWYVX52HF7NEicDdTA2ZF5xYyiaUdVBfvQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240402懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIGw6ibtIHvzOa4Y6LrqVAQe3qewE6ZFicm9Zxtegcall3dM1YFrcctPicdeldibeELAIn37tVcEo8Klw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240401：
 
   - 240401卢克文星球《日本和朝鲜，谈崩了》
   - 240401群分享《GPT 时代，怎样不拖孩子的后腿？》
   - 240401NEO付费文《破美元者，黄金：推动黄金上涨，会远比“人造股票牛市”好得多》
   - 240401极限之外付费文《炒房遇到通缩与M2在膨胀》
-  
+
 - 240329:
 
   - 240329卢克文星球《小米su7正式上市，能在“红海”闯出一片天吗？》
@@ -336,28 +347,28 @@
   - 240329群分享《丹尼尔 · 卡尼曼：请珍惜你的 “自我怀疑”》
   - 240329卢克文星球《菲律宾，美国撬动东盟的一张牌》
   - 240328群分享《非盲安慰剂：“自我暗示”是怎么产生的》
-  
+
 - 240327：
 
   - 240327群分享《久石让：怎样创造你的 “顿悟时刻”？》
   - 240327卢克文星球《恒大被重罚后，普华永道被调查？》
-  
+
 - 240326：
 
   - 240326群分享《聚焦 “新质生产力”，理解 2024 的中国经济》
-  
+
   - 更新《财新周刊》第12期
-  
+
   - <details>
     <summary>更新《240326懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIiaeCaKxmTrHbhPmXK7k9z0kTrOxjc21Z5A51icBuPoc8dytInsd5oXWibFEayOMU0oghvSlN0XRVvw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240326懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIiaeCaKxmTrHbhPmXK7k9z0ZgdKVEpc6zXQ4icJUCPj6RqdnibFUjxY5vrl9bggKZT1kuves94PEg6A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240325：
 
   - 240325屠龙有术《解密社会中升官发财的经济学规律》
@@ -368,50 +379,50 @@
   - 240324记忆承载付费文《男人女人，从今往后，没人领导客户能拒绝你》
   - 240325卢克文星球《少年杀人案，背后是惩戒制度的缺失？》
   - 240325卢克文星球《莫斯科恐袭的谜局与真相》
-  
+
 - 240322:
 
   - 240322卢克文星球《武文赏辞职，越南政坛巨变的前菜？》
   - 240322群分享《为什么很多人的减肥终点，是反弹？》
   - 更新第75期《懒人专属群周报》，周报内连载《吴军·逻辑思维训练50讲》，完结后会整理成电子书
   - 更新99元付费课程《徐弃郁·德国简史30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240321:
 
   - 240321卢克文星球《日本开启加息，谁将最先被收割？》
   - 240321群分享《国际幸福日：让明天幸福的关键，是赞美昨天》
-  
+
 - 240320：
 
   - 240320群分享《AI 情绪赛道：“更笨” 的机器人有什么用？》
   - 更新99元付费课程《刘澜·领导力30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240319:
 
   - <details>
     <summary>更新《240319懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKI3LpC4OgHgFCjD89ytlkqFHft3ibhpiaTPdn0R9rPmQTcUusu9BtYlBkOxDyUSMFggz5QVsv7S3GQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240319懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKI3LpC4OgHgFCjD89ytlkqrAv0FX3O0qyc5z6ojR38bLXKa9zh24yJtrDWvMDYKeiavZwNpurGUnQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 240319群分享《黄仁勋：怎样找到你的 “未来指标”？》
-  
+
   - 240319群分享《财富篇—01、重塑关于财富的22条认知》
-  
+
   - 240319挨踢牛魔王《有些人一看就根本不会做生意》
-  
+
   - 240319卢克文星球《突然走红的天水，能否复制淄博和哈尔滨的成功？》
-  
+
 - 240318：
 
   - 240318群分享《悦己经济学：演唱会怎样成为 “行走的 GDP”？》
   - 240318卢克文星球《三个关键点，解读什么是“新质生产力”？》
   - 更新《财新周刊》2024第11期
-  
+
 - 240315：
 
   - 240315群分享《哈佛世纪研究：何为幸福生活？》

@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《吴军·逻辑思维训练50讲》
+
+  - 标签：`#思维`，`#学习`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNLHHqnA9xlibw2uQrNpUdeicyickjG63chbuKXYTOooEpRo1icmqejjRDibqSLpvY5DkCweAUPaZCLIp4g/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《刘澜·领导力30讲》
 
   - 标签：`#职场`，`#学习`

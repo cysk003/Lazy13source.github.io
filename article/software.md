@@ -9,6 +9,114 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-23 更新
+
+ - [油猴浏览器68.1.2电脑版）安装包.zip](https://www.lanzoui.com/i6wKm1zgyk6d)
+
+
+## 2024-05-22 更新
+
+ - [ventoy-1.0.98-windows.zip](https://www.lanzoui.com/idpgx1zdfmuh)
+
+ - [ventoy-1.0.98-linux.tar.gz](https://www.lanzoui.com/ifx2e1zdfkpa)
+
+ - [sha256.txt](https://www.lanzoui.com/ipvYs1zdfj3c)
+
+ - [360SE-15.3.2065.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/iX2VJ1zcn6sb)
+
+ - [雷电模拟器9(64)-v9.0.72-去广告绿色版@zd423.txt](https://www.lanzoul.com/isU7z1zcn0wj)
+
+ - [腾讯视频-v11.94.3316.0-去广告绿版@zd423.exe](https://www.lanzoul.com/i0YSe1zcmxih)
+
+ - [搜狗输入法v14.4.0.9347去广告精简优化版@zd423.exe](https://www.lanzoul.com/iYurK1zcmpvc)
+
+ - [РotРlayer-240509(1.7.22232)-x64-Stable.exe](https://www.lanzoul.com/iGt5W1zcmjyj)
+
+ - [WPS Office 2024_12.1.0.16929_mefcl_Setup.txt](https://www.lanzoul.com/ilwVO1zcmdih)
+
+ - [WPS Office ProPlus_12.8.2.15091_Vba_mefcl_Setup.txt](https://www.lanzoul.com/iVLd21zcmdhg)
+
+ - [WPS Office 2024_12.1.0.16929_Vba_mefcl_Setup.txt](https://www.lanzoul.com/izwfk1zcmdgf)
+
+ - [InstallDefenderUI-1.16.exe](https://www.lanzoul.com/iwyGM1zcm6if)
+
+ - [360安全浏览器_15.3.2065.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iMJWv1zcm3va)
+
+ - [今日头条_9.8.0_Mod_NoUpdate_NoCloudAd@辰夕.apk](https://www.lanzoul.com/iBh5I1zclx3g)
+
+ - [彩云天气_7.15.0_Mod@辰夕.apk](https://www.lanzoul.com/iEK2h1zclr5c)
+
+ - [WinRAR v7.01 x64 SC@烈火.exe](https://www.lanzoul.com/iGgWC1zcll8j)
+
+ - [Question.AI_v2.4.3_(368)_Mod@辰夕.apk](https://www.lanzoul.com/i3k6N1zclk6b)
+
+ - [MyRadio_v1.1.92.0515_(10314)_Mod@辰夕.apk](https://www.lanzoul.com/iXE5q1zclile)
+
+ - [ChatBot_v1.3.9_(24051401)_Mod_4.0模型@辰夕.apk](https://www.lanzoul.com/inJTd1zclemb)
+
+ - [PandaOCR.Pro_5.54.zip](https://www.lanzoul.com/iF89x1zciiza)
+
+ - [emby-android-google-arm64-v8a-release-v3.3.94.apk](https://www.lanzoul.com/iVD151zcigxg)
+
+ - [DefenderRemover-v12.8.0.exe](https://www.lanzoul.com/iu8CT1zcif6d)
+
+ - [Autox-v6-arm64-v8a-release-6.6.1.apk](https://www.lanzoul.com/izbDo1zciatg)
+
+ - [影视TV-OK-v2.3.3-海信专版.apk](https://www.lanzoul.com/iSIzT1zci4ta)
+
+ - [影视TV-OK-v2.3.3-电视版-X5离线.apk](https://www.lanzoul.com/ipcVW1zci26f)
+
+ - [影视TV-OK-v2.3.3-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/id3hG1zchxti)
+
+ - [影视TV-OK-v2.3.3-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iIDbi1zchwpi)
+
+ - [影视TV-OK-v2.3.3-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iooyZ1zchtte)
+
+ - [影视TV-OK-v2.3.3-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iCPyW1zchpri)
+
+ - [影视TV-fongmi-v2.3.5-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/ikeSO1zchmfi)
+
+ - [影视TV-fongmi-v2.3.5-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iVOe21zchjpa)
+
+ - [影视TV-fongmi-v2.3.5-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/ik0M81zchgbi)
+
+ - [影视TV-fongmi-v2.3.5-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iWzpF1zchfpg)
+
+ - [影视-OK-v2.3.3-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/idM3e1zch9af)
+
+ - [影视-OK-v2.3.3-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/i6sjf1zch51c)
+
+ - [影视-OK-v2.3.2-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iN8p41zch3ze)
+
+ - [影视-OK-v2.3.2-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i3GPL1zch3dc)
+
+ - [影视-fongmi-v2.3.5-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iD7ez1zcgzrc)
+
+ - [影视-fongmi-v2.3.5-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/im9wv1zcgxjc)
+
+ - [影视-fongmi-v2.3.5-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iZBZo1zcgtmb)
+
+ - [影视-fongmi-v2.3.5-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/izmjB1zcgr3a)
+
+ - [AfuseKt-1.2.4-02-arm64.apk](https://www.lanzoul.com/ibHCL1zcg3dg)
+
+ - [bilibilitv1.6.6-repair-v9.0-20240514.apk](https://www.lanzoul.com/ilU1g1zcfwri)
+
+ - [my-tv-v2.0.5.apk](https://www.lanzoul.com/iG5Qs1zcfv5a)
+
+ - [my-tv-v2.0.4.apk](https://www.lanzoul.com/i5jtL1zcfurg)
+
+ - [my-tv-v2.0.3.apk](https://www.lanzoul.com/iI0qG1zcfu6f)
+
+ - [my-tv-v2.0.1.apk](https://www.lanzoul.com/iFQ4Q1zcfteh)
+
+ - [海阔视界_V8.41_C4868_db53-64位.apk](https://www.lanzoul.com/ivzNg1zcfpla)
+
+ - [BV_627_0.2.7.r627.9aec925.release_default_universal.apk](https://www.lanzoul.com/i2E3h1zcfnif)
+
+ - [mpv-x86_64-20240519-git-875378f.7z](https://www.lanzoul.com/iZxBW1zcfieb)
+
+
 ## 2024-05-21 更新
 
 
