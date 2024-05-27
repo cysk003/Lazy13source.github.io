@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-27 更新
+
+ - [汉王扫描王_1.26.24.284.apk](https://www.lanzoui.com/i0KeH1zqeleh)
+
+ - [启动U盘制作工具Rufus 4.5.2180.exe](https://www.lanzoui.com/itFuq1zqdwcf)
+
+
 ## 2024-05-24 更新
 
 
