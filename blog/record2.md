@@ -17,6 +17,36 @@
 
 ***
 
+- 240528：
+
+  - <details>
+    <summary>更新《240528懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK5pG9Gfm9XXEibrug09S1Z52ibX80t3o2gj6kCicjtx9KQXQB7cn7tqTkohnR8M6aq7Vazkp7jr2mRA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240528懒人生财风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK5pG9Gfm9XXEibrug09S1Z5z7dnoqL1jVhzkG3xj0G5lqNEaOyT064S6626hbtEj0jolaGGiaQaVpQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 240528卢克文星球《中日韩首脑峰会举行，三国关系会改善吗？》
+  
+  - 240528生财精华《分享我低成本做个网站实现睡后收入的方法，新人也适合》
+  - 240528生财精华《如何用你的“热爱”，选择创业项目方向；他年入100万，我怎么能学会年入50万就行》
+  - 240528生财精华《小红书女装创业失败复盘：花费几万，只出了1单！》
+  - 240528生财精华《我发现了一个超级蓝海项目：月子餐配送，月入七万》
+  - 240528生财精华《电商卖货，启动资金6000赚到100万的秘诀：和平台打好关系》
+  - 240528群分享《“史上最强”大脑图谱发布：怎样复制“脑中宇宙”？》
+  
+- 240527：
+
+  - 240527守夜人总司令付费文《打起来会怎么样？！》
+  - 240527分享《欧神68888元全流程班汇总终版》
+  - 240527群分享《人均张雪峰：怎样用好生活中的“信息差”？》
+  - 240527卢克文星球《ICC申捕巴以双方领导人，正义能被伸张吗？》
+  - 240527卢克文星球《对台军演，透露了什么信号？》
+  - 更新第21期《财新周刊》
+
 - 240524：
 
   - 更新第83期《懒人专属群周报》

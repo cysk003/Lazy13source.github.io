@@ -9,6 +9,79 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-28 更新
+
+ - [雷电模拟器9(64)-9.0.72.2去广告绿色版@zd423.txt](https://www.lanzoul.com/icx821zyecuh)
+
+ - [WPS2019专业增强版-v11.8.2.12265-永久授权版@zd423.txt](https://www.lanzoul.com/iIzyD1zyeckh)
+
+ - [WPS Office ProPlus_12.8.2.15091_Vba_mefcl_Setup.txt](https://www.lanzoul.com/iEBXv1zyecif)
+
+ - [WPS Office 2023 专业精简版_12.8.2.15091_mefcl_Setup_v3.txt](https://www.lanzoul.com/ivbEM1zyeche)
+
+ - [360安全浏览器_15.3.2075.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/ix8IH1zyea0f)
+
+ - [360SE-15.3.2075.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/iELpv1zye9ze)
+
+ - [搜狗输入法v14.5.0.9485去广告精简优化版@zd423.exe](https://www.lanzoul.com/inU3x1zye4od)
+
+ - [Google-Play-Store-41.1.19-29-A10 All.apk](https://www.lanzoul.com/iRy9E1zye3ng)
+
+ - [Google-Play-Store-41.0.28-29-A10 All.apk](https://www.lanzoul.com/iRpho1zye2pc)
+
+ - [CCleaner-Pro-6.24.11060-x64-Plus.7z](https://www.lanzoul.com/ivyR51zye1ne)
+
+ - [123云盘客户端-v2.1.3-Green@zd423.7z](https://www.lanzoul.com/i9cBV1zye0bg)
+
+ - [柚子fun_v5.0.3_NoAd@黑鹰.apk](https://www.lanzoul.com/iKjjO1zydkwb)
+
+ - [安卓清理君_v3.8.2_Vip@黑鹰.apk](https://www.lanzoul.com/ilG4s1zydhvc)
+
+ - [UC浏览器-v13.7.2.1320_(50261)_Mod@辰夕.apk](https://www.lanzoul.com/iT8sw1zydgoj)
+
+ - [ES文件浏览器_v4.4.2.9_Vip@黑鹰.apk](https://www.lanzoul.com/ivG6M1zyde5i)
+
+ - [ChatBot_v1.4.0_(24052301)_Mod@辰夕.apk](https://www.lanzoul.com/i3q2z1zydbte)
+
+ - [Chat_Smith_v3.8.0_(602)_Mod@辰夕.apk](https://www.lanzoul.com/iyz9W1zydaze)
+
+ - [Ask_AI_v2.0.7_(448)_Mod@辰夕.apk](https://www.lanzoul.com/iDNn61zyd8kh)
+
+ - [ADM_v14.0.35_(140035)_Mod@辰夕.apk](https://www.lanzoul.com/ioKIn1zyd5sh)
+
+ - [洛雪音乐-app-v1.4.0-beta.1-arm64-v8a-release.zip](https://www.lanzoul.com/iuiuI1zyctbi)
+
+ - [uBlock Origin 1.58.0.crx](https://www.lanzoul.com/iFpis1zycsne)
+
+ - [my-tv-v2.0.9.apk](https://www.lanzoul.com/izVkG1zycsbc)
+
+ - [freedom _1.3.0.apk](https://www.lanzoul.com/iGOAt1zycr4j)
+
+ - [emby-android-google-arm64-v8a-release-3.3.97.apk](https://www.lanzoul.com/iusvj1zycixe)
+
+ - [影视TV-OK-v2.3.4-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/ipGBT1zycbpe)
+
+ - [影视TV-OK-v2.3.4-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iQkM51zyc99g)
+
+ - [影视TV-OK-v2.3.4-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/i2gvc1zyc5dg)
+
+ - [影视TV-OK-v2.3.4-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iDpVQ1zyc2ej)
+
+ - [影视-OK-v2.3.4-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/ijDn91zybwze)
+
+ - [影视-OK-v2.3.4-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iVsyZ1zybukh)
+
+ - [影视-OK-v2.3.4-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iQCYZ1zybqdg)
+
+ - [影视-OK-v2.3.4-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iDqb91zybmpe)
+
+ - [AfuseKt-1.2.5-10039.apk](https://www.lanzoul.com/izDLv1zy8vfa)
+
+ - [海阔视界_V8.42_C4873_db53-64位.apk](https://www.lanzoul.com/iFfQM1zy8iob)
+
+ - [mpv-x86_64-20240526-git-88f20a7.7z](https://www.lanzoul.com/iABr01zy7m6b)
+
+
 ## 2024-05-27 更新
 
  - [汉王扫描王_1.26.24.284.apk](https://www.lanzoui.com/i0KeH1zqeleh)
