@@ -9,6 +9,109 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-30 更新
+
+ - [酷我音乐_10.8.0.1_fix_Mod@小北IT&辰夕(1).txt](https://www.lanzoul.com/i6wlU2040gmf)
+
+ - [ ReVanced Extended,v19.20.34 Revancify Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iwvS72040g0d)
+
+ - [ ReVanced Extended,v19.20.34 Revancify Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iW66M2040bsb)
+
+ - [ ReVanced Extended,v19.20.34 Original Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iuSHu204081g)
+
+ - [ ReVanced Extended,v19.20.34 MYou Non-Root arm64 by youarefinished.txt](https://www.lanzoul.com/igV0C20401ra)
+
+ - [ ReVanced Extended,v19.20.34 MMT Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ibeqY20401qj)
+
+ - [ ReVanced Extended,v19.20.34 Dark Original Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i8Opt203zz5g)
+
+ - [ ReVanced Extended v19.20.34 MYou Root arm64 by youarefinished.apk](https://www.lanzoul.com/ix5hz203zx0j)
+
+ - [ ReVanced Extended v19.20.34 Dark Root arm64 by youarefinished.apk](https://www.lanzoul.com/izycj203zu9a)
+
+ - [ ReVanced Extended v19.20.34 Black Root arm64 by youarefinished.apk](https://www.lanzoul.com/i3Uus203zr7a)
+
+ - [WPS Office_v18.10_(1508)_Mod@辰夕.txt](https://www.lanzoul.com/iO1UT203zlyb)
+
+ - [【Android】AdGuard_4.4.189(10171804)-by东明.apk](https://www.lanzoul.com/ipW3w203zhdg)
+
+ - [AdGuard-Premium-v4.4.189_build_10171804-Mod_Lite-arm64-v8a@balatan.apk](https://www.lanzoul.com/iOltX203zg4b)
+
+ - [AdGuard Ad Blocker Final v4.4.189 arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iOWEx203zeyj)
+
+ - [网易云音乐_8.9.20_@tkjiku-网抑叼毛云 v3.5.3.txt](https://www.lanzoul.com/iuhiS203yuvg)
+
+ - [网易云音乐_8.7.55_@tkjiku-杜比大喇叭β v3.5.4_20240505.txt](https://www.lanzoul.com/ixadK203yuuf)
+
+ - [抖音-30.0_@tkjiku-freedom+_1.3.0.txt](https://www.lanzoul.com/it1mT203yuej)
+
+ - [IDM-Serial.txt](https://www.lanzoul.com/iSVvx203ytmb)
+
+ - [IDMProtectionKeyCleaner.zip](https://www.lanzoul.com/inlUH203ytla)
+
+ - [idman642build10.exe](https://www.lanzoul.com/i6Ukg203ytkj)
+
+ - [IDM.v6.42.Build.10.Crack.zip](https://www.lanzoul.com/iGRBO203yt3c)
+
+ - [IDM.v6.4x.Patch.v19.7-Ali.Dbg.zip](https://www.lanzoul.com/iUlB7203ysra)
+
+ - [AdGuard_4.4.189@liu.apk](https://www.lanzoul.com/iUP9D203yrgd)
+
+ - [AdGuard.ST-4.4.189@ST.apk](https://www.lanzoul.com/i158F203yqsj)
+
+ - [64Gram_1.1.23_x64.zip](https://www.lanzoul.com/ihBIr203yhre)
+
+ - [【Android】酷我音乐HD_8.5.4.6(8546)-by东明_sign.apk](https://www.lanzoul.com/iXr5c203yc6d)
+
+ - [【Android】酷我音乐车机共存版_6_3_9_4063940_by东明.apk](https://www.lanzoul.com/i4EtA203y9uj)
+
+ - [【Android】酷我音乐车机共存版_6_0_1_06010_by东明.apk](https://www.lanzoul.com/ismE2203y75c)
+
+ - [【Android】酷我音乐车机版_6.3.9.40(63940)-by东明.apk](https://www.lanzoul.com/iNvge203y6bc)
+
+ - [【Android】酷我音乐车机版_6.0.1.0(6010)-by东明.apk](https://www.lanzoul.com/ioaK6203y4dc)
+
+ - [WPS_Office-Premium-v18.10_build_1508-Mod@balatan.txt](https://www.lanzoul.com/iCB4g203e7qd)
+
+ - [CapCut_v11.9.0_Unlocked (test)@miya.txt](https://www.lanzoul.com/iNdwf203e4sh)
+
+ - [哔哩哔哩_7.75.0_final_2405201@msm8976.txt](https://www.lanzoul.com/izz1t203e3ib)
+
+ - [[LSPatch]Bilibili-7.79.0-b14892000-漫游a25d80abaa.txt](https://www.lanzoul.com/ibTiu203e3ha)
+
+ - [柚子fun_5.0.3修改版@暗裂魂殇.apk](https://www.lanzoul.com/iwTDo203e24b)
+
+ - [特狗影视 Ver.3.0.4 去广告 修复版@zhou45.apk](https://www.lanzoul.com/i9VMy203duyd)
+
+ - [今日头条_9.8.0_Mod_96c4bee1_enc@辰夕.apk](https://www.lanzoul.com/iWEDx203dq9e)
+
+ - [今日水印相机-gp_3.5.5@rikkati.apk](https://www.lanzoul.com/imgHf203de2f)
+
+ - [大学搜题酱_2.18.3@rikkati.apk](https://www.lanzoul.com/iNgqI203d7zg)
+
+ - [彩云天气_7.15.0_Mod@辰夕.apk](https://www.lanzoul.com/ipcfG203czkd)
+
+ - [X-plore v4.38.10 Black _ed by youarefinished.apk](https://www.lanzoul.com/iLQ2Z203clva)
+
+ - [X-plore v4.38.10 _ed by youarefinished.apk](https://www.lanzoul.com/ihDIt203cimd)
+
+ - [Telegram-10.12.0@miya.apk](https://www.lanzoul.com/ir7If203ccmh)
+
+ - [Speedtest v5.3.7 arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/ieNjD2039y3c)
+
+ - [Speedtest-Premium-v5.3.7_build_211196-Mod_Lite-arm64-v8a@balatan.apk](https://www.lanzoul.com/icfRJ2039tmb)
+
+ - [CamScanner - PDF Scanner App v6.65.0.2405190000 Clean _ed by youarefinished.txt](https://www.lanzoul.com/it2b22039hre)
+
+ - [CamScanner - PDF Scanner App v6.65.0.2405190000 ads support _ed by youarefinished.txt](https://www.lanzoul.com/i7xAS2039hpc)
+
+ - [CamScanner - PDF Scanner App v6.65.0.2405190000 Offline _ed by youarefinished.txt](https://www.lanzoul.com/ifoeC2039hob)
+
+ - [Advanced _ Manager v14.0.35 _ed by youarefinished.apk](https://www.lanzoul.com/i4c4b2037ysf)
+
+ - [AdGuard Ad Blocker v4.4.195 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/izwK02036dch)
+
+
 ## 2024-05-29 更新
 
 

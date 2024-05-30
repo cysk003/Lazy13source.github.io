@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [没掌握这种技能的人，上网时最容易被气到](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247857501&idx=1&sn=5a3fdfb9e982b4687ed329076cb8924d&chksm=9fcb5c19a8bcd50f1ec6fcd0119d77a7c2c367acfbf24351b472fa7eaf7fcd73850d078cda87#rd) |  [备份查看](/gzh/backup/KnowYourself/没掌握这种技能的人，上网时最容易被气到)
+    - 时间：2024-05-29
+    - 摘要：以前上网找乐子，现在上网找气受...
+- [关系中比「爱」更珍贵的，其实是这种情感](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247857309&idx=1&sn=371174e73ae3722a7c2f8ee55faeeab7&chksm=9fcb5dd9a8bcd4cff4f31a7118a9bb52d54c6b457032cfedd0451849848dcf4751a9ab5260f8#rd) |  [备份查看](/gzh/backup/KnowYourself/关系中比「爱」更珍贵的，其实是这种情感)
+    - 时间：2024-05-27
+    - 摘要：因为它，你们才能走得更远。
+
 - [普通人想大胆试错，比有钱更重要的是这个——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247857167&idx=1&sn=9a066689eeb97a8847ffd346004f9b0f&chksm=9fcb5d4ba8bcd45de9dda75c4542a33551ab2fba63d863da8890512a07153f1089b0e7255961#rd) |  [备份查看](/gzh/backup/KnowYourself/普通人想大胆试错，比有钱更重要的是这个——)
     - 时间：2024-05-26
     - 摘要：一个让普通人开挂的思维模式！
