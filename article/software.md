@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-05-31 更新
+
+ - [星芽免费短剧_2.8.6.1_kill.apk](https://www.lanzoui.com/iCvXZ2093dcf)
+
+ - [РotРlayer 240528(1.7.22235) beta 64位 便携版.7z](https://www.lanzoui.com/ilfE1204b86h)
+
+
 ## 2024-05-30 更新
 
  - [酷我音乐_10.8.0.1_fix_Mod@小北IT&辰夕(1).txt](https://www.lanzoul.com/i6wlU2040gmf)
