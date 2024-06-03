@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [一个提升自控力的作弊技巧，很多人都没想到](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247857951&idx=1&sn=89701f7c7abe547bad8b3cc617aeca91&chksm=9fcb5e5ba8bcd74d73005e7d26bf5fa1485466a9f372cb89acd0e8712eb860d5d11773ad3ce6#rd) |  [备份查看](/gzh/backup/KnowYourself/一个提升自控力的作弊技巧，很多人都没想到)
+    - 时间：2024-06-02
+    - 摘要：而且很好坚持
+- [作为一个被称作「厌童」的年轻人，我有话要说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247857905&idx=1&sn=0b6a9907a96a0a83d161783fde53428d&chksm=9fcb5fb5a8bcd6a367307cbb46348d8bbeb84036c14b6507d0b294fa1cc21637514c9f4f9c04#rd) |  [备份查看](/gzh/backup/KnowYourself/作为一个被称作「厌童」的年轻人，我有话要说)
+    - 时间：2024-05-31
+    - 摘要：明天就是儿童节，来聊聊「讨厌儿童」这件事。
+- [值得托付身心的关系里，至少一方需要有这个特质](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247857600&idx=1&sn=a5a7676127d96b12a8fd772b59b3da10&chksm=9fcb5c84a8bcd592552b69b01e2795134d0113b816b77f37db313fe99e53cdc27508648f3514#rd) |  [备份查看](/gzh/backup/KnowYourself/值得托付身心的关系里，至少一方需要有这个特质)
+    - 时间：2024-05-30
+    - 摘要：一种被长期忽视的强大力量
+
 - [没掌握这种技能的人，上网时最容易被气到](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247857501&idx=1&sn=5a3fdfb9e982b4687ed329076cb8924d&chksm=9fcb5c19a8bcd50f1ec6fcd0119d77a7c2c367acfbf24351b472fa7eaf7fcd73850d078cda87#rd) |  [备份查看](/gzh/backup/KnowYourself/没掌握这种技能的人，上网时最容易被气到)
     - 时间：2024-05-29
     - 摘要：以前上网找乐子，现在上网找气受...
