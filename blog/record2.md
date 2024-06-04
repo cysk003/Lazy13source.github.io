@@ -19,6 +19,16 @@
 
 - 240604：
 
+  - <details>
+    <summary>更新《240604懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIyBz2rgPxPibNS4icdIGYwU1icYzyp6UmSGLb5AtbqjVSgbz4CurASIic71ZAQia02Ou62JQpSW09iaibZw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240604懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIyBz2rgPxPibNS4icdIGYwU1z68ZYoPW6J8fmwVC6uYVNbGjDeTI8nq6NUnwhfyuEmLqCKGu6enD3g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
   - 240604卢克文星球《解放军机器狗曝光，机器人战争离我们还有多远？》
   - 240604群分享《可能性思维：怎样把“想象力”变成“创造力”？》
   - 240604生财精华《同城体彩店结合抖音做了一年月销量400万》
