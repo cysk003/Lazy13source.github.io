@@ -9,6 +9,17 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-06-04 更新
+
+ - [DWG FastView v5.9.10 (Premium)@liteapks.txt](https://www.lanzoul.com/iG76n20q88za)
+
+ - [蚂蚁庄园自动喂养-Ant-Manor-1.3.2.zip](https://www.lanzoul.com/iJq2a20q83bg)
+
+ - [蓝云_1.3.2.7-189.apk](https://www.lanzoul.com/iNgUm20q81ra)
+
+ - [蓝云_1.3.2.7-188.apk](https://www.lanzoul.com/iMrf020q818b)
+
+
 ## 2024-06-03 更新
 
  - [酷我音乐车机版 6.0.0.9会员版-长安逸动.apk](https://www.lanzoul.com/ixLXB20o15qj)
