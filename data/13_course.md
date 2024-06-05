@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《刘松博·公司治理30讲》
+
+  - 标签：`#金融`，`#经济`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNIwf3t770k2qOibSoKmEJ6B7M6CrWNdJ7qwO7dgNqWye8kox4xwsS45ahiazKicV7QVfRnzoXd3RqUCA/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《田轩·公司金融课》
 
   - 标签：`#金融`，`#经济`
