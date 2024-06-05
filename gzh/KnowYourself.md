@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [常常因为对方没回复而抓狂...越心急的时候，越要避免这一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247858525&idx=1&sn=a6ee4440e84d7ab1400aaf1cacacbd77&chksm=9fcb5019a8bcd90f11eed2ca01eb7ee3eb92161b2d7f63faefdf2ece1b0bf34c0dd0ab2f2fe3#rd) |  [备份查看](/gzh/backup/KnowYourself/常常因为对方没回复而抓狂...越心急的时候，越要避免这一点)
+    - 时间：2024-06-04
+    - 摘要：容易焦虑、冲动的人，90%都有这个特质
+- [他把手伸进我的裤子里，但我吓跑了他 ｜故事征集](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247858525&idx=2&sn=b076bae104ca1d377069b5e1e3af4961&chksm=9fcb5019a8bcd90f63604b85ad462d0e97052e5c34143f656d7cb7293389ada36e9d54d95649#rd) |  [备份查看](/gzh/backup/KnowYourself/他把手伸进我的裤子里，但我吓跑了他 ｜故事征集)
+    - 时间：2024-06-04
+    - 摘要：性骚扰错的是骚扰者，受害者有罪论只会让更多人被困住。
+- [结婚前必须讨论的 11 个问题](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247858120&idx=1&sn=ba28d6b8b8c9a1c6ca9f460a257d98fe&chksm=9fcb5e8ca8bcd79a126a05bb8cf5ea2a7fc1a5ac274afe1f282d2d18819aab62a3de3ec0b781#rd) |  [备份查看](/gzh/backup/KnowYourself/结婚前必须讨论的 11 个问题)
+    - 时间：2024-06-03
+    - 摘要：无论结不结婚，都需要保存的必问清单。
+
 - [一个提升自控力的作弊技巧，很多人都没想到](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247857951&idx=1&sn=89701f7c7abe547bad8b3cc617aeca91&chksm=9fcb5e5ba8bcd74d73005e7d26bf5fa1485466a9f372cb89acd0e8712eb860d5d11773ad3ce6#rd) |  [备份查看](/gzh/backup/KnowYourself/一个提升自控力的作弊技巧，很多人都没想到)
     - 时间：2024-06-02
     - 摘要：而且很好坚持
