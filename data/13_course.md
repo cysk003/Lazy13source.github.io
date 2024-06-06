@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《尚蔚·怎样打造全销冠团队》
+
+  - 标签：`#销售`，`#培训`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJLT7dOSy7Dm3D1m1ouaCGfYxtelEmJTibgnLFDnoUfTD6NGY1eoEadk4FOmPmyTGITxdGzvy6LCdw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《刘松博·公司治理30讲》
 
   - 标签：`#金融`，`#经济`
@@ -1109,3 +1118,4 @@
 
 ***
 
+<iframe src="https://cn.widgetstore.net/view/index.html?q=5b049cc8622189440f31d6307d40e568.57bdf48a6661191a007454482c6280b2" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin allow-storage-access-by-user-activation allow-popups-to-escape-sandbox" allowfullscreen="" style="width: 100%; height: 80px; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe>
