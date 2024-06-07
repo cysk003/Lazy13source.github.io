@@ -9,6 +9,67 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-06-07 更新
+
+ - [ ReVanced Advanced v19.20.35 Revancify Yellow Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i8IOw213479c)
+
+ - [ ReVanced Advanced v19.20.35 Revancify Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iEm5K21343cb)
+
+ - [ ReVanced Advanced v19.20.35 Revancify Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iOIde2133thg)
+
+ - [ ReVanced Advanced v19.20.35 Original Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i4niW2133nsb)
+
+ - [ ReVanced Advanced v19.20.35 Myou Root arm64 by youarefinished.apk](https://www.lanzoul.com/ic86y2133hmj)
+
+ - [ ReVanced Advanced v19.20.35 MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ik7q42133b0b)
+
+ - [ ReVanced Advanced v19.20.35 MMT Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i3m5Z21334yd)
+
+ - [ ReVanced Advanced v19.20.35 Dark Root arm64 by youarefinished.apk](https://www.lanzoul.com/ihHnH2132wwd)
+
+ - [ ReVanced Advanced v19.20.35 Dark Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iaMwO2132ole)
+
+ - [ ReVanced Advanced v19.20.35 Black Root arm64 by youarefinished.apk](https://www.lanzoul.com/iD0Z52132mpg)
+
+ - [ ReVanced Advanced v19.20.35 AFN Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ioEVI2132k4d)
+
+ - [ ReVanced Advanced v19.20.35 AFN Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/igqAF2132i8f)
+
+ - [[LSPatch]Bilibili-7.81.0-b15013590-漫游a25d80abaa.txt](https://www.lanzoul.com/i3ZXs2131w6b)
+
+ - [SD Maid 2_SE - System Cleaner v1.0.1-rc0 _ed by youarefinished.apk](https://www.lanzoul.com/iRAV72131vaj)
+
+ - [SD.Maid.SE-1.0.1-PRO_red@ST.apk](https://www.lanzoul.com/izqVv2131kad)
+
+ - [SD.Maid.SE-1.0.1-PRO@ST.apk](https://www.lanzoul.com/icRni2131k2f)
+
+ - [64Gram_1.1.27_x64.zip](https://www.lanzoul.com/ikrBd2131dhi)
+
+ - [Windows剪映VIP激活版5.5.0.txt](https://www.lanzoul.com/i2M9c2130rdc)
+
+ - [Jianying_pro(不需VIP会员最高版本).txt](https://www.lanzoul.com/isHWV2130rcb)
+
+ - [微博 14.5.3-内置猪手2.3.1-280模块.txt](https://www.lanzoul.com/iE9AO2130c7g)
+
+ - [高德地图 13.16.0.2026去广告版_安柯.txt](https://www.lanzoul.com/iV4bv21307gf)
+
+ - [百度地图 20.1.10 去广告版_安柯.txt](https://www.lanzoul.com/imZzM213067a)
+
+ - [CapCut剪映国际版 12.0.0_12000700解锁专业版_liteapks.txt](https://www.lanzoul.com/iycbN212zo7c)
+
+ - [七猫免费小说 7.49.20会员版_鹿蜀.apk](https://www.lanzoul.com/iuvMW212zj4j)
+
+ - [123云盘 2.3.12去广告去更新_鹿蜀.apk](https://www.lanzoul.com/iXRbO212zcle)
+
+ - [360安全浏览器_15.3.3020.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iRCLI212yzza)
+
+ - [Inet Download Manager v6.42 build 11 绿色特别版@烈火.rar](https://www.lanzoul.com/iNcLx212w6fe)
+
+ - [Inet Download Manager v6.42 Build 11 Repack.exe](https://www.lanzoul.com/iBAcL212w63c)
+
+ - [Nekogram-10.13.1-4845-arm64-v8a.apk](https://www.lanzoul.com/iQ8W4212w22h)
+
+
 ## 2024-06-06 更新
 
  - [今日水印相机_v3.0.130.4@AWAvenue.rar](https://www.lanzoul.com/iKor520zs8ti)
