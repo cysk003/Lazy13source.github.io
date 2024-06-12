@@ -20,15 +20,34 @@
 - 240612:
 
   - 240610记忆承载西风付费文《影响你一生的，不是高考，不是填志愿，是周期》
+  
   - 240612卢克文星球《为啥斯坦福大学AI要抄袭中国？》
+  
   - 240612卢克文星球《极右翼大胜，欧洲要变天了？》
+  
   - 240612卢克文星球《柬埔寨开挖运河，越南为什么急了？》
+  
   - 240612卢克文星球《经济观察（四）》
+  
   - 240612卢克文星球《虽胜犹败，莫迪的新任期有哪些困境？》
+  
   - 240612群分享《2025AI展望：关于AI的“最终幻想”》
+  
   - 240612群分享《“刘强东的兄弟”与“领导力的真谛”》
+  
   - 240612群分享《冰火两重天背后，餐饮业有哪些新机会？》
+  
   - 240612群分享《大公司逆袭录：为何跌落谷底？又怎样重回巅峰？》
+  
+  - <details>
+    <summary>更新《240612懒人生财周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJkRIW2qUdg3yXPxEFK7V7ib1G5WzVfdBPKrjrvndvjQyicUk9WIGbiarib9O3YKaenibOx6oFxAjCcBFQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240612懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJkRIW2qUdg3yXPxEFK7V7ibbyEicW0mpvMRTqgTksxiaeJs8Ztd8tQGq5jpSvakUlVgRtSAYUpbN83g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
   
 - 240606：
 
