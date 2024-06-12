@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [这种「情绪不稳定」看上去是缺点，其实不用改](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247859175&idx=1&sn=f8a4656d529a4e8c7b029b8a2c9c6768&chksm=9fcb52a3a8bcdbb5c31cba689053eb4cafd33b00c71cfcc9268d8490cda4cbbbc4c32d55f89b#rd) |  [备份查看](/gzh/backup/KnowYourself/这种「情绪不稳定」看上去是缺点，其实不用改)
+    - 时间：2024-06-11
+    - 摘要：一种被误认为是缺点的个人特质
+- [哪一次，心理咨询师的话让你「醍醐灌顶」？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247859175&idx=2&sn=f7caf551c8ea399b8ee0263e7344fff7&chksm=9fcb52a3a8bcdbb5898e2df13e90018187f9daabb7b4b62455ce65f39dc6deeb935faca0b01e#rd) |  [备份查看](/gzh/backup/KnowYourself/哪一次，心理咨询师的话让你「醍醐灌顶」？)
+    - 时间：2024-06-11
+    - 摘要：快来开麦！
+
 - [常常因为对方没回复而抓狂...越心急的时候，越要避免这一点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247858525&idx=1&sn=a6ee4440e84d7ab1400aaf1cacacbd77&chksm=9fcb5019a8bcd90f11eed2ca01eb7ee3eb92161b2d7f63faefdf2ece1b0bf34c0dd0ab2f2fe3#rd) |  [备份查看](/gzh/backup/KnowYourself/常常因为对方没回复而抓狂...越心急的时候，越要避免这一点)
     - 时间：2024-06-04
     - 摘要：容易焦虑、冲动的人，90%都有这个特质

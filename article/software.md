@@ -9,6 +9,21 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-06-11 更新
+
+## 2024-06-12 更新
+
+ - [侠客短视频解析V4.8.zip](https://www.lanzoui.com/iAZBL21kwhra)
+
+ - [自动电脑内部录音器AutoAudioRecorder v1.0便携版.zip](https://www.lanzoui.com/ixBmg21kwfkb)
+
+ - [自动电脑内部录音器AutoAudioRecorder v1.0 安装版.exe](https://www.lanzoui.com/ihdl021kwfgh)
+
+ - [NET 4.7.2 离线安装程序.exe](https://www.lanzoui.com/iUA4u21kwfcd)
+
+ - [Adobe_Flash_Player_v34_0_0_315_3in1_静默安装版.exe](https://www.lanzoui.com/iIld021kwbre)
+
+
 ## 2024-06-10 更新
 
  - [红果免费短剧.apk](https://www.lanzoui.com/imxYf21crcdi)
