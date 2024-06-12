@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-06-10 更新
+
+ - [红果免费短剧.apk](https://www.lanzoui.com/imxYf21crcdi)
+
+
 ## 2024-06-07 更新
 
  - [ ReVanced Advanced v19.20.35 Revancify Yellow Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/i8IOw213479c)
