@@ -1238,3 +1238,9 @@ https://pan.quark.cn/s/8b03eb305fcd
 - 伯恩斯坦金融三部曲 金融简史, Volume 3.pdf
 - Q大语录赏析.pdf
 - 2021房地产沉思录 (update 23)  原稿.pdf
+
+***
+
+<iframe src="https://cn.widgetstore.net/view/index.html?q=5b049cc8622189440f31d6307d40e568.57bdf48a6661191a007454482c6280b2" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin allow-storage-access-by-user-activation allow-popups-to-escape-sandbox" allowfullscreen="" style="width: 100%; height: 80px; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe>
+
+***
