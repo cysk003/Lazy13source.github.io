@@ -14,6 +14,11 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+
+- [当情侣一方失业了，谁会先提分手？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247859274&idx=1&sn=e85f4cf4c8c7427fab8f560409bfcd4e&chksm=9fcb550ea8bcdc18735e53a887384e82c3a57acd17af0d94eda68e9193bcb308becf9c63a51f#rd) |  [备份查看](/gzh/backup/KnowYourself/当情侣一方失业了，谁会先提分手？)
+    - 时间：2024-06-12
+    - 摘要：失业以后，罗曼蒂克消亡。
+
 - [这种「情绪不稳定」看上去是缺点，其实不用改](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247859175&idx=1&sn=f8a4656d529a4e8c7b029b8a2c9c6768&chksm=9fcb52a3a8bcdbb5c31cba689053eb4cafd33b00c71cfcc9268d8490cda4cbbbc4c32d55f89b#rd) |  [备份查看](/gzh/backup/KnowYourself/这种「情绪不稳定」看上去是缺点，其实不用改)
     - 时间：2024-06-11
     - 摘要：一种被误认为是缺点的个人特质
