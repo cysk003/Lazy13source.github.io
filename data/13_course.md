@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《张晓文·六大人格职场攻略课》
+
+  - 标签：`#职场`，`#培训`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNI72vBJXHeibT0KC6gnc4vCMXXBV9IUQFvvWR2ZyKRUj6QyS08hsstc5QJ0Rjxbd7cAX8UnxjcBRJQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《尚蔚·怎样打造全销冠团队》
 
   - 标签：`#销售`，`#培训`
