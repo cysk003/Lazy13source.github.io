@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [不建议大家轻易离职，除非你已经出现这种心理状态——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247859613&idx=1&sn=17e7f6d02cc407f26e1ca397268818c1&chksm=9fcb54d9a8bcddcff9a4681e0a38b0fe2ae8b34fe11d2c4fa128397e362e982c08bbdd8c6142#rd) |  [备份查看](/gzh/backup/KnowYourself/不建议大家轻易离职，除非你已经出现这种心理状态——)
+    - 时间：2024-06-16
+    - 摘要：时代的精神危机。
+
 
 - [当情侣一方失业了，谁会先提分手？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247859274&idx=1&sn=e85f4cf4c8c7427fab8f560409bfcd4e&chksm=9fcb550ea8bcdc18735e53a887384e82c3a57acd17af0d94eda68e9193bcb308becf9c63a51f#rd) |  [备份查看](/gzh/backup/KnowYourself/当情侣一方失业了，谁会先提分手？)
     - 时间：2024-06-12
