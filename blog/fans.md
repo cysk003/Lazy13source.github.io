@@ -20,6 +20,18 @@
 
 ***
 
+## 最新文档
+
+👍最新粉丝资源分享访问飞书文档：https://hk57gvlx7u.feishu.cn/docx/W0Dadxptuop5xoxWSsBcayp3nDd
+
+美图分享访问：https://hk57gvlx7u.feishu.cn/docx/WqwvduzXNoum8exXixicszuenGf
+
+本手册链接作为历史分享备份~
+
+## 240616：
+
+- 「【张雪峰高考志愿填报】合集」链接：https://pan.quark.cn/s/6fedb3f4f4f8
+
 ## 240615：
 
 - 「跨境老鸟Mike·亚马逊跨境电商全阶运营系列课程，带给你丰富全面的亚马逊运营知识体系」链接：https://pan.quark.cn/s/66a55c010cbc
