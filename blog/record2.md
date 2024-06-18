@@ -17,6 +17,22 @@
 
 ***
 
+- 240618：
+
+  - <details>
+    <summary>更新《240618懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLSMVTc7OolT4p1m8ect76a3UmOFcdtJzvR2d2YEoV5x0BPw8fwe9Qd6QoqZ8n1alz7wkAsWo2gEw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240618懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLSMVTc7OolT4p1m8ect76aUyWicJn4Hn2ndPWhxQk7lCUfiaKqxsb0JKgVZt0aF8FM2pgYlLspcBhQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - 240618卢克文星球《姜萍很出色，应该开启特招么？》
+  
+  - 240618群分享《二阶思维：聪明人是怎么“多想一步”的？》
+  
 - 240617：
 
   - 240617卢克文星球《伊朗大选在即，中东方向不变》

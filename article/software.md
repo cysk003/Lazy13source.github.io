@@ -9,6 +9,9 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-06-18 更新
+
+
 ## 2024-06-17 更新
 
  - [lanzouyun 3.4.11-x64-win.7z](https://www.lanzoui.com/iaPKH21zp3xa)
