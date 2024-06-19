@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，q群公告自取在线地址和离线文档下。
 
+- #### 《郝广才·创意思维课》
+
+  - 标签：`#科普`，`#教育`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLAJ9zdhx6jyssa8jicKfjxsU33j6Lx8YqpiaLoHHhoT18s8QcZRH1MMgExOCd6MhJNAKoibWkHVgtcw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《刘琪·人类学20讲》
 
   - 标签：`#科普`，`#教育`
