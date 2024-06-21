@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [关系中最该防的「情敌」，很多人都没意识到](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247860508&idx=1&sn=d10f6204e681724f28f6c2ec8b05dee9&chksm=9fcb6858a8bce14ed45835355ac51a9fe7860ae4f0fa099662e16c35bfe0199c884503b59db1#rd) |  [备份查看](/gzh/backup/KnowYourself/关系中最该防的「情敌」，很多人都没意识到)
+    - 时间：2024-06-20
+    - 摘要：亲密关系中的头号情敌
+- [情绪快要崩掉时，心理咨询师的这17句话治愈了我](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247860006&idx=1&sn=cd5e879159d81116f1da0c70eef761c3&chksm=9fcb5662a8bcdf740e395c3aaa12f023214e759ee9a6276b200478621408f37a4957d58c6940#rd) |  [备份查看](/gzh/backup/KnowYourself/情绪快要崩掉时，心理咨询师的这17句话治愈了我)
+    - 时间：2024-06-18
+    - 摘要：让人毕生难忘的对话。
+- [对关系怀有这种误解的人，可能已经错过了真爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247859682&idx=1&sn=e0c11fb9adec878a627c4e18bd949cde&chksm=9fcb54a6a8bcddb0f97e00d5a697b00cc92d52b8ac4ec584f3345374dfec2bf886cac987b9e1#rd) |  [备份查看](/gzh/backup/KnowYourself/对关系怀有这种误解的人，可能已经错过了真爱)
+    - 时间：2024-06-17
+    - 摘要：不看清这件事，遇见真爱也不认识。
+
 - [不建议大家轻易离职，除非你已经出现这种心理状态——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247859613&idx=1&sn=17e7f6d02cc407f26e1ca397268818c1&chksm=9fcb54d9a8bcddcff9a4681e0a38b0fe2ae8b34fe11d2c4fa128397e362e982c08bbdd8c6142#rd) |  [备份查看](/gzh/backup/KnowYourself/不建议大家轻易离职，除非你已经出现这种心理状态——)
     - 时间：2024-06-16
     - 摘要：时代的精神危机。
