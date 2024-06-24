@@ -17,11 +17,23 @@
 
 ***
 
+- 240624：
+  - 240624 Zlibrary访问方法
+  - 240624卢克文星球《“台独”最高可判死刑，台独分子的末日要到了吗？》
+  - 240624卢克文星球《普京访问朝鲜越南，有超多猛料》
+  - 240624群分享《重新思考20岁：怎样度过“迷茫”的人生黄金期？》
+  - 更新149元付费课程《跟东东枪学创意文案·30讲》，已加入《[通才计划课程](/data/13_course)》
+
+- 240621：
+  - 更新懒人专属群周报（第87期）
+  - 240622记忆承载付费文《男怕入错行，女怕嫁错郎，人怕选错城，更怕买错房》
+  - 240621卢克文星球《VIVO被迫出售股份，中企在印度再次遭遇杀猪盘？》
+
 - 240620：
 
   - 240620守夜人总司令《主导权争夺中！》
   - 240620群分享《“地狱开局”的阿斯麦，怎样成为“杀不死”的公司？》
-  
+
 - 240619：
 
   - 更新99元付费课程《郝广才·创意思维课》，已加入《[通才计划课程](/data/13_course)》
@@ -32,23 +44,23 @@
   - 240619生财精华《巧用阿米巴模式无成本创业，操盘多个项目均实现利润百万的心路历程复盘！》
   - 240619生财精华《错过了TikTok市场初期风口，现阶段下还有哪些红利？》
   - 240619群分享《为什么说“公司有一老，如有一宝”？》
-  
+
 - 240618：
 
   - <details>
     <summary>更新《240618懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLSMVTc7OolT4p1m8ect76a3UmOFcdtJzvR2d2YEoV5x0BPw8fwe9Qd6QoqZ8n1alz7wkAsWo2gEw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240618懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLSMVTc7OolT4p1m8ect76aUyWicJn4Hn2ndPWhxQk7lCUfiaKqxsb0JKgVZt0aF8FM2pgYlLspcBhQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 240618卢克文星球《姜萍很出色，应该开启特招么？》
-  
+
   - 240618群分享《二阶思维：聪明人是怎么“多想一步”的？》
-  
+
 - 240617：
 
   - 240617卢克文星球《伊朗大选在即，中东方向不变》
@@ -56,13 +68,13 @@
   - 240617群分享《周其仁：你的客户，就是你的“宏观”》
   - 更新99元付费课程《刘琪·人类学20讲》，已加入《[通才计划课程](/data/13_course)》
   - 更新第24期《财新周刊》
-  
+
 - 240614：
 
   - 240614卢克文《欧盟加征关税，中国电车迎来至暗时刻？》
   - 240614群分享《父亲节特刊：怎样拥有不缺席的力量？》
   - 更新第86期《懒人专属群周报》
-  
+
 - 240613：
 
   - 更新199元付费课程《张晓文·六大人格职场攻略课》，已加入《[通才计划课程](/data/13_course)》
@@ -76,39 +88,39 @@
   - 240613生财精华《大半年狂卖近500万！首次揭秘：线下社区团购店产地溯源小红书矩阵号批量引流朋友圈打爆品发售》
   - 240613生财精华《小红书笔记-商品常见违规解决办法》
   - 240613生财精华《直播5小时创收141w！小红书卖货指南来啦~》
-  
+
 - 240612:
 
   - 240610记忆承载西风付费文《影响你一生的，不是高考，不是填志愿，是周期》
-  
+
   - 240612卢克文星球《为啥斯坦福大学AI要抄袭中国？》
-  
+
   - 240612卢克文星球《极右翼大胜，欧洲要变天了？》
-  
+
   - 240612卢克文星球《柬埔寨开挖运河，越南为什么急了？》
-  
+
   - 240612卢克文星球《经济观察（四）》
-  
+
   - 240612卢克文星球《虽胜犹败，莫迪的新任期有哪些困境？》
-  
+
   - 240612群分享《2025AI展望：关于AI的“最终幻想”》
-  
+
   - 240612群分享《“刘强东的兄弟”与“领导力的真谛”》
-  
+
   - 240612群分享《冰火两重天背后，餐饮业有哪些新机会？》
-  
+
   - 240612群分享《大公司逆袭录：为何跌落谷底？又怎样重回巅峰？》
-  
+
   - <details>
     <summary>更新《240612懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJkRIW2qUdg3yXPxEFK7V7ib1G5WzVfdBPKrjrvndvjQyicUk9WIGbiarib9O3YKaenibOx6oFxAjCcBFQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240612懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJkRIW2qUdg3yXPxEFK7V7ibbyEicW0mpvMRTqgTksxiaeJs8Ztd8tQGq5jpSvakUlVgRtSAYUpbN83g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240606：
 
   - 240606卢克文星球《经济观察（三）》
@@ -117,7 +129,7 @@
   - 240606群分享《爱眼日：怎样修炼“眼神不败术”？》
   - 更新99元付费课程《尚蔚·怎样打造全销冠团队》，已加入《[通才计划课程](/data/13_course)》
   - 更新第23期《财新周刊》
-  
+
 - 240605：
 
   - 240605万维钢《中年最大的危机是社交封闭》
@@ -126,25 +138,25 @@
   - 240605卢克文星球《经济观察（二）》
   - 240605群分享《高考特刊：怎样唤醒“巅峰表现”？》
   - 更新99元付费课程《刘松博·公司治理30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240604：
 
   - <details>
     <summary>更新《240604懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIyBz2rgPxPibNS4icdIGYwU1icYzyp6UmSGLb5AtbqjVSgbz4CurASIic71ZAQia02Ou62JQpSW09iaibZw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240604懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIyBz2rgPxPibNS4icdIGYwU1z68ZYoPW6J8fmwVC6uYVNbGjDeTI8nq6NUnwhfyuEmLqCKGu6enD3g/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 240604卢克文星球《解放军机器狗曝光，机器人战争离我们还有多远？》
   - 240604群分享《可能性思维：怎样把“想象力”变成“创造力”？》
   - 240604生财精华《同城体彩店结合抖音做了一年月销量400万》
   - 240604生财精华《如何通过陪诊赚到124.72元-拆解》
   - 240603生财精华《3个月小红书K12赛道引流营收百万的方法论》
-  
+
 - 240603：
 
   - 日常的深处（公众号懒人搜索）多格式电子书.zip
@@ -153,7 +165,7 @@
   - 240603卢克文星球《中日韩首脑会议，有什么猛料》
   - 240603卢克文星球《全椒河水污染事件，暴露出什么问题？》
   - 240604鉴茶院最新付费《日本失去的30年和中国的大救市》
-  
+
 - 240531：
 
   - 更新第84期《懒人专属群周报》
@@ -164,41 +176,41 @@
   - 240531生财精华《我在抖音做小店一年，只看利润不看成本差点亏了》
   - 240531生财精华《来了就是深圳人，第一次做线下组局官的流程复盘》
   - 240531生财精华《深度解析电商分销的三种形态》
-  
+
 - 240530：
 
   - 240530达叔星球《两篇问答》
   - 240530群分享《生物制造，怎样成为“新经济引擎”？》
   - 240530卢克文星球《对岸是如何“反斩首”的？》
   - 更新199元付费课程《田轩·公司金融课》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240529：
 
   - 240529群分享《“世界第一网红”，是怎样炼成的？》
   - 240529卢克文星球《超长期国债背后，是大放水吗？》
   - 240529西风付费文《是什么在妨碍我们财富增值，工作稳定，婚姻靠谱？》
-  
+
 - 240528：
 
   - <details>
     <summary>更新《240528懒人生财周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK5pG9Gfm9XXEibrug09S1Z52ibX80t3o2gj6kCicjtx9KQXQB7cn7tqTkohnR8M6aq7Vazkp7jr2mRA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240528懒人生财风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNK5pG9Gfm9XXEibrug09S1Z5z7dnoqL1jVhzkG3xj0G5lqNEaOyT064S6626hbtEj0jolaGGiaQaVpQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - 240528卢克文星球《中日韩首脑峰会举行，三国关系会改善吗？》
-  
+
   - 240528生财精华《分享我低成本做个网站实现睡后收入的方法，新人也适合》
   - 240528生财精华《如何用你的“热爱”，选择创业项目方向；他年入100万，我怎么能学会年入50万就行》
   - 240528生财精华《小红书女装创业失败复盘：花费几万，只出了1单！》
   - 240528生财精华《我发现了一个超级蓝海项目：月子餐配送，月入七万》
   - 240528生财精华《电商卖货，启动资金6000赚到100万的秘诀：和平台打好关系》
   - 240528群分享《“史上最强”大脑图谱发布：怎样复制“脑中宇宙”？》
-  
+
 - 240527：
 
   - 240527守夜人总司令付费文《打起来会怎么样？！》
@@ -218,11 +230,11 @@
   - 240524卢克文星球《三万人感染艾滋，英国惊天丑闻的背后》
 
 - 240523:
-  
+
   - 更新199元付费课程《吴军·逻辑思维训练50讲》，已加入《[通才计划课程](/data/13_course)》
   - 240523群分享《世界B级片之王：怎样在“大俗”中完成创新？》
   - 240523卢克文星球《关于福建号首次海试那些事儿（下）》
-  
+
 - 240522:
   - 240522子明戏说三国（5）诸葛亮《出师表》的秘密
   - 240522子明戏说三国（3）蜀汉为何不著史？
