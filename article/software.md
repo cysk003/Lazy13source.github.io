@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-06-24 更新
+
+ - [电视家升级版.apk](https://www.lanzoul.com/i9FsY22cf6cf)
+
+ - [悦直播.apk](https://www.lanzoul.com/iswy322cf68b)
+
+
 ## 2024-06-21 更新
 
  - [【修复】影视-fongmi-v2.3.9-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/i1kUH22abbob)
