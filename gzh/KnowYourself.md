@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [是什么逼疯了一个Manner店员？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247860697&idx=1&sn=6a7d8553c42cdbf2d45bc7b4b8b75fa8&chksm=9fcb689da8bce18bea96f8272bb61d8edd936d5b7b1a646c978217c6c9600d6b96cf29a17631#rd) |  [备份查看](/gzh/backup/KnowYourself/是什么逼疯了一个Manner店员？)
+    - 时间：2024-06-21
+    - 摘要：归根结底，这怒火的火源，来自哪里呢？
+
 - [关系中最该防的「情敌」，很多人都没意识到](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247860508&idx=1&sn=d10f6204e681724f28f6c2ec8b05dee9&chksm=9fcb6858a8bce14ed45835355ac51a9fe7860ae4f0fa099662e16c35bfe0199c884503b59db1#rd) |  [备份查看](/gzh/backup/KnowYourself/关系中最该防的「情敌」，很多人都没意识到)
     - 时间：2024-06-20
     - 摘要：亲密关系中的头号情敌
