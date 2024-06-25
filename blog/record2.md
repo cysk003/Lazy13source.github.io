@@ -17,13 +17,34 @@
 
 ***
 
+- 240625：
+  
+  - 240625卢克文星球《军情六处，是否草台班子？》
+  
+  - 240625卢克文星球《如何看待中国和伊朗的关系？》
+  
+  - 240625守夜人总司令《A606：发不出去的内容！》
+  
+  - 240625群分享《嫦娥六号返程：人类为什么要再次登月？》
+  
+  - <details>
+    <summary>更新《240625懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLJAzLbMkoQhaIwFHdPib0ZhR6HUHIfc1CyPeSxNwVT9KuMsicSmN6acngWrsKek4STygYxUmwBibwCQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240625懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLJAzLbMkoQhaIwFHdPib0ZhibKsrwsRiaeJSgwMbb81OvgDXyCYWheIu1viaZOiabawwQLP4ru8ibzF8fQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240624：
+  
   - 240624 Zlibrary访问方法
   - 240624卢克文星球《“台独”最高可判死刑，台独分子的末日要到了吗？》
   - 240624卢克文星球《普京访问朝鲜越南，有超多猛料》
   - 240624群分享《重新思考20岁：怎样度过“迷茫”的人生黄金期？》
   - 更新149元付费课程《跟东东枪学创意文案·30讲》，已加入《[通才计划课程](/data/13_course)》
-
+  
 - 240621：
   - 更新懒人专属群周报（第87期）
   - 240622记忆承载付费文《男怕入错行，女怕嫁错郎，人怕选错城，更怕买错房》
