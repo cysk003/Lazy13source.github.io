@@ -9,6 +9,15 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-06-25 更新
+
+ - [电视浏览器（央视源）v1.6.2.apk](https://www.lanzoul.com/iyBzT22klxnc)
+
+ - [我的电视v2.1.8.apk](https://www.lanzoul.com/i5ruU22klx8h)
+
+ - [mytv界面不错1.4.1.apk](https://www.lanzoul.com/iF3HM22klx5e)
+
+
 ## 2024-06-24 更新
 
  - [电视家升级版.apk](https://www.lanzoul.com/i9FsY22cf6cf)
