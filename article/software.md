@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-06-26 更新
+
+ - [OFD批量转PDF_52版.exe](https://www.lanzoui.com/isYnq22pda6j)
+
+
 ## 2024-06-25 更新
 
  - [电视浏览器（央视源）v1.6.2.apk](https://www.lanzoul.com/iyBzT22klxnc)
