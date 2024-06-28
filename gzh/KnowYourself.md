@@ -14,6 +14,11 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [不建议和前任复合，除非出现这种情况——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247861414&idx=1&sn=b4e8b094c286463fd68d6d6d5ae9470f&chksm=9fcb6de2a8bce4f4f7c287a023ef89a3ea48e52ee1f75db7e687d59d3554bff9233ea5023325#rd) |  [备份查看](/gzh/backup/KnowYourself/不建议和前任复合，除非出现这种情况——)
+    - 时间：2024-06-27
+    - 摘要：这可能是和前任复合最好的理由。
+
+
 - [朋友的对象疑似出轨，这事儿我该管吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247861288&idx=1&sn=c0a1508e30016fbea0b7910ec460edc8&chksm=9fcb6d6ca8bce47a391e819b109f8e37a0e43d4ccd7c96eaff89640be45c9cce4d0cd4211faa#rd) |  [备份查看](/gzh/backup/KnowYourself/朋友的对象疑似出轨，这事儿我该管吗？)
     - 时间：2024-06-25
     - 摘要：一定要三思！
