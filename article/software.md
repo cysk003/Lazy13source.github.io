@@ -9,6 +9,27 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-01 更新
+
+ - [office 卸载工具--office uninstall v2.0.2.rar](https://www.lanzoui.com/iQdzv23555lc)
+
+ - [IP地址切换器.rar](https://www.lanzoui.com/igupH2354zgb)
+
+ - [IP地址修改器 V5.0.6.2.exe](https://www.lanzoui.com/iMDFA2354nng)
+
+ - [经典全能影音播放器MPC-HC.2.2.1.exe](https://www.lanzoui.com/iOAwh2320fdg)
+
+ - [经典全能影音播放器MPC-HC.2.2.1x64.zip](https://www.lanzoui.com/iCbUj2320epc)
+
+ - [经典本地影音播放器MPC-BE 1.7.1.zip](https://www.lanzoui.com/iUIN823208sj)
+
+ - [РotРlayer 240618(1.7.22266) 64位 安装版.exe](https://www.lanzoui.com/iWuDb231zxsd)
+
+ - [РotРlayer 240618(1.7.22266) 64位 便携正式版.7z](https://www.lanzoui.com/igStA231zwkj)
+
+ - [office 卸载工具--office uninstall v2.0.2.rar](https://www.lanzoui.com/i269j22yzxmj)
+
+
 ## 2024-06-28 更新
 
  - [国家中小学智慧教育平台视频下载.rar](https://www.lanzoul.com/i1XJY22uyz7g)

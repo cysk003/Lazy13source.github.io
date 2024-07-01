@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [关系中这种比较，很容易杀死爱情](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247861993&idx=1&sn=4f052c0ddb5e928700c8c8d6898a7f44&chksm=9fcb6fada8bce6bbd033af378571adf3180575776d58868aece8abdddcaeb8e9e3223cf869d2#rd) |  [备份查看](/gzh/backup/KnowYourself/关系中这种比较，很容易杀死爱情)
+    - 时间：2024-06-30
+    - 摘要：但真的很难忍住。
+- [你有没有发现，你爱过的都是同一类人？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247861898&idx=1&sn=c8623b0fc4d4d11f8b2befe526e57b12&chksm=9fcb6fcea8bce6d8071d972f1aa87d80849dd30562497c8c5dc09f91fe7a2d8d254a74afd34d#rd) |  [备份查看](/gzh/backup/KnowYourself/你有没有发现，你爱过的都是同一类人？)
+    - 时间：2024-06-28
+    - 摘要：人怎么就总是踏进同一条河流！
+
 - [不建议和前任复合，除非出现这种情况——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247861414&idx=1&sn=b4e8b094c286463fd68d6d6d5ae9470f&chksm=9fcb6de2a8bce4f4f7c287a023ef89a3ea48e52ee1f75db7e687d59d3554bff9233ea5023325#rd) |  [备份查看](/gzh/backup/KnowYourself/不建议和前任复合，除非出现这种情况——)
     - 时间：2024-06-27
     - 摘要：这可能是和前任复合最好的理由。
