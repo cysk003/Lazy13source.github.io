@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [存款多少才敢辞职？离职前必须想清楚的 3 个问题](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247862590&idx=1&sn=fd4d70b57728c965075ee911522919a2&chksm=9fcb607aa8bce96cefb738f1b2cdc7d00ff7a848585eabd9058178e100196b48d81f617940dd#rd) |  [备份查看](/gzh/backup/KnowYourself/存款多少才敢辞职？离职前必须想清楚的 3 个问题)
+    - 时间：2024-07-04
+    - 摘要：辞职不是一切问题的答案，而是更复杂问题的开始
+- [能成为最好的朋友，或许总带着点嫉妒](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247862498&idx=1&sn=ef091653f43912ab6b66bcb3573adeab&chksm=9fcb61a6a8bce8b0936bda92961a5118cde4a2102a3bcafa492dc3490f4d093cab5655e8f8f9#rd) |  [备份查看](/gzh/backup/KnowYourself/能成为最好的朋友，或许总带着点嫉妒)
+    - 时间：2024-07-03
+    - 摘要：人人都有的暗黑情绪，其实蕴含着被低估的积极力量
+- [带给你这种体验的人，就是心理学意义上的「贵人」了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247862049&idx=1&sn=028905f4c9aa4c131a3f3b05550482f3&chksm=9fcb6e65a8bce7738aa5b62c8151d31c61288f9c2dedaa720ed1395d3ab67f1588b9ad436e94#rd) |  [备份查看](/gzh/backup/KnowYourself/带给你这种体验的人，就是心理学意义上的「贵人」了)
+    - 时间：2024-07-01
+    - 摘要：有这种特质的关系，具备让人变好的能力
+
 - [关系中这种比较，很容易杀死爱情](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247861993&idx=1&sn=4f052c0ddb5e928700c8c8d6898a7f44&chksm=9fcb6fada8bce6bbd033af378571adf3180575776d58868aece8abdddcaeb8e9e3223cf869d2#rd) |  [备份查看](/gzh/backup/KnowYourself/关系中这种比较，很容易杀死爱情)
     - 时间：2024-06-30
     - 摘要：但真的很难忍住。

@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 《吴伯凡讲透道德经50讲》
+
+  - 标签：`#道德经`，`#思考`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNLFCHSuA2w2RVl4icicdGBtWm1E55iauibzxLGoQD8MxlYGq1opicKjZVBJHn6ODsQQZCAbfib2XeRBP8sQ/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《跟东东枪学创意文案·30讲》
 
   - 标签：`#创意`，`#教育`
