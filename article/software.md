@@ -9,6 +9,29 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-08 更新
+
+ - [IP地址修改器 V5.0.6.4.exe](https://www.lanzoui.com/iV2xz23sa4eh)
+
+ - [专业硬件检测工具64 至尊版 V7.30.6900.zip](https://www.lanzoui.com/iVqUL23sa0gf)
+
+ - [DiskGenius 5.6.0.1565_x86_x64 官方单文件PE版.zip](https://www.lanzoui.com/ivgPU23s9vuj)
+
+ - [搜狗拼音一键净化.7z](https://www.lanzoui.com/itwiL23s9qod)
+
+ - [AIDA64 专业硬件检测工具至尊版 V7.30.6900.zip](https://www.lanzoui.com/iGuru23lvvla)
+
+ - [bilibilitv1.6.6盒子版 2024年最新版.rar](https://www.lanzoui.com/iDoVR23lvmid)
+
+ - [360驱动大师纯净版 2.0.0.2020.exe](https://www.lanzoui.com/iAGTk23lveif)
+
+ - [360驱动大师网版 2.0.0.2020.2.rar](https://www.lanzoui.com/itjbz23lvdyf)
+
+ - [360驱动大师网版 2.0.0.2020.1.rar](https://www.lanzoui.com/iPSsR23lv9bi)
+
+ - [愛八字_2.4.0.apk](https://www.lanzoul.com/iya9T23odb5e)
+
+
 ## 2024-07-05 更新
 
  - [360安全浏览器_15.3.3048.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iq25I23hml1c)
