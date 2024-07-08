@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 《职场人必备的法律知识·10讲》
+
+  - 标签：`#职场`，`#法律`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJx9SbA0AxXuk6IHliag2BGziat0MUBvHfzYYjYxIHP6rBbE33B0AOHwuHXiby9D7U9eqL4Z7rnqgcmw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《吴伯凡讲透道德经50讲》
 
   - 标签：`#道德经`，`#思考`
