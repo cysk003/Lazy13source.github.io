@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-09 更新
+
+ - [微信通话录音助手.exe](https://www.lanzoui.com/i0hVO23wayob)
+
+
 ## 2024-07-08 更新
 
  - [IP地址修改器 V5.0.6.4.exe](https://www.lanzoui.com/iV2xz23sa4eh)
