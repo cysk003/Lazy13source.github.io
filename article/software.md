@@ -9,6 +9,19 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-10 更新
+
+## 2024-07-11 更新
+
+ - [WPS2016极限精简版.rar](https://www.lanzoui.com/iDgnZ2407zyd)
+
+ - [解除小米下载rom限速.exe](https://www.lanzoui.com/ijTZr2407vrc)
+
+ - [太阳直播新版1.0.1.apk](https://www.lanzoul.com/iwCRt241sdze)
+
+ - [影视TV2.4.2.apk](https://www.lanzoul.com/iLWjx241qq6b)
+
+
 ## 2024-07-09 更新
 
  - [微信通话录音助手.exe](https://www.lanzoui.com/i0hVO23wayob)

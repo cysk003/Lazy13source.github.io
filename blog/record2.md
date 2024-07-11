@@ -17,6 +17,24 @@
 
 ***
 
+- 240709：
+  
+  - 240709卢克文星球《美国导弹撤离菲律宾，来了又走图什么？》
+  
+  - 240709守夜人总司令付费文《跳楼才刚开始》
+  
+  - 240709群分享《假如没有巴菲特，伯克希尔会好吗？》
+  
+  - <details>
+    <summary>更新《240709懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKlH4G8KkRyr19xJ3G2bicN7jmSPKCGAMeGFQRpQzxYfHM8YG82HsqK9oj6kNBGQ2hNjNFibKJAsNtQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240709懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKlH4G8KkRyr19xJ3G2bicN7E2hUeHiaZrQVNMDdud9h01e23ryu1LpyKgeNzIKkFaW6icXYzOIQxSYA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240708：
   
   - 240708三眼付费文《把阴阳五行一篇聊透（1.6万字深度解析）！》
