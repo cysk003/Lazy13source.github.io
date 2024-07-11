@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [6步轻松应对「情绪霸凌」，职场人际都适用](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247863911&idx=1&sn=37ae55461592f5420bd7bf6e265f2709&chksm=9fcb6723a8bcee359ec5d1154b7e3734833341e32e172495c24e8ca767ca586f4e230b6cbec5#rd) |  [备份查看](/gzh/backup/KnowYourself/6步轻松应对「情绪霸凌」，职场人际都适用)
+    - 时间：2024-07-10
+    - 摘要：学会这个方法，再也不怕情绪霸凌
+- [继父性侵了我，妈妈却怪我妨碍了她的婚姻](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247863776&idx=1&sn=4ef0c4b882a6524e147b57b1260ad3ce&chksm=9fcb64a4a8bcedb2f5cf6bc4e90edcbe27af055003a1091352850daefb6734b8483bb8f5c75a#rd) |  [备份查看](/gzh/backup/KnowYourself/继父性侵了我，妈妈却怪我妨碍了她的婚姻)
+    - 时间：2024-07-09
+    - 摘要：诺贝尔文学奖得主爱丽丝·门罗的女儿揭露儿时性侵事件。
+- [摧毁爱情的 1 个动作，很多人都在无意识做](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247863180&idx=1&sn=a7fb92020804a9515f60f84bfc23e9e2&chksm=9fcb62c8a8bcebde2b50090557744465d60a34fac07aa386f348ea660be8c7eb6aa82f86d636#rd) |  [备份查看](/gzh/backup/KnowYourself/摧毁爱情的 1 个动作，很多人都在无意识做)
+    - 时间：2024-07-08
+    - 摘要：最伤感情的小事就是它
+
 - [真正被爱着的人，都会有这种感觉——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247862712&idx=1&sn=70415fea96569a4207da23a0484754a5&chksm=9fcb60fca8bce9eaaad634bf66e02f289340872cf1f52016238c0e088e37527f0e5c80e09e3e#rd) |  [备份查看](/gzh/backup/KnowYourself/真正被爱着的人，都会有这种感觉——)
     - 时间：2024-07-07
     - 摘要：“人感觉到被爱，就好像刀找到了刀鞘。”
