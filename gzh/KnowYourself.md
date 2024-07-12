@@ -14,6 +14,7 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+
 - [6步轻松应对「情绪霸凌」，职场人际都适用](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247863911&idx=1&sn=37ae55461592f5420bd7bf6e265f2709&chksm=9fcb6723a8bcee359ec5d1154b7e3734833341e32e172495c24e8ca767ca586f4e230b6cbec5#rd) |  [备份查看](/gzh/backup/KnowYourself/6步轻松应对「情绪霸凌」，职场人际都适用)
     - 时间：2024-07-10
     - 摘要：学会这个方法，再也不怕情绪霸凌
