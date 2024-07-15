@@ -9,6 +9,111 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-15 更新
+
+ - [微信正式版v3.9.11.19多开防撤回绿色版@zd423.txt](https://www.lanzoul.com/iImGT24bwklg)
+
+ - [腾讯视频-v11.98.7327.0-去广告绿版@zd423.exe](https://www.lanzoul.com/iN2vU24bwikd)
+
+ - [腾讯QQ正式版9.7.23.29368绿色纯净版@zd423.exe](https://www.lanzoul.com/iOPMo24bwgta)
+
+ - [雷电模拟器9(64)-9.0.74.0去广告绿色版@zd423.txt](https://www.lanzoul.com/ioVR924bwdsb)
+
+ - [今日水印相机_v3.0.135.8_Mod@辰夕.txt](https://www.lanzoul.com/iYg4024bwcda)
+
+ - [NowAI_v4.1.1.0_Mod@辰夕.apk](https://www.lanzoul.com/iWgcp24bwbfg)
+
+ - [Google-Play-Store-41.8.14-29-A10 All.apk](https://www.lanzoul.com/inJlD24bw9dc)
+
+ - [Google-Play-Store-41.7.16-29-A10 All.apk](https://www.lanzoul.com/ieMzn24bw7wj)
+
+ - [CPU-Z-v2.10.0-CN.exe](https://www.lanzoul.com/idB1w24bw4va)
+
+ - [Chatbot_AI_v4.2.0.0_(4200)_Mod@辰夕.apk](https://www.lanzoul.com/iEi2g24bw4dc)
+
+ - [Chat Smith_v3.8.1_Mod@辰夕.apk](https://www.lanzoul.com/ii8tr24bw3be)
+
+ - [360驱动大师網卡版-2.0.0.2020-绿色单文件@zd423.txt](https://www.lanzoul.com/i6GgN24bw0te)
+
+ - [360驱动大师纯净版-2.0.0.2020-绿色单文件@zd423.exe](https://www.lanzoul.com/iQx0c24bw0sd)
+
+ - [360SE-15.3.3060.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/icHBz24bvqpa)
+
+ - [2345看图王_11.3.0.10165_mefcl_x64_Setup.exe](https://www.lanzoul.com/i4e8w24bsv3a)
+
+ - [360安全浏览器_15.3.3060.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/ivCJH24bssba)
+
+ - [植物大战僵尸杂交版v2.2.zip](https://www.lanzoul.com/iBKxn24bsr8b)
+
+ - [柚子fun_v6.0.0_NoAd@黑鹰.apk](https://www.lanzoul.com/iBUIh24bshkd)
+
+ - [WinRAR v7.01 x64 SC@烈火-240711.exe](https://www.lanzoul.com/i54iZ24bs23g)
+
+ - [Inet Download Manager v6.42 Build 14 Retail.rar](https://www.lanzoul.com/iBNa324bry9i)
+
+ - [Inet Download Manager v6.42 Build 14 Retail 绿色特别版（去更新）@烈火.rar](https://www.lanzoul.com/iFGYM24brxjc)
+
+ - [my-tv-0-v1.2.8.apk](https://www.lanzoul.com/ipYjA24brhfc)
+
+ - [my-tv-0-v1.2.7.apk](https://www.lanzoul.com/iatPS24brh4b)
+
+ - [蚂蚁森林收能量脚本-Ant-Forest-1.5.2.2.zip](https://www.lanzoul.com/iI08624bqvkf)
+
+ - [PandaOCR.Pro_5.55.zip](https://www.lanzoul.com/iHgI924bqu6f)
+
+ - [NewPipe_v0.27.1.apk](https://www.lanzoul.com/iK5Hx24bqsob)
+
+ - [Optimizer-16.6.exe](https://www.lanzoul.com/izI1t24bqqni)
+
+ - [gkd-v1.8.0-beta.4.apk](https://www.lanzoul.com/idHBF24bqpgf)
+
+ - [gkd-v1.8.0-beta.6.apk](https://www.lanzoul.com/i9VoE24bqove)
+
+ - [gkd-v1.8.0-beta.5.apk](https://www.lanzoul.com/i6xLu24bqokd)
+
+ - [bilimiao-github-2.3.8.2.apk](https://www.lanzoul.com/i90hx24bqldi)
+
+ - [Autox-v6-arm64-v8a-release-6.6.4.apk](https://www.lanzoul.com/iRhAG24bqi2j)
+
+ - [AfuseKt-1.3.2-arm64.apk](https://www.lanzoul.com/i3O9324bq95i)
+
+ - [AfuseKt-arm64-1.3.1-10059.apk](https://www.lanzoul.com/iD95z24bq0ji)
+
+ - [AfuseKt-1.3.1-arm64-10058.apk](https://www.lanzoul.com/ixRta24bpyqd)
+
+ - [AfuseKt-arm64-1.3.1-10057.apk](https://www.lanzoul.com/iSgO424bpvyd)
+
+ - [AfuseKt-1.3.1-arm64.apk](https://www.lanzoul.com/iw8xt24bpsub)
+
+ - [AfuseKt-1.3.0-arm64.apk](https://www.lanzoul.com/iMPud24bpq2b)
+
+ - [影视TV-fongmi-v2.4.3-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iSXm024bpc5a)
+
+ - [影视TV-fongmi-v2.4.3-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/i8sw824bpbih)
+
+ - [影视TV-fongmi-v2.4.3-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/ioGo724bpaoh)
+
+ - [影视TV-fongmi-v2.4.3-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/imcDA24bp9jg)
+
+ - [影视TV-ok-v2.4.2-海信专版.apk](https://www.lanzoul.com/igobd24bp7yj)
+
+ - [影视TV-ok-v2.4.2-电视版-X5离线.apk](https://www.lanzoul.com/iY4Op24bp6aj)
+
+ - [影视TV-ok-v2.4.2-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iXNvm24bp34f)
+
+ - [影视TV-ok-v2.4.2-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iHCiK24bp2kf)
+
+ - [影视TV-ok-v2.4.2-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/i8Xbj24bp1wb)
+
+ - [影视TV-ok-v2.4.2-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/i5wAd24bp1aj)
+
+ - [影视TV-ok-v2.4.2-A4.x-leanback.apk](https://www.lanzoul.com/irttJ24bp0ha)
+
+ - [影视-fongmi-v2.4.3-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iIDHi24bopre)
+
+ - [影视2.4.3.apk](https://www.lanzoul.com/iviR9249m8yf)
+
+
 ## 2024-07-12 更新
 
 
