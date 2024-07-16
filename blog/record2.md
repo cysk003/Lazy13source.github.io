@@ -17,51 +17,83 @@
 
 ***
 
-- 240715:
+- 240716：
   
+  - 240716卢克文星球《特朗普遭遇枪击，到底是谁干的？》
+  
+  - 240716大树乡谈付费文《历史转变的关键时刻，谈谈对未来方向的判断》
+  
+  - 240716守夜人总司令付费文《做最坏的打算！！》
+  
+  - 240716守夜人总司令付费文《核心问题：资本密度太低！！》
+  
+  - 240716守夜人总司令付费文《退金令与倒查逃税！》
+  
+  - 240716群分享《萝卜快跑，压倒网约车的最后一根稻草？》
+  
+  - 240716生财精华《2个人，实操单月变现100W的内容型直播间复盘
+  
+  - 240716生财精华《一年变现1500w，0-1本地生活品牌招商流量端复盘深度拆解
+  
+  - 240716生财精华《抖音探店跟着航海2个月从小白入门到哈市排名30以内，收入41万的保姆级复盘，人人都能成为达人
+  
+  - 240716生财精华《通过小红书每月精准引流高客800，加V率30%-40%，如何做到？
+  
+  - <details>
+    <summary>更新《240716懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKkrzyxe5JIccOT19flfbQGJGG5JnXSlhHLoPT2EGSjrDniaDqEJyUg7EIBxibeibAvluibs43hCWwpXg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240716懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKkrzyxe5JIccOT19flfbQGNdIpiaWVIvBT911NaOCBo6z782rGwyiawth8lajkZQAeibee2kj4Ho5qw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240715:
+
   - 240715卢克文星球《武汉萝卜快跑来了，司机的就业怎么办？》
   - 240715卢克文星球《连续访问中美俄，欧尔班的外交奇迹》
   - 240715群分享《“硬核山东”，是怎样练成的？》
   - 240715群分享《特朗普，与即将到来的动荡时代》
   - 更新第28期《财新周刊》
   - 更新199元付费课程《陈立翰·大脑潜能开发6讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240712：
-  
+
   - 240712卢克文星球《印度总理莫迪访问俄罗斯，普京在亚洲合纵连横要干啥？》
   - 240712守夜人总司令《相持不下！》
   - 240712新闻评论《从中金员工去世说起》
   - 240712群分享《长沙的夜经济飞轮，是怎么转动起来的？》
-  
+
 - 240711：
-  
+
   - 240711幻幻50元付费文《金融行业还有未来吗？普通人怎么利用金融行业发财？（附财富密码）》
   - 240711群分享《“丑物”经济学：怎样抓住“隐藏动机”？》
   - 繁华渐逝：腹背受敌的中国经济（3万字长文）
   - 240711群分享《这届中学生，怎样阻止“进击的尿酸”？》
   - 240711卢克文星球《比亚迪在土耳其建厂，曲线进入欧盟市场？》
   - 240710卢克文星球《法国议会选举爆冷，左翼要崛起了？》
-  
+
 - 240709：
-  
+
   - 240709卢克文星球《美国导弹撤离菲律宾，来了又走图什么？》
-  
+
   - 240709守夜人总司令付费文《跳楼才刚开始》
-  
+
   - 240709群分享《假如没有巴菲特，伯克希尔会好吗？》
-  
+
   - <details>
     <summary>更新《240709懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKlH4G8KkRyr19xJ3G2bicN7jmSPKCGAMeGFQRpQzxYfHM8YG82HsqK9oj6kNBGQ2hNjNFibKJAsNtQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240709懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKlH4G8KkRyr19xJ3G2bicN7E2hUeHiaZrQVNMDdud9h01e23ryu1LpyKgeNzIKkFaW6icXYzOIQxSYA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240708：
-  
+
   - 240708三眼付费文《把阴阳五行一篇聊透（1.6万字深度解析）！》
   - 240708卢克文星球《2024年英国大选结束，对中国有什么影响？》
   - 240708卢克文星球《伊朗大选亲美派胜出，会影响中伊关系吗？》
@@ -70,17 +102,17 @@
   - 240708群分享《2024高校毕业致辞金句集，请收好》
   - 240708群分享《如何让女性认识到结婚生育的价值和意义？》
   - 更新199元付费课程《职场人必备的法律知识·10讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240705：
-  
+
   - 更新第89期《懒人专属群周报》
   - 240705卢克文星球《转让问界商标，华为真的不造车了？》
   - 240705守夜人总司令《南医科大没有错！！》
   - 240705群分享《高考之后，你还活在“高考模式”里吗？》
   - 240705群分享《现在世界都在为战争做准备，会演变成世界大战吗？》.pdf
-  
+
 - 240704：
-  
+
   - 240704卢克文星球《最高法裁定特朗普有豁免权，这是法制的胜利还是失败？》
   - 240704群分享《“Manner咖啡们”，真正的挑战是什么？》
   - 更新169元付费课程《吴伯凡讲透道德经50讲》，已加入《[通才计划课程](/data/13_course)》
@@ -91,87 +123,87 @@
   - 240704生财精华《开窍需要足够的刺激！一次熬夜发现的小商机！
   - 240704生财精华《抖音直播第一天就出单，免费流单人单月19.8W变现的项目复盘
   - 240704生财精华《明星周边、小卡爆火，这背后有什么机会可以入局？
-  
+
 - 240703：
-  
+
   - 240703守夜人总司令《娃哈哈背后的推手》
   - 240703群分享《世界第一仿制药大国，是怎样炼成的？》
   - 240703局外人的视界付费文《七月必看：资金来了》
   - 240703卢克文星球《天龙三号火箭试车事故，会让中国民营航天一蹶不振吗？》
-  
+
 - 240702：
-  
+
   - 240702卢克文星球《瑞士与美国互换金融数据，彻底不中立了？》
-  
+
   - 240702灏泽神棍付费文《年中巨献，你现在的贫穷和困境，其实都有解决的思路(进来抄作业)》
-  
+
   - 240702群分享《抛开“道德滤镜”，胖东来厉害在哪？》
-  
+
   - <details>
     <summary>更新《240625懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLJAzLbMkoQhaIwFHdPib0ZhR6HUHIfc1CyPeSxNwVT9KuMsicSmN6acngWrsKek4STygYxUmwBibwCQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKzPoGaicPnBQn1Haicrv4InByDNZFRjfJtXBBdxYnD6OHLnsicswnicIZ8N1eSyN5VUbCh9LwvsxoL5Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240701：
-  
+
   - 240701卢克文星球《OpenAI禁中国用户，声响不小作用不大》
   - 240701卢克文星球《拜登表现糟糕，民主党会换人吗？》
   - 240701卢克文星球《玻利维亚突发政变，背后有什么故事吗？》
   - 240701守夜人总司令《抛弃幻想，斗争在加剧！》
   - 240701守夜人总司令《绍伊古为啥下去了？！》
   - 240701群分享《2024下半场：面对复杂，保持欢喜》
-  
+
 - 240628：
-  
+
   - 240628卢克文星球《商业地产也爆雷！欧美金融安全面临严峻挑战？》
   - 240628守夜人总司令《现金流枯竭！》
   - 240628群分享《孙正义的新生意：日本AI兴衰启示录》
   - 240628老A付费文《如何正确送礼》
   - 更新第88期《懒人专属群周报》
-  
+
 - 240627:
-  
+
   - 240627卢克文星球《新任北约秘书长，对中国是好是坏？》
   - 240627卢克文星球《波兰，对我们有什么特殊价值？》
   - 240627群分享《《歌手》是怎么成为“现象级”综艺的？》
-  
+
 - 240626:
-  
+
   - 更新六篇生财精华帖
-  
+
 - 240625：
-  
+
   - 240625卢克文星球《军情六处，是否草台班子？》
-  
+
   - 240625卢克文星球《如何看待中国和伊朗的关系？》
-  
+
   - 240625守夜人总司令《A606：发不出去的内容！》
-  
+
   - 240625群分享《嫦娥六号返程：人类为什么要再次登月？》
-  
+
   - <details>
     <summary>更新《240625懒人赚钱周报》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLJAzLbMkoQhaIwFHdPib0ZhR6HUHIfc1CyPeSxNwVT9KuMsicSmN6acngWrsKek4STygYxUmwBibwCQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《240625懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLJAzLbMkoQhaIwFHdPib0ZhibKsrwsRiaeJSgwMbb81OvgDXyCYWheIu1viaZOiabawwQLP4ru8ibzF8fQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 240624：
-  
+
   - 240624 Zlibrary访问方法
   - 240624卢克文星球《“台独”最高可判死刑，台独分子的末日要到了吗？》
   - 240624卢克文星球《普京访问朝鲜越南，有超多猛料》
   - 240624群分享《重新思考20岁：怎样度过“迷茫”的人生黄金期？》
   - 更新149元付费课程《跟东东枪学创意文案·30讲》，已加入《[通才计划课程](/data/13_course)》
-  
+
 - 240621：
   - 更新懒人专属群周报（第87期）
   - 240622记忆承载付费文《男怕入错行，女怕嫁错郎，人怕选错城，更怕买错房》
