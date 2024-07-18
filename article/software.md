@@ -9,6 +9,26 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-18 更新
+
+
+## 2024-07-17 更新
+
+ - [蚂蚁森林收能量脚本-Ant-Forest-1.5.2.3.zip](https://www.lanzoul.com/iqIHM24nuj4d)
+
+ - [Autox-v6-arm64-v8a-release-6.6.5.apk](https://www.lanzoul.com/ilGkJ24nu4cb)
+
+ - [AfuseKt-arm64-1.3.2-10063.apk](https://www.lanzoul.com/i96pu24ntgbg)
+
+ - [AfuseKt-arm64-1.3.2-10062.apk](https://www.lanzoul.com/iqcee24nt15a)
+
+ - [AfuseKt-arm64-1.3.2-10061.apk](https://www.lanzoul.com/ifTuT24nsd0b)
+
+ - [gkd-v1.8.0-beta.7.apk](https://www.lanzoul.com/iTCvy24nqi6f)
+
+ - [lanzouyun-3.5.1-x64-win.zip](https://www.lanzoul.com/imxn924npdad)
+
+
 ## 2024-07-16 更新
 
 
