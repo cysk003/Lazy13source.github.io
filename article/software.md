@@ -9,6 +9,31 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-19 更新
+
+ - [油小猴工具箱v2.2.1.crx](https://www.lanzoul.com/i90NJ24tpshg)
+
+ - [lanzouyun-3.5.3-x64-win.zip](https://www.lanzoul.com/ibVFA24tppri)
+
+ - [Windows系统调校_20240718_76e69aa7.exe](https://www.lanzoul.com/iJUaK24tpm7a)
+
+ - [Windows系统调校_20240718_压缩_dd94572f.exe](https://www.lanzoul.com/i6PY824tpm2f)
+
+ - [七猫免费小说_v7.52_Mod@辰夕.apk](https://www.lanzoul.com/iyuBV24tpjfa)
+
+ - [Via_5.6.1_Mod@辰夕.apk](https://www.lanzoul.com/ibivE24tpgzc)
+
+ - [Question.AI_v2.7.5_(512)_Mod@辰夕.apk](https://www.lanzoul.com/io86F24tpfde)
+
+ - [ES文件浏览器_v4.4.2.11_Mod@辰夕.apk](https://www.lanzoul.com/i1h2c24tpdla)
+
+ - [Chat Smith_v3.8.1_Mod@辰夕.apk](https://www.lanzoul.com/i9XAp24tpbtg)
+
+ - [360安全浏览器_15.3.3072.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/ihGkx24tp8dc)
+
+ - [360SE-15.3.3072.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/iF7QZ24tp8cb)
+
+
 ## 2024-07-18 更新
 
 
