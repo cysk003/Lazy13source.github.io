@@ -9,6 +9,130 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-23 更新
+
+ - [wps (1).apk](https://www.lanzoui.com/iWGvx258c3hi)
+
+ - [12an 2.1.6@老殁.txt](https://www.lanzoul.com/i0oLt257w3di)
+
+ - [360SE-15.3.5102.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/ibZm0257w30f)
+
+ - [CCleaner-Pro-6.26.11169-x64-Plus@zd423.7z](https://www.lanzoul.com/ilASI257vzwd)
+
+ - [ES文件浏览器_v4.4.2.12_Vip@黑鹰.apk](https://www.lanzoul.com/i6to3257vylg)
+
+ - [影视TV-ok-v2.4.4-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iSfPI257hzmj)
+
+ - [影视TV-ok-v2.4.4-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iuM3E257hyub)
+
+ - [影视TV-ok-v2.4.4-A4.x-leanback.apk](https://www.lanzoul.com/i66lA257hxsd)
+
+ - [影视TV-fongmi-v2.4.4-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iZpYC257hvha)
+
+ - [影视TV-fongmi-v2.4.4-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/itNKk257hu9g)
+
+ - [影视TV-fongmi-v2.4.4-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/inTIg257hsmh)
+
+ - [影视TV-fongmi-v2.4.4-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/i0zhy257hr8h)
+
+ - [影视TV-ok-v2.4.4-电视版-X5离线.apk](https://www.lanzoul.com/iVUk7257hq6j)
+
+ - [影视TV-ok-v2.4.4-海信专版.apk](https://www.lanzoul.com/ikyuW257hl0d)
+
+ - [影视TV-ok-v2.4.4-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/i86kC257hije)
+
+ - [影视TV-ok-v2.4.4-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iNui0257hfsf)
+
+ - [影视-fongmi-v2.4.4-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/ifLNb257h6qj)
+
+ - [影视-fongmi-v2.4.4-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i0ZwQ257h2ti)
+
+ - [影视-fongmi-v2.4.4-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/i5YuD257gwle)
+
+ - [影视-fongmi-v2.4.4-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/in0cF257gncb)
+
+ - [影视-ok-v2.4.4-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iOkMX257giti)
+
+ - [影视-ok-v2.4.4-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iBXho257gdpe)
+
+ - [影视-ok-v2.4.4-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/ine4n257g9oj)
+
+ - [影视-ok-v2.4.4-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/ieQaE257g0kb)
+
+ - [AfuseKt-arm64-1.3.3.apk](https://www.lanzoul.com/i8BBW257fpte)
+
+ - [海阔视界_V8.50_C5075_db53-64位.apk](https://www.lanzoul.com/iUlC1257femb)
+
+ - [云视听极光极速版v14.2.2.30005.apk](https://www.lanzoul.com/iD8Q3257fb5g)
+
+ - [云视听极光极速版v12.8.2.30005.apk](https://www.lanzoul.com/iRPOd257f8yh)
+
+ - [XBYDriver-3.14.1-win-x64@gaozhangmin.exe](https://www.lanzoul.com/iLMUD257f3ad)
+
+ - [mpv-x86_64-20240721-git-e509ec0.7z](https://www.lanzoul.com/iUNZM257epba)
+
+
+## 2024-07-22 更新
+
+ - [单文件制作工具 7.0.2.3852_x86_x64.zip](https://www.lanzoui.com/id0KP2555hyj)
+
+ - [截图工具FastStone Capture 10.6官方简体中文版.zip](https://www.lanzoui.com/ign6y2531vpi)
+
+ - [央视影音v6.0.1.0绿色版.rar](https://www.lanzoui.com/i3HcB2531s6b)
+
+ - [wps.apk](https://www.lanzoui.com/iquNp2531kna)
+
+ - [Spotify-v8.9.56.618_build_116396262-Experimental-Mod-arm64-v8a_iHackedit.com@baltan.apk](https://www.lanzoul.com/itzYx2519ygd)
+
+ - [Spotify-v8.9.18.512_build_111414784-_-Amoled-Clone-arm64-v8a_iHackedit.com@baltan.apk](https://www.lanzoul.com/iBw712519wvg)
+
+ - [Spotify-v8.9.56.618_build_116396262-Experimental-Amoled-Mod-arm64-v8a_iHackedit.com@baltan.apk](https://www.lanzoul.com/i3V4C2519uwf)
+
+ - [Spotify-v8.9.18.512_build_111414784-Clone-_-arm64-v8a_iHackedit.com@baltan.apk](https://www.lanzoul.com/iWfHZ2519t7e)
+
+ - [Spotify-v8.9.18.512_build_111414784-Amoled-_-arm64-v8a_iHackedit.com@baltan.apk](https://www.lanzoul.com/i4Kf72519qwb)
+
+ - [Spotify-v8.9.18.512_build_111414784-_-arm64-v8a_iHackedit.com@baltan.apk](https://www.lanzoul.com/ilQ1K2519p3g)
+
+ - [SD_Maid_SE-Pro-v1.2.0-beta0_build_10200000-Mod_iHackedit.com@baltan.apk](https://www.lanzoul.com/iF1GL2519lti)
+
+ - [SD_Maid_SE-Pro-v1.2.0-beta0_build_10200000-Viva-Magenta-Mod_iHackedit.com@baltan.apk](https://www.lanzoul.com/iXEjN2519lih)
+
+ - [Speedtest-Premium-v5.4.5_build_214366-Mod-arm64-v8a_iHackedit.com@baltan.apk](https://www.lanzoul.com/iSLRt2519k9c)
+
+ - [360安全浏览器_15.3.5100.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iQDZl2518saf)
+
+ - [联想QuickFix工具中心.exe](https://www.lanzoul.com/i2k7P25189vc)
+
+ - [freedom _1.3.4.apk](https://www.lanzoul.com/ibGSs25182ba)
+
+ - [注册表跳转器(Registry Jumper)3.0汉化版@th_sjy.rar](https://www.lanzoul.com/i7grl2517xti)
+
+ - [彩云天气_v7.18.1_Mod@辰夕.apk](https://www.lanzoul.com/in6Tb2517wng)
+
+ - [MyRadio_v1.1.96.0713_(10322)_Mod@辰夕.apk](https://www.lanzoul.com/iLVSU2517tmh)
+
+ - [ES文件浏览器_v4.4.2.12_Mod@辰夕.apk](https://www.lanzoul.com/i0sXm2517rtc)
+
+ - [Inet Download Manager v6.42 Build 15 Retail@烈火分享.rar](https://www.lanzoul.com/iCW7T2517dze)
+
+ - [Inet Download Manager v6.42 Build 15 RePack by elchupacabra.zip](https://www.lanzoul.com/iLMOk2517dih)
+
+ - [Inet Download Manager v6.42 Build 15 绿色特别版（去更新）@烈火.rar](https://www.lanzoul.com/iXlVo2517d4d)
+
+ - [emby-android-google-arm64-v8a-release-3.4.12.apk](https://www.lanzoul.com/ioSPv25179je)
+
+ - [BBLL1.5.0.apk](https://www.lanzoul.com/iQDCy25175ri)
+
+ - [小白兔AI 3.1 - Windows   Mac.exe](https://www.lanzoul.com/isLlZ2516pxi)
+
+ - [小白云盘-v1.7.3.1-armeabi-v7a.apk](https://www.lanzoul.com/ie9Ck2516jsh)
+
+ - [小白云盘-v1.7.3.1-arm64-v8a.apk](https://www.lanzoul.com/iFgvD2516jhg)
+
+ - [油小猴工具箱v2.2.2.crx](https://www.lanzoul.com/iGikq2516h6d)
+
+
 ## 2024-07-19 更新
 
  - [油小猴工具箱v2.2.1.crx](https://www.lanzoul.com/i90NJ24tpshg)

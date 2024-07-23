@@ -17,6 +17,32 @@
 
 ***
 
+- 240723：
+  
+  - 240723卢克文星球《拜登突然宣布退选，哈里斯能上位吗？》
+  
+  - 240723卢克文星球《欧盟对华加征汽车关税，内部分歧有多大？》
+  
+  - 240723群分享《怎样像辩手一样思考？》
+  
+  - <details>
+    <summary>更新《240723懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJNE0o1lmZ38xn1IlogZlegH5XoapKtC33rwmEkiaU2X6ia9gXCSlRwhLV3DiaG6FkVk8FG8iaglPBkRQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240723懒人赚钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJNE0o1lmZ38xn1IlogZlegc1YTdJDuykPa73bZIic7suXEZ6Am40b1bCPXVlpoqASRHQsKEyao9ibQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240722：
+  
+  - 240722守夜人总司令付费文《这才是布局》
+  - 240722群分享《宗馥莉的退与进：企二代接班，路在何方？》
+  - 240722卢克文星球《反向“卡脖子”？美国为何对大疆松口？》
+  - 240722卢克文星球《宗馥莉突然辞职，娃哈哈怎么了？》
+  - 240720守夜人总司令《一场不改变趋势的表演！！》
+  
 - 240719：
   
   - 240718政事堂顾子明付费文《三中全会的七个重大转变》
