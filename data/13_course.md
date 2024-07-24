@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 《陈海贤·家庭关系21讲》
+
+  - 标签：`#职场`，`#法律`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNKJXFXM3GGJWIt95atiaSYey9XtGBqG5P5rewKkRraQ8BBVkbRGK5HUzqGdYfnib20wia8AarAbicOKag/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《陈立翰·大脑潜能开发6讲》
 
   - 标签：`#职场`，`#法律`
