@@ -14,6 +14,22 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [长期关系躲不过的一劫：依然亲密却再不心动](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247865598&idx=1&sn=15f4d41a5097f05e09bac47504b4642c&chksm=9fcb7dbaa8bcf4acd2709de9131a0e9a3355e3df9f9947af889aa84306d34ef9a0aa0e463472#rd) |  [备份查看](/gzh/backup/KnowYourself/长期关系躲不过的一劫：依然亲密却再不心动)
+    - 时间：2024-07-23
+    - 摘要：
+- [活得拧巴的人，大多都是严重误解了这个词](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247864923&idx=1&sn=6ee1520cfebd1d05de8438b6a0f73ed4&chksm=9fcb7b1fa8bcf20984aa0d6dbc2a8bf3ccdaade6b8bd205339f7419c7fe2a06c5cb538d73a5c#rd) |  [备份查看](/gzh/backup/KnowYourself/活得拧巴的人，大多都是严重误解了这个词)
+    - 时间：2024-07-22
+    - 摘要：一个常见的思维误区，解开它，活得更舒展
+- [想要和伴侣越来越亲密，这件事和相爱一样重要](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247864797&idx=1&sn=809a64664f66786fe8e2d2518f6d9c4f&chksm=9fcb7899a8bcf18f0226e877d63e290bfeb30e9d2c0a0b56f87dbd1c814abf3b0eb1ce578dea#rd) |  [备份查看](/gzh/backup/KnowYourself/想要和伴侣越来越亲密，这件事和相爱一样重要)
+    - 时间：2024-07-20
+    - 摘要：长期关系的本质，是需求的匹配，沟通模式则是关键~
+- [这种生活中的优势特质，择偶时却是个隐形大坑](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247864784&idx=1&sn=ca8d3d8e0612cd24dd3c33c76692b56d&chksm=9fcb7894a8bcf1820094ed8dfa7e55cc52893a6706d9c441909eaf8ce748ebbee9106f975a57#rd) |  [备份查看](/gzh/backup/KnowYourself/这种生活中的优势特质，择偶时却是个隐形大坑)
+    - 时间：2024-07-19
+    - 摘要：看看你有没有中招？
+- [征集：什么时候，你最讨厌身边人玩手机？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247864784&idx=2&sn=b141b9481edb87209949c062c5183156&chksm=9fcb7894a8bcf182ebffc51a36e785fa49b1b087209ee9b53d3926732881e2325f4cecc2dbea#rd) |  [备份查看](/gzh/backup/KnowYourself/征集：什么时候，你最讨厌身边人玩手机？)
+    - 时间：2024-07-19
+    - 摘要：关于玩手机的雷区大调查
+
 - [只有我觉得现在的标题都很烦人吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247864645&idx=1&sn=f682046ec77f1ee8debced670bf98c70&chksm=9fcb7801a8bcf11725d33454820c93e72a92ac89b2753dc176df11974fa71cd8683e7f2647f5#rd) |  [备份查看](/gzh/backup/KnowYourself/只有我觉得现在的标题都很烦人吗？)
     - 时间：2024-07-18
     - 摘要：求求算法放过我
