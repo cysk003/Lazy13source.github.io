@@ -9,6 +9,115 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-29 更新
+
+ - [Wifi钥匙精简版 10.10版本.apk](https://www.lanzoui.com/i4i3N25p7rvi)
+
+ - [重复文件清理器 - Duplicate Cleaner 1.4.7.zip](https://www.lanzoui.com/ieldF25matze)
+
+ - [WPS免登录工具_By秋雨.rar](https://www.lanzoui.com/iCt9S25mapid)
+
+ - [海阔视界_V8.51_C5106_db53-64位.apk](https://www.lanzoul.com/iszcX25pn5yf)
+
+ - [Google-Play-Store-42.0.20-29-A10 All.apk](https://www.lanzoul.com/iN5MJ25pn51c)
+
+ - [TikTok_30.8.4_armv8a@[SN-333a0b9b].txt](https://www.lanzoul.com/irJdw25pn2fi)
+
+ - [小红书v7.68.0.2精简版.apk](https://www.lanzoul.com/iBD4T25plggb)
+
+ - [小红书 官方内部版 v8.42.0.5.txt](https://www.lanzoul.com/iUN0E25plefi)
+
+ - [今日水印相机_v3.0.145.4_Mod@辰夕.txt](https://www.lanzoul.com/iycxP25pl31i)
+
+ - [度盘不限下载.txt](https://www.lanzoul.com/iX8tA25pkybi)
+
+ - [电脑剪映专业版 v5.5.0 解锁激活版.txt](https://www.lanzoul.com/iu1Up25pky9g)
+
+ - [哔哩哔哩v3.18.2精简版.txt](https://www.lanzoul.com/icZf325pknxe)
+
+ - [哔哩哔哩 OPPO Find X7 Ultra定制版 v6.56.0.apk](https://www.lanzoul.com/iNWci25pknta)
+
+ - [QQ音乐 魅族定制版 v11.3.0.txt](https://www.lanzoul.com/iLzAC25pkd4f)
+
+ - [硬盘图标修改工具及476个电脑美化图标.rar](https://www.lanzoul.com/iJFnj25pjpmj)
+
+ - [硬盘图标修改MyComputerManager-x64.rar](https://www.lanzoul.com/inYej25pjohi)
+
+ - [新浪邮箱_v2.1.5_Mod@辰夕.apk](https://www.lanzoul.com/iep9l25pjmrg)
+
+ - [网易云音乐 荣耀定制版 v1.5.30.apk](https://www.lanzoul.com/inqQA25pjj4f)
+
+ - [搜狗输入法 vivo定制版 v10.32.14023.2405302136.apk](https://www.lanzoul.com/icu5K25pjg0d)
+
+ - [搜狗输入法 OPPO定制版 v10.32.0422.2406041236.apk](https://www.lanzoul.com/injPA25pjcpe)
+
+ - [搜狗输入法 小米定制版 v10.32.21.202405292153.apk](https://www.lanzoul.com/i8Nqa25pjayb)
+
+ - [搜狗输入法 魅族定制版 v10.32.39.202405091105.apk](https://www.lanzoul.com/iMXBy25pj7yd)
+
+ - [七猫免费小说_7.53_Mod@辰夕.apk](https://www.lanzoul.com/i5vhm25pj1pi)
+
+ - [拼多多 官方内部版 v7.15.0.apk](https://www.lanzoul.com/i7gfc25piy8d)
+
+ - [论文检测查重助手1.5(切记不要更新).rar](https://www.lanzoul.com/iSdRC25piuqh)
+
+ - [快手v10.5.31.26318精简版.apk](https://www.lanzoul.com/iV7tZ25piqjg)
+
+ - [夸克_4.0.0.131无广告版.apk](https://www.lanzoul.com/ivJo125pioxi)
+
+ - [火绒解除占用提取版FileShred.rar](https://www.lanzoul.com/iFRYd25piiih)
+
+ - [免费小说-OPPO定制版-4.9.0.99.apk](https://www.lanzoul.com/iTBkQ25pihra)
+
+ - [抖音短视频v9.6.0精简版.apk](https://www.lanzoul.com/iFHoV25pi8mb)
+
+ - [贝瓦儿歌TV端_4.1.2@[SN-70a7dc2f].apk](https://www.lanzoul.com/ihq3S25phy7g)
+
+ - [百度贴吧12.46.3.0@[MT签名].apk](https://www.lanzoul.com/iVCDV25phxzi)
+
+ - [百度贴吧_12.37.0.2@[MT签名].apk](https://www.lanzoul.com/iuCMs25phwvi)
+
+ - [WiFi钥匙v1.0.10无广告.apk](https://www.lanzoul.com/iZ6f325phsad)
+
+ - [QQ影像-QQImage_Setup_30_890.rar](https://www.lanzoul.com/iELLO25phpoj)
+
+ - [ ReVanced Advanced v19.25.39 Dark Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/irThg25olzha)
+
+ - [ ReVanced Advanced v19.25.39 Black Root arm64 by youarefinished.apk](https://www.lanzoul.com/iLgnO25olxlc)
+
+ - [ ReVanced Advanced v19.25.39 AFN Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iZIiD25olwfa)
+
+ - [ ReVanced Advanced v19.25.39 AFN Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iIGHY25oluwf)
+
+ - [MicroG_RE_5.6@WST.apk](https://www.lanzoul.com/iGIjA25oltfc)
+
+ - [MicroG_RE_5.5@WST.apk](https://www.lanzoul.com/i48uI25olt3a)
+
+ - [ ReVanced Extended v19.28.35 Revancify Red Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/irn5F25olsta)
+
+ - [ ReVanced Extended v19.28.35 Revancify Blue Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ik5VF25olr8d)
+
+ - [ ReVanced Extended v19.28.35 Original Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ivZYx25olp6j)
+
+ - [ ReVanced Extended v19.28.35 Original Non-Root arm64 by youarefinished (1).apk](https://www.lanzoul.com/iWhRg25oln0b)
+
+ - [ ReVanced Extended v19.28.35 MYou Root arm64 by youarefinished.apk](https://www.lanzoul.com/ip0Tt25olkra)
+
+ - [ ReVanced Extended v19.28.35 MYou Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iLXsn25oli7i)
+
+ - [ ReVanced Extended v19.28.35 MMT Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/ivjK025olevi)
+
+ - [ ReVanced Extended v19.28.35 MMT Non-Root arm64 by youarefinished (1).apk](https://www.lanzoul.com/iuPzi25olcpa)
+
+ - [ ReVanced Extended v19.28.35 Dark Root arm64 by youarefinished.apk](https://www.lanzoul.com/iWaKl25olb8h)
+
+ - [ ReVanced Extended v19.28.35 Dark Non-Root arm64 by youarefinished.apk](https://www.lanzoul.com/iK7fm25ol9vi)
+
+ - [ ReVanced Extended v19.28.35 Black Root arm64 by youarefinished.apk](https://www.lanzoul.com/iPcF125ol7lg)
+
+ - [ ReVanced Extended v19.28.35 Black Root arm64 by youarefinished (1).apk](https://www.lanzoul.com/ie4mf25ol3ij)
+
+
 ## 2024-07-26 更新
 
 

@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [喜欢一个人，就是想和ta一起说很多废话](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247866527&idx=1&sn=ceb143835828fa983cf69d0775ee725f&chksm=9fcb71dba8bcf8cdb8a98f74cfd92aafe8f4bd80f32d44c92c7cdbe313fea5a824d4e8b99901#rd) |  [备份查看](/gzh/backup/KnowYourself/喜欢一个人，就是想和ta一起说很多废话)
+    - 时间：2024-07-28
+    - 摘要：和你一起浪费的时间，让我们变得更加珍贵
+- [这种深情阻碍人们找到真爱，却总是被歌颂](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247866399&idx=1&sn=87ba54b9dc232941b8c75d5b048ab488&chksm=9fcb715ba8bcf84de48c07dbca688d89c2b5fb68cf3493edafa125fd07cbd4e502c816d1e195#rd) |  [备份查看](/gzh/backup/KnowYourself/这种深情阻碍人们找到真爱，却总是被歌颂)
+    - 时间：2024-07-26
+    - 摘要：感情里的这种真心，才是“自杀计”。
+- [恋爱总是无疾而终，答案不在对方——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247866399&idx=3&sn=ce4fca9b24524dc2c54cf2a6878e82f5&chksm=9fcb715ba8bcf84df3f30a228b7eb790138c1a7d372eacd33da09c63e03e8007cf05fa6a057d#rd) |  [备份查看](/gzh/backup/KnowYourself/恋爱总是无疾而终，答案不在对方——)
+    - 时间：2024-07-26
+    - 摘要：如何破解“爱不久”的课题？
+
 - [约会时最招人烦的动作，它排第一](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247866250&idx=1&sn=35bcd0e5fc78da2e2f37b9b19d149312&chksm=9fcb7ecea8bcf7d816e203744704c6b957fd92296cd653a94fbb7aa0ae285296c707cd31a97d#rd) |  [备份查看](/gzh/backup/KnowYourself/约会时最招人烦的动作，它排第一)
     - 时间：2024-07-25
     - 摘要：快别玩了！
