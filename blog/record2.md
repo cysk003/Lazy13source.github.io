@@ -23,15 +23,29 @@
 
   - 240730太行商评100元付费文《三中全会将如何开启一个新的时代》
 
+  - 240730群分享《零售界的“无冕之王”，是怎样炼成的？》
+
+  - <details>
+    <summary>更新《240730懒人搞钱周报》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/RDnsI9KkLHXFk1eH3Vlmttjp7JST5pyXaTeWjtEVy2qibOmF8JsXF4x9oIgb4h6ESPbgF15PyEW7NiaGggibGIqMQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
+  - <details>
+    <summary>更新《240730懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/RDnsI9KkLHXFk1eH3Vlmttjp7JST5pyXPyJGXI4aR3tbsVa9Exh96wFVSsdLC6M0Ul1W3PQMCuarSLiat4mRd4A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
 - 240729:
   - 240729卢克文星球《全面取消在就业地参保户籍限制，灵活就业者的“福音”？》
   - 240729卢克文星球《董宇辉离职，东方甄选怎么办？》
   - 240729群分享《冠军的方法：怎样赢得一场“松弛”的胜利？》
   - 240729群分享《同盟军攻占腊戍，对中国影响几何？》
+  
 - 240726:
   - 240726卢克文星球《孟加拉国大规模抗议，背后只是考公的问题吗？》
   - 240726群分享《奥运心理学：运气与实力，是怎么相互制衡的？》
   - 240726群分享《怎么和贵人大领导相处？》
+  
 - 240725:
   - 240725卢克文星球《法塔赫和哈马斯达成北京宣言，对中东有何影响？》
   - 240725守夜人总司令《看清棋局！！》
