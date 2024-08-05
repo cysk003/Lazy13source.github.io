@@ -9,6 +9,37 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-07-30 更新
+
+## 2024-07-31 更新
+
+## 2024-08-01 更新
+
+## 2024-08-02 更新
+
+## 2024-08-05 更新
+
+ - [完美解码PureCodec20240730_x64.exe](https://www.lanzoui.com/i86NO26imuod)
+
+ - [光影魔术手v4.6.0.576绿色版.zip](https://www.lanzoui.com/iC0CE26imrpg)
+
+ - [光影魔术手v4.6.0.576绿色版.rar](https://www.lanzoui.com/iiL1h26imoyh)
+
+ - [光影魔术手v4.6.0.578绿色版.zip](https://www.lanzoui.com/i0ncC26immri)
+
+ - [光影魔术手v4.6.0.578绿色版.rar](https://www.lanzoui.com/iUxql26imk7g)
+
+ - [老软件RealPlayer 16.0.1.18.zip](https://www.lanzoui.com/iTDWt26im5va)
+
+ - [双色球助手V1.0.0-v7a-release.apk](https://www.lanzoui.com/i5Keh26im1qb)
+
+ - [双色球助手V1.0.0.apk](https://www.lanzoui.com/iutLY26im1af)
+
+ - [双色球助手V1.0.064-v8a-release.apk](https://www.lanzoui.com/inLS926im0ji)
+
+ - [双色球助手V1.0.0-x86_64-release.apk](https://www.lanzoui.com/ifaHU26im04d)
+
+
 ## 2024-07-29 更新
 
  - [Wifi钥匙精简版 10.10版本.apk](https://www.lanzoui.com/i4i3N25p7rvi)
