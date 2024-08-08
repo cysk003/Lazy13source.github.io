@@ -35,9 +35,18 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 《卫哲 · 讲透组织提效》
+
+  - 标签：`#职场`，`#效率`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNIF7OdhQYNq5cHtZ8qz2YN6T589kV579cbuuxEadGUAhXfwnTpCOBoic8w87Vw3utjef0RlMBnhRMg/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《陈海贤·家庭关系21讲》
 
-  - 标签：`#职场`，`#法律`
+  - 标签：`#家庭`，`#心理`
 
   - <details>
         <summary>点击展开目录</summary>
