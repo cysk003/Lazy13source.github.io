@@ -9,6 +9,18 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-08-08 更新
+
+ - [2345压_v3.2.zip](https://www.lanzoui.com/ih76x26spyij)
+
+
+## 2024-08-07 更新
+
+ - [禁止微更新.exe](https://www.lanzoui.com/iFbCs26mduaj)
+
+ - [百亿商店收银系统.zip](https://www.lanzoui.com/ihZbV26mdrof)
+
+
 ## 2024-07-30 更新
 
 ## 2024-07-31 更新
