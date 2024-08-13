@@ -17,6 +17,29 @@
 
 ***
 
+- 240813:
+
+  - 240813卢克文星球《如何看待这次奥运的40枚金牌？》
+  
+  - 240813群分享《“会说话”和“口才好”，你属于哪一种？》
+  
+  - <details>
+    <summary>更新《240813副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKw1SSPZPuv2bBvlcQS5g4UKib2jhxtz8QF0xP6gyWd0II7uAiboYHIkElKBpNyutllJUedS6I6EuibA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240813懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKw1SSPZPuv2bBvlcQS5g4Up1lyEicvBjjoy3TXeFsCL0v4mico5Jicu9qs7cjCXzMhOuic2O1zzeBcfw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 240812:
+  
+  - 240812《达叔天演论 问答》
+  - 240812卢克文星球《威逼腾讯和字节，苹果打的什么算盘？》
+  - 240812卢克文星球《宁波港口发生爆炸，是怎么回事？》
+  - 240812群分享《怎样把短视频刷成你的“知识库”？》
+  
 - 240809:
 
   - 240809卢克文星球《副总统候选人确定，哈里斯为何会选择他？》
