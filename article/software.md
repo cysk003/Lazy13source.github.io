@@ -9,6 +9,35 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-08-22 更新
+
+ - [什么垃圾_V3.4.apk](https://www.lanzoui.com/ixYhX281ur4d)
+
+ - [百度地图手机版 关怀版 1.1.5.apk](https://www.lanzoul.com/ixzFx283q9qf)
+
+ - [微信正式版v3.9.11.25多开防撤回绿色版@zd423.txt](https://www.lanzoul.com/iCjXk283nufc)
+
+ - [雷电模拟器9(64)-9.0.75.1去广告绿色版@zd423.txt](https://www.lanzoul.com/iOAP8283nu2j)
+
+ - [酷我音乐-10.9.1.2-VIP-v8a@[MT签名].txt](https://www.lanzoul.com/i88Dh283ntja)
+
+ - [WPS2023专业增强版-v12.8.2.17838-激活优化版@zd423.txt](https://www.lanzoul.com/ivnyY283njvc)
+
+ - [WPS2019专业增强版-v11.8.2.12300-激活优化版@zd423.txt](https://www.lanzoul.com/iFAGA283njsj)
+
+ - [360驱动大师網卡版-2.0.0.2040-绿色单文件@zd423.txt](https://www.lanzoul.com/ioiok283nhfe)
+
+ - [360驱动大师纯净版-2.0.0.2040-绿色单文件@zd423.exe](https://www.lanzoul.com/iR5Wa283nhdc)
+
+ - [360SE-15.3.5126.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/iwisD283ndmh)
+
+ - [CCleaner-Pro-6.27.11214-x64-Plus@zd423分享.7z](https://www.lanzoul.com/iYI9m283n2od)
+
+ - [搜狗输入法v14.7.0.9802去广告精简优化版@zd423.exe](https://www.lanzoul.com/ikFHS283mz9a)
+
+ - [Google-Play-Store-42.2.28-29-A10 All.apk](https://www.lanzoul.com/i6EWy283mv6d)
+
+
 ## 2024-08-21 更新
 
 
