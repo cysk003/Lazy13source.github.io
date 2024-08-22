@@ -67,9 +67,9 @@
 
 ## 懒人专栏
 
-| [懒人收藏夹](https://www.lazyblog.fun/)👍 | [破姐软件分享](/article/software)👍 |
+| [懒人收藏夹](https://www.lazyblog.top)👍 | [破姐软件分享](/article/software)👍 |
 | -------------------------------- | ----------------------------------- |
-|  | [专属群更新记录](/blog/record2)     |
+| 粉丝资源库（云盘）👍 | [专属群更新记录](/blog/record2)     |
 | [粉丝文档分享](/blog/fans) | [专属群通才计划](data/13_course.md) |
 | [知乎盐会员白嫖](/article/zhihu) |   |
 | [专属群文档备份](/blog/record3)  | [懒人早报](/blog/morning)           |
