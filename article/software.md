@@ -9,6 +9,13 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-08-23 更新
+
+ - [搜狗输入法小米版.apk](https://www.lanzoui.com/i3hyG284yo8b)
+
+ - [Apk提取.apk](https://www.lanzoui.com/iuVch284ybmh)
+
+
 ## 2024-08-22 更新
 
  - [什么垃圾_V3.4.apk](https://www.lanzoui.com/ixYhX281ur4d)

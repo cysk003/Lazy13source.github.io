@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [一个亲密关系中常见的有毒句式，经常说会摧毁爱情](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247871700&idx=1&sn=a5a40268eccc91938fbd4ea3dbe28ad1&chksm=9fcb0590a8bc8c862ce90e49d0bb4d255955cdb77006c540068406bcb372ed55cf9ed09f0bbb#rd) |  [备份查看](/gzh/backup/KnowYourself/一个亲密关系中常见的有毒句式，经常说会摧毁爱情)
+    - 时间：2024-08-20
+    - 摘要：在说“爱会消失”之前，再和伴侣沟通一下这件事吧
+- [吵架时的这 1 个动作，不伤感情还能让彼此更亲密](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247871368&idx=1&sn=b96767f0db07590fe3ebc2d1ab957d78&chksm=9fcb02cca8bc8bda9954722ffe6bf8eb0b1ab9226f50ceeabeefb44c2b36f7dfbd6b2ac9e86d#rd) |  [备份查看](/gzh/backup/KnowYourself/吵架时的这 1 个动作，不伤感情还能让彼此更亲密)
+    - 时间：2024-08-19
+    - 摘要：爱情以外的关系也适用
+
 - [童年没有被满足的一样东西，长大后会慢慢消耗你](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247870877&idx=1&sn=af52fb1198b29134f250cb7d06998b4c&chksm=9fcb00d9a8bc89cfc50282fb4e1fb0fb264562b897dd62d5cf6359e181d9a2914ed928dcd524#rd) |  [备份查看](/gzh/backup/KnowYourself/童年没有被满足的一样东西，长大后会慢慢消耗你)
     - 时间：2024-08-15
     - 摘要：快来看看是不是你的日常？
