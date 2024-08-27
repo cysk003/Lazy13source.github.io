@@ -9,6 +9,121 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-08-26 更新
+
+## 2024-08-27 更新
+
+ - [播放器 KMPlayer 2024.8.22.14 x64.exe](https://www.lanzoui.com/iIUJ928h8b7e)
+
+ - [小学生出题软件v6.0Nuitka编译.exe](https://www.lanzoui.com/ilZUT28h863a)
+
+ - [小学生出题软件v6.0.exe](https://www.lanzoui.com/iOqG428h83od)
+
+ - [面试叫号系统v1.3.rar](https://www.lanzoui.com/ibww328h7thg)
+
+ - [橘子视频 Ver.5.0.10 去广告版@zhou45.apk](https://www.lanzoul.com/iZS0m28cpfad)
+
+ - [大学搜题酱_2.2.0 Mod纯净版@LWELY.apk](https://www.lanzoul.com/iKESf28cpchc)
+
+ - [车来了_4.54.400 Mod绿化版@LWELY.txt](https://www.lanzoul.com/izSF628cpayh)
+
+ - [Telegram_v10.5.1_minSDK26@miya.apk](https://www.lanzoul.com/iTgxQ28cp76b)
+
+ - [Speedtest v5.4.8 [Premium]@piemods.apk](https://www.lanzoul.com/izCgx28cp4mj)
+
+ - [Share_3.9.3_Monet@wushidi.apk](https://www.lanzoul.com/ibfKn28cp2mh)
+
+ - [SD.Maid.SE-1.2.2-PRO@ST.apk](https://www.lanzoul.com/i6TOG28cp0sb)
+
+ - [SD.Maid.SE-1.2.2-PRO_red@ST.apk](https://www.lanzoul.com/iQ9gR28cp0oh)
+
+ - [dolby_beta_4.0.0_20240804@洛星苒.apk](https://www.lanzoul.com/i9JQm28cp09c)
+
+ - [64Gram_1.1.32_x64.zip](https://www.lanzoul.com/ihuhD28cozkh)
+
+ - [七猫免费小说_7.53(75300)-by东明.apk](https://www.lanzoul.com/iZA5U28covyh)
+
+ - [美团红包助手 Ver.1.9.8 去广告版@zhou45.apk](https://www.lanzoul.com/ilcWI28cotne)
+
+ - [酷我音乐_6.8.9.0定制版_sign@wushidi基于洛星苒.apk](https://www.lanzoul.com/ifD0K28cotab)
+
+ - [酷我音乐_6.8.9.0定制版@洛星苒.apk](https://www.lanzoul.com/i4ikI28cosza)
+
+ - [WiFi万能钥匙_5.0.52(240802)-by东明.apk](https://www.lanzoul.com/iSvq428coqle)
+
+ - [WiFi万能钥匙极速版_6_8_272407310_by东明.apk](https://www.lanzoul.com/iwWGT28cooqh)
+
+ - [QQ音乐小米版4.26.0.2-v@wushidi.apk](https://www.lanzoul.com/iAt1K28con4j)
+
+ - [QQ音乐_11.3.1(11003001)flyme定制版@wushidi.apk](https://www.lanzoul.com/igx3w28colqj)
+
+ - [QQ_8.9.70_Mod1.0@欢乐花园simba.txt](https://www.lanzoul.com/iaTPW28coj5g)
+
+ - [剪映_14.4.0@辰夕.txt](https://www.lanzoul.com/ijkc728cog0d)
+
+ - [CapCut_12.4.0_Mod@辰夕.txt](https://www.lanzoul.com/iof6g28cofzc)
+
+ - [剪映_14.4.0_Mod@辰夕.txt](https://www.lanzoul.com/ieXyr28cofyb)
+
+ - [GreenTuber_0.1.4.8_@takklong.apk](https://www.lanzoul.com/ijaPO28codhc)
+
+ - [GreenTuber_0.1.4.8@takklong.apk](https://www.lanzoul.com/igufE28cod1g)
+
+ - [dolby_beta_4.0.0_20240803-release@洛星苒.apk](https://www.lanzoul.com/iuFB828coccb)
+
+ - [AI Chat_3.0.8.0@liu.apk](https://www.lanzoul.com/i6S1p28cobpi)
+
+ - [ADM 14.0.22 Super Fixed@欢乐花园.apk](https://www.lanzoul.com/iJ5p728coali)
+
+ - [美图秀秀_10.15.2 Mod粉钻版@LWELY.txt](https://www.lanzoul.com/iWgzg28co3wh)
+
+ - [TikTokMod-35.8.3-universal@dmitry.txt](https://www.lanzoul.com/iTVby28co3ni)
+
+ - [TikTokAsia_v35.8.3_@tkjiku_multi.txt](https://www.lanzoul.com/ixRvw28co3lg)
+
+ - [TikTokAsia_v35.8.3_@tkjiku_lite.txt](https://www.lanzoul.com/ifAId28co3kf)
+
+ - [TikTok_v35.8.3_@tkjiku_multi.txt](https://www.lanzoul.com/iuHsl28co3je)
+
+ - [TikTok_v35.8.3_@tkjiku_lite.txt](https://www.lanzoul.com/isTMp28co3id)
+
+ - [TikTok Plugin 1.47.apk](https://www.lanzoul.com/iKajU28co3hc)
+
+ - [小歪微商 Ver.1.2.8 会员解锁版@zhou45.apk](https://www.lanzoul.com/iLo1v28cnxva)
+
+ - [七猫免费小说_7.53(75300)-by东明.apk](https://www.lanzoul.com/iJXqs28cntmh)
+
+ - [杜比大喇叭βdolby_beta_4.0.0_20240729-release@洛星苒.apk](https://www.lanzoul.com/iR71F28cnrud)
+
+ - [杜比大喇叭β_4.0.0@洛星苒.apk](https://www.lanzoul.com/iM02528cnqob)
+
+ - [IDM.v6.42.Build.17.Crack.zip](https://www.lanzoul.com/iUhEL28cnp9a)
+
+ - [idman642build17.exe](https://www.lanzoul.com/iGAaV28cnp6h)
+
+ - [GreenTuber_0.1.4.7_@takklong.apk](https://www.lanzoul.com/iG86t28cnooj)
+
+ - [GreenTuber_0.1.4.7@takklong.apk](https://www.lanzoul.com/iGkxr28cnoch)
+
+ - [ChatOn_1.43.44 Mod专业版@LWELY.apk](https://www.lanzoul.com/iciXu28cnnod)
+
+ - [123云盘_2.4.0.0 Mod绿化版@LWELY.txt](https://www.lanzoul.com/iR9Fh28cnm0d)
+
+ - [[LSPatch]Bilibili-8.7.0-b15549539-漫游8e963f3acf.txt](https://www.lanzoul.com/iGFbl28cnk2d)
+
+ - [抖音-30.8.0_@tkjiku.txt](https://www.lanzoul.com/iCleJ28cna3e)
+
+ - [_v19.28.42_@tkjiku_lite.apk](https://www.lanzoul.com/iBsN928cn9sd)
+
+ - [_v19.16.39_@tkjiku_lite.apk](https://www.lanzoul.com/iZNe128cn6uh)
+
+ - [GreenTuber_0.1.4.6_@takklong.apk](https://www.lanzoul.com/iI0QO28cn2le)
+
+ - [GreenTuber_0.1.4.6@takklong.apk](https://www.lanzoul.com/iEWTb28cn2ha)
+
+ - [影视TV2.5.2.apk](https://www.lanzoul.com/ijxsm28cxqli)
+
+
 ## 2024-08-23 更新
 
  - [搜狗输入法小米版.apk](https://www.lanzoui.com/i3hyG284yo8b)
