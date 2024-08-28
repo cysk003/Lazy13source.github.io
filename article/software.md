@@ -9,6 +9,115 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-08-28 更新
+
+ - [酷视频PC版_-8.0.2.7290_去广告-特别版.7z](https://www.lanzoui.com/ieUBs28iarbc)
+
+ - [爱奇艺(64)-v12.2.5.7850-去广告绿色版.exe](https://www.lanzoui.com/iWjnT28i5tbe)
+
+ - [腾讯视频-v11.101.1526-去广告绿版.exe](https://www.lanzoui.com/iiSgn28i5rcd)
+
+ - [-rvx_v19.28.42_@tkjiku_universal.txt](https://www.lanzoul.com/i6EF128jn0pi)
+
+ - [-rvx_v19.28.42_@tkjiku_lite.apk](https://www.lanzoul.com/iXaIu28jn0oh)
+
+ - [-rvx_v19.16.39_@tkjiku_universal.txt](https://www.lanzoul.com/iJLcS28jn0ha)
+
+ - [-rvx_v19.16.39_@tkjiku_lite.apk](https://www.lanzoul.com/i9BTR28jmz4b)
+
+ - [MicroG_RE_5.8@WST.apk](https://www.lanzoul.com/icvGW28jmyta)
+
+ - [99_1.7.4.0 Mod尊享版@LWELY.apk](https://www.lanzoul.com/i0baU28jmqjc)
+
+ - [_ReVanced_Extended_v19.28.42_Revancify_Red_non-root_arm64_by_youarefinished.apk](https://www.lanzoul.com/ibAXc28jmo9a)
+
+ - [ ReVanced Extended v19.28.42 Revancify Blue non-root arm64 by youarefinished.apk](https://www.lanzoul.com/iVAjn28jmlpi)
+
+ - [ ReVanced Extended v19.28.42 Original non-root arm64 by youarefinished.apk](https://www.lanzoul.com/ivJxR28jmkeb)
+
+ - [ ReVanced Extended v19.28.42 MYou root arm64 by youarefinished.apk](https://www.lanzoul.com/igSLr28jmj6h)
+
+ - [ ReVanced Extended v19.28.42 MYou non-root arm64 by youarefinished.apk](https://www.lanzoul.com/i6t7c28jmihc)
+
+ - [ ReVanced Extended v19.28.42 MMT non-root arm64 by youarefinished.apk](https://www.lanzoul.com/iVG9728jmhpe)
+
+ - [ ReVanced Extended v19.28.42 Dark root arm64 by youarefinished.apk](https://www.lanzoul.com/ifHbp28jmfmj)
+
+ - [ ReVanced Extended v19.28.42 Dark non-root arm64 by youarefinished.apk](https://www.lanzoul.com/i4UdL28jmcdc)
+
+ - [ ReVanced Extended v19.28.42 Black root arm64 by youarefinished.apk](https://www.lanzoul.com/idUAk28jmbsb)
+
+ - [ ReVanced Extended v19.28.42 AFN Red non-root arm64 by youarefinished.apk](https://www.lanzoul.com/iodcB28jmb2f)
+
+ - [ ReVanced Extended v19.28.42 AFN Blue non-root arm64 by youarefinished.apk](https://www.lanzoul.com/iIGHv28jm86b)
+
+ - [微商工具箱 Ver.1.8.1 会员解锁修复版@zhou45.apk](https://www.lanzoul.com/iY81Z28jluof)
+
+ - [QQ_8.9.70_Mod1.0@欢乐花园simba最终版.txt](https://www.lanzoul.com/iF25K28jluef)
+
+ - [杜比大喇叭dolby_beta_4.0.2_20240812-release (1)@洛星苒.apk](https://www.lanzoul.com/iHVLH28jltgb)
+
+ - [Yamby-v1.3.4.5-arm64-v8a.apk](https://www.lanzoul.com/iJtx228jlswb)
+
+ - [idman642build19.exe](https://www.lanzoul.com/iGSOf28jlsih)
+
+ - [IDM.v6.42.Build.19.Crack.zip](https://www.lanzoul.com/i5vhZ28jlsdc)
+
+ - [GreenTuber_0.1.4.9_@takklong.apk](https://www.lanzoul.com/iZDDs28jlrwf)
+
+ - [GreenTuber_0.1.4.9@takklong.apk](https://www.lanzoul.com/inQCV28jlrle)
+
+ - [ADM 14.0.22 Super Fixed@欢乐花园.apk](https://www.lanzoul.com/iKSP928jlqzc)
+
+ - [X-plore_4.38.31@liu.apk](https://www.lanzoul.com/iVHCU28jlqbi)
+
+ - [X-plore v4.38.31 Root Black arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iq1ms28jln1a)
+
+ - [X-plore v4.38.31 Root arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iSVtL28jlmxg)
+
+ - [X-plore v4.38.31 Black arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iapZU28jlmsb)
+
+ - [X-plore v4.38.31 arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iyI1V28jlmra)
+
+ - [小说_4.9.0.9 Mod高级版@LWELY.apk](https://www.lanzoul.com/iiaeL28jlkgh)
+
+ - [饿了么红包助手 Ver.3.4.3 去广告版@zhou45.apk](https://www.lanzoul.com/iytQ328jliti)
+
+ - [ ReVanced v19.28.42@piemods.txt](https://www.lanzoul.com/ip6il28jliaj)
+
+ - [WPS_Office-Premium-v18.12_build_1512-Mod@balatan.txt](https://www.lanzoul.com/i0Kd828jli3c)
+
+ - [Speedtest-Premium-v5.4.9_build_216438-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iron328jlhoh)
+
+ - [Speedtest v5.4.9 [Premium]@piemods.apk](https://www.lanzoul.com/i7GU128jlgli)
+
+ - [Nagram-v10.14.5(1188)-arm64-v8a.apk](https://www.lanzoul.com/iKdFe28jlfij)
+
+ - [MX_Player_Pro-v1.86.0_build_2001002440-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/ib1dc28jleyj)
+
+ - [ES_File_Explorer_Premium_v4_4_2_12_build_10335_Mod_Lite_arm64_v8a@balatan.apk](https://www.lanzoul.com/iE45028jleej)
+
+ - [Emby v3.4.20 _ed by youarefinished.txt](https://www.lanzoul.com/iKShN28jldwb)
+
+ - [ChatOn_1.45.411 Mod专业版@LWELY.apk](https://www.lanzoul.com/iLhAE28jlb9g)
+
+ - [AdGuard-Premium-v4.7.11_build_10212691-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/ixAEb28jlari)
+
+ - [CamScanner v6.70.0.2408080000 Clean _ed by youarefinished.txt](https://www.lanzoul.com/iX8BG28jl38h)
+
+ - [CamScanner v6.70.0.2408080000 ads support _ed by youarefinished.txt](https://www.lanzoul.com/idP9V28jl37g)
+
+ - [CamScanner v6.70.0.2408080000 Offline _ed by youarefinished.txt](https://www.lanzoul.com/i9EzF28jl35e)
+
+ - [Emby v3.4.18 _ed by youarefinished.txt](https://www.lanzoul.com/i8s0t28jkzwh)
+
+ - [SD Maid 2_SE - System Cleaner v1.2.3-rc0 _ed by youarefinished.apk](https://www.lanzoul.com/iGTmQ28jkx2f)
+
+ - [MX Player Pro v1.86.0 _ed by youarefinished.apk](https://www.lanzoul.com/iSxTO28jkvij)
+
+ - [AdGuard Ad Blocker v4.7.11 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i3BsH28jkuvg)
+
+
 ## 2024-08-26 更新
 
 ## 2024-08-27 更新

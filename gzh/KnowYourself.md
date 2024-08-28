@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [没想明白这件事的人，很难开启新的恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247873275&idx=1&sn=902396cf7b75dc91201c8a45e9b7ba36&chksm=9fcb1bbfa8bc92a915303fb143c0188292616942e7afb0498bec86402d87a4c219aff557cd64#rd) |  [备份查看](/gzh/backup/KnowYourself/没想明白这件事的人，很难开启新的恋爱)
+    - 时间：2024-08-26
+    - 摘要：谈恋爱那么累，怎么还有人乐此不疲？
+
 - [一个亲密关系中常见的有毒句式，经常说会摧毁爱情](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247871700&idx=1&sn=a5a40268eccc91938fbd4ea3dbe28ad1&chksm=9fcb0590a8bc8c862ce90e49d0bb4d255955cdb77006c540068406bcb372ed55cf9ed09f0bbb#rd) |  [备份查看](/gzh/backup/KnowYourself/一个亲密关系中常见的有毒句式，经常说会摧毁爱情)
     - 时间：2024-08-20
     - 摘要：在说“爱会消失”之前，再和伴侣沟通一下这件事吧
