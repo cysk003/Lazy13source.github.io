@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 陆蓉·行为金融学课
+
+  - 标签：`#金融`，`#经济学`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKESFVYxj9Br5eF97QTgaYt3s777WG487iatc6LURl2MLb9RClSia65aQNpvL4gGCS39rRmo8BE2ibBg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《卫哲 · 讲透组织提效》
 
   - 标签：`#职场`，`#效率`

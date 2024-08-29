@@ -9,6 +9,115 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-08-29 更新
+
+ - [忧酷视频_-8.1.0.1280_去广告-版.exe](https://www.lanzoui.com/iDyan28ktv6h)
+
+ - [一键查看电脑各硬件详细信息（2024.8.25）.zip](https://www.lanzoui.com/il9H228kpe0f)
+
+ - [电脑磁盘清理工具 Wise Disk Cleaner 11.1.5 Build 831 中文免费版.zip](https://www.lanzoui.com/iaoGK28kpdyd)
+
+ - [有道云笔记_7.5.402@rikkati.apk](https://www.lanzoul.com/ibKoa28mqs0h)
+
+ - [扫描全能王_6.70.0.2408080000@rikkati.txt](https://www.lanzoul.com/iB0E628mqpla)
+
+ - [墨迹天气_9.0878.02@rikkati.apk](https://www.lanzoul.com/i20Fc28mqpih)
+
+ - [杜比大喇叭dolby_beta_4.0.3_20240819-release@洛星苒.apk](https://www.lanzoul.com/iPmvj28mqn4b)
+
+ - [车来了_4.54.8@rikkati.apk](https://www.lanzoul.com/iwe6928mqmgh)
+
+ - [安卓清理君_3.8.4(384)-by东明.apk](https://www.lanzoul.com/iHKoc28mqaji)
+
+ - [X-plore-Donate-v4.38.34_build_43834-Mod@balatan.apk](https://www.lanzoul.com/isJYO28mq3eb)
+
+ - [VSCO-X-v385_build_100024898-Mod@balatan.zip](https://www.lanzoul.com/im5MC28mpxmd)
+
+ - [TVBox_takagen99_20240819-1117-arm64-generic.apk](https://www.lanzoul.com/iSdk428mpp2f)
+
+ - [TVBox_takagen99_20240819-1117-armeabi-hisense.apk](https://www.lanzoul.com/iO7yc28mpnsj)
+
+ - [TVBox_takagen99_20240819-1117-armeabi-generic.apk](https://www.lanzoul.com/iJ3Fx28mpmqb)
+
+ - [TVBox_takagen99_20240819-1117-arm64-hisense.apk](https://www.lanzoul.com/ijiCB28mpfyh)
+
+ - [TVBox_takagen99_20240818-0811-armeabi-hisense.apk](https://www.lanzoul.com/ikUsD28mp6ed)
+
+ - [TVBox_takagen99_20240818-0811-armeabi-generic.apk](https://www.lanzoul.com/ixP7B28mp5ha)
+
+ - [TVBox_takagen99_20240818-0811-arm64-hisense.apk](https://www.lanzoul.com/iTktr28mp4pc)
+
+ - [TVBox_takagen99_20240818-0811-arm64-generic.apk](https://www.lanzoul.com/i441d28mp3zg)
+
+ - [Nagram-v11.0.0(1191)-arm64-v8a.apk](https://www.lanzoul.com/iT6Sm28mp1kj)
+
+ - [HiPER%2BCalc%2BPro-v10.5.3_build_225-Mod@balatan.apk](https://www.lanzoul.com/ihPsK28mowwb)
+
+ - [freedom+_1.3.5.apk](https://www.lanzoul.com/iwcMV28movpi)
+
+ - [AdGuard-Premium-v4.7.20_build_10213591-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iqpIM28mov3g)
+
+ - [AdGuard-Premium-v4.7.19_build_10213491-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iAE9528mouna)
+
+ - [AdGuard_Ad_Blocker_v4.7.19_Nightly_arm7_arm64_Patched_by_youarefinished.apk](https://www.lanzoul.com/i0wZx28mou8f)
+
+ - [123云盘_2.4.5@rikkati.txt](https://www.lanzoul.com/iSlHO28mordc)
+
+ - [64Gram_1.1.34_x64.zip](https://www.lanzoul.com/iPt9428mokre)
+
+ - [1DM%252B-v17.1_build_30243-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iuyZx28moe3e)
+
+ - [1DM%252B-v17.0_build_30240-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iU7Eq28modfa)
+
+ - [美柚_8.77.00.00 Mod会员版@LWELY.txt](https://www.lanzoul.com/ib3df28lt0xe)
+
+ - [酷狗音乐_3.5.2.0 Mod纯净版@LWELY.apk](https://www.lanzoul.com/iGcpx28lszaf)
+
+ - [小说_5.3.7.9 Mod会员版@LWELY.apk](https://www.lanzoul.com/iaT1s28lsupa)
+
+ - [大姨妈_8.8.9.000 Mod纯净版@LWELY.apk](https://www.lanzoul.com/iDpFb28lsszi)
+
+ - [Spotify_8.9.66.543_[Premium]@Alexa.apk](https://www.lanzoul.com/igZwb28lspid)
+
+ - [NekoX-v11.0.0-broken-mini-arm64-v8a-releaseNoGcm.apk](https://www.lanzoul.com/iy6B328lsngj)
+
+ - [Nekogram-11.0.0-5143-arm64-v8a.apk](https://www.lanzoul.com/iRNKi28lsm6d)
+
+ - [123云盘_2.4.5.0 Mod纯净版@LWELY.txt](https://www.lanzoul.com/iCRL328lskfa)
+
+ - [METAL.SLUG.X.ACA.NEOGEO.v1.1.1.build.10_antisplit_signed.apk](https://www.lanzoul.com/iD9LA28lsi5i)
+
+ - [KOF.2003.ACA.NEOGEO.ver.1.2.2.build.41_antisplit_signed.apk](https://www.lanzoul.com/ivneW28lsfmh)
+
+ - [KOF.2002.ACA.NEOGEO.ver.1.1.2.build.31_antisplit_signed.apk](https://www.lanzoul.com/ig8RD28lsdcf)
+
+ - [KOF.2001.ACA.NEOGEO.ver.1.1.2.build.31_antisplit_signed.apk](https://www.lanzoul.com/iDG5028lsaaf)
+
+ - [KOF.2000.ACA.NEOGEO.ver.1.1.2.build.31_antisplit_signed.apk](https://www.lanzoul.com/iDQLd28ls7zc)
+
+ - [KOF.__x27_99.ACA.NEOGEO.ver.1.1.2.build.31_antisplit_signed.apk](https://www.lanzoul.com/icKsz28ls4gf)
+
+ - [KOF.__x27_98.ACA.NEOGEO.ver.1.1.1.build.10_antisplit_signed.apk](https://www.lanzoul.com/i0lCp28ls25c)
+
+ - [KOF.__x27_97.ACA.NEOGEO.ver.1.1.1.build.10_antisplit_signed.apk](https://www.lanzoul.com/i2RUa28lrzti)
+
+ - [KOF.__x27_96.ACA.NEOGEO.ver.1.1.2.build.31_antisplit_signed.apk](https://www.lanzoul.com/iA2LK28lrycf)
+
+ - [KOF.__x27_95.ACA.NEOGEO.ver.1.1.2.build.31_antisplit_signed.apk](https://www.lanzoul.com/iRyEz28lrvqb)
+
+ - [KOF.__x27_94.ACA.NEOGEO.ver.1.1.2.build.31_antisplit_signed.apk](https://www.lanzoul.com/iZgJV28lrtng)
+
+ - [TVBox_takagen99_20240815-1204-armeabi-hisense.apk](https://www.lanzoul.com/i69LP28lr92f)
+
+ - [TVBox_takagen99_20240815-1204-armeabi-generic.apk](https://www.lanzoul.com/iPh4P28lr7wd)
+
+ - [TVBox_takagen99_20240815-1204-arm64-hisense.apk](https://www.lanzoul.com/iLoYM28lr77i)
+
+ - [TVBox_takagen99_20240815-1204-arm64-generic.apk](https://www.lanzoul.com/ix48028lr64j)
+
+ - [64Gram_1.1.33_x64.zip](https://www.lanzoul.com/ifZNK28lqypc)
+
+
 ## 2024-08-28 更新
 
  - [酷视频PC版_-8.0.2.7290_去广告-特别版.7z](https://www.lanzoui.com/ieUBs28iarbc)
