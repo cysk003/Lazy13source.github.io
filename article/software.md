@@ -9,6 +9,9 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-08-30 更新
+
+
 ## 2024-08-29 更新
 
  - [忧酷视频_-8.1.0.1280_去广告-版.exe](https://www.lanzoui.com/iDyan28ktv6h)

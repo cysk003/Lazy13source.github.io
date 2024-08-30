@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [日常沟通中这种下意识的反应，比吵架还伤人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247873363&idx=1&sn=b3a7c757d3dc8f92645c411e956fbd43&chksm=9fcb1a17a8bc9301df6247b0a3cbdf8016f9a729d87f619236a0156421d3dba4ee6388c2768e#rd) |  [备份查看](/gzh/backup/KnowYourself/日常沟通中这种下意识的反应，比吵架还伤人)
+    - 时间：2024-08-29
+    - 摘要：想要好好沟通，戒掉这件事很重要
+- [一生中最有失败感的 5 年，其实在为改变蓄力](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247873316&idx=1&sn=c73b31a9bfeada3abbb12f3fce60dbb3&chksm=9fcb1a60a8bc93760dfb9fd01a6da319142930616db528393f6e00131f9256a8c945e87946e0#rd) |  [备份查看](/gzh/backup/KnowYourself/一生中最有失败感的 5 年，其实在为改变蓄力)
+    - 时间：2024-08-28
+    - 摘要：看到新的转机。
+
 - [没想明白这件事的人，很难开启新的恋爱](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247873275&idx=1&sn=902396cf7b75dc91201c8a45e9b7ba36&chksm=9fcb1bbfa8bc92a915303fb143c0188292616942e7afb0498bec86402d87a4c219aff557cd64#rd) |  [备份查看](/gzh/backup/KnowYourself/没想明白这件事的人，很难开启新的恋爱)
     - 时间：2024-08-26
     - 摘要：谈恋爱那么累，怎么还有人乐此不疲？
