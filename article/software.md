@@ -9,6 +9,121 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-02 更新
+
+ - [开发助手.apk](https://www.lanzoui.com/ixOXA28vfhxc)
+
+ - [VCRedistSetup.exe](https://www.lanzoui.com/iJpEu28tmraj)
+
+ - [vc_redist2019.exe](https://www.lanzoui.com/iMMwj28tmn3i)
+
+ - [央视影音v6.0.1.2绿色版.rar](https://www.lanzoui.com/iOzgV28tm09g)
+
+ - [央视频TV.apk](https://www.lanzoui.com/ihGP928tlgda)
+
+ - [腾讯QQ正式版9.7.23.29382绿色纯净版.7z](https://www.lanzoui.com/icKkz28tlb7e)
+
+ - [影视TV-fongmi-2.5.8-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iXxpk28vxq2d)
+
+ - [影视TV-fongmi-2.5.8-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iYPgd28vxpni)
+
+ - [影视TV-fongmi-2.5.8-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/iUknI28vxp8d)
+
+ - [影视TV-fongmi-2.5.8-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iwPwT28vxova)
+
+ - [影视TV-ok-2.4.9-海信专版.apk](https://www.lanzoul.com/i7hXQ28vxogf)
+
+ - [影视TV-ok-2.4.9-电视版-X5离线.apk](https://www.lanzoul.com/imWuR28vxn9c)
+
+ - [影视TV-ok-2.4.9-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iEXrt28vxm4b)
+
+ - [影视TV-ok-2.4.9-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/irgdG28vxlqh)
+
+ - [影视TV-ok-2.4.9-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/i3oCl28vxl3e)
+
+ - [影视TV-ok-2.4.9-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iqIR128vxkxi)
+
+ - [影视TV-ok-2.4.9-leanback.apk](https://www.lanzoul.com/iNmUS28vxkrc)
+
+ - [影视-fongmi-2.5.8-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iWDXJ28vxk4j)
+
+ - [影视-fongmi-2.5.8-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iU3GR28vxjuj)
+
+ - [影视-ok-2.4.9-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iJXym28vxjrg)
+
+ - [影视-ok-2.4.9-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/i3iB128vxjdc)
+
+ - [影视-ok-2.4.9-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iFxeO28vxiyh)
+
+ - [影视-ok-2.4.9-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iiuJ828vxing)
+
+ - [影视-fongmi-2.5.8-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iOJlp28vxi6j)
+
+ - [影视-fongmi-2.5.8-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/ivW9J28vxhob)
+
+ - [逗音小手Xiaoshou_v2.1.0.apk](https://www.lanzoul.com/iQ2qP28vxh8f)
+
+ - [lx-music-mobile-v1.6.0-arm64-v8a.apk](https://www.lanzoul.com/i6Pwa28vxh5c)
+
+ - [lx-music-mobile-v1.6.0-sl-arm64-v8a.apk](https://www.lanzoul.com/iSWoa28vxgwd)
+
+ - [lx-music-desktop-v2.9.0-win7_x64-green.7z](https://www.lanzoul.com/ickH628vxglc)
+
+ - [lx-music-desktop-v2.9.0-win_x64-green.7z](https://www.lanzoul.com/igwnU28vxfni)
+
+ - [gkd-v1.8.0.apk](https://www.lanzoul.com/ixAop28vws2j)
+
+ - [emby-android-google-arm64-v8a-release-3.4.21.apk](https://www.lanzoul.com/iwYrg28vwrqh)
+
+ - [BV_675_0.2.9.r675.a7b5bff.alpha_default_universal.apk](https://www.lanzoul.com/iPEKL28vwr6h)
+
+ - [AfuseKt-arm64-1.3.6-10103.apk](https://www.lanzoul.com/iUuTA28vwr1c)
+
+ - [海阔视界_V8.57_C5204_db53-64位.apk](https://www.lanzoul.com/isxIa28vmjmf)
+
+ - [mpv-x86_64-20240901-git-7c672e3.7z](https://www.lanzoul.com/icAZh28vmiyb)
+
+ - [kodi-21.1-Omega-arm64-v8a.apk](https://www.lanzoul.com/irq2E28vmhij)
+
+ - [kodi-21.1-Omega-armeabi-v7a.apk](https://www.lanzoul.com/iKXrJ28vmg1g)
+
+ - [HWiNFO-hwi_810.zip](https://www.lanzoul.com/i0GqT28vmdkh)
+
+ - [喜马拉雅极速版v3.3.16.3@MT小程.apk](https://www.lanzoul.com/i0UfH28vdsud)
+
+ - [酷我音乐 拯救者 Y70 定制版 v6.8.9.0@百分之千分享.apk](https://www.lanzoul.com/iuo1T28vdr3a)
+
+ - [金山PDF-v11.8.0.8845西工大定制专业版内置激活码.txt](https://www.lanzoul.com/i89NU28vdlab)
+
+ - [免费小说 vivo X100 Ultra 定制版 v5.5.3.99@百分之千分享.apk](https://www.lanzoul.com/ijMea28vdjod)
+
+ - [百视通小电视_1.5.4.apk](https://www.lanzoul.com/ixKSS28vdhmj)
+
+ - [WPS Office 广东政务定制版 v11.4.1.6@百分之千分享.apk](https://www.lanzoul.com/ifG6928vdggh)
+
+ - [QQ音乐 魅族定制版 v11.3.0(11003000)@百分之千分享.apk](https://www.lanzoul.com/ixVRp28vdfje)
+
+ - [360 绿色提取版.txt](https://www.lanzoul.com/iPVX728vdcmj)
+
+ - [1DM .v17.1-arm64.CN@宇宙之辰.apk](https://www.lanzoul.com/itOeq28vd9ih)
+
+ - [七猫免费小说 7.55.20会员版_鹤七.txt](https://www.lanzoul.com/i0spK28va1ng)
+
+ - [123云盘 2.4.6去广告版_坤坤.txt](https://www.lanzoul.com/iWZEr28va16j)
+
+ - [剧 3.2.1去广告版_菠吹牛.apk](https://www.lanzoul.com/iwJFu28v9yuf)
+
+ - [修改水印相机 2.6.4会员版_喜凤.txt](https://www.lanzoul.com/iAr8v28v9p9a)
+
+ - [修改水印相机 2.6.2会员版_坤坤.txt](https://www.lanzoul.com/i66Ul28v9p8j)
+
+ - [修改水印相机 2.5.8会员版_鹿蜀.txt](https://www.lanzoul.com/ihqb628v9p6h)
+
+ - [新大师兄影视 3.3.6 去广告版v3_zhou45.apk](https://www.lanzoul.com/i4U0u28v9mbe)
+
+ - [小红书 8.49.0无水印版_坤坤.txt](https://www.lanzoul.com/imhqo28v9jch)
+
+
 ## 2024-08-30 更新
 
 
