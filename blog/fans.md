@@ -22,13 +22,166 @@
 
 ## 最新文档
 
-👍懒人粉丝资源库（表格形式，分类清楚）：https://hk57gvlx7u.feishu.cn/sheets/QQ2LsmvMZhxOSJtxyPFcbPLInne
+👍懒人粉丝资源库（表格形式，分类清楚）：https://docs.qq.com/document/DTld0WnVKeFlMdWFC
 
 最新粉丝资源分享访问飞书文档：https://hk57gvlx7u.feishu.cn/docx/W0Dadxptuop5xoxWSsBcayp3nDd
 
-美图分享访问：https://hk57gvlx7u.feishu.cn/docx/WqwvduzXNoum8exXixicszuenGf
-
 本手册链接作为历史分享备份~
+
+## 240829:
+
+- B站精品课《陈老师手机影像创作实战课程：从入门到精通》：https://pan.quark.cn/s/e98ed747348c
+
+## 240826：
+
+- 2024韩国爆笑喜剧「帅哥们 핸섬 가이즈」链接：https://pan.quark.cn/s/968d7cf6a418
+
+## 240820：
+
+- 已整理【粉丝资源共享库】：https://docs.qq.com/document/DTld0WnVKeFlMdWFC
+
+## 240819:
+
+- 「Z乎盐选会员内容(1-57)」链接：https://pan.quark.cn/s/912c540f8414
+  - mobi格式可以直接导入微信读书，体验也好。要转成其他格式，比如epub或pdf，可以用[Calibre这个软件](https://calibre-ebook.com/)
+
+## 240815:
+
+- 「各类合同模板合集」链接：https://pan.quark.cn/s/75c0ced92777
+
+## 240814:
+
+- 「2024最新军队文职资料合集」链接：https://pan.quark.cn/s/8a48c1a2bd9f
+- 「童老师双语精讲《牛津阅读树》」链接：https://pan.quark.cn/s/f0c8dd196f2a
+- 「伍跃·跨境拼多多TEMU实操与选品，趋势选品运营入住（27节完整）链接：https://pan.quark.cn/s/a343ac47cfba
+
+## 240813:
+
+- 「一部手机创造摄影剪切美学实战」链接：https://pan.quark.cn/s/282862faf415
+
+## 240812：
+
+- 「国家乒乓球队国手尹航教学课程」链接：https://pan.quark.cn/s/f612fafb264f
+
+## 240809：
+
+- 「tang朝诡实录之西行（2024）-40集全」：https://pan.quark.cn/s/0c459d48d0dc
+- 「樊登读书会2024」链接：https://pan.quark.cn/s/883267e98514
+- 「喜M拉雅付费课程」（更新）链接：https://pan.quark.cn/s/fc006cac9165
+
+## 240808:
+
+- 「纪录片库」链接：https://pan.quark.cn/s/0c3c93a81d1c
+
+## 240807：
+
+- 「34种行业分类电子书大全.Epub格式」链接：https://pan.quark.cn/s/409bebd99743
+
+## 240806：
+
+- 「维多利亚的秘密2005~2018·附带花絮采访」链接：https://pan.quark.cn/s/f6aca0a04091
+- 「三联生活周刊2024」更新到26期：https://pan.quark.cn/s/6af69c16819d
+
+## 240803:
+
+- 「价值几万的各种小吃教程」链接：https://pan.quark.cn/s/da714f3fcd36
+
+## 240801:
+
+- B站“食贫道”纪录片《南洋大宝荐》泰国篇 《神 鬼 传 奇》完结：
+  - B站链接：https://b23.tv/Scug0JJ （需要付费充电，不过有可以看弹幕，而且视频也值得支持）
+  - 顺便附上免费通道：
+    - 夸克网盘链接：https://pan.quark.cn/s/7dc30fb30ec2
+    - 阿里云盘链接：https://www.alipan.com/s/hfsNkToSU9q
+
+## 240728：
+
+- 「欧美尺度电影60部」链接：https://pan.quark.cn/s/e70f9f58bc2d
+- 「2024巴黎奥运会开幕式 粤语版+BBC版+CCTV版 Paris2024」链接：https://pan.quark.cn/s/24dbfa032ac4
+- 懒人朋友圈美图分享（更新里面的240729文件夹）：https://pan.quark.cn/s/740bf857d39d
+- 安卓端破姐软件（持续更新）：https://pan.quark.cn/s/379056d0cc54
+
+## 240728:
+
+- 「旁门左道PPT《八合一PPT一站式系统课程》」链接：https://pan.quark.cn/s/c6110dd58286
+- 「Word高效工作指南」链接：https://pan.quark.cn/s/ff81931bb68b
+- 「极客时间《零基础学Python》」链接：https://pan.quark.cn/s/aa6233fcf7a0
+- 「万门大学《职场新人路径》」链接：https://pan.quark.cn/s/c768b3ce93a9
+- 「职场蔡老师《职场谋略100讲》」链接：https://pan.quark.cn/s/bb17d813e0ca
+- 「勇哥小餐饮创业线上培训课」链接：https://pan.quark.cn/s/da70f7ef228d
+- 「能成事儿的职场极简管理课」链接：https://pan.quark.cn/s/1bffdc7baf55
+- 「职场高手的12堂工作汇报术」链接：https://pan.quark.cn/s/fae589b12d70
+- 「静秋姐姐手把手教你做运营」链接：https://pan.quark.cn/s/19592e5b1f69
+
+## 240727:
+
+- 「尚硅谷《2024版Python教程》（含完整资料）」链接：https://pan.quark.cn/s/77cae912a303
+- 「职场人必学的Python技能课（含完整资料）」链接：https://pan.quark.cn/s/0afc8f147caa
+- 「有霸夫《Python自动化办公和游戏》」链接：https://pan.quark.cn/s/e0022a561fef
+- 「3小时学会用Python处理Excel及各种自动化办公小案例」链接：https://pan.quark.cn/s/a270642c03d6
+- 懒人备注：学编程时遇到问题，可以求助AI。简单的脚本也可以让AI帮你写， 不过还是要学一点基础语法，不然Bug修改都没头绪
+
+## 240725：
+
+- 「喜马讲书《提升财商必读100本经典》」链接：https://pan.quark.cn/s/59064a1845a2
+- 「傅佩荣《详解易经64卦》」链接：https://pan.quark.cn/s/058504412fc8
+- [雷军2024年度演讲全文：人生不能后退，只能拼命往前冲！](https://hk57gvlx7u.feishu.cn/docx/HClmdDDbMoRNSCxDrszclpYSnVg)
+
+## 240724：
+
+- 「人像摄影进阶班」链接：https://pan.quark.cn/s/241c7ae2f517
+- 「B站付费课程（1-260）」链接：https://pan.quark.cn/s/02ffe41d9de6
+- 「Xmind思维导图模板331个」链接：https://pan.quark.cn/s/9b555c41fac5 
+
+## 240723：
+
+- 「一书一课付费课程合集」链接：https://pan.quark.cn/s/2943c088677c
+- 「喜M拉雅付费课程」链接：https://pan.quark.cn/s/fc006cac9165
+
+## 240722：
+
+- 安卓端破姐软件（持续更新）：https://pan.quark.cn/s/379056d0cc54
+
+## 240721:
+
+- 「珍da户《认知世界的经济学》」链接：https://pan.quark.cn/s/c5023bfed9bd
+
+## 240720:
+
+- 「《温tie军套装》[共五册]」链接：https://pan.quark.cn/s/fbd9b8bca081
+
+## 240719:
+
+- 懒人美图分享（美女图为主）：https://pan.quark.cn/s/740bf857d39d
+
+## 240818：
+
+- 「B站盗月社沐上&闫帅奇《男性生活化减脂课程》」链接：https://pan.quark.cn/s/84e2d3585be0
+
+## 240716：
+
+- 「B站欧阳春晓《28天女性根本性减脂课程》」（售价399）链接：https://pan.quark.cn/s/e07a8f5e56a0
+
+## 240715：
+
+- 「直男穿搭术」链接：https://pan.quark.cn/s/d39d31c8353c
+
+## 240712：
+
+- 「喜人奇妙夜」链接：https://pan.quark.cn/s/85dfdfc4d3bf
+
+## 240710:
+
+- 「【看电影学英语】110部动画电影中英纯英字幕附台词文本」链接：https://pan.quark.cn/s/2ec4e0514cae
+
+## 240709：
+
+- 「2024雅思资料大合集」链接：https://pan.quark.cn/s/d281ceeb727b
+
+## 240703：
+
+- 「学习教育考试」（多个学习软件安卓破姐版）链接：https://pan.quark.cn/s/9fa33d927c70
+- 「240703局域网文件夹批量分享」链接：https://pan.quark.cn/s/1d218c33a64b
 
 ## 240618:
 
