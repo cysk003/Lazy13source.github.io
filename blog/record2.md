@@ -17,6 +17,24 @@
 
 ***
 
+- 240903：
+  
+  - 240903卢克文星球《文在寅涉嫌受贿，是怎么回事？》
+  
+  - 240903屠龙付费文《“去结构化”能让你“过好这一生”》
+  
+  - 240903群分享《哈里斯演讲拉片：“神之一手”与“致命一击”》
+  
+  - <details>
+    <summary>更新《240903懒人副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIwahUESnZrYOv5t3CDEYO4jiaBuFrGYvEhiaggsEVQy3UFxQUzqfkTaBrUKlmUfviaJxf88Yl40LsLQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240903懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIwahUESnZrYOv5t3CDEYO4yoQXunO0Rics6LiaMJsgAibnJrL4YHLHyc02YfviawAic7fib5e70ajmInRA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240902:
   
   - 240902卢克文星球《柯文哲被带走，岛内政坛要巨变？》
