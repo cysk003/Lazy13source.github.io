@@ -9,6 +9,17 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-03 更新
+
+## 2024-09-04 更新
+
+ - [最快的看图软件_x64-中文绿色版本.7z](https://www.lanzoui.com/iGImO292fyud)
+
+ - [播放器 KMPlayer 2024.8.22.14 x64.exe](https://www.lanzoui.com/igug3292ff4d)
+
+ - [手机变监控摄像头软件.zip](https://www.lanzoui.com/inQKz292dtkb)
+
+
 ## 2024-09-02 更新
 
  - [开发助手.apk](https://www.lanzoui.com/ixOXA28vfhxc)
