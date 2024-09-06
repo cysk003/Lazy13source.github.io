@@ -9,6 +9,150 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-06 更新
+
+ - [隐形提词器.rar](https://www.lanzoul.com/iTfeJ29alzyh)
+
+ - [小学生出题软件v6.0.rar](https://www.lanzoul.com/i1NWi29aluve)
+
+ - [提词器Nano Teleprompter 7.3.2_zh1（汉化）.apk](https://www.lanzoul.com/iBdeU29alo1i)
+
+ - [中小学电子教材-v1.1.zip](https://www.lanzoul.com/iNqN929allla)
+
+ - [Televizo-1.9.3.21-arm7@宇宙之辰.apk](https://www.lanzoul.com/ievIs29alcvg)
+
+ - [AdGuard.Premium.v4.6.81-arm64.CN@宇宙之辰.apk](https://www.lanzoul.com/ilRVR29akxsd)
+
+ - [JianyingPro_v5.9.0.11632.txt](https://www.lanzoul.com/iXHX0299a3dc)
+
+ - [Jianying_Pro_v6.0.1.11779.txt](https://www.lanzoul.com/iUcVT299a3cb)
+
+ - [微博 14.9.0-内置猪手2.3.2-296模块.txt](https://www.lanzoul.com/ih6U0298aiha)
+
+ - [搜狗输入法 14.8.0.9884去广告精简优化版_星空不寂寞.exe](https://www.lanzoul.com/iYmAF298ae0j)
+
+ - [七猫免费小说 7.56会员版_落北.apk](https://www.lanzoul.com/iUQ06298a82f)
+
+ - [禁止微更新.rar](https://www.lanzoul.com/i9ioA2989uyd)
+
+ - [WPS免登录工具_By秋雨.rar](https://www.lanzoul.com/iA50K2989pla)
+
+ - [WPS免登录一键修改器V2024.5.14.zip](https://www.lanzoul.com/ihjpA2989ped)
+
+ - [抖音xs-31.4.0_@tkjiku-逗音小手 v2.1.0.txt](https://www.lanzoul.com/iNumV2988nyf)
+
+ - [抖音fp-31.4.0_@tkjiku-freedom+_1.3.5.txt](https://www.lanzoul.com/iZ6GL2988nxe)
+
+ - [网易云音乐HONORx_1.7.10_@tkjiku杜比大喇叭β v4.0.4.txt](https://www.lanzoul.com/iQsPy2988k9c)
+
+ - [网易云音乐db_8.9.20_@tkjiku杜比大喇叭β v4.0.4.txt](https://www.lanzoul.com/iFNNu2988k7a)
+
+ - [ RVX 19.16.39@欢乐花园.apk](https://www.lanzoul.com/iXrck2988atc)
+
+ - [SD.Maid.SE-1.2.4-PRO_red@ST.apk](https://www.lanzoul.com/iJviS29887ej)
+
+ - [SD.Maid.SE-1.2.4-PRO@ST.apk](https://www.lanzoul.com/iMIDM29887af)
+
+ - [Resume Builder v1.18 [Premium]@piemods.apk](https://www.lanzoul.com/iDE39298852f)
+
+ - [HiPER Calc Pro v10.5.3 b225 Universal _ed by youarefinished.apk](https://www.lanzoul.com/iqPfD29881va)
+
+ - [GreenTuber_0.1.5.0_@takklong.apk](https://www.lanzoul.com/ibh0v298819i)
+
+ - [GreenTuber_0.1.5.0@takklong.apk](https://www.lanzoul.com/i5GMM298814d)
+
+ - [ChatOn_1.4.7.42 Mod专业版@LWELY.apk](https://www.lanzoul.com/is5NR2987zyb)
+
+ - [建造师快题库_5.12.11@坤坤.txt](https://www.lanzoul.com/i9kfu2982u3a)
+
+ - [驾考超人 1.0.6@[SN-65773acb].txt](https://www.lanzoul.com/iLmok2982qra)
+
+ - [万题库v5.6.5.2 高级版@[SN-4dffdc9c].txt](https://www.lanzoul.com/i9D6r2982oqh)
+
+ - [修改水印相机 2.6.4@[SN-65773acb].txt](https://www.lanzoul.com/iYCAE2982l2f)
+
+ - [新大师兄影视 Ver.3.3.6 去广告 重置修复加载失败V4版@zhou45.apk](https://www.lanzoul.com/inziM2982jkb)
+
+ - [闲鱼-iQOO12 定制版-7.14.69.apk](https://www.lanzoul.com/iTQkq2982hsh)
+
+ - [剧 v3.2.1 纯净版@菠吹牛.apk](https://www.lanzoul.com/iHz5s2982fxa)
+
+ - [电视家升级版_5.0.2.01@xkds.apk](https://www.lanzoul.com/iMfF82982c5e)
+
+ - [爱奇艺-iQOO Z9T 定制版-14.11.0.apk](https://www.lanzoul.com/i5IS729829xe)
+
+ - [CAD手机看图_2.7.9(129)@鹿蜀.apk](https://www.lanzoul.com/iaOQ629824de)
+
+ - [99手游_1.7.9(80)@[SN-424cb05].apk](https://www.lanzoul.com/i6qoc2981ysd)
+
+
+## 2024-09-05 更新
+
+ - [系统服务工具箱V2.0-52pojie@二零一八小王子.exe.7z](https://www.lanzoui.com/iDRUg295y80j)
+
+ - [Umi-OCR.v2.1.4.txt](https://www.lanzoul.com/iBfGw297mqkh)
+
+ - [Umi-OCR扩展包_v1.3.7z](https://www.lanzoul.com/imuXJ297mnhg)
+
+ - [雷电模拟器9(64)-9.0.76.3去广告绿色版@zd423.txt](https://www.lanzoul.com/ijeb2297mb1i)
+
+ - [360SE-15.3.6142.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/izPry297mahi)
+
+ - [360ChromeX-22.3.3077.64-Modified-Lite@zd423.txt](https://www.lanzoul.com/ikWZj297magh)
+
+ - [腾讯视频-v11.101.1526-去广告绿版@zd423.exe](https://www.lanzoul.com/iVXOP297m9qb)
+
+ - [腾讯QQ正式版9.7.23.29391绿色纯净版@zd423.exe](https://www.lanzoul.com/iVRox297m2ve)
+
+ - [搜狗输入法v14.8.0.9884去广告精简优化版@zd423.exe](https://www.lanzoul.com/ipEMb297lxle)
+
+ - [РotРlayer-240827(1.7.22318)-x64-Stable.exe](https://www.lanzoul.com/i5d8b297lrda)
+
+ - [Google-Play-Store-42.5.15-29-A10 All.apk](https://www.lanzoul.com/igWvN297lnbe)
+
+ - [小红书_v8.50.1_Mod@辰夕.txt](https://www.lanzoul.com/i9o1T295j56h)
+
+ - [七猫免费小说_7.55_Mod@辰夕.apk](https://www.lanzoul.com/icosX295j2sb)
+
+ - [美图秀秀_10.18.0_Mod_定时闪退@辰夕.txt](https://www.lanzoul.com/iTkDo295j0ub)
+
+ - [鲁大师精简版6.1024.4050.809@ccb666.txt](https://www.lanzoul.com/iYIEt295iuqb)
+
+ - [鲁大师-5.21.1300-去广告最终版@zd423.exe](https://www.lanzoul.com/iJDWG295iukf)
+
+ - [WPSOfficePro_12.8.2.17838_mefcl_20240904.txt](https://www.lanzoul.com/iVorR295im7e)
+
+ - [WPSOfficePro_12.8.2.17838_mefcl_20240902.txt](https://www.lanzoul.com/i0qIF295im5c)
+
+ - [车来了_4.55.0_Mod@辰夕.txt](https://www.lanzoul.com/ivA0J295ifyj)
+
+ - [安卓清理君_v3.8.4_Vip@黑鹰.apk](https://www.lanzoul.com/iZItg295ib7i)
+
+ - [WPS Office_v18.12.1_Mod@辰夕.txt](https://www.lanzoul.com/i75l0295i86j)
+
+ - [Via_5.8.1_Mod@辰夕解除限制版.apk](https://www.lanzoul.com/iWEcr295i6ja)
+
+ - [Telegram_v11.0.0_(51439)_Mod@辰夕.apk](https://www.lanzoul.com/inJXo295i4uj)
+
+ - [SD Maid SE_v1.2.4-rc0_FOSS@黑鹰.apk](https://www.lanzoul.com/ipLCd295i1ab)
+
+ - [Google Play 商店_42.4.22-31_GP.apk](https://www.lanzoul.com/ikAFL295hzti)
+
+ - [Chatbot_AI_v7.1.29_(834)_Mod@辰夕.apk](https://www.lanzoul.com/ikABt295huji)
+
+ - [Chat_Smith_v3.9.3_Mod@辰夕.apk](https://www.lanzoul.com/in5Kx295ht6j)
+
+ - [Apkpure_v3.20.16_NoAd@辰夕.apk](https://www.lanzoul.com/iC8rK295hpze)
+
+ - [ADM_14.0.35_Pro_v2@黑鹰.apk](https://www.lanzoul.com/iIcwQ295hnvi)
+
+ - [AdGuard_v4.6.81_Mod@辰夕.apk](https://www.lanzoul.com/iKHD9295hlhc)
+
+ - [2345看图王_11.4.0.10421_mefcl_x64_Setup.exe](https://www.lanzoul.com/iFnFX295hj8b)
+
+ - [360安全浏览器_15.3.6142.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iwtWl295hi8f)
+
+
 ## 2024-09-03 更新
 
 ## 2024-09-04 更新

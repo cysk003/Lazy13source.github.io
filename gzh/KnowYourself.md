@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [一个人值不值得深交，看ta吃饭的样子就知道了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247873916&idx=1&sn=544ed8bb9cdb0044838b07ec05d2904f&chksm=9fcb1c38a8bc952e6d502b4b451ada1b2bba32bc1543b29f5093e72fc7102b2557ecb8c7a190#rd) |  [备份查看](/gzh/backup/KnowYourself/一个人值不值得深交，看ta吃饭的样子就知道了)
+    - 时间：2024-09-04
+    - 摘要：吃饭不扫兴，一种被低估了的美德。
+- [会做这7件事的朋友，才值得你珍惜——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247873544&idx=1&sn=4ccd7f6e7ec8fe6f8992d0e7b5cd8294&chksm=9fcb1d4ca8bc945ad1191a78f95149c8112b7c1c2093203d8e97e62b876d8ab68730f8bcfb5b#rd) |  [备份查看](/gzh/backup/KnowYourself/会做这7件事的朋友，才值得你珍惜——)
+    - 时间：2024-09-02
+    - 摘要：也希望你可以做到~
+
 - [日常沟通中这种下意识的反应，比吵架还伤人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247873363&idx=1&sn=b3a7c757d3dc8f92645c411e956fbd43&chksm=9fcb1a17a8bc9301df6247b0a3cbdf8016f9a729d87f619236a0156421d3dba4ee6388c2768e#rd) |  [备份查看](/gzh/backup/KnowYourself/日常沟通中这种下意识的反应，比吵架还伤人)
     - 时间：2024-08-29
     - 摘要：想要好好沟通，戒掉这件事很重要
