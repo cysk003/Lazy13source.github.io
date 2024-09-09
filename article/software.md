@@ -9,6 +9,109 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-09 更新
+
+ - [墨迹天气_9.0880.02_Mod@辰夕.apk](https://www.lanzoul.com/ikfdx29jdl7c)
+
+ - [Duolingo-Premium-v5.166.3_build_1942-Mod@balatan.apk](https://www.lanzoul.com/i3HVt29jdb8d)
+
+ - [CamScanner v6.71.0.2408140000 [Premium]-clean@piemods.txt](https://www.lanzoul.com/iurnC29jd4pi)
+
+ - [CamScanner v6.71.0.2408140000 [Premium]-ads-supported@piemods.txt](https://www.lanzoul.com/ipCLM29jd4oh)
+
+ - [小伴龙 10.2.0会员版_坤坤.txt](https://www.lanzoul.com/iH60Y29jc8ub)
+
+ - [微博猪手 2.3.2-(298-20240906)xp模块.apk](https://www.lanzoul.com/i7nQS29jc6ba)
+
+ - [微博 14.9.0-内置猪手2.3.2-298模块.txt](https://www.lanzoul.com/iQKXJ29jc63c)
+
+ - [七猫免费小说 7.56会员版_鹿蜀.apk](https://www.lanzoul.com/ivptC29jc4kh)
+
+ - [X-plore文件管理 4.39.00解锁捐赠版_RBMods.apk](https://www.lanzoul.com/ib0u229jbsej)
+
+ - [B612咔叽 13.2.18会员版_鹤七.txt](https://www.lanzoul.com/iQAKJ29jbqzi)
+
+ - [遥控精灵_5.2.6(526)-by东明.apk](https://www.lanzoul.com/iyJeF29h5ukj)
+
+ - [迅雷_8.21.09425 Mod会员版@LWELY.apk](https://www.lanzoul.com/iQAXu29h5ued)
+
+ - [腾讯视频_8.7.0.5 Mod绿化版@LWELY.apk](https://www.lanzoul.com/ifxck29h5tzi)
+
+ - [七猫免费小说_7.56(75600)-by东明.apk](https://www.lanzoul.com/iorsv29h5teh)
+
+ - [酷我音乐_11.0.0.0(11000)-by东明.txt](https://www.lanzoul.com/i16Bb29h5suh)
+
+ - [饿了么红包助手 Ver.3.4.4 去广告版@zhou45.apk](https://www.lanzoul.com/i4LBW29h5s0h)
+
+ - [笔趣阁纯净版 Ver.1.2.0 去广告版@zhou45.apk](https://www.lanzoul.com/itMxQ29h5rsj)
+
+ - [Yamby-v1.3.5.5-arm64-v8a-release.apk](https://www.lanzoul.com/iXTTg29h5rri)
+
+ - [X-plore v4.39.00 Black _ed by youarefinished_kill.apk](https://www.lanzoul.com/iYVl929h5rne)
+
+ - [X-plore v4.39.00 _ed by youarefinished.apk](https://www.lanzoul.com/iBwer29h5rlc)
+
+ - [X-plore-Donate-v4.39.00_build_43900-Mod@balatan.apk](https://www.lanzoul.com/imNpT29h5rja)
+
+ - [X-plore v4.39.00 Root Black _ed by youarefinished.apk](https://www.lanzoul.com/iTIMW29h5rfg)
+
+ - [X-plore v4.39.00 Root _ed by youarefinished.apk](https://www.lanzoul.com/iSZWW29h5ref)
+
+ - [WPS Office_v18.12.1_Mod@辰夕.txt](https://www.lanzoul.com/iQZsw29h5rcd)
+
+ - [viperfx-release-v7.0@WST.apk](https://www.lanzoul.com/ircU429h5rbc)
+
+ - [SD Maid SE v1.2.5-rc0 b10205000 Universal _ed by youarefinished.apk](https://www.lanzoul.com/iTwRb29h5r8j)
+
+ - [SD%2BMaid%2BSE-Pro-v1.2.5-rc0_build_10205000-Mod@balatan.apk](https://www.lanzoul.com/iAWlh29h5r4f)
+
+ - [SD%2BMaid%2BSE_Pro_v1_2_5_rc0_build_10205000_Viva%2BMagenta_Mod@balatan.apk](https://www.lanzoul.com/iHomN29h5r2d)
+
+ - [ ReVanced MMT Blue 19.28.42@欢乐花园.apk](https://www.lanzoul.com/iItDD29h5r1c)
+
+ - [-rvx_v19.28.42_@tkjiku_universal.txt](https://www.lanzoul.com/in6qR29h5quf)
+
+ - [-rvx_v19.28.42_@tkjiku_lite.apk](https://www.lanzoul.com/iitE329h5qte)
+
+ - [-rvx_v19.16.39_@tkjiku_universal.txt](https://www.lanzoul.com/i05Yk29h5q8d)
+
+ - [-rvx_v19.16.39_@tkjiku_lite.apk](https://www.lanzoul.com/im0dc29h5q6b)
+
+ - [ ReVanced Revancify Blue 19.28.42@欢乐花园.apk](https://www.lanzoul.com/iSRhz29h5q0f)
+
+ - [ReV Adv v19.28.42 arm64 AFN Blue non-root@youarefinished.apk](https://www.lanzoul.com/iOLNw29h5pnc)
+
+ - [ReV Adv v19.16.39 arm64 root@youarefinished.apk](https://www.lanzoul.com/in92l29h5pcb)
+
+ - [ReV Adv v19.16.39 arm64 non-root@youarefinished.apk](https://www.lanzoul.com/i1a6B29h5p5e)
+
+ - [ReV Adv v19.28.42 arm64 Xisr Yellow non-root@youarefinished.apk](https://www.lanzoul.com/ijL5a29h5ooh)
+
+ - [ReV Adv v19.28.42 arm64 Revancify Red non-root@youarefinished.apk](https://www.lanzoul.com/iubdi29h5odg)
+
+ - [ReV Adv v19.28.42 arm64 Revancify Blue non-root@youarefinished.apk](https://www.lanzoul.com/iObIk29h5nob)
+
+ - [ReV Adv v19.28.42 arm64 original non-root@youarefinished.apk](https://www.lanzoul.com/i0TWW29h5nah)
+
+ - [ReV Adv v19.28.42 arm64 MYou root@youarefinished.apk](https://www.lanzoul.com/iLTTk29h5n3a)
+
+ - [ReV Adv v19.28.42 arm64 MYou non-root@youarefinished.apk](https://www.lanzoul.com/i2pjp29h5mcd)
+
+ - [ReV Adv v19.28.42 arm64 MMT Yellow non-root@youarefinished.apk](https://www.lanzoul.com/i7xn929h5lrc)
+
+ - [ReV Adv v19.28.42 arm64 MMT Red non-root@youarefinished.apk](https://www.lanzoul.com/iUGoT29h5lkf)
+
+ - [ReV Adv v19.28.42 arm64 MMT Green non-root@youarefinished.apk](https://www.lanzoul.com/iqIl429h5l2h)
+
+ - [ReV Adv v19.28.42 arm64 MMT Blue non-root@youarefinished.apk](https://www.lanzoul.com/iV8Rb29h5kuj)
+
+ - [ReV Adv v19.28.42 arm64 Dark root@youarefinished.apk](https://www.lanzoul.com/i2g0G29h5kod)
+
+ - [ReV Adv v19.28.42 arm64 Dark non-root@youarefinished.apk](https://www.lanzoul.com/iq3LY29h5k2b)
+
+ - [ReV Adv v19.28.42 arm64 Black root@youarefinished.apk](https://www.lanzoul.com/iDx8T29h5jud)
+
+
 ## 2024-09-06 更新
 
  - [隐形提词器.rar](https://www.lanzoul.com/iTfeJ29alzyh)
