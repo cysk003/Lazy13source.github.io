@@ -9,6 +9,69 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-10 更新
+
+ - [荐影音官方版v4.2.3.48.exe](https://www.lanzoui.com/iKkYW29m546j)
+
+ - [中小学智慧视频、课件教材下载.rar](https://www.lanzoui.com/iuAqR29ku28h)
+
+ - [联想拯救者工具箱  Lenovo Legion Toolkit2.24.0.exe](https://www.lanzoui.com/iyNLz29k894d)
+
+ - [屏幕录制软件 FocuSee 1.1.1 20240821.exe](https://www.lanzoui.com/i1aOd29k85gb)
+
+ - [360SE-15.3.6156.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/iy6sj29l0ojg)
+
+ - [TVBox_takagen99_20240909-0844-arm64-generic.apk](https://www.lanzoul.com/iVS1j29l0juh)
+
+ - [TVBox_takagen99_20240909-0844-armeabi-hisense.apk](https://www.lanzoul.com/iETaD29l0hte)
+
+ - [TVBox_takagen99_20240909-0844-armeabi-generic.apk](https://www.lanzoul.com/idkUf29l0g7g)
+
+ - [TVBox_takagen99_20240909-0844-arm64-hisense.apk](https://www.lanzoul.com/isGqS29l0f7a)
+
+ - [Telegram Ver.11.1.2 Mod_Tmoe@zhou45.apk](https://www.lanzoul.com/ic52e29l0dyf)
+
+ - [CapCut剪映国际版 12.7.0_12700600解锁专业版_RBMods.txt](https://www.lanzoul.com/iMAEf29l09gd)
+
+ - [AdGuard-Premium-v4.7.34_build_10214991-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/ihkaC29l080b)
+
+ - [AdGuard Ad Blocker v4.7.34 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iBdF929l06qf)
+
+ - [今日头条红米Turbo3定制版v9.3.3.apk](https://www.lanzoul.com/iCeUk29kzx8d)
+
+ - [驾考路路通_1.0.0@[SN-467690ce].apk](https://www.lanzoul.com/iyDbk29kzrod)
+
+ - [百度网盘-墨水屏定制版-1.1.apk](https://www.lanzoul.com/iR0A729kzp8f)
+
+ - [淘宝-OPPO K12 定制版-10.35.10.apk](https://www.lanzoul.com/ihnEX29kzovc)
+
+ - [Google Play Store-42.6.22-23.apk](https://www.lanzoul.com/i72Og29kzl3g)
+
+ - [酷视频 华为深度定制版 v11.0.92@百分之千分享.apk](https://www.lanzoul.com/i4hA429kz5ob)
+
+ - [网易云音乐 荣耀定制版 v1.8.20@百分之千分享.apk](https://www.lanzoul.com/icl8j29kz3lg)
+
+ - [拼多多 官方内部版 v7.24.0@百分之千分享.apk](https://www.lanzoul.com/irMfV29kz0da)
+
+ - [360安全浏览器_15.3.6156.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iwwGh29kyqhe)
+
+ - [Windows系统调校_20240908@mefcl分享.7z](https://www.lanzoul.com/i3BKl29kynod)
+
+ - [今日水印相机_v3.0.160.6_Mod@辰夕.txt](https://www.lanzoul.com/iIAiZ29ky9za)
+
+ - [七猫免费小说_7.56_Mod@辰夕.apk](https://www.lanzoul.com/icerd29ky8uj)
+
+ - [my-tv-0.1.3.7.14.ipv6.apk](https://www.lanzoul.com/iMqYH29kxcqd)
+
+ - [my-tv-0.1.3.7.14.china-mobile.apk](https://www.lanzoul.com/iRvkd29kxccj)
+
+ - [my-tv-0.1.3.7.14.apk](https://www.lanzoul.com/iiUw129kxbof)
+
+ - [EverythingToolbar-1.4.1.rar](https://www.lanzoul.com/ilX5529kx90j)
+
+ - [海阔视界_V8.58_C5220_db53-64位.apk](https://www.lanzoul.com/iuxYG29kw4be)
+
+
 ## 2024-09-09 更新
 
  - [墨迹天气_9.0880.02_Mod@辰夕.apk](https://www.lanzoul.com/ikfdx29jdl7c)

@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [“关系结束了但爱还没有”  停止爱一个人到底要多久？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247874194&idx=1&sn=843a2b7d526696f23c94630e5d96b41c&chksm=9fcb1fd6a8bc96c0d4d2a0c37b499087a4cf89f251f7ef9cc84e41421fe928af656b85c08420#rd) |  [备份查看](/gzh/backup/KnowYourself/“关系结束了但爱还没有”  停止爱一个人到底要多久？)
+    - 时间：2024-09-09
+    - 摘要：真正放下前会经历什么
+- [什么样的人，一定要远离situationship？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247874115&idx=1&sn=b1311ef966bfb93324f84b61864748bd&chksm=9fcb1f07a8bc96111a5cd9e2c57778b3d68be290e03c5b211e055c320ba93ee50e820dace905#rd) |  [备份查看](/gzh/backup/KnowYourself/什么样的人，一定要远离situationship？)
+    - 时间：2024-09-08
+    - 摘要：保持对关系的想象力，同时也需要保持对自我需求的觉察。
+
 - [一个人值不值得深交，看ta吃饭的样子就知道了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247873916&idx=1&sn=544ed8bb9cdb0044838b07ec05d2904f&chksm=9fcb1c38a8bc952e6d502b4b451ada1b2bba32bc1543b29f5093e72fc7102b2557ecb8c7a190#rd) |  [备份查看](/gzh/backup/KnowYourself/一个人值不值得深交，看ta吃饭的样子就知道了)
     - 时间：2024-09-04
     - 摘要：吃饭不扫兴，一种被低估了的美德。
