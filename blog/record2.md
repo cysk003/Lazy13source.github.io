@@ -17,6 +17,26 @@
 
 ***
 
+- 240910:
+  
+  - 240910卢克文星球《存量房贷利率下调，银行能稳住阵脚吗？》
+  
+  - 240910群分享《如何对听到的各种赚钱信息做出有效判断？》
+  
+  - 240910群分享《“学生第一”没错，“学生第二”也对》
+  
+  - 240910虚声付费文《印度的威胁》
+  
+  - <details>
+    <summary>更新《240910懒人副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKwwtf20URPuC8WDhDIp1GaX5vzdicj2ffmRqLepv11K3NTWUejEW8xmnxvonicpfQZmWZJCtybk5ZA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《240903懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKwwtf20URPuC8WDhDIp1GaukXygTj88ibQPoAYd3zqpRx29nxwtvxaicLsNpLxVTiadgoEFibpnKw67A/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 240909:
   
   - 240909卢克文星球《德国选择党胜利的背后》
