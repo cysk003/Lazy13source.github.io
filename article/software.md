@@ -9,6 +9,87 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-12 更新
+
+ - [系统安装 5.3.5 Single 单文件版.exe](https://www.lanzoui.com/i6lKG29sx6ih)
+
+ - [Win系统安装 -5.35 -色版.7z](https://www.lanzoui.com/i5UbY29sx6ed)
+
+ - [系统安装利器WinToHDD.exe](https://www.lanzoui.com/iTAdq29swnaf)
+
+ - [系统安装利器V 5.9 单文件PE版演示.exe](https://www.lanzoui.com/iSdbh29swmuj)
+
+ - [Adobe_Flash_Player_v34_0_0_321_3in1_静默安装版.exe](https://www.lanzoui.com/ifQTF29rq5hc)
+
+ - [微博 14.9.0内置猪手2.3.2-299模块.txt](https://www.lanzoul.com/iMKLk29r0yib)
+
+ - [微博猪手 2.3.2-(299-20240909)xp模块.apk](https://www.lanzoul.com/i30FZ29r0y8b)
+
+ - [魔法茅台助手 Ver.2.5.0 会员解锁版@zhou45.apk](https://www.lanzoul.com/ifRnZ29r0s4b)
+
+ - [彩云天气 7.20.0去广告版_Kunkka.txt](https://www.lanzoul.com/iOI6n29r0h8j)
+
+ - [哔哩哔哩_6.14.0_Final_2409101@msm8976.apk](https://www.lanzoul.com/iBnGP29r0h5g)
+
+ - [哔哩哔哩_6.14.0_clone_Final_2409101@msm8976.apk](https://www.lanzoul.com/i5ZVF29r0deb)
+
+ - [telegram-mod_v11.1.2-patches_2024-09-09@miya.apk](https://www.lanzoul.com/i6Nq129qzm8d)
+
+ - [CamScanner v6.72.0.2408290000 offline _ed by youarefinished_rd.txt](https://www.lanzoul.com/imc6529qzibc)
+
+ - [CamScanner v6.72.0.2408290000 Clean _ed by youarefinished_rd.txt](https://www.lanzoul.com/ishIy29qzi6h)
+
+ - [CamScanner v6.72.0.2408290000 ads support _ed by youarefinished_rd.txt](https://www.lanzoul.com/i8SzP29qzhyj)
+
+ - [Nagram-v11.0.0(1193)-arm64-v8a.apk](https://www.lanzoul.com/i4Be129qzajc)
+
+ - [freedom+_1.3.6.apk](https://www.lanzoul.com/irP4y29qz5ud)
+
+ - [123云盘 2.4.6去广告版_鹿蜀.txt](https://www.lanzoul.com/iwPKt29qz0ha)
+
+ - [AdGuard v4.6.88 arm7+arm64 Final _ed by youarefinished.apk](https://www.lanzoul.com/i0sNr29qyucj)
+
+ - [AdGuard-Premium-v4.6.88_build_10203944-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iyKyY29qyt1c)
+
+ - [64Gram_1.1.37_x64.zip](https://www.lanzoul.com/iQy2Q29qyjyf)
+
+ - [1DM%252B-v17.2_build_30245-Mod@balatan.apk](https://www.lanzoul.com/iyKfX29qyeof)
+
+ - [国家中小学智慧教育平台电子教材下载器_win_v3.2.1.rar](https://www.lanzoul.com/i0j8U29qrb5g)
+
+ - [SD Maid SE_1.2.5-rc0_FOSS@黑鹰.apk](https://www.lanzoul.com/iCJWh29qon9e)
+
+ - [ADM_v14.0.35_Pro@黑鹰.apk](https://www.lanzoul.com/iPfBS29qojri)
+
+ - [影视TV-fongmi-v2.6.0-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/ij0eN29qn7ad)
+
+ - [影视TV-fongmi-v2.6.0-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iw1kV29qn3ed)
+
+ - [影视TV-fongmi-v2.6.0-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iKfaJ29qmx4h)
+
+ - [影视TV-fongmi-v2.6.0-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/i4ZRf29qmq5g)
+
+ - [影视-fongmi-v2.6.0-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/i0WYZ29qmeqf)
+
+ - [影视-fongmi-v2.6.0-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/ictnU29qm7kh)
+
+ - [影视-fongmi-v2.6.0-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/ijQVn29qm1fg)
+
+ - [影视-fongmi-v2.6.0-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i77iT29qlx5c)
+
+ - [AfuseKt-arm64-1.3.6-10108.apk](https://www.lanzoul.com/iA1TL29qlp4d)
+
+ - [my-tv-0.1.3.7.19-kitkat.apk](https://www.lanzoul.com/ieEdy29qkfve)
+
+ - [my-tv-0.1.3.7.19-kitkat.ipv6.apk](https://www.lanzoul.com/ieG1f29qkf6j)
+
+ - [my-tv-0.1.3.7.19-kitkat.china-mobile.apk](https://www.lanzoul.com/ivaVs29qkeif)
+
+ - [AnyTXT.Searcher.1.3.1515.Win32_Win64.exe](https://www.lanzoul.com/iIGXy29qjfif)
+
+ - [AnyTXT.Searcher.1.3.1515.Win32&Win64.OCR.txt](https://www.lanzoul.com/idTKm29qjcgf)
+
+
 ## 2024-09-11 更新
 
 

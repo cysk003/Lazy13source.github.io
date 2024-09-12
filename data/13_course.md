@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 郑毓煌的营销学课
+
+  - 标签：`#营销`，`#经济学`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNKnJmgXXXQJH1jZOIWfAsf1KtHNhWMd7QL3fac43ibMfkmFAhKKd0A2CmY4YWEKtCfLJo9d7qN8hZA/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 陆蓉·行为金融学课
 
   - 标签：`#金融`，`#经济学`
