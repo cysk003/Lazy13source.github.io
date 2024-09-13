@@ -9,6 +9,31 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-13 更新
+
+ - [360驱动大师网卡版2.0.0.2040.2.rar](https://www.lanzoui.com/iTcFf29uvzve)
+
+ - [腾讯QQ 9.7.18 (29244).exe](https://www.lanzoui.com/in4TR29uvxde)
+
+ - [驱动总裁2.17.0.0.exe](https://www.lanzoui.com/irIpQ29uvtgd)
+
+ - [360驱动大师纯净版2.0.0.2040.exe](https://www.lanzoui.com/iMFLW29uvsvc)
+
+ - [雷电模拟器9(64)-9.0.77.0去广告绿色版@zd423.txt](https://www.lanzoul.com/iO0Tm29u72sj)
+
+ - [彩云天气_v7.20.1_Mod@辰夕.apk](https://www.lanzoul.com/ii5x829u6mje)
+
+ - [Telegram_v11.0.0_(51439)_Mod@辰夕.apk](https://www.lanzoul.com/iVODz29u6i0b)
+
+ - [Chat_Smith_v3.9.3_Mod@辰夕.apk](https://www.lanzoul.com/iHAT029u6cch)
+
+ - [AdGuard_4.6.88_Mod@辰夕.apk](https://www.lanzoul.com/iyv6B29u683e)
+
+ - [AnyTXT.Searcher.1.3.1517.Win32_Win64.OCR.txt](https://www.lanzoul.com/iQL1J29u65oh)
+
+ - [AnyTXT.Searcher.1.3.1517.Win32_Win64.exe](https://www.lanzoul.com/ij15f29u64li)
+
+
 ## 2024-09-12 更新
 
  - [系统安装 5.3.5 Single 单文件版.exe](https://www.lanzoui.com/i6lKG29sx6ih)

@@ -14,6 +14,10 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [内核强大的人，才不容易被这种话控制](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247874371&idx=1&sn=92b43da0f43d1a850570e9b6ad58b710&chksm=9fcb1e07a8bc97110f93fb9fe4de2acf26761ba5a6798e8f8cf58631b1064cd2fb59fc5f0b84#rd) |  [备份查看](/gzh/backup/KnowYourself/内核强大的人，才不容易被这种话控制)
+    - 时间：2024-09-12
+    - 摘要：你也会被控制吗？
+
 - [“关系结束了但爱还没有”  停止爱一个人到底要多久？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247874194&idx=1&sn=843a2b7d526696f23c94630e5d96b41c&chksm=9fcb1fd6a8bc96c0d4d2a0c37b499087a4cf89f251f7ef9cc84e41421fe928af656b85c08420#rd) |  [备份查看](/gzh/backup/KnowYourself/“关系结束了但爱还没有”  停止爱一个人到底要多久？)
     - 时间：2024-09-09
     - 摘要：真正放下前会经历什么
