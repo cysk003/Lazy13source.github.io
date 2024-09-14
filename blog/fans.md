@@ -28,6 +28,45 @@
 
 本手册链接作为历史分享备份~
 
+## 240914：
+
+- 高分电影「姥姥的外孙」链接：https://pan.quark.cn/s/91def3f90d62
+
+## 240913：
+
+- 吴慷仁7.6分电影「但愿人长久」链接：https://pan.quark.cn/s/4df9e29f096f
+- 豆瓣9.0教育纪录片「他乡的童年第二季」链接：https://pan.quark.cn/s/d4ea519372e0
+
+## 240909：
+
+- 食P道《神Y之地》资源：
+
+夸克链接：https://pan.quark.cn/s/94bdfb31090e
+
+阿里云盘资源：https://www.alipan.com/s/C99dzSAgM8q
+
+## 240906：
+
+- 「240906Office四合一」链接：https://pan.quark.cn/s/9ddcf1075dfc
+
+## 240905：
+
+- 「《教你用ChatGPT搞定论文》选题到写作全流程」链接：https://pan.quark.cn/s/9ef8b0c94bb5
+- 「GPT4完整使用秘籍宝典课程」链接：https://pan.quark.cn/s/d1a9565380d8
+- 已添加到上面的粉丝资源库合集，路径：技术教程——AI人工智能
+
+## 240904：
+
+- 「体制内生存与晋升之道共44讲」链接：https://pan.quark.cn/s/57333e73190a
+
+## 240903：
+
+- AI课程合集：点击上方资源共享库——技术教程——AI人工智能，即可查看
+
+## 240902：
+
+- 「花爷副业起跑营·第4期，挑一门好副业，三周干起来」链接：https://pan.quark.cn/s/8b3af3c09de7
+
 ## 240829:
 
 - B站精品课《陈老师手机影像创作实战课程：从入门到精通》：https://pan.quark.cn/s/e98ed747348c
