@@ -9,6 +9,85 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-18 更新
+
+ - [截图工具FastStone Capture 10.7.zip](https://www.lanzoui.com/iV7Ea2a5z8ta)
+
+ - [截图软件Pixpin_1.7.6正式版安装版1.7.6.0.exe](https://www.lanzoui.com/iAfVj2a5yrba)
+
+ - [截图软件Pixpin_1.7.6正式版便携版1.7.6.0.zip](https://www.lanzoui.com/iaQwG2a5ynza)
+
+ - [智慧中小学教材及配套音频下载.rar](https://www.lanzoui.com/i6WMj2a5slxa)
+
+ - [高考真题库3.0.0.apk](https://www.lanzoui.com/iLlqb2a5skqh)
+
+ - [高考真题库.apk](https://www.lanzoui.com/iZfkU2a5sjlg)
+
+ - [合并工具.exe](https://www.lanzoui.com/iM8zd2a5sgzc)
+
+ - [合并教程.exe](https://www.lanzoui.com/i9wv22a5sgtg)
+
+ - [音频处理工具 CyberLink AudioDirector 2025 v15.0.4506.9 中文版.Vol2.rar](https://www.lanzoui.com/inISi2a5sgmj)
+
+ - [音频处理工具 CyberLink AudioDirector 2025 v15.0.4506.9 中文版.Vol1.rar](https://www.lanzoui.com/i27pb2a5sevg)
+
+ - [Win10 Win11系统版本一键切换7.0.zip](https://www.lanzoui.com/i4CSA2a5rdud)
+
+ - [爱奇艺PAD_15.9.0@rikkati.txt](https://www.lanzoul.com/i8yx92a7a22j)
+
+ - [爱奇艺_14.11.0@rikkati.apk](https://www.lanzoul.com/iv8Lt2a7a20h)
+
+ - [X-plore v4.39.02 arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iY4NW2a79xzc)
+
+ - [X-plore v4.39.02 Root Black arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i5Ux52a79xjg)
+
+ - [X-plore v4.39.02 Root arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/inYyI2a79xcj)
+
+ - [X-plore v4.39.02 Black arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iqLls2a79x9g)
+
+ - [VSCO_389@rikkati.txt](https://www.lanzoul.com/ikSiI2a79wne)
+
+ - [SD Maid SE v1.2.6-rc0 b10206000 Universal _ed by youarefinished.apk](https://www.lanzoul.com/iGSfE2a79ula)
+
+ - [AdGuard-Premium-v4.7.38_build_10215391-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iB10r2a79tsb)
+
+ - [AdGuard Ad Blocker v4.7.38 Nightly arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iy59m2a79tcf)
+
+ - [微博猪手 2.3.2-(300-20240915)xp模块.apk](https://www.lanzoul.com/i4GHT2a79kba)
+
+ - [微博 14.9.1-内置猪手2.3.2-300模块.txt](https://www.lanzoul.com/imsWE2a79k8h)
+
+ - [植物大战僵尸3 v20.0.12无限阳光速度.txt](https://www.lanzoul.com/i3SI02a79fze)
+
+ - [高德地图-vivo X100 Ultra 定制版-12.10.61.3044.apk](https://www.lanzoul.com/i0gTp2a7964j)
+
+ - [Windows系统调校_20240917.7z](https://www.lanzoul.com/ig74i2a78p4h)
+
+ - [影视TV-fongmi-v2.6.1-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/i7QQr2a78lhg)
+
+ - [影视TV-fongmi-v2.6.1-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iUx1C2a78kqj)
+
+ - [影视TV-fongmi-v2.6.1-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iBtlN2a78k4h)
+
+ - [影视TV-fongmi-v2.6.1-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/izePi2a78jna)
+
+ - [影视-fongmi-v2.6.1-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iPUkk2a78ief)
+
+ - [影视-fongmi-v2.6.1-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/ikeN32a78hmh)
+
+ - [影视-fongmi-v2.6.1-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iBC8b2a78h2h)
+
+ - [影视-fongmi-v2.6.1-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iG5c72a78gqf)
+
+ - [Inet Download Manager v6.42 Build 22 Retail@烈火.rar](https://www.lanzoul.com/ixxMB2a78e0h)
+
+ - [PandaOCR.Pro_5.56.zip](https://www.lanzoul.com/iPoVE2a788yf)
+
+ - [emby-tv-2.1.16a-app-amazon-release.apk](https://www.lanzoul.com/iwetH2a786qf)
+
+ - [emby-tv-2.1.16g-app-google-release.apk](https://www.lanzoul.com/iOoxa2a786aj)
+
+
 ## 2024-09-17 更新
 
  - [ITVBox本地包240914.zip](https://www.lanzoul.com/iv9JJ2a3c6ze)
