@@ -12,7 +12,8 @@
 <P>
     扫码添加懒人咨询
 </P>
-<p style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; margin: 1.2em 0px; line-height: 1.6rem; word-spacing: 0.05rem;"><img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;"></p></details>
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNL2TXGXG4RpnR4Oa6BBiaMafcicNzVIMy2BZagKPXf95Tj9OCNzdtlyxqluSfibjAlOCejsg2rXxJ18A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1"</details>
+
 
 
 ***
