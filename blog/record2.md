@@ -6,13 +6,13 @@
 - [专属群历史文档备份目录](/blog/record3)
 - 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
-***
 
-<details style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;"><summary style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box;">年费379 ，付费进群~</summary>
-<P>
-    扫码添加懒人咨询
-</P>
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNL2TXGXG4RpnR4Oa6BBiaMafcicNzVIMy2BZagKPXf95Tj9OCNzdtlyxqluSfibjAlOCejsg2rXxJ18A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1"</details>
+
+<details>
+    <summary>年费379 ，付费进群。点击展开扫码添加懒人咨询</summary></summary>
+ <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNL2TXGXG4RpnR4Oa6BBiaMafcicNzVIMy2BZagKPXf95Tj9OCNzdtlyxqluSfibjAlOCejsg2rXxJ18A/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+
 
 
 
