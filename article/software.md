@@ -9,6 +9,25 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-20 更新
+
+ - [联想拯救者工具箱  Lenovo Legion Toolkit2.24.0.exe](https://www.lanzoui.com/ieUam2ab3zcj)
+
+ - [相处理软件 FotoSketcher 3.96 x64 中文多语免费版.exe](https://www.lanzoui.com/i8uC52ab3o5g)
+
+ - [相处理软件 FotoSketcher 3.96 x64 中文多语免费版.exe](https://www.lanzoui.com/iLs3g2ab3nlg)
+
+ - [本地文件查重管理工具64-v3.0.3.2-完整版.rar](https://www.lanzoui.com/ipAFx2ab3ije)
+
+ - [本地文件查重管理工具x64-v3.0.3.2-精简版.rar](https://www.lanzoui.com/iHBs42ab3fsf)
+
+ - [酷狗概念版_4.0.0 jg.apk](https://www.lanzoui.com/i2tSH2ab3caj)
+
+ - [电视软android2.2.2.apk](https://www.lanzoui.com/iO2wy2ab36mf)
+
+ - [腾讯电脑管家小工具提取版独立版1.0.zip](https://www.lanzoui.com/iqEsZ2ab2zxe)
+
+
 ## 2024-09-19 更新
 
 
