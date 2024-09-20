@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 李雪霓·青春期家长必修课
+
+  - 标签：`#教育`，`#家庭`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNJqTX88OX3fwdlaSUtuznib41jnliapDQUqW1TOSMLtvOAlRFDYhPJpUBIDzz1UzPoLvdmjFX9YFwcA/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 郑毓煌的营销学课
 
   - 标签：`#营销`，`#经济学`
