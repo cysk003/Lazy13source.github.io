@@ -9,6 +9,129 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-23 更新
+
+ - [爬取下载网站写真-节日版v2.7.zip](https://www.lanzoui.com/iG1pA2agk6af)
+
+ - [全能U盘修复工具 v6.9.0官方版.exe](https://www.lanzoui.com/ikwKR2agjwch)
+
+ - [360极速浏览器-13.5.2042.0-色精简版--集成Flash34.0.0.321.rar](https://www.lanzoui.com/iz4RT2agjuib)
+
+ - [小杰去追忆影视_脱修360+去广告.zip](https://www.lanzoui.com/izcZg2agjpoh)
+
+ - [小杰去追忆影视_脱修360+去广告.apk](https://www.lanzoui.com/i8BUl2agjd1c)
+
+ - [【密码6666】囧次元_1.5.7.4_免广告获取VIP（任务页-点击看广告送VIP）_凡若尘曦.7z](https://www.lanzoui.com/ikU4I2aec0aj)
+
+ - [囧次元_1.5.7.4_免广告获取VIP（任务页-点击看广告送VIP）_凡若尘曦.apk](https://www.lanzoui.com/ieIOg2aebz4h)
+
+ - [央视影音v6.0.2.0绿色版.rar](https://www.lanzoui.com/iPOME2aeatab)
+
+ - [西数硬盘修复工具带教程.zip](https://www.lanzoui.com/i0Waa2aeajij)
+
+ - [数据恢复类.rar](https://www.lanzoui.com/ij23h2aea3je)
+
+ - [FlappyBird-signed-v1.0.apk](https://www.lanzoul.com/iOtQo2amkk6b)
+
+ - [小红书_v8.54.0_Mod@辰夕.txt](https://www.lanzoul.com/iefyy2amk4va)
+
+ - [我的世界-Minecraft v1.21.40.22 b972104022 Universal _ed by youarefinished.txt](https://www.lanzoul.com/ibQDE2amk27e)
+
+ - [网易云音乐 荣耀定制版 v1.8.21@百分之千分享.apk](https://www.lanzoul.com/iD4Ch2amjyve)
+
+ - [万能钥匙_5.0.6.6 Mod会员版@LWELY.apk](https://www.lanzoul.com/i5js12amjwbc)
+
+ - [腾讯视频 华为定制版 v8.11.30.305@百分之千分享.apk](https://www.lanzoul.com/iI8ox2amjuba)
+
+ - [腾讯TIM正式版3.5.0.22143--色精简版@zd423.exe](https://www.lanzoul.com/injDl2amjtgj)
+
+ - [腾讯QQ正式版9.7.23.29392-色纯净版@zd423.exe](https://www.lanzoul.com/iProz2amjs3a)
+
+ - [搜狗输入法14.9.0.9952去广告精简优化版@zd423.exe](https://www.lanzoul.com/iO5rI2amjoxg)
+
+ - [搜狗输入法 OPPO定制版 v10.32.0422.2409041859(2205)@百分之千分享.apk](https://www.lanzoul.com/iFACR2amjlbg)
+
+ - [搜狗输入法 小米定制版 v10.32.21.202408151911(2041)@百分之千分享.apk](https://www.lanzoul.com/iWLDr2amjjdg)
+
+ - [搜狗输入法 魅族定制版 v10.32.39.202406031714(1017)@百分之千分享.apk](https://www.lanzoul.com/iXRmM2amji8f)
+
+ - [搜狗输入法 vivo定制版 v10.32.14023.2407111427(5065)@百分之千分享.apk](https://www.lanzoul.com/iTy6D2amjh8j)
+
+ - [拼多多 官方内部版 v7.26.0@百分之千分享.apk](https://www.lanzoul.com/iJx7Q2amjf8h)
+
+ - [美图秀秀_10.18.0_Mod@辰夕.txt](https://www.lanzoul.com/ivUpp2amjeve)
+
+ - [雷电模拟器9(64)-9.0.78.0去广告绿色版@zd423.txt](https://www.lanzoul.com/ixfkt2amjepi)
+
+ - [酷我音乐_v11.0.0.0_Mod_定制@辰夕.txt](https://www.lanzoul.com/iCd1e2amjekd)
+
+ - [百度输入法 OPPO定制版 v8.5.300.572@百分之千分享.apk](https://www.lanzoul.com/iXvrq2amjbsd)
+
+ - [百度输入法 小米定制版 v10.6.122.1856@百分之千分享.apk](https://www.lanzoul.com/iAVfM2amj9oh)
+
+ - [百度输入法 荣耀定制版 v8.2.506.100@百分之千分享.apk](https://www.lanzoul.com/ixiBC2amj86d)
+
+ - [百度输入法 vivo定制版 v8.5.203.2859@百分之千分享.apk](https://www.lanzoul.com/ilCMf2amio5c)
+
+ - [Telegram_11.1.2 Mod高级版@LWELY.apk](https://www.lanzoul.com/ihsZL2amin3e)
+
+ - [mpv-x86_64-20240922-git-71f2220.7z](https://www.lanzoul.com/iuruF2amiled)
+
+ - [ChatOn_1.5.0.43 Mod专业版@LWELY.apk](https://www.lanzoul.com/i6nM62amikfi)
+
+ - [123云盘_2.4.7@[MT签名].apk](https://www.lanzoul.com/iUwCW2amijda)
+
+ - [WPSOffice2019ProPlus_11.8.2.12309_mefcl.txt](https://www.lanzoul.com/iGjUF2ajlmdi)
+
+ - [今日水印相机_v3.0.165.8_Mod@辰夕.txt](https://www.lanzoul.com/i4ZgM2ajlh3i)
+
+ - [海阔视界_V8.59_C5247_db53-64位.apk](https://www.lanzoul.com/iuvtt2ajl4cj)
+
+ - [最终幻想8-FINAL FANTASY VIII v1.0.2 obb.txt](https://www.lanzoul.com/ioDpO2ajj12j)
+
+ - [最终幻想8-FINAL FANTASY VIII v1.0.2 b2311080 arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iIa4J2ajj0zg)
+
+ - [最终幻想4-FINAL FANTASY 4 (3D) v2.0.3 b20012 arm7+arm64 _ed by youarefinished.txt](https://www.lanzoul.com/iMFSO2ajj00b)
+
+ - [最终幻想3-FINAL FANTASY 3 (3D) v2.0.4 b20007 arm7+arm64 _ed by youarefinished.txt](https://www.lanzoul.com/iwIfu2ajizza)
+
+ - [我的世界-Minecraft v1.21.30.03 b972103003 Universal _ed by youarefinished.txt](https://www.lanzoul.com/i2wIq2ajiwxa)
+
+ - [微博猪手 2.3.2-(302-20240919)xp模块.apk](https://www.lanzoul.com/ixrrS2ajipuf)
+
+ - [微博 14.9.2-内置猪手2.3.2-302模块.txt](https://www.lanzoul.com/iUPFg2ajipte)
+
+ - [七猫免费小说_7.57(75700)@鹿蜀.apk](https://www.lanzoul.com/iKibJ2ajikrc)
+
+ - [美团红包助手 Ver.2.0.1 去广告版@zhou45.apk](https://www.lanzoul.com/iKbm42aji1de)
+
+ - [纪念碑谷-Monument Valley v3.4.109 All Unlocked arm7+arm64 _ed by youarefinished.txt](https://www.lanzoul.com/iGkZE2ajgusb)
+
+ - [彩云天气 7.20.1会员版_落北.apk](https://www.lanzoul.com/iJmww2ajgqla)
+
+ - [笔趣阁橙色版 1.0.4 去广告版_zhou45.apk](https://www.lanzoul.com/iyrzk2ajgowj)
+
+ - [X-plore_v4.39.02_arm7_arm64 video fixed _ed_by_youarefinished.apk](https://www.lanzoul.com/iiiaO2ajgocj)
+
+ - [X-plore v4.39.02 Root Black arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/izTdM2ajgo9g)
+
+ - [X-plore v4.39.02 Root arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i0Ypd2ajgo4b)
+
+ - [X-plore-Donate-v4.39.02_build_43902-Mod@balatan.apk](https://www.lanzoul.com/i11mo2ajgnvc)
+
+ - [X-plore_v4.39.02_Black_arm7_arm64 video fixed _ed_by_youarefinished.apk](https://www.lanzoul.com/iZGxW2ajgnlc)
+
+ - [windows一键转换7.0.zip](https://www.lanzoul.com/ilfLR2ajgluj)
+
+ - [windows修复菜单工具2.0.rar](https://www.lanzoul.com/iOlgB2ajglhg)
+
+ - [VMOS Pro_3.0.7(30007001)-opt@鹿蜀.apk](https://www.lanzoul.com/iO3Ku2ajfiza)
+
+ - [Spotify_v8_9_74_568_build_118755208_Experimental_Amoled_Clone_Mod@balatan.apk](https://www.lanzoul.com/it5kb2ai3nah)
+
+ - [Spotify_v8_9_74_568_build_118755208_Amoled_Clone_Mod_arm64_v8a@balatan.apk](https://www.lanzoul.com/iHpB42ai3l4j)
+
+
 ## 2024-09-20 更新
 
  - [联想拯救者工具箱  Lenovo Legion Toolkit2.24.0.exe](https://www.lanzoui.com/ieUam2ab3zcj)
