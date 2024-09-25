@@ -9,6 +9,11 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-24 更新
+
+ - [爱奇艺海外版-6.8.0.apk](https://www.lanzoui.com/i5ANv2ao3tji)
+
+
 ## 2024-09-23 更新
 
  - [爬取下载网站写真-节日版v2.7.zip](https://www.lanzoui.com/iG1pA2agk6af)
