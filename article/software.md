@@ -9,6 +9,59 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-25 更新
+
+## 2024-09-26 更新
+
+ - [360极速浏览器-13.5.2042.0集成Flash34.0.0.321解压码 52pj.rar](https://www.lanzoui.com/iU3T02aud9hc)
+
+ - [录屏KO2.exe](https://www.lanzoui.com/ijJDy2auc0kf)
+
+ - [中考真题_1.1.0.apk](https://www.lanzoui.com/i5FnE2arbz6h)
+
+ - [TikTok.Re.v36.5.5_@tkjiku_multi.txt](https://www.lanzoul.com/im69K2as3sob)
+
+ - [TikTok.Re.v36.5.5_@tkjiku_lite.txt](https://www.lanzoul.com/ixitu2as3sna)
+
+ - [TikTok.Re.v36.5.5_@tkjiku_asia_lite.txt](https://www.lanzoul.com/icmRE2as3sli)
+
+ - [TikTok.Re.v36.5.5_@tkjiku_asia.txt](https://www.lanzoul.com/i25bL2as3skh)
+
+ - [有道云笔记 7.5.512会员版_坤坤.txt](https://www.lanzoul.com/ijGK72as3rri)
+
+ - [万能钥匙_5.0.6.6 Mod会员版@LWELY.apk](https://www.lanzoul.com/iHw7A2as3pgf)
+
+ - [考霸题_1.6.8.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/iDfkw2as3jzi)
+
+ - [大搜题_2.2.3.0 Mod绿化版@LWELY.apk](https://www.lanzoul.com/iIHhi2as3e3g)
+
+ - [初中政治_1.2.3.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/i9PFG2as39eh)
+
+ - [初中语文_1.2.5.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/ijQfm2as35od)
+
+ - [初中数学_3.2.0.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/ieuyC2as327i)
+
+ - [初中化学_1.4.6.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/iMtrc2as2wch)
+
+ - [初中地理_1.2.9.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/iwRdm2as2sef)
+
+ - [笔趣阁红色版 5.2.2去广告版_zhou45.apk](https://www.lanzoul.com/iKGQR2as2iqh)
+
+ - [阿里云盘v6.4.0本地高级版@[SN-4dffdc9c].txt](https://www.lanzoul.com/iwRcm2as2eah)
+
+ - [Spotify v8.9.74.568 [xManager] (Merged)@xC3FFF0E.apk](https://www.lanzoul.com/iVdwh2as2c3i)
+
+ - [Speedtest-Premium-v5.4.12_build_218148-Mod_Lite-arm64-v8a@balatan.apk](https://www.lanzoul.com/iTTgW2as24vi)
+
+ - [ADM-Pro-v14.0.37_build_140037-Mod%2BLite-arm64-v8a@balatan.apk](https://www.lanzoul.com/iqUZY2as218h)
+
+ - [格式工厂FormatFactory-5.18.0-x64-Modified@zd423.7z](https://www.lanzoul.com/iP1MT2as07qj)
+
+ - [FlappyBird-signed-v1.5.apk](https://www.lanzoul.com/iQPJk2arznha)
+
+ - [AfuseKt-arm64-1.3.7-10140-3.apk](https://www.lanzoul.com/iD2NI2arzhcj)
+
+
 ## 2024-09-24 更新
 
  - [爱奇艺海外版-6.8.0.apk](https://www.lanzoui.com/i5ANv2ao3tji)
