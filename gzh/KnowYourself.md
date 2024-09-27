@@ -14,6 +14,22 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [这句很多人挂在嘴边的话，会让生活变成一潭死水](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247875676&idx=1&sn=705178400bada40c3cd1633d77e3f265&chksm=9fcb1518a8bc9c0e19872a56d979fc0ad193a48c6927ca3e8a74590e5c442391536493d4230a#rd) |  [备份查看](/gzh/backup/KnowYourself/这句很多人挂在嘴边的话，会让生活变成一潭死水)
+    - 时间：2024-09-26
+    - 摘要：容易让你一事无成的5个字，千万别说
+- [一种常见却不靠谱的择偶观念，三个字](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247875616&idx=1&sn=ffeab6e2117abdbc06faae7d0fd4b4dc&chksm=9fcb1564a8bc9c72eb81a93d7c327d7b39c9df44d2893ef7441d5f4846cdeff6772bb8dc54f9#rd) |  [备份查看](/gzh/backup/KnowYourself/一种常见却不靠谱的择偶观念，三个字)
+    - 时间：2024-09-25
+    - 摘要：要警惕的择偶陷阱
+- [这种结束关系的方式，比失恋还要让人痛苦](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247875427&idx=1&sn=bbe39362438d3ca059e9503cc3ff99fc&chksm=9fcb1227a8bc9b314d5d74e56c53399521e52a6861902b6c1f015acb864b5d7b67e46c1dd479#rd) |  [备份查看](/gzh/backup/KnowYourself/这种结束关系的方式，比失恋还要让人痛苦)
+    - 时间：2024-09-23
+    - 摘要：破裂的关系背后，总是藏着很多没有被充分表达的感受
+- [想要最大程度避免「爱错人」，这里有一个好方法](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247875173&idx=1&sn=1b66d5628ed4ec98e455853c68851b16&chksm=9fcb1321a8bc9a37946698a5ccef493640c17e522d3784b6b61e6a37bced92f6055879e0c4dc#rd) |  [备份查看](/gzh/backup/KnowYourself/想要最大程度避免「爱错人」，这里有一个好方法)
+    - 时间：2024-09-22
+    - 摘要：很多影响亲密关系的能力都能从这一点看出！
+- [搞懂了恋爱逻辑的人生有多爽？！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247875173&idx=3&sn=c0abb78800d8786047ff0a32395b36a6&chksm=9fcb1321a8bc9a374d42310510c5c478720613ccaddecf4fb2e5fa825ac30cd4214d8ab92ca4#rd) |  [备份查看](/gzh/backup/KnowYourself/搞懂了恋爱逻辑的人生有多爽？！)
+    - 时间：2024-09-22
+    - 摘要：任何时候，都值得学习怎么「好好爱」。
+
 - [经常感到疲惫、沮丧？可能是这种不易察觉的压力在作祟](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247875057&idx=1&sn=f23eb01411da93b7bd8423607fbe9c43&chksm=9fcb10b5a8bc99a332044f742ab3547491065b519fe2f0f556fd0782ca471279745d1268e1cf#rd) |  [备份查看](/gzh/backup/KnowYourself/经常感到疲惫、沮丧？可能是这种不易察觉的压力在作祟)
     - 时间：2024-09-19
     - 摘要：别紧张，一起练习与它共存~

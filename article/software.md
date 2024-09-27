@@ -9,6 +9,111 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-09-27 更新
+
+ - [爱奇艺_v9.4.156.5892_去广告版.exe](https://www.lanzoui.com/i20Jj2ax8i8f)
+
+ - [1DM .v17.2-arm64.CN@宇宙之辰.apk](https://www.lanzoul.com/iBPAI2axw47e)
+
+ - [微博 14.9.3-内置猪手2.3.2-302模块.txt](https://www.lanzoul.com/io4s02axvecd)
+
+ - [特狗影视 3.0.4 去广告版v4_zhou45.apk](https://www.lanzoul.com/iXK4r2axv94f)
+
+ - [电视家_5.0.2.0.1 完美复活版@LWELY.apk](https://www.lanzoul.com/iEayZ2axv6le)
+
+ - [X-plore v4.39.04 arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/i3nY42axv5cj)
+
+ - [X-plore v4.39.04 Root Black arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iaPrA2axv4zg)
+
+ - [X-plore v4.39.04 Root arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iRQUX2axv4ab)
+
+ - [X-plore v4.39.04 Black arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/ia0qi2axv3rc)
+
+ - [TencentQQ_8.26 Mod优化版@LWELY.apk](https://www.lanzoul.com/iLFdC2axuvpc)
+
+ - [B612咔叽 13.3.22解锁VIP_ELAMods.txt](https://www.lanzoul.com/iwnZz2axunpe)
+
+ - [SD%2BMaid%2BSE-Pro-v1.2.7-rc0_build_10207000-Mod@balatan.apk](https://www.lanzoul.com/igNvw2axujej)
+
+ - [SD%2BMaid%2BSE_Pro_v1_2_7_rc0_build_10207000_Viva_Magenta_Mod@balatan.apk](https://www.lanzoul.com/iPN3K2axujaf)
+
+ - [SD Maid SE_v1.2.7-rc0专业版_TRUMods.apk](https://www.lanzoul.com/idDh62axudva)
+
+ - [Sd Maid SE_v.1.2.6-rc0专业版_maxi123444.apk](https://www.lanzoul.com/izbbY2axudkj)
+
+ - [Resume Builder v1.19 [Premium]@piemods.apk](https://www.lanzoul.com/if5GY2axua9a)
+
+ - [ES文件_4.4.2.14 Mod尊享版@LWELY.apk](https://www.lanzoul.com/iC2G92axu7oh)
+
+ - [影视TV-fongmi-v2.6.4-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/iO3Wj2axspyd)
+
+ - [影视TV-fongmi-v2.6.4-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/i4Mhy2axsokd)
+
+ - [影视TV-fongmi-v2.6.4-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/irh0y2axsnuh)
+
+ - [影视TV-fongmi-v2.6.4-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/iHYim2axsn6d)
+
+ - [影视-fongmi-v2.6.4-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iiVZH2axsjxg)
+
+ - [影视-fongmi-v2.6.4-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/ixbC02axsjmf)
+
+ - [影视-fongmi-v2.6.4-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/ioFbG2axsisf)
+
+ - [影视-fongmi-v2.6.4-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iBw1J2axshzg)
+
+ - [AfuseKt-arm64-1.3.7-10142.apk](https://www.lanzoul.com/iCVVm2axs4oh)
+
+ - [影视TV-fongmi-v2.6.2-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/i23iF2axn9yh)
+
+ - [影视TV-fongmi-v2.6.2-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iVU5T2axn8re)
+
+ - [影视TV-fongmi-v2.6.2-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/ipvlo2axn7bc)
+
+ - [影视TV-fongmi-v2.6.2-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/i3oCp2axn6ej)
+
+ - [影视TV-ok-v2.5.6-海信专版.apk](https://www.lanzoul.com/iTm5I2axn5ih)
+
+ - [影视TV-ok-v2.5.6-电视版-X5离线.apk](https://www.lanzoul.com/it2q32axn37e)
+
+ - [影视TV-ok-v2.5.6-leanback-python-armeabi_v7a.apk](https://www.lanzoul.com/i3i8h2axmzfi)
+
+ - [影视TV-ok-v2.5.6-leanback-python-arm64_v8a.apk](https://www.lanzoul.com/iz2cG2axmx9a)
+
+ - [影视TV-ok-v2.5.6-leanback-java-armeabi_v7a.apk](https://www.lanzoul.com/idlJO2axmvfe)
+
+ - [影视TV-ok-v2.5.6-leanback-java-arm64_v8a.apk](https://www.lanzoul.com/ivxv22axmu3g)
+
+ - [影视-fongmi-v2.6.2-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/i3mZq2axmp7a)
+
+ - [影视-fongmi-v2.6.2-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/iWffY2axmncd)
+
+ - [影视-ok-v2.5.6-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/iMKEg2axmm2h)
+
+ - [影视-ok-v2.5.6-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/ingc12axmjre)
+
+ - [影视-ok-v2.5.6-mobile-java-armeabi_v7a.apk](https://www.lanzoul.com/iLyft2axmgyd)
+
+ - [影视-ok-v2.5.6-mobile-java-arm64_v8a.apk](https://www.lanzoul.com/i8XO62axmfpi)
+
+ - [影视-fongmi-v2.6.2-mobile-python-armeabi_v7a.apk](https://www.lanzoul.com/i20qR2axme6d)
+
+ - [影视-fongmi-v2.6.2-mobile-python-arm64_v8a.apk](https://www.lanzoul.com/iYT3z2axmcid)
+
+ - [高中语文_2.3.2.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/iURpY2axm94b)
+
+ - [高中数学_3.2.8.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/iD1ny2axm89a)
+
+ - [高中生物_2.3.6.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/iRnmc2axm6xc)
+
+ - [Windows系统调校_20240925_压缩_85623c1b.exe](https://www.lanzoul.com/in3G22axlx9e)
+
+ - [Windows系统调校_20240925_2a68c2fc.exe](https://www.lanzoul.com/iLxgE2axlx0f)
+
+ - [TVBox_q215613905_20240925-0957.apk](https://www.lanzoul.com/iJYla2axlt8j)
+
+ - [SD Maid SE v1.2.7-rc0 b10207000 Universal _ed by youarefinished.apk](https://www.lanzoul.com/i3ZPy2axlqtc)
+
+
 ## 2024-09-25 更新
 
 ## 2024-09-26 更新
