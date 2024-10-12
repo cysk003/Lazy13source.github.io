@@ -85,7 +85,7 @@ Chrome应用商店地址（需要魔法网络）：
 
 左拉标签公众号懒人搜索，懒人专属群介绍[](https://mp.weixin.qq.com/s?__biz=MzkwNjE5NDYzOQ==&mid=2247491573&idx=1&sn=3c9c9f3777d422cd32399f1a23afc7e2&scene=21#wechat_redirect)
 
- ***公众号懒人搜索 | 手机端访问查看完整样式 | 标签可以向左拖拽，来回拖动**
+***公众号懒人搜索 | 手机端访问查看完整样式 | 标签可以向左拖拽，来回拖动**
 
 如需进群，识别二维码查看小懒主号微信（付费群）
 
@@ -119,7 +119,7 @@ Chrome应用商店地址（需要魔法网络）：
 
 [](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNjE5NDYzOQ==&action=getalbum&album_id=3095199290177650691#wechat_redirect)[](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNjE5NDYzOQ==&action=getalbum&album_id=3184635951063531523#wechat_redirect)[](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNjE5NDYzOQ==&action=getalbum&album_id=3189384915092537344#wechat_redirect)[](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNjE5NDYzOQ==&action=getalbum&album_id=3095199290177650691#wechat_redirect)如页面未加载，请刷新重试
 
- ***公众号懒人搜索 | 点击跳转专题 | 欢迎订阅**
+***公众号懒人搜索 | 点击跳转专题 | 欢迎订阅**
 
 * * *
 

@@ -14,6 +14,22 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [永远热爱《哈利·波特》的 6 个理由（欢迎补充）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247877378&idx=1&sn=c8f6750fa621a6277e1d461efc57d1de&chksm=9fcb2a46a8bca3508ba7a68708f074d9f6d4b8acd7e7e7558482850d951426739f1b67567fb4#rd) |  [备份查看](/gzh/backup/KnowYourself/永远热爱《哈利·波特》的 6 个理由（欢迎补充）)
+    - 时间：2024-10-12
+    - 摘要：爱是最伟大的魔法。
+- [这个简单的动作，比性爱愉悦更令人上头](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247876740&idx=1&sn=b48b41e1718cd68aac9cd3ed7bdb2e9b&chksm=9fcb29c0a8bca0d6598fcb6cb35a76f3a5c8121ddba11afa9c8ce42c8e9ee690196ae5887eab#rd) |  [备份查看](/gzh/backup/KnowYourself/这个简单的动作，比性爱愉悦更令人上头)
+    - 时间：2024-10-10
+    - 摘要：谁试谁知道！
+- [都市里的人，还能谈好亲密关系吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247876740&idx=4&sn=56bf9f59133240a070ff97a34e167e38&chksm=9fcb29c0a8bca0d6bf18dc965dc94ae41d7d38f998bad0c30067239973c2b8b7381b39671421#rd) |  [备份查看](/gzh/backup/KnowYourself/都市里的人，还能谈好亲密关系吗？)
+    - 时间：2024-10-10
+    - 摘要：好的爱跟好的自己一样，会将人生这块拼图，越拼越完整。
+- [看起来善良，实际却可以用来操纵他人。这种最适合 pua 的情绪就是——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247876468&idx=1&sn=3905287a0eff7bb6b94948006a0ff681&chksm=9fcb1630a8bc9f2679becffc41d271cd3bdd7f4648ea1c5655d6529ae1a424fce7b854ffe889#rd) |  [备份查看](/gzh/backup/KnowYourself/看起来善良，实际却可以用来操纵他人。这种最适合 pua 的情绪就是——)
+    - 时间：2024-10-09
+    - 摘要：内疚是一种能带来“控制感”的情绪。
+- [“在一起了，但还不熟。” 「恋爱尴尬期」要怎么度过？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247876347&idx=1&sn=4238dec0998b1fa59dd01e00383355e3&chksm=9fcb17bfa8bc9ea963e4970b5d6f8d982b13d550ae644ac37c4ded23a872b64949db48f6a07b#rd) |  [备份查看](/gzh/backup/KnowYourself/“在一起了，但还不熟。” 「恋爱尴尬期」要怎么度过？)
+    - 时间：2024-10-07
+    - 摘要：恋爱初期不适应，先别想着要分手！
+
 - [这句很多人挂在嘴边的话，会让生活变成一潭死水](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247875676&idx=1&sn=705178400bada40c3cd1633d77e3f265&chksm=9fcb1518a8bc9c0e19872a56d979fc0ad193a48c6927ca3e8a74590e5c442391536493d4230a#rd) |  [备份查看](/gzh/backup/KnowYourself/这句很多人挂在嘴边的话，会让生活变成一潭死水)
     - 时间：2024-09-26
     - 摘要：容易让你一事无成的5个字，千万别说
