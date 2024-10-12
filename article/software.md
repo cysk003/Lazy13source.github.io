@@ -9,6 +9,233 @@
 > 建议先  <a href="javascript:location.reload();">点击刷新页面</a> ，查看最新更新记录~
 
 - 软件列表
+## 2024-10-08 更新
+
+
+## 2024-10-07 更新
+
+ - [缘梦影视_3.1.31.apk](https://www.lanzoui.com/iEAm42bsnj2b)
+
+ - [电视直播3.0.apk](https://www.lanzoui.com/iiWHI2bp787g)
+
+ - [唐诗与宋词.apk](https://www.lanzoui.com/i9Aon2blzhzc)
+
+ - [显示器信号源切换.exe](https://www.lanzoui.com/iw7uT2blz0xi)
+
+ - [宝宝巴士儿歌TV版TCL-C032-2.00.20.00-Release_jiagu_sign.apk](https://www.lanzoui.com/i7k7I2blysli)
+
+ - [第一神术紫微斗数.apk](https://www.lanzoui.com/i5bCi2blyp6f)
+
+ - [戏曲多多TV 1.0.6.0.apk](https://www.lanzoui.com/itHHL2blyc5g)
+
+ - [PDF全能免费转换_3.11.apk](https://www.lanzoui.com/iFXSv2blxnxe)
+
+ - [完美解码PureCodec20240924_x64.exe](https://www.lanzoui.com/i9Abf2blwrpe)
+
+ - [央视网视频下载器 v5.1.rar](https://www.lanzoui.com/iP4sq2blwjmd)
+
+ - [四大古典名著.apk](https://www.lanzoui.com/ieOf82blwi9e)
+
+ - [酷狗音乐_3.1.0.apk](https://www.lanzoui.com/io4qP2blw1kd)
+
+ - [酷狗音乐_.zip](https://www.lanzoui.com/imCp22blvvbi)
+
+ - [AdGuard-Premium-v4.6.195_build_10205012-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iJVQn2bngmrc)
+
+ - [ ReVanced Advanced v19.30.39 Black arm64 Root.apk](https://www.lanzoul.com/iWVBM2bne9yj)
+
+ - [ ReVanced Advanced v19.30.39 Revancify Blue arm64 Non-Root..apk](https://www.lanzoul.com/iIKtC2bne7wf)
+
+ - [ ReVanced Advanced v19.30.39 Dark arm64 Root.apk](https://www.lanzoul.com/iLqv32bne5wd)
+
+ - [ ReVanced Advanced v19.30.39 Revancify Red arm64 Non-Root..apk](https://www.lanzoul.com/ihWes2bne35e)
+
+ - [ ReVanced Advanced v19.30.39 MYou arm64 Non-Root..apk](https://www.lanzoul.com/iFFnd2bne0ne)
+
+ - [ ReVanced Advanced v19.30.39 Dark arm64 Non-Root..apk](https://www.lanzoul.com/ia8WM2bndy2b)
+
+ - [ ReVanced Advanced v19.30.39 Xisr Yellow arm64 Non-Root..apk](https://www.lanzoul.com/ilOWU2bndumh)
+
+ - [ ReVanced Advanced v19.30.39 MYou arm64 Root.apk](https://www.lanzoul.com/iD5jt2bnds5i)
+
+ - [ ReVanced Advanced v19.30.39 MMT Yellow arm64 Non-Root..apk](https://www.lanzoul.com/i4vrL2bndpza)
+
+ - [ ReVanced Advanced v19.30.39 MMT Turquoise arm64 Non-Root..apk](https://www.lanzoul.com/i927i2bndowb)
+
+ - [ ReVanced Advanced v19.30.39 MMT Red arm64 Non-Root..apk](https://www.lanzoul.com/iHw7U2bndnyh)
+
+ - [ ReVanced Advanced v19.30.39 MMT Pink arm64 Non-Root..apk](https://www.lanzoul.com/irV6e2bndmkh)
+
+ - [ ReVanced Advanced v19.30.39 MMT Orange arm64 Non-Root..apk](https://www.lanzoul.com/i7UxI2bndlja)
+
+ - [ ReVanced Advanced v19.30.39 MMT Green arm64 Non-Root..apk](https://www.lanzoul.com/ipc8Y2bndk9e)
+
+ - [ ReVanced Advanced v19.30.39 MMT Blue arm64 Non-Root..apk](https://www.lanzoul.com/iV9qW2bndj2b)
+
+ - [ ReVanced Advanced v19.30.39 Default arm64 Non-Root..apk](https://www.lanzoul.com/i9Rrt2bndhtg)
+
+ - [ ReVanced Advanced v19.30.39 AFN Blue arm64 Non-Root.apk](https://www.lanzoul.com/iEEcS2bndfyj)
+
+ - [_v5.2.80.108_slow_fix_1@kubarev.apk](https://www.lanzoul.com/ityiH2bnbdja)
+
+ - [_v5.2.80.108___40_Material__41_@Apks Uteis x Valentin.apk](https://www.lanzoul.com/ie5H52bnbcch)
+
+ - [_v5.2.80.108___40_Dark__41_@Apks Uteis x Valentin.apk](https://www.lanzoul.com/inyG12bnbbed)
+
+ - [_v5.2.80.108___40_Black__41_@Apks Uteis x Valentin.apk](https://www.lanzoul.com/i6SAf2bnba9c)
+
+ - [_5.2.80.108_slow_fix_2@kubarev.apk](https://www.lanzoul.com/iGJqW2bnb8xe)
+
+ - [驾考宝典_1.0.9.0 Mod会员版@LWELY.apk](https://www.lanzoul.com/i7VzQ2bnb5qj)
+
+ - [高德地图_13.10.0.8888 Mod优化版@LWELY.apk](https://www.lanzoul.com/iydu42bnb14d)
+
+ - [布蕾4K_3.0.1(31)-by东明.apk](https://www.lanzoul.com/ilebw2bnaeof)
+
+ - [GreenTuber_0.1.5.2@rikkati.apk](https://www.lanzoul.com/i9Ar42bnabcf)
+
+ - [ChatOn_1.5.4.57 Mod专业版@LWELY.apk](https://www.lanzoul.com/iFO7t2bna86b)
+
+ - [ADM-Pro-v14.0.38_build_140038-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/iDgy12bna43e)
+
+ - [AdGuard-Premium-v4.7.57_build_10217291-Mod-arm64-v8a@balatan.apk](https://www.lanzoul.com/imEnM2bna1wf)
+
+ - [123云盘_2.4.7(69)-by东明.txt](https://www.lanzoul.com/ivNEY2bn9uyf)
+
+ - [TikTok_36.5.5_v8a_Re-Uploaded.txt](https://www.lanzoul.com/iuBxi2bn9qxa)
+
+ - [TikTokMod-36.7.3-universal@dmitry.txt](https://www.lanzoul.com/iH80D2bn8xjc)
+
+ - [TikTok_36.5.5_v8a_64bit@Jaggu内置插件版.txt](https://www.lanzoul.com/iSq4R2bn8xib)
+
+ - [TikTok.Re.v36.7.3_@tkjiku_multi.txt](https://www.lanzoul.com/iYmGZ2bn8xgj)
+
+ - [TikTok.Re.v36.7.3_@tkjiku_lite.txt](https://www.lanzoul.com/ioQwF2bn8xfi)
+
+ - [TikTok.Re.v36.7.3_@tkjiku_asia_lite.txt](https://www.lanzoul.com/iosx32bn8xdg)
+
+ - [TikTok.Re.v36.7.3_@tkjiku_asia.txt](https://www.lanzoul.com/iUG0c2bn8xcf)
+
+ - [TikTok Plugin 1.54.apk](https://www.lanzoul.com/i7sc42bn8xad)
+
+ - [AI Chat_1.0@liu.apk](https://www.lanzoul.com/iMnZE2bn7umb)
+
+ - [小歪微商 Ver.1.3.8 会员解锁版@zhou45.apk](https://www.lanzoul.com/iVQ9p2bn7o7a)
+
+ - [Spotify Amoled (8.9.74.568)@WST.apk](https://www.lanzoul.com/iIsOK2bn77kb)
+
+ - [小飞机网盘_1.4.5(450)-by东明.apk](https://www.lanzoul.com/iBsJb2bn6mbg)
+
+ - [饿了么红包助手 Ver.3.4.5 去广告版@zhou45.apk](https://www.lanzoul.com/ifFqO2bn6d6h)
+
+ - [百视通TV_BesTV_BTTC_DANGBEI_8.0.2312.2@[MT签名].apk](https://www.lanzoul.com/ihJKI2bn519c)
+
+ - [123云盘_2.2.2_Green@果核剥壳.txt](https://www.lanzoul.com/iucGU2bn45de)
+
+ - [布蕾4K_3.0.1(31)@鹿蜀.apk](https://www.lanzoul.com/i25W72bn3lkb)
+
+ - [360安全浏览器_15.3.6182.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iKgEj2bn3b8j)
+
+ - [ChatOn_v1.51.457-499__Mod@辰夕.apk](https://www.lanzoul.com/i0DJI2bn38oh)
+
+ - [ChatBot_v1.4.5_(24092401)_Mod@辰夕.apk](https://www.lanzoul.com/i4Y202bn32ah)
+
+
+## 2024-10-04 更新
+
+
+## 2024-10-03 更新
+
+
+## 2024-10-02 更新
+
+ - [追忆影视_去更新.zip](https://www.lanzoui.com/iAr0J2bb0l6h)
+
+
+## 2024-10-01 更新
+
+ - [彩云天气 7.21.0去广告版v2_Kunkka.txt](https://www.lanzoul.com/ios1j2b7k2mf)
+
+ - [WPS Office_v18.13_1514谷歌高级版_derrin.txt](https://www.lanzoul.com/ik0B12b7k1tg)
+
+ - [微商管家_1.0.16(17)@鹿蜀.apk](https://www.lanzoul.com/iylmb2b7jyyd)
+
+ - [WPS_Office-Premium-v18.13_build_1514-Mod@balatan.txt](https://www.lanzoul.com/ihThx2b7j15g)
+
+ - [ChatBot_Ai_Pre.mium_v1.4.6_build_24092701@TRUMods.apk](https://www.lanzoul.com/ivIQR2b7iuji)
+
+ - [AdGuard v4.7.52 arm7+arm64 _ed by youarefinished.apk](https://www.lanzoul.com/iIm3j2b7iref)
+
+ - [CamScanner v6.73.0.2409260000 offline _ed by youarefinished.txt](https://www.lanzoul.com/iI3GE2b7iakj)
+
+ - [CamScanner v6.73.0.2409260000 clean _ed by youarefinished.txt](https://www.lanzoul.com/ij2eH2b7iaih)
+
+ - [CamScanner v6.73.0.2409260000 ads support _ed by youarefinished.txt](https://www.lanzoul.com/iuJqg2b7iahg)
+
+ - [我的世界Minecraft v1.21.40.23 b972104023 Universal _ed by youarefinished.txt](https://www.lanzoul.com/i6Nsd2b7i2pg)
+
+ - [-rvx_v19.16.39_@tkjiku_lite.apk](https://www.lanzoul.com/iepI22b7hwqb)
+
+ - [-rvx_v19.16.39_@tkjiku_universal.txt](https://www.lanzoul.com/ivYUV2b7huud)
+
+ - [X-plore-Donate-v4.39.04_build_43904-Mod@balatan.apk](https://www.lanzoul.com/i4GS22b7hucf)
+
+ - [WPS Office_v18.13_Mod@辰夕.txt](https://www.lanzoul.com/iCVl82b7ht7e)
+
+ - [Duolingo-Premium-v6.0.4_build_1959-Mod@balatan.apk](https://www.lanzoul.com/ic7m72b7hssj)
+
+ - [特狗影视 Ver.3.0.4 去广告 修复版@zhou45.apk](https://www.lanzoul.com/iulKk2b7hojg)
+
+ - [Spotify-v8.9.74.568_build_118755208-Mod%2BLite-arm64-v8a@balatan.apk](https://www.lanzoul.com/irLkI2b7hlrg)
+
+ - [QQ邮箱_6.6.0.00 Mod会员版@LWELY.apk](https://www.lanzoul.com/iDihx2b7hjpc)
+
+ - [GreenTuber_0.1.5.2_@takklong.apk](https://www.lanzoul.com/iteRl2b7hg3c)
+
+ - [GreenTuber_0.1.5.2@takklong.apk](https://www.lanzoul.com/iBF5W2b7hfra)
+
+ - [Yamby-v1.4.0.6-arm64-v8a-release.apk](https://www.lanzoul.com/iJnbk2b7he3a)
+
+ - [ChatBot_v1.4.5_(24092401)_Mod@辰夕.apk](https://www.lanzoul.com/ih2En2b7h9ah)
+
+ - [360SE-15.3.6176.64-Stable-Modified-Lite@zd423.txt](https://www.lanzoul.com/iv97c2b7eusd)
+
+ - [CloudMusic(64)-3.0.3.203079-Modified@zd423.txt](https://www.lanzoul.com/iOnSI2b7erre)
+
+ - [Google-Play-Store-42.9.16-29-A10 All.apk](https://www.lanzoul.com/i2rU62b7elxe)
+
+
+## 2024-09-30 更新
+
+ - [创建百度智能云应用.rar](https://www.lanzoui.com/iW9na2b5yxij)
+
+ - [测试素材.rar](https://www.lanzoui.com/ilhKY2b5ywoj)
+
+ - [百度API识别 v1.1.zip](https://www.lanzoui.com/i2i7A2b5ywhc)
+
+ - [植物大战僵尸杂交版v2.5.1.txt](https://www.lanzoul.com/i7t7d2b7e49i)
+
+ - [扫描全能王_v6.73.0.2409260000_Mod@辰夕.txt](https://www.lanzoul.com/i8xiP2b7e1xe)
+
+ - [360安全浏览器_15.3.6176.64_mefcl_Setup_64Bit.txt](https://www.lanzoul.com/iaDPT2b7dy6j)
+
+ - [彩云天气_7.21.0_Mod@辰夕.apk](https://www.lanzoul.com/iSGCd2b7dxeb)
+
+ - [ES文件浏览器_4.4.2.14_Mod@辰夕.apk](https://www.lanzoul.com/iErAO2b7drlc)
+
+ - [微信_QQ_TIM防撤回补丁RevokeMsgPatcher.v1.9.zip](https://www.lanzoul.com/iOUqB2b7awtc)
+
+ - [腾讯软件管理免安装绿色版和软件库文件-libraries-20240927.zip](https://www.lanzoul.com/iAwyl2b7avna)
+
+ - [uBlock Origin 1.60.0.crx](https://www.lanzoul.com/isegy2b7auvc)
+
+ - [AfuseKt-arm64-1.3.7-10143.apk](https://www.lanzoul.com/imQ1K2b7aulc)
+
+ - [小苹果影视XPGBOX-release-1.5.0.apk](https://www.lanzoul.com/ijdWz2b7ae0f)
+
+ - [mpv-x86_64-20240929-git-c3d9243.7z](https://www.lanzoul.com/iUbVv2b7a4pa)
+
+
 ## 2024-09-27 更新
 
  - [爱奇艺_v9.4.156.5892_去广告版.exe](https://www.lanzoui.com/i20Jj2ax8i8f)
