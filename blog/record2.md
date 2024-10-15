@@ -18,6 +18,26 @@
 
 ***
 
+- 241015:
+  
+  - 241015241015守夜人总司令《同归于尽！！》
+  
+  - 241015241015群分享《2024诺贝尔经济学奖：国家为什么会成功or失败？》
+  
+  - 241015241015卢克文星球《河北骑行案司机重获自由，如何看待？》
+  
+  - 241015241015卢克文星球《多地剑指违规减持，但处罚太轻？》
+  
+  - <details>
+    <summary>更新《241015懒人副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIEGDibo6DjPElnsNlpR4libxaNIDtIOicicZTgqP50Oh551jWjfHfJYxccSE5lV7oBeeSjZh7z5la9aw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《241015懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNIEGDibo6DjPElnsNlpR4libxlmysrRHRhXichTgKSZ3tNwsTpvpXoWam4DS9DsKfxWbPAWYSkhLy6LQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 241014:
   
   - 241014241014群分享《也聊自由》
@@ -52,17 +72,20 @@
   
 - 241007:
   - 241007雪球花甲老头旧付费文《高维模式！事业、投资、教育所遵循的原则，我从自己的生平说起。二万字！》
+  
 - 241006:
   - 241006尹香武288付费文《央行924新政全析：历史性的投资改道！》
   - 241006尹香武666付费文《内目透：本轮救市六步走，将以团灭助疯涨！》
   - 241006局外人的视界付费文《十月必看：牛市来了，准备好迎接剧烈波动了吗？》
   - 241006群分享《“大刺激时代”开幕？带你看懂“轰鸣的股市”》
+  
 - 241005:
   
   - 241005A视野付费文《这次美国大选，有点脏》
   - 241005专属群《顾子明说888元报告：分享朋友的四季度投资建议（收费版）》
   - 241005守夜人总司令《厮杀才刚刚开始厮杀才刚刚开始！》
   - 241005守夜人总司令付费文《切勿因输多就上岛，不可因赢麻就上头！》
+  
 - 241003:
   - 241002记忆承付费文《接下来的重点不是猛牛怎么走，而是八个后备团里的另外七个会怎么走》
   
