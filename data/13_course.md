@@ -806,6 +806,13 @@
 
 - 本系列均已整理，这里只是目录，文档下载地址在**懒人专属群** Q群公告的《通才计划》！
 
+- #### 王立铭·脑科学50讲
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNI3SaYY30rAExiaYYtCHtXwwc8TElAXlfATM6cQYKy4ib7f9NQUUuIR8xJebTxnbBTjGJVy75ZGqiczw/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 《郝博士的皮肤管理课》
 
 - #### 《医学通识50讲》
@@ -926,7 +933,7 @@
 
 >懒人专属群里有不少西风（记忆承载）的粉丝，西风的文章缺点是太长，优点是可以提供一些可操作性的思路，特别是对于预期管理这块解释不错，其付费文干货会多一些。
 >
->付费文合集查看从专属群总链接进入！
+>持续更新中，最新合集见专属群内分享！
 
 <details>
     <summary>点击展开目录（本目录更新到230802）</summary>
@@ -1209,7 +1216,7 @@
 
   - <details>
     <summary>点击展开目录：</summary>
-    <p> <img src="https://cdn.sspai.com/2020/09/29/6e66077fadbb6cf81a7610a9a7ae9ab6.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" alt="" width="863" data-width="863" data-height="670"></p>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNI3SaYY30rAExiaYYtCHtXwwJvf4fV1hg5tvAVQZyy9nWvibzM6qvJEhub8EdmEuwwibGAXCzwLcWicJA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
 
 ***
