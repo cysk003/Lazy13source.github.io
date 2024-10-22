@@ -18,6 +18,26 @@
 
 ***
 
+- 241022:
+  
+  - 241022241022卢克文星球《无锡卖婴案，只是冰山一角？》
+  
+  - 241022241022守夜人总司令《东哥已被架空，奶茶为自己挣扎！！》
+  
+  - 241022241022群分享《“忍痛”未必是美德，怎样科学对待疼痛？》
+  
+  - 241022241022守夜人总司令《家族企业危机问答》
+  
+  - <details>
+    <summary>更新《241022懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKURdHBItop6Wlv1z2vMaNB4kmjDlw3UH5NswM7VV4efXYuscktV0BUfdcmvuWvFr9c0eexSB406Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《241022懒人副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKURdHBItop6Wlv1z2vMaNBNmKAR5JFH6W5rcumuwfajx7VPBib39qHK9iarJaic5o8tU3TO1J046apQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 241021:
   
   - 更新第41期财新周刊，2024期期不落
