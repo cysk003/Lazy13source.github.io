@@ -14,6 +14,19 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [从付航到阎鹤祥，我看到了另一种「抵达自我」的方式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247878672&idx=1&sn=64fac148bc2d143e339e7e4244dd26c2&chksm=9fcb2154a8bca84205ea985b1d68f447cecf141b2276092fa7f53e89d514c9de1adf5db07d71#rd) |  [备份查看](/gzh/backup/KnowYourself/从付航到阎鹤祥，我看到了另一种「抵达自我」的方式)
+    - 时间：2024-10-24
+    - 摘要：一些时候，我们需要脱轨来辨认自身
+- [这句话，帮我度过生命中的至暗时刻](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247878672&idx=2&sn=6493313b4b6b6f0602a7e05b5ff59e66&chksm=9fcb2154a8bca84230174434c0fd25ee6cd29ef4f02710c1f2c2237abeaa8f631510f7850dc6#rd) |  [备份查看](/gzh/backup/KnowYourself/这句话，帮我度过生命中的至暗时刻)
+    - 时间：2024-10-24
+    - 摘要：也许你的故事，也能够为某些身处坠落的日子里的人，轻轻托举。
+- [别再逃避不确定性了，没用](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247878542&idx=1&sn=36402edc1101dc4ba96efc61dcd868b5&chksm=9fcb2ecaa8bca7dc769d7aea51f234d4385c1288ed4a433cb663422666a82292c41c25361550#rd) |  [备份查看](/gzh/backup/KnowYourself/别再逃避不确定性了，没用)
+    - 时间：2024-10-23
+    - 摘要：生活就像海洋 ——
+- [谈不好恋爱的人，速速来学习：](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247878542&idx=4&sn=324e44b9a2ce92abd3d2a090c5bf8cef&chksm=9fcb2ecaa8bca7dcedb98f8987664c22b6d9e16233d3e2034a0f9b4bd7674af05ba9afd93341#rd) |  [备份查看](/gzh/backup/KnowYourself/谈不好恋爱的人，速速来学习：)
+    - 时间：2024-10-23
+    - 摘要：解救恋爱。
+
 
 
 - [结婚多年还能感到甜蜜的婚姻，都有哪些特质？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247878054&idx=1&sn=e3e53289a100bf0621d9c60538e18a5b&chksm=9fcb2ce2a8bca5f42c83cea5ffd27183bb94d032c3e745f424149efc83e7bf9b43dbeb7e6ae2#rd) |  [备份查看](/gzh/backup/KnowYourself/结婚多年还能感到甜蜜的婚姻，都有哪些特质？)
