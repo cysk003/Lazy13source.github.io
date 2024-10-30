@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [远赴瑞士的「安乐死」，应当是我们向往的尊严死吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247879393&idx=1&sn=d397f941464cb10841307384ec973741&chksm=9fcb23a5a8bcaab35d6f0561ccb27c8328f18ce2aeaaf2b0e609d1c782d092b4154b70f40160#rd) |  [备份查看](/gzh/backup/KnowYourself/远赴瑞士的「安乐死」，应当是我们向往的尊严死吗？)
+    - 时间：2024-10-28
+    - 摘要：所有的向往，都是对生的渴望
+- [杀死婚姻的 6 句话，很多伴侣每天都在说](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247878904&idx=1&sn=720eeaf346946e8eddbe9a69f3231871&chksm=9fcb21bca8bca8aab56443cc48a9b30fa6cb47586847f7687966d33f117f91c7b083cd78324b#rd) |  [备份查看](/gzh/backup/KnowYourself/杀死婚姻的 6 句话，很多伴侣每天都在说)
+    - 时间：2024-10-27
+    - 摘要：一种预测离婚的方法，准确率高达 91%
+- [在爱情里，你真的知道自己想要什么吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247878904&idx=2&sn=314fb3711fffe23c426e3c594663427c&chksm=9fcb21bca8bca8aae37121887859d16ebaaa66e15abf7564b10b4fb9f8658d7445f0d4929ffb#rd) |  [备份查看](/gzh/backup/KnowYourself/在爱情里，你真的知道自己想要什么吗？)
+    - 时间：2024-10-27
+    - 摘要：看见「爱的真答案」
+
 - [从付航到阎鹤祥，我看到了另一种「抵达自我」的方式](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247878672&idx=1&sn=64fac148bc2d143e339e7e4244dd26c2&chksm=9fcb2154a8bca84205ea985b1d68f447cecf141b2276092fa7f53e89d514c9de1adf5db07d71#rd) |  [备份查看](/gzh/backup/KnowYourself/从付航到阎鹤祥，我看到了另一种「抵达自我」的方式)
     - 时间：2024-10-24
     - 摘要：一些时候，我们需要脱轨来辨认自身
