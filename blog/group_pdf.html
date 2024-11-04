@@ -96,6 +96,17 @@ input[type="text"] {
 				alert('密码不正确，请确保你是 懒人专属群 成员。\n最新密码访问专属群Q群消息');
 			}
 		}
+
+		function openRandomLink() {
+            // 获取所有的链接元素
+            const links = document.querySelectorAll("#dataTable tbody a");
+            // 随机选择一个链接
+            const randomLink = links[Math.floor(Math.random() * links.length)];
+            // 在新标签页中打开链接
+            if (randomLink) {
+                window.open(randomLink.href, "_blank");
+            }
+        }
 	</script>
 </head>
 <body>
@@ -117,9 +128,10 @@ input[type="text"] {
 	<div id="content" style="display: none;">
 		<p></p>
 	
-
-	<input type="text" id="searchInput" onkeyup="search()" placeholder="输入关键词搜索，每天限40篇下载">
-	
+		<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+			<input type="text" id="searchInput" onkeyup="search()" placeholder="直接输入关键词搜索，群友们不限量下载">
+			<button onclick="openRandomLink()">随机查看</button>
+		</div>
 
 	<table id="dataTable" style="margin: auto;">
 		<thead>
