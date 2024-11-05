@@ -18,6 +18,29 @@
 
 ***
 
+- 241105:
+  
+  - 241105241105群分享《当你自我怀疑的时候，也许就离成功不远了》
+  
+  - 241105241105卢克文星球《姜萍事件水落石出，锅到底是谁的？》
+  
+  - <details>
+    <summary>更新《241105懒人副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKfx2d3rZ7viayZuC6GdBOpIfCZnsnR5BWXz5kdrMLmC980ajnBqua7F4ZGwvHA6YPibahQ0KUIvXqA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《241105懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKfx2d3rZ7viayZuC6GdBOpIPF0yKBH9H4icibpEcZdsSpA9soOicNutHElvYKc7xiaurylgqc0FtB3PBw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 241104:
+  - 241104241104灏泽神棍付费文《对不起，这篇文章会得罪很多人，但会让你彻底看清许多真相》
+  - 241104241104群分享《果然，赚钱要从读书开始》
+  - 241104241104卢克文星球《中国双航母战斗群亮相，意味着什么？》
+  - 241104241104卢克文星球《朝鲜试射洲际导弹，半岛局势继续恶化？》
+  - 
+  
 - 241103:
   
   - 241103241103尹香武付费文《我对房产未来的总判断、总建议》
