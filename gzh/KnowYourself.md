@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [谁能劝劝我爸妈，别再「没苦硬吃」了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247879850&idx=1&sn=bede1161e3c1aee580c04e1738c4c475&chksm=9fcb25eea8bcacf86aa3a9006bb6f91104e3b682b4562298eddedfb39168856734e8c3a4ee7a#rd) |  [备份查看](/gzh/backup/KnowYourself/谁能劝劝我爸妈，别再「没苦硬吃」了)
+    - 时间：2024-11-06
+    - 摘要：父母没苦硬吃的原因，很多人都不知道
+- [没经历过这种考验的伴侣，再相爱也会分开](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247879687&idx=1&sn=23846aa4c9fd0bf5deedbc29e9eb5418&chksm=9fcb2543a8bcac55758f9ea72745f608769e5b7126d387b8167d771271330a79f017c1ffb877#rd) |  [备份查看](/gzh/backup/KnowYourself/没经历过这种考验的伴侣，再相爱也会分开)
+    - 时间：2024-11-04
+    - 摘要：亲密关系的必经之路
+
 - [《再见爱人4》观众最盼着离婚的，已经不是黄圣依了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247879536&idx=1&sn=e54241f74e12acc90d3e0d2f5a6e4d3d&chksm=9fcb2234a8bcab222ec8da5f1f446b09181d87babe0a4f28ad72b7cc6c3461570ee95f4a909f#rd) |  [备份查看](/gzh/backup/KnowYourself/《再见爱人4》观众最盼着离婚的，已经不是黄圣依了)
     - 时间：2024-10-31
     - 摘要：最令人「窒息」的一对出现了
