@@ -14,6 +14,16 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [AI 恋人，能成为理想伴侣的平替吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247880805&idx=1&sn=c4840a1d4b1bae5996eb877438c53d7f&chksm=9fcb3921a8bcb03775e26fd2b372958d8960a7d764ae79d66c4a58ed309473adc47a5551fc4e#rd) |  [备份查看](/gzh/backup/KnowYourself/AI 恋人，能成为理想伴侣的平替吗？)
+    - 时间：2024-11-13
+    - 摘要：超1000万人在谈赛博恋爱
+- [在生命的低谷，是这句话将我捞起](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247880536&idx=1&sn=3529bcb7ccc95a98fd4d3e2af6d6d502&chksm=9fcb261ca8bcaf0a2e64c45b6cb222ef5f20c5fd2351538ed80ce2bf31a525bcb5f9f05545cc#rd) |  [备份查看](/gzh/backup/KnowYourself/在生命的低谷，是这句话将我捞起)
+    - 时间：2024-11-12
+    - 摘要：生活很难，还好有你在。
+- [一个能让生活越过越顺的能力，被很多人忽视了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247880181&idx=1&sn=12c68781b516a3be9ec50b06368e6bb6&chksm=9fcb24b1a8bcada70fe073b948f20411930b2da66d73f2af613010ed9278ca56d34432ff5149#rd) |  [备份查看](/gzh/backup/KnowYourself/一个能让生活越过越顺的能力，被很多人忽视了)
+    - 时间：2024-11-10
+    - 摘要：可以让每天都焕然一新
+
 - [谁能劝劝我爸妈，别再「没苦硬吃」了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247879850&idx=1&sn=bede1161e3c1aee580c04e1738c4c475&chksm=9fcb25eea8bcacf86aa3a9006bb6f91104e3b682b4562298eddedfb39168856734e8c3a4ee7a#rd) |  [备份查看](/gzh/backup/KnowYourself/谁能劝劝我爸妈，别再「没苦硬吃」了)
     - 时间：2024-11-06
     - 摘要：父母没苦硬吃的原因，很多人都不知道
