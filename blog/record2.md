@@ -18,6 +18,24 @@
 
 ***
 
+- 241119:
+  
+  - 241119 珍大户问答
+  
+  - 241119群分享《李子柒归来，我们找到了头部网红的成功公式》
+  
+  - 241119卢克文星球《无锡事件背后的职校乱象》
+  
+  - <details>
+    <summary>更新《241119懒人副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNI8blicAV2KU9KZcgUcYjkwRzPazJhBKYFj3VmPknHcNicPHFBnGkeATicKo4hCu0KfaMYb3zqR1fH4Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《241119懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNI8blicAV2KU9KZcgUcYjkwR93YNrwpeGbRcE6sg9ic9MnQiceLUZ6sdF4ko8ibXZHNM4SQTOTusRKmSQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 241118:
   
   - 241118费曼的小茶馆付费文《接触上百位领导后，我总结的提拔成长秘籍（全网独家干货）》
