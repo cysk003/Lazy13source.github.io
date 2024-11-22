@@ -14,6 +14,34 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [为什么不建议你，把伴侣视为「队友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247882134&idx=1&sn=e010a85a46706fd6ec2af9d7508fcbcf&chksm=9fcb3cd2a8bcb5c408869881dc42f16517966157ebd8c06f7f1aa387ca47e9c37eb9b0cdf1ed#rd) |  [备份查看](/gzh/backup/KnowYourself/为什么不建议你，把伴侣视为「队友」)
+    - 时间：2024-11-21
+    - 摘要：「合作」久了，别让感情淡了
+- [从吸引到真爱：关系的三条必经之路](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247882134&idx=2&sn=234e511a7212b43084a35e7f10606992&chksm=9fcb3cd2a8bcb5c4329e9b7dc1ee1160433533a426b39f7338dd97f9265d9609ed5c98db9187#rd) |  [备份查看](/gzh/backup/KnowYourself/从吸引到真爱：关系的三条必经之路)
+    - 时间：2024-11-21
+    - 摘要：
+- [婚后有这 6 个迹象，说明你找对人了](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247882029&idx=1&sn=24f8fccb98f6759d33caae552771e66d&chksm=9fcb3c69a8bcb57f76d649b946806630fa5a9ee32fbd05c68fef4f8f32d242367e5f2b1eebfe#rd) |  [备份查看](/gzh/backup/KnowYourself/婚后有这 6 个迹象，说明你找对人了)
+    - 时间：2024-11-20
+    - 摘要：第四个尤其准
+- [影响爱情质量的三条心理轨迹：](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247881876&idx=3&sn=c2e5e1c0d04870383456cb9b4c115c66&chksm=9fcb3dd0a8bcb4c6fbdc9ef22b3b07ff3a989aa6336fa5b427390aacca243bb116d73de2eb74#rd) |  [备份查看](/gzh/backup/KnowYourself/影响爱情质量的三条心理轨迹：)
+    - 时间：2024-11-19
+    - 摘要：
+- [“要解决问题，不要解决自己。”  难过到快崩掉时，这 22 句话托住了我](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247881735&idx=1&sn=9b845eba5724c40bb41653dbef41e6ed&chksm=9fcb3d43a8bcb4558a09fd35942bc68e72389305a52a566083ed4a4be22da438ddd402f83025#rd) |  [备份查看](/gzh/backup/KnowYourself/“要解决问题，不要解决自己。”  难过到快崩掉时，这 22 句话托住了我)
+    - 时间：2024-11-18
+    - 摘要：这个冬天里，最需要被听到的22个故事。
+- [一个能快速释放压力的秘诀，藏在社交中（男女都适用）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247881735&idx=2&sn=5fce1342fa128c6439f23e0175148754&chksm=9fcb3d43a8bcb45506c4dde88bc8290f971071afcb883e5487a2096202a0135957d28506013a#rd) |  [备份查看](/gzh/backup/KnowYourself/一个能快速释放压力的秘诀，藏在社交中（男女都适用）)
+    - 时间：2024-11-18
+    - 摘要：好好珍惜你身边的这种「搭子」
+- [快速毁掉一次社交，只需要干一件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247881434&idx=1&sn=ac2e6a76cb843a300e65d7460372fa12&chksm=9fcb3b9ea8bcb288e4217d62b6a3bfeab9fefa41fd7913060316faf9da28f3f9c83bd9894dc1#rd) |  [备份查看](/gzh/backup/KnowYourself/快速毁掉一次社交，只需要干一件事)
+    - 时间：2024-11-17
+    - 摘要：6 个「社死现场」背后的真相
+- [「NPD」好像突然变多了，到底是怎么回事？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247881009&idx=1&sn=458ddd23b9f2eb9a0c4589343848e8f1&chksm=9fcb3875a8bcb163936678eeaa3a3b52902f952d51cdaf2ec5d784d926402d53d33acd76d361#rd) |  [备份查看](/gzh/backup/KnowYourself/「NPD」好像突然变多了，到底是怎么回事？)
+    - 时间：2024-11-14
+    - 摘要：我们的内心，都有一个游弋的幽灵。
+- [扎心真相：只靠吸引，无法建立亲密关系](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247881009&idx=2&sn=f336a35eeab944ccc45945df81b9416d&chksm=9fcb3875a8bcb163ac3d7db12b32646ce9e4af8815a6ceac535137ff8520492d050f93a40b3b#rd) |  [备份查看](/gzh/backup/KnowYourself/扎心真相：只靠吸引，无法建立亲密关系)
+    - 时间：2024-11-14
+    - 摘要：
+
 - [AI 恋人，能成为理想伴侣的平替吗？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247880805&idx=1&sn=c4840a1d4b1bae5996eb877438c53d7f&chksm=9fcb3921a8bcb03775e26fd2b372958d8960a7d764ae79d66c4a58ed309473adc47a5551fc4e#rd) |  [备份查看](/gzh/backup/KnowYourself/AI 恋人，能成为理想伴侣的平替吗？)
     - 时间：2024-11-13
     - 摘要：超1000万人在谈赛博恋爱
