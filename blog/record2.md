@@ -18,6 +18,24 @@
 
 ***
 
+- 241126:
+  
+  - 241126南洋富商问答《如何提升思考能力》
+  
+  - 241126群分享《叶嘉莹：白昼谈诗夜讲词，诸生与我共成痴》
+  
+  - 241126卢克文星球《吴柳芳的争议，暴露了什么问题？》
+  
+  - <details>
+    <summary>更新《241126懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLIxedlXPMQ65wwX4LjVE6vkCg8G8gQNAy3iamO0tWxngIRNANa5jloZ42qQuEbHjViavpUSGCbiaWWQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《241126懒人副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLIxedlXPMQ65wwX4LjVE6vvcTvKSZf6rR9PsRQvNhzeOof8VxwNFZKykAc3FHhXEVsYSicicmOVoTQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 241125:
   
   - 241125野心范《怎么知道自己适合干什么？》
