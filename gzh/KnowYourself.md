@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [我每天的情绪价值，80%来自这件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247883006&idx=1&sn=a823b3bbf25c721e1be19128d3e266b4&chksm=9fcb31baa8bcb8ac0512ee8f859adb613661c04736205f8bb5a7854f5e793464164de9763ea3#rd) |  [备份查看](/gzh/backup/KnowYourself/我每天的情绪价值，80%来自这件事)
+    - 时间：2024-11-28
+    - 摘要：疯狂星期四指定文章
+- [一种比灵魂伴侣更值得珍惜的关系，被许多人忽视了——](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247882633&idx=1&sn=34da473a5935f5815207fcc690d9d061&chksm=9fcb3ecda8bcb7db6bf7814b559d41a707b299dcb91d9213de241a8e1304a7319beefb0ea0e6#rd) |  [备份查看](/gzh/backup/KnowYourself/一种比灵魂伴侣更值得珍惜的关系，被许多人忽视了——)
+    - 时间：2024-11-27
+    - 摘要：快来看看你有没有
+
 - [为什么不建议你，把伴侣视为「队友」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247882134&idx=1&sn=e010a85a46706fd6ec2af9d7508fcbcf&chksm=9fcb3cd2a8bcb5c408869881dc42f16517966157ebd8c06f7f1aa387ca47e9c37eb9b0cdf1ed#rd) |  [备份查看](/gzh/backup/KnowYourself/为什么不建议你，把伴侣视为「队友」)
     - 时间：2024-11-21
     - 摘要：「合作」久了，别让感情淡了
