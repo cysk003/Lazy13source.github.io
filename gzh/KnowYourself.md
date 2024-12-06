@@ -14,6 +14,19 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [关于如何送礼物的心理学干货（挑礼物挑到发疯的人必看）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247883964&idx=1&sn=925b285959af421e8c24775a91b10231&chksm=9fcb35f8a8bcbcee7d9df4fcd6559c276f1da831144f90ce42e5772cb8d228b6ee3c525d8de3#rd) |  [备份查看](/gzh/backup/KnowYourself/关于如何送礼物的心理学干货（挑礼物挑到发疯的人必看）)
+    - 时间：2024-12-04
+    - 摘要：各种关系都适用
+- [「只筛选，不改变」是成年人对爱情最大的误会](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247883856&idx=1&sn=bfb445787ed70d10df465e2106de389e&chksm=9fcb3514a8bcbc02b680070c4e88e09d1e3b7965c50239cdd517b9f353db01f708144611df03#rd) |  [备份查看](/gzh/backup/KnowYourself/「只筛选，不改变」是成年人对爱情最大的误会)
+    - 时间：2024-12-03
+    - 摘要：任何瞬间的心动都不易，不要怠慢它。
+- [我发现彼此喜欢的人，都会说「婴语」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247883336&idx=1&sn=0231adbe1e209d3f277d59ab5bb7a221&chksm=9fcb330ca8bcba1a74de5963475439e255aaaf1f59f863b4c46461a76fb2ebbf501ec6243563#rd) |  [备份查看](/gzh/backup/KnowYourself/我发现彼此喜欢的人，都会说「婴语」)
+    - 时间：2024-12-01
+    - 摘要：说的越多，关系越好
+- [一个延长快乐的方法，去班味，超有效！](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247883321&idx=1&sn=faa8bf8a73c03eb925943b9019725d62&chksm=9fcb337da8bcba6bc7b16bc1387696a3930061ae0836ddd89ba2529c906cd3aa39a1cd3576ba#rd) |  [备份查看](/gzh/backup/KnowYourself/一个延长快乐的方法，去班味，超有效！)
+    - 时间：2024-11-29
+    - 摘要：立刻就能做
+
 - [我每天的情绪价值，80%来自这件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247883006&idx=1&sn=a823b3bbf25c721e1be19128d3e266b4&chksm=9fcb31baa8bcb8ac0512ee8f859adb613661c04736205f8bb5a7854f5e793464164de9763ea3#rd) |  [备份查看](/gzh/backup/KnowYourself/我每天的情绪价值，80%来自这件事)
     - 时间：2024-11-28
     - 摘要：疯狂星期四指定文章
