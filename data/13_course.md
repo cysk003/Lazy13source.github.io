@@ -813,9 +813,9 @@
 
 ## 健康系列
 
-- 本系列均已整理，这里只是目录，文档下载地址在**懒人专属群** Q群公告的《通才计划》！
+- 本系列均已整理，这里只是目录，文档下载地址在**懒人专属群** 总链接的《通才计划》！
 
-- #### 王立铭·脑科学50讲
+- #### 《王立铭·脑科学50讲》
 
   - <details>
         <summary>点击展开目录</summary>
@@ -901,6 +901,15 @@
 ***
 
 ## 大国历史系列专题
+
+- #### 徐弃郁·日本简史30讲
+
+  - 标签：`#历史`，`#日本`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNLEP41yRIyjBl6YLHKibY7xI8syptbzh1bODDeck5L5YPN9qpBB0eTQ21ia3nNYNEPHYrHjFtc9fcMw/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
 
 - #### 徐弃郁·德国简史30讲
 
