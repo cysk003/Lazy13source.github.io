@@ -18,6 +18,22 @@
 
 ***
 
+- 241217:
+  
+  - 241217群分享《十二月AI又双叒爆发了：世界模型，曙光乍现》
+  
+  - 241217卢克文星球《个人养老金制度推广至全国，值得买吗？》
+  
+  - <details>
+    <summary>更新《241217懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKhV0dKxyAf4ibibM1ibQ4DNuBMgvPtKSluVo2whuex3usZYlNzMpSvPfvezxa3uUfiaGn8V37pbceQcw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《241217懒人副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKhV0dKxyAf4ibibM1ibQ4DNuBnyWYgVWyvvKNCSrS4fxArDIFicYYfibtVSK7PfichOrlV1L7U9YicHg81w/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 241216:
   
   - 241216卢克文星球《尹锡悦被弹劾，谁会是下一任韩国总统？》
