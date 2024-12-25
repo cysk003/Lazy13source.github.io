@@ -18,6 +18,47 @@
 
 ***
 
+- 241225:
+  
+  - 241225卢克文星球《本田和日产要合并，是怎么回事？》
+  
+- 241224:
+  - 241224群分享《养老产业和养老金融对股市走向有何影响？》
+  
+  - 241224守夜人总司令《接下来怎么办？！》
+  
+  - 241224群分享《游戏人间：世界是怎么变成“草台班子”的？》
+
+  - 241224卢克文星球《多地取消公摊，房子要变相降价了？》
+  
+  - 241224卢克文星球《新一代国产“高超音速无人机”，性能如何》
+  
+  - <details>
+    <summary>更新《241224懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJLQwe4cIdPQdiacMCwQ8w6IGDz8D3XLeaA25B4VVj5oUYRKYqgCvxw86iafV6tXCkl4IVMX7HCaBmQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《241224副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJLQwe4cIdPQdiacMCwQ8w6IZGc3Mj6WXyOdGpFxe35BW1KicGP9sEJZ527v8oKAed499MowplMVgNg/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+- 241223:
+  - 241223守夜人总司令《危险了！！》
+  - 2024年度关键词：宁在一思进，莫在一思停
+  - 241223卢克文星球《美联储再降息，怎么就惹特朗普不高兴了？》
+
+- 241220:
+  - 241220群分享《从中央经济工作会议看2025年经济增长重点》
+  - 2025哪个行业有可能成为新技术革命的主角？
+  - 241220群分享《这位百岁奶奶，活成了一本心智长寿指南》
+  - 241220卢克文星球《俄军司令被暗杀，背后有什么内幕？》
+
+- 241219:
+  - 241219群分享《2025年，普通人的财富逻辑有什么变化？》
+  - 241219群分享《流行音乐，为什么越来越“洗脑”了？》
+  - 241219卢克文星球《中美科技合作协定续约，我们需要知道哪些事？》
+  
 - 241218:
   
   - 241218江宁知府付费文《新任驻华大使谈中美对抗》
