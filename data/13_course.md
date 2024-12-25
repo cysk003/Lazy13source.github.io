@@ -35,6 +35,15 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 汪志谦·MOT体验设计课
+
+  - 标签：`#课程`，`#设计`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BXJXNRRKQNLeiaOSUoeO4ibxh0YUPx7FJ1yBHxh7ibDBHV8bA0wJXZRSSl4RXeqqP69PpyCSkXljQVIcvntJqAJnQ/640?wx_fmt=jpeg&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
 - #### 胡高崇·劳动法必知60讲
 
   - 标签：`#劳动法`，`#法律`
