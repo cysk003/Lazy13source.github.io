@@ -18,6 +18,28 @@
 
 ***
 
+- 241231:
+  
+  - 241231花甲老头雪球付费文《岁末总结！善用优势结合趋势，更上一层楼（两万字）》
+  
+  - 241231万叔付费文《命不好，是被困迫在设计好的生态位上》
+  
+  - 241231卢克文星球《TikTok 生死局，川普忽然“出手相救”？》
+  
+  - 更新《何帆中国经济报告（2024-2025）》到16讲
+  
+  - 更新《年度得到·香帅中国财富报告（2024-2025）》到18讲
+  
+  - <details>
+    <summary>更新《241231副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJEmOdpAtaj1ln8Ikdr2Z8QDB4nHUyRbw4jLkK369SjIJFR1ZfV7seONvGvgNebiacbcmpnebT2iaSQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《241231懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNJEmOdpAtaj1ln8Ikdr2Z8QPMEiczCG06Te87lYJeAKkrLhYCw2dlFsZjPOJ8qsjGqegRVtAibJ3ZEQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 241230:
   
   - 241230群分享《年终策划·致敬表达者：2024年度演讲盘点》
