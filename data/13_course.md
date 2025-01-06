@@ -35,6 +35,19 @@
 
 😊以下课程均已整理，专属群总链接的《通才计划》自取在线地址和离线文档下。
 
+- #### 何帆中国经济报告（2024-2025）
+
+  - 标签：`#经济`，`#报告`
+
+  - <details>
+        <summary>点击展开目录</summary>
+     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLN8vzO9icXjFiaSJqI3OQBGiaBtR1W0IkjzzHprMBQ6GrsSAOhMhWgIicuiaNDjDwD6kCuQI059VwZhKQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+        </details>
+
+- #### 跟香帅学金融思维20讲
+
+  - 标签：`#金融`，`#课程`
+
 - #### 汪志谦·MOT体验设计课
 
   - 标签：`#课程`，`#设计`
