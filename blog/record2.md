@@ -18,6 +18,24 @@
 
 ***
 
+- 250107:
+  
+  - 250107群分享《人类这四种天赋，AI永远无法替代》
+  
+  - 250107卢克文星球《德国出现“负电价”，真的是用电还能赚钱吗？》
+  
+  - 250107局外人的视界付费文《一月必看：在下跌中抄底春季行情》
+  
+  - <details>
+    <summary>更新《250107副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLoN0S0uticZHUtC8mBwDVgXkwqDQyrwUoAExDF1slSsoc9eKhKI8iagVY1MHnjYpdLBO89MMH4jJFA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《250107》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNLoN0S0uticZHUtC8mBwDVgXTynBiadGhYLljH9vIQjerpaEqalAERBPNhKgEXBh9NcFE0mssKjrzoA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 250106:
   
   - 250106群分享《未来世界，谁能率先获益？》
