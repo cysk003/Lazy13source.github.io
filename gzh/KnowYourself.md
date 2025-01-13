@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [身边有治愈感的人，都有这种特点](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247888183&idx=1&sn=cfd34ff7acb858facb827228f81361e9&chksm=9fccc473a8bb4d655409270e75faea315145679413975cb6f01d5d89000b663e684bed2d6d42#rd) |  [备份查看](/gzh/backup/KnowYourself/身边有治愈感的人，都有这种特点)
+    - 时间：2025-01-12
+    - 摘要：想要更多、更持久的幸福，一定要试试这件事
+- [请珍惜：那个总爱给你发表情包的人](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247888055&idx=1&sn=c5e00910f2bbc5b9bf010e20370db184&chksm=9fccc5f3a8bb4ce54e2cbd498c98823745191abb7ce969198526b686a43a099891133b17a2d5#rd) |  [备份查看](/gzh/backup/KnowYourself/请珍惜：那个总爱给你发表情包的人)
+    - 时间：2025-01-09
+    - 摘要：分享并@ ta
+
 - [越懒得做这件事，脑子就越笨（90%的人可能会中招）](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247887942&idx=1&sn=7d6845bb270a8cd74a9428c03947310e&chksm=9fccc502a8bb4c14abbfd02dafb6ec7d3324d4c0113b578f36c2235c45537ba4316dd209437d#rd) |  [备份查看](/gzh/backup/KnowYourself/越懒得做这件事，脑子就越笨（90%的人可能会中招）)
     - 时间：2025-01-08
     - 摘要：这是一件只要做了，百分百有效果的事
