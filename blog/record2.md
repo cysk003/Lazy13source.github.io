@@ -18,6 +18,22 @@
 
 ***
 
+- 250114:
+  
+  - 250114群分享《成为“π”型人才的六项修炼》
+  
+  - 250114卢克文星球《特朗普上任在即，马斯克和红脖子为何内讧？》
+  
+  - <details>
+    <summary>更新《250114副业周刊》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKRQMrNuGXx8oGfpEkSzZrSTtp50LmmcqIMo2pX1Pooia9rbLBiclgLKGUzcTv2KsibFd6JKAMuRZwyQ/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
+  - <details>
+    <summary>更新《250114懒人风向标》，点击展开目录：</summary>
+    <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKRQMrNuGXx8oGfpEkSzZrSPWoicqqKDQdrhKonPXfBZpwpSlbd3HibAA5GNxWAYHx06n7svSAqefHw/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
+    </details>
+  
 - 250113:
   
   - 250113群分享《三个重点，带你看懂这场2025“科技春晚”》
