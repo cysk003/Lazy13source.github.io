@@ -14,6 +14,13 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [“人执着于被爱被认可，会更难以挣脱现实的困境。”丨30 个年度心理学真相](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247889553&idx=1&sn=0b94ddea0fc72e303ba6f30a61394c21&chksm=9fccdbd5a8bb52c39a5ddd25919463fd670686585c3b7d91b18b4862e2e0ff66b620326b216e#rd) |  [备份查看](/gzh/backup/KnowYourself/“人执着于被爱被认可，会更难以挣脱现实的困境。”丨30 个年度心理学真相)
+    - 时间：2025-02-06
+    - 摘要：那些被点亮的瞬间，会支撑你走过艰难时刻
+- [这件事情没想清楚，再相爱也不建议结婚](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247889471&idx=1&sn=3731a5eea78cdbf72a14e7fcb4eedc8e&chksm=9fccdb7ba8bb526daac7a2d7deedf2f2cd258442d20785b9ae41e1c96d822d92ab140acb40dc#rd) |  [备份查看](/gzh/backup/KnowYourself/这件事情没想清楚，再相爱也不建议结婚)
+    - 时间：2025-02-05
+    - 摘要：决定结婚前必看
+
 - [没有性生活的婚姻，会发生什么？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247889202&idx=1&sn=9069ea634040ce52ca0b06b01f842f2e&chksm=9fccd876a8bb51609c1d93dd90b7cfd00badcde30247a4aa097a1b190be7255ff27fa634caa5#rd) |  [备份查看](/gzh/backup/KnowYourself/没有性生活的婚姻，会发生什么？)
     - 时间：2025-01-23
     - 摘要：没有性的婚姻是否会离婚，关键取决于这一点——
