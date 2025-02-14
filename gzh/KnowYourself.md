@@ -14,6 +14,17 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [研究证实：相比兴奋的生活，全球超 7 成人都渴望「平静感」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247889999&idx=1&sn=bf0fc856ed723e001bf6a289611c22b5&chksm=9fccdd0ba8bb541df5802e36f71bdd222e53e90ac80856504c3df7bd3de308d42791fa8c43dc#rd) |  [备份查看](/gzh/backup/KnowYourself/研究证实：相比兴奋的生活，全球超 7 成人都渴望「平静感」)
+    - 时间：2025-02-13
+    - 摘要：追求平静是一种比追求幸福更合理的野心
+
+- [最该放下手机的时间，不是睡前](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247889893&idx=1&sn=3d6a4bbe6d5b2afab71e5083f7d9d72b&chksm=9fccdaa1a8bb53b7187ece3910bc65a8f4f6dd3981b6a051987e0db51e49d602d7f09151806f#rd) |  [备份查看](/gzh/backup/KnowYourself/最该放下手机的时间，不是睡前)
+    - 时间：2025-02-12
+    - 摘要：内附暂戒手机、快速回血的好方法
+- [对孩子伤害最大的不是离婚，而是做错这件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247889756&idx=1&sn=17d8be1355c61422a6698f12c434ff9f&chksm=9fccda18a8bb530e31e06e36b5dc8a7d0868fe2efc628128676fb77035a33d85b016b72a7270#rd) |  [备份查看](/gzh/backup/KnowYourself/对孩子伤害最大的不是离婚，而是做错这件事)
+    - 时间：2025-02-10
+    - 摘要：不论离婚与否的父母，都需要面对。
+
 - [“人执着于被爱被认可，会更难以挣脱现实的困境。”丨30 个年度心理学真相](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247889553&idx=1&sn=0b94ddea0fc72e303ba6f30a61394c21&chksm=9fccdbd5a8bb52c39a5ddd25919463fd670686585c3b7d91b18b4862e2e0ff66b620326b216e#rd) |  [备份查看](/gzh/backup/KnowYourself/“人执着于被爱被认可，会更难以挣脱现实的困境。”丨30 个年度心理学真相)
     - 时间：2025-02-06
     - 摘要：那些被点亮的瞬间，会支撑你走过艰难时刻

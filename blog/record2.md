@@ -18,40 +18,53 @@
 
 ***
 
+
+
+- 250213:
+  - 250213安民付费文《行业分析：高度关注，未来20年，万倍成长空间》
+  - 250213群分享《重要信号：文科专业正在大量停招》
+  - 250213群分享《怎样完成一项超级工程：巴黎圣母院修复记》
+  - 250213卢克文星球《拜登老底被揭，美国内斗进入深水区？》
+
+- 250212:
+  - 250212卢克文星球《两大汽车央企要合并，是成还是败？》
+  - 250212A视野付费《大A崛起在即，哪些方向和逻辑值得关注》
+  - 250212群分享《MBTI测试，是怎么成为“正能量担当”的？》
+
 - 250211:
-  
+
   - 250211职场人生付费《如何在35岁左右，赚到人生中的100万、甚至是1000万？》
-  
+
     - 250211老A《体制内星球问答》
-  
+
     - 250211灰玻璃星球《双方彩礼谈不拢 ，男方一走了之，女生应该怎么办 ？》
-  
+
     - 250211群分享《“烂尾娃”？不存在，不存在》
-  
+
     - 250211卢克文星球《泰国总理访华后，妙瓦底的末日要来了？》
-  
+
   - <details>
     <summary>更新《250211懒人风向标》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKLg9ibcJQ07dYjiamchh5LjjxPUs82ypwl8D9MUJukUDmxP1wb4DiazGxfPCRCib0xcj1lYxCtsqK1aA/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
   - <details>
     <summary>更新《250211懒人副业周刊》，点击展开目录：</summary>
     <p> <img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BXJXNRRKQNKLg9ibcJQ07dYjiamchh5LjjQKLJlgmYicnsNYZkgCMIqtwabyxwOBcnAcpMmXBia43e8FlyQXozUp4Q/640?wx_fmt=png&amp;from=appmsg" alt="" width="863" data-width="863" data-height="670"></p>
     </details>
-  
+
 - 250210:
   - 250210摸象的盲人付费《从美国的腐败看管理的危害》
   - 250210群分享《一个狠人的技术观：凡事发生，皆有利于我》
   - 250210卢克文星球《哪吒2票房登顶，打了谁的脸？》
-  
+
 - 250208：
-  
+
   - 250206生财精华《1年卖了2000多单数字产品，作为普通人的我1.1w字复盘》
   - 250208守夜人总司令问答《私立医院有前景吗，会医疗崩坏吗？》
   - 250208卢克文星球《“争议人物”升官，中国对欧盟政策大转变？》
   - 250208李圆方付费《2025，你“想”怎么赚钱？》
-  
+
 - 250207：
 
   - 250207群分享《关于DeepSeek，你关心的答案都在这了》
