@@ -24,7 +24,7 @@
 
 👍懒人粉丝资源库（表格形式，分类清楚）：https://docs.qq.com/document/DTld0WnVKeFlMdWFC
 
-最新粉丝资源分享访问飞书文档：https://hk57gvlx7u.feishu.cn/docx/W0Dadxptuop5xoxWSsBcayp3nDd
+最新粉丝资源分享访问飞书文档：https://hk57gvlx7u.feishu.cn/docx/GzIKdgqcpoDaAixvUVJct6f9njf
 
 本手册链接作为历史分享备份~
 
