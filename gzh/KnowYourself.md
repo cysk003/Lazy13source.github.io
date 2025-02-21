@@ -14,6 +14,25 @@
 > 点击标题可以跳转原文，微信内打开可查看留言
 
 ## 文章列表
+- [为什么有的人特别清楚自己要什么？坚持自我最重要的是做到这件事](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247890434&idx=1&sn=e6d2f431fa2ab13acd0f35ead3f1bc14&chksm=9fccdf46a8bb56506a9398f9f1a35802b58efc75499b74e63e57187f8887cda30c02bc7b1ba6#rd) |  [备份查看](/gzh/backup/KnowYourself/为什么有的人特别清楚自己要什么？坚持自我最重要的是做到这件事)
+    - 时间：2025-02-20
+    - 摘要：学会将自我独立于他人之外
+- [伴侣间发生这种「逆生长」，就是真爱的证据](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247890393&idx=1&sn=b80c696ff83f6ed22cd21b18f79eae7a&chksm=9fccdc9da8bb558b2c8872c94da46926c16f8455be2ac5eec4f4ffeb44839f5b3b469fa59dbc#rd) |  [备份查看](/gzh/backup/KnowYourself/伴侣间发生这种「逆生长」，就是真爱的证据)
+    - 时间：2025-02-19
+    - 摘要：就藏在你和伴侣的互动里
+- [“休息不是奖励，是生存的权利”｜DeepSeek提醒人类尽早重拾的17个常识](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247890292&idx=1&sn=0c130f4f388ffc4f96a9464a768b212b&chksm=9fccdc30a8bb552684e8a935ca4a672ecfc67d19496ae4afd8a7bc69dc5dde9fed44ac2c072e#rd) |  [备份查看](/gzh/backup/KnowYourself/“休息不是奖励，是生存的权利”｜DeepSeek提醒人类尽早重拾的17个常识)
+    - 时间：2025-02-17
+    - 摘要：事关生存与更好的生活
+- [内心缺乏安全感的人，要如何谈好一段恋爱？](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247890292&idx=5&sn=3a8caf07df8e752a3a3e337f6fe8af50&chksm=9fccdc30a8bb552635403384909e4a0a998f2924f2d2829481cccd5a4f3878e58b89fb1592a4#rd) |  [备份查看](/gzh/backup/KnowYourself/内心缺乏安全感的人，要如何谈好一段恋爱？)
+    - 时间：2025-02-17
+    - 摘要：
+- [这7句话，能让一个人从悲伤走向绝望](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247890149&idx=1&sn=e19acb6ad11bab868c14dee6e327ed84&chksm=9fccdda1a8bb54b70423cb0d760ac6e4dfa50eeac186b726aadab33a2642ee840d8efec0ef18#rd) |  [备份查看](/gzh/backup/KnowYourself/这7句话，能让一个人从悲伤走向绝望)
+    - 时间：2025-02-16
+    - 摘要：对亲密的人不要说
+- [二刷《哪吒2》才发现：直男拍出的友情，就是女生想要的爱情](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247890052&idx=1&sn=d15f006713644015707368a6d83cea7c&chksm=9fccddc0a8bb54d61ebf89c198c376e63d044ec88c9eb48ffeda35598dae11758606e9442d6a#rd) |  [备份查看](/gzh/backup/KnowYourself/二刷《哪吒2》才发现：直男拍出的友情，就是女生想要的爱情)
+    - 时间：2025-02-14
+    - 摘要：嗑 cp 的本质是渴望真正好的关系
+
 - [研究证实：相比兴奋的生活，全球超 7 成人都渴望「平静感」](http://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247889999&idx=1&sn=bf0fc856ed723e001bf6a289611c22b5&chksm=9fccdd0ba8bb541df5802e36f71bdd222e53e90ac80856504c3df7bd3de308d42791fa8c43dc#rd) |  [备份查看](/gzh/backup/KnowYourself/研究证实：相比兴奋的生活，全球超 7 成人都渴望「平静感」)
     - 时间：2025-02-13
     - 摘要：追求平静是一种比追求幸福更合理的野心
